@@ -1,57 +1,37 @@
 # Mechanical Power and the Line-Shaft: Engineering Guide
 
 ## 1. Why This Is Important
-Electric motors are complex, high-vulnerability components. In Aadhiyandham, we decouple "power" from "electricity." By capturing the kinetic energy of falling water or wind and distributing it mechanically, we create a workshop that is visible, repairable, and multi-generational. A single water wheel can power a saw, a lathe, a grain mill, and a bellows simultaneously.
+Mechanical systems depend on stable, consistent torque. Direct drive from a water wheel can be "jerky" due to fluctuating water flow. In Aadhiyandham, we use **Flywheels** (Great Wheels) to store kinetic energy, smoothing out the power for precision tasks like turning or milling.
 
 ## 2. Expected Outcome
-A centralized workshop where mechanical torque is available at multiple workstations, capable of running heavy machinery with zero electrical input.
+A regulated mechanical power source that maintains consistent RPMs, reducing vibration and tool wear.
 
 ---
 
-## 3. How-To: Capturing Power (The Undershot Water Wheel)
-The undershot wheel is the simplest to build and works well in the low-head, high-volume streams found in mountain valleys.
+## 3. How-To: Build a Great Wheel (The Mechanical Battery)
+A large, heavy wheel that stores momentum.
 
 ### Materials Needed
-*   **The Hub:** A salvaged truck axle or a large hardwood log.
-*   **The Spokes/Paddles:** Seasoned oak or hickory.
-*   **Bearings:** Large salvaged ball bearings or hardwood blocks soaked in oil.
+*   **The Rim:** Heavy timber segments or a salvaged large industrial pulley.
+*   **The Weight:** Add stones or lead scraps to the outer rim to increase inertia.
+*   **The Axle:** 2-inch steel shaft.
 
-### Step-by-Step Instructions
-1.  **Site Selection:** Find a point in the stream where the water moves fastest. Build a narrow "Race" (a stone or wood channel) to concentrate the flow.
-2.  **The Wheel:** Build a wheel (2m diameter) with 12-16 paddles. Ensure the paddles are slightly curved to catch more water.
-3.  **The Main Drive:** Connect the hub directly to the **Line-Shaft** entering your workshop. 
-4.  **Lubrication:** Use a 50:50 mix of rendered animal fat (tallow) and pine resin for the hub bearings.
+### Instructions
+1.  Construct a wheel (min. 1.5m diameter) with a heavy outer rim.
+2.  Mount the wheel directly onto the **Line-Shaft** between the water wheel and the first machine station.
+3.  **Balance:** Spin the wheel; if it always stops at the same point, add weight to the opposite side until it is perfectly balanced.
+4.  **Usage:** Once the water wheel starts, the Great Wheel will take several minutes to reach speed, but will then "carry" the system through variations in flow.
 
 ---
 
 ## 4. How-To: The Line-Shaft Distribution System
-This system carries the torque from the water wheel to your individual machines.
-
-### Step-by-Step Instructions
-1.  **Installation:** Mount a long steel shaft (the Line-Shaft) along the ceiling of your workshop using heavy timber hangers.
-2.  **Pulleys:** Mount wooden or iron pulleys onto the shaft above each machine station.
-3.  **The Formula (Speed Management):**
-    *   To slow down: Drive from a small pulley to a large one.
-    *   To speed up: Drive from a large pulley to a small one.
-    *   *Math:* $N_1 \times D_1 = N_2 \times D_2$ (where N=RPM and D=Diameter).
-4.  **Safety (Fast/Loose Pulleys):** 
-    *   Install two pulleys on the machine's drive-axle.
-    *   One is "Fast" (fixed to the axle); one is "Loose" (spins freely).
-    *   To stop the machine, slide the belt onto the Loose pulley. This allows the main shaft to keep turning while the machine stops.
+1.  **Installation:** Mount the shaft along the ceiling using timber hangers.
+2.  **Formula:** $N_1 \times D_1 = N_2 \times D_2$.
+3.  **Safety:** Use Fast and Loose pulleys to disengage individual machines.
 
 ## 5. Visual Illustration (Conceptual)
 
 ```text
-[ WATER WHEEL ]
-      |
-      V
-[ MAIN SHAFT ]================[ PULLEY A ]========[ PULLEY B ]
-                                  |                |
-                                  | (Belt)         | (Belt)
-                                  V                V
-                           [ LATH STATION ]   [ SAW STATION ]
+[ WATER WHEEL ] ---> [ GREAT WHEEL / FLYWHEEL ] ---> [ LINE-SHAFT ]
+                            (Stability)                 (Distribution)
 ```
-
-## 6. Maintenance Guide
-*   **Belt Tension:** Use leather or woven hemp belts. Apply pine resin (rosin) to the belts if they start to slip.
-*   **Shaft Alignment:** Periodically check that the hangers are level. A bent shaft will consume 30% more energy through friction.
