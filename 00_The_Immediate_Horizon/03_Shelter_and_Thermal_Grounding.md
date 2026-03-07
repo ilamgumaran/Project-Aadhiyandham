@@ -80,3 +80,10 @@ WATTLE & DAUB [Detail]           RAMMED EARTH [Detail]
 ## 6. Maintenance Guide
 *   **Roof Overhangs:** The single most important maintenance step is a wide roof overhang. "A good hat and good boots" (a dry top and a dry base) will allow an earthen wall to last for centuries.
 *   **Surface Cracks:** Fill any minor drying cracks with a simple clay-lime wash annually.
+
+## 7. Vocabulary of the Foundation
+*   **Homeostasis:** The stable state of the human body (approx. 37°C) required for survival. Shelter protects this state.
+*   **Thermal Mass:** The ability of a heavy material (like earth or stone) to store heat energy and release it slowly.
+*   **Thermal Lag:** The delay in time it takes for heat to travel from the outside of a thick wall to the inside (target is 10–12 hours).
+*   **R-Value:** A measure of a material's resistance to heat flow (high R-value = better insulation).
+*   **Hygroscopic:** The ability of materials like clay and wood to absorb and release moisture from the air, regulating indoor humidity naturally.

@@ -45,3 +45,9 @@ Before mixing Biochar and Compost, you must remove large rocks and debris from y
   /  COALS      \
  /_______________\ <--- Pyrolysis zone
 ```
+
+## 7. Vocabulary of the Foundation
+*   **Pyrolysis:** The process of breaking down organic material (biomass) using high heat in an environment with almost no oxygen. This produces biochar instead of ash.
+*   **Cation Exchange Capacity (CEC):** A measure of the soil's "battery life"—its ability to hold onto and release essential nutrients to plant roots. Biochar massively increases CEC.
+*   **Mycorrhizal Fungi:** Beneficial fungi that live in the pores of the biochar and form a symbiotic network with plant roots, helping them find water and minerals.
+*   **Humus:** The stable, dark organic matter in soil that has reached a point where it can no longer be broken down easily.

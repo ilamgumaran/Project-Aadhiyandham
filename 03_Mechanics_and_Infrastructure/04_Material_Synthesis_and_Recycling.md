@@ -62,7 +62,14 @@ The production of a 2-5kg "Bloom" of wrought iron that you can hammer into tools
       |_________|
       [ TAP HOLE ] <--- Trash (Slag) drains here
 ```
-
 ## 6. Maintenance Guide
 *   **The First Tool:** Use your first bloom to make a better hammer and tongs.
 *   **Repair:** You can patch the clay walls after every burn to make the furnace last longer.
+
+## 7. Vocabulary of the Foundation
+*   **Tuyere:** (pronounced *tweer*) The pipe that carries the air blast into the furnace. It is the most high-stress part of the system.
+*   **Slag:** The glassy waste material that separates from the iron during smelting. It contains impurities from the ore and the furnace walls.
+*   **Shingling:** The process of hammering a hot iron bloom to squeeze out liquid slag and consolidate the iron into a solid bar.
+*   **Reduction:** The chemical process inside the furnace where carbon monoxide from the charcoal "steals" the oxygen from the iron ore, leaving behind pure metal.
+*   **Refractory:** Materials (like specific clays) that can withstand extremely high temperatures without melting or cracking.
+

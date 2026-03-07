@@ -57,3 +57,14 @@ PREVAILING WINDS ----->
 +~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~+
   SEA LEVEL (Target Elevation > 100m)
 ```
+
+## 6. Maintenance of the Land
+*   **Terracing:** On slopes over 5%, build stone or timber terraces to prevent soil loss (Module 02).
+*   **Windbreaks:** Plant dense, multi-layered "Living Walls" of trees on the edges of your thermal belt to further dissipate wind energy.
+
+## 7. Vocabulary of the Foundation
+*   **Orography:** The branch of physical geography dealing with mountains and their impact on weather (e.g., orographic lift causing rain on one side and a rain shadow on the other).
+*   **Leeward:** The side of a mountain or ridge protected from the wind (the "shadow").
+*   **Windward:** The side facing directly into the prevailing wind (the "shield").
+*   **Thermal Inversion:** The phenomenon where warm air rises and becomes trapped above a layer of colder air in a valley, creating the **Thermal Belt**.
+*   **ASL:** Above Sea Level.

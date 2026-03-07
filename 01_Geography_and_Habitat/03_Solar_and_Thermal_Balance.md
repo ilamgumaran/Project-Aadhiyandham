@@ -53,3 +53,16 @@ To orient buildings correctly, you must find True South (or North), not Magnetic
                  |      [ MASS ] |       (Catches low winter sun)
                  |_______________|
 ```
+
+## 6. Maintenance of the Balance
+*   **Glazing:** Keep windows clean of dust and soot to maximize lux penetration.
+*   **Pruning:** Periodically thin the trees to the Equator-side of the settlement to ensure the "Solar Obstruction Line" does not rise over time.
+
+## 7. Vocabulary of the Foundation
+*   **Passive Solar Design:** Building design that uses the sun's energy for heating and cooling without active mechanical systems.
+*   **Lux:** A measure of the intensity of light as perceived by the human eye. 2,500 lux is the minimum required for a biological reset.
+*   **Solstice:** The two times of year (Winter and Summer) when the sun reaches its highest or lowest point in the sky at noon.
+*   **Equinox:** The two times of year when day and night are of equal length.
+*   **Diurnal Swing:** The difference between the highest and lowest temperature in a single 24-hour period.
+扫
+扫

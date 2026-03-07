@@ -69,3 +69,10 @@ Add materials in this order (Bottom to Top):
 ## 6. Maintenance Guide
 *   **Keep it Flowing:** If the water stops for more than a few hours, the "Living Scum" will suffocate and die.
 *   **The Scrape:** If the water starts coming out too slow, scrape off the very top layer of scum/sand (just the top 2cm). It will grow back in a few days.
+
+## 7. Vocabulary of the Foundation
+To communicate accurately with other researchers, learn these technical terms:
+*   **Schmutzdecke:** (German for "dirt layer") The complex biological film of bacteria, fungi, and algae that does the actual work of eating pathogens in the filter.
+*   **Adsorption:** The process by which the **Biochar** attracts and holds onto chemical toxins and odors on its surface (different from *absorption*, which is like a sponge soaking up water).
+*   **Pathogen:** Any microscopic organism (bacteria, virus, or parasite) that causes disease in humans.
+*   **Manifold:** The system of pipes at the bottom that collects water evenly from across the entire bed.
