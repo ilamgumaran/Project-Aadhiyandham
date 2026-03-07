@@ -6,11 +6,11 @@ The "Immediate Horizon" is the most volatile phase of Project Aadhiyandham. Upon
 
 ### 1. Bio-Security (Water)
 **Importance:** Pathogens are the fastest way to end a settlement before it begins. 
-**Rationale:** Relying on boiling water alone is energy-intensive and prone to failure if fuel is scarce. The Slow Sand Filter (SSF) provides a reliable, high-volume biological barrier that protects the group’s health with minimal daily effort.
+**Rationale:** The human body is 60% water; every metabolic process, from digestion to brain function, depends on hydration. In a disaster scenario, local water sources are often contaminated with bacteria (E. coli, Cholera) or parasites. If a settler becomes ill with water-borne disease, they lose critical fluids, leading to rapid physical collapse and the inability to work. The Slow Sand Filter (SSF) provides a reliable, high-volume biological barrier that protects the group’s internal health with minimal daily effort.
 
 ### 2. Thermal Grounding (Shelter)
 **Importance:** Exposure and sleep deprivation lead to cognitive decline and poor decision-making.
-**Rationale:** We use local materials like wattle and daub or rammed earth because they do not require a supply chain. By establishing thermal stability immediately, we lower the biological stress on the settlers, allowing them to focus on Phase II (Sustenance).
+**Rationale:** Human health depends on **Homeostasis**—the body's ability to maintain a stable internal temperature of 37°C. Continuous exposure to wind, rain, or extreme cold forces the body to burn through caloric reserves just to stay alive, leading to immune suppression. Furthermore, safe shelter is the foundation of **Trauma Recovery**. The "Centered Null" state cannot be achieved while the body is in a state of high-alert due to exposure. By establishing thermal stability immediately, we lower the biological and psychological stress on the settlers, allowing them to focus on Phase II (Sustenance).
 
 ### 3. Immediate Nutrition (The Scavenge)
 **Importance:** Caloric deficit leads to panic and physical weakness.
