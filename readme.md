@@ -31,6 +31,9 @@ To design a blueprint for re-establishing a functional, sustainable civilization
 ### Phase VI: Departure (The Journey)
 10. **[09_Logistics_and_Transit/](09_Logistics_and_Transit/):** Practical guide for reaching the refugia network from Georgia, USA via land, sea, and air.
 
+### Phase VII: Universal Education (The Next Generation)
+11. **[10_Universal_Education/](10_Universal_Education/):** Bilingual (English/Tamil) foundational education in mathematics, science, and philosophy.
+
 ---
 
 ## Methodology
