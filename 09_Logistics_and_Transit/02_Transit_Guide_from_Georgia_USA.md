@@ -1,56 +1,51 @@
-# Transit Guide from Georgia, USA
+# Transit Guide: The Last Mile Strategy
 
-This guide details how to reach the Aadhiyandham refugia network starting from the Georgia (ATL/SAV) hubs.
+## 1. Why This Is Important
+Reaching a major international port or domestic airport is only the first stage of the journey. Most Aadhiyandham refugia are located in high-elevation, mountain-buffered "pockets" that are intentionally difficult to reach by standard vehicle. This module provides the logic for the "Last Mile"—the transition from global transport to local, resilient mobility.
 
----
-
-## 1. Domestic Refugia (USA / Canada)
-*Targets: Sequatchie (TN), Pine Mountain (GA), Ozark (MO), Willamette (OR), Olympic (WA).*
-
-### 1.1. Land Transit (Primary)
-*   **To Sequatchie Valley, TN:** I-75 North to Chattanooga -> Hwy 27 North. (2.5 hours from Atlanta).
-*   **To Pine Mountain, GA:** I-85 South -> US-27 South. (1.5 hours from Atlanta).
-*   **To Ozark Plateau, MO:** I-24 West -> I-57 North -> I-44 West.
-*   **To PNW (WA/OR):** I-75 North -> I-24 West -> I-64 West -> I-80 West -> I-84 West. (Approx. 40 hours drive).
-
-### 1.2. Air Transit
-*   Direct flights from **ATL** to Chattanooga (CHA), St. Louis (STL), Portland (PDX), and Seattle (SEA).
+## 2. Expected Outcome
+The successful transition of people and supplies from a high-risk maritime or urban hub to the long-term safety of the 100m-300m protected benches.
 
 ---
 
-## 2. European Refugia
-*Targets: Vipava (Slovenia), South Tyrol (Italy), Ebro/Andalusia (Spain), Rhône (France).*
+## 3. How-To: The Port-to-Foothill Transition (Step-by-Step)
 
-### 2.1. Air Transit (Primary)
-*   **ATL -> Venice (VCE):** Closest hub for Vipava Valley and South Tyrol.
-*   **ATL -> Madrid (MAD) / Barcelona (BCN):** Hubs for Ebro and Andalusian foothills.
-*   **ATL -> Paris (CDG) -> Marseille (MRS):** Hub for Rhône benches.
+### Step 1: Secure the Primary Mover
+Upon arrival at the Port of Arrival (e.g., Haiphong, Valencia, or Lyttelton):
+1.  **Animal Power:** Prioritize the acquisition of **Mules or Oxen** (Module 02). They are the only movers that do not depend on fuel or paved roads.
+2.  **Mechanical Power:** If animals are unavailable, utilize **Cargo Trikes** (Module 03). Ensure you have spare resin and fiber for joint repairs during the climb.
 
-### 2.2. Sea Transit (Secondary)
-*   **Departure:** Port of Savannah (SAV).
-*   **Route:** Atlantic Crossing -> Strait of Gibraltar -> Mediterranean Sea.
-*   **Ports of Arrival:** Valencia (Spain), Marseille (France), Trieste (Italy/Slovenia).
+### Step 2: The "Up-Stream" Navigation
+Most refugia sit in the headwaters of river systems.
+1.  Identify the major river flowing through the valley.
+2.  Follow the river inland until the valley begins to narrow.
+3.  **The Benchmark:** Use your GPS coordinates to identify when you have reached the **100m elevation line**.
 
----
-
-## 3. Asian & Oceanian Refugia
-*Targets: Pakke (India), Bac Son (Vietnam), Japanese Alps, Huon Valley (Tasmania), NZ South Island.*
-
-### 3.1. Air Transit (Primary)
-*   **ATL -> Tokyo (HND):** Direct access to Japanese Alps.
-*   **ATL -> Seoul (ICN):** Access to South-Central Korean valleys.
-*   **ATL -> Delhi (DEL) / Kolkata (CCU):** Access to Pakke Foothills.
-*   **ATL -> Sydney (SYD) -> Hobart (HBA):** Access to Huon Valley and Central Highlands.
-
-### 3.2. Sea Transit
-*   **Departure:** Port of Savannah (SAV).
-*   **Route:** Panama Canal Crossing -> Pacific Ocean Transit.
-*   **Ports of Arrival:** Haiphong (Vietnam), Brisbane (Australia), Lyttelton (NZ).
+### Step 3: Entering the "Shadow"
+1.  Identify the highest ridge to the North or West.
+2.  Move toward the **Leeward slope** (the side facing away from the prevailing wind).
+3.  **Validation:** Once you observe upright, healthy vegetation and a noticeable reduction in wind speed, you have entered the "Refugia Zone."
 
 ---
 
-## 4. The "Last Mile" Strategy
-Once you reach the international port or domestic airport:
-1.  **Stage 1:** Secure local animal-powered transport (Mules/Horses) or high-capacity bicycles (Module 03).
-2.  **Stage 2:** Follow the gravity-fed water systems upstream from the valley floor to the protected 100m-300m benches.
-3.  **Stage 3:** Utilize the GPS coordinates provided in the `candidate_locations/` archive for final site pinpointing.
+## 4. Visual Illustration (The Approach)
+
+```text
+[ THE LAST MILE ]
+      
+      (1) ARRIVAL (PORT/HUB)
+            |
+      (2) ACQUIRE MULE / TRIKE
+            |
+      (3) FOLLOW RIVER UPSTREAM
+            |
+      (4) REACH 100m CONTOUR
+            |
+      (5) IDENTIFY WIND SHADOW
+            |
+      (6) ESTABLISH PHASE 0 (Arrival)
+```
+
+## 5. Maintenance of the Route
+*   **Caches:** If moving a large group, establish a supply cache at the 50m elevation mark. This allows for a "light" final climb to the primary settlement site.
+*   **Path Marking:** Use non-obvious markers (e.g., specific stone stacks) to guide subsequent families without revealing the location to scavengers.
