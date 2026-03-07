@@ -28,6 +28,9 @@ To design a blueprint for re-establishing a functional, sustainable civilization
 ### Phase V: Expression (The Civilization)
 9.  **[08_Culture_and_Synthesis/](08_Culture_and_Synthesis/):** The evolution into a thriving society focusing on optical glassmaking, crucible steel, and biomimetic art.
 
+### Phase VI: Departure (The Journey)
+10. **[09_Logistics_and_Transit/](09_Logistics_and_Transit/):** Practical guide for reaching the refugia network from Georgia, USA via land, sea, and air.
+
 ---
 
 ## Methodology
