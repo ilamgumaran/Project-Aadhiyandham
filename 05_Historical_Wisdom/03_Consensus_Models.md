@@ -1,62 +1,32 @@
 # Models of Consensus Governance: Facilitation Guide
 
 ## 1. Why This Is Important
-Hierarchies create single points of failure and breed resentment. Majority rule (voting) creates "winners and losers," which fractures small, isolated communities. **Consensus** is a process where a decision is built together until everyone can "live with it." It ensures that no one is left behind and that the group’s collective wisdom is maximized.
+Hierarchies create single points of failure. Majority rule creates fractures. **Consensus** is a process where a decision is built together.
 
 ## 2. Expected Outcome
-Decisions that are stable, respected by all members, and grounded in evidence rather than ego.
+Decisions grounded in collective wisdom and evidence rather than ego.
 
 ---
 
-## 3. How-To: Facilitate a Consensus Meeting (Step-by-Step)
+## 3. How-To: Craft a Talking Stick (The Process Tool)
+The Talking Stick is the physical anchor of the consensus circle. It signifies the right to be heard without interruption.
 
-### Step 1: The Circle
-Gather in a circle. There is no "head" of the table. Use a **Talking Stick**—only the person holding the stick may speak. This prevents the "loudest voice" from dominating the room.
+### Materials Needed
+*   **The Branch:** A straight piece of local hardwood (approx. 30cm).
+*   **Carving Tools:** A fine chisel or knife (Module 03).
+*   **Natural Pigments:** Ochre or charcoal (Module 08).
 
-### Step 2: The Proposal
-State the issue clearly. 
-*   *Example:* "We propose to move the main garden to the southern bench to increase solar gain."
-
-### Step 3: Clarifying Questions
-Members ask questions only to *understand* the proposal, not to argue against it. 
-*   *Example:* "How will we move water to that height?"
-
-### Step 4: The "Temperature" Check (Thumbs)
-Before deep debate, do a quick check:
-*   **Thumb Up:** I support this.
-*   **Thumb Sideways:** I have concerns but can live with it.
-*   **Thumb Down:** I BLOCK this (only for critical safety or principle violations).
-
-### Step 5: Building the Solution
-Focus only on the "Sideways" and "Down" thumbs.
-1.  Listen to the concern.
-2.  Ask the group: "How can we modify the proposal to address this concern?"
-3.  Modify the proposal and repeat Step 4.
-
-### Step 6: Consensing
-Once all "Block" thumbs are resolved, the decision is reached. Even if not everyone's first choice, everyone has agreed to support its implementation.
+### Instructions
+1.  Select a branch from a tree that represents "Wisdom" or "Resilience" in the local ecology (e.g., Oak or Cedar).
+2.  Peel the bark and sand the wood smooth.
+3.  **The Symbolism:** Carve patterns that represent the "Centered Null" or the "Cycle of Reason."
+4.  **Usage:** In a meeting, only the holder of the stick may speak. When finished, they pass it to the person on their left. This regulates the pace of communication and prevents emotional hijacking of the discussion.
 
 ---
 
-## 4. Visual Illustration (Conceptual)
-
-```text
-[ THE CONSENSUS FLOW ]
-      
-      PROPOSAL
-         |
-    CLARIFICATION
-         |
-    Concerns? (NO) ---> CONSENSUS REACHED
-         |
-       (YES)
-         |
-    MODIFICATION <--- Built by the whole group
-         |
-    (Back to Concerns)
-```
-
-## 5. Roles
-*   **The Facilitator:** Not a leader, but a "servant of the process." They ensure everyone follows the rules of the circle.
-*   **The Scribe:** Documents the final consensus in the "Chronicle of Reason."
-*   **The Timekeeper:** Ensures the discussion does not loop indefinitely.
+## 4. How-To: Facilitate a Consensus Meeting
+1.  **The Circle:** Gather without a "head" of the table.
+2.  **The Proposal:** State the objective clearly.
+3.  **The Temperature Check:** Use Thumbs (Up/Side/Down) to gauge support.
+4.  **The Modification:** Integrate "Side" and "Down" concerns into a revised proposal.
+5.  **Role of the Scribe:** Document the decision in the "Chronicle of Reason."

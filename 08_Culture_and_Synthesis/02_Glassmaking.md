@@ -1,54 +1,37 @@
 # Advanced Synthesis: Glassmaking Guide
 
 ## 1. Why This Is Important
-Clear glass is the gateway to advanced curiosity. Without lenses, we cannot see pathogens (microscopes) or stars (telescopes). Without chemical glassware, we cannot safely distill medicines or analyze minerals. Mastering glass synthesis from local sand and ash transforms the settlement from a survival camp into a scientific civilization.
+Clear glass enables microbiology and chemical analysis. Mastering synthesis from sand and ash transforms the settlement into a scientific civilization.
 
 ## 2. Expected Outcome
-The production of clear, stable silicate glass capable of being blown into vessels or cast into optical blanks.
+Production of clear, stable silicate glass for blow-molding or optical casting.
 
 ---
 
-## 3. How-To: Preparing the Glass Batch (Step-by-Step)
+## 3. How-To: Build Double-Lung Bellows (The Heat Driver)
+To reach 1300°C, you need a continuous, high-volume air blast. Standard single bellows create a "pulsing" heat that allows the crucible to cool between pumps.
 
-### Step 1: The Silica (Sand)
-1.  Source pure white quartz sand.
-2.  **Wash:** Rinse multiple times to remove organic impurities.
-3.  **Grind:** If the sand is coarse, grind it to a fine powder using a stone mill.
+### Materials Needed
+*   **Chambers:** Two large wooden boxes or leather bags.
+*   **Valves:** Flaps of leather weighted with wood.
+*   **The Y-Pipe:** A ceramic or metal manifold that joins the two air streams.
 
-### Step 2: The Flux (Potash)
-1.  **Leach:** Burn hardwood (oak/willow) to ash. Soak the ash in water for 24 hours.
-2.  **Evaporate:** Strain the water and boil it down until a white crust (Potash) remains.
-3.  **Rationale:** Potash lowers the melting point of sand from 1700°C to approx. 1200°C.
-
-### Step 3: The Stabilizer (Lime)
-1.  Crush limestone or eggshells into a fine powder.
-2.  **Rationale:** Without lime, the glass will be water-soluble and will eventually dissolve.
+### Instructions
+1.  Assemble two independent bellows units.
+2.  **The Timing:** Connect them to a single handle so that as one bag is squeezed, the other is filling. 
+3.  **The Result:** A constant, uninterrupted stream of air into the furnace.
+4.  **Usage:** Required for both the **Glass Pot Furnace** and the **Crucible Steel Forge**.
 
 ---
 
-## 4. How-To: Operating the Pot Furnace
+## 4. How-To: Preparing the Glass Batch
+*   **3 Parts Sand:** Pure white quartz sand.
+*   **1 Part Potash:** Leached from hardwood ash.
+*   **0.5 Parts Lime:** Crushed limestone.
 
-### Step 1: Charging the Pot
-Place the batch (3 parts Sand : 1 part Potash : 0.5 parts Lime) into a high-alumina clay crucible.
+---
 
-### Step 2: The Melt
-1.  Start the furnace using charcoal.
-2.  **The Blast:** Use double-lung bellows to maintain a continuous, high-volume air stream.
-3.  **Time:** Maintain 1200°C–1300°C for 12–24 hours until the mixture becomes a clear, honey-like liquid.
-
-### Step 3: Annealing (The Critical Step)
-**CRITICAL:** Glass will shatter if cooled too fast. Move the finished glass to an **Annealing Lehr** (a secondary, cooler oven at 500°C) and allow it to cool to room temperature over 24 hours.
-
-## 5. Visual Illustration (Conceptual)
-
-```text
-[ THE GLASS KILN ]
-      _______
-     /       \  <--- EXHAUST
-    |  [POT]  | <--- Batch inside crucible
-    |   ~~~   |
-    |  LIQUID |
-    |_________|
-    /         \
-   [ BELLOWS ]  <--- Continuous Air Intake
-```
+## 5. How-To: Operating the Pot Furnace
+1.  **Charge:** Place batch in crucible.
+2.  **Blast:** Maintain 1300°C using Double-Lung bellows.
+3.  **Anneal:** Cool slowly over 24 hours in a secondary oven.
