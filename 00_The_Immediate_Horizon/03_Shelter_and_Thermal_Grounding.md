@@ -24,9 +24,24 @@ A habitable structure that maintains a stable internal temperature (approx. 18°
 | **Sturdy Timber** | The Formwork | Large planks or salvaged plywood to hold the soil during ramming. |
 | **Hand Rammer** | Compaction | A heavy weight (flat stone or wood block) on a long handle. |
 
----
+## 4. How-To: Measuring Temperature Without Tools
+In the absence of a thermometer, settlers must use the **Body-Environment Calibration** method to ensure the shelter maintains homeostasis.
 
-## 4. Assembly Instructions (Step-by-Step)
+### 4.1. Biological Indicators (The Sentinel Plants)
+*   **The Wilt Test:** Certain leafy plants (like broad-leaf weeds) will wilt significantly at temperatures above 35°C. 
+*   **The Morning Frost:** If ice crystals form on indoor surfaces, the temperature has dropped below 0°C (Freezing).
+
+### 4.2. Physical Phase Transitions (Material Calibration)
+Use natural materials with known "tipping points" to monitor shelter stability:
+1.  **Water (0°C):** Keep a small bowl of water in the sleeping quarters. If a thin film of ice forms, the shelter is failing its thermal grounding duty.
+2.  **Beeswax (32°C - 35°C):** Beeswax begins to soften and become pliable at the upper limit of human thermal comfort. If a wax ball becomes "sticky," ventilation must be increased.
+3.  **Tallow (Animal Fat) (35°C - 40°C):** Rendered fat will begin to melt. This is a "Red Flag" indicator for extreme heat stress.
+
+### 4.3. The "Comfort Breath" Test
+*   **Action:** Take a deep breath through the nose.
+*   **Indicator:** If the air feels "sharp" or "prickly" in the nostrils, the temperature is likely below 10°C. If the breath feels "heavy" or "slick," humidity and heat are too high.
+
+## 5. Visual Illustration (Conceptual)
 
 ### How-To: Wattle and Daub (The "Living" Wall)
 1.  **Frame:** Drive vertical poles into the ground (or attach to a timber frame) every 30-50cm.
