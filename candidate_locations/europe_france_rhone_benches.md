@@ -3,6 +3,7 @@
 ## Location Overview
 *   **Name:** Lower Rhône Valley Benches (Galets Roulés Terraces)
 *   **Coordinates/Region:** Southern Rhône (Vaucluse / Drôme), France
+*   **GPS Coordinates:** 44.9333° N, 4.8917° E
 *   **Base Elevation:** ~100m - 250m
 *   **Primary Biome:** Mediterranean Sclerophyllous Forest / Scrub
 

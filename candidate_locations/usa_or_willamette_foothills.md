@@ -3,6 +3,7 @@
 ## Location Overview
 *   **Name:** Willamette Foothills (Jory Soil Belt)
 *   **Coordinates/Region:** Willamette Valley periphery (Yamhill, Polk, and Marion counties), Oregon
+*   **GPS Coordinates:** 44.9429° N, 123.0351° W
 *   **Base Elevation:** ~100m - 300m (Foothills)
 *   **Primary Biome:** Temperate Broadleaf and Mixed Forest
 

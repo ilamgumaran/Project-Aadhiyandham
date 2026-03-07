@@ -3,6 +3,7 @@
 ## Location Overview
 *   **Name:** Santa Catarina Foothills (Encostas da Serra Geral)
 *   **Coordinates/Region:** Southern Brazil (Santa Rosa de Lima / Rancho Queimado)
+*   **GPS Coordinates:** -27.3300° S, 49.4400° W
 *   **Base Elevation:** ~200m - 300m
 *   **Primary Biome:** Atlantic Forest (Mata Atlântica)
 

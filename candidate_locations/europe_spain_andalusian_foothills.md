@@ -3,6 +3,7 @@
 ## Location Overview
 *   **Name:** Sierra Nevada Foothills (The Alpujarras)
 *   **Coordinates/Region:** Andalusia, Spain (Granada / Almería)
+*   **GPS Coordinates:** 36.9976° N, 3.1780° W
 *   **Base Elevation:** ~200m - 500m (Lower slopes) - *Note: Alpujarras reach higher.*
 *   **Primary Biome:** Mediterranean Woodland / Montane Shrubland
 

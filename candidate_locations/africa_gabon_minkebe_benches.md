@@ -3,6 +3,7 @@
 ## Location Overview
 *   **Name:** Minkébé Forest Gallery Benches
 *   **Coordinates/Region:** Northeast Gabon (Woleu-Ntem Province)
+*   **GPS Coordinates:** 1.6798° N, 12.7595° E
 *   **Base Elevation:** ~300m - 500m
 *   **Primary Biome:** Primary Tropical Rainforest
 

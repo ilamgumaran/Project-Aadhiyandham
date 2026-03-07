@@ -3,6 +3,7 @@
 ## Location Overview
 *   **Name:** Sequatchie Valley
 *   **Coordinates/Region:** Southeastern Tennessee (Marion, Sequatchie, and Bledsoe counties)
+*   **GPS Coordinates:** 35.1217° N, 85.5240° W
 *   **Base Elevation:** ~180m - 250m (600 - 800 ft)
 *   **Primary Biome:** Temperate Broadleaf and Mixed Forest (Mixed Mesophytic)
 

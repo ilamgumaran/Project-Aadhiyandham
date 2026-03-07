@@ -3,6 +3,7 @@
 ## Location Overview
 *   **Name:** Fouta Djallon Terraces
 *   **Coordinates/Region:** Central Guinea (Labé / Dalaba)
+*   **GPS Coordinates:** 11.3172° N, 12.2872° W
 *   **Base Elevation:** ~300m (Lower valleys and terraces) - *Note: Plateau reaches 1,500m.*
 *   **Primary Biome:** Guinean Forest-Savanna Mosaic
 

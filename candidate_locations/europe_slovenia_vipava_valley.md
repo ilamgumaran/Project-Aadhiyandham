@@ -3,6 +3,7 @@
 ## Location Overview
 *   **Name:** Vipava Valley
 *   **Coordinates/Region:** Western Slovenia (Primorska region)
+*   **GPS Coordinates:** 45.8750° N, 13.9000° E
 *   **Base Elevation:** ~100m - 300m (Slopes and Benches)
 *   **Primary Biome:** Sub-Mediterranean / Temperate Mixed Forest
 

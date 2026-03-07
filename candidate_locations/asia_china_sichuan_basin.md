@@ -3,6 +3,7 @@
 ## Location Overview
 *   **Name:** Sichuan Basin (Peripheral Hills/Benches)
 *   **Coordinates/Region:** Southwest China (Sichuan Province)
+*   **GPS Coordinates:** 30.5000° N, 105.5000° E
 *   **Base Elevation:** ~250m - 500m
 *   **Primary Biome:** Humid Subtropical Forest
 

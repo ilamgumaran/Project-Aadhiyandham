@@ -3,6 +3,7 @@
 ## Location Overview
 *   **Name:** Serra da Estrela Foothills (The "Water Castle")
 *   **Coordinates/Region:** Central Portugal (Beira region)
+*   **GPS Coordinates:** 40.3219° N, 7.6130° W
 *   **Base Elevation:** ~200m - 400m
 *   **Primary Biome:** Mediterranean / Sub-Alpine transition
 

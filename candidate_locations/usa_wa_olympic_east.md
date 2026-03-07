@@ -3,6 +3,7 @@
 ## Location Overview
 *   **Name:** Olympic Peninsula (East Side / Sequim-Dungeness Valley)
 *   **Coordinates/Region:** Clallam and Jefferson counties, Washington State
+*   **GPS Coordinates:** 48.0795° N, 123.1018° W
 *   **Base Elevation:** ~10m - 100m (Valley floor) to 300m (Foothills)
 *   **Primary Biome:** Douglas Fir Forest / Garry Oak Prairie (Rain Shadow)
 

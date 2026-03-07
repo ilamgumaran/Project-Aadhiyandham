@@ -3,6 +3,7 @@
 ## Location Overview
 *   **Name:** Maule Valley
 *   **Coordinates/Region:** Central Chile (Maule Region)
+*   **GPS Coordinates:** -35.4227° S, 71.6697° W
 *   **Base Elevation:** ~200m - 300m
 *   **Primary Biome:** Mediterranean / Temperate Woodland
 

@@ -3,6 +3,7 @@
 ## Location Overview
 *   **Name:** Danube Bend (Visegrád Mountains / Pilis Foothills)
 *   **Coordinates/Region:** Central Hungary (Pest / Komárom-Esztergom counties)
+*   **GPS Coordinates:** 47.7992° N, 19.0917° E
 *   **Base Elevation:** ~100m - 300m
 *   **Primary Biome:** Temperate Deciduous Forest
 

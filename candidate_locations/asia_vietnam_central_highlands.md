@@ -3,6 +3,7 @@
 ## Location Overview
 *   **Name:** Central Highlands Lower Benches (Dak Lak / Kon Tum)
 *   **Coordinates/Region:** Tây Nguyên region, Vietnam
+*   **GPS Coordinates:** 13.5000° N, 108.0000° E
 *   **Base Elevation:** ~400m - 600m - *Note: High-altitude exception.*
 *   **Primary Biome:** Tropical Lowland / Montane Forest transition
 

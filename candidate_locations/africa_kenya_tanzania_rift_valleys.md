@@ -3,6 +3,7 @@
 ## Location Overview
 *   **Name:** Rift Valley Lower Terraces (Suswa / Naivasha periphery)
 *   **Coordinates/Region:** Great Rift Valley, Kenya / Tanzania
+*   **GPS Coordinates:** 0.7678° S, 36.3504° E
 *   **Base Elevation:** ~1,000m - 1,800m - *Note: High-altitude exception.*
 *   **Primary Biome:** Montane Savanna / Volcanic Shrubland
 

@@ -3,6 +3,7 @@
 ## Location Overview
 *   **Name:** Kakheti Foothills (Alazani Valley)
 *   **Coordinates/Region:** Eastern Georgia (Caucasus)
+*   **GPS Coordinates:** 41.7500° N, 45.7167° E
 *   **Base Elevation:** ~250m - 500m
 *   **Primary Biome:** Temperate Deciduous Forest / Steppe
 

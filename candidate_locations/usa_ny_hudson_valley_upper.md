@@ -3,6 +3,7 @@
 ## Location Overview
 *   **Name:** Upper Hudson Valley (Catskill / Taconic Foothills)
 *   **Coordinates/Region:** Hudson Valley, New York (Dutchess, Columbia, and Ulster counties)
+*   **GPS Coordinates:** 41.5261° N, 74.1343° W
 *   **Base Elevation:** ~100m - 300m (Foothills)
 *   **Primary Biome:** Temperate Broadleaf Forest
 

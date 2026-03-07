@@ -3,6 +3,7 @@
 ## Location Overview
 *   **Name:** Bay of Plenty Foothills (Kaimai / Mamaku Range Periphery)
 *   **Coordinates/Region:** North Island, New Zealand (Tauranga / Te Puke)
+*   **GPS Coordinates:** 38.20° S, 176.90° E
 *   **Base Elevation:** ~50m - 200m (Benches and Terraces)
 *   **Primary Biome:** Temperate Rainforest / Volcanic Scrub
 

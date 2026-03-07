@@ -3,6 +3,7 @@
 ## Location Overview
 *   **Name:** Central Anatolian Valleys (Konya / Cappadocia Periphery)
 *   **Coordinates/Region:** Central Anatolia, Turkey
+*   **GPS Coordinates:** 39.0000° N, 33.0000° E
 *   **Base Elevation:** ~300m (Lowest benches/valleys) - *Note: Average plateau is higher.*
 *   **Primary Biome:** Temperate Steppe / Volcanic Woodland
 

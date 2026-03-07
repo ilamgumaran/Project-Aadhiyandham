@@ -3,6 +3,7 @@
 ## Location Overview
 *   **Name:** Lower Shenandoah Valley (Augusta / Rockbridge)
 *   **Coordinates/Region:** Western Virginia, USA
+*   **GPS Coordinates:** 38.4833° N, 78.8500° W
 *   **Base Elevation:** ~150m - 300m
 *   **Primary Biome:** Temperate Deciduous Forest
 

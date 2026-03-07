@@ -3,6 +3,7 @@
 ## Location Overview
 *   **Name:** San Juan Islands (Low Benches)
 *   **Coordinates/Region:** Salish Sea, Washington State, USA
+*   **GPS Coordinates:** 48.5300° N, 123.0200° W
 *   **Base Elevation:** ~10m - 100m (Benches) to 700m (Peaks)
 *   **Primary Biome:** Coastal Douglas Fir / Garry Oak Savanna
 

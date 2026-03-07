@@ -3,6 +3,7 @@
 ## Location Overview
 *   **Name:** Udzungwa Foothills (Kilombero Valley Periphery)
 *   **Coordinates/Region:** South-Central Tanzania
+*   **GPS Coordinates:** 7.8000° S, 36.6833° E
 *   **Base Elevation:** ~200m - 300m
 *   **Primary Biome:** Tropical Rainforest / Wetland transition
 

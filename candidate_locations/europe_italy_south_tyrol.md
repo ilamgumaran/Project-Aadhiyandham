@@ -3,6 +3,7 @@
 ## Location Overview
 *   **Name:** South Tyrol (Alto Adige) Low Slopes
 *   **Coordinates/Region:** Northern Italy (Adige and Venosta Valleys)
+*   **GPS Coordinates:** 46.6722° N, 11.1594° E
 *   **Base Elevation:** ~200m - 400m (Valley benches)
 *   **Primary Biome:** Alpine / Sub-Mediterranean Transition
 

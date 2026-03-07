@@ -3,6 +3,7 @@
 ## Location Overview
 *   **Name:** Ebro Valley (Pre-Pyrenees Terraces)
 *   **Coordinates/Region:** Aragon / Navarre, Spain
+*   **GPS Coordinates:** 41.6561° N, 0.8773° W
 *   **Base Elevation:** ~200m - 300m
 *   **Primary Biome:** Mediterranean Sclerophyllous Forest / Steppe
 

@@ -3,6 +3,7 @@
 ## Location Overview
 *   **Name:** Cochabamba Valley (Lower Terraces)
 *   **Coordinates/Region:** Cochabamba Department, Bolivia
+*   **GPS Coordinates:** -17.3895° S, 66.1568° W
 *   **Base Elevation:** ~2,500m (Basin Floor) - *Note: High-altitude exception.*
 *   **Primary Biome:** Subtropical Highland (Mesothermal)
 

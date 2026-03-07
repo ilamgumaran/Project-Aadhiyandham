@@ -3,6 +3,7 @@
 ## Location Overview
 *   **Name:** Zagros Foothills (Ilam Province)
 *   **Coordinates/Region:** Western Iran (Bordering Iraq)
+*   **GPS Coordinates:** 33.6374° N, 46.4227° E
 *   **Base Elevation:** ~300m (Lower slopes and basins)
 *   **Primary Biome:** Zagrosian Oak Forest / Semi-Arid Shrubland
 

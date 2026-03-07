@@ -3,6 +3,7 @@
 ## Location Overview
 *   **Name:** Magdalena Medio (Antioquia Terraces)
 *   **Coordinates/Region:** Antioquia Department, Colombia
+*   **GPS Coordinates:** 6.5569° N, 75.8281° W
 *   **Base Elevation:** ~100m - 300m (River terraces)
 *   **Primary Biome:** Tropical Humid Forest / Savanna Transition
 

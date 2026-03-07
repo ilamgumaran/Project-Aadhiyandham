@@ -3,6 +3,7 @@
 ## Location Overview
 *   **Name:** Ozark Plateau Lower Terraces (White / Buffalo River Basins)
 *   **Coordinates/Region:** Southern Missouri and Northern Arkansas, USA
+*   **GPS Coordinates:** 37.1670° N, 92.5000° W
 *   **Base Elevation:** ~150m - 300m
 *   **Primary Biome:** Temperate Deciduous Forest / Oak-Hickory Forest
 

@@ -3,6 +3,7 @@
 ## Location Overview
 *   **Name:** Biobío Foothills (Andean Precordillera / Andean Depression)
 *   **Coordinates/Region:** Central-Southern Chile (Biobío Region)
+*   **GPS Coordinates:** -36.7728° S, 73.0631° W
 *   **Base Elevation:** ~100m - 300m
 *   **Primary Biome:** Mediterranean / Humid Temperate transition (Nothofagus)
 

@@ -3,6 +3,7 @@
 ## Location Overview
 *   **Name:** North Fork Valley (Paonia / Hotchkiss)
 *   **Coordinates/Region:** Western Slope, Colorado (Delta County)
+*   **GPS Coordinates:** 38.8683° N, 107.5920° W
 *   **Base Elevation:** ~1,600m - 1,800m (5,300 - 6,000 ft) - *Note: Exception to 100-300m rule.*
 *   **Primary Biome:** Colorado Plateau Shrublands / Mountain Transition
 

@@ -3,6 +3,7 @@
 ## Location Overview
 *   **Name:** Lorentz Lowlands (Tidal Swamps / Alluvial Fans)
 *   **Coordinates/Region:** Southern Papua, Indonesia (Lorentz National Park)
+*   **GPS Coordinates:** 4.7500° S, 137.8333° E
 *   **Base Elevation:** ~100m - 300m (Foothills above the tidal zone)
 *   **Primary Biome:** Tropical Rainforest / Wetland transition
 

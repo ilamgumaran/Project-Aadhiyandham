@@ -3,6 +3,7 @@
 ## Location Overview
 *   **Name:** Eurotas Valley (Sparta Basin)
 *   **Coordinates/Region:** Southern Peloponnese, Greece
+*   **GPS Coordinates:** 37.0744° N, 22.4302° E
 *   **Base Elevation:** ~200m
 *   **Primary Biome:** Mediterranean Sclerophyllous Forest
 

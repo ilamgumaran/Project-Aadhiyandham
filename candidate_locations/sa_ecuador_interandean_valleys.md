@@ -3,6 +3,7 @@
 ## Location Overview
 *   **Name:** Inter-Andean Valleys (Southern Ecuador)
 *   **Coordinates/Region:** Loja / Azuay Provinces, Ecuador
+*   **GPS Coordinates:** -0.2170° S, -78.5000° W
 *   **Base Elevation:** ~2,000m - 2,500m - *Note: High-altitude exception.*
 *   **Primary Biome:** Montane Dry Forest / Shrubland
 

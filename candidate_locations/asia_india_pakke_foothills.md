@@ -3,6 +3,7 @@
 ## Location Overview
 *   **Name:** Pakke Foothills (Arunachal Pradesh)
 *   **Coordinates/Region:** Eastern Himalayas, India
+*   **GPS Coordinates:** 27.0000° N, 92.9000° E
 *   **Base Elevation:** ~150m - 300m
 *   **Primary Biome:** Tropical Semi-Evergreen & Evergreen Forest
 

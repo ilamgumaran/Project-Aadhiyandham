@@ -3,6 +3,7 @@
 ## Location Overview
 *   **Name:** Himalayan Terai (Kailali / Kanchanpur)
 *   **Coordinates/Region:** Far-Western Nepal (Sudurpashchim Province)
+*   **GPS Coordinates:** 28.6833° N, 80.6000° E
 *   **Base Elevation:** ~150m - 300m
 *   **Primary Biome:** Subtropical Broadleaf Forest / Grassland
 

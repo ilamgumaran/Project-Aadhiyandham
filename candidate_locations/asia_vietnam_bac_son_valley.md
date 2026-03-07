@@ -3,6 +3,7 @@
 ## Location Overview
 *   **Name:** Bac Son Valley
 *   **Coordinates/Region:** Lang Son Province, Northwest Vietnam
+*   **GPS Coordinates:** 21.8438° N, 106.2993° E
 *   **Base Elevation:** ~150m - 250m
 *   **Primary Biome:** Karst Limestone / Tropical Mixed Forest
 

@@ -3,6 +3,7 @@
 ## Location Overview
 *   **Name:** Japanese Alps Foothills (Ina / Azumino Valleys)
 *   **Coordinates/Region:** Central Honshu, Japan (Nagano Prefecture)
+*   **GPS Coordinates:** 36.6500° N, 138.1833° E
 *   **Base Elevation:** ~300m - 600m (Valley floors and benches)
 *   **Primary Biome:** Temperate Broadleaf and Mixed Forest
 

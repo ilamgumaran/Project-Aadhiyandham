@@ -3,6 +3,7 @@
 ## Location Overview
 *   **Name:** Transylvanian Benches (Câmpia Transilvaniei lower elevations)
 *   **Coordinates/Region:** Central Romania (Mureș / Cluj / Sibiu counties)
+*   **GPS Coordinates:** 46.7667° N, 23.5833° E
 *   **Base Elevation:** ~250m - 400m
 *   **Primary Biome:** Temperate Deciduous Forest / Meadow Steppe
 

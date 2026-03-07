@@ -3,6 +3,7 @@
 ## Location Overview
 *   **Name:** Pine Mountain Valley
 *   **Coordinates/Region:** West-Central Georgia (Harris and Meriwether counties)
+*   **GPS Coordinates:** 32.7986° N, 84.8233° W
 *   **Base Elevation:** 210m - 290m (700 - 950 ft)
 *   **Primary Biome:** Southeastern Mixed Forest (Pines and Hardwoods)
 

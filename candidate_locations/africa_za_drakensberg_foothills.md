@@ -3,6 +3,7 @@
 ## Location Overview
 *   **Name:** Drakensberg Foothills (Lower Benches / Foothills)
 *   **Coordinates/Region:** KwaZulu-Natal, South Africa
+*   **GPS Coordinates:** 29.3833° S, 29.4500° E
 *   **Base Elevation:** ~300m - 1,000m - *Note: High-altitude transition.*
 *   **Primary Biome:** Montane Grassland / Podocarp Forest
 

@@ -3,6 +3,7 @@
 ## Location Overview
 *   **Name:** Huon Valley
 *   **Coordinates/Region:** Southern Tasmania, Australia
+*   **GPS Coordinates:** 43.12° S, 147.16° E
 *   **Base Elevation:** ~100m - 200m (Benches and Valleys)
 *   **Primary Biome:** Cool Temperate Rainforest / Eucalyptus Forest
 

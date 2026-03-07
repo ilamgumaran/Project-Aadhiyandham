@@ -3,6 +3,7 @@
 ## Location Overview
 *   **Name:** Highveld Lower Benches (Vaal / Olifants river basins)
 *   **Coordinates/Region:** Gauteng / Mpumalanga Provinces, South Africa
+*   **GPS Coordinates:** 25.7560° S, 28.2180° E
 *   **Base Elevation:** ~1,500m (Basin Floor) - *Note: High-altitude exception.*
 *   **Primary Biome:** High-Altitude Temperate Grassland
 

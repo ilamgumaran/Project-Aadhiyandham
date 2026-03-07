@@ -3,6 +3,7 @@
 ## Location Overview
 *   **Name:** Margaret River Foothills (Wilyabrup Valleys)
 *   **Coordinates/Region:** Southwest Western Australia (Leeuwin-Naturaliste Ridge)
+*   **GPS Coordinates:** 33.95° S, 115.07° E
 *   **Base Elevation:** ~100m - 200m
 *   **Primary Biome:** Mediterranean Sclerophyllous Forest (Jarrah/Karri)
 

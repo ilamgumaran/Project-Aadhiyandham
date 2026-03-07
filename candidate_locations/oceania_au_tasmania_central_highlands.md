@@ -3,6 +3,7 @@
 ## Location Overview
 *   **Name:** Central Highlands Lower Benches (Silver Plains)
 *   **Coordinates/Region:** Central Plateau, Tasmania, Australia
+*   **GPS Coordinates:** 13.5000° N, 108.0000° E
 *   **Base Elevation:** ~600m - 1,000m - *Note: High-altitude exception.*
 *   **Primary Biome:** Sub-Alpine Woodland / Montane Grassland
 

@@ -3,6 +3,7 @@
 ## Location Overview
 *   **Name:** Breede River Valley
 *   **Coordinates/Region:** Western Cape (Worcester / Robertson)
+*   **GPS Coordinates:** 33.6670° S, 19.5000° E
 *   **Base Elevation:** ~150m - 250m
 *   **Primary Biome:** Mediterranean / Fynbos Foothills
 

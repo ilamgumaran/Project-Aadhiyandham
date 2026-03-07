@@ -3,6 +3,7 @@
 ## Location Overview
 *   **Name:** South-Central Valleys (Gyeongsang / Jeolla Basins)
 *   **Coordinates/Region:** South-Central South Korea
+*   **GPS Coordinates:** 35.8714° N, 128.6014° E
 *   **Base Elevation:** ~100m - 300m
 *   **Primary Biome:** Temperate Broadleaf and Mixed Forest
 

@@ -3,6 +3,7 @@
 ## Location Overview
 *   **Name:** Paraguay River Terraces (Oriental Region)
 *   **Coordinates/Region:** Eastern Paraguay (Concepción / San Pedro)
+*   **GPS Coordinates:** -23.4380° S, 58.4483° W
 *   **Base Elevation:** ~100m - 200m
 *   **Primary Biome:** Humid Subtropical Forest / Savanna (Cerrado)
 

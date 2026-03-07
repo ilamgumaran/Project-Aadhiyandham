@@ -3,6 +3,7 @@
 ## Location Overview
 *   **Name:** Lower Okanagan Valley (Osoyoos / Oliver)
 *   **Coordinates/Region:** Southern British Columbia, Canada
+*   **GPS Coordinates:** 49.7420° N, 119.7170° W
 *   **Base Elevation:** ~280m - 400m
 *   **Primary Biome:** Semi-Arid Shrub-Steppe / Ponderosa Pine Forest
 

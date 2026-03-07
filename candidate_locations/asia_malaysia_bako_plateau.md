@@ -3,6 +3,7 @@
 ## Location Overview
 *   **Name:** Bako Plateau
 *   **Coordinates/Region:** Sarawak, Malaysia (Borneo)
+*   **GPS Coordinates:** 1.7167° N, 110.4667° E
 *   **Base Elevation:** ~100m - 260m
 *   **Primary Biome:** Kerangas Forest (Heath Forest)
 

@@ -3,6 +3,7 @@
 ## Location Overview
 *   **Name:** East Coast Foothills (Canterbury / North Otago Downlands)
 *   **Coordinates/Region:** South Island, New Zealand
+*   **GPS Coordinates:** 43.60° S, 172.00° E
 *   **Base Elevation:** ~100m - 300m
 *   **Primary Biome:** Temperate Tussock Grassland / Podocarp Forest
 

@@ -3,6 +3,7 @@
 ## Location Overview
 *   **Name:** Polk County Foothills (The Thermal Belt)
 *   **Coordinates/Region:** Western North Carolina, USA (Tryon / Columbus / Saluda)
+*   **GPS Coordinates:** 35.2086° N, 82.2508° W
 *   **Base Elevation:** ~250m - 350m (800 - 1,100 ft)
 *   **Primary Biome:** Temperate Deciduous Forest
 

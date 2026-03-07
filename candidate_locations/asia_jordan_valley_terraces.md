@@ -3,6 +3,7 @@
 ## Location Overview
 *   **Name:** Jordan Valley Terraces (Ghor / Jordan Side)
 *   **Coordinates/Region:** Jordan River Valley, Jordan
+*   **GPS Coordinates:** 32.0000° N, 35.5000° E
 *   **Base Elevation:** ~100m - 200m (above the Dead Sea floor) - *Note: Below sea level relative to ocean, but elevated relative to the basin floor.*
 *   **Primary Biome:** Mediterranean / Subtropical Oasis
 

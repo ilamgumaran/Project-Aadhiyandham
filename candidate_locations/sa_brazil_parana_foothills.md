@@ -3,6 +3,7 @@
 ## Location Overview
 *   **Name:** Paraná Foothills (Lower Serra Geral)
 *   **Coordinates/Region:** Western Paraná State, Brazil
+*   **GPS Coordinates:** 24.0000° S, 51.0000° W
 *   **Base Elevation:** ~200m - 400m
 *   **Primary Biome:** Araucaria Forest / Atlantic Forest transition
 

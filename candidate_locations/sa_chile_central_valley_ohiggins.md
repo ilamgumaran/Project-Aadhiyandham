@@ -3,6 +3,7 @@
 ## Location Overview
 *   **Name:** O'Higgins Benches (Tinguiririca Basin)
 *   **Coordinates/Region:** Central Valley, Chile (O'Higgins Region)
+*   **GPS Coordinates:** -34.1670° S, 70.7228° W
 *   **Base Elevation:** ~200m - 300m
 *   **Primary Biome:** Mediterranean Sclerophyllous Forest
 

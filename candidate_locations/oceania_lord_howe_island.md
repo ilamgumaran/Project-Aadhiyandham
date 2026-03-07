@@ -3,6 +3,7 @@
 ## Location Overview
 *   **Name:** Lord Howe Island (High-Elevation Benches)
 *   **Coordinates/Region:** Tasman Sea, Australia (600km offshore)
+*   **GPS Coordinates:** 31.55° S, 159.08° E
 *   **Base Elevation:** ~100m (Lower slopes) to 600m (Benches)
 *   **Primary Biome:** Cloud Forest / Subtropical Rainforest
 

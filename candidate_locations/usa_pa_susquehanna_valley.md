@@ -3,6 +3,7 @@
 ## Location Overview
 *   **Name:** Lower Susquehanna Valley (Lancaster / York)
 *   **Coordinates/Region:** South-Central Pennsylvania, USA
+*   **GPS Coordinates:** 40.0379° N, 76.3055° W
 *   **Base Elevation:** ~100m - 250m (Valley floor and rolling hills)
 *   **Primary Biome:** Temperate Deciduous Forest
 

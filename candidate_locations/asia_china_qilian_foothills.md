@@ -3,6 +3,7 @@
 ## Location Overview
 *   **Name:** Qilian Foothills (Hexi Corridor)
 *   **Coordinates/Region:** Gansu Province, China
+*   **GPS Coordinates:** 38.7000° N, 100.7833° E
 *   **Base Elevation:** ~300m (Lowest oases) - *Note: Average elevation is higher.*
 *   **Primary Biome:** Alpine Meadow / Oasis / Desert transition
 

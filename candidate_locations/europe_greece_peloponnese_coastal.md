@@ -3,6 +3,7 @@
 ## Location Overview
 *   **Name:** Messenian Foothills (Taygetos Buffer)
 *   **Coordinates/Region:** Southwestern Peloponnese, Greece (Kalamata / Mani periphery)
+*   **GPS Coordinates:** 37.0391° N, 22.1127° E
 *   **Base Elevation:** ~100m - 300m
 *   **Primary Biome:** Mediterranean Sclerophyllous Forest / Olive Grove
 

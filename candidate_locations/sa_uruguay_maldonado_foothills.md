@@ -3,6 +3,7 @@
 ## Location Overview
 *   **Name:** Maldonado Foothills (Sierra de las Ánimas)
 *   **Coordinates/Region:** Maldonado Department, Uruguay
+*   **GPS Coordinates:** -34.9000° S, 54.9500° W
 *   **Base Elevation:** ~100m - 300m
 *   **Primary Biome:** Pampa / Hillside Forest (Monte Serrano)
 

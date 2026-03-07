@@ -3,6 +3,7 @@
 ## Location Overview
 *   **Name:** Souss Valley
 *   **Coordinates/Region:** South-West Morocco (Agadir to Taroudant)
+*   **GPS Coordinates:** 30.2751° N, 8.1339° W
 *   **Base Elevation:** ~150m - 300m
 *   **Primary Biome:** Argan Forest / Semi-Arid Shrubland
 
