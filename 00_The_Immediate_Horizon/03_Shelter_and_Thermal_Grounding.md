@@ -51,10 +51,15 @@ Use natural materials with known "tipping points" to monitor shelter stability:
 5.  **Finish:** Once dry, apply a final thin layer of clay and lime (Module 01) to waterproof the wall.
 
 ### How-To: Rammed Earth (The "Thermal Battery")
-1.  **Preparation:** Sieve your sub-soil to remove large stones and organic debris. The soil should be just moist enough to hold a ball when squeezed in your hand.
-2.  **Formwork:** Securely bolt two timber planks parallel to each other at the desired wall thickness (min. 18 inches).
-3.  **Layering:** Pour a 4-inch (10cm) loose layer of soil into the form.
-4.  **Ramming:** Use the hand rammer to strike the soil repeatedly until it is compacted to approx. 2 inches. You will know it is done when the sound changes from a "thud" to a "ring."
+1.  **Preparation:** Sieve your sub-soil to remove large stones and grass. 
+2.  **The "Drop Test" (Moisture Check):** 
+    *   Squeeze a handful of soil into a ball.
+    *   If it crumbles in your hand, it's too dry. Add a little water.
+    *   If it leaves your hand muddy, it's too wet. Add more dry soil.
+    *   **The Test:** Drop the ball from waist-height onto a hard surface. If it shatters into a few big pieces, it's perfect.
+3.  **Formwork:** Securely bolt two timber planks parallel to each other at the desired wall thickness (min. 18 inches).
+4.  **Layering:** Pour a 4-inch (10cm) loose layer of soil into the form.
+5.  **Ramming:** Use the hand rammer to strike the soil repeatedly until it is compacted to approx. 2 inches. You will know it is done when the sound changes from a "thud" to a metallic "ring."
 5.  **Repeat:** Add the next layer and repeat until the form is full. Remove the formwork immediately and move it to the next section.
 
 ## 5. Visual Illustration (Conceptual)

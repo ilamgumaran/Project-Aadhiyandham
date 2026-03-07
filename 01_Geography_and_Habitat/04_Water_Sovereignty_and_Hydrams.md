@@ -38,10 +38,11 @@ Before building, ensure your site qualifies:
 3.  **The Delivery Valve:** Connect the standard check valve *after* the waste valve, facing the direction of the storage tank.
 4.  **The Pressure Vessel:** Mount your air chamber directly above the delivery valve. This chamber must contain trapped air to act as a shock absorber.
 
-### Step 4: Starting the Pump
-1.  Open the source water. Water will flow out of the Waste Valve.
-2.  **Manual Prime:** Use your foot or a stick to push the Waste Valve shut repeatedly.
-3.  **The Rhythm:** After a few cycles, the "Water Hammer" effect will take over. The valve will begin to "clack" automatically: **Open -> Accelerate -> Slam Shut -> Pump -> Recoil -> Open.**
+### Step 4: Starting the Pump (The Drum Rhythm)
+1.  Open the source water. Water will flow out of the Waste Valve and look like a mess.
+2.  **The Prime:** Use your foot to push the Waste Valve shut. It will pop back open.
+3.  **Find the Beat:** Keep pushing it shut every time it opens. You are trying to "catch the beat" of the water’s weight.
+4.  **Automatic Mode:** Suddenly, the valve will start "clacking" on its own—**CLICK-CLACK, CLICK-CLACK.** It sounds like a steady drum beat. This means the pump is now working and water is being pushed uphill.
 
 ## 5. Visual Illustration (Conceptual)
 
