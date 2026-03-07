@@ -3,38 +3,38 @@
 **Aadhiyandham** signifies the Beginning (Aadhi), the End (Andham), and the eternal, cyclic rhythm that connects them. It represents a state of totality and centeredness, where the start and end are one, allowing for a life of blissful curiosity and harmony with the universal vibration.
 
 ## Project Vision
-To design a blueprint for re-establishing a functional, sustainable civilization in the wake of systemic climate or global disaster. The project is structured into four sequential phases, moving from initial survival to the establishment of a "centered null" society.
+To design a blueprint for re-establishing a functional, sustainable civilization in the wake of systemic climate or global disaster. The project is structured into five sequential phases, moving from initial survival to the establishment of a "centered null" society.
 
 ---
+
+## Project Structure (The Detailed Manual)
 
 ### Phase I: Placement & Arrival (The Foundation)
-1.  **[00_The Immediate Horizon](00_the_immediate_horizon.md):** The first 100 days of survival, bio-security, and mental grounding.
-2.  **[01_Geography & The Ideal Habitat](01_geography_and_topography.md):** Selecting a 100m+ elevation site with mountain protection, sunlight, and gravity-fed water.
+1.  **[00_The_Immediate_Horizon/](00_The_Immediate_Horizon/):** The first 100 days of survival, bio-security, and mental grounding.
+2.  **[01_Geography_and_Habitat/](01_Geography_and_Habitat/):** Selecting a 100m+ elevation site with mountain protection and gravity-fed water.
 
 ### Phase II: Stabilization & Sustenance (The Engine)
-3.  **[02_Climate, Soil & Seed](02_climate_and_agriculture.md):** Regenerative agriculture, soil-building, and heirloom seed preservation.
-4.  **[03_Mechanics, Infrastructure & Synthesis](03_mechanics_infrastructure_and_synthesis.md):** Low-tech/high-logic mechanical grids, material synthesis, and sustainable recycling.
+3.  **[02_Climate_Soil_and_Seed/](02_Climate_Soil_and_Seed/):** Regenerative agriculture, soil-building (Terra Preta), and heirloom seed preservation.
+4.  **[03_Mechanics_and_Infrastructure/](03_Mechanics_and_Infrastructure/):** Low-tech/high-logic mechanical grids, primary smelting (Bloomery), and material synthesis.
 
 ### Phase III: The Human System (The Body & Mind)
-5.  **[04_Knowledge & Biological Health](04_knowledge_and_biological_health.md):** Foundational anatomy, nutrition, and mental well-being for a centered life.
-6.  **[06_Mind, Environment & Centered Living](06_mind_environment_and_centered_living.md):** Defining the linguistic, architectural, and philosophical frameworks for a "centered null" society.
+5.  **[04_Biological_Health/](04_Biological_Health/):** Foundational anatomy, endocrine regulation (sun/sleep), and the temperate antibiotic kit.
+6.  **[06_Mind_and_Centered_Living/](06_Mind_and_Centered_Living/):** Linguistic precision (E-Prime), restorative architecture (Pattern Language), and the neuroscience of curiosity.
 
 ### Phase IV: The Archive of Reason (The Wisdom)
-7.  **[05_Resilience & Historical Wisdom](05_resilience_and_historical_wisdom.md):** Learning from the successes and failures of past civilizations to avoid social rigidity and fear-based governance.
-8.  **[07_The Archive of Natural Phenomena](07_the_archive_of_natural_phenomena.md):** A synthesized encyclopedia of how humans have perceived and pattern-recognized the physical world (soil, air, energy, biology).
+7.  **[05_Historical_Wisdom/](05_Historical_Wisdom/):** Learning from historical failures, consensus-based governance, and managing the "Recycling Cliff."
+8.  **[07_Archive_of_Natural_Phenomena/](07_Archive_of_Natural_Phenomena/):** A synthesized encyclopedia of the laws of nature (Thermodynamics, Liebig's Law, Biological Phyla).
 
-### Phase V: Culture, Trade, & Advanced Synthesis (The Expression)
-9.  **[08_Culture, Trade & Advanced Synthesis](08_culture_trade_and_advanced_synthesis.md):** The evolution of the settlement into an interconnected society focusing on glassmaking, advanced metallurgy, and biomimetic culture.
+### Phase V: Expression (The Civilization)
+9.  **[08_Culture_and_Synthesis/](08_Culture_and_Synthesis/):** The evolution into a thriving society focusing on optical glassmaking, crucible steel, and biomimetic art.
 
 ---
 
-## Core Philosophy: The Four Pillars
-1.  **Mechanical Resilience:** Simple, repairable, and robust mechanical systems.
-2.  **Material & Biological Sovereignty:** Mastery of the local environment and the human body.
-3.  **Ecological Harmonization:** Human activity as a regenerative force for the land.
-4.  **Historical Wisdom & Open Society:** A society grounded in reason, curiosity, and blissful observation.
+## Methodology
+Every module directory contains a **01_Rationale_and_Importance.md** file. This explains the underlying philosophy and "Why" behind the technical steps, ensuring that the settlers understand the logic of the civilization they are building.
 
-## Methodology for Researchers
-1.  **Select a Module:** Open any `.md` file in the root directory.
-2.  **Follow Research Directives:** Each module contains specific "Research Directives" designed to guide the gathering of data and creation of "Knowledge Artifacts."
-3.  **Synthesize:** Translate complex data into "low-tech/high-logic" instructions suitable for a post-disaster society.
+## Resources
+*   **[master_report.md](master_report.md):** The final synthesis and global candidate ranking.
+*   **[settlers_summary.md](settlers_summary.md):** The condensed, action-oriented handbook.
+*   **[candidate_locations/](candidate_locations/):** Detailed evaluations of 60+ resilient global sites.
+*   **[html/](html/):** A beautiful, web-ready version of the archive.
