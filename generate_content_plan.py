@@ -11,36 +11,60 @@ def extract_metadata(filepath):
             if not title and line.startswith('# '):
                 title = line[2:]
             elif title and line and not line.startswith('#') and not line.startswith('---') and not line.startswith('!['):
-                # Grab the first non-empty text paragraph as a summary
                 if len(line) > 20:
                     summary = line
                     break
-    
     if not title:
         title = os.path.basename(filepath)
     if len(summary) > 150:
         summary = summary[:147] + "..."
-        
     return title, summary
 
+def map_to_outcome(filepath):
+    if "01_The_Journey" in filepath or "02_The_Site" in filepath or "candidate_locations" in filepath:
+        return "Outcome 1: Locating and Connecting Optimal Refugia"
+    elif "03_The_Arrival" in filepath or "04_The_Body" in filepath or "06_The_Ecosystem" in filepath:
+        return "Outcome 2: Absolute Biological Sovereignty"
+    elif "05_The_Mind" in filepath:
+        return "Outcome 4: Psychological Centeredness" # It maps to Outcome 4 now because Outcome 3 is new
+    elif "07_The_Mechanics" in filepath or "08_The_Society" in filepath or "09_The_Next_Generation" in filepath or "10_The_Archive" in filepath or "11_The_Horizon" in filepath:
+        return "Outcome 5: Decadal and Generational Resilience"
+    elif "node_modules" in filepath:
+        return "Ignore"
+    else:
+        return "Foundational Documents"
+
 def generate_plan():
-    # Gather all markdown files except in html/ and candidate_locations/ for the core structural mapping
-    # Actually let's include candidate_locations but group them separately.
     md_files = glob.glob('**/*.md', recursive=True)
     
-    modules = {}
+    outcomes = {
+        "Outcome 1: Locating and Connecting Optimal Refugia": [],
+        "Outcome 2: Absolute Biological Sovereignty": [],
+        "Outcome 3: Perimeter Sovereignty and Passive Defense": [{"file": "MISSING_PLACEHOLDER", "title": "[READY FOR REVIEW] Passive Perimeter Defense & Early Warning Systems", "summary": "Cultivating thorny biomimetic barriers, non-lethal deterrents, and acoustic tripwires.", "class": "Missing Action File"}],
+        "Outcome 4: Psychological Centeredness": [],
+        "Outcome 5: Decadal and Generational Resilience": [],
+        "Outcome 6: A Flourishing Civilization": [{"file": "MISSING_PLACEHOLDER", "title": "[READY FOR REVIEW] Cultural Technology & Rites of Passage", "summary": "Structuring time via solstices and establishing community rituals.", "class": "Missing Action File"}],
+        "Foundational Documents": []
+    }
+    
+    # Adding known missing files to the outcomes mapping manually
+    outcomes["Outcome 2: Absolute Biological Sovereignty"].append({"file": "MISSING_PLACEHOLDER", "title": "[READY FOR REVIEW] Long-Term Food Preservation", "summary": "Root cellars, zero-energy lacto-fermentation, and salt-curing without modern refrigeration.", "class": "Missing Action File"})
+    outcomes["Outcome 2: Absolute Biological Sovereignty"].append({"file": "MISSING_PLACEHOLDER", "title": "[READY FOR REVIEW] Advanced Trauma Care & Midwifery", "summary": "Setting compound fractures, suturing without modern anesthetics, and zero-tech childbirth protocols.", "class": "Missing Action File"})
+    outcomes["Outcome 5: Decadal and Generational Resilience"].append({"file": "MISSING_PLACEHOLDER", "title": "[READY FOR REVIEW] Textile and Clothing Synthesis", "summary": "Shearing, spinning yarn, weaving looms, and natural leather tanning.", "class": "Missing Action File"})
+    outcomes["Outcome 5: Decadal and Generational Resilience"].append({"file": "MISSING_PLACEHOLDER", "title": "[READY FOR REVIEW] Advanced Structural Engineering", "summary": "Creating lime mortar, firing permanent brick, and timber-framing without scavenged nails.", "class": "Missing Action File"})
+    outcomes["Outcome 1: Locating and Connecting Optimal Refugia"].append({"file": "MISSING_PLACEHOLDER", "title": "[READY FOR REVIEW] Decentralized Networking & Trade Routes", "summary": "Establishing secure relay waystations and low-power long-distance communication protocols.", "class": "Missing Action File"})
+    outcomes["Outcome 4: Psychological Centeredness"].append({"file": "MISSING_PLACEHOLDER", "title": "[READY FOR REVIEW] Advanced Conflict Resolution", "summary": "Protocols for mediating interpersonal disputes without formal law enforcement and managing post-collapse grief.", "class": "Missing Action File"})
+
     for filepath in md_files:
         if 'html/' in filepath or '.git/' in filepath:
             continue
         
-        dir_name = os.path.dirname(filepath)
-        if not dir_name:
-            dir_name = "Root"
+        outcome_key = map_to_outcome(filepath)
+        if outcome_key == "Ignore":
+            continue
             
         title, summary = extract_metadata(filepath)
         
-        # Classification guess: if it's "Rationale_and_Importance", it's a structural/theory file
-        # If it's something else, it's an atomic topic or action file
         classification = "Atomic Topic"
         if "Rationale_and_Importance" in filepath:
             classification = "Module Theory & Structure"
@@ -49,22 +73,16 @@ def generate_plan():
         elif "candidate_locations" in filepath:
             classification = "Location Data"
             
-        if dir_name not in modules:
-            modules[dir_name] = []
-            
-        modules[dir_name].append({
+        outcomes[outcome_key].append({
             'file': filepath,
             'title': title,
             'summary': summary,
             'class': classification
         })
 
-    # Sort directories
-    sorted_dirs = sorted(modules.keys())
-    
     # Generate Markdown
-    md_output = "# Project Aadhiyandham: Content & Atomic File Plan\n\n"
-    md_output += "This document serves as a master tracker for all files in the repository, classifying them by type (Atomic Topic, Action-Oriented, Theory) so we can eventually restructure them into a database of specific skills and materials.\n\n"
+    md_output = "# Content & Atomic File Plan (Aligned by Expected Outcomes)\n\n"
+    md_output += "This document organizes all files in the repository by the **6 Expected Outcomes** of Project Aadhiyandham. Missing gaps critical to these outcomes are tagged as `[READY FOR REVIEW]`.\n\n"
     
     html_output = """<!DOCTYPE html>
 <html lang="en">
@@ -80,35 +98,50 @@ def generate_plan():
         .tag-action { background: #fdf2e9; color: #d35400; padding: 2px 6px; border-radius: 4px; font-size: 0.8em; font-weight:bold; }
         .tag-atomic { background: #eef7ed; color: #27ae60; padding: 2px 6px; border-radius: 4px; font-size: 0.8em; }
         .tag-location { background: #f4f6f7; color: #7f8c8d; padding: 2px 6px; border-radius: 4px; font-size: 0.8em; }
+        .tag-missing { background: #fdeded; color: #e74c3c; padding: 2px 6px; border-radius: 4px; font-size: 0.8em; font-weight:bold; border: 1px solid #e74c3c; }
     </style>
 </head>
 <body>
     <header>
         <p><a href="index.html">Main Index</a></p>
-        <h1>Content & Atomic File Plan</h1>
-        <p>A master tracker of all repository files categorized by their purpose.</p>
+        <h1>Content & Atomic File Plan (Outcome Aligned)</h1>
+        <p>A master tracker of all repository files categorized by the specific Vision Outcome they serve, including highlighted critical gaps.</p>
     </header>
     <section>
 """
 
-    for directory in sorted_dirs:
-        md_output += f"## Directory: `{directory}`\n\n"
+    outcome_order = [
+        "Foundational Documents",
+        "Outcome 1: Locating and Connecting Optimal Refugia",
+        "Outcome 2: Absolute Biological Sovereignty",
+        "Outcome 3: Perimeter Sovereignty and Passive Defense",
+        "Outcome 4: Psychological Centeredness",
+        "Outcome 5: Decadal and Generational Resilience",
+        "Outcome 6: A Flourishing Civilization"
+    ]
+
+    for outcome in outcome_order:
+        md_output += f"## {outcome}\n\n"
         md_output += "| File | Title | Classification | Summary |\n"
         md_output += "|---|---|---|---|\n"
         
-        html_output += f"<h2>Directory: {directory}</h2>\n<table>\n"
+        html_output += f"<h2>{outcome}</h2>\n<table>\n"
         html_output += "<tr><th>File</th><th>Title</th><th>Classification</th><th>Summary</th></tr>\n"
         
-        for item in sorted(modules[directory], key=lambda x: x['file']):
-            md_output += f"| `{os.path.basename(item['file'])}` | {item['title']} | **{item['class']}** | {item['summary']} |\n"
+        for item in sorted(outcomes[outcome], key=lambda x: (x['class'] != 'Missing Action File', x['file'])):
+            file_display = f"`{os.path.basename(item['file'])}`" if item['file'] != "MISSING_PLACEHOLDER" else "---"
+            html_file_display = f"<a href='../{item['file']}'>{os.path.basename(item['file'])}</a>" if item['file'] != "MISSING_PLACEHOLDER" else "---"
+
+            md_output += f"| {file_display} | {item['title']} | **{item['class']}** | {item['summary']} |\n"
             
             tag_class = ""
             if item['class'] == "Module Theory & Structure": tag_class = "tag-theory"
             elif item['class'] == "Action Oriented": tag_class = "tag-action"
             elif item['class'] == "Location Data": tag_class = "tag-location"
+            elif item['class'] == "Missing Action File": tag_class = "tag-missing"
             else: tag_class = "tag-atomic"
             
-            html_output += f"<tr><td><a href='../{item['file']}'>{os.path.basename(item['file'])}</a></td><td>{item['title']}</td><td><span class='{tag_class}'>{item['class']}</span></td><td>{item['summary']}</td></tr>\n"
+            html_output += f"<tr><td>{html_file_display}</td><td>{item['title']}</td><td><span class='{tag_class}'>{item['class']}</span></td><td>{item['summary']}</td></tr>\n"
             
         md_output += "\n"
         html_output += "</table>\n"
