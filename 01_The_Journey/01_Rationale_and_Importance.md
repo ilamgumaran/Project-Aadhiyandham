@@ -55,32 +55,20 @@ Do not carry heavy, rigid tents.
 
 ---
 
-## 3. Navigation Sub-Sections / வழிசெலுத்தல் துணைப்பிரிவுகள்
+## 3. Navigation and Transit Modules (Module Index)
 
-### 02. [Orienting: Where Am I?](02_Orienting_and_Positioning.md)
-**Purpose:** To anchor the traveler. Before you can look at a map, you must look at the ground. This section teaches you to use "Handrails" like rivers and ridges to find your exact location without a GPS.
+To successfully navigate the physical transition to a refugia, this module is broken down into the following actionable guides:
 
-### 03. [Direction: Which Way?](03_Direction_and_Orientation_Basics.md)
-**Purpose:** To provide a permanent compass. If tools are lost, the sun becomes the primary guide. This section teaches cardinal directions and the "Shadow-Stick" method for absolute orientation.
-
-### 04. [Terrestrial Navigation Tools](04_Terrestrial_Navigation/01_Rationale_and_Importance.md)
-**Purpose:** Precision movement. This sub-module teaches the geometric use of paper maps and magnetic compasses, allowing for long-distance travel through unmapped or unfamiliar territory.
-
-### 05. [Transit Guide: Georgia to Refugia](02_Transit_Guide_from_Georgia_USA.md)
-**Purpose:** Practical execution. This provides the specific "Departure Logic" for those leaving from the Georgia, USA hub, mapping out land, sea, and non-motorized routes.
-
-### 06. [Emergency Family Protocol](03_Emergency_Family_Transit_Protocol.md)
-**Purpose:** Safety of the vulnerable. It defines the "50% Rule" for pacing and psychological grounding techniques to ensure children and families reach the destination with their health and minds intact.
+*   **[02. Orienting: Where Am I?](02_Orienting_and_Positioning.md):** Before you can look at a map, you must look at the ground. This section teaches you to anchor yourself using "Handrails" like rivers and ridges to find your exact location without a GPS.
+*   **[03. Direction: Which Way?](03_Direction_and_Orientation_Basics.md):** If tools are lost, the sun becomes the primary guide. This section teaches cardinal directions and the zero-tech "Shadow-Stick" method for absolute orientation.
+*   **[04. Terrestrial Navigation Tools](04_Terrestrial_Navigation/01_Rationale_and_Importance.md):** The art of precision movement. This sub-module teaches the geometric use of paper maps and magnetic compasses, allowing for long-distance travel through unmapped or unfamiliar territory.
+*   **[05. Decentralized Networking & Trade](05_Networking_and_Trade/01_Decentralized_Networking_and_Trade.md):** How to connect isolated refugia. This details building relay waystations, buried caches, and zero-power communication networks (like the solar Heliograph) to prevent genetic bottlenecking.
+*   **[06. Transit Guide: Georgia to Refugia](02_Transit_Guide_from_Georgia_USA.md):** Practical execution. This provides the specific "Departure Logic" for those leaving from the Georgia, USA hub, mapping out land, sea, and non-motorized routes.
+*   **[07. Emergency Family Protocol](03_Emergency_Family_Transit_Protocol.md):** Safety of the vulnerable. It defines the "50% Rule" for pacing and psychological grounding techniques to ensure children and families reach the destination with their health and minds intact.
 
 ---
-*The journey is the first test of the Centered Null state.*
-*பயணம் என்பது மையப்படுத்தப்பட்ட சூனிய நிலையின் முதல் சோதனையாகும்.*
-扫
-扫
-扫
 
----
-## 🚀 Practical Implementation Guide for Beginners: The Journey
+## 4. Practical Implementation Guide for Beginners: The Journey
 
 ### 1. Step-by-Step Action Plan
 *   **Preparation (Months 1-3):** Begin physical conditioning. Walk 5 miles a day with a 20lb backpack. Acquire baseplate compasses and physical topographical maps.
