@@ -32,6 +32,7 @@ If a community follows the Aadhiyandham sequential path (from The Journey to The
 
 ### Outcome 3: Decadal and Generational Resilience
 *   **Surviving the "Recycling Cliff":** Modern scavenged materials (like steel) will eventually rust away. The project prepares the community to mine, smelt, and forge their own tools (Bloomery Iron and Crucible Steel) and generate mechanical power (Line-shafts and Hydrams) to ensure industrial capability survives past the 20-year mark.
+*   **Engineering Advancements for Harmonization, Not Dominance:** We must possess the ability to transform materials to build tools and convert energy into other forms to safely expand human physical strength. However, the explicit goal is *not* to build a major industrial complex for mass production. Basic building and crafting are skills meant for everyone (or those intrinsically interested) to achieve harmony with the environment—never as a mechanism to exert influence, consolidate wealth, or hold power over others. 
 *   **Knowledge Transfer:** The inclusion of an explicit curriculum (mathematics, physics, philosophy, and language) ensures that the first generation born in the refugia will possess the intellectual framework to understand the universe, rather than reverting to superstition.
 
 ### Outcome 4: A Flourishing Civilization
