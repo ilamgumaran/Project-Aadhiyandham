@@ -7,6 +7,26 @@ To design a blueprint for re-establishing a functional, sustainable civilization
 
 ---
 
+## The Aadhiyandham Mandate: The Distillation of Knowledge
+## ஆதியந்தம் ஆணை: அறிவின் வடித்தெடுத்தல்
+
+### Alignment with the Objective (குறிக்கோளுடன் இணைதல்)
+Project Aadhiyandham serves as a foundational distillation of knowledge from our current civilization. We recognize that actions are defined by whether they bring us closer to our objective—the sustainable maintenance of human biology—or take us further away. Our objective is the sustainable maintenance of human biology and the environment through efficient processes, systems, and tools.
+
+ஆதியந்தம் திட்டம் நமது தற்போதைய நாகரிகத்திலிருந்து அறிவை வடித்தெடுக்கும் ஒரு அடிப்படை பணியாகும். நமது குறிக்கோளுக்கு நம்மை நெருக்கமாக்கும் அல்லது அதிலிருந்து நம்மைத் தூரமாக்கும் செயல்கள் மட்டுமே உள்ளன என்பதை நாங்கள் அங்கீகரிக்கிறோம். திறமையான செயல்முறைகள், அமைப்புகள் மற்றும் கருவிகள் மூலம் மனித உயிரியல் மற்றும் சுற்றுச்சூழலை நிலையான முறையில் பராமரிப்பதே நமது குறிக்கோள்.
+
+### Freeing the Mind (மனதை விடுவித்தல்)
+By implementing robust systems for basic biological and psychological needs, we aim to reduce the time required for raw survival. This efficiency frees the individual to spend their life on **introspection and exploration** of the world around them. We use the technical learnings of the past to accelerate a future where curiosity is the primary human activity.
+
+அடிப்படைத் தேவைகளுக்கான வலுவான அமைப்புகளைச் செயல்படுத்துவதன் மூலம், உயிர்வாழ்வதற்குத் தேவையான நேரத்தைக் குறைப்பதை நாங்கள் நோக்கமாகக் கொண்டுள்ளோம். இந்தத் திறன் தனிமனிதன் தனது வாழ்க்கையைத் தன்னாய்வு மற்றும் தன்னைச் சுற்றியுள்ள உலகத்தை ஆராய்வதில் செலவிட அனுமதிக்கிறது.
+
+### From Zero to Civilization (பூஜ்ஜியத்திலிருந்து நாகரிகம் வரை)
+We have designed every instruction to be **Step-by-Step**, assuming **zero prior knowledge**.
+
+பூஜ்ஜிய முன்னறிவு இருப்பதாகக் கருதி, ஒவ்வொரு அறிவுறுத்தலையும் படிப்படியாக வடிவமைத்துள்ளோம்.
+
+---
+
 ## Project Structure (The Detailed Manual)
 
 ### Phase I: Placement & Arrival (The Foundation)
@@ -45,26 +65,3 @@ Every module directory contains a **01_Rationale_and_Importance.md** file. This 
 *   **[Glossary.md](Glossary.md):** Detailed definitions of project terms.
 *   **[candidate_locations/](candidate_locations/):** Detailed evaluations of 60+ resilient global sites.
 *   **[html/](html/):** A beautiful, web-ready version of the archive.
-
----
-
-## The Aadhiyandham Mandate: The Distillation of Knowledge
-## ஆதியந்தம் ஆணை: அறிவின் வடித்தெடுத்தல்
-
-### Alignment with the Objective (குறிக்கோளுடன் இணைதல்)
-Project Aadhiyandham serves as a foundational distillation of knowledge from our current civilization. We recognize that there is no universal "right" or "wrong," only actions that either bring us closer to our objective or take us further away. Our objective is the sustainable maintenance of human biology and the environment through efficient processes, systems, and tools.
-
-ஆதியந்தம் திட்டம் நமது தற்போதைய நாகரிகத்திலிருந்து அறிவை வடித்தெடுக்கும் ஒரு அடிப்படை பணியாகும். உலகளாவிய "சரி" அல்லது "தவறு" என்று எதுவும் இல்லை என்பதை நாங்கள் அங்கீகரிக்கிறோம்; நமது குறிக்கோளுக்கு நம்மை நெருக்கமாக்கும் அல்லது அதிலிருந்து நம்மைத் தூரமாக்கும் செயல்கள் மட்டுமே உள்ளன. திறமையான செயல்முறைகள், அமைப்புகள் மற்றும் கருவிகள் மூலம் மனித உயிரியல் மற்றும் சுற்றுச்சூழலை நிலையான முறையில் பராமரிப்பதே நமது குறிக்கோள்.
-
-### Freeing the Mind (மனதை விடுவித்தல்)
-By implementing robust systems for basic biological and psychological needs, we aim to reduce the time required for raw survival. This efficiency frees the individual to spend their life on **introspection and exploration** of the world around them. We use the technical learnings of the past to accelerate a future where curiosity is the primary human activity.
-
-அடிப்படை உயிரியல் மற்றும் உளவியல் தேவைகளுக்கான வலுவான அமைப்புகளைச் செயல்படுத்துவதன் மூலம், உயிர்வாழ்வதற்குத் தேவையான நேரத்தைக் குறைப்பதை நாங்கள் நோக்கமாகக் கொண்டுள்ளோம். இந்தத் திறன் தனிமனிதன் தனது வாழ்க்கையைத் தன்னாய்வு மற்றும் தன்னைச் சுற்றியுள்ள உலகத்தை ஆராய்வதில் செலவிட அனுமதிக்கிறது. ஆர்வம் என்பது முதன்மையான மனிதச் செயல்பாடாக இருக்கும் எதிர்காலத்தை முடுக்கிவிட கடந்த காலத்தின் தொழில்நுட்பக் கற்றல்களைப் பயன்படுத்துகிறோம்.
-
-### From Zero to Civilization (பூஜ்ஜியத்திலிருந்து நாகரிகம் வரை)
-We have designed every instruction to be **Step-by-Step**, assuming **zero prior knowledge**. The path is a progression from survival to a flourishing state of being.
-
-பூஜ்ஜிய முன்னறிவு இருப்பதாகக் கருதி, ஒவ்வொரு அறிவுறுத்தலையும் படிப்படியாக வடிவமைத்துள்ளோம். பாதை என்பது உயிர்வாழ்வதிலிருந்து ஒரு செழிப்பான நிலைக்கு மாறுவதாகும்.
-
-*By learning the 'Why' before the 'How,' we move closer to a state of perpetual harmony.*
-*எப்படி என்பதற்கு முன் ஏன் என்பதை அறிந்துகொள்வதன் மூலம், நாம் நிலையான இணக்கமான நிலையை நோக்கி நகர்கிறோம்.*
