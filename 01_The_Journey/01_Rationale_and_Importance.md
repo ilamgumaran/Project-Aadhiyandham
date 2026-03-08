@@ -37,7 +37,14 @@ Your cargo must prioritize items that cannot be easily manufactured in the wild.
 *   **The Seed Bank:** 10 lbs (4.5 kg) of lightweight, vacuum-sealed heirloom seeds (beans, squash, corn, potatoes) distributed across two different packs in case one is lost.
 *   **Transit Calories:** Minimum 2,500 calories per person, per day. For a 10-day trek, the family requires roughly 80 lbs (36 kg) of highly dense rations (pemmican, hardtack, nut butters).
 
-### 4. Transient Sheltering (En Route)
+### 4. Very Nice to Have (Quality of Life & Efficiency Upgrades)
+While not strictly required for bare survival, these items drastically reduce caloric burn, prevent minor injuries from becoming major, and maintain morale:
+*   **Optics:** 1x high-quality monocular or lightweight binoculars for scouting routes, finding water sources, and identifying threats from a safe distance before committing to a path.
+*   **Illumination:** 2x lightweight, hand-crank or solar LED headlamps. While fire provides light, directional hands-free light makes nighttime medical emergencies or gear repairs significantly safer.
+*   **Hygiene & Medical:** A small, dedicated metal trowel for digging latrines quickly, heavy-duty tweezers for tick/splinter removal, and concentrated biodegradable soap (like Dr. Bronner's) to prevent dysentery.
+*   **Field Repair Kit:** Heavy-duty sail needles, kevlar thread, and duct tape for patching tarps, packs, and footwear in the field.
+
+### 5. Transient Sheltering (En Route)
 Do not carry heavy, rigid tents. 
 *   **The Tarp System:** Carry heavy-duty, waterproof silnylon tarps and high-tensile paracord. A tarp can be strung between trees (an A-frame or lean-to) in minutes, providing immediate protection from rain and wind while saving massive weight.
     *   **Family Scaling (4 people):** Carry **two 10x10 ft (3x3m)** tarps and 200 feet of paracord. This allows you to build two adjacent A-frames (2 people per shelter).
