@@ -17,7 +17,7 @@ This document organizes all files in the repository by the **6 Expected Outcomes
 
 | File | Title | Classification | Summary |
 |---|---|---|---|
-| --- | [READY FOR REVIEW] Decentralized Networking & Trade Routes | **Missing Action File** | Establishing secure relay waystations and low-power long-distance communication protocols. |
+| --- | [READY FOR REVIEW] Advanced Micro-Climate Forecasting | **Missing Action File** | Predicting localized weather shifts over a 50-year horizon without meteorological satellites. |
 | `01_Rationale_and_Importance.md` | Rationale and Importance: Logistics and Transit | **Module Theory & Structure** | "Logistics and Transit" (The Journey) is the most critical and vulnerable stage of Project Aadhiyandham. It represents the physical move from a cen... |
 | `02_Orienting_and_Positioning.md` | Orienting: Where Am I? (A Step-by-Step Guide) | **Action Oriented** | Before you can use a map or a compass, you must anchor your mind to the physical ground. "Positioning" is the act of identifying your location base... |
 | `02_Transit_Guide_from_Georgia_USA.md` | Transit Guide: The Last Mile Strategy | **Action Oriented** | Reaching refugia requires moving heavy gear over terrain where wheels often fail. The **Travois** is a zero-tech transport tool used by resilient c... |
@@ -110,15 +110,14 @@ This document organizes all files in the repository by the **6 Expected Outcomes
 
 | File | Title | Classification | Summary |
 |---|---|---|---|
-| --- | [READY FOR REVIEW] Long-Term Food Preservation | **Missing Action File** | Root cellars, zero-energy lacto-fermentation, and salt-curing without modern refrigeration. |
-| --- | [READY FOR REVIEW] Advanced Trauma Care & Midwifery | **Missing Action File** | Setting compound fractures, suturing without modern anesthetics, and zero-tech childbirth protocols. |
+| --- | [READY FOR REVIEW] Generational Sanitation & Humanure | **Missing Action File** | Thermophilic composting of human waste to safely close the phosphorus cycle without contaminating groundwater. |
+| --- | [READY FOR REVIEW] Zero-Tech Dentistry & Oral Hygiene | **Missing Action File** | Preventing lethal dental abscesses via miswak/neem sticks, salt, and emergency extraction protocols. |
 | `01_Rationale_and_Importance.md` | Rationale and Importance: The First 100 Days | **Module Theory & Structure** | The "Immediate Horizon" is the most volatile phase of Project Aadhiyandham. Upon arrival at a candidate location, the settlers transition from a st... |
 | `02_Bio_Security_and_Water.md` | Bio-Security: Water Purification (Slow Sand Filter) | **Atomic Topic** | Pathogens (tiny germs) in untreated water are like an invisible enemy. A **Slow Sand Filter (SSF)** is a "living" machine. Instead of using chemica... |
 | `03_Shelter_and_Thermal_Grounding.md` | Shelter and Thermal Grounding: Construction Guide | **Action Oriented** | Exposure to wind, rain, and fluctuating temperatures is a primary cause of physical and psychological fatigue. Modern thin-walled construction reli... |
 | `04_Emergency_Nutrition.md` | Emergency Nutrition: The First 100 Days | **Atomic Topic** | A guide to the 10 universal emergency calorie sources found in Aadhiyandham-compliant mountain environments. |
 | `05_Psychological_Grounding.md` | Psychological Grounding: The Return to Null | **Atomic Topic** | The first 100 days of a new settlement are high-stress. The natural human reaction is to panic, seek control, or immediately begin "inventing" and ... |
 | `06_Emergency_Sanitation.md` | Emergency Sanitation: The Pit Latrine Guide | **Action Oriented** | According to **WHO Standards**, sanitation is the primary barrier against the second wave of disaster: disease outbreaks. Improperly placed waste w... |
-| `01_Passive_Perimeter_Defense.md` | Passive Perimeter Defense and Early Warning Systems | **Atomic Topic** | Outcome 3 establishes Perimeter Sovereignty. A community cannot flourish or achieve psychological centeredness if it is constantly under threat. Ho... |
 | `01_Rationale_and_Importance.md` | Rationale and Importance: Biological Health | **Module Theory & Structure** | In an isolated settlement, the human body is the most sensitive and essential piece of "equipment." Without a complex industrial medical system, we... |
 | `02_Biochemical_Signals.md` | The Brain's Biochemical Signals: Endocrine Regulation Guide | **Action Oriented** | The human brain is an environmental sensor. Most modern health issues (anxiety, insomnia, depression) stem from a "mismatch" between our ancestral ... |
 | `03_Temperate_Antibiotics.md` | The Temperate Antibiotic Kit: Preparation Guide | **Action Oriented** | Without synthetic pharmaceuticals, we rely on the biochemical power of plants. This module identifies five "foundational healers" and provides the ... |
@@ -133,13 +132,13 @@ This document organizes all files in the repository by the **6 Expected Outcomes
 
 | File | Title | Classification | Summary |
 |---|---|---|---|
-| --- | [READY FOR REVIEW] Passive Perimeter Defense & Early Warning Systems | **Missing Action File** | Cultivating thorny biomimetic barriers, non-lethal deterrents, and acoustic tripwires. |
+| --- | [READY FOR REVIEW] Wildfire Defensible Space | **Missing Action File** | Forest management, controlled burns, and structural fire-breaks to prevent absolute ecological erasure. |
+| `01_Passive_Perimeter_Defense.md` | Passive Perimeter Defense and Early Warning Systems | **Atomic Topic** | Outcome 3 establishes Perimeter Sovereignty. A community cannot flourish or achieve psychological centeredness if it is constantly under threat. Ho... |
 
 ## Outcome 4: Psychological Centeredness
 
 | File | Title | Classification | Summary |
 |---|---|---|---|
-| --- | [READY FOR REVIEW] Advanced Conflict Resolution | **Missing Action File** | Protocols for mediating interpersonal disputes without formal law enforcement and managing post-collapse grief. |
 | `01_Rationale_and_Importance.md` | Rationale and Importance: Mind and Centered Living | **Module Theory & Structure** | A civilization is defined more by its psychological baseline than its physical tools. The "Centered Null" is the psychological engine of Aadhiyandh... |
 | `02_Linguistic_Precision.md` | Linguistic Precision: E-Prime Practice Guide | **Action Oriented** | The human brain often confuses "words" with "reality." When we use the verb "to be" (is, am, are), we create static, absolute identities that lead ... |
 | `03_Restorative_Architecture.md` | Restorative Architecture: Design Implementation Guide | **Action Oriented** | The human nervous system evolved in the complex, asymmetrical, and balanced environment of nature. Modern "box" architecture—with its flickering li... |
@@ -149,8 +148,8 @@ This document organizes all files in the repository by the **6 Expected Outcomes
 
 | File | Title | Classification | Summary |
 |---|---|---|---|
-| --- | [READY FOR REVIEW] Textile and Clothing Synthesis | **Missing Action File** | Shearing, spinning yarn, weaving looms, and natural leather tanning. |
-| --- | [READY FOR REVIEW] Advanced Structural Engineering | **Missing Action File** | Creating lime mortar, firing permanent brick, and timber-framing without scavenged nails. |
+| --- | [READY FOR REVIEW] Foundational Chemistry | **Missing Action File** | Extracting potash and lye from wood ash to synthesize soap, vital for surgical hygiene and disease prevention. |
+| --- | [READY FOR REVIEW] Information Storage | **Missing Action File** | Synthesizing paper from plant fibers and creating Iron Gall ink to ensure the physical ledger outlasts scavenged notebooks. |
 | `01_Rationale_and_Importance.md` | Rationale and Importance: Mechanics and Infrastructure | **Module Theory & Structure** | The ability to maintain tools and synthesize materials is the difference between a temporary refugee camp and a permanent civilization. This module... |
 | `02_Mechanical_Power.md` | Mechanical Power and the Line-Shaft: Engineering Guide | **Action Oriented** | Mechanical systems depend on stable, consistent torque. Direct drive from a water wheel can be "jerky" due to fluctuating water flow. In Aadhiyandh... |
 | `03_Low_Tech_Mobility.md` | Low-Tech Mobility: Cargo Trike Construction Guide | **Action Oriented** | Mobility is the backbone of logistics. In a post-fuel world, the ability to move 200kg of grain, timber, or water across a settlement determines th... |
@@ -167,7 +166,6 @@ This document organizes all files in the repository by the **6 Expected Outcomes
 | `05_Mathematics_and_Geometry.md` | Mathematics and Geometry: The Logic of Space | **Atomic Topic** | Arithmetic allows us to manage quantities of seeds, water, and tools. |
 | `06_Foundational_Science.md` | Foundational Science: The Art of Inquiry | **Atomic Topic** | Science is a tool for curiosity. Follow these 4 steps to understand anything: |
 | `07_Philosophy_and_Thought_Experiments.md` | Philosophy and Thought Experiments: The Lab of the Mind | **Atomic Topic** | A thought experiment is a simulation you run in your head. It helps you test ideas without using any materials. |
-| `01_Cultural_Technology_and_Rituals.md` | Cultural Technology: Rituals, Calendars, and Meaning | **Atomic Topic** | Outcome 6 is a Flourishing Civilization. A community can have perfect agriculture and secure borders, but without a shared sense of meaning and str... |
 | `01_Rationale_and_Importance.md` | Rationale and Importance: Archive of Natural Phenomena | **Module Theory & Structure** | Knowledge is the most durable tool. This module serves as the settlement's "encyclopedia"—a synthesized record of the laws of nature. It allows the... |
 | `02_Laws_of_Energy.md` | The Laws of Energy: Efficiency Audit Guide | **Action Oriented** | Energy is the primary currency of existence. Every time we transform energy (e.g., from water flow to mechanical rotation to heat), we "pay a tax" ... |
 | `03_Limiting_Factors.md` | Liebig's Law: System Diagnostic Guide | **Action Oriented** | When a system fails (e.g., a crop withers, or a forge won't get hot), settlers often respond by adding more of *everything*. This wastes time, mate... |
@@ -179,5 +177,5 @@ This document organizes all files in the repository by the **6 Expected Outcomes
 
 | File | Title | Classification | Summary |
 |---|---|---|---|
-| --- | [READY FOR REVIEW] Cultural Technology & Rites of Passage | **Missing Action File** | Structuring time via solstices and establishing community rituals. |
+| `01_Cultural_Technology_and_Rituals.md` | Cultural Technology: Rituals, Calendars, and Meaning | **Atomic Topic** | Outcome 6 is a Flourishing Civilization. A community can have perfect agriculture and secure borders, but without a shared sense of meaning and str... |
 

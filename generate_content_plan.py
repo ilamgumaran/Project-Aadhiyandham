@@ -25,9 +25,13 @@ def map_to_outcome(filepath):
         return "Outcome 1: Locating and Connecting Optimal Refugia"
     elif "03_The_Arrival" in filepath or "04_The_Body" in filepath or "06_The_Ecosystem" in filepath:
         return "Outcome 2: Absolute Biological Sovereignty"
+    elif "03_The_Arrival/07_Perimeter_Defense" in filepath: 
+        return "Outcome 3: Perimeter Sovereignty and Passive Defense"
     elif "05_The_Mind" in filepath:
-        return "Outcome 4: Psychological Centeredness" # It maps to Outcome 4 now because Outcome 3 is new
+        return "Outcome 4: Psychological Centeredness"
     elif "07_The_Mechanics" in filepath or "08_The_Society" in filepath or "09_The_Next_Generation" in filepath or "10_The_Archive" in filepath or "11_The_Horizon" in filepath:
+        if "09_The_Next_Generation/08_Cultural_Technology" in filepath:
+            return "Outcome 6: A Flourishing Civilization"
         return "Outcome 5: Decadal and Generational Resilience"
     elif "node_modules" in filepath:
         return "Ignore"
@@ -40,20 +44,23 @@ def generate_plan():
     outcomes = {
         "Outcome 1: Locating and Connecting Optimal Refugia": [],
         "Outcome 2: Absolute Biological Sovereignty": [],
-        "Outcome 3: Perimeter Sovereignty and Passive Defense": [{"file": "MISSING_PLACEHOLDER", "title": "[READY FOR REVIEW] Passive Perimeter Defense & Early Warning Systems", "summary": "Cultivating thorny biomimetic barriers, non-lethal deterrents, and acoustic tripwires.", "class": "Missing Action File"}],
+        "Outcome 3: Perimeter Sovereignty and Passive Defense": [],
         "Outcome 4: Psychological Centeredness": [],
         "Outcome 5: Decadal and Generational Resilience": [],
-        "Outcome 6: A Flourishing Civilization": [{"file": "MISSING_PLACEHOLDER", "title": "[READY FOR REVIEW] Cultural Technology & Rites of Passage", "summary": "Structuring time via solstices and establishing community rituals.", "class": "Missing Action File"}],
+        "Outcome 6: A Flourishing Civilization": [],
         "Foundational Documents": []
     }
     
-    # Adding known missing files to the outcomes mapping manually
-    outcomes["Outcome 2: Absolute Biological Sovereignty"].append({"file": "MISSING_PLACEHOLDER", "title": "[READY FOR REVIEW] Long-Term Food Preservation", "summary": "Root cellars, zero-energy lacto-fermentation, and salt-curing without modern refrigeration.", "class": "Missing Action File"})
-    outcomes["Outcome 2: Absolute Biological Sovereignty"].append({"file": "MISSING_PLACEHOLDER", "title": "[READY FOR REVIEW] Advanced Trauma Care & Midwifery", "summary": "Setting compound fractures, suturing without modern anesthetics, and zero-tech childbirth protocols.", "class": "Missing Action File"})
-    outcomes["Outcome 5: Decadal and Generational Resilience"].append({"file": "MISSING_PLACEHOLDER", "title": "[READY FOR REVIEW] Textile and Clothing Synthesis", "summary": "Shearing, spinning yarn, weaving looms, and natural leather tanning.", "class": "Missing Action File"})
-    outcomes["Outcome 5: Decadal and Generational Resilience"].append({"file": "MISSING_PLACEHOLDER", "title": "[READY FOR REVIEW] Advanced Structural Engineering", "summary": "Creating lime mortar, firing permanent brick, and timber-framing without scavenged nails.", "class": "Missing Action File"})
-    outcomes["Outcome 1: Locating and Connecting Optimal Refugia"].append({"file": "MISSING_PLACEHOLDER", "title": "[READY FOR REVIEW] Decentralized Networking & Trade Routes", "summary": "Establishing secure relay waystations and low-power long-distance communication protocols.", "class": "Missing Action File"})
-    outcomes["Outcome 4: Psychological Centeredness"].append({"file": "MISSING_PLACEHOLDER", "title": "[READY FOR REVIEW] Advanced Conflict Resolution", "summary": "Protocols for mediating interpersonal disputes without formal law enforcement and managing post-collapse grief.", "class": "Missing Action File"})
+    # Adding NEW missing files to the outcomes mapping manually based on the deep review
+    outcomes["Outcome 1: Locating and Connecting Optimal Refugia"].append({"file": "MISSING_PLACEHOLDER", "title": "[READY FOR REVIEW] Advanced Micro-Climate Forecasting", "summary": "Predicting localized weather shifts over a 50-year horizon without meteorological satellites.", "class": "Missing Action File"})
+    
+    outcomes["Outcome 2: Absolute Biological Sovereignty"].append({"file": "MISSING_PLACEHOLDER", "title": "[READY FOR REVIEW] Generational Sanitation & Humanure", "summary": "Thermophilic composting of human waste to safely close the phosphorus cycle without contaminating groundwater.", "class": "Missing Action File"})
+    outcomes["Outcome 2: Absolute Biological Sovereignty"].append({"file": "MISSING_PLACEHOLDER", "title": "[READY FOR REVIEW] Zero-Tech Dentistry & Oral Hygiene", "summary": "Preventing lethal dental abscesses via miswak/neem sticks, salt, and emergency extraction protocols.", "class": "Missing Action File"})
+    
+    outcomes["Outcome 3: Perimeter Sovereignty and Passive Defense"].append({"file": "MISSING_PLACEHOLDER", "title": "[READY FOR REVIEW] Wildfire Defensible Space", "summary": "Forest management, controlled burns, and structural fire-breaks to prevent absolute ecological erasure.", "class": "Missing Action File"})
+    
+    outcomes["Outcome 5: Decadal and Generational Resilience"].append({"file": "MISSING_PLACEHOLDER", "title": "[READY FOR REVIEW] Foundational Chemistry", "summary": "Extracting potash and lye from wood ash to synthesize soap, vital for surgical hygiene and disease prevention.", "class": "Missing Action File"})
+    outcomes["Outcome 5: Decadal and Generational Resilience"].append({"file": "MISSING_PLACEHOLDER", "title": "[READY FOR REVIEW] Information Storage", "summary": "Synthesizing paper from plant fibers and creating Iron Gall ink to ensure the physical ledger outlasts scavenged notebooks.", "class": "Missing Action File"})
 
     for filepath in md_files:
         if 'html/' in filepath or '.git/' in filepath:
@@ -63,6 +70,12 @@ def generate_plan():
         if outcome_key == "Ignore":
             continue
             
+        # Re-route specific files that were created in previous steps into their exact outcome
+        if "03_The_Arrival/07_Perimeter_Defense" in filepath:
+            outcome_key = "Outcome 3: Perimeter Sovereignty and Passive Defense"
+        elif "09_The_Next_Generation/08_Cultural_Technology" in filepath:
+            outcome_key = "Outcome 6: A Flourishing Civilization"
+
         title, summary = extract_metadata(filepath)
         
         classification = "Atomic Topic"
