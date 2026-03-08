@@ -16,7 +16,33 @@ The journey is not just traveling; it is the mastery of **Spatial Logic**. We br
 
 ---
 
-## 2. Understanding the Sub-Sections / துணைப்பிரிவுகளைப் புரிந்துகொள்ளுதல்
+## 2. Pre-Navigation Preparation / வழிசெலுத்தலுக்கு முந்தைய தயாரிப்பு
+
+Before engaging in spatial logic and map reading, the physical reality of the journey must be secured. A foot-based migration requires meticulous planning to avoid early systemic failure.
+
+### 1. Physical Conditioning and Pacing
+*   **The 50% Rule:** When traveling on foot with a mixed-age group or family, your maximum daily distance is 50% of the slowest member's capacity. Attempting to force a faster pace leads to injury and psychological breakdown.
+*   **Conditioning:** Begin training with weight months in advance. Walk on uneven terrain, not paved roads, to strengthen stabilizing ankle and knee ligaments.
+
+### 2. The Cargo Trolley System (The Travois)
+Carrying all necessary survival gear in a backpack (which limits you to ~20% of your body weight) is often insufficient for establishing a new settlement. 
+*   **The Single-Wheel Cart / Travois:** A manually pulled cart with a large, heavy-duty wheel (or a dual-wheel game cart for flatter terrain) allows a human to pull up to 100 lbs (45 kg) of gear with significantly less caloric expenditure than carrying it on their back. 
+*   **Harnessing:** The pulling harness should strap across the chest and hips, not just the shoulders. This keeps the center of gravity low and frees the hands for defense or clearing brush.
+
+### 3. Essential Carry (The Sovereignty Kit)
+Your cargo must prioritize items that cannot be easily manufactured in the wild:
+*   **Core Tools:** High-carbon steel axe, folding cross-cut saw, fixed-blade knife, and a tempered shovel.
+*   **Water & Fire:** Single-wall metal canteens (for boiling water directly in a fire), a field-expedient water filter, and multiple ferrocerium rods.
+*   **The Seed Bank:** Lightweight, vacuum-sealed heirloom seeds (beans, squash, corn, potatoes) to immediately begin establishing food sovereignty upon arrival.
+
+### 4. Transient Sheltering (En Route)
+Do not carry heavy, rigid tents. 
+*   **The Tarp System:** Carry heavy-duty, waterproof silnylon tarps and 100 feet of high-tensile paracord. A tarp can be strung between trees (an A-frame or lean-to) in minutes, providing immediate protection from rain and wind while saving massive weight.
+*   **Ground Insulation:** Your body loses heat up to 25 times faster to the cold ground than to the air. Always prioritize a thick sleeping pad or gather a thick pile of dry leaves/pine needles beneath you before worrying about a blanket on top.
+
+---
+
+## 3. Navigation Sub-Sections / வழிசெலுத்தல் துணைப்பிரிவுகள்
 
 ### 02. [Orienting: Where Am I?](02_Orienting_and_Positioning.md)
 **Purpose:** To anchor the traveler. Before you can look at a map, you must look at the ground. This section teaches you to use "Handrails" like rivers and ridges to find your exact location without a GPS.
