@@ -49,6 +49,7 @@ By implementing robust systems for basic biological and psychological needs, we 
 Every module directory contains a **01_Rationale_and_Importance.md** file. This explains the underlying philosophy and "Why" behind the technical steps, ensuring that the settlers build with wisdom, not just rules.
 
 ## Resources
+*   **[content_plan.md](content_plan.md):** The master tracker classifying all atomic and action-oriented files.
 *   **[master_report.md](master_report.md):** The final synthesis and global candidate ranking.
 *   **[settlers_summary.md](settlers_summary.md):** The condensed, action-oriented handbook.
 *   **[Glossary.md](Glossary.md):** Detailed definitions of project terms.
