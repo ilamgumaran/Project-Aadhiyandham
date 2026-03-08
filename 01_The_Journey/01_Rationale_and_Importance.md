@@ -2,9 +2,19 @@
 
 Identifying a resilient location is only half the challenge; the other half is reaching it effectively during a period of systemic instability. This module provides the logistical bridge between Georgia, USA, and the global refugia network.
 
-## Why These Steps are Taken
+## Module Index (பொருளடக்கம்)
+*   **01 [Rationale and Importance](01_Rationale_and_Importance.md)**
+*   **02 [Transit Guide from Georgia, USA](02_Transit_Guide_from_Georgia_USA.md)**
+*   **03 [Emergency Family Transit Protocol](03_Emergency_Family_Transit_Protocol.md)**
+*   **04 [Terrestrial Navigation/](04_Terrestrial_Navigation/01_Rationale_and_Importance.md)**
+    *   04.1 [Rationale & Importance (Navigation)](04_Terrestrial_Navigation/01_Rationale_and_Importance.md)
+    *   04.2 [Map and Compass Guide](04_Terrestrial_Navigation/02_Map_and_Compass_Guide.md)
+    *   04.3 [Sun Navigation (Shadow-Stick)](04_Terrestrial_Navigation/03_Celestial_Navigation_Sun.md)
+    *   04.4 [Non-Motorized Transit Routes](04_Terrestrial_Navigation/04_Non_Motorized_Transit_Routes.md)
 
-### 1. Hub-Based Planning (ATL / SAV)
+---
+
+## Why These Steps are Taken / ஏன் இந்த நடவடிக்கைகள் எடுக்கப்படுகின்றன
 **Importance:** Efficiency and scale.
 **Rationale:** Georgia is home to Hartsfield-Jackson Atlanta International Airport (ATL), the world’s most connected hub, and the Port of Savannah (SAV), a premier Atlantic gateway. By centering our logistics on these two points, we maximize our "departure bandwidth" before systemic disruptions become permanent.
 
