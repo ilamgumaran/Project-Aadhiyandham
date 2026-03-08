@@ -28,17 +28,21 @@ Before engaging in spatial logic and map reading, the physical reality of the jo
 Carrying all necessary survival gear in a backpack (which limits you to ~20% of your body weight) is often insufficient for establishing a new settlement. 
 *   **The Single-Wheel Cart / Travois:** A manually pulled cart with a large, heavy-duty wheel (or a dual-wheel game cart for flatter terrain) allows a human to pull up to 100 lbs (45 kg) of gear with significantly less caloric expenditure than carrying it on their back. 
 *   **Harnessing:** The pulling harness should strap across the chest and hips, not just the shoulders. This keeps the center of gravity low and frees the hands for defense or clearing brush.
+*   **Family Scaling (2 Adults, 2 Teens):** Deploy at least **two** single-wheel carts. The adults (or strongest teen) pull the carts (carrying up to 200 lbs of heavy tools, seeds, and water), while the other two carry standard backpacks (~20-30 lbs each) containing immediate-access trauma kits, rain gear, and high-calorie rations.
 
 ### 3. Essential Carry (The Sovereignty Kit)
-Your cargo must prioritize items that cannot be easily manufactured in the wild:
-*   **Core Tools:** High-carbon steel axe, folding cross-cut saw, fixed-blade knife, and a tempered shovel.
-*   **Water & Fire:** Single-wall metal canteens (for boiling water directly in a fire), a field-expedient water filter, and multiple ferrocerium rods.
-*   **The Seed Bank:** Lightweight, vacuum-sealed heirloom seeds (beans, squash, corn, potatoes) to immediately begin establishing food sovereignty upon arrival.
+Your cargo must prioritize items that cannot be easily manufactured in the wild. **For a family of 4 (2 Adults, 2 Teens), pack the following quantities:**
+*   **Core Tools:** 1x High-carbon steel axe, 1x folding cross-cut saw, 4x fixed-blade knives (one worn on the belt of every family member), and 2x tempered shovels.
+*   **Water & Fire:** 4x 40oz (1.2L) single-wall stainless steel canteens (unlined, so they can be placed directly in a fire to boil water), 1x high-capacity gravity water filter (with 4x individual pocket filters as backup), and 4x ferrocerium rods.
+*   **The Seed Bank:** 10 lbs (4.5 kg) of lightweight, vacuum-sealed heirloom seeds (beans, squash, corn, potatoes) distributed across two different packs in case one is lost.
+*   **Transit Calories:** Minimum 2,500 calories per person, per day. For a 10-day trek, the family requires roughly 80 lbs (36 kg) of highly dense rations (pemmican, hardtack, nut butters).
 
 ### 4. Transient Sheltering (En Route)
 Do not carry heavy, rigid tents. 
-*   **The Tarp System:** Carry heavy-duty, waterproof silnylon tarps and 100 feet of high-tensile paracord. A tarp can be strung between trees (an A-frame or lean-to) in minutes, providing immediate protection from rain and wind while saving massive weight.
+*   **The Tarp System:** Carry heavy-duty, waterproof silnylon tarps and high-tensile paracord. A tarp can be strung between trees (an A-frame or lean-to) in minutes, providing immediate protection from rain and wind while saving massive weight.
+    *   **Family Scaling (4 people):** Carry **two 10x10 ft (3x3m)** tarps and 200 feet of paracord. This allows you to build two adjacent A-frames (2 people per shelter).
 *   **Ground Insulation:** Your body loses heat up to 25 times faster to the cold ground than to the air. Always prioritize a thick sleeping pad or gather a thick pile of dry leaves/pine needles beneath you before worrying about a blanket on top.
+    *   **Family Scaling:** Carry exactly **four closed-cell foam sleeping pads** (R-value of 3.0 or higher). Do not rely on inflatable pads, as a puncture in the wild compromises survival.
 
 ---
 
