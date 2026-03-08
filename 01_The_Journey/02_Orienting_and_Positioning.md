@@ -1,50 +1,51 @@
-# Orienting: Where Am I?
-# நோக்குநிலை: நான் எங்கே இருக்கிறேன்?
+# Orienting: Where Am I? (A Step-by-Step Guide)
 
-Before you can move toward a destination, you must understand your current relationship with the physical landscape. This is called **Positioning**.
+## 1. Why This Is Important
+Before you can use a map or a compass, you must anchor your mind to the physical ground. "Positioning" is the act of identifying your location based on natural features. This prevents the "Lizard-Brain" panic that often occurs when a traveler realizes they do not know their location relative to life-saving resources.
 
-ஒரு இலக்கை நோக்கிச் செல்வதற்கு முன், தற்போதைய நிலப்பரப்புடன் உங்கள் உறவைப் புரிந்து கொள்ள வேண்டும். இது **நிலைப்படுத்துதல்** (Positioning) எனப்படும்.
-
----
-
-## 1. How-To: Finding Your Current Location (Step-by-Step)
-## எப்படி செய்வது: உங்கள் தற்போதைய இடத்தைக் கண்டறிதல்
-
-### Step 1: The High-Ground Scan (உயரமான இடத்திலிருந்து கவனித்தல்)
-1.  Locate the highest point nearby (a hill, a building, or a large tree).
-    அருகிலுள்ள மிக உயர்ந்த இடத்தைக் கண்டறியவும்.
-2.  **Observe:** Identify major features—rivers, mountains, or ruins.
-    **கவனி:** ஆறுகள், மலைகள் அல்லது இடிபாடுகளை அடையாளம் காணவும்.
-
-### Step 2: The Water-Flow Rule (நீர் பாயும் விதி)
-1.  Observe which way the water is flowing in the nearest stream or gutter.
-    அருகிலுள்ள ஓடை அல்லது வடிகாலில் தண்ணீர் எந்தத் திசையில் பாய்கிறது என்பதைக் கவனியுங்கள்.
-2.  **Rationale:** Water always flows toward lower elevation. If you follow water downstream, you are moving away from the mountain refugia. If you move upstream, you are moving toward the "Cradle" (Module 02).
-
-### Step 3: Triangulation (முக்கோண முறை)
-1.  Find two prominent landmarks (e.g., a specific mountain peak and a cell tower ruin).
-    இரண்டு முக்கியமான அடையாளங்களைக் கண்டறியவும்.
-2.  **Positioning:** Mentally (or on a map) draw lines from those points to yourself. Where those lines meet is **YOU**.
+## 2. Expected Outcome
+The ability to pinpoint your location on a paper map (within 100 meters) using only your eyes and the surrounding terrain.
 
 ---
 
-## 2. Visual Illustration (Conceptual) / காட்சி விளக்கம்
+## 3. Step-by-Step Instructions
+
+### Step 1: Find the "Sentinel" (Landmark Identification)
+Look for two things that do not move and are visible from a distance.
+1.  ** Sentinel A:** A distinct mountain peak, a large radio tower, or a specific bend in a river.
+2.  ** Sentinel B:** A second landmark that is at least 45 degrees away from the first one.
+3.  **Validation:** If you hold your arms out toward both landmarks, the angle between your arms should feel "wide" (like a corner of a room). If they are too close together, your location will be inaccurate.
+
+### Step 2: The "Natural Grid" Scan (High Ground)
+1.  Climb to the nearest high point.
+2.  **Look for Water:** Identify the nearest moving water.
+3.  **The Rule:** Water flows DOWNHILL. If the water is on your left and flowing away from you, you are on a slope facing the direction of that flow.
+4.  **Validation:** Drop a small stick in the water. If it moves "away" from your target refugia (the mountains), you are moving toward the lowlands (The Danger Zone).
+
+### Step 3: Body-to-Landscape Alignment
+1.  Stand facing Sentinel A.
+2.  Point your left hand at Sentinel B.
+3.  Look at your map. Find these two landmarks.
+4.  **Validation Check:** Draw two imaginary lines from those landmarks on the map toward yourself. If the lines cross near where you think you are standing, you have successfully "Positioned" yourself.
+
+---
+
+## 4. How to Know if You Are Correct (Validation)
+*   **The 3-Point Check:** Identify a third landmark (Sentinel C). If a line from Sentinel C also crosses at the same spot as A and B, your position is **100% Verified**.
+*   **The Horizon Match:** The shape of the horizon you see should match the "wiggly lines" (contours) on your map. If the map shows a steep cliff and you see a flat plain, you are in the wrong valley.
+
+## 5. Visual Illustration (Conceptual)
 
 ```text
-      [ LANDMARK A ]              [ LANDMARK B ]
-      (e.g. Peak)                 (e.g. Tower)
-             \                          /
-              \   Line of Sight 1      /
-               \                      /  Line of Sight 2
-                \        [ YOU ]     /
-                 \__________X_______/
-                            |
-                    [ INTERSECTION ]
+[ LANDMARK A ] (The Peak)      [ LANDMARK B ] (The Tower)
+             \                        /
+              \   Line of Sight A    /
+               \                    /  Line of Sight B
+                \       [ YOU ]    /
+                 \_________X______/
+                           |
+                   [ VERIFIED SPOT ]
 ```
-
----
-*Positioning is the anchor of the mind.*
-*நிலைப்படுத்துதல் என்பது மனதின் நங்கூரம்.*
 扫
 扫
 扫
