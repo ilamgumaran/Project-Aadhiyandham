@@ -1,5 +1,7 @@
 # Rationale and Importance: The First 100 Days
 
+**Alignment:** Outcome 2: Absolute Biological Sovereignty
+
 The "Immediate Horizon" is the most volatile phase of Project Aadhiyandham. Upon arrival at a candidate location, the settlers transition from a state of scavenging or transit to a state of permanent habitation. This module exists to bridge that gap by defining the **Environmental Archetype**—the specific set of conditions required for a flourishing, self-sustaining ecosystem.
 
 ## Why These Steps are Taken

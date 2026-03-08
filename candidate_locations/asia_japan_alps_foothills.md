@@ -1,5 +1,7 @@
 # Candidate Location Evaluation: Japanese Alps Foothills (Asia)
 
+**Alignment:** Outcome 1: Locating and Connecting Optimal Refugia
+
 ## Location Overview
 *   **Name:** Japanese Alps Foothills (Ina / Azumino Valleys)
 *   **Coordinates/Region:** Central Honshu, Japan (Nagano Prefecture)

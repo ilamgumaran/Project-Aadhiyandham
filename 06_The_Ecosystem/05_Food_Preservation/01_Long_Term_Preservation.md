@@ -1,5 +1,7 @@
 # Long-Term Food Preservation: Surviving the Winter
 
+**Alignment:** Outcome 2: Absolute Biological Sovereignty
+
 ## 1. Why This Is Important (The Rationale)
 Outcome 2 requires Absolute Biological Sovereignty. Growing food is only half the equation; a settlement must survive the dormant winter months when the soil yields nothing. Without industrial refrigeration, failure to preserve the autumn harvest results in decadal collapse. 
 

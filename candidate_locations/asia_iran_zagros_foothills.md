@@ -1,5 +1,7 @@
 # Candidate Location Evaluation: Zagros Foothills, Ilam (Asia)
 
+**Alignment:** Outcome 1: Locating and Connecting Optimal Refugia
+
 ## Location Overview
 *   **Name:** Zagros Foothills (Ilam Province)
 *   **Coordinates/Region:** Western Iran (Bordering Iraq)

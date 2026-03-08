@@ -1,5 +1,7 @@
 # Candidate Location Evaluation: Biobío Foothills (South America)
 
+**Alignment:** Outcome 1: Locating and Connecting Optimal Refugia
+
 ## Location Overview
 *   **Name:** Biobío Foothills (Andean Precordillera / Andean Depression)
 *   **Coordinates/Region:** Central-Southern Chile (Biobío Region)

@@ -1,5 +1,7 @@
 # Candidate Location Evaluation: Magdalena Medio Benches, Antioquia (South America)
 
+**Alignment:** Outcome 1: Locating and Connecting Optimal Refugia
+
 ## Location Overview
 *   **Name:** Magdalena Medio (Antioquia Terraces)
 *   **Coordinates/Region:** Antioquia Department, Colombia

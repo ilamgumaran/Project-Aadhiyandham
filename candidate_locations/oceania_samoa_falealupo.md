@@ -1,5 +1,7 @@
 # Candidate Location Evaluation: Falealupo Peninsula, Samoa
 
+**Alignment:** Outcome 1: Locating and Connecting Optimal Refugia
+
 ## Location Overview
 *   **Name:** Falealupo Peninsula (Coastal Rainforest)
 *   **Coordinates/Region:** Savai'i Island, Samoa

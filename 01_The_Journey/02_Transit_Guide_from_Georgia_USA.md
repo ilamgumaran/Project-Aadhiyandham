@@ -1,5 +1,7 @@
 # Transit Guide: The Last Mile Strategy
 
+**Alignment:** Outcome 1: Locating and Connecting Optimal Refugia
+
 ## 1. Why This Is Important
 Reaching refugia requires moving heavy gear over terrain where wheels often fail. The **Travois** is a zero-tech transport tool used by resilient cultures for millennia.
 

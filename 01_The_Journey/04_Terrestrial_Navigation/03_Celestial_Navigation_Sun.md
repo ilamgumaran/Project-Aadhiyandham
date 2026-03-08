@@ -1,4 +1,6 @@
 # Celestial Navigation: Finding North with the Sun
+
+**Alignment:** Outcome 1: Locating and Connecting Optimal Refugia
 # வானியல் வழிசெலுத்தல்: சூரியனைக் கொண்டு வடக்கைக் கண்டறிதல்
 
 If you lose your compass, the sun is your permanent guide. Use the **Shadow-Stick Method** to find True North.

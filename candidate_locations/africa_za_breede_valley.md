@@ -1,5 +1,7 @@
 # Candidate Location Evaluation: Breede River Valley, South Africa (Africa)
 
+**Alignment:** Outcome 1: Locating and Connecting Optimal Refugia
+
 ## Location Overview
 *   **Name:** Breede River Valley
 *   **Coordinates/Region:** Western Cape (Worcester / Robertson)

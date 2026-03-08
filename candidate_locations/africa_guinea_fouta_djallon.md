@@ -1,5 +1,7 @@
 # Candidate Location Evaluation: Fouta Djallon Terraces, Guinea (Africa)
 
+**Alignment:** Outcome 1: Locating and Connecting Optimal Refugia
+
 ## Location Overview
 *   **Name:** Fouta Djallon Terraces
 *   **Coordinates/Region:** Central Guinea (Labé / Dalaba)

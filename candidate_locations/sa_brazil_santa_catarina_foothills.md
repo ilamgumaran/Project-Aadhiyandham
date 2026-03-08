@@ -1,5 +1,7 @@
 # Candidate Location Evaluation: Santa Catarina Foothills (Brazil)
 
+**Alignment:** Outcome 1: Locating and Connecting Optimal Refugia
+
 ## Location Overview
 *   **Name:** Santa Catarina Foothills (Encostas da Serra Geral)
 *   **Coordinates/Region:** Southern Brazil (Santa Rosa de Lima / Rancho Queimado)

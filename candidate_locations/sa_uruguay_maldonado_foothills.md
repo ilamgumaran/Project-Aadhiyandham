@@ -1,5 +1,7 @@
 # Candidate Location Evaluation: Maldonado Foothills, Uruguay (South America)
 
+**Alignment:** Outcome 1: Locating and Connecting Optimal Refugia
+
 ## Location Overview
 *   **Name:** Maldonado Foothills (Sierra de las Ánimas)
 *   **Coordinates/Region:** Maldonado Department, Uruguay

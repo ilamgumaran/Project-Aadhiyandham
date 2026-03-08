@@ -1,5 +1,7 @@
 # Candidate Location Evaluation: Ozark Plateau (Lower Terraces), MO/AR (USA)
 
+**Alignment:** Outcome 1: Locating and Connecting Optimal Refugia
+
 ## Location Overview
 *   **Name:** Ozark Plateau Lower Terraces (White / Buffalo River Basins)
 *   **Coordinates/Region:** Southern Missouri and Northern Arkansas, USA

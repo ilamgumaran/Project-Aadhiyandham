@@ -1,5 +1,7 @@
 # The Brain's Biochemical Signals: Endocrine Regulation Guide
 
+**Alignment:** Outcome 2: Absolute Biological Sovereignty
+
 ## 1. Why This Is Important
 The human brain is an environmental sensor. Most modern health issues (anxiety, insomnia, depression) stem from a "mismatch" between our ancestral biology and our artificial environments. In Aadhiyandham, we treat light and sleep as precise biological inputs. By engineering our daily rhythms to match natural cycles, we maintain the **Centered Null**—a state of emotional and physiological stability.
 

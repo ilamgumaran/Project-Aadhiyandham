@@ -1,5 +1,7 @@
 # Candidate Location Evaluation: Peloponnese Foothills (Coastal Buffer), Greece (Europe)
 
+**Alignment:** Outcome 1: Locating and Connecting Optimal Refugia
+
 ## Location Overview
 *   **Name:** Messenian Foothills (Taygetos Buffer)
 *   **Coordinates/Region:** Southwestern Peloponnese, Greece (Kalamata / Mani periphery)

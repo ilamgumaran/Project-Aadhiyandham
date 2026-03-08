@@ -1,5 +1,7 @@
 # Rationale and Importance: Biological Health
 
+**Alignment:** Outcome 2: Absolute Biological Sovereignty
+
 In an isolated settlement, the human body is the most sensitive and essential piece of "equipment." Without a complex industrial medical system, we must rely on prevention, understanding of natural rhythms, and the cultivation of botanical medicines.
 
 ## Why These Steps are Taken

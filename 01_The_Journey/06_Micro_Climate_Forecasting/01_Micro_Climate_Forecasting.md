@@ -1,5 +1,7 @@
 # Advanced Micro-Climate Forecasting: Reading the Sky and Earth
 
+**Alignment:** Outcome 1: Locating and Connecting Optimal Refugia
+
 ## 1. Why This Is Important (The Rationale)
 Outcome 1 requires securing a stable refugia. However, without meteorological satellites, a settlement is blind to incoming weather shifts, deep freezes, or decadal droughts. The ability to predict localized weather using only biological and atmospheric observation is critical to prevent planting crops too early or being caught off-guard by a catastrophic storm.
 

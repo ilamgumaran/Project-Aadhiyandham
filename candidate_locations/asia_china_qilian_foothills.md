@@ -1,5 +1,7 @@
 # Candidate Location Evaluation: Qilian Mountains Foothills (Asia)
 
+**Alignment:** Outcome 1: Locating and Connecting Optimal Refugia
+
 ## Location Overview
 *   **Name:** Qilian Foothills (Hexi Corridor)
 *   **Coordinates/Region:** Gansu Province, China

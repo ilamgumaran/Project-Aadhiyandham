@@ -1,5 +1,7 @@
 # Candidate Location Evaluation: Pakke Foothills, Arunachal Pradesh (Asia)
 
+**Alignment:** Outcome 1: Locating and Connecting Optimal Refugia
+
 ## Location Overview
 *   **Name:** Pakke Foothills (Arunachal Pradesh)
 *   **Coordinates/Region:** Eastern Himalayas, India

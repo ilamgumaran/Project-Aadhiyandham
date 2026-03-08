@@ -1,4 +1,6 @@
 # Mathematics and Geometry: The Logic of Space
+
+**Alignment:** Outcome 5: Decadal and Generational Resilience
 # கணிதம் மற்றும் வடிவவியல்: இடவெளி தர்க்கம்
 
 ## 1. Arithmetic Recap / அடிப்படை எண்கணிதம்

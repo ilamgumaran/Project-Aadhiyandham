@@ -1,5 +1,7 @@
 # Candidate Location Evaluation: Central Valley (O'Higgins), Chile (South America)
 
+**Alignment:** Outcome 1: Locating and Connecting Optimal Refugia
+
 ## Location Overview
 *   **Name:** O'Higgins Benches (Tinguiririca Basin)
 *   **Coordinates/Region:** Central Valley, Chile (O'Higgins Region)

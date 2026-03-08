@@ -1,5 +1,7 @@
 # Candidate Location Evaluation: Serra do Mar State Park, Brazil
 
+**Alignment:** Outcome 1: Locating and Connecting Optimal Refugia
+
 ## Location Overview
 *   **Name:** Serra do Mar (Foothills)
 *   **Coordinates/Region:** São Paulo / Rio de Janeiro, Brazil

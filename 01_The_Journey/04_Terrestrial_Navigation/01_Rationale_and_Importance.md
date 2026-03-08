@@ -1,4 +1,6 @@
 # Rationale and Importance: Terrestrial Navigation
+
+**Alignment:** Outcome 1: Locating and Connecting Optimal Refugia
 # நோக்கம் மற்றும் முக்கியத்துவம்: நிலப்பரப்பு வழிசெலுத்தல்
 
 Navigation is the bridge between survival and reaching the objective. Modern systems (GPS, Internet) depend on a fragile global infrastructure. If these systems fail, or if motorized transit is unavailable, the ability to read the land and the stars becomes the primary life-saving skill.

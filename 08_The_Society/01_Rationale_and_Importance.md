@@ -1,5 +1,7 @@
 # Rationale and Importance: Historical Wisdom
 
+**Alignment:** Outcome 5: Decadal and Generational Resilience
+
 A civilization that does not understand why its predecessors failed is destined to repeat those failures. This module catalogs the social and environmental patterns of the past to build a flexible, reason-based society.
 
 ## Why These Steps are Taken

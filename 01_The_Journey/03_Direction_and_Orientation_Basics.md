@@ -1,4 +1,6 @@
 # Direction: Which Way?
+
+**Alignment:** Outcome 1: Locating and Connecting Optimal Refugia
 # திசை: எந்த வழி?
 
 Once you know where you are (Positioning), you must decide which way to go. This is called **Navigation**.

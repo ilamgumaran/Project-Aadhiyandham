@@ -1,5 +1,7 @@
 # Topographical Resilience: Land Selection Guide
 
+**Alignment:** Outcome 1: Locating and Connecting Optimal Refugia
+
 ## 1. Why This Is Important
 The topography of your site is your primary defense against a changing climate. High-tech defenses require constant energy. Natural topographical features—elevation, ridges, and valleys—provide "passive protection" that never fails. By choosing the right shape of land, you reduce the physical and energetic cost of survival to a minimum.
 

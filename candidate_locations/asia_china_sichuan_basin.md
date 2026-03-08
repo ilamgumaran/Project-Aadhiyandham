@@ -1,5 +1,7 @@
 # Candidate Location Evaluation: Sichuan Basin Benches, China (Asia)
 
+**Alignment:** Outcome 1: Locating and Connecting Optimal Refugia
+
 ## Location Overview
 *   **Name:** Sichuan Basin (Peripheral Hills/Benches)
 *   **Coordinates/Region:** Southwest China (Sichuan Province)

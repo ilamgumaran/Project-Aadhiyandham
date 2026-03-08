@@ -1,5 +1,7 @@
 # Candidate Location Evaluation: Paraná Foothills (South America)
 
+**Alignment:** Outcome 1: Locating and Connecting Optimal Refugia
+
 ## Location Overview
 *   **Name:** Paraná Foothills (Lower Serra Geral)
 *   **Coordinates/Region:** Western Paraná State, Brazil

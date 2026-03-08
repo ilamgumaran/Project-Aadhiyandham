@@ -1,5 +1,7 @@
 # Candidate Location Evaluation Template
 
+**Alignment:** Outcome 1: Locating and Connecting Optimal Refugia
+
 Use this template to score a real-world location against the Aadhiyandham blueprint. Copy this file, rename it to the region (e.g., `usa_tn_sequatchie_valley.md`), and fill in the data.
 
 ## Location Overview

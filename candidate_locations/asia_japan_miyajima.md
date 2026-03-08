@@ -1,5 +1,7 @@
 # Candidate Location Evaluation: Miyajima Island, Japan
 
+**Alignment:** Outcome 1: Locating and Connecting Optimal Refugia
+
 ## Location Overview
 *   **Name:** Miyajima Island (Lower Slopes of Mt. Misen)
 *   **Coordinates/Region:** Hiroshima Prefecture, Seto Inland Sea, Japan

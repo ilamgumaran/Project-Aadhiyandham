@@ -1,5 +1,7 @@
 # Candidate Location Evaluation: South-Central Valleys (Korean Peninsula)
 
+**Alignment:** Outcome 1: Locating and Connecting Optimal Refugia
+
 ## Location Overview
 *   **Name:** South-Central Valleys (Gyeongsang / Jeolla Basins)
 *   **Coordinates/Region:** South-Central South Korea

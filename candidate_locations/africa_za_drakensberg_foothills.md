@@ -1,5 +1,7 @@
 # Candidate Location Evaluation: Drakensberg Foothills (Africa)
 
+**Alignment:** Outcome 1: Locating and Connecting Optimal Refugia
+
 ## Location Overview
 *   **Name:** Drakensberg Foothills (Lower Benches / Foothills)
 *   **Coordinates/Region:** KwaZulu-Natal, South Africa

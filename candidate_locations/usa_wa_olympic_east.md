@@ -1,5 +1,7 @@
 # Candidate Location Evaluation: Olympic Peninsula (East Side), WA (USA)
 
+**Alignment:** Outcome 1: Locating and Connecting Optimal Refugia
+
 ## Location Overview
 *   **Name:** Olympic Peninsula (East Side / Sequim-Dungeness Valley)
 *   **Coordinates/Region:** Clallam and Jefferson counties, Washington State

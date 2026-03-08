@@ -1,5 +1,7 @@
 # Candidate Location Evaluation: Margaret River Foothills, WA (Australia)
 
+**Alignment:** Outcome 1: Locating and Connecting Optimal Refugia
+
 ## Location Overview
 *   **Name:** Margaret River Foothills (Wilyabrup Valleys)
 *   **Coordinates/Region:** Southwest Western Australia (Leeuwin-Naturaliste Ridge)

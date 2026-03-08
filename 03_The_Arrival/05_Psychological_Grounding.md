@@ -1,4 +1,6 @@
 # Psychological Grounding: The Return to Null
+
+**Alignment:** Outcome 2: Absolute Biological Sovereignty
 # உளவியல் அடிப்படை: சூனியத்திற்குத் திரும்புதல்
 
 ## 1. Why This Is Important

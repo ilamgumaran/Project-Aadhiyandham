@@ -1,5 +1,7 @@
 # Candidate Location Evaluation: Danube Bend, Hungary (Europe)
 
+**Alignment:** Outcome 1: Locating and Connecting Optimal Refugia
+
 ## Location Overview
 *   **Name:** Danube Bend (Visegrád Mountains / Pilis Foothills)
 *   **Coordinates/Region:** Central Hungary (Pest / Komárom-Esztergom counties)

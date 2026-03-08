@@ -1,5 +1,7 @@
 # Candidate Location Evaluation: Porongurup National Park, Australia
 
+**Alignment:** Outcome 1: Locating and Connecting Optimal Refugia
+
 ## Location Overview
 *   **Name:** Porongurup National Park (Lower Slopes)
 *   **Coordinates/Region:** Great Southern Region, Western Australia

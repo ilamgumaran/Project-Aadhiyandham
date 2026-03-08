@@ -1,4 +1,6 @@
 # Non-Motorized Transit: Moving without Fuel
+
+**Alignment:** Outcome 1: Locating and Connecting Optimal Refugia
 # மோட்டார் இல்லாத போக்குவரத்து: எரிபொருள் இல்லாமல் நகர்தல்
 
 If motorized transit (cars/planes) is unavailable, you must utilize the national network of bicycle and hiking trails.

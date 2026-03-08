@@ -1,5 +1,7 @@
 # Candidate Location Evaluation: Hudson Valley (Upper), NY (USA)
 
+**Alignment:** Outcome 1: Locating and Connecting Optimal Refugia
+
 ## Location Overview
 *   **Name:** Upper Hudson Valley (Catskill / Taconic Foothills)
 *   **Coordinates/Region:** Hudson Valley, New York (Dutchess, Columbia, and Ulster counties)

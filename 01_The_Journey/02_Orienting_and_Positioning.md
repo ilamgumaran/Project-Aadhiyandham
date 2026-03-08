@@ -1,5 +1,7 @@
 # Orienting: Where Am I? (A Step-by-Step Guide)
 
+**Alignment:** Outcome 1: Locating and Connecting Optimal Refugia
+
 ## 1. Why This Is Important
 Before you can use a map or a compass, you must anchor your mind to the physical ground. "Positioning" is the act of identifying your location based on natural features. This prevents the "Lizard-Brain" panic that often occurs when a traveler realizes they do not know their location relative to life-saving resources.
 

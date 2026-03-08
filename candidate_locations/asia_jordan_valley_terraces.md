@@ -1,5 +1,7 @@
 # Candidate Location Evaluation: Jordan Valley Terraces (Asia)
 
+**Alignment:** Outcome 1: Locating and Connecting Optimal Refugia
+
 ## Location Overview
 *   **Name:** Jordan Valley Terraces (Ghor / Jordan Side)
 *   **Coordinates/Region:** Jordan River Valley, Jordan

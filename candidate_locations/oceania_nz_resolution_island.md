@@ -1,5 +1,7 @@
 # Candidate Location Evaluation: Resolution Island, New Zealand
 
+**Alignment:** Outcome 1: Locating and Connecting Optimal Refugia
+
 ## Location Overview
 *   **Name:** Resolution Island (Lowland Forests)
 *   **Coordinates/Region:** Fiordland, South Island, NZ

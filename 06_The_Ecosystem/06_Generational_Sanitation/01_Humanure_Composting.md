@@ -1,5 +1,7 @@
 # Generational Sanitation & Humanure: Closing the Loop
 
+**Alignment:** Outcome 2: Absolute Biological Sovereignty
+
 ## 1. Why This Is Important (The Rationale)
 Outcome 2 demands Absolute Biological Sovereignty. "Emergency Pit Latrines" (Module 03.06) are only valid for the first 100 days. Over a decade, pit latrines will leach concentrated pathogens and excess nitrogen into the settlement's groundwater. Furthermore, human waste contains the exact phosphorus and nitrogen needed to grow food. Throwing it in a hole breaks the ecological cycle; safely composting it into "Humanure" ensures perpetual soil fertility.
 

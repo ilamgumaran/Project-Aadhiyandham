@@ -1,5 +1,7 @@
 # Zero-Tech Dentistry & Oral Hygiene: Preventing the Abscess
 
+**Alignment:** Outcome 2: Absolute Biological Sovereignty
+
 ## 1. Why This Is Important (The Rationale)
 Outcome 2 requires maintaining baseline health. Throughout human history, before the advent of modern antibiotics, an infected tooth (abscess) was a leading cause of death. The infection travels directly through the jaw into the bloodstream, causing systemic sepsis or brain infections. Without industrial dentistry, prevention is the only viable strategy for decadal survival.
 

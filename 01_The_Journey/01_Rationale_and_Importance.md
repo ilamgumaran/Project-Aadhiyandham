@@ -1,4 +1,6 @@
 # Rationale and Importance: Logistics and Transit
+
+**Alignment:** Outcome 1: Locating and Connecting Optimal Refugia
 # நோக்கம் மற்றும் முக்கியத்துவம்: தளவாடங்கள் மற்றும் போக்குவரத்து
 
 "Logistics and Transit" (The Journey) is the most critical and vulnerable stage of Project Aadhiyandham. It represents the physical move from a centralized, failing infrastructure to a decentralized, resilient one. This module serves as a complete manual for moving families and supplies safely across a changing world.

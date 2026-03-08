@@ -1,5 +1,7 @@
 # Candidate Location Evaluation: Ebro Valley Terraces, Spain (Europe)
 
+**Alignment:** Outcome 1: Locating and Connecting Optimal Refugia
+
 ## Location Overview
 *   **Name:** Ebro Valley (Pre-Pyrenees Terraces)
 *   **Coordinates/Region:** Aragon / Navarre, Spain

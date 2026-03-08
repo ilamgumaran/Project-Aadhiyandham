@@ -1,5 +1,7 @@
 # Candidate Location Evaluation: Rhône Valley Benches, France (Europe)
 
+**Alignment:** Outcome 1: Locating and Connecting Optimal Refugia
+
 ## Location Overview
 *   **Name:** Lower Rhône Valley Benches (Galets Roulés Terraces)
 *   **Coordinates/Region:** Southern Rhône (Vaucluse / Drôme), France

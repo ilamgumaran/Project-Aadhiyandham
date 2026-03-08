@@ -1,5 +1,7 @@
 # Candidate Location Evaluation: Willamette Foothills, Oregon (USA)
 
+**Alignment:** Outcome 1: Locating and Connecting Optimal Refugia
+
 ## Location Overview
 *   **Name:** Willamette Foothills (Jory Soil Belt)
 *   **Coordinates/Region:** Willamette Valley periphery (Yamhill, Polk, and Marion counties), Oregon

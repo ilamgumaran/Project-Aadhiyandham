@@ -1,5 +1,7 @@
 # Wildfire Defensible Space: Ecological Shielding
 
+**Alignment:** Outcome 3: Perimeter Sovereignty and Passive Defense
+
 ## 1. Why This Is Important (The Rationale)
 Outcome 3 establishes Perimeter Sovereignty. While passive defenses keep human and animal intruders out, they are useless against the apex predator of the forest: Wildfire. Without industrial fire departments or aerial water drops, a massive crown fire will entirely erase the refugia. The settlement must engineer the surrounding ecology so that a fire drops from the tree canopy to the ground, where it can be managed.
 

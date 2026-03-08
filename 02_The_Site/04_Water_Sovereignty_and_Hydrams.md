@@ -1,5 +1,7 @@
 # Water Sovereignty: The Hydraulic Ram Pump Guide
 
+**Alignment:** Outcome 1: Locating and Connecting Optimal Refugia
+
 ## 1. Why This Is Important
 Water is the lifeblood of the settlement. However, most reliable springs are found at the base of slopes, while the most resilient housing and agriculture are found higher up in the "Thermal Belt." Moving water uphill usually requires electricity or fuel. The **Hydraulic Ram Pump (Hydram)** is a mechanical masterpiece that uses the momentum of falling water to lift a portion of that water uphill with **zero external energy**.
 

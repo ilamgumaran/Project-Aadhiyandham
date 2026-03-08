@@ -1,5 +1,7 @@
 # The Temperate Antibiotic Kit: Preparation Guide
 
+**Alignment:** Outcome 2: Absolute Biological Sovereignty
+
 ## 1. Why This Is Important
 Without synthetic pharmaceuticals, we rely on the biochemical power of plants. This module identifies five "foundational healers" and provides the logic for turning them into stable medical artifacts.
 

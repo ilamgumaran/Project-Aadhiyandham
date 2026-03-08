@@ -1,5 +1,7 @@
 # Emergency Sanitation: The Pit Latrine Guide
 
+**Alignment:** Outcome 2: Absolute Biological Sovereignty
+
 ## 1. Why This Is Important
 According to **WHO Standards**, sanitation is the primary barrier against the second wave of disaster: disease outbreaks. Improperly placed waste will contaminate your water source and kill the settlement faster than a storm.
 

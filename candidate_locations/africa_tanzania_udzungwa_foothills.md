@@ -1,5 +1,7 @@
 # Candidate Location Evaluation: Udzungwa Foothills, Tanzania (Africa)
 
+**Alignment:** Outcome 1: Locating and Connecting Optimal Refugia
+
 ## Location Overview
 *   **Name:** Udzungwa Foothills (Kilombero Valley Periphery)
 *   **Coordinates/Region:** South-Central Tanzania

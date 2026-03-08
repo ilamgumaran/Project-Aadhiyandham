@@ -1,5 +1,7 @@
 # Candidate Location Evaluation: Huon Valley, Tasmania (Oceania)
 
+**Alignment:** Outcome 1: Locating and Connecting Optimal Refugia
+
 ## Location Overview
 *   **Name:** Huon Valley
 *   **Coordinates/Region:** Southern Tasmania, Australia

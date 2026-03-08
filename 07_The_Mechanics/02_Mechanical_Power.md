@@ -1,5 +1,7 @@
 # Mechanical Power and the Line-Shaft: Engineering Guide
 
+**Alignment:** Outcome 5: Decadal and Generational Resilience
+
 ## 1. Why This Is Important
 Mechanical systems depend on stable, consistent torque. Direct drive from a water wheel can be "jerky" due to fluctuating water flow. In Aadhiyandham, we use **Flywheels** (Great Wheels) to store kinetic energy, smoothing out the power for precision tasks like turning or milling.
 

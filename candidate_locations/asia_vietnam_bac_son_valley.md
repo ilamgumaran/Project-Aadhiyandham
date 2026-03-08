@@ -1,5 +1,7 @@
 # Candidate Location Evaluation: Bac Son Valley, Vietnam (Asia)
 
+**Alignment:** Outcome 1: Locating and Connecting Optimal Refugia
+
 ## Location Overview
 *   **Name:** Bac Son Valley
 *   **Coordinates/Region:** Lang Son Province, Northwest Vietnam

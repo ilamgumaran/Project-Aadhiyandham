@@ -1,5 +1,7 @@
 # Candidate Location Evaluation: Bako Plateau, Sarawak (Asia)
 
+**Alignment:** Outcome 1: Locating and Connecting Optimal Refugia
+
 ## Location Overview
 *   **Name:** Bako Plateau
 *   **Coordinates/Region:** Sarawak, Malaysia (Borneo)

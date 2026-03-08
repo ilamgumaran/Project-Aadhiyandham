@@ -1,5 +1,7 @@
 # Candidate Location Evaluation: Shenandoah Valley (Lower), VA (USA)
 
+**Alignment:** Outcome 1: Locating and Connecting Optimal Refugia
+
 ## Location Overview
 *   **Name:** Lower Shenandoah Valley (Augusta / Rockbridge)
 *   **Coordinates/Region:** Western Virginia, USA

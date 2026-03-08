@@ -1,5 +1,7 @@
 # Candidate Location Evaluation: Bac Son Limestone Mountains, Vietnam
 
+**Alignment:** Outcome 1: Locating and Connecting Optimal Refugia
+
 ## Location Overview
 *   **Name:** Bac Son Limestone Mountains (Karst Slopes)
 *   **Coordinates/Region:** Lang Son Province, Northern Vietnam

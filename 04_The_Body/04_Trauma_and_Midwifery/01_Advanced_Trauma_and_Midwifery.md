@@ -1,5 +1,7 @@
 # Advanced Trauma Care and Midwifery: Zero-Tech Medical Protocols
 
+**Alignment:** Outcome 2: Absolute Biological Sovereignty
+
 ## 1. Why This Is Important (The Rationale)
 Outcome 2 requires Absolute Biological Sovereignty. While the "Temperate Antibiotic Kit" addresses baseline infection and illness, a settlement will inevitably face acute physical trauma. Without a functional industrial hospital, the inability to set a broken bone, stop arterial bleeding, or safely deliver a child turns an accident into a generational tragedy. 
 

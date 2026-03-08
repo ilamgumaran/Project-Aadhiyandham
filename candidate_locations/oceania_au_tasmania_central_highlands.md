@@ -1,5 +1,7 @@
 # Candidate Location Evaluation: Central Highlands, Tasmania (Oceania)
 
+**Alignment:** Outcome 1: Locating and Connecting Optimal Refugia
+
 ## Location Overview
 *   **Name:** Central Highlands Lower Benches (Silver Plains)
 *   **Coordinates/Region:** Central Plateau, Tasmania, Australia

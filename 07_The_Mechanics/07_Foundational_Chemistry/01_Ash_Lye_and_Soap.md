@@ -1,5 +1,7 @@
 # Foundational Chemistry: Synthesizing Soap from Ash
 
+**Alignment:** Outcome 5: Decadal and Generational Resilience
+
 ## 1. Why This Is Important (The Rationale)
 Outcome 5 guarantees Decadal Resilience. Without modern supply chains, the settlement will eventually run out of soap. Without soap, surgeons cannot scrub their hands, trauma wounds cannot be properly cleaned, and dysentery will rip through the population via contaminated hands. The ability to synthesize alkaline soap from raw woodland materials is the absolute bedrock of long-term medical and hygienic sovereignty.
 

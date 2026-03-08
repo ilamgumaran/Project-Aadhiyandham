@@ -1,5 +1,7 @@
 # Candidate Location Evaluation: Inter-Andean Valleys (South America)
 
+**Alignment:** Outcome 1: Locating and Connecting Optimal Refugia
+
 ## Location Overview
 *   **Name:** Inter-Andean Valleys (Southern Ecuador)
 *   **Coordinates/Region:** Loja / Azuay Provinces, Ecuador

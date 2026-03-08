@@ -1,5 +1,7 @@
 # Candidate Location Evaluation: East Coast Foothills, South Island (Oceania)
 
+**Alignment:** Outcome 1: Locating and Connecting Optimal Refugia
+
 ## Location Overview
 *   **Name:** East Coast Foothills (Canterbury / North Otago Downlands)
 *   **Coordinates/Region:** South Island, New Zealand

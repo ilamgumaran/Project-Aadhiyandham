@@ -1,4 +1,6 @@
 # Foundational Science: The Art of Inquiry
+
+**Alignment:** Outcome 5: Decadal and Generational Resilience
 # அடிப்படை அறிவியல்: விசாரணை கலை
 
 ## 1. The Scientific Method / அறிவியல் முறை

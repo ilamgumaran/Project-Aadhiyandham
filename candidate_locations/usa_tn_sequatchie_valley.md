@@ -1,5 +1,7 @@
 # Candidate Location Evaluation: Sequatchie Valley, Tennessee (USA)
 
+**Alignment:** Outcome 1: Locating and Connecting Optimal Refugia
+
 ## Location Overview
 *   **Name:** Sequatchie Valley
 *   **Coordinates/Region:** Southeastern Tennessee (Marion, Sequatchie, and Bledsoe counties)

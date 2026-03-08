@@ -1,5 +1,7 @@
 # Information Storage: Papermaking and Iron Gall Ink
 
+**Alignment:** Outcome 5: Decadal and Generational Resilience
+
 ## 1. Why This Is Important (The Rationale)
 Outcome 5 guarantees Decadal Resilience, which relies heavily on Knowledge Transfer. A civilization that cannot record data is doomed to oral myth and empirical amnesia. Modern ballpoint pens, printer paper, and hard drives will fail within a decade of systems collapse. To maintain the "Archive" of natural laws and community ledgers, the settlement must synthesize its own paper and permanent ink from the surrounding forest.
 

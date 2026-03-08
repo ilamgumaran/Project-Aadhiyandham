@@ -1,5 +1,7 @@
 # Liebig's Law: System Diagnostic Guide
 
+**Alignment:** Outcome 5: Decadal and Generational Resilience
+
 ## 1. Why This Is Important
 When a system fails (e.g., a crop withers, or a forge won't get hot), settlers often respond by adding more of *everything*. This wastes time, materials, and labor. **Liebig's Law of the Minimum** states that success is determined by the single most scarce resource. By identifying the specific "Limiting Factor," you solve the problem with surgical precision.
 

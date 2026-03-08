@@ -1,5 +1,7 @@
 # Candidate Location Evaluation: San Juan Islands, WA (USA)
 
+**Alignment:** Outcome 1: Locating and Connecting Optimal Refugia
+
 ## Location Overview
 *   **Name:** San Juan Islands (Low Benches)
 *   **Coordinates/Region:** Salish Sea, Washington State, USA

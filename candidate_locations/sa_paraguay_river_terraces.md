@@ -1,5 +1,7 @@
 # Candidate Location Evaluation: Paraguay River Terraces (South America)
 
+**Alignment:** Outcome 1: Locating and Connecting Optimal Refugia
+
 ## Location Overview
 *   **Name:** Paraguay River Terraces (Oriental Region)
 *   **Coordinates/Region:** Eastern Paraguay (Concepción / San Pedro)

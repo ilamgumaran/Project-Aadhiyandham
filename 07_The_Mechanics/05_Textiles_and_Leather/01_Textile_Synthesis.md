@@ -1,5 +1,7 @@
 # Textile and Clothing Synthesis: The Decadal Loom
 
+**Alignment:** Outcome 5: Decadal and Generational Resilience
+
 ## 1. Why This Is Important (The Rationale)
 Outcome 5 demands Decadal and Generational Resilience. Most settlers will arrive wearing modern synthetic fabrics (nylon, polyester) or mass-produced cotton. Within 5 to 10 years of heavy labor, these clothes will tear, rot, and disintegrate. If a settlement cannot manufacture its own textiles from raw local materials, the population will succumb to exposure during the winter. Clothing sovereignty is as critical as food sovereignty.
 

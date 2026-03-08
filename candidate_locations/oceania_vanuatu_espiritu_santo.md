@@ -1,5 +1,7 @@
 # Candidate Location Evaluation: Sarakata River Basin, Vanuatu
 
+**Alignment:** Outcome 1: Locating and Connecting Optimal Refugia
+
 ## Location Overview
 *   **Name:** Sarakata River Basin (Foothills)
 *   **Coordinates/Region:** Espiritu Santo Island, Vanuatu

@@ -1,5 +1,7 @@
 # Candidate Location Evaluation: Hoh and Quinault Valleys, USA
 
+**Alignment:** Outcome 1: Locating and Connecting Optimal Refugia
+
 ## Location Overview
 *   **Name:** Hoh and Quinault Valleys (Olympic National Park)
 *   **Coordinates/Region:** Olympic Peninsula, Washington State

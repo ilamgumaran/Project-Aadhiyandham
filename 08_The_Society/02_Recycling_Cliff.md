@@ -1,5 +1,7 @@
 # The Recycling Cliff: Strategic Resource Management
 
+**Alignment:** Outcome 5: Decadal and Generational Resilience
+
 ## 1. Why This Is Important
 Most settlers will arrive with a "scavenger mindset," assuming the ruins of the past will provide tools forever. This is a trap. Entropy and corrosion are constant. This module provides the logic for identifying the "cliff edge"—the moment when salvage becomes a liability—and forces the settlement to prioritize primary synthesis (Module 03) early.
 

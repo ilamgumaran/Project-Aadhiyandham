@@ -1,5 +1,7 @@
 # Candidate Location Evaluation: Polk County Foothills, NC (USA)
 
+**Alignment:** Outcome 1: Locating and Connecting Optimal Refugia
+
 ## Location Overview
 *   **Name:** Polk County Foothills (The Thermal Belt)
 *   **Coordinates/Region:** Western North Carolina, USA (Tryon / Columbus / Saluda)

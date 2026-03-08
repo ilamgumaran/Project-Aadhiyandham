@@ -1,5 +1,7 @@
 # Rationale and Importance: Geography and Habitat
 
+**Alignment:** Outcome 1: Locating and Connecting Optimal Refugia
+
 The selection of the physical location is the single most important decision in Project Aadhiyandham. Every other system—agriculture, power, medicine, and social stability—depends on the "canvas" provided by the land.
 
 ## Why These Steps are Taken

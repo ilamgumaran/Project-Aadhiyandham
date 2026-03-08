@@ -1,5 +1,7 @@
 # Rationale and Importance: Culture and Synthesis
 
+**Alignment:** Outcome 5: Decadal and Generational Resilience
+
 Phase V marks the transition from survival to civilization. This module focuses on advanced materials that enable precision—medicine, optics, and communication—alongside the cultural framework that prevents the rebirth of greed and ambition.
 
 ## Why These Steps are Taken

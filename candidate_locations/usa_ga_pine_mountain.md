@@ -1,5 +1,7 @@
 # Candidate Location Evaluation: Pine Mountain Valley, Georgia (USA)
 
+**Alignment:** Outcome 1: Locating and Connecting Optimal Refugia
+
 ## Location Overview
 *   **Name:** Pine Mountain Valley
 *   **Coordinates/Region:** West-Central Georgia (Harris and Meriwether counties)

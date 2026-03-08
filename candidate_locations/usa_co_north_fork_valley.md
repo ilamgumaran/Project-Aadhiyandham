@@ -1,5 +1,7 @@
 # Candidate Location Evaluation: North Fork Valley, Colorado (USA)
 
+**Alignment:** Outcome 1: Locating and Connecting Optimal Refugia
+
 ## Location Overview
 *   **Name:** North Fork Valley (Paonia / Hotchkiss)
 *   **Coordinates/Region:** Western Slope, Colorado (Delta County)

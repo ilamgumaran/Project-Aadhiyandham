@@ -1,5 +1,7 @@
 # Shelter and Thermal Grounding: Construction Guide
 
+**Alignment:** Outcome 2: Absolute Biological Sovereignty
+
 ## 1. Why This Is Important
 Exposure to wind, rain, and fluctuating temperatures is a primary cause of physical and psychological fatigue. Modern thin-walled construction relies on constant electrical heating/cooling. In Aadhiyandham, we use **thermal mass** and **natural insulation** to create a self-regulating internal environment that protects the settlers' biological and mental energy.
 

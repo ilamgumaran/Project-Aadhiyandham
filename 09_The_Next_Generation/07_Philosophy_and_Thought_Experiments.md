@@ -1,4 +1,6 @@
 # Philosophy and Thought Experiments: The Lab of the Mind
+
+**Alignment:** Outcome 5: Decadal and Generational Resilience
 # தத்துவம் மற்றும் சிந்தனை சோதனைகள்: மனதின் ஆய்வகம்
 
 ## 1. The Lab of the Mind / மனதின் ஆய்வகம்

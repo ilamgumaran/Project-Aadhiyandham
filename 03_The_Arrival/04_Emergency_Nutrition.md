@@ -1,5 +1,7 @@
 # Emergency Nutrition: The First 100 Days
 
+**Alignment:** Outcome 2: Absolute Biological Sovereignty
+
 A guide to the 10 universal emergency calorie sources found in Aadhiyandham-compliant mountain environments.
 
 ## The Scavenge List

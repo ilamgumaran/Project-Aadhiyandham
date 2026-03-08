@@ -1,5 +1,7 @@
 # Candidate Location Evaluation: Transylvanian Benches, Romania (Europe)
 
+**Alignment:** Outcome 1: Locating and Connecting Optimal Refugia
+
 ## Location Overview
 *   **Name:** Transylvanian Benches (Câmpia Transilvaniei lower elevations)
 *   **Coordinates/Region:** Central Romania (Mureș / Cluj / Sibiu counties)

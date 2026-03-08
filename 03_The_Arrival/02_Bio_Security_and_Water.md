@@ -1,5 +1,7 @@
 # Bio-Security: Water Purification (Slow Sand Filter)
 
+**Alignment:** Outcome 2: Absolute Biological Sovereignty
+
 ## 1. Why This Is Important
 Pathogens (tiny germs) in untreated water are like an invisible enemy. A **Slow Sand Filter (SSF)** is a "living" machine. Instead of using chemicals, it grows a layer of "good germs" called the **Living Scum** (Schmutzdecke) that eats the "bad germs." It's low-tech, reliable, and keeps everyone healthy.
 

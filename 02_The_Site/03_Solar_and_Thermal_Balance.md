@@ -1,5 +1,7 @@
 # Solar and Thermal Balance: Site Management Guide
 
+**Alignment:** Outcome 1: Locating and Connecting Optimal Refugia
+
 ## 1. Why This Is Important
 Human biology and energy sovereignty depend on the sun. In Aadhiyandham, we use **Passive Solar Design**. By Catching the sun's rhythm, we eliminate the need for high-energy heating inputs.
 

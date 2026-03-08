@@ -1,5 +1,7 @@
 # Candidate Location Evaluation: East African Rift Valleys (Africa)
 
+**Alignment:** Outcome 1: Locating and Connecting Optimal Refugia
+
 ## Location Overview
 *   **Name:** Rift Valley Lower Terraces (Suswa / Naivasha periphery)
 *   **Coordinates/Region:** Great Rift Valley, Kenya / Tanzania

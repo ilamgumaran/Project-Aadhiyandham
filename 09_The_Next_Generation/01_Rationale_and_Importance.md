@@ -1,4 +1,6 @@
 # Rationale and Importance: Universal Education
+
+**Alignment:** Outcome 5: Decadal and Generational Resilience
 # நோக்கம் மற்றும் முக்கியத்துவம்: உலகளாவிய கல்வி
 
 This module provides the foundational tools for the next generation to understand, measure, and think about the world. By integrating mathematics, science, and philosophy, we ensure that the "Centered Null" state is preserved through reason and curiosity.

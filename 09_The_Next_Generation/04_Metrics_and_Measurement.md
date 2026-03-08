@@ -1,4 +1,6 @@
 # Metrics and Measurement: The Lens of Precision
+
+**Alignment:** Outcome 5: Decadal and Generational Resilience
 # அளவீடுகள்: துல்லியத்தின் லென்ஸ்
 
 ## 1. The SI System (Metric) / சர்வதேச அளவீட்டு முறை

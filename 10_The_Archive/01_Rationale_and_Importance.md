@@ -1,5 +1,7 @@
 # Rationale and Importance: Archive of Natural Phenomena
 
+**Alignment:** Outcome 5: Decadal and Generational Resilience
+
 Knowledge is the most durable tool. This module serves as the settlement's "encyclopedia"—a synthesized record of the laws of nature. It allows the settlers to "skip" centuries of trial and error by providing the underlying logic of the universe.
 
 ## Why These Steps are Taken

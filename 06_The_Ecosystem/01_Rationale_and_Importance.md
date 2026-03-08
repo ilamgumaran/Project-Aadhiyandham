@@ -1,5 +1,7 @@
 # Rationale and Importance: Climate, Soil and Seed
 
+**Alignment:** Outcome 2: Absolute Biological Sovereignty
+
 Agriculture is the engine of civilization. In the Aadhiyandham model, sustenance must be achieved without reliance on synthetic chemicals, global transport, or high-tech machinery. We move from "extracting" from the land to "participating" in its cycles.
 
 ## Why These Steps are Taken

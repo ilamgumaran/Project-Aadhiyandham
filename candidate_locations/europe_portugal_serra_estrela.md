@@ -1,5 +1,7 @@
 # Candidate Location Evaluation: Serra da Estrela Foothills (Portugal)
 
+**Alignment:** Outcome 1: Locating and Connecting Optimal Refugia
+
 ## Location Overview
 *   **Name:** Serra da Estrela Foothills (The "Water Castle")
 *   **Coordinates/Region:** Central Portugal (Beira region)

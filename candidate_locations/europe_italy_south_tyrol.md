@@ -1,5 +1,7 @@
 # Candidate Location Evaluation: South Tyrol Low Slopes, Italy (Europe)
 
+**Alignment:** Outcome 1: Locating and Connecting Optimal Refugia
+
 ## Location Overview
 *   **Name:** South Tyrol (Alto Adige) Low Slopes
 *   **Coordinates/Region:** Northern Italy (Adige and Venosta Valleys)

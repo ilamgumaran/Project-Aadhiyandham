@@ -1,5 +1,7 @@
 # Low-Tech Mobility: Cargo Trike Construction Guide
 
+**Alignment:** Outcome 5: Decadal and Generational Resilience
+
 ## 1. Why This Is Important
 Mobility is the backbone of logistics. In a post-fuel world, the ability to move 200kg of grain, timber, or water across a settlement determines the efficiency of the civilization. By using **Structural Bamboo** and **Salvaged Steel**, we create a vehicle that is lightweight, incredibly strong, and entirely repairable with local materials.
 

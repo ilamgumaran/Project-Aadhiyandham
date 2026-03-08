@@ -1,5 +1,7 @@
 # Candidate Location Evaluation: Central Anatolian Valleys, Turkey (Asia)
 
+**Alignment:** Outcome 1: Locating and Connecting Optimal Refugia
+
 ## Location Overview
 *   **Name:** Central Anatolian Valleys (Konya / Cappadocia Periphery)
 *   **Coordinates/Region:** Central Anatolia, Turkey

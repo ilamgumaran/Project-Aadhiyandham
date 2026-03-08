@@ -1,5 +1,7 @@
 # Rationale and Importance: Mechanics and Infrastructure
 
+**Alignment:** Outcome 5: Decadal and Generational Resilience
+
 The ability to maintain tools and synthesize materials is the difference between a temporary refugee camp and a permanent civilization. This module focuses on "High-Logic, Low-Tech" engineering that does not depend on a global electrical grid.
 
 ## Why These Steps are Taken

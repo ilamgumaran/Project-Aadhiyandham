@@ -1,5 +1,7 @@
 # Advanced Conflict Resolution: Re-centering the Community
 
+**Alignment:** Outcome 4: Psychological Centeredness
+
 ## 1. Why This Is Important (The Rationale)
 Outcome 4 is Psychological Centeredness. A community living in an isolated refugia has no access to external law enforcement, therapists, or an anonymous society to disappear into after an argument. If a dispute between two settlers is not resolved, it festers into factions, toxic hierarchies, and ultimately the collapse of the settlement. Conflict resolution cannot be left to chance; it must be an engineered protocol.
 

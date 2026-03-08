@@ -1,5 +1,7 @@
 # Candidate Location Evaluation: Peloponnese Inland Valleys, Greece (Europe)
 
+**Alignment:** Outcome 1: Locating and Connecting Optimal Refugia
+
 ## Location Overview
 *   **Name:** Eurotas Valley (Sparta Basin)
 *   **Coordinates/Region:** Southern Peloponnese, Greece

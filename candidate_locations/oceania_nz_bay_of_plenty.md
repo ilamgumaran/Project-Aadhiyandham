@@ -1,5 +1,7 @@
 # Candidate Location Evaluation: Bay of Plenty Foothills, North Island (Oceania)
 
+**Alignment:** Outcome 1: Locating and Connecting Optimal Refugia
+
 ## Location Overview
 *   **Name:** Bay of Plenty Foothills (Kaimai / Mamaku Range Periphery)
 *   **Coordinates/Region:** North Island, New Zealand (Tauranga / Te Puke)

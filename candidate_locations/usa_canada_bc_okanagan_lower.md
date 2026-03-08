@@ -1,5 +1,7 @@
 # Candidate Location Evaluation: Okanagan Valley (Lower), BC (Canada)
 
+**Alignment:** Outcome 1: Locating and Connecting Optimal Refugia
+
 ## Location Overview
 *   **Name:** Lower Okanagan Valley (Osoyoos / Oliver)
 *   **Coordinates/Region:** Southern British Columbia, Canada

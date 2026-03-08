@@ -1,4 +1,6 @@
 # Tamil Language Lessons: The Heritage of Rhythm
+
+**Alignment:** Outcome 5: Decadal and Generational Resilience
 # தமிழ் மொழிப் பாடங்கள்: தாளத்தின் பாரம்பரியம்
 
 ## 1. The Vowels / உயிர் எழுத்துக்கள் (Uyir Ezhuthu)

@@ -1,5 +1,7 @@
 # Emergency Family Protocol: Implementation Guide
 
+**Alignment:** Outcome 1: Locating and Connecting Optimal Refugia
+
 ## 1. Why This Is Important
 Systems collapse is most dangerous for the vulnerable—children and the elderly. High-stress transit often leads to panic and medical emergencies that can derail a group's progress. This guide provides the operational steps to ensure that families can reach the refugia without physical or psychological collapse.
 

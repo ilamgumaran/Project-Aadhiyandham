@@ -1,5 +1,7 @@
 # Essential Packing List: The Toolkit of the Traveler
 
+**Alignment:** Outcome 1: Locating and Connecting Optimal Refugia
+
 ## 1. Why This Is Important
 Reaching a refugia is only the first step. To transition from "The Journey" to "The Arrival" (Phase II), you must carry the seeds of civilization. This list is based on the **Minimum Viable Habitat** research, identifying tools that are high-leverage and difficult to manufacture immediately from raw ore.
 

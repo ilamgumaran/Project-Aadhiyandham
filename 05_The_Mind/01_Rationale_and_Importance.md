@@ -1,5 +1,7 @@
 # Rationale and Importance: Mind and Centered Living
 
+**Alignment:** Outcome 4: Psychological Centeredness
+
 A civilization is defined more by its psychological baseline than its physical tools. The "Centered Null" is the psychological engine of Aadhiyandham—a state of blissful curiosity that replaces the frantic pursuit of happiness and ambition.
 
 ## Why These Steps are Taken

@@ -1,5 +1,7 @@
 # Advanced Synthesis: Glassmaking Guide
 
+**Alignment:** Outcome 5: Decadal and Generational Resilience
+
 ## 1. Why This Is Important
 Clear glass enables microbiology and chemical analysis. Mastering synthesis from sand and ash transforms the settlement into a scientific civilization.
 

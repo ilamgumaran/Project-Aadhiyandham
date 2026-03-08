@@ -1,5 +1,7 @@
 # Decentralized Networking & Trade Routes: Establishing Waystations
 
+**Alignment:** Outcome 1: Locating and Connecting Optimal Refugia
+
 ## 1. Why This Is Important (The Rationale)
 A single isolated settlement (Refugia) is biologically and culturally fragile. If a crop fails or a specific skill is lost, isolation becomes fatal. **Outcome 1** dictates that we must not only locate optimal refugia but also *connect* them. Creating secure, non-motorized terrestrial trade routes and low-power communication networks allows for the exchange of heirloom seed genetics, critical tools, and cultural knowledge between distant settlements without relying on old-world transportation grids.
 

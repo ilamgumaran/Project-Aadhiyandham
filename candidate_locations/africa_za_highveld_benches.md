@@ -1,5 +1,7 @@
 # Candidate Location Evaluation: Highveld Benches, South Africa (Africa)
 
+**Alignment:** Outcome 1: Locating and Connecting Optimal Refugia
+
 ## Location Overview
 *   **Name:** Highveld Lower Benches (Vaal / Olifants river basins)
 *   **Coordinates/Region:** Gauteng / Mpumalanga Provinces, South Africa

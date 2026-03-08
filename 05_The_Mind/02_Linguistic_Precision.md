@@ -1,5 +1,7 @@
 # Linguistic Precision: E-Prime Practice Guide
 
+**Alignment:** Outcome 4: Psychological Centeredness
+
 ## 1. Why This Is Important
 The human brain often confuses "words" with "reality." When we use the verb "to be" (is, am, are), we create static, absolute identities that lead to conflict. 
 

@@ -1,5 +1,7 @@
 # Candidate Location Evaluation: Central Vietnamese Highlands (Asia)
 
+**Alignment:** Outcome 1: Locating and Connecting Optimal Refugia
+
 ## Location Overview
 *   **Name:** Central Highlands Lower Benches (Dak Lak / Kon Tum)
 *   **Coordinates/Region:** Tây Nguyên region, Vietnam

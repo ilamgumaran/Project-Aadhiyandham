@@ -1,5 +1,7 @@
 # Cultural Technology: Rituals, Calendars, and Meaning
 
+**Alignment:** Outcome 6: A Flourishing Civilization
+
 ## 1. Why This Is Important (The Rationale)
 Outcome 6 is a Flourishing Civilization. A community can have perfect agriculture and secure borders, but without a shared sense of meaning and structured time, it will eventually fracture from psychological decay or generational apathy. "Culture" is not merely decoration; it is the psychological technology that binds a society together, transmits values across generations, and gives the arduous work of survival a purpose.
 

@@ -1,5 +1,7 @@
 # Precision Metallurgy: Crucible Steel (Wootz) Guide
 
+**Alignment:** Outcome 5: Decadal and Generational Resilience
+
 ## 1. Why This Is Important
 While wrought iron (Module 03) is excellent for structural work, it is too soft to hold a surgical or industrial edge. High-carbon steel is required for the "precision layer" of civilization—scalpels, fine chisels, and mechanical gears. By mastering the crucible method, we can create the world's highest quality steel using only local wrought iron and organic carbon.
 

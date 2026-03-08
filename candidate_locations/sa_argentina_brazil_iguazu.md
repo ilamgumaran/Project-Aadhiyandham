@@ -1,5 +1,7 @@
 # Candidate Location Evaluation: Iguazu National Park, Argentina/Brazil
 
+**Alignment:** Outcome 1: Locating and Connecting Optimal Refugia
+
 ## Location Overview
 *   **Name:** Iguazu National Park (Basaltic Plateau)
 *   **Coordinates/Region:** Misiones, Argentina / Paraná, Brazil

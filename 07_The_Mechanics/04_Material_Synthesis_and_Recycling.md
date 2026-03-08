@@ -1,5 +1,7 @@
 # Material Synthesis: The Bloomery Iron Guide
 
+**Alignment:** Outcome 5: Decadal and Generational Resilience
+
 ## 1. Why This Is Important
 The "Recycling Cliff" is real. Scavenged steel will eventually rust away. To survive long-term, we must make our own iron. The **Bloomery** turns rocks (ore) into metal.
 

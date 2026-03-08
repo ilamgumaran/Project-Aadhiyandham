@@ -1,5 +1,7 @@
 # Candidate Location Evaluation: Daintree Lowlands, Australia
 
+**Alignment:** Outcome 1: Locating and Connecting Optimal Refugia
+
 ## Location Overview
 *   **Name:** Daintree Lowlands (Coastal Mountain Foothills)
 *   **Coordinates/Region:** Far North Queensland, Australia

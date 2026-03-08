@@ -1,5 +1,7 @@
 # Livestock and Mechanical Animals: Management Guide
 
+**Alignment:** Outcome 2: Absolute Biological Sovereignty
+
 ## 1. Why This Is Important
 In Aadhiyandham, animals are not merely food; they are biological tools. They provide the mechanical energy for plowing and transport, and the biochemical energy (manure) for the Terra Preta system. By integrating animals into the landscape (Silvopasture), we create a self-sustaining loop where the animals protect the trees, and the trees provide feed and shelter for the animals.
 

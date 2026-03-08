@@ -1,5 +1,7 @@
 # Candidate Location Evaluation: Minkébé Forest Benches (Africa)
 
+**Alignment:** Outcome 1: Locating and Connecting Optimal Refugia
+
 ## Location Overview
 *   **Name:** Minkébé Forest Gallery Benches
 *   **Coordinates/Region:** Northeast Gabon (Woleu-Ntem Province)

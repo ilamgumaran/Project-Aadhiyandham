@@ -1,5 +1,7 @@
 # Models of Consensus Governance: Facilitation Guide
 
+**Alignment:** Outcome 5: Decadal and Generational Resilience
+
 ## 1. Why This Is Important
 Hierarchies create single points of failure. Majority rule creates fractures. **Consensus** is a process where a decision is built together.
 

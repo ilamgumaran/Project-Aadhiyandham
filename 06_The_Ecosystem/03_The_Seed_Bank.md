@@ -1,5 +1,7 @@
 # The Seed Bank: Planting and Saving Guide
 
+**Alignment:** Outcome 2: Absolute Biological Sovereignty
+
 ## 1. Why This Is Important
 In Aadhiyandham, we exclusively use **Open-Pollinated Heirloom Seeds**. By saving seeds every year, you adapt your crops to your specific microclimate.
 

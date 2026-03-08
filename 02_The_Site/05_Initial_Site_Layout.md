@@ -1,5 +1,7 @@
 # Initial Site Layout: The 6 Zones of Permaculture
 
+**Alignment:** Outcome 1: Locating and Connecting Optimal Refugia
+
 ## 1. Why This Is Important
 Without a logical layout, a settlement wastes 40% of its caloric energy on inefficient movement. By organizing the site into **Zones**, we ensure that high-maintenance elements (like water filters and kitchens) are close to the center, while low-maintenance elements (like timber forests) are on the periphery.
 

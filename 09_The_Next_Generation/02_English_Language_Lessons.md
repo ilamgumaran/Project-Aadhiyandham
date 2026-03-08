@@ -1,4 +1,6 @@
 # English Language Lessons: The Tool of Record
+
+**Alignment:** Outcome 5: Decadal and Generational Resilience
 # ஆங்கில மொழிப் பாடங்கள்: ஆவணப்படுத்தும் கருவி
 
 ## 1. The Alphabet / உயிர்மெய் எழுத்துக்கள்

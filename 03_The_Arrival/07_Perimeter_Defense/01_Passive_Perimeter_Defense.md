@@ -1,5 +1,7 @@
 # Passive Perimeter Defense and Early Warning Systems
 
+**Alignment:** Outcome 3: Perimeter Sovereignty and Passive Defense
+
 ## 1. Why This Is Important (The Rationale)
 Outcome 3 establishes Perimeter Sovereignty. A community cannot flourish or achieve psychological centeredness if it is constantly under threat. However, establishing a permanent standing "guard" or militia drains the community's caloric and psychological resources, leading to the toxic hierarchies the project seeks to escape. Therefore, security must be built *into the environment* itself through passive deterrence and zero-power early warning systems.
 

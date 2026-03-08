@@ -1,5 +1,7 @@
 # Restorative Architecture: Design Implementation Guide
 
+**Alignment:** Outcome 4: Psychological Centeredness
+
 ## 1. Why This Is Important
 The human nervous system evolved in the complex, asymmetrical, and balanced environment of nature. Modern "box" architecture—with its flickering lights, right angles, and sensory isolation—creates chronic low-level stress. In Aadhiyandham, we use **Pattern Language** to build environments that act as biological anchors, supporting mental clarity and deep contemplation.
 

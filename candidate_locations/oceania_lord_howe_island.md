@@ -1,5 +1,7 @@
 # Candidate Location Evaluation: Lord Howe Island Benches (Oceania)
 
+**Alignment:** Outcome 1: Locating and Connecting Optimal Refugia
+
 ## Location Overview
 *   **Name:** Lord Howe Island (High-Elevation Benches)
 *   **Coordinates/Region:** Tasman Sea, Australia (600km offshore)

@@ -1,5 +1,7 @@
 # Candidate Location Evaluation: Himalayan Terai, Nepal (Asia)
 
+**Alignment:** Outcome 1: Locating and Connecting Optimal Refugia
+
 ## Location Overview
 *   **Name:** Himalayan Terai (Kailali / Kanchanpur)
 *   **Coordinates/Region:** Far-Western Nepal (Sudurpashchim Province)

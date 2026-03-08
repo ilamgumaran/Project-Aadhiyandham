@@ -1,5 +1,7 @@
 # Soil Sovereignty: The Terra Preta Method
 
+**Alignment:** Outcome 2: Absolute Biological Sovereignty
+
 ## 1. Why This Is Important
 Standard agriculture extracts nutrients from the soil. **Terra Preta** is regenerative. By adding **Biochar**, we create a permanent "biological reef" that holds water and beneficial microbes.
 

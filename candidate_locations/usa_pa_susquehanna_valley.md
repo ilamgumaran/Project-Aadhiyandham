@@ -1,5 +1,7 @@
 # Candidate Location Evaluation: Susquehanna Valley, PA (USA)
 
+**Alignment:** Outcome 1: Locating and Connecting Optimal Refugia
+
 ## Location Overview
 *   **Name:** Lower Susquehanna Valley (Lancaster / York)
 *   **Coordinates/Region:** South-Central Pennsylvania, USA

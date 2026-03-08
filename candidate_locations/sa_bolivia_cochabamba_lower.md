@@ -1,5 +1,7 @@
 # Candidate Location Evaluation: Cochabamba Lower Reaches, Bolivia (South America)
 
+**Alignment:** Outcome 1: Locating and Connecting Optimal Refugia
+
 ## Location Overview
 *   **Name:** Cochabamba Valley (Lower Terraces)
 *   **Coordinates/Region:** Cochabamba Department, Bolivia

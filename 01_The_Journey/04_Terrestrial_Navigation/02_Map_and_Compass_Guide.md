@@ -1,4 +1,6 @@
 # Map and Compass Guide: Precision Without Power
+
+**Alignment:** Outcome 1: Locating and Connecting Optimal Refugia
 # வரைபடம் மற்றும் திசைகாட்டி வழிகாட்டி: மின்சாரம் இல்லாத துல்லியம்
 
 ## 1. Compass Anatomy / திசைகாட்டி பாகங்கள்

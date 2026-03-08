@@ -1,5 +1,7 @@
 # Advanced Structural Engineering: Post-Scavenge Construction
 
+**Alignment:** Outcome 5: Decadal and Generational Resilience
+
 ## 1. Why This Is Important (The Rationale)
 Outcome 5 establishes Decadal and Generational Resilience. In the early years of a settlement, construction relies heavily on scavenged modern materials (plywood, steel nails, asphalt shingles). However, within 20 years, these materials will degrade and the "Recycling Cliff" will hit. True structural resilience means the ability to build permanent, weather-proof, multi-story buildings using only local geology and biology. 
 

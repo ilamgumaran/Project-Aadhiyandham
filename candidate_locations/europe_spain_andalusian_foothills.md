@@ -1,5 +1,7 @@
 # Candidate Location Evaluation: Andalusian Foothills, Spain (Europe)
 
+**Alignment:** Outcome 1: Locating and Connecting Optimal Refugia
+
 ## Location Overview
 *   **Name:** Sierra Nevada Foothills (The Alpujarras)
 *   **Coordinates/Region:** Andalusia, Spain (Granada / Almería)

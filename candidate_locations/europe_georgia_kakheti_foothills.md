@@ -1,5 +1,7 @@
 # Candidate Location Evaluation: Caucasus Foothills, Kakheti (Europe)
 
+**Alignment:** Outcome 1: Locating and Connecting Optimal Refugia
+
 ## Location Overview
 *   **Name:** Kakheti Foothills (Alazani Valley)
 *   **Coordinates/Region:** Eastern Georgia (Caucasus)

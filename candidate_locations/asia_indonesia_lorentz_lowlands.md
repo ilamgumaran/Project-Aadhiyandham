@@ -1,5 +1,7 @@
 # Candidate Location Evaluation: Lorentz Lowlands, Papua (Asia)
 
+**Alignment:** Outcome 1: Locating and Connecting Optimal Refugia
+
 ## Location Overview
 *   **Name:** Lorentz Lowlands (Tidal Swamps / Alluvial Fans)
 *   **Coordinates/Region:** Southern Papua, Indonesia (Lorentz National Park)

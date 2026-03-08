@@ -1,5 +1,7 @@
 # Candidate Location Evaluation: Vipava Valley, Slovenia (Europe)
 
+**Alignment:** Outcome 1: Locating and Connecting Optimal Refugia
+
 ## Location Overview
 *   **Name:** Vipava Valley
 *   **Coordinates/Region:** Western Slovenia (Primorska region)
