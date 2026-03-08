@@ -45,3 +45,27 @@ Every module directory contains a **01_Rationale_and_Importance.md** file. This 
 *   **[Glossary.md](Glossary.md):** Detailed definitions of project terms.
 *   **[candidate_locations/](candidate_locations/):** Detailed evaluations of 60+ resilient global sites.
 *   **[html/](html/):** A beautiful, web-ready version of the archive.
+
+---
+
+## The Aadhiyandham Mandate: Why We Build This
+## ஆதியந்தம் ஆணை: நாம் ஏன் இதை உருவாக்குகிறோம்
+
+### A Heritage of Logic, Not Bias (சார்பற்ற தர்க்கத்தின் மரபுரிமை)
+Project Aadhiyandham does not exist to preserve our current society's mistakes, but to distill its most resilient **logic**. We have stripped away the "noise" of greed, the complexity of unsustainable systems, and the bias of outdated power structures. What remains is a clean foundation intended to accelerate the development of a new, flourishing civilization from the ruins of the old, or for those who choose a different path today.
+
+ஆதியந்தம் திட்டம் நமது தற்போதைய சமூகத்தின் தவறுகளைப் பாதுகாப்பதற்காக அல்ல, மாறாக அதன் மிகவும் மீள்தன்மை கொண்ட தர்க்கத்தை வடித்தெடுப்பதற்காகவே உள்ளது. பேராசை, நிலையற்ற அமைப்புகளின் சிக்கல்கள் மற்றும் காலாவதியான அதிகாரக் கட்டமைப்புகளின் சார்புகளை நாங்கள் நீக்கியுள்ளோம். எஞ்சியிருப்பது ஒரு தூய்மையான அடித்தளம், இது பழைய இடிபாடுகளிலிருந்து ஒரு புதிய, செழிப்பான நாகரிகத்தின் வளர்ச்சியை முடுக்கிவிட அல்லது இன்று வேறு பாதையைத் தேர்ந்தெடுப்பவர்களுக்காக வடிவமைக்கப்பட்டுள்ளது.
+
+### From Zero to Civilization (பூஜ்ஜியத்திலிருந்து நாகரிகம் வரை)
+We have designed every instruction to be **Step-by-Step**. This guide assumes **zero level of prior knowledge**. Whether you are a teenager arriving at a refugia for the first time or a family looking to escape a failing system, the path is clear:
+*   **Phase I** keeps you alive. (கட்டம் I உங்களை உயிர்ப்புடன் வைத்திருக்கும்.)
+*   **Phases II-IV** make you stable. (கட்டங்கள் II-IV உங்களை நிலைப்படுத்தும்.)
+*   **Phases V-VII** make you a civilization. (கட்டங்கள் V-VII உங்களை ஒரு நாகரிகமாக மாற்றும்.)
+
+பூஜ்ஜிய அளவிலான முன்னறிவு இல்லாத எவரும் கற்றுக்கொள்ளும் வகையில் ஒவ்வொரு அறிவுறுத்தலையும் படிப்படியாக வடிவமைத்துள்ளோம்.
+
+*By learning the 'Why' before the 'How,' we ensure that the next generation builds with wisdom, not just rules.*
+*எப்படி என்பதற்கு முன் ஏன் என்பதை அறிந்துகொள்வதன் மூலம், அடுத்த தலைமுறை வெறும் விதிகளுடன் மட்டுமல்லாமல் ஞானத்துடனும் கட்டமைப்பதை உறுதி செய்கிறோம்.*
+扫
+扫
+扫
