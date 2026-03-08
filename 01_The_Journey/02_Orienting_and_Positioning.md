@@ -31,12 +31,15 @@ Before you can move toward a destination, you must understand your current relat
 ## 2. Visual Illustration (Conceptual) / காட்சி விளக்கம்
 
 ```text
-      [ MOUNTAIN PEAK ]          [ RUINED TOWER ]
-             \                         /
-              \                       /
-               \                     /
-                \       YOU         /
-                 \_______X_________/
+      [ LANDMARK A ]              [ LANDMARK B ]
+      (e.g. Peak)                 (e.g. Tower)
+             \                          /
+              \   Line of Sight 1      /
+               \                      /  Line of Sight 2
+                \        [ YOU ]     /
+                 \__________X_______/
+                            |
+                    [ INTERSECTION ]
 ```
 
 ---

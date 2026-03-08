@@ -48,11 +48,15 @@ Every path on Earth is defined by these four points:
 ## 4. Visual Illustration (Conceptual) / காட்சி விளக்கம்
 
 ```text
-          [ NORTH ]
-              |
- [ WEST ]-----+-----[ EAST ]
-              |
-          [ SOUTH ]
+              [ NORTH ]
+              (Left Hand)
+                  ^
+                  |
+ [ WEST ] <-------+-------> [ EAST ]
+ (Behind)         |         (Facing Sun)
+                  v
+              [ SOUTH ]
+              (Right Hand)
 ```
 
 ---

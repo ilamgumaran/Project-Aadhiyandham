@@ -47,10 +47,14 @@ If you are lost but see two known mountains:
 ```text
       [ DESTINATION B ]
              ^
+             | [ DIRECTION OF TRAVEL ]
              |
-      [ COMPASS EDGE ]
+      [ COMPASS EDGE ] <--- Align points A and B
              |
       [ LOCATION A ]
+             
+      [ BEZEL ] <--- Rotate until lines match 
+                     map grid (North)
 ```
 
 ---

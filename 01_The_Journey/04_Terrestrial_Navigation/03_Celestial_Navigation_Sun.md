@@ -46,11 +46,14 @@ Identify long features on the map like a river or a mountain ridge. If you walk 
 ```text
       [ TRUE NORTH ]
              ^
+             | (Wait 20 mins)
              |
-      [ WEST ]---[ EAST ]
-      (Stone 1)  (Stone 2)
-             |
-          [ STICK ]
+      [ WEST ]--------[ EAST ]
+      (Mark 1)        (Mark 2)
+             \        /
+              \      /
+               \    /
+                [ STICK ]
 ```
 
 ---
