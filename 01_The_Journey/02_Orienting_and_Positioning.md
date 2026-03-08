@@ -46,9 +46,40 @@ Look for two things that do not move and are visible from a distance.
                            |
                    [ VERIFIED SPOT ]
 ```
-扫
-扫
-扫
+
+## 6. Reference Maps
+
+### Geographical and Topographical Map Reference
+To effectively orient yourself, always carry a localized topographical map. Below is a conceptual reference of how contour lines (wiggly lines) on a map translate to real-world geography:
+
+```text
+TOPOGRAPHICAL MAP VIEW (Overhead)        GEOGRAPHICAL VIEW (Profile)
+=================================        ===========================
+                                         
+      (Peak A)       (Peak B)            Elevation (m)
+       .---.          .---.                400 +        /\         /\
+      / 400 \        / 400 \                   |       /  \       /  \
+     / .---. \      / .---. \              300 +      /    \     /    \
+    / / 300 \ \____/ / 300 \ \                 |     /      \___/      \
+   / /  ...  \______/  ...  \ \            200 +    /  (Steep Contour)  \
+  / / / 200 \        / 200 \ \ \               |   /                     \
+ | | |       |      |       | | |          100 +  /  ~~ River (Flow) ~~   \
+  \ \ \ 100 /        \ 100 / / /               | /                         \
+   \ \ '---'          '---' / /              0 +-----------------------------
+    \ '--------------------' /                   [ Valley / Refugia ]
+     '----------------------'             
+
+* Tightly packed contour lines = Steep cliff/slope.
+* Widely spaced contour lines = Flat plains or gradual slope.
+* V-shapes in contour lines pointing uphill = A river or stream valley.
+```
+
+## 7. Vocabulary and Definitions
+*   **Topography:** The arrangement of the natural and artificial physical features of an area (e.g., mountains, valleys).
+*   **Contour Line:** A line on a map joining points of equal height above or below sea level.
+*   **Sentinel / Landmark:** A recognizable natural or artificial feature used for navigation, a feature that stands out from its near environment.
+*   **Line of Sight:** An imaginary straight line connecting the observer's eye to a specific landmark.
+*   **Refugia:** An area in which a population of organisms can survive through a period of unfavorable conditions.
 
 ---
 ## 🚀 Practical Implementation Guide for Beginners: The Journey
