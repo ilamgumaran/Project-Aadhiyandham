@@ -59,16 +59,16 @@ Use "Living Fences" (hedges of thorny or dense trees like Osage Orange or Hawtho
 *   **Hoof Care:** Learn basic farriery (Module 03) to trim hooves and manage foot health in humid mountain environments.
 
 ---
-## 🚀 Practical Implementation Guide for Beginners: The Ecosystem
+## 🚀 Practical Implementation Guide for Beginners
 
 ### 1. Step-by-Step Action Plan
-*   **Month 1:** Start a compost pile immediately. Collect all organic waste (excluding meat/dairy initially) and layer with dry carbon (leaves, straw).
-*   **Month 3:** Begin creating Terra Preta (biochar). Dig a trench, burn wood with restricted oxygen, crush the char, and mix it with compost before adding to garden beds.
-*   **Year 1:** Plant the 'Top 10 Staples' (Potatoes, Beans, Corn, Squash) from the seed bank. Save 20% of the yield strictly for next year's seeds.
+*   **Preparation:** Read this module fully before attempting to build or implement. Gather raw materials locally.
+*   **Execution:** Build a small-scale prototype first. For example, if building a mechanical system or shelter, make a miniature version to test physics and material strength.
+*   **Review:** Test the implementation under stress (wind, water, heavy use) and refine.
 
 ### 2. Troubleshooting & Failure Modes
-*   **Crop Failure (Pests):** Do not use chemical pesticides. Introduce companion planting (e.g., Marigolds with Tomatoes) and encourage natural predators like ladybugs and birds.
-*   **Soil Depletion:** If yields drop, you are taking more than you give. Rest the bed, plant nitrogen-fixing cover crops (clover, beans), and double the compost application.
+*   **System Failure:** When a system breaks, apply the "5 Whys" technique to find the root cause (e.g., The gear broke. Why? It was made of soft wood. Why? We lacked hardwood. Why?). Fix the root cause, not just the symptom.
+*   **Burnout:** Decadal survival is a marathon, not a sprint. If the community is exhausted, lower productivity expectations and focus on rest and social cohesion.
 
 ### 3. Community & Decadal Flourishing
-*   Assign a "Keeper of the Seeds." Seed genetics adapt to your specific microclimate over decades. This is the true wealth of the settlement.
+*   **Apprenticeship:** No critical skill should be held by only one person. Every master must have an apprentice. Document local modifications to these original instructions in a physical journal.

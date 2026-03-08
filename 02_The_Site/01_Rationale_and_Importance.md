@@ -24,16 +24,16 @@ The selection of the physical location is the single most important decision in 
 *The land is the master tool. If the geography is correct, the civilization is inevitable.*
 
 ---
-## 🚀 Practical Implementation Guide for Beginners: Site Selection & Setup
+## 🚀 Practical Implementation Guide for Beginners
 
 ### 1. Step-by-Step Action Plan
-*   **Day 1-3:** Survey the immediate 1km radius. Identify the primary fresh water source and the highest defensible/dry ground.
-*   **Day 4-7:** Establish the "Initial Site Layout" (Module 02.05) using stakes and twine. Separate sanitation (latrines) from water sources by at least 100 meters downhill.
-*   **Year 1:** Begin modifying the topography slightly with swales to catch rainwater and prevent soil erosion.
+*   **Preparation:** Read this module fully before attempting to build or implement. Gather raw materials locally.
+*   **Execution:** Build a small-scale prototype first. For example, if building a mechanical system or shelter, make a miniature version to test physics and material strength.
+*   **Review:** Test the implementation under stress (wind, water, heavy use) and refine.
 
 ### 2. Troubleshooting & Failure Modes
-*   **Water Contamination:** If water causes illness, immediately boil all drinking water and check upstream for animal carcasses or mineral runoff.
-*   **Flooding:** If unexpected rain floods the camp, relocate to the pre-identified secondary high-ground.
+*   **System Failure:** When a system breaks, apply the "5 Whys" technique to find the root cause (e.g., The gear broke. Why? It was made of soft wood. Why? We lacked hardwood. Why?). Fix the root cause, not just the symptom.
+*   **Burnout:** Decadal survival is a marathon, not a sprint. If the community is exhausted, lower productivity expectations and focus on rest and social cohesion.
 
 ### 3. Community & Decadal Flourishing
-*   Plant long-lived tree species (Oak, Chestnut, Fruit trees) on the perimeter in Year 1. They will take decades to mature but will secure the micro-climate for future generations.
+*   **Apprenticeship:** No critical skill should be held by only one person. Every master must have an apprentice. Document local modifications to these original instructions in a physical journal.
