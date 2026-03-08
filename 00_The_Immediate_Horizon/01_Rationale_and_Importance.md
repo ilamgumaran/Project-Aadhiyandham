@@ -18,7 +18,7 @@ The "Immediate Horizon" is the most volatile phase of Project Aadhiyandham. Upon
 
 ### 4. Psychological Grounding
 **Importance:** Panic and ego-driven leadership are social pathogens.
-**Rationale:** The "Centered Null" mindset must be practiced from Day 1. By removing the verb "to be" and focusing on objective observation, we prevent the "Survival Mode" lizard-brain from taking over and causing internal strife.
+**Rationale:** The "Centered Null" mindset must be practiced from Day 1. By removing the verb "to be" and focusing on objective observation, we prevent the "Survival Mode" lizard-brain from taking over and causing internal strife. We establish that life is not a race to invent technology, but a rhythm to be lived.
 
 ---
 *Success in the first 100 days proves the viability of the location and the cohesion of the group.*
