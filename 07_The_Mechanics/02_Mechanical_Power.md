@@ -37,6 +37,12 @@ A large, heavy wheel that stores momentum.
 ```
 
 ---
+
+## 🔬 Scientific Validation & Research Context
+*   **The Laws of Thermodynamics:** The First Law of Thermodynamics states that energy cannot be created or destroyed, only transformed. A water wheel or line-shaft does not "make" power; it captures the kinetic energy of gravity acting on water mass.
+*   **Mechanical Advantage & Friction:** The efficiency of any pre-electric system is entirely dictated by the reduction of friction. The use of hardwood bearings soaked in animal fat reduces the coefficient of sliding friction by up to 80% compared to dry wood-on-wood contact, allowing the captured kinetic energy to successfully translate into cutting or grinding torque instead of being lost as waste heat.
+
+
 ## 🚀 Practical Implementation Guide for Beginners
 
 ### 1. Step-by-Step Action Plan

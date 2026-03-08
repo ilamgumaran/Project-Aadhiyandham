@@ -52,6 +52,12 @@ Design for the "Null" soundscape.
 扫
 
 ---
+
+## 🔬 Scientific Validation & Research Context
+*   **Biophilic Design & Neuroarchitecture:** Christopher Alexander’s architectural theories from *A Pattern Language* (1977) have been empirically validated by modern neuroscience. Environments built with "living structures" (such as natural light on two sides of a room, or fractal geometries in stonework) actively lower cortisol levels and engage the parasympathetic nervous system.
+*   **Fractal Fluency:** The human visual cortex evolved in nature and is highly tuned to process fractal geometries (like the branching of trees or the grain of wood) with minimal cognitive effort. Stark, featureless concrete walls require more visual processing power, generating subconscious, low-grade stress.
+
+
 ## 🚀 Practical Implementation Guide for Beginners
 
 ### 1. Step-by-Step Action Plan

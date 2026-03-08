@@ -82,6 +82,12 @@ TOPOGRAPHICAL MAP VIEW (Overhead)        GEOGRAPHICAL VIEW (Profile)
 *   **Refugia:** An area in which a population of organisms can survive through a period of unfavorable conditions.
 
 ---
+
+## 🔬 Scientific Validation & Research Context
+*   **The Cognitive Map:** The human requirement to anchor onto physical landmarks ("Sentinels") is deeply rooted in our neurobiology. In 2014, John O'Keefe and May-Britt and Edvard Moser won the Nobel Prize in Physiology for discovering the brain's "inner GPS." 
+*   **Grid and Place Cells:** Their research showed that specific neurons in the hippocampus ("Place Cells") fire when we are in a known location, while "Grid Cells" in the entorhinal cortex provide a metric coordinate system. When a traveler lacks distinct physical landmarks, this internal grid system fails to calibrate, leading directly to the physiological stress response commonly known as "panic" or "lizard-brain."
+
+
 ## 🚀 Practical Implementation Guide for Beginners: The Journey
 
 ### 1. Step-by-Step Action Plan
