@@ -22,8 +22,9 @@ We aim to create the "Architecture of the Null" (The Centered Null)—a state of
 
 If a community follows the Aadhiyandham sequential path (from The Journey to The Horizon), they can expect the following structural and psychological outcomes:
 
-### Outcome 1: Locating the Optimal Refugia
+### Outcome 1: Locating and Connecting Optimal Refugia
 *   **Geographical and Climatic Stability:** A foundational outcome is finding and securing a suitable geographical site that provides a safe, year-round climate for human habitation. This micro-climate must be naturally conducive to robust plant life growth and animal flourishing, supported by an adequate supply of fresh water sources and reliable rainfall.
+*   **Transit and Network Establishment:** Identifying the site is only the first step. The project must establish clear, non-motorized terrestrial and maritime transit routes to reach these refugia. Once multiple refugia are established, a core outcome is creating a secure network of connecting routes between them, allowing for the exchange of knowledge, heirlooms, and genetic diversity without relying on old-world transportation grids.
 
 ### Outcome 2: Absolute Biological Sovereignty
 *   **Water & Food:** Communities will no longer rely on chemical water treatment plants or global agriculture. Through Bio-Sand filtration, Terra Preta (biochar) soil building, and heirloom seed banking, the settlement will produce its own pristine water and nutrient-dense food indefinitely.
