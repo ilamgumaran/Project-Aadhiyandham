@@ -48,7 +48,7 @@ The lye must be the correct concentration. If it is too weak, the soap will not 
 *   **Viral and Bacterial Eradication:** Soap does not merely "wash away" pathogens. The molecular structure of soap includes a hydrophilic (water-loving) head and a lipophilic (fat-loving) tail. The lipophilic tail actively penetrates and ruptures the lipid bilayer (the outer protective shell) of bacteria and viruses, chemically destroying them on contact.
 
 ---
-## 4. 🚀 Practical Implementation Guide for Beginners
+## 4. 4.Practical Implementation Guide for Beginners
 
 ### 4.1. Step-by-Step Action Plan
 *   **Phase 1: The Ash Reserve:** Immediately begin saving all white ash from your cooking fires in a dedicated, waterproof metal bin. Do not let rain hit the ash until you are ready to leach it, or the lye will wash away into the soil.

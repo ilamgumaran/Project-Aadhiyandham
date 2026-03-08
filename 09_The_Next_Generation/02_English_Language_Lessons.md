@@ -48,7 +48,7 @@ In Aadhiyandham, we focus on **Actions**. We avoid the verb "to be" (is/am/are) 
 *மொழி மனதின் நோக்கத்தைத் தாங்கிச் செல்கிறது.*
 
 ---
-## 5. 🚀 Practical Implementation Guide for Beginners
+## 5. 5.Practical Implementation Guide for Beginners
 
 ### 5.1. Step-by-Step Action Plan
 *   **Preparation:** Read this module fully before attempting to build or implement. Gather raw materials locally.

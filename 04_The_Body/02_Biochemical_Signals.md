@@ -70,7 +70,7 @@ The protocols outlined above are heavily validated by modern neurobiology and ch
 *   **Circadian Entrainment:** Decades of chronobiology research confirm that the Suprachiasmatic Nucleus (SCN) requires high-lux, short-wavelength (blue) light in the morning to halt melatonin production and synchronize the body's peripheral clocks, preventing systemic entropy.
 
 
-## 8. 🚀 Practical Implementation Guide for Beginners
+## 8. 8.Practical Implementation Guide for Beginners
 
 ### 8.1. Step-by-Step Action Plan
 *   **Preparation:** Read this module fully before attempting to build or implement. Gather raw materials locally.

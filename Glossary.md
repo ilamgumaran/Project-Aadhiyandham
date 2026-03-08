@@ -54,7 +54,7 @@ This page provides detailed definitions of the core concepts, technologies, and 
 *   **Thermal Belt:** A horizontal zone on a mountain slope where nighttime temperatures remain warmer than the valley floor below or the peaks above.
 
 ---
-## 🚀 Practical Implementation Guide for Beginners
+##Practical Implementation Guide for Beginners
 
 ### 1. Step-by-Step Action Plan
 *   **Preparation:** Read this module fully before attempting to build or implement. Gather raw materials locally.

@@ -35,7 +35,7 @@
 *   **Justification:** Lord Howe Island is the premier "micro-refuge." For a small, high-knowledge society, its combination of biosecurity and volcanic stability is unmatched globally.
 
 ---
-## 7. 🚀 Practical Implementation Guide for Beginners
+## 7. 7.Practical Implementation Guide for Beginners
 
 ### 7.1. Step-by-Step Action Plan
 *   **Preparation:** Read this module fully before attempting to build or implement. Gather raw materials locally.

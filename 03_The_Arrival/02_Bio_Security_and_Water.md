@@ -86,7 +86,7 @@ To communicate accurately with other researchers, learn these technical terms:
 *   **The Schmutzdecke:** The effectiveness of the sand filter is not primarily mechanical, but biological. A biolayer (Schmutzdecke) forms on the top 2 centimeters of the sand. This layer consists of beneficial bacteria and algae that physically consume and trap harmful human pathogens before they pass deeper into the filter.
 
 
-## 9. 🚀 Practical Implementation Guide for Beginners
+## 9. 9.Practical Implementation Guide for Beginners
 
 ### 9.1. Step-by-Step Action Plan
 *   **Preparation:** Read this module fully before attempting to build or implement. Gather raw materials locally.

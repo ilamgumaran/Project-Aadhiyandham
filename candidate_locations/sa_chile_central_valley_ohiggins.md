@@ -35,7 +35,7 @@
 *   **Justification:** O'Higgins combines elite volcanic fertility with the highest solar-to-water balance in South America. It is a premier site for a synthesis-based civilization.
 
 ---
-## 7. 🚀 Practical Implementation Guide for Beginners
+## 7. 7.Practical Implementation Guide for Beginners
 
 ### 7.1. Step-by-Step Action Plan
 *   **Preparation:** Read this module fully before attempting to build or implement. Gather raw materials locally.

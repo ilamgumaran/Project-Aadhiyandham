@@ -91,7 +91,7 @@ WATTLE & DAUB [Detail]           RAMMED EARTH [Detail]
 *   **Hygroscopic:** The ability of materials like clay and wood to absorb and release moisture from the air, regulating indoor humidity naturally.
 
 ---
-## 9. 🚀 Practical Implementation Guide for Beginners
+## 9. 9.Practical Implementation Guide for Beginners
 
 ### 9.1. Step-by-Step Action Plan
 *   **Preparation:** Read this module fully before attempting to build or implement. Gather raw materials locally.

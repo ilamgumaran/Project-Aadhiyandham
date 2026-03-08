@@ -35,7 +35,7 @@ If a tooth becomes necrotic and begins to swell the jaw, it must be removed to s
 *   **Miswak Efficacy:** Studies published in the *Journal of Periodontology* confirm that the mechanical and chemical cleaning efficacy of a fresh Miswak stick is equal to, and in some metrics superior to, a modern synthetic toothbrush and toothpaste, primarily due to its natural antibiotic resins.
 
 ---
-## 5. 🚀 Practical Implementation Guide for Beginners
+## 5. 5.Practical Implementation Guide for Beginners
 
 ### 5.1. Step-by-Step Action Plan
 *   **Phase 1: Identify Local Flora:** Immediately identify local tree species whose twigs are safe for oral use (Neem, Oak, Birch, Dogwood). Avoid highly toxic trees like Yew or Oleander.

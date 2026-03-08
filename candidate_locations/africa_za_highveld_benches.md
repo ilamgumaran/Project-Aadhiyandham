@@ -35,7 +35,7 @@
 *   **Justification:** For a society focusing on large-scale food sovereignty and solar energy, the Highveld is unmatched in Africa. Its combination of elite soil, extreme solar, and stable geography makes it a primary refugia.
 
 ---
-## 7. 🚀 Practical Implementation Guide for Beginners
+## 7. 7.Practical Implementation Guide for Beginners
 
 ### 7.1. Step-by-Step Action Plan
 *   **Preparation:** Read this module fully before attempting to build or implement. Gather raw materials locally.

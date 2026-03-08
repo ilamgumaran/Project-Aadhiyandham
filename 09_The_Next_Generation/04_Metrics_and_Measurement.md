@@ -56,7 +56,7 @@ To calculate how much Terra Preta you need:
 扫
 
 ---
-## 5. 🚀 Practical Implementation Guide for Beginners
+## 5. 5.Practical Implementation Guide for Beginners
 
 ### 5.1. Step-by-Step Action Plan
 *   **Preparation:** Read this module fully before attempting to build or implement. Gather raw materials locally.

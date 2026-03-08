@@ -35,7 +35,7 @@
 *   **Justification:** The ultimate "safety" pick for Oceania. Its combination of biosecurity, water security, and isolation makes it a primary refugia.
 
 ---
-## 7. 🚀 Practical Implementation Guide for Beginners
+## 7. 7.Practical Implementation Guide for Beginners
 
 ### 7.1. Step-by-Step Action Plan
 *   **Preparation:** Read this module fully before attempting to build or implement. Gather raw materials locally.

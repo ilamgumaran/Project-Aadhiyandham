@@ -47,7 +47,7 @@ Learn these core words to communicate in the settlement.
 扫
 
 ---
-## 5. 🚀 Practical Implementation Guide for Beginners
+## 5. 5.Practical Implementation Guide for Beginners
 
 ### 5.1. Step-by-Step Action Plan
 *   **Preparation:** Read this module fully before attempting to build or implement. Gather raw materials locally.

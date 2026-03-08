@@ -35,7 +35,7 @@
 *   **Justification:** The Messenian foothills offer the highest level of nutritional and topographical security in Greece. Its combination of mountain snowmelt and intense sun makes it a primary refugia site.
 
 ---
-## 7. 🚀 Practical Implementation Guide for Beginners
+## 7. 7.Practical Implementation Guide for Beginners
 
 ### 7.1. Step-by-Step Action Plan
 *   **Preparation:** Read this module fully before attempting to build or implement. Gather raw materials locally.

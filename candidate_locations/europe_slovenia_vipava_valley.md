@@ -35,7 +35,7 @@
 *   **Justification:** The Vipava Valley is a "Goldilocks" zone. It combines the solar benefits of the Mediterranean with the water security and timber of the Alps. Its geological "Flysch" foundation is elite for long-term mineral-rich agriculture.
 
 ---
-## 7. 🚀 Practical Implementation Guide for Beginners
+## 7. 7.Practical Implementation Guide for Beginners
 
 ### 7.1. Step-by-Step Action Plan
 *   **Preparation:** Read this module fully before attempting to build or implement. Gather raw materials locally.

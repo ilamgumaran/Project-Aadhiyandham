@@ -35,7 +35,7 @@ This module provides the foundational tools for the next generation to understan
 *கல்வி என்பது எதிர்கால ஞானத்தின் விதை.*
 
 ---
-## 2. 🚀 Practical Implementation Guide for Beginners
+## 2. 2.Practical Implementation Guide for Beginners
 
 ### 2.1. Step-by-Step Action Plan
 *   **Preparation:** Read this module fully before attempting to build or implement. Gather raw materials locally.

@@ -35,7 +35,7 @@
 *   **Justification:** The Andalusian foothills offer the most sophisticated "low-tech/high-logic" water system in Europe. Its combination of mountain snowmelt and intense sun makes it a primary site for a synthesis-based society.
 
 ---
-## 7. 🚀 Practical Implementation Guide for Beginners
+## 7. 7.Practical Implementation Guide for Beginners
 
 ### 7.1. Step-by-Step Action Plan
 *   **Preparation:** Read this module fully before attempting to build or implement. Gather raw materials locally.

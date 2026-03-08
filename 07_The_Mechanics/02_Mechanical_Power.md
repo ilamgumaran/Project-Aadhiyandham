@@ -45,7 +45,7 @@ A large, heavy wheel that stores momentum.
 *   **Mechanical Advantage & Friction:** The efficiency of any pre-electric system is entirely dictated by the reduction of friction. The use of hardwood bearings soaked in animal fat reduces the coefficient of sliding friction by up to 80% compared to dry wood-on-wood contact, allowing the captured kinetic energy to successfully translate into cutting or grinding torque instead of being lost as waste heat.
 
 
-## 7. 🚀 Practical Implementation Guide for Beginners
+## 7. 7.Practical Implementation Guide for Beginners
 
 ### 7.1. Step-by-Step Action Plan
 *   **Preparation:** Read this module fully before attempting to build or implement. Gather raw materials locally.

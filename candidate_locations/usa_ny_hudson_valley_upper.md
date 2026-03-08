@@ -35,7 +35,7 @@
 *   **Justification:** The Upper Hudson Valley is one of the most resource-rich and defensible sites in the Eastern US. Its combination of water security, timber, and geological variety makes it a premier site for a synthesis-based civilization.
 
 ---
-## 7. 🚀 Practical Implementation Guide for Beginners
+## 7. 7.Practical Implementation Guide for Beginners
 
 ### 7.1. Step-by-Step Action Plan
 *   **Preparation:** Read this module fully before attempting to build or implement. Gather raw materials locally.

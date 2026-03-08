@@ -35,7 +35,7 @@
 *   **Justification:** Lorentz is the ultimate "safety" pick for Asia. Its combination of glacial water security and megadiversity makes it a primary lifeboat for the tropical world.
 
 ---
-## 7. 🚀 Practical Implementation Guide for Beginners
+## 7. 7.Practical Implementation Guide for Beginners
 
 ### 7.1. Step-by-Step Action Plan
 *   **Preparation:** Read this module fully before attempting to build or implement. Gather raw materials locally.

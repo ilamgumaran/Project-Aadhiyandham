@@ -29,7 +29,7 @@ Before committing couriers to a week-long trek, settlements must verify that the
 *   **Information Theory:** The Heliograph operates on the principles of Line-of-Sight (LoS) optics. The British Army's heliograph system in the 19th century reliably transmitted data at 10-12 words per minute over distances of 30-50 miles without a single watt of electricity.
 
 ---
-## 4. 🚀 Practical Implementation Guide for Beginners
+## 4. 4.Practical Implementation Guide for Beginners
 
 ### 4.1. Step-by-Step Action Plan
 *   **Phase 1: The Blueprint:** Identify the nearest allied settlement on your topographical map. Calculate the total distance and divide it by 15 miles to determine the number of required waystations.

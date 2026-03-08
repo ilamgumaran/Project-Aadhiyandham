@@ -35,7 +35,7 @@
 *   **Justification:** The Sichuan Basin is perhaps the most resilient agricultural "engine" in Asia. Its mountain protection and elite soil fertility make it a primary candidate for a large-scale sustainable civilization.
 
 ---
-## 7. 🚀 Practical Implementation Guide for Beginners
+## 7. 7.Practical Implementation Guide for Beginners
 
 ### 7.1. Step-by-Step Action Plan
 *   **Preparation:** Read this module fully before attempting to build or implement. Gather raw materials locally.

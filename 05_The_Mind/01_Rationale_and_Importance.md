@@ -30,7 +30,7 @@ A civilization is defined more by its psychological baseline than its physical t
 *The mind is the environment. The environment is the mind.*
 
 ---
-## 2. 🚀 Practical Implementation Guide for Beginners
+## 2. 2.Practical Implementation Guide for Beginners
 
 ### 2.1. Step-by-Step Action Plan
 *   **Preparation:** Read this module fully before attempting to build or implement. Gather raw materials locally.

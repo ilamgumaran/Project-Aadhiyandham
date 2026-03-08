@@ -35,7 +35,7 @@
 *   **Justification:** The Drakensberg foothills offer the highest level of water security in Southern Africa. Its combination of mountain protection, basalt fertility, and high solar yield makes it a primary refugia.
 
 ---
-## 7. 🚀 Practical Implementation Guide for Beginners
+## 7. 7.Practical Implementation Guide for Beginners
 
 ### 7.1. Step-by-Step Action Plan
 *   **Preparation:** Read this module fully before attempting to build or implement. Gather raw materials locally.

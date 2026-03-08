@@ -26,7 +26,7 @@ In an isolated settlement, the human body is the most sensitive and essential pi
 *The healthy body is the foundation of the clear mind.*
 
 ---
-## 2. 🚀 Practical Implementation Guide for Beginners
+## 2. 2.Practical Implementation Guide for Beginners
 
 ### 2.1. Step-by-Step Action Plan
 *   **Preparation:** Read this module fully before attempting to build or implement. Gather raw materials locally.

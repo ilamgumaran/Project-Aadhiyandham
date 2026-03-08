@@ -35,7 +35,7 @@
 *   **Justification:** The Rhône benches provide a unique "thermal battery" soil and extreme solar potential, combined with the water security of the Alps. It is a premier site for a synthesis-based, high-energy (low-tech) society.
 
 ---
-## 7. 🚀 Practical Implementation Guide for Beginners
+## 7. 7.Practical Implementation Guide for Beginners
 
 ### 7.1. Step-by-Step Action Plan
 *   **Preparation:** Read this module fully before attempting to build or implement. Gather raw materials locally.

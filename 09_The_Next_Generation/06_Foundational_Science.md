@@ -58,7 +58,7 @@ Science is a tool for curiosity. Follow these 4 steps to understand anything:
 *அறிவியல் என்பது யதார்த்தத்தின் வரைபடம்.*
 
 ---
-## 5. 🚀 Practical Implementation Guide for Beginners
+## 5. 5.Practical Implementation Guide for Beginners
 
 ### 5.1. Step-by-Step Action Plan
 *   **Preparation:** Read this module fully before attempting to build or implement. Gather raw materials locally.

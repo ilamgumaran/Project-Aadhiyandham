@@ -34,7 +34,7 @@ The Talking Stick is the physical anchor of the consensus circle. It signifies t
 5.  **Role of the Scribe:** Document the decision in the "Chronicle of Reason."
 
 ---
-## 5. 🚀 Practical Implementation Guide for Beginners
+## 5. 5.Practical Implementation Guide for Beginners
 
 ### 5.1. Step-by-Step Action Plan
 *   **Preparation:** Read this module fully before attempting to build or implement. Gather raw materials locally.

@@ -35,7 +35,7 @@
 *   **Justification:** The Serra da Estrela foothills offer the highest level of water security in the Iberian Peninsula. Combined with high solar gain and granite stability, it is a premier site for a synthesis-based civilization.
 
 ---
-## 7. 🚀 Practical Implementation Guide for Beginners
+## 7. 7.Practical Implementation Guide for Beginners
 
 ### 7.1. Step-by-Step Action Plan
 *   **Preparation:** Read this module fully before attempting to build or implement. Gather raw materials locally.

@@ -46,7 +46,7 @@ For the first 30 days of arrival.
 *   **Closure:** When the pit is within 50cm of the top, fill it with soil and plant a high-nitrogen tree (Module 02) on top. Move the latrine structure to a new site.
 
 ---
-## 6. 🚀 Practical Implementation Guide for Beginners
+## 6. 6.Practical Implementation Guide for Beginners
 
 ### 6.1. Step-by-Step Action Plan
 *   **Preparation:** Read this module fully before attempting to build or implement. Gather raw materials locally.

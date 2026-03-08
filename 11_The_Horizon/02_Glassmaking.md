@@ -39,7 +39,7 @@ To reach 1300°C, you need a continuous, high-volume air blast. Standard single 
 3.  **Anneal:** Cool slowly over 24 hours in a secondary oven.
 
 ---
-## 6. 🚀 Practical Implementation Guide for Beginners
+## 6. 6.Practical Implementation Guide for Beginners
 
 ### 6.1. Step-by-Step Action Plan
 *   **Preparation:** Read this module fully before attempting to build or implement. Gather raw materials locally.

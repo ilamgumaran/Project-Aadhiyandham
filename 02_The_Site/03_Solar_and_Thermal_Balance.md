@@ -70,7 +70,7 @@ To orient buildings correctly, you must find True South (or North), not Magnetic
 扫
 
 ---
-## 8. 🚀 Practical Implementation Guide for Beginners
+## 8. 8.Practical Implementation Guide for Beginners
 
 ### 8.1. Step-by-Step Action Plan
 *   **Preparation:** Read this module fully before attempting to build or implement. Gather raw materials locally.

@@ -47,7 +47,7 @@ INPUT (100%) ----> [ CONVERSION 1 ] ----> [ CONVERSION 2 ] ----> WORK (70%)
 *   **Lubrication Audit:** Once a month, verify that all points of friction are coated in tallow/resin.
 
 ---
-## 6. 🚀 Practical Implementation Guide for Beginners
+## 6. 6.Practical Implementation Guide for Beginners
 
 ### 6.1. Step-by-Step Action Plan
 *   **Preparation:** Read this module fully before attempting to build or implement. Gather raw materials locally.

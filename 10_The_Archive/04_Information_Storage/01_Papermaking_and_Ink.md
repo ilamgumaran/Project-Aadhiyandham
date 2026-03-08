@@ -40,7 +40,7 @@ Berry juices and charcoal soot fade rapidly in sunlight. For permanent, archival
 *   **Archival Permanence:** Iron Gall ink is not a surface dye; it is a corrosive chemical complex. When it is applied to paper (or parchment), the iron-tannin complex physically burns into the cellulose fibers. This is why historical documents written in Iron Gall ink (like the Magna Carta or the United States Constitution) are still perfectly legible centuries later, whereas carbon-based inks would have rubbed off.
 
 ---
-## 5. 🚀 Practical Implementation Guide for Beginners
+## 5. 5.Practical Implementation Guide for Beginners
 
 ### 5.1. Step-by-Step Action Plan
 *   **Phase 1: The Ink Experiment:** Do not wait until your pens run out. Find 5 oak galls, crush them with a rock, steep them in hot water, and mix in a tablespoon of rusty vinegar water. Carve a tip into a turkey feather or stiff reed and test the ink on scavenged paper.

@@ -34,7 +34,7 @@ Project Aadhiyandham is complete. It provides the foundation—the **Beginning (
 **"Everything is a rhythm, a pattern, a vibration. We are but the observers of the bliss in between."**
 
 ---
-## 6. 🚀 Practical Implementation Guide for Beginners
+## 6. 6.Practical Implementation Guide for Beginners
 
 ### 6.1. Step-by-Step Action Plan
 *   **Preparation:** Read this module fully before attempting to build or implement. Gather raw materials locally.

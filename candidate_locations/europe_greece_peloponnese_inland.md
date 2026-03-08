@@ -35,7 +35,7 @@
 *   **Justification:** The Eurotas Valley is a natural fortress with elite solar potential and water security. It is one of the most climatically and topographically stable regions in the Mediterranean.
 
 ---
-## 7. 🚀 Practical Implementation Guide for Beginners
+## 7. 7.Practical Implementation Guide for Beginners
 
 ### 7.1. Step-by-Step Action Plan
 *   **Preparation:** Read this module fully before attempting to build or implement. Gather raw materials locally.

@@ -50,7 +50,7 @@ The continuation of the settlement depends entirely on the safe delivery of the 
 *   **Delayed Cord Clamping:** The World Health Organization (WHO) explicitly recommends delayed cord clamping (1-3 minutes minimum) for all births to improve maternal and infant health and nutrition outcomes.
 
 ---
-## 5. 🚀 Practical Implementation Guide for Beginners
+## 5. 5.Practical Implementation Guide for Beginners
 
 ### 5.1. Step-by-Step Action Plan
 *   **Phase 1: The Trauma Kit:** Assemble a dedicated zero-tech trauma bag today. It must contain: 2x commercially made windlass tourniquets (do not improvise these unless forced), 10 yards of compressed cotton gauze, and heavy-duty trauma shears.

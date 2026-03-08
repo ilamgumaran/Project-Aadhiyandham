@@ -26,7 +26,7 @@ Agriculture is the engine of civilization. In the Aadhiyandham model, sustenance
 *True wealth is not gold; it is fertile soil and a viable seed.*
 
 ---
-## 2. 🚀 Practical Implementation Guide for Beginners
+## 2. 2.Practical Implementation Guide for Beginners
 
 ### 2.1. Step-by-Step Action Plan
 *   **Preparation:** Read this module fully before attempting to build or implement. Gather raw materials locally.

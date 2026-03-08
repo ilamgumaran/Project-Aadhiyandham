@@ -61,7 +61,7 @@ Before mixing Biochar and Compost, you must remove large rocks and debris from y
 *   **Carbon Sequestration:** Burning biomass in a restricted-oxygen environment (pyrolysis) locks carbon into a stable lattice structure that microbes cannot easily break down, effectively sequestering carbon for millennia.
 
 
-## 9. 🚀 Practical Implementation Guide for Beginners: The Ecosystem
+## 9. 9.Practical Implementation Guide for Beginners: The Ecosystem
 
 ### 9.1. Step-by-Step Action Plan
 *   **Month 1:** Start a compost pile immediately. Collect all organic waste (excluding meat/dairy initially) and layer with dry carbon (leaves, straw).

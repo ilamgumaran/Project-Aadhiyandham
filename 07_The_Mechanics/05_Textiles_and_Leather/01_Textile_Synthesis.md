@@ -49,7 +49,7 @@ To create wide, structural fabrics (for blankets, sails, and heavy clothing), a 
 *   **Chemistry of Tanning:** Raw hide rots because bacteria consume the collagen proteins. Smoking a brain-tanned hide introduces aldehydes (similar to formaldehyde) into the cellular matrix, permanently cross-linking the collagen fibers so they can no longer dissolve in water or be consumed by bacteria.
 
 ---
-## 4. 🚀 Practical Implementation Guide for Beginners
+## 4. 4.Practical Implementation Guide for Beginners
 
 ### 4.1. Step-by-Step Action Plan
 *   **Phase 1: The Drop Spindle Prototype:** Do not build a loom yet. Carve a simple drop spindle from a hardwood branch. Source some raw wool or dog hair and attempt to spin 10 yards of continuous, unbroken yarn. 

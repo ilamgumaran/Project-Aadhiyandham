@@ -35,7 +35,7 @@
 *   **Justification:** South Tyrol is the gold standard for high-density, low-energy mountain living. Its unique "thermal inversion" protection and permanent water security make it one of the most resilient regions in Europe.
 
 ---
-## 7. 🚀 Practical Implementation Guide for Beginners
+## 7. 7.Practical Implementation Guide for Beginners
 
 ### 7.1. Step-by-Step Action Plan
 *   **Preparation:** Read this module fully before attempting to build or implement. Gather raw materials locally.

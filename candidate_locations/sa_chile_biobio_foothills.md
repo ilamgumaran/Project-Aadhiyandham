@@ -35,7 +35,7 @@
 *   **Justification:** The Biobío foothills combine elite volcanic fertility with extreme biomass growth and stable climate transition. It is a primary candidate for a society focusing on "Biological Productivity & Forestry."
 
 ---
-## 7. 🚀 Practical Implementation Guide for Beginners
+## 7. 7.Practical Implementation Guide for Beginners
 
 ### 7.1. Step-by-Step Action Plan
 *   **Preparation:** Read this module fully before attempting to build or implement. Gather raw materials locally.

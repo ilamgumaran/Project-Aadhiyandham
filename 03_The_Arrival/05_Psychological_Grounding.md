@@ -80,7 +80,7 @@ Once the interference of fear and ambition is removed, the irreducible core is r
 *சூனியம் என்பது ஒரு சேருமிடம் அல்ல, எதையும் பிடித்துக் கொள்ளாதபோது எஞ்சியிருப்பது அதுவே.*
 
 ---
-## 9. 🚀 Practical Implementation Guide for Beginners
+## 9. 9.Practical Implementation Guide for Beginners
 
 ### 9.1. Step-by-Step Action Plan
 *   **Preparation:** Read this module fully before attempting to build or implement. Gather raw materials locally.

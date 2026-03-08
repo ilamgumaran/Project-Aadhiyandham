@@ -35,7 +35,7 @@
 *   **Justification:** For a society looking for extreme climatic stability and solar energy, Cochabamba is elite. Its "Eternal Spring" climate reduces energy needs to almost zero, provided water management is communally secured.
 
 ---
-## 7. 🚀 Practical Implementation Guide for Beginners
+## 7. 7.Practical Implementation Guide for Beginners
 
 ### 7.1. Step-by-Step Action Plan
 *   **Preparation:** Read this module fully before attempting to build or implement. Gather raw materials locally.

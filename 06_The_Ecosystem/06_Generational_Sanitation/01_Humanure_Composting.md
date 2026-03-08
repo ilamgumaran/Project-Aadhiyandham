@@ -28,7 +28,7 @@ You cannot put raw human waste on crops; it will spread cholera and parasites. I
 *   **Pathogen Destruction Temperatures:** The World Health Organization (WHO) validates that temperatures of 50°C (122°F) maintained for just one week will completely destroy all human intestinal parasites, including highly resistant Ascaris (roundworm) eggs. A properly managed humanure pile exceeds these temperatures for months.
 
 ---
-## 4. 🚀 Practical Implementation Guide for Beginners
+## 4. 4.Practical Implementation Guide for Beginners
 
 ### 4.1. Step-by-Step Action Plan
 *   **Phase 1: Source the Carbon:** Before building the toilet, ensure you have a massive, continuous supply of dry carbon (sawdust or crushed dry leaves). You will need roughly 3 times as much carbon volume as waste volume.

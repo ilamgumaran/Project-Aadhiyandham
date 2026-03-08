@@ -35,7 +35,7 @@
 *   **Justification:** The Lower Okanagan offers a rare "warm-dry" northern candidate. For a society prioritizing solar energy and high-value horticulture in a northern latitude, this is the premier site.
 
 ---
-## 7. 🚀 Practical Implementation Guide for Beginners
+## 7. 7.Practical Implementation Guide for Beginners
 
 ### 7.1. Step-by-Step Action Plan
 *   **Preparation:** Read this module fully before attempting to build or implement. Gather raw materials locally.

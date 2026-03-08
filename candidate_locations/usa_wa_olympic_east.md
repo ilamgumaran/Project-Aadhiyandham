@@ -35,7 +35,7 @@
 *   **Justification:** The Olympic East Side is a rare "dry temperate" refugium. It offers the protection of high mountains and the stability of the ocean, with a microclimate that facilitates much higher agricultural productivity and solar gain than its surroundings.
 
 ---
-## 7. 🚀 Practical Implementation Guide for Beginners
+## 7. 7.Practical Implementation Guide for Beginners
 
 ### 7.1. Step-by-Step Action Plan
 *   **Preparation:** Read this module fully before attempting to build or implement. Gather raw materials locally.

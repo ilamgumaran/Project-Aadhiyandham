@@ -59,7 +59,7 @@ Aadhiyandham philosophy encourages "Striping Away the Noise."
 扫
 
 ---
-## 6. 🚀 Practical Implementation Guide for Beginners
+## 6. 6.Practical Implementation Guide for Beginners
 
 ### 6.1. Step-by-Step Action Plan
 *   **Preparation:** Read this module fully before attempting to build or implement. Gather raw materials locally.

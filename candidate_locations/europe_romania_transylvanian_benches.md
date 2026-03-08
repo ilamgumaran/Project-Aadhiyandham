@@ -35,7 +35,7 @@
 *   **Justification:** Transylvania is one of the most self-contained and resource-rich refuges in the world. Its combination of black soil, infinite timber, and mountain protection makes it a premier site for a resilient, long-term civilization.
 
 ---
-## 7. 🚀 Practical Implementation Guide for Beginners
+## 7. 7.Practical Implementation Guide for Beginners
 
 ### 7.1. Step-by-Step Action Plan
 *   **Preparation:** Read this module fully before attempting to build or implement. Gather raw materials locally.

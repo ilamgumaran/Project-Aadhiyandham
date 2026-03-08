@@ -35,7 +35,7 @@
 *   **Justification:** The Breede Valley is the "solar engine" of our candidates. For a society prioritizing energy (solar/thermal) and rare mineral soil (limestone), this is the premier African choice.
 
 ---
-## 7. 🚀 Practical Implementation Guide for Beginners
+## 7. 7.Practical Implementation Guide for Beginners
 
 ### 7.1. Step-by-Step Action Plan
 *   **Preparation:** Read this module fully before attempting to build or implement. Gather raw materials locally.

@@ -35,7 +35,7 @@
 *   **Justification:** The Rift Valley combines world-class volcanic soil with elite solar and geothermal energy. It is a primary candidate for a society focusing on "Advanced Synthesis."
 
 ---
-## 7. 🚀 Practical Implementation Guide for Beginners
+## 7. 7.Practical Implementation Guide for Beginners
 
 ### 7.1. Step-by-Step Action Plan
 *   **Preparation:** Read this module fully before attempting to build or implement. Gather raw materials locally.

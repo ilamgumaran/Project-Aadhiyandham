@@ -63,7 +63,7 @@ The parts of a vehicle that handle rotation (bearings and threads) must be steel
 *   **UV Protection:** Paint the bamboo with a mix of linseed oil and charcoal to prevent sun-bleaching and splitting.
 
 ---
-## 7. 🚀 Practical Implementation Guide for Beginners
+## 7. 7.Practical Implementation Guide for Beginners
 
 ### 7.1. Step-by-Step Action Plan
 *   **Preparation:** Read this module fully before attempting to build or implement. Gather raw materials locally.

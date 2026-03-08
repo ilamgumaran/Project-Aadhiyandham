@@ -35,7 +35,7 @@
 *   **Justification:** For a society willing to manage water rigorously, the North Fork Valley offers a nearly perfect physical environment for the "centered null." The combination of extreme solar energy, natural thermal belts, and deep mountain protection makes it a premier high-altitude refugium.
 
 ---
-## 7. 🚀 Practical Implementation Guide for Beginners
+## 7. 7.Practical Implementation Guide for Beginners
 
 ### 7.1. Step-by-Step Action Plan
 *   **Preparation:** Read this module fully before attempting to build or implement. Gather raw materials locally.

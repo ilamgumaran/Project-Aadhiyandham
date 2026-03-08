@@ -35,7 +35,7 @@
 *   **Justification:** For a society prioritizing biosecurity and defensive isolation in the tropics, Bako is elite. While soil fertility requires active synthesis, its topographical security is unmatched in Southeast Asia.
 
 ---
-## 7. 🚀 Practical Implementation Guide for Beginners
+## 7. 7.Practical Implementation Guide for Beginners
 
 ### 7.1. Step-by-Step Action Plan
 *   **Preparation:** Read this module fully before attempting to build or implement. Gather raw materials locally.

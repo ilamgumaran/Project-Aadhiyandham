@@ -46,7 +46,7 @@ Meat spoils rapidly due to bacterial action. Moisture and oxygen must be removed
 *   **Ethylene Management:** Agricultural science validates that storing ethylene-producing crops (like apples) next to ethylene-sensitive crops (like potatoes) causes rapid sprouting and rot. A root cellar's dual-vent system physically purges this hormone from the storage environment.
 
 ---
-## 4. 🚀 Practical Implementation Guide for Beginners
+## 4. 4.Practical Implementation Guide for Beginners
 
 ### 4.1. Step-by-Step Action Plan
 *   **Phase 1: The Prototype Cellar:** Do not dig a massive room. Dig a 4-foot deep hole, place an old chest freezer or heavy-duty trash can inside, and cover it with a thick layer of straw and dirt. Test if it keeps root vegetables from freezing during the first winter.

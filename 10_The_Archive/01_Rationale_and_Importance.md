@@ -26,7 +26,7 @@ Knowledge is the most durable tool. This module serves as the settlement's "ency
 *Logic is the only technology that does not require a battery.*
 
 ---
-## 2. 🚀 Practical Implementation Guide for Beginners
+## 2. 2.Practical Implementation Guide for Beginners
 
 ### 2.1. Step-by-Step Action Plan
 *   **Preparation:** Read this module fully before attempting to build or implement. Gather raw materials locally.

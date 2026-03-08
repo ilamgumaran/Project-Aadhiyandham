@@ -35,7 +35,7 @@
 *   **Justification:** While breaking the 100m altitude and gravity-water rules, the San Juans offer a unique maritime stability and solar yield. For a society focusing on marine synthesis and rain-shadow agriculture, it is a premier refugia.
 
 ---
-## 7. 🚀 Practical Implementation Guide for Beginners
+## 7. 7.Practical Implementation Guide for Beginners
 
 ### 7.1. Step-by-Step Action Plan
 *   **Preparation:** Read this module fully before attempting to build or implement. Gather raw materials locally.

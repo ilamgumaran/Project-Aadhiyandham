@@ -36,7 +36,7 @@ The primary defense against a Strongman is the absolute enforcement of the **App
 *   **Restorative Justice Efficacy:** Sociological studies of indigenous conflict resolution (and modern restorative justice models in penal systems) consistently show that mediation focused on repairing harm and mirroring grievances reduces repeat-offense rates by over 40% compared to traditional punitive models.
 
 ---
-## 5. 🚀 Practical Implementation Guide for Beginners
+## 5. 5.Practical Implementation Guide for Beginners
 
 ### 5.1. Step-by-Step Action Plan
 *   **Phase 1: The Neutral Ground:** Designate a specific physical space in the settlement exclusively for mediation. It should be outside the central living area, quiet, and designed with restorative architecture (natural light, circular seating). 

@@ -39,7 +39,7 @@ A successful location is one where human activity acts as a **Regenerative Feedb
 *முதல் 100 நாட்களின் வெற்றி என்பது மனித இருப்பை நிலத்திற்கு ஒரு சுமையாக அல்லாமல், ஒரு நன்மையாகக் கருதும் இடத்தைத் தேர்ந்தெடுப்பதில் தங்கியுள்ளது.*
 
 ---
-## 2. 🚀 Practical Implementation Guide for Beginners
+## 2. 2.Practical Implementation Guide for Beginners
 
 ### 2.1. Step-by-Step Action Plan
 *   **Preparation:** Read this module fully before attempting to build or implement. Gather raw materials locally.

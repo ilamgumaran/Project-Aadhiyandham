@@ -26,7 +26,7 @@ Phase V marks the transition from survival to civilization. This module focuses 
 *Civilization is the expression of curiosity through durable materials.*
 
 ---
-## 2. 🚀 Practical Implementation Guide for Beginners
+## 2. 2.Practical Implementation Guide for Beginners
 
 ### 2.1. Step-by-Step Action Plan
 *   **Preparation:** Read this module fully before attempting to build or implement. Gather raw materials locally.

@@ -35,7 +35,7 @@
 *   **Justification:** The Fouta Djallon is the primary water security site for West Africa. For a society prioritizing hydrological sovereignty and a stable, high-altitude tropical climate, this is the premier candidate.
 
 ---
-## 7. 🚀 Practical Implementation Guide for Beginners
+## 7. 7.Practical Implementation Guide for Beginners
 
 ### 7.1. Step-by-Step Action Plan
 *   **Preparation:** Read this module fully before attempting to build or implement. Gather raw materials locally.

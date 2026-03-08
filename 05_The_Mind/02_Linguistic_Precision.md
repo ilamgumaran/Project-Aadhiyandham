@@ -60,7 +60,7 @@ During a dispute, both parties must restate the other's position in E-Prime befo
 2.  **The Red Flag:** If you feel an emotional spike during a conversation, pause and translate your next sentence into E-Prime.
 
 ---
-## 6. 🚀 Practical Implementation Guide for Beginners
+## 6. 6.Practical Implementation Guide for Beginners
 
 ### 6.1. Step-by-Step Action Plan
 *   **Preparation:** Read this module fully before attempting to build or implement. Gather raw materials locally.

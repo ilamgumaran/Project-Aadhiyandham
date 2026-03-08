@@ -26,7 +26,7 @@ The ability to maintain tools and synthesize materials is the difference between
 *If you can build the tools, you can build the future.*
 
 ---
-## 2. 🚀 Practical Implementation Guide for Beginners
+## 2. 2.Practical Implementation Guide for Beginners
 
 ### 2.1. Step-by-Step Action Plan
 *   **Preparation:** Read this module fully before attempting to build or implement. Gather raw materials locally.

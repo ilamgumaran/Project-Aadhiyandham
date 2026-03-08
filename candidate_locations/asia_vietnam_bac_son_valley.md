@@ -35,7 +35,7 @@
 *   **Justification:** Bac Son is a masterclass in topographical protection. It combines fertile plains with mountain-fortress walls and reliable underground water. It is a proven cradle of civilization.
 
 ---
-## 7. 🚀 Practical Implementation Guide for Beginners
+## 7. 7.Practical Implementation Guide for Beginners
 
 ### 7.1. Step-by-Step Action Plan
 *   **Preparation:** Read this module fully before attempting to build or implement. Gather raw materials locally.

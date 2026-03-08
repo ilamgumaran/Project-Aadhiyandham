@@ -77,7 +77,7 @@ The production of a 2-5kg "Bloom" of wrought iron that you can hammer into tools
 
 
 ---
-## 8. 🚀 Practical Implementation Guide for Beginners
+## 8. 8.Practical Implementation Guide for Beginners
 
 ### 8.1. Step-by-Step Action Plan
 *   **Preparation:** Read this module fully before attempting to build or implement. Gather raw materials locally.

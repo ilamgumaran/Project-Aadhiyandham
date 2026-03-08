@@ -35,7 +35,7 @@
 *   **Justification:** The Central Highlands offer the highest level of hydrological and biosecurity in Oceania. For a society prioritizing deep observation and ecological stability, this is the premier choice.
 
 ---
-## 7. 🚀 Practical Implementation Guide for Beginners
+## 7. 7.Practical Implementation Guide for Beginners
 
 ### 7.1. Step-by-Step Action Plan
 *   **Preparation:** Read this module fully before attempting to build or implement. Gather raw materials locally.

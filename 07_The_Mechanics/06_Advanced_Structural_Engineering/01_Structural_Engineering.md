@@ -49,7 +49,7 @@ You do not need a pre-existing brick oven to fire bricks; you build the oven *ou
 *   **The Lime Cycle:** The chemical equation for lime mortar (`Ca(OH)2 + CO2 -> CaCO3 + H2O`) proves that the mortar literally absorbs atmospheric carbon to become stone. It is structurally superior to modern cement for historical masonry because it is permeable; it allows moisture to escape rather than trapping it inside the wall where it can freeze and shatter the brick.
 
 ---
-## 5. 🚀 Practical Implementation Guide for Beginners
+## 5. 5.Practical Implementation Guide for Beginners
 
 ### 5.1. Step-by-Step Action Plan
 *   **Phase 1: The Joinery Prototype:** Do not build a house first. Cut a 4x4 beam. Attempt to carve a basic Mortise and Tenon joint and secure it with a wooden peg. If you cannot make a tight joint on the ground, you cannot make it 10 feet in the air.

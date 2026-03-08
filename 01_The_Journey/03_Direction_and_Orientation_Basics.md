@@ -69,7 +69,7 @@ Every path on Earth is defined by these four points:
 扫
 
 ---
-## 6. 🚀 Practical Implementation Guide for Beginners: The Journey
+## 6. 6.Practical Implementation Guide for Beginners: The Journey
 
 ### 6.1. Step-by-Step Action Plan
 *   **Preparation (Months 1-3):** Begin physical conditioning. Walk 5 miles a day with a 20lb backpack. Acquire baseplate compasses and physical topographical maps.

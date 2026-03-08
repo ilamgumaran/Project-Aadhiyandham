@@ -35,7 +35,7 @@
 *   **Justification:** For a society focusing on solar synthesis and glacial water security, the Qilian foothills are elite. It provides a unique model for "thriving in the rain shadow."
 
 ---
-## 7. 🚀 Practical Implementation Guide for Beginners
+## 7. 7.Practical Implementation Guide for Beginners
 
 ### 7.1. Step-by-Step Action Plan
 *   **Preparation:** Read this module fully before attempting to build or implement. Gather raw materials locally.

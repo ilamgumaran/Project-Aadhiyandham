@@ -26,7 +26,7 @@ The selection of the physical location is the single most important decision in 
 *The land is the master tool. If the geography is correct, the civilization is inevitable.*
 
 ---
-## 2. 🚀 Practical Implementation Guide for Beginners
+## 2. 2.Practical Implementation Guide for Beginners
 
 ### 2.1. Step-by-Step Action Plan
 *   **Preparation:** Read this module fully before attempting to build or implement. Gather raw materials locally.

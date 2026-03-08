@@ -35,7 +35,7 @@
 *   **Justification:** The Sequatchie Valley is arguably one of the most Aadhiyandham-compliant regions in North America. It perfectly balances natural defensive isolation with elite agricultural fertility, gravity-fed water, and the exact geological materials (limestone/clay/timber) needed to rebuild civilization from scratch.
 
 ---
-## 7. 🚀 Practical Implementation Guide for Beginners
+## 7. 7.Practical Implementation Guide for Beginners
 
 ### 7.1. Step-by-Step Action Plan
 *   **Preparation:** Read this module fully before attempting to build or implement. Gather raw materials locally.

@@ -35,7 +35,7 @@
 *   **Justification:** For a society looking to leverage rapid biological growth and massive water security, the Antioquia terraces are elite. It provides the "raw energy" of the tropics with the protection of the Andes.
 
 ---
-## 7. 🚀 Practical Implementation Guide for Beginners
+## 7. 7.Practical Implementation Guide for Beginners
 
 ### 7.1. Step-by-Step Action Plan
 *   **Preparation:** Read this module fully before attempting to build or implement. Gather raw materials locally.

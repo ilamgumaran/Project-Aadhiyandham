@@ -30,7 +30,7 @@ Fire requires a continuous path of fuel to maintain its heat and speed.
 *   **Forestry Science:** Indigenous fire management practices (cultural burning) have been validated by modern forestry science as the most effective method for preventing catastrophic mega-fires. By routinely clearing the "understory" (ladder fuels) through controlled cool burns, the ecosystem becomes fire-resilient, protecting the old-growth canopy that the settlement relies on for thermal and acoustic buffering.
 
 ---
-## 4. 🚀 Practical Implementation Guide for Beginners
+## 4. 4.Practical Implementation Guide for Beginners
 
 ### 4.1. Step-by-Step Action Plan
 *   **Phase 1: The Limbing Process:** Give every capable person a saw. Spend the first week removing every single tree branch within 100 feet of the shelters that is lower than 6 feet off the ground. 

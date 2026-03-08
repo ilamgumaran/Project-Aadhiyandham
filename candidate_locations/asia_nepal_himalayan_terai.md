@@ -35,7 +35,7 @@
 *   **Justification:** The Himalayan Terai offers the highest agricultural carrying capacity in Asia. Its combination of fertile soil, permanent water, and mountain protection makes it a primary refugia candidate.
 
 ---
-## 7. 🚀 Practical Implementation Guide for Beginners
+## 7. 7.Practical Implementation Guide for Beginners
 
 ### 7.1. Step-by-Step Action Plan
 *   **Preparation:** Read this module fully before attempting to build or implement. Gather raw materials locally.

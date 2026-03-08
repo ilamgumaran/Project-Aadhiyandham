@@ -60,7 +60,7 @@ Design for the "Null" soundscape.
 *   **Fractal Fluency:** The human visual cortex evolved in nature and is highly tuned to process fractal geometries (like the branching of trees or the grain of wood) with minimal cognitive effort. Stark, featureless concrete walls require more visual processing power, generating subconscious, low-grade stress.
 
 
-## 7. 🚀 Practical Implementation Guide for Beginners
+## 7. 7.Practical Implementation Guide for Beginners
 
 ### 7.1. Step-by-Step Action Plan
 *   **Preparation:** Read this module fully before attempting to build or implement. Gather raw materials locally.

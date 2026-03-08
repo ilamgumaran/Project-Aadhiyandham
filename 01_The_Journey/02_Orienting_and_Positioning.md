@@ -90,7 +90,7 @@ TOPOGRAPHICAL MAP VIEW (Overhead)        GEOGRAPHICAL VIEW (Profile)
 *   **Grid and Place Cells:** Their research showed that specific neurons in the hippocampus ("Place Cells") fire when we are in a known location, while "Grid Cells" in the entorhinal cortex provide a metric coordinate system. When a traveler lacks distinct physical landmarks, this internal grid system fails to calibrate, leading directly to the physiological stress response commonly known as "panic" or "lizard-brain."
 
 
-## 9. 🚀 Practical Implementation Guide for Beginners: The Journey
+## 9. 9.Practical Implementation Guide for Beginners: The Journey
 
 ### 9.1. Step-by-Step Action Plan
 *   **Preparation (Months 1-3):** Begin physical conditioning. Walk 5 miles a day with a 20lb backpack. Acquire baseplate compasses and physical topographical maps.

@@ -41,7 +41,7 @@ Dogs and certain livestock possess auditory and olfactory senses that far exceed
 *   **Historical Precedent (The Osage Orange Fences):** Before the invention of barbed wire in the 1870s, American settlers used Osage Orange hedges. Planted tightly and pruned to interlock, agricultural records confirm these hedges were "horse-high, bull-strong, and pig-tight," proving that biological fencing is structurally sound for livestock and perimeter defense.
 
 ---
-## 5. 🚀 Practical Implementation Guide for Beginners
+## 5. 5.Practical Implementation Guide for Beginners
 
 ### 5.1. Step-by-Step Action Plan
 *   **Phase 1: The Bottleneck:** When selecting the final site (Module 02), trace the path from the nearest water source to the shelter. Identify the "Choke Point." This is where your defenses will be concentrated.

@@ -32,7 +32,7 @@ Do not rely on a paper calendar to know when to plant seeds. A late frost will k
 *   **Phenological Shifts:** Agricultural science confirms that phenological indicators (like the blooming of specific native wildflowers) are far more accurate for predicting the last frost date of a specific micro-climate than historical calendar averages, especially in an era of climatic volatility.
 
 ---
-## 5. 🚀 Practical Implementation Guide for Beginners
+## 5. 5.Practical Implementation Guide for Beginners
 
 ### 5.1. Step-by-Step Action Plan
 *   **Phase 1: Baseline Observation:** For the first year in the refugia, keep a daily physical logbook. Record the date the first frog is heard, the first migratory bird returns, and the first native tree buds. This becomes your permanent agricultural calendar.

@@ -35,7 +35,7 @@
 *   **Justification:** The Bay of Plenty foothills combine elite volcanic fertility with the highest solar gain in New Zealand. It is an ideal site for a society focusing on high-intensity organic horticulture and solar synthesis.
 
 ---
-## 7. 🚀 Practical Implementation Guide for Beginners
+## 7. 7.Practical Implementation Guide for Beginners
 
 ### 7.1. Step-by-Step Action Plan
 *   **Preparation:** Read this module fully before attempting to build or implement. Gather raw materials locally.

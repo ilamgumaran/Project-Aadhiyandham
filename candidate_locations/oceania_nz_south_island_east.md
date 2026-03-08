@@ -35,7 +35,7 @@
 *   **Justification:** The South Island East Coast is a premier climate refuge. Its combination of Alpine water security, rain-shadow sunshine, and volcanic/limestone fertility makes it one of the most balanced locations on the planet.
 
 ---
-## 7. 🚀 Practical Implementation Guide for Beginners
+## 7. 7.Practical Implementation Guide for Beginners
 
 ### 7.1. Step-by-Step Action Plan
 *   **Preparation:** Read this module fully before attempting to build or implement. Gather raw materials locally.

@@ -38,7 +38,7 @@ Shared emotional states lower collective cortisol and build trust networks that 
 *   **The Psychology of Ritual:** Anthropological research validates that structured rites of passage significantly reduce juvenile delinquency and social anxiety by providing a clear, culturally validated transition of identity and responsibility.
 
 ---
-## 5. 🚀 Practical Implementation Guide for Beginners
+## 5. 5.Practical Implementation Guide for Beginners
 
 ### 5.1. Step-by-Step Action Plan
 *   **Phase 1: The Solar Observatory:** Find a flat, elevated clearing. Plant a central viewing stake. Every morning at sunrise for a full year, place a small rock exactly where the sun breaks the horizon. By the end of the year, you will have built an accurate, physical calendar.

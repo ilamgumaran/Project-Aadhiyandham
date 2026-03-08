@@ -26,7 +26,7 @@ A civilization that does not understand why its predecessors failed is destined 
 *Wisdom is the ability to change your mind when the evidence changes.*
 
 ---
-## 2. 🚀 Practical Implementation Guide for Beginners
+## 2. 2.Practical Implementation Guide for Beginners
 
 ### 2.1. Step-by-Step Action Plan
 *   **Preparation:** Read this module fully before attempting to build or implement. Gather raw materials locally.

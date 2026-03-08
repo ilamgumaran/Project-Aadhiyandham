@@ -35,7 +35,7 @@
 *   **Justification:** While breaking the 100m altitude rule, the Jordan Valley is a "proven" civilization refugia. For a society focusing on high-intensity winter agriculture and solar synthesis, it remains a powerful alternative.
 
 ---
-## 7. 🚀 Practical Implementation Guide for Beginners
+## 7. 7.Practical Implementation Guide for Beginners
 
 ### 7.1. Step-by-Step Action Plan
 *   **Preparation:** Read this module fully before attempting to build or implement. Gather raw materials locally.
