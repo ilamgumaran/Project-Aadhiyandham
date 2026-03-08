@@ -118,9 +118,11 @@ This document serves as a master tracker for all files in the repository, classi
 | File | Title | Classification | Summary |
 |---|---|---|---|
 | `Glossary.md` | Glossary of Terms: Project Aadhiyandham | **Atomic Topic** | This page provides detailed definitions of the core concepts, technologies, and biological terms used throughout the Aadhiyandham manual. |
+| `content_plan.md` | Project Aadhiyandham: Content & Atomic File Plan | **Atomic Topic** | This document serves as a master tracker for all files in the repository, classifying them by type (Atomic Topic, Action-Oriented, Theory) so we ca... |
 | `master_report.md` | Project Aadhiyandham (ஆதியந்தம்): Master Research Report | **Atomic Topic** | Project Aadhiyandham is a multi-phase blueprint for re-establishing a functional, sustainable, and harmonious civilization. By synthesizing ancient... |
 | `readme.md` | Project Aadhiyandham (ஆதியந்தம்): A User Manual for Civilization | **Atomic Topic** | **Aadhiyandham** signifies the Beginning (Aadhi), the End (Andham), and the eternal, cyclic rhythm that connects them. It represents a state of tot... |
 | `settlers_summary.md` | The Settler's Summary: A Handbook for Civilization | **Atomic Topic** | This handbook provides the essential, high-priority actions for re-establishing life and harmony within the Aadhiyandham framework. |
+| `vision_and_outcomes.md` | Project Vision and Expected Outcomes | **Atomic Topic** | **Project Aadhiyandham (ஆதியந்தம்)** is born from the understanding that our current global infrastructure is fragile, highly centralized, and out ... |
 
 ## Directory: `candidate_locations`
 
