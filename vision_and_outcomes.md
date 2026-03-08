@@ -40,4 +40,5 @@ If a community follows the Aadhiyandham sequential path (from The Journey to The
 *   **Knowledge Transfer:** The inclusion of an explicit curriculum (mathematics, physics, philosophy, and language) ensures that the first generation born in the refugia will possess the intellectual framework to understand the universe, rather than reverting to superstition.
 
 ### Outcome 5: A Flourishing Civilization
-Survival is merely the first step. The ultimate expected outcome of Project Aadhiyandham is a society where the struggle for existence is quiet and automated in the background. The foreground of human life will be dedicated to deep community bonds, biomimetic art, scientific observation, and living in absolute, harmonious rhythm with the natural world.
+*   **Beyond Raw Survival:** Survival is merely the first step. The ultimate expected outcome of Project Aadhiyandham is a society where the struggle for existence is quiet and automated in the background. 
+*   **The Foreground of Life:** By eliminating the daily panic of resource scarcity, the foreground of human life will be dedicated to deep community bonds, biomimetic art, scientific observation, and living in absolute, harmonious rhythm with the natural world.
