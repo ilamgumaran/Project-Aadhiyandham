@@ -1,4 +1,67 @@
-<!DOCTYPE html>
+import os
+
+md_content = """# Advanced Structural Engineering: Post-Scavenge Construction
+
+**Alignment:** Outcome 5: Decadal and Generational Resilience
+
+## 1. Why This Is Important (The Rationale)
+Outcome 5 establishes Decadal and Generational Resilience. In the early years of a settlement, construction relies heavily on scavenged modern materials (plywood, steel nails, asphalt shingles). However, within 20 years, these materials will degrade and the "Recycling Cliff" will hit. True structural resilience means the ability to build permanent, weather-proof, multi-story buildings using only local geology and biology. 
+
+---
+
+## 2. Zero-Tech Fasteners: Timber Framing
+The reliance on modern iron nails is a vulnerability. When the nails rust, the building falls.
+
+### The Mortise and Tenon Joint
+This is the foundational joint of generational building, requiring zero metal.
+
+**Step-by-Step Execution:**
+1. **The Tenon (The Peg):** On the end of your first beam, use a cross-cut saw to cut a shoulder, and a chisel to remove the cheek wood, leaving a protruding rectangular "peg" exactly in the center.
+2. **The Mortise (The Hole):** On your second beam, trace the exact dimensions of your Tenon. Use a hand-auger (brace and bit) to drill out the majority of the wood inside the traced rectangle. Use a chisel to square the corners until the hole is perfectly clean.
+3. **The Test Fit:** Insert the Tenon into the Mortise. It should be a friction fit, requiring light taps from a wooden mallet to seat fully.
+4. **Draw-Boring (The Lock):** Pull the joint apart. Drill a 1-inch hole completely through the Mortise cheeks. Insert the Tenon back in, and stick an awl through the hole to mark where it hits the Tenon. Pull the Tenon out, and drill its hole *slightly closer* to the shoulder (about 1/8th of an inch).
+5. **The Trunnel (Tree-Nail):** Carve a hardwood peg (oak or hickory) that is completely dry. Drive it through the offset holes. As the peg fights through the misaligned holes, it physically yanks the two beams together with massive force, locking them permanently.
+
+---
+
+## 3. Permanent Masonry: Fired Brick and Lime Mortar
+Mud and wattle melt in heavy rain. For permanent civil infrastructure (forges, granaries, aqueducts), masonry is required.
+
+### Firing Clay Bricks (The Clamp Kiln)
+You do not need a pre-existing brick oven to fire bricks; you build the oven *out* of the bricks you are firing.
+
+**Step-by-Step Execution:**
+1. **The Mix:** Dig subsoil rich in clay. Mix it with sand (to prevent shrinkage) and water until it holds its shape. Press it into wooden molds (9x4x2 inches).
+2. **Air Drying (Critical):** Stack the raw bricks in the shade for at least 3 weeks. If you fire a wet brick, the trapped water turns to steam and explodes like a grenade.
+3. **Building the Clamp:** On flat ground, build a solid foundation of fired bricks (or stone). Stack your raw, dry bricks in a large pyramid. Leave several 2-foot wide tunnels running completely through the base of the pyramid.
+4. **The Casing:** Cover the entire exterior of the pyramid with mud to insulate it and trap the heat.
+5. **The Firing:** Fill the base tunnels with hardwood and light them. You must maintain this fire continuously for 3 to 5 days, reaching internal temperatures of ~1000°C (1800°F).
+6. **Cooling:** Do not open the clamp immediately. Let it cool slowly for a week to prevent the ceramic from cracking due to thermal shock. 
+
+### Creating Lime Mortar
+**Step-by-Step Chemistry:**
+1. **The Burn:** Heat limestone rocks (Calcium Carbonate) in a kiln at 900°C to drive off the CO2, creating caustic Quicklime.
+2. **Slaking:** Drop the Quicklime into water (wear goggles). It will boil violently. The resulting paste is Slaked Lime.
+3. **The Mix:** Mix 1 part Slaked Lime with 3 parts sharp sand. Use it to lay your fired bricks. The mortar will absorb CO2 from the air over the next 6 months, turning back into solid limestone.
+
+---
+
+## 🔬 Scientific Validation & Research Context
+*   **Thermal Expansion Coefficients:** Engineering studies validate that using iron fasteners in green wood causes "nail sickness." The iron rusts due to the tannic acid in the wood, and the differing thermal expansion rates cause the wood around the nail to rot. Timber framing relies on uniform organic materials expanding at the exact same rate.
+*   **The Lime Cycle:** The chemical equation for lime mortar (`Ca(OH)2 + CO2 -> CaCO3 + H2O`) proves that the mortar literally absorbs atmospheric carbon to become stone. It is structurally superior to modern cement for historical masonry because it is permeable; it allows moisture to escape rather than trapping it inside the wall where it can freeze and shatter the brick.
+
+---
+## 🚀 Practical Implementation Guide for Beginners
+
+### 1. Step-by-Step Action Plan
+*   **Phase 1: The Joinery Prototype:** Do not build a house first. Cut a 4x4 beam. Attempt to carve a basic Mortise and Tenon joint and secure it with a wooden peg. If you cannot make a tight joint on the ground, you cannot make it 10 feet in the air.
+*   **Phase 2: The Lime Burn:** Locate local limestone, chalk, or sea shells. Build a small, very hot hardwood fire and burn the shells for 12 hours. Carefully drop the white, calcined shells into a bucket of water (wear eye protection, it will boil violently). You have just made slaked lime.
+
+### 2. Troubleshooting & Failure Modes
+*   **Exploding Bricks:** If your bricks explode inside the clamp kiln, they were not completely dry before firing. The internal moisture turned to steam and ruptured the ceramic. Dry them in the shade for two additional weeks next time.
+"""
+
+html_content = """<!DOCTYPE html>
 <html lang="en">
 <head>
     <meta charset="UTF-8">
@@ -25,47 +88,6 @@
     </style>
 </head>
 <body>
-
-    <!-- Global Navigation Bar -->
-    <nav class="global-nav">
-        <ul>
-            <li><a href="../../index.html">🏠 Home</a></li>
-            <li class="dropdown">
-                <a href="javascript:void(0)" class="dropbtn">Phases 1-3 ▾</a>
-                <div class="dropdown-content">
-                    <a href="../../01_The_Journey/01_Rationale_and_Importance.html">01. The Journey</a>
-                    <a href="../../02_The_Site/01_Rationale_and_Importance.html">02. The Site</a>
-                    <a href="../../03_The_Arrival/01_Rationale_and_Importance.html">03. The Arrival</a>
-                </div>
-            </li>
-            <li class="dropdown">
-                <a href="javascript:void(0)" class="dropbtn">Phases 4-6 ▾</a>
-                <div class="dropdown-content">
-                    <a href="../../04_The_Body/01_Rationale_and_Importance.html">04. The Body</a>
-                    <a href="../../05_The_Mind/01_Rationale_and_Importance.html">05. The Mind</a>
-                    <a href="../../06_The_Ecosystem/01_Rationale_and_Importance.html">06. The Ecosystem</a>
-                </div>
-            </li>
-            <li class="dropdown">
-                <a href="javascript:void(0)" class="dropbtn">Phases 7-9 ▾</a>
-                <div class="dropdown-content">
-                    <a href="../../07_The_Mechanics/01_Rationale_and_Importance.html">07. The Mechanics</a>
-                    <a href="../../08_The_Society/01_Rationale_and_Importance.html">08. The Society</a>
-                    <a href="../../09_The_Next_Generation/01_Rationale_and_Importance.html">09. The Next Generation</a>
-                </div>
-            </li>
-            <li class="dropdown">
-                <a href="javascript:void(0)" class="dropbtn">Phases 10-11 ▾</a>
-                <div class="dropdown-content">
-                    <a href="../../10_The_Archive/01_Rationale_and_Importance.html">10. The Archive</a>
-                    <a href="../../11_The_Horizon/01_Rationale_and_Importance.html">11. The Horizon</a>
-                </div>
-            </li>
-            <li><a href="../../candidate_locations/index.html">🌍 Atlas</a></li>
-            <li><a href="../../glossary.html">📖 Glossary</a></li>
-        </ul>
-    </nav>
-
     <header>
         <p><a href="../../index.html">Main Index</a></p>
         <h1>Advanced Structural Engineering: Post-Scavenge Construction</h1>
@@ -214,19 +236,6 @@
 
     </section>
 
-    <section class="vocabulary" style="margin-top: 2em; padding: 1em; background-color: #f9f9f9; border-top: 2px solid #ccc;">
-    <h2>Vocabulary and Definitions</h2>
-    <dl>
-        <dt style="font-weight: bold; color: #2c3e50; margin-top: 10px;">Aadhiyandham</dt>
-        <dd style="margin-left: 20px; font-size: 0.95em; color: #555;">A Tamil portmanteau of Aadhi (Primordial Beginning) and Andham (Final End).</dd>
-        <dt style="font-weight: bold; color: #2c3e50; margin-top: 10px;">Decadal</dt>
-        <dd style="margin-left: 20px; font-size: 0.95em; color: #555;">Relating to or covering a period of a decade (ten years).</dd>
-        <dt style="font-weight: bold; color: #2c3e50; margin-top: 10px;">Recycling Cliff</dt>
-        <dd style="margin-left: 20px; font-size: 0.95em; color: #555;">The projected point in time when salvaged old-world materials will corrode.</dd>
-        <dt style="font-weight: bold; color: #2c3e50; margin-top: 10px;">Resilience</dt>
-        <dd style="margin-left: 20px; font-size: 0.95em; color: #555;">The capacity to withstand or to recover quickly from difficulties; toughness.</dd>
-    </dl>
-</section>
     <div class="nav">
         <span>Previous: <a href="../05_Textiles_and_Leather/01_Textile_Synthesis.html">05 Textiles and Leather</a></span>
     </div>
@@ -236,3 +245,10 @@
     </footer>
 </body>
 </html>
+"""
+
+with open("07_The_Mechanics/06_Advanced_Structural_Engineering/01_Structural_Engineering.md", "w", encoding="utf-8") as f:
+    f.write(md_content)
+
+with open("html/07_The_Mechanics/06_Advanced_Structural_Engineering/01_Structural_Engineering.html", "w", encoding="utf-8") as f:
+    f.write(html_content)

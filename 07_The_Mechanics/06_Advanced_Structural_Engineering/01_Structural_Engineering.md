@@ -8,32 +8,44 @@ Outcome 5 establishes Decadal and Generational Resilience. In the early years of
 ---
 
 ## 2. Zero-Tech Fasteners: Timber Framing
-
 The reliance on modern iron nails is a vulnerability. When the nails rust, the building falls.
-*   **Mortise and Tenon:** The foundational joint of generational building. A cavity (mortise) is chiseled into one beam, and a peg (tenon) is carved on the end of another to fit perfectly inside. 
-*   **The Wooden Peg (Trunnel):** To secure the joint, a hole is drilled through both pieces, and a hardwood peg (a "tree-nail" or trunnel) is driven through. Because the peg is made of wood, it expands and contracts with the humidity at the same rate as the beams, preventing the joint from ever working loose.
-*   **Draw-Boring:** The hole in the tenon is intentionally drilled slightly off-center from the mortise. When the peg is driven through, it physically pulls the two beams tighter together.
+
+### The Mortise and Tenon Joint
+This is the foundational joint of generational building, requiring zero metal.
+
+**Step-by-Step Execution:**
+1. **The Tenon (The Peg):** On the end of your first beam, use a cross-cut saw to cut a shoulder, and a chisel to remove the cheek wood, leaving a protruding rectangular "peg" exactly in the center.
+2. **The Mortise (The Hole):** On your second beam, trace the exact dimensions of your Tenon. Use a hand-auger (brace and bit) to drill out the majority of the wood inside the traced rectangle. Use a chisel to square the corners until the hole is perfectly clean.
+3. **The Test Fit:** Insert the Tenon into the Mortise. It should be a friction fit, requiring light taps from a wooden mallet to seat fully.
+4. **Draw-Boring (The Lock):** Pull the joint apart. Drill a 1-inch hole completely through the Mortise cheeks. Insert the Tenon back in, and stick an awl through the hole to mark where it hits the Tenon. Pull the Tenon out, and drill its hole *slightly closer* to the shoulder (about 1/8th of an inch).
+5. **The Trunnel (Tree-Nail):** Carve a hardwood peg (oak or hickory) that is completely dry. Drive it through the offset holes. As the peg fights through the misaligned holes, it physically yanks the two beams together with massive force, locking them permanently.
 
 ---
 
 ## 3. Permanent Masonry: Fired Brick and Lime Mortar
+Mud and wattle melt in heavy rain. For permanent civil infrastructure (forges, granaries, aqueducts), masonry is required.
 
-Mud and wattle are excellent for temporary shelter, but they melt in heavy rain. For permanent civil infrastructure (forges, granaries, aqueducts), masonry is required.
+### Firing Clay Bricks (The Clamp Kiln)
+You do not need a pre-existing brick oven to fire bricks; you build the oven *out* of the bricks you are firing.
 
-### Firing Clay Bricks
-*   **The Clay:** Subsoil rich in clay is shaped into blocks and dried in the shade (to prevent cracking).
-*   **The Clamp Kiln:** A zero-infrastructure kiln. The dried bricks are stacked in a pyramid over a tunnel of firewood, covered in mud to trap the heat, and fired for several days until they reach ~1000°C (1800°F). This chemically transforms the clay into durable ceramic.
+**Step-by-Step Execution:**
+1. **The Mix:** Dig subsoil rich in clay. Mix it with sand (to prevent shrinkage) and water until it holds its shape. Press it into wooden molds (9x4x2 inches).
+2. **Air Drying (Critical):** Stack the raw bricks in the shade for at least 3 weeks. If you fire a wet brick, the trapped water turns to steam and explodes like a grenade.
+3. **Building the Clamp:** On flat ground, build a solid foundation of fired bricks (or stone). Stack your raw, dry bricks in a large pyramid. Leave several 2-foot wide tunnels running completely through the base of the pyramid.
+4. **The Casing:** Cover the entire exterior of the pyramid with mud to insulate it and trap the heat.
+5. **The Firing:** Fill the base tunnels with hardwood and light them. You must maintain this fire continuously for 3 to 5 days, reaching internal temperatures of ~1000°C (1800°F).
+6. **Cooling:** Do not open the clamp immediately. Let it cool slowly for a week to prevent the ceramic from cracking due to thermal shock. 
 
 ### Creating Lime Mortar
-You cannot build a brick wall with mud; you need mortar. Modern Portland cement cannot be manufactured without massive industrial facilities. 
-*   **The Chemistry:** Limestone (Calcium Carbonate) is burned in a kiln at 900°C. This drives off the carbon dioxide, leaving Quicklime (Calcium Oxide)—a highly caustic, dangerous substance.
-*   **Slaking:** The Quicklime is carefully mixed with water to create Slaked Lime (Calcium Hydroxide).
-*   **The Mortar:** The Slaked Lime is mixed with sand. When used to build a wall, it slowly absorbs CO2 from the atmosphere over months, turning *back* into solid limestone. It is a self-healing mortar that can last thousands of years (as seen in Roman architecture).
+**Step-by-Step Chemistry:**
+1. **The Burn:** Heat limestone rocks (Calcium Carbonate) in a kiln at 900°C to drive off the CO2, creating caustic Quicklime.
+2. **Slaking:** Drop the Quicklime into water (wear goggles). It will boil violently. The resulting paste is Slaked Lime.
+3. **The Mix:** Mix 1 part Slaked Lime with 3 parts sharp sand. Use it to lay your fired bricks. The mortar will absorb CO2 from the air over the next 6 months, turning back into solid limestone.
 
 ---
 
 ## 🔬 Scientific Validation & Research Context
-*   **Thermal Expansion Coefficients:** Engineering studies validate that using iron fasteners in green wood causes "nail sickness." The iron rusts due to the tannic acid in the wood, and the differing thermal expansion rates cause the wood around the nail to rot, leading to structural failure within decades. Timber framing relies on uniform organic materials.
+*   **Thermal Expansion Coefficients:** Engineering studies validate that using iron fasteners in green wood causes "nail sickness." The iron rusts due to the tannic acid in the wood, and the differing thermal expansion rates cause the wood around the nail to rot. Timber framing relies on uniform organic materials expanding at the exact same rate.
 *   **The Lime Cycle:** The chemical equation for lime mortar (`Ca(OH)2 + CO2 -> CaCO3 + H2O`) proves that the mortar literally absorbs atmospheric carbon to become stone. It is structurally superior to modern cement for historical masonry because it is permeable; it allows moisture to escape rather than trapping it inside the wall where it can freeze and shatter the brick.
 
 ---
@@ -45,6 +57,3 @@ You cannot build a brick wall with mud; you need mortar. Modern Portland cement 
 
 ### 2. Troubleshooting & Failure Modes
 *   **Exploding Bricks:** If your bricks explode inside the clamp kiln, they were not completely dry before firing. The internal moisture turned to steam and ruptured the ceramic. Dry them in the shade for two additional weeks next time.
-
-### 3. Community & Decadal Flourishing
-*   **Apprenticeship:** No critical skill should be held by only one person. Every master must have an apprentice. Document local modifications to these original instructions in a physical journal.
