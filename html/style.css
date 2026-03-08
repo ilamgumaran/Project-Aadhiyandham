@@ -45,3 +45,19 @@ a:hover { text-decoration: underline; }
     margin: 20px 0;
 }
 img { max-width: 100%; height: auto; border-radius: 4px; }
+
+.breadcrumbs {
+    font-size: 0.85em;
+    color: #777;
+    margin-bottom: 20px;
+    padding: 10px;
+    background: #f0f0f0;
+    border-radius: 4px;
+}
+.breadcrumbs a {
+    color: var(--link);
+}
+.breadcrumbs span {
+    color: var(--text);
+    font-weight: bold;
+}
