@@ -18,30 +18,37 @@ By implementing robust systems for basic biological and psychological needs, we 
 
 ---
 
-## The Sequential Path (The Detailed Manual)
+## The Master Structure: Aligned by Expected Outcomes
 
-### Phase I: The Preparation
-1.  **[01_The_Journey/](01_The_Journey/):** Logistics, transit guides from Georgia, USA, and emergency family protocols.
-2.  **[02_The_Site/](02_The_Site/):** Selecting the ideal habitat (100m+ elevation, wind protection, mineral survey).
+To ensure every action serves the core vision, the manual's modules are organized by the 5 Expected Outcomes.
 
-### Phase II: The Transition
-3.  **[03_The_Arrival/](03_The_Arrival/):** The first 100 days (Bio-security, rapid shelter, and initial grounding).
+### Outcome 1: Locating & Connecting Optimal Refugia
+*Focus: Finding stability and moving there safely.*
+*   **[01_The_Journey/](01_The_Journey/):** Transit guides, spatial orientation, pacing, and logistics.
+*   **[02_The_Site/](02_The_Site/):** Topographical resilience, solar window evaluation, and habitat selection.
+*   **[candidate_locations/](candidate_locations/):** The Global Atlas of 70 research-backed resilient sites.
 
-### Phase III: The Human System
-4.  **[04_The_Body/](04_The_Body/):** Endocrine regulation, sunlight protocols, and the temperate antibiotic kit.
-5.  **[05_The_Mind/](05_The_Mind/):** Linguistic precision (E-Prime) and restorative architecture (Pattern Language).
+### Outcome 2: Absolute Biological Sovereignty
+*Focus: Independence in food, water, and baseline health.*
+*   **[03_The_Arrival/](03_The_Arrival/):** The first 100 days—Bio-sand water filtration, emergency nutrition, and rapid shelter.
+*   **[04_The_Body/](04_The_Body/):** Endocrine regulation (circadian rhythms) and the temperate antibiotic kit.
+*   **[06_The_Ecosystem/](06_The_Ecosystem/):** Terra Preta soil generation, open-pollinated seed banking, and livestock.
 
-### Phase IV: The Foundation
-6.  **[06_The_Ecosystem/](06_The_Ecosystem/):** Regenerative soil building (Terra Preta) and heirloom seed preservation.
-7.  **[07_The_Mechanics/](07_The_Mechanics/):** Mechanical power (Line-shafts) and primary smelting (Bloomery Iron).
+### Outcome 3: Psychological Centeredness
+*Focus: Eliminating ambient stress and linguistic conflict.*
+*   **[05_The_Mind/](05_The_Mind/):** Linguistic precision (E-Prime) and Restorative Architecture (biophilic design).
 
-### Phase V: The Society
-8.  **[08_The_Society/](08_Historical_Wisdom/):** Consensus-based governance and managing the "Recycling Cliff."
-9.  **[09_The_Next_Generation/](09_The_Next_Generation/):** Bilingual (English/Tamil) education in math, science, and philosophy.
+### Outcome 4: Decadal and Generational Resilience
+*Focus: Outliving the "Recycling Cliff" through harmonious engineering and education.*
+*   **[07_The_Mechanics/](07_The_Mechanics/):** Line-shaft power, low-tech mobility, and basic iron smelting (Bloomery).
+*   **[08_The_Society/](08_The_Society/):** Consensus-based governance and resource life-cycle management.
+*   **[09_The_Next_Generation/](09_The_Next_Generation/):** Bilingual education, metrics, mathematics, and philosophy.
+*   **[10_The_Archive/](10_The_Archive/):** The reference encyclopedia of natural phenomena (Thermodynamics, Liebig's Law).
+*   **[11_The_Horizon/](11_The_Horizon/):** Advanced precision synthesis (Glassmaking, Crucible Steel).
 
-### Phase VI: The Archive & The Horizon
-10. **[10_The_Archive/](10_The_Archive/):** The reference encyclopedia of natural phenomena (Thermodynamics, Liebig's Law).
-11. **[11_The_Horizon/](11_The_Horizon/):** Advanced synthesis (Glassmaking, Crucible Steel) and biomimetic art.
+### Outcome 5: A Flourishing Civilization
+*Focus: Beyond survival—art, observation, and deep community bonds.*
+*   *(Note: This outcome is the emergent result of the previous four being successfully automated, though specific modules on cultural rituals, music, and biomimetic art are under development).*
 
 ---
 
