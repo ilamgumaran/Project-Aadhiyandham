@@ -78,6 +78,12 @@ To communicate accurately with other researchers, learn these technical terms:
 *   **Manifold:** The system of pipes at the bottom that collects water evenly from across the entire bed.
 
 ---
+
+## 🔬 Scientific Validation & Research Context
+*   **Bio-Sand Filtration (SSF):** The Center for Affordable Water and Sanitation Technology (CAWST) and the World Health Organization (WHO) validate that Slow Sand Filters (SSF) can remove up to 99.9% of protozoa and 90-99% of bacteria. 
+*   **The Schmutzdecke:** The effectiveness of the sand filter is not primarily mechanical, but biological. A biolayer (Schmutzdecke) forms on the top 2 centimeters of the sand. This layer consists of beneficial bacteria and algae that physically consume and trap harmful human pathogens before they pass deeper into the filter.
+
+
 ## 🚀 Practical Implementation Guide for Beginners
 
 ### 1. Step-by-Step Action Plan

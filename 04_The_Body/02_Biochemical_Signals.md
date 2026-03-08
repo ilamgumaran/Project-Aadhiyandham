@@ -61,6 +61,13 @@ Serotonin / Cortisol ^      [ MIDDAY D3 ]
 *   **Artificial Light:** If artificial white light must be used at night, settlers must wear amber-tinted lenses to protect their melatonin ramp.
 
 ---
+
+## 🔬 Scientific Validation & Research Context
+The protocols outlined above are heavily validated by modern neurobiology and chronobiology:
+*   **Glymphatic Clearance:** In 2013, Dr. Maiken Nedergaard and her team published *"Sleep Drives Metabolite Clearance from the Adult Brain"* in the journal **Science**. Their research empirically proved that during deep sleep, the brain's interstitial space expands by 60%, allowing cerebrospinal fluid to "flush" out toxic metabolic byproducts like amyloid-beta (associated with Alzheimer's) twice as fast as during wakefulness. 
+*   **Circadian Entrainment:** Decades of chronobiology research confirm that the Suprachiasmatic Nucleus (SCN) requires high-lux, short-wavelength (blue) light in the morning to halt melatonin production and synchronize the body's peripheral clocks, preventing systemic entropy.
+
+
 ## 🚀 Practical Implementation Guide for Beginners
 
 ### 1. Step-by-Step Action Plan

@@ -53,6 +53,12 @@ Before mixing Biochar and Compost, you must remove large rocks and debris from y
 *   **Humus:** The stable, dark organic matter in soil that has reached a point where it can no longer be broken down easily.
 
 ---
+
+## 🔬 Scientific Validation & Research Context
+*   **Biochar and Nutrient Retention:** Dr. Johannes Lehmann's seminal research (published in **Nature**, 2007, *"A Handful of Carbon"*) validated that the ancient Amazonian *Terra Preta* soils remained fertile for thousands of years due to human-created "black carbon" (biochar). Biochar vastly increases the Cation Exchange Capacity (CEC) of soil, acting as a microscopic sponge that prevents vital nutrients (like nitrogen and phosphorus) from leaching away during heavy rains.
+*   **Carbon Sequestration:** Burning biomass in a restricted-oxygen environment (pyrolysis) locks carbon into a stable lattice structure that microbes cannot easily break down, effectively sequestering carbon for millennia.
+
+
 ## 🚀 Practical Implementation Guide for Beginners: The Ecosystem
 
 ### 1. Step-by-Step Action Plan
