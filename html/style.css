@@ -61,3 +61,7 @@ img { max-width: 100%; height: auto; border-radius: 4px; }
     color: var(--text);
     font-weight: bold;
 }
+
+.vocabulary dl { margin-top: 20px; }
+.vocabulary dt { font-weight: bold; color: var(--accent); margin-top: 10px; }
+.vocabulary dd { margin-left: 20px; font-size: 0.95em; color: #555; }
