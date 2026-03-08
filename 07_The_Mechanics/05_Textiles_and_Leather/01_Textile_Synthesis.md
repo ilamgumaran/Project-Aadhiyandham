@@ -7,24 +7,40 @@ Outcome 5 demands Decadal and Generational Resilience. Most settlers will arrive
 
 ---
 
-## 2. The Architecture of Textile Synthesis
+## 2. The Architecture of Textile Synthesis: Detailed Execution
 
 Textile creation requires a massive caloric and time investment. It must be treated as a continuous, year-round industry within the settlement, not a hobby.
 
 ### 1. Sourcing Raw Materials (Fiber)
 You cannot weave without thread. The settlement must cultivate one of three primary fibers:
-*   **Plant Fibers (Flax/Linen or Hemp):** These require dedicated agricultural land. The stalks must be "retted" (rotted in water for weeks to dissolve the cellular tissue), dried, and then "scutched" (beaten) to extract the inner bast fibers. 
-*   **Animal Fibers (Wool/Alpaca):** This is the most efficient source of winter insulation. Sheep must be sheared annually. The raw fleece must be "scoured" (washed in hot water and fermented urine or soap to remove the lanolin grease) before it can be used.
-*   **Leather (Tanning):** Animal hides will putrefy if not tanned. **Brain Tanning** is the most viable zero-tech method. Every animal possesses a brain roughly large enough to tan its own hide. The brains are emulsified in warm water, rubbed into the scraped hide, and then the hide is heavily smoked over a smoldering fire to seal the collagen fibers against water.
 
-### 2. Processing (Spinning)
-Raw fiber must be twisted into a continuous thread.
-*   **The Drop Spindle:** The simplest, zero-tech tool. A weighted stick is spun by hand, twisting the drafted fibers together. It is highly portable but slow.
-*   **The Spinning Wheel:** A mechanical upgrade (often powered by a foot treadle) that allows for the rapid, continuous production of yarn. This is a critical piece of infrastructure that must be built by the settlement's carpenters.
+**Step-by-Step Flax/Linen Processing:**
+1. **Harvesting:** Pull the flax plants up by the roots (do not cut them) when the stems turn yellow.
+2. **Retting:** Submerge the bundles in a slow-moving stream or pond for 1-2 weeks. Bacteria will rot away the cellular tissue holding the fibers together.
+3. **Drying & Breaking:** Dry the stalks in the sun. Once brittle, use a wooden "brake" (a heavy wooden guillotine) to crush the woody core of the stalk.
+4. **Scutching:** Beat the crushed stalks with a wooden paddle against a board to knock away all the broken woody bits, leaving only the long, blonde bast fibers.
+5. **Hackling:** Comb the fibers through a bed of iron nails to align them parallel to each other, ready for spinning.
 
-### 3. Fabrication (The Loom)
-*   **The Floor Loom:** To create wide, structural fabrics (for blankets, sails, and heavy clothing), a floor loom is required. It uses a "harness" system to mechanically lift alternating "warp" (vertical) threads, allowing a shuttle carrying the "weft" (horizontal) thread to pass through the "shed" (the gap).
-*   **Maintenance:** Looms require extreme precision in their carpentry. A warped frame will result in uneven tension and ruined fabric.
+### 2. Processing (Spinning with a Drop Spindle)
+Raw fiber must be twisted into a continuous thread. The Drop Spindle is the simplest zero-tech tool.
+
+**Step-by-Step Spinning:**
+1. **The Tool:** Carve a straight, 12-inch hardwood stick (the shaft). Carve a heavy, round wooden disc (the whorl) and wedge it onto the bottom of the stick. Carve a small notch at the top of the stick.
+2. **The Leader:** Tie a 2-foot piece of existing string (the leader) tightly around the shaft just above the whorl. Loop it up to the top notch.
+3. **Drafting:** Take a handful of processed wool or flax. Pull (draft) a few fibers out and pinch them together with the end of the leader string.
+4. **The Spin:** Give the spindle a sharp, clockwise spin, letting it hang in the air. The twist will travel up the leader string and into the raw fibers you are pinching.
+5. **Winding On:** Once the twist reaches your fingers and the yarn is strong, stop the spindle. Unhook the yarn from the top notch, wind the newly made yarn around the base of the shaft, re-hook it, and draft more fibers. Repeat forever.
+
+### 3. Fabrication (The Floor Loom)
+To create wide, structural fabrics (for blankets, sails, and heavy clothing), a floor loom is required.
+
+**The Mechanics of Weaving:**
+1. **The Warp:** These are the strong, vertical threads stretched tightly across the heavy wooden frame of the loom.
+2. **The Harness (Heddles):** Every alternate warp thread is threaded through a tiny loop (a heddle) attached to a lifting harness.
+3. **The Shed:** When you press a foot treadle, one harness lifts half the warp threads up, while the others stay down. The V-shaped gap created between the upper and lower threads is called the "Shed."
+4. **The Weft (The Shuttle):** A wooden boat (the shuttle) carrying the horizontal thread (the weft) is thrown rapidly through the open Shed.
+5. **The Beater:** A heavy wooden comb (the reed/beater) is pulled forward to violently pack the new weft thread tightly against the growing fabric.
+6. **The Switch:** Release the treadle, press the opposite one (reversing which threads are up and down), and throw the shuttle back.
 
 ---
 
@@ -41,6 +57,3 @@ Raw fiber must be twisted into a continuous thread.
 
 ### 2. Troubleshooting & Failure Modes
 *   **Rotting Leather:** If a tanned hide turns hard as a board after it gets wet, or if it smells of rot, the smoking process was insufficient. The aldehydes from the smoke did not fully penetrate the collagen matrix. 
-
-### 3. Community & Decadal Flourishing
-*   **Apprenticeship:** No critical skill should be held by only one person. Every master must have an apprentice. Document local modifications to these original instructions in a physical journal.

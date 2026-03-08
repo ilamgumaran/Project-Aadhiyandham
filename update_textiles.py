@@ -1,4 +1,67 @@
-<!DOCTYPE html>
+import os
+
+md_content = """# Textile and Clothing Synthesis: The Decadal Loom
+
+**Alignment:** Outcome 5: Decadal and Generational Resilience
+
+## 1. Why This Is Important (The Rationale)
+Outcome 5 demands Decadal and Generational Resilience. Most settlers will arrive wearing modern synthetic fabrics (nylon, polyester) or mass-produced cotton. Within 5 to 10 years of heavy labor, these clothes will tear, rot, and disintegrate. If a settlement cannot manufacture its own textiles from raw local materials, the population will succumb to exposure during the winter. Clothing sovereignty is as critical as food sovereignty.
+
+---
+
+## 2. The Architecture of Textile Synthesis: Detailed Execution
+
+Textile creation requires a massive caloric and time investment. It must be treated as a continuous, year-round industry within the settlement, not a hobby.
+
+### 1. Sourcing Raw Materials (Fiber)
+You cannot weave without thread. The settlement must cultivate one of three primary fibers:
+
+**Step-by-Step Flax/Linen Processing:**
+1. **Harvesting:** Pull the flax plants up by the roots (do not cut them) when the stems turn yellow.
+2. **Retting:** Submerge the bundles in a slow-moving stream or pond for 1-2 weeks. Bacteria will rot away the cellular tissue holding the fibers together.
+3. **Drying & Breaking:** Dry the stalks in the sun. Once brittle, use a wooden "brake" (a heavy wooden guillotine) to crush the woody core of the stalk.
+4. **Scutching:** Beat the crushed stalks with a wooden paddle against a board to knock away all the broken woody bits, leaving only the long, blonde bast fibers.
+5. **Hackling:** Comb the fibers through a bed of iron nails to align them parallel to each other, ready for spinning.
+
+### 2. Processing (Spinning with a Drop Spindle)
+Raw fiber must be twisted into a continuous thread. The Drop Spindle is the simplest zero-tech tool.
+
+**Step-by-Step Spinning:**
+1. **The Tool:** Carve a straight, 12-inch hardwood stick (the shaft). Carve a heavy, round wooden disc (the whorl) and wedge it onto the bottom of the stick. Carve a small notch at the top of the stick.
+2. **The Leader:** Tie a 2-foot piece of existing string (the leader) tightly around the shaft just above the whorl. Loop it up to the top notch.
+3. **Drafting:** Take a handful of processed wool or flax. Pull (draft) a few fibers out and pinch them together with the end of the leader string.
+4. **The Spin:** Give the spindle a sharp, clockwise spin, letting it hang in the air. The twist will travel up the leader string and into the raw fibers you are pinching.
+5. **Winding On:** Once the twist reaches your fingers and the yarn is strong, stop the spindle. Unhook the yarn from the top notch, wind the newly made yarn around the base of the shaft, re-hook it, and draft more fibers. Repeat forever.
+
+### 3. Fabrication (The Floor Loom)
+To create wide, structural fabrics (for blankets, sails, and heavy clothing), a floor loom is required.
+
+**The Mechanics of Weaving:**
+1. **The Warp:** These are the strong, vertical threads stretched tightly across the heavy wooden frame of the loom.
+2. **The Harness (Heddles):** Every alternate warp thread is threaded through a tiny loop (a heddle) attached to a lifting harness.
+3. **The Shed:** When you press a foot treadle, one harness lifts half the warp threads up, while the others stay down. The V-shaped gap created between the upper and lower threads is called the "Shed."
+4. **The Weft (The Shuttle):** A wooden boat (the shuttle) carrying the horizontal thread (the weft) is thrown rapidly through the open Shed.
+5. **The Beater:** A heavy wooden comb (the reed/beater) is pulled forward to violently pack the new weft thread tightly against the growing fabric.
+6. **The Switch:** Release the treadle, press the opposite one (reversing which threads are up and down), and throw the shuttle back.
+
+---
+
+## 🔬 Scientific Validation & Research Context
+*   **Thermal Insulation:** Wool is one of the few natural fibers that retains its thermal insulating properties even when soaking wet. The crimp in the wool fibers creates thousands of microscopic air pockets that trap body heat.
+*   **Chemistry of Tanning:** Raw hide rots because bacteria consume the collagen proteins. Smoking a brain-tanned hide introduces aldehydes (similar to formaldehyde) into the cellular matrix, permanently cross-linking the collagen fibers so they can no longer dissolve in water or be consumed by bacteria.
+
+---
+## 🚀 Practical Implementation Guide for Beginners
+
+### 1. Step-by-Step Action Plan
+*   **Phase 1: The Drop Spindle Prototype:** Do not build a loom yet. Carve a simple drop spindle from a hardwood branch. Source some raw wool or dog hair and attempt to spin 10 yards of continuous, unbroken yarn. 
+*   **Phase 2: The Hide Scraping Drill:** When an animal is processed for meat, do not throw away the hide. Build a "fleshing beam" (a smooth log angled into the ground). Use a dull, curved bone or metal scraper to physically push all the fat and membrane off the skin before attempting to tan it.
+
+### 2. Troubleshooting & Failure Modes
+*   **Rotting Leather:** If a tanned hide turns hard as a board after it gets wet, or if it smells of rot, the smoking process was insufficient. The aldehydes from the smoke did not fully penetrate the collagen matrix. 
+"""
+
+html_content = """<!DOCTYPE html>
 <html lang="en">
 <head>
     <meta charset="UTF-8">
@@ -25,47 +88,6 @@
     </style>
 </head>
 <body>
-
-    <!-- Global Navigation Bar -->
-    <nav class="global-nav">
-        <ul>
-            <li><a href="../../index.html">🏠 Home</a></li>
-            <li class="dropdown">
-                <a href="javascript:void(0)" class="dropbtn">Phases 1-3 ▾</a>
-                <div class="dropdown-content">
-                    <a href="../../01_The_Journey/01_Rationale_and_Importance.html">01. The Journey</a>
-                    <a href="../../02_The_Site/01_Rationale_and_Importance.html">02. The Site</a>
-                    <a href="../../03_The_Arrival/01_Rationale_and_Importance.html">03. The Arrival</a>
-                </div>
-            </li>
-            <li class="dropdown">
-                <a href="javascript:void(0)" class="dropbtn">Phases 4-6 ▾</a>
-                <div class="dropdown-content">
-                    <a href="../../04_The_Body/01_Rationale_and_Importance.html">04. The Body</a>
-                    <a href="../../05_The_Mind/01_Rationale_and_Importance.html">05. The Mind</a>
-                    <a href="../../06_The_Ecosystem/01_Rationale_and_Importance.html">06. The Ecosystem</a>
-                </div>
-            </li>
-            <li class="dropdown">
-                <a href="javascript:void(0)" class="dropbtn">Phases 7-9 ▾</a>
-                <div class="dropdown-content">
-                    <a href="../../07_The_Mechanics/01_Rationale_and_Importance.html">07. The Mechanics</a>
-                    <a href="../../08_The_Society/01_Rationale_and_Importance.html">08. The Society</a>
-                    <a href="../../09_The_Next_Generation/01_Rationale_and_Importance.html">09. The Next Generation</a>
-                </div>
-            </li>
-            <li class="dropdown">
-                <a href="javascript:void(0)" class="dropbtn">Phases 10-11 ▾</a>
-                <div class="dropdown-content">
-                    <a href="../../10_The_Archive/01_Rationale_and_Importance.html">10. The Archive</a>
-                    <a href="../../11_The_Horizon/01_Rationale_and_Importance.html">11. The Horizon</a>
-                </div>
-            </li>
-            <li><a href="../../candidate_locations/index.html">🌍 Atlas</a></li>
-            <li><a href="../../glossary.html">📖 Glossary</a></li>
-        </ul>
-    </nav>
-
     <header>
         <p><a href="../../index.html">Main Index</a></p>
         <h1>Textile and Clothing Synthesis: The Decadal Loom</h1>
@@ -213,17 +235,6 @@
 
     </section>
 
-    <section class="vocabulary" style="margin-top: 2em; padding: 1em; background-color: #f9f9f9; border-top: 2px solid #ccc;">
-    <h2>Vocabulary and Definitions</h2>
-    <dl>
-        <dt style="font-weight: bold; color: #2c3e50; margin-top: 10px;">Aadhiyandham</dt>
-        <dd style="margin-left: 20px; font-size: 0.95em; color: #555;">A Tamil portmanteau of Aadhi (Primordial Beginning) and Andham (Final End).</dd>
-        <dt style="font-weight: bold; color: #2c3e50; margin-top: 10px;">Decadal</dt>
-        <dd style="margin-left: 20px; font-size: 0.95em; color: #555;">Relating to or covering a period of a decade (ten years).</dd>
-        <dt style="font-weight: bold; color: #2c3e50; margin-top: 10px;">Resilience</dt>
-        <dd style="margin-left: 20px; font-size: 0.95em; color: #555;">The capacity to withstand or to recover quickly from difficulties; toughness.</dd>
-    </dl>
-</section>
     <div class="nav">
         <span>Previous: <a href="../04_Material_Synthesis_and_Recycling.html">04 Material Synthesis</a></span>
     </div>
@@ -233,3 +244,10 @@
     </footer>
 </body>
 </html>
+"""
+
+with open("07_The_Mechanics/05_Textiles_and_Leather/01_Textile_Synthesis.md", "w", encoding="utf-8") as f:
+    f.write(md_content)
+
+with open("html/07_The_Mechanics/05_Textiles_and_Leather/01_Textile_Synthesis.html", "w", encoding="utf-8") as f:
+    f.write(html_content)
