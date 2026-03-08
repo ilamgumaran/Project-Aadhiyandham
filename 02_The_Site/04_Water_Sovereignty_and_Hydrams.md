@@ -64,3 +64,18 @@ SOURCE [Head 'h']
 *   **Air Buffer:** Over weeks, the air in the pressure vessel may dissolve into the water. If the "clack" becomes violent or the flow stops, drain the pump to let fresh air back into the chamber.
 *   **Valve Seating:** Periodically check for debris (leaves/sticks) caught in the waste valve. A simple screen at the source prevents 90% of failures.
 扫
+
+---
+## 🚀 Practical Implementation Guide for Beginners: Site Selection & Setup
+
+### 1. Step-by-Step Action Plan
+*   **Day 1-3:** Survey the immediate 1km radius. Identify the primary fresh water source and the highest defensible/dry ground.
+*   **Day 4-7:** Establish the "Initial Site Layout" (Module 02.05) using stakes and twine. Separate sanitation (latrines) from water sources by at least 100 meters downhill.
+*   **Year 1:** Begin modifying the topography slightly with swales to catch rainwater and prevent soil erosion.
+
+### 2. Troubleshooting & Failure Modes
+*   **Water Contamination:** If water causes illness, immediately boil all drinking water and check upstream for animal carcasses or mineral runoff.
+*   **Flooding:** If unexpected rain floods the camp, relocate to the pre-identified secondary high-ground.
+
+### 3. Community & Decadal Flourishing
+*   Plant long-lived tree species (Oak, Chestnut, Fruit trees) on the perimeter in Year 1. They will take decades to mature but will secure the micro-climate for future generations.

@@ -57,3 +57,18 @@ Use "Living Fences" (hedges of thorny or dense trees like Osage Orange or Hawtho
 ## 6. Maintenance Guide
 *   **Veterinary Care:** Focus on preventative health (Module 04). Clean water and rotation are the best defense against parasites.
 *   **Hoof Care:** Learn basic farriery (Module 03) to trim hooves and manage foot health in humid mountain environments.
+
+---
+## 🚀 Practical Implementation Guide for Beginners: The Ecosystem
+
+### 1. Step-by-Step Action Plan
+*   **Month 1:** Start a compost pile immediately. Collect all organic waste (excluding meat/dairy initially) and layer with dry carbon (leaves, straw).
+*   **Month 3:** Begin creating Terra Preta (biochar). Dig a trench, burn wood with restricted oxygen, crush the char, and mix it with compost before adding to garden beds.
+*   **Year 1:** Plant the 'Top 10 Staples' (Potatoes, Beans, Corn, Squash) from the seed bank. Save 20% of the yield strictly for next year's seeds.
+
+### 2. Troubleshooting & Failure Modes
+*   **Crop Failure (Pests):** Do not use chemical pesticides. Introduce companion planting (e.g., Marigolds with Tomatoes) and encourage natural predators like ladybugs and birds.
+*   **Soil Depletion:** If yields drop, you are taking more than you give. Rest the bed, plant nitrogen-fixing cover crops (clover, beans), and double the compost application.
+
+### 3. Community & Decadal Flourishing
+*   Assign a "Keeper of the Seeds." Seed genetics adapt to your specific microclimate over decades. This is the true wealth of the settlement.

@@ -37,3 +37,18 @@ Before building, map the **External Energies** moving through the site:
 1.  **Sun Path:** (Module 02.03) Orient for winter warmth.
 2.  **Prevailing Wind:** (Module 02.02) Use ridges or Zone 4 forests as buffers.
 3.  **Water Flow:** Identify the "Gravity Line" from your source to Zone 1.
+
+---
+## 🚀 Practical Implementation Guide for Beginners: Site Selection & Setup
+
+### 1. Step-by-Step Action Plan
+*   **Day 1-3:** Survey the immediate 1km radius. Identify the primary fresh water source and the highest defensible/dry ground.
+*   **Day 4-7:** Establish the "Initial Site Layout" (Module 02.05) using stakes and twine. Separate sanitation (latrines) from water sources by at least 100 meters downhill.
+*   **Year 1:** Begin modifying the topography slightly with swales to catch rainwater and prevent soil erosion.
+
+### 2. Troubleshooting & Failure Modes
+*   **Water Contamination:** If water causes illness, immediately boil all drinking water and check upstream for animal carcasses or mineral runoff.
+*   **Flooding:** If unexpected rain floods the camp, relocate to the pre-identified secondary high-ground.
+
+### 3. Community & Decadal Flourishing
+*   Plant long-lived tree species (Oak, Chestnut, Fruit trees) on the perimeter in Year 1. They will take decades to mature but will secure the micro-climate for future generations.
