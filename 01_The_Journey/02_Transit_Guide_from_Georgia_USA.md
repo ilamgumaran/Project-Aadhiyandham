@@ -13,12 +13,12 @@ The ability to move 100-200kg of supplies using a single animal (or human pair) 
 ## 3. How-To: Build a Travois (The All-Terrain Sled)
 A simple A-frame structure that is dragged rather than rolled.
 
-### Materials Needed
+### 3.1. Materials Needed
 *   **Booms:** Two long, straight poles (approx. 3-4m) of flexible hardwood or bamboo.
 *   **Cross-bars:** 3-4 shorter sticks.
 *   **Harness:** Padded leather or woven rope.
 
-### Instructions
+### 3.2. Instructions
 1.  Lay the two long poles in a "V" shape. 
 2.  Lash the narrow end of the "V" to the animal's shoulders/harness (Module 02).
 3.  Lash the cross-bars between the two poles to create a platform.
@@ -33,16 +33,16 @@ A simple A-frame structure that is dragged rather than rolled.
 3.  **Validation:** Identify the Wind Shadow and establish Phase 0.
 
 ---
-## 🚀 Practical Implementation Guide for Beginners: The Journey
+## 5. 🚀 Practical Implementation Guide for Beginners: The Journey
 
-### 1. Step-by-Step Action Plan
+### 5.1. Step-by-Step Action Plan
 *   **Preparation (Months 1-3):** Begin physical conditioning. Walk 5 miles a day with a 20lb backpack. Acquire baseplate compasses and physical topographical maps.
 *   **Execution (Transit):** Never travel at night unless necessary. Establish a buddy system.
 *   **Arrival:** When you reach the candidate location, establish a temporary perimeter before resting.
 
-### 2. Troubleshooting & Failure Modes
+### 5.2. Troubleshooting & Failure Modes
 *   **Lost Navigation:** If you lose your bearings, STOP. Do not wander. Use the shadow-stick method (Module 01.03) to find North and re-orient using a known landmark (river or mountain).
 *   **Injury:** Have a designated medic. Prioritize stopping bleeding and stabilizing fractures before continuing.
 
-### 3. Community & Decadal Flourishing
+### 5.3. Community & Decadal Flourishing
 *   Ensure every adult and capable child knows how to read the map and use the compass. Redundancy is survival.

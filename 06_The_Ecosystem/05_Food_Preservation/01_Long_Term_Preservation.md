@@ -9,7 +9,7 @@ Outcome 2 requires Absolute Biological Sovereignty. Growing food is only half th
 
 ## 2. Zero-Energy Preservation Methods: Detailed Execution
 
-### The Root Cellar (Geothermal Cooling)
+### 2.1. The Root Cellar (Geothermal Cooling)
 The earth maintains a constant temperature of ~50-55°F (10-13°C) year-round once you dig below the frost line (typically 4-6 feet deep). 
 
 **Step-by-Step Construction:**
@@ -19,7 +19,7 @@ The earth maintains a constant temperature of ~50-55°F (10-13°C) year-round on
 4. **Storage:** Do not wash root vegetables (potatoes, carrots). The dirt protects them. Store them buried in slightly damp sand or sawdust to prevent them from shriveling. Keep them low in the cellar.
 5. **Separation:** Apples emit high levels of ethylene gas as they ripen, which will cause potatoes to instantly sprout and rot. Store apples on the highest shelves near the exhaust pipe, or in a completely separate cellar.
 
-### Lacto-Fermentation (Biological Preservation)
+### 2.2. Lacto-Fermentation (Biological Preservation)
 Before canning, humanity relied on beneficial bacteria.
 
 **Step-by-Step Execution:**
@@ -30,7 +30,7 @@ Before canning, humanity relied on beneficial bacteria.
 5. **Submersion:** The cabbage *must* be completely submerged under its own liquid. Place a heavy "follower" (a boiled river stone or a smaller jar filled with water) on top to keep it weighed down.
 6. **The Seal:** Cover with a cloth to keep bugs out but let gas escape. Leave it in a dark, cool place for 3 weeks. The *Lactobacillus* bacteria will consume the sugars, producing lactic acid which preserves the food indefinitely and prevents botulism.
 
-### Salt-Curing and Smoking (Meat Preservation)
+### 2.3. Salt-Curing and Smoking (Meat Preservation)
 Meat spoils rapidly due to bacterial action. Moisture and oxygen must be removed.
 
 **Step-by-Step Execution:**
@@ -41,17 +41,17 @@ Meat spoils rapidly due to bacterial action. Moisture and oxygen must be removed
 
 ---
 
-## 🔬 Scientific Validation & Research Context
+## 3. 🔬 Scientific Validation & Research Context
 *   **Lactic Acid Efficacy:** Microbiological studies confirm that a pH level below 4.6 (achieved via lacto-fermentation) completely inhibits the growth of *Clostridium botulinum*, the bacteria responsible for fatal botulism.
 *   **Ethylene Management:** Agricultural science validates that storing ethylene-producing crops (like apples) next to ethylene-sensitive crops (like potatoes) causes rapid sprouting and rot. A root cellar's dual-vent system physically purges this hormone from the storage environment.
 
 ---
-## 🚀 Practical Implementation Guide for Beginners
+## 4. 🚀 Practical Implementation Guide for Beginners
 
-### 1. Step-by-Step Action Plan
+### 4.1. Step-by-Step Action Plan
 *   **Phase 1: The Prototype Cellar:** Do not dig a massive room. Dig a 4-foot deep hole, place an old chest freezer or heavy-duty trash can inside, and cover it with a thick layer of straw and dirt. Test if it keeps root vegetables from freezing during the first winter.
 *   **Phase 2: The First Ferment:** Shred a head of cabbage, weigh it, and massage exactly 2% of its weight in salt into it until it creates its own liquid. Pack it tightly in a glass jar, ensuring it is completely submerged. Wait 3 weeks.
 *   **Phase 3: The Smokehouse:** Build a small teepee of branches, cover it in a tarp (leaving a small top vent), and maintain a slow-smoldering hickory fire underneath strips of salted meat for 3-5 days.
 
-### 2. Troubleshooting & Failure Modes
+### 4.2. Troubleshooting & Failure Modes
 *   **Fermentation Mold:** If fuzzy mold grows on the top of your fermentation jar, the vegetables were exposed to oxygen. Skim the mold off, ensuring the food beneath the brine is safe, and add a heavy "follower" (like a boiled rock) to keep everything submerged.

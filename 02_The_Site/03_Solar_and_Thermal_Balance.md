@@ -13,12 +13,12 @@ A settlement where occupants maintain high serotonin naturally, and where buildi
 ## 3. How-To: Build a Solar Compass (True North/South)
 To orient buildings correctly, you must find True South (or North), not Magnetic South.
 
-### Materials Needed
+### 3.1. Materials Needed
 *   **The Gnomon:** A straight stick (approx. 1m long).
 *   **Markers:** Small stones.
 *   **String:** To draw a perfect circle.
 
-### Instructions
+### 3.2. Instructions
 1.  **The Pole:** Set the stick vertically in a flat, sunny patch of ground.
 2.  **First Mark:** In the morning, mark the exact tip of the stick's shadow with a stone.
 3.  **The Circle:** Tie a string to the stick and draw a circle on the ground using the distance to the first stone as the radius.
@@ -29,15 +29,15 @@ To orient buildings correctly, you must find True South (or North), not Magnetic
 
 ## 4. Solar Orientation Instructions (Step-by-Step)
 
-### Step 1: Mapping the Solar Path
+### 4.1. Step 1: Mapping the Solar Path
 1.  Identify True North/South using your solar compass.
 2.  Map the sun's highest point at Midday and its lowest point during the Winter Solstice.
 
-### Step 2: Designing for the Biological Dose
+### 4.2. Step 2: Designing for the Biological Dose
 1.  **Morning Sanctuary:** Design common areas with large east-facing windows.
 2.  **Protocol:** Ensure every member spends the first 30 minutes after sunrise in this zone.
 
-### Step 3: Passive Solar Heating
+### 4.3. Step 3: Passive Solar Heating
 1.  **The Window Wall:** Place 80% of windows on the Equator-side wall.
 2.  **Thermal Mass:** Place stone or water barrels directly in the path of the winter sunlight entering these windows.
 
@@ -70,16 +70,16 @@ To orient buildings correctly, you must find True South (or North), not Magnetic
 扫
 
 ---
-## 🚀 Practical Implementation Guide for Beginners
+## 8. 🚀 Practical Implementation Guide for Beginners
 
-### 1. Step-by-Step Action Plan
+### 8.1. Step-by-Step Action Plan
 *   **Preparation:** Read this module fully before attempting to build or implement. Gather raw materials locally.
 *   **Execution:** Build a small-scale prototype first. For example, if building a mechanical system or shelter, make a miniature version to test physics and material strength.
 *   **Review:** Test the implementation under stress (wind, water, heavy use) and refine.
 
-### 2. Troubleshooting & Failure Modes
+### 8.2. Troubleshooting & Failure Modes
 *   **System Failure:** When a system breaks, apply the "5 Whys" technique to find the root cause (e.g., The gear broke. Why? It was made of soft wood. Why? We lacked hardwood. Why?). Fix the root cause, not just the symptom.
 *   **Burnout:** Decadal survival is a marathon, not a sprint. If the community is exhausted, lower productivity expectations and focus on rest and social cohesion.
 
-### 3. Community & Decadal Flourishing
+### 8.3. Community & Decadal Flourishing
 *   **Apprenticeship:** No critical skill should be held by only one person. Every master must have an apprentice. Document local modifications to these original instructions in a physical journal.

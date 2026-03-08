@@ -22,21 +22,21 @@ A constant supply of **2,000 Liters of safe drinking water per day**—enough fo
 
 ## 4. Assembly Instructions (Step-by-Step)
 
-### Step 1: The Drain Pipe
+### 4.1. Step 1: The Drain Pipe
 Put a pipe with small holes drilled in it at the very bottom of the tank. This is where the clean water will collect. Cover it with your largest stones so sand doesn't clog the holes.
 
-### Step 2: Layering (Like a Cake)
+### 4.2. Step 2: Layering (Like a Cake)
 Add materials in this order (Bottom to Top):
 1.  **Gravel (30cm):** Support layer.
 2.  **Biochar (20cm):** This acts like a sponge for bad smells and chemicals.
 3.  **Fine Sand (80cm):** This is the main filter. Make it flat and level.
 4.  **Water Space (100cm):** Leave the top meter empty so you can fill it with a lot of water. The weight of the water pushes itself through the sand.
 
-### Step 3: The External Riser Pipe (The "U-Turn")
+### 4.3. Step 3: The External Riser Pipe (The "U-Turn")
 **CRITICAL:** Connect the drain pipe from the bottom and run it up the *outside* of the tank. The open end where water comes out must be **higher than the top of the sand**.
 *   **Teenager Logic:** If the water could just drain out the bottom, the sand would dry out and your "Living Scum" would die. By making the water go "up" before it comes out, the sand stays underwater forever.
 
-### Step 4: The Ripening Period (The Waiting Game)
+### 4.4. Step 4: The Ripening Period (The Waiting Game)
 1.  Fill it with water and let it flow slowly.
 2.  **Don't drink it yet!** You have to wait **10-14 days** for the "Living Scum" to grow on top of the sand.
 3.  **The Test:** Once the water coming out is crystal clear and smells fresh, it is ready.
@@ -81,21 +81,21 @@ To communicate accurately with other researchers, learn these technical terms:
 
 ---
 
-## 🔬 Scientific Validation & Research Context
+## 8. 🔬 Scientific Validation & Research Context
 *   **Bio-Sand Filtration (SSF):** The Center for Affordable Water and Sanitation Technology (CAWST) and the World Health Organization (WHO) validate that Slow Sand Filters (SSF) can remove up to 99.9% of protozoa and 90-99% of bacteria. 
 *   **The Schmutzdecke:** The effectiveness of the sand filter is not primarily mechanical, but biological. A biolayer (Schmutzdecke) forms on the top 2 centimeters of the sand. This layer consists of beneficial bacteria and algae that physically consume and trap harmful human pathogens before they pass deeper into the filter.
 
 
-## 🚀 Practical Implementation Guide for Beginners
+## 9. 🚀 Practical Implementation Guide for Beginners
 
-### 1. Step-by-Step Action Plan
+### 9.1. Step-by-Step Action Plan
 *   **Preparation:** Read this module fully before attempting to build or implement. Gather raw materials locally.
 *   **Execution:** Build a small-scale prototype first. For example, if building a mechanical system or shelter, make a miniature version to test physics and material strength.
 *   **Review:** Test the implementation under stress (wind, water, heavy use) and refine.
 
-### 2. Troubleshooting & Failure Modes
+### 9.2. Troubleshooting & Failure Modes
 *   **System Failure:** When a system breaks, apply the "5 Whys" technique to find the root cause (e.g., The gear broke. Why? It was made of soft wood. Why? We lacked hardwood. Why?). Fix the root cause, not just the symptom.
 *   **Burnout:** Decadal survival is a marathon, not a sprint. If the community is exhausted, lower productivity expectations and focus on rest and social cohesion.
 
-### 3. Community & Decadal Flourishing
+### 9.3. Community & Decadal Flourishing
 *   **Apprenticeship:** No critical skill should be held by only one person. Every master must have an apprentice. Document local modifications to these original instructions in a physical journal.

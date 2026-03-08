@@ -21,16 +21,16 @@ Every path on Earth is defined by these four points:
 ---
 
 ## 2. How-To: Orienting with the Sun (Step-by-Step)
-## எப்படி செய்வது: சூரியனைக் கொண்டு நோக்குநிலையை அறிதல்
+## 3. எப்படி செய்வது: சூரியனைக் கொண்டு நோக்குநிலையை அறிதல்
 
-### Step 1: Sunrise/Sunset Check (சூரிய உதயம்/மறைவு சரிபார்ப்பு)
+### 3.1. Step 1: Sunrise/Sunset Check (சூரிய உதயம்/மறைவு சரிபார்ப்பு)
 1.  Face the rising sun. You are facing **East**.
     உதிக்கும் சூரியனை நோக்கி நில்லுங்கள். நீங்கள் **கிழக்கை** நோக்கி இருக்கிறீர்கள்.
 2.  Your back is to the **West**. (உங்கள் முதுகு **மேற்கு** நோக்கி இருக்கும்.)
 3.  Your left hand points **North**. (உங்கள் இடது கை **வடக்கைக்** காட்டும்.)
 4.  Your right hand points **South**. (உங்கள் வலது கை **தெற்கைக்** காட்டும்.)
 
-### Step 2: The Midday Watch (நண்பகல் கவனிப்பு)
+### 3.2. Step 2: The Midday Watch (நண்பகல் கவனிப்பு)
 1.  At exactly midday, look at your shadow.
     சரியாக நண்பகலில், உங்கள் நிழலைப் பாருங்கள்.
 2.  **Northern Hemisphere:** Your shadow points **True North**.
@@ -40,14 +40,14 @@ Every path on Earth is defined by these four points:
 
 ---
 
-## 3. Direction vs. Path / திசை vs பாதை
+## 4. Direction vs. Path / திசை vs பாதை
 *   **Direction:** The absolute point (e.g., "I must go North").
 *   **Path:** The real-world trail (e.g., "I must follow the river valley to go North").
 *   **Aadhiyandham Rule:** Always prioritize the **Path** (Module 01) over the raw direction to conserve energy.
 
 ---
 
-## 4. Visual Illustration (Conceptual) / காட்சி விளக்கம்
+## 5. Visual Illustration (Conceptual) / காட்சி விளக்கம்
 
 ```text
               [ NORTH ]
@@ -69,16 +69,16 @@ Every path on Earth is defined by these four points:
 扫
 
 ---
-## 🚀 Practical Implementation Guide for Beginners: The Journey
+## 6. 🚀 Practical Implementation Guide for Beginners: The Journey
 
-### 1. Step-by-Step Action Plan
+### 6.1. Step-by-Step Action Plan
 *   **Preparation (Months 1-3):** Begin physical conditioning. Walk 5 miles a day with a 20lb backpack. Acquire baseplate compasses and physical topographical maps.
 *   **Execution (Transit):** Never travel at night unless necessary. Establish a buddy system.
 *   **Arrival:** When you reach the candidate location, establish a temporary perimeter before resting.
 
-### 2. Troubleshooting & Failure Modes
+### 6.2. Troubleshooting & Failure Modes
 *   **Lost Navigation:** If you lose your bearings, STOP. Do not wander. Use the shadow-stick method (Module 01.03) to find North and re-orient using a known landmark (river or mountain).
 *   **Injury:** Have a designated medic. Prioritize stopping bleeding and stabilizing fractures before continuing.
 
-### 3. Community & Decadal Flourishing
+### 6.3. Community & Decadal Flourishing
 *   Ensure every adult and capable child knows how to read the map and use the compass. Redundancy is survival.

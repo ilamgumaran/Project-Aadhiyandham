@@ -12,19 +12,19 @@ The ability to pinpoint your location on a paper map (within 100 meters) using o
 
 ## 3. Step-by-Step Instructions
 
-### Step 1: Find the "Sentinel" (Landmark Identification)
+### 3.1. Step 1: Find the "Sentinel" (Landmark Identification)
 Look for two things that do not move and are visible from a distance.
 1.  ** Sentinel A:** A distinct mountain peak, a large radio tower, or a specific bend in a river.
 2.  ** Sentinel B:** A second landmark that is at least 45 degrees away from the first one.
 3.  **Validation:** If you hold your arms out toward both landmarks, the angle between your arms should feel "wide" (like a corner of a room). If they are too close together, your location will be inaccurate.
 
-### Step 2: The "Natural Grid" Scan (High Ground)
+### 3.2. Step 2: The "Natural Grid" Scan (High Ground)
 1.  Climb to the nearest high point.
 2.  **Look for Water:** Identify the nearest moving water.
 3.  **The Rule:** Water flows DOWNHILL. If the water is on your left and flowing away from you, you are on a slope facing the direction of that flow.
 4.  **Validation:** Drop a small stick in the water. If it moves "away" from your target refugia (the mountains), you are moving toward the lowlands (The Danger Zone).
 
-### Step 3: Body-to-Landscape Alignment
+### 3.3. Step 3: Body-to-Landscape Alignment
 1.  Stand facing Sentinel A.
 2.  Point your left hand at Sentinel B.
 3.  Look at your map. Find these two landmarks.
@@ -51,7 +51,7 @@ Look for two things that do not move and are visible from a distance.
 
 ## 6. Reference Maps
 
-### Geographical and Topographical Map Reference
+### 6.1. Geographical and Topographical Map Reference
 To effectively orient yourself, always carry a localized topographical map. Below is a conceptual reference of how contour lines (wiggly lines) on a map translate to real-world geography:
 
 ```text
@@ -85,21 +85,21 @@ TOPOGRAPHICAL MAP VIEW (Overhead)        GEOGRAPHICAL VIEW (Profile)
 
 ---
 
-## 🔬 Scientific Validation & Research Context
+## 8. 🔬 Scientific Validation & Research Context
 *   **The Cognitive Map:** The human requirement to anchor onto physical landmarks ("Sentinels") is deeply rooted in our neurobiology. In 2014, John O'Keefe and May-Britt and Edvard Moser won the Nobel Prize in Physiology for discovering the brain's "inner GPS." 
 *   **Grid and Place Cells:** Their research showed that specific neurons in the hippocampus ("Place Cells") fire when we are in a known location, while "Grid Cells" in the entorhinal cortex provide a metric coordinate system. When a traveler lacks distinct physical landmarks, this internal grid system fails to calibrate, leading directly to the physiological stress response commonly known as "panic" or "lizard-brain."
 
 
-## 🚀 Practical Implementation Guide for Beginners: The Journey
+## 9. 🚀 Practical Implementation Guide for Beginners: The Journey
 
-### 1. Step-by-Step Action Plan
+### 9.1. Step-by-Step Action Plan
 *   **Preparation (Months 1-3):** Begin physical conditioning. Walk 5 miles a day with a 20lb backpack. Acquire baseplate compasses and physical topographical maps.
 *   **Execution (Transit):** Never travel at night unless necessary. Establish a buddy system.
 *   **Arrival:** When you reach the candidate location, establish a temporary perimeter before resting.
 
-### 2. Troubleshooting & Failure Modes
+### 9.2. Troubleshooting & Failure Modes
 *   **Lost Navigation:** If you lose your bearings, STOP. Do not wander. Use the shadow-stick method (Module 01.03) to find North and re-orient using a known landmark (river or mountain).
 *   **Injury:** Have a designated medic. Prioritize stopping bleeding and stabilizing fractures before continuing.
 
-### 3. Community & Decadal Flourishing
+### 9.3. Community & Decadal Flourishing
 *   Ensure every adult and capable child knows how to read the map and use the compass. Redundancy is survival.

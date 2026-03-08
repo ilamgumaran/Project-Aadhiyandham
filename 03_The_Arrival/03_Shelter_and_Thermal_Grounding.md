@@ -10,7 +10,7 @@ A habitable structure that maintains a stable internal temperature (approx. 18°
 
 ## 3. Materials Needed & Sourcing
 
-### Method A: Wattle and Daub (Insulative / Fast)
+### 3.1. Method A: Wattle and Daub (Insulative / Fast)
 | Material | Purpose | How to Find / Source |
 | :--- | :--- | :--- |
 | **Straight Poles** | The Frame | Small diameter hardwoods (hazel, willow, chestnut) or bamboo. |
@@ -19,7 +19,7 @@ A habitable structure that maintains a stable internal temperature (approx. 18°
 | **Straw / Grass** | The Insulation | Harvest long-stemmed wild grasses or cereal stalks (wheat/oat). |
 | **Animal Dung** | The Stabilizer | Manure from cattle or horses (adds fiber and anti-cracking enzymes). |
 
-### Method B: Rammed Earth (Thermal Mass / Durable)
+### 3.2. Method B: Rammed Earth (Thermal Mass / Durable)
 | Material | Purpose | How to Find / Source |
 | :--- | :--- | :--- |
 | **Mixed Sub-soil** | The Wall | Use "as-dug" soil. Ideal mix is 30% clay and 70% sandy-gravel. |
@@ -45,14 +45,14 @@ Use natural materials with known "tipping points" to monitor shelter stability:
 
 ## 5. Visual Illustration (Conceptual)
 
-### How-To: Wattle and Daub (The "Living" Wall)
+### 5.1. How-To: Wattle and Daub (The "Living" Wall)
 1.  **Frame:** Drive vertical poles into the ground (or attach to a timber frame) every 30-50cm.
 2.  **Weave:** Weave the flexible "wattle" rods horizontally through the vertical poles like a basket.
 3.  **The Daub Mix:** Mix clay, sand, straw, and manure with water until it has the consistency of stiff peanut butter. Tread it with your feet to ensure consistency.
 4.  **Apply:** Smear the daub onto the wattle from both sides simultaneously, ensuring it wraps around the rods.
 5.  **Finish:** Once dry, apply a final thin layer of clay and lime (Module 01) to waterproof the wall.
 
-### How-To: Rammed Earth (The "Thermal Battery")
+### 5.2. How-To: Rammed Earth (The "Thermal Battery")
 1.  **Preparation:** Sieve your sub-soil to remove large stones and grass. 
 2.  **The "Drop Test" (Moisture Check):** 
     *   Squeeze a handful of soil into a ball.
@@ -64,7 +64,7 @@ Use natural materials with known "tipping points" to monitor shelter stability:
 5.  **Ramming:** Use the hand rammer to strike the soil repeatedly until it is compacted to approx. 2 inches. You will know it is done when the sound changes from a "thud" to a metallic "ring."
 5.  **Repeat:** Add the next layer and repeat until the form is full. Remove the formwork immediately and move it to the next section.
 
-## 5. Visual Illustration (Conceptual)
+## 6. Visual Illustration (Conceptual)
 
 ```text
 WATTLE & DAUB [Detail]           RAMMED EARTH [Detail]
@@ -79,11 +79,11 @@ WATTLE & DAUB [Detail]           RAMMED EARTH [Detail]
       (Clay + Straw)                   [ 18" THICKNESS ]
 ```
 
-## 6. Maintenance Guide
+## 7. Maintenance Guide
 *   **Roof Overhangs:** The single most important maintenance step is a wide roof overhang. "A good hat and good boots" (a dry top and a dry base) will allow an earthen wall to last for centuries.
 *   **Surface Cracks:** Fill any minor drying cracks with a simple clay-lime wash annually.
 
-## 7. Vocabulary of the Foundation
+## 8. Vocabulary of the Foundation
 *   **Homeostasis:** The stable state of the human body (approx. 37°C) required for survival. Shelter protects this state.
 *   **Thermal Mass:** The ability of a heavy material (like earth or stone) to store heat energy and release it slowly.
 *   **Thermal Lag:** The delay in time it takes for heat to travel from the outside of a thick wall to the inside (target is 10–12 hours).
@@ -91,16 +91,16 @@ WATTLE & DAUB [Detail]           RAMMED EARTH [Detail]
 *   **Hygroscopic:** The ability of materials like clay and wood to absorb and release moisture from the air, regulating indoor humidity naturally.
 
 ---
-## 🚀 Practical Implementation Guide for Beginners
+## 9. 🚀 Practical Implementation Guide for Beginners
 
-### 1. Step-by-Step Action Plan
+### 9.1. Step-by-Step Action Plan
 *   **Preparation:** Read this module fully before attempting to build or implement. Gather raw materials locally.
 *   **Execution:** Build a small-scale prototype first. For example, if building a mechanical system or shelter, make a miniature version to test physics and material strength.
 *   **Review:** Test the implementation under stress (wind, water, heavy use) and refine.
 
-### 2. Troubleshooting & Failure Modes
+### 9.2. Troubleshooting & Failure Modes
 *   **System Failure:** When a system breaks, apply the "5 Whys" technique to find the root cause (e.g., The gear broke. Why? It was made of soft wood. Why? We lacked hardwood. Why?). Fix the root cause, not just the symptom.
 *   **Burnout:** Decadal survival is a marathon, not a sprint. If the community is exhausted, lower productivity expectations and focus on rest and social cohesion.
 
-### 3. Community & Decadal Flourishing
+### 9.3. Community & Decadal Flourishing
 *   **Apprenticeship:** No critical skill should be held by only one person. Every master must have an apprentice. Document local modifications to these original instructions in a physical journal.

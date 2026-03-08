@@ -10,15 +10,15 @@ If motorized transit (cars/planes) is unavailable, you must utilize the national
 
 ## 1. Primary Routes from Georgia, USA / ஜார்ஜியாவிலிருந்து முக்கிய பாதைகள்
 
-### To Tennessee (Sequatchie Valley)
+### 1.1. To Tennessee (Sequatchie Valley)
 *   **Cycling:** **U.S. Bicycle Route 21**. Connects Atlanta directly to Chattanooga.
 *   **Hiking:** The **Appalachian Trail (AT)** begins at Springer Mountain, GA and enters Tennessee.
 
-### To Missouri (Ozark Plateau)
+### 1.2. To Missouri (Ozark Plateau)
 *   **Cycling Route:** ATL -> Nashville (USBR 23) -> Join the **TransAmerica Trail (USBR 76)** west into Missouri.
 *   **The Katy Trail:** Once in Missouri, use the **Katy Trail State Park** (240-mile rail-trail) for safe, flat transit across the state.
 
-### To the Pacific Northwest (WA/OR)
+### 1.3. To the Pacific Northwest (WA/OR)
 *   **Primary Trail:** Follow the **TransAmerica Trail (USBR 76)** all the way to Astoria, Oregon.
 *   **The MoPac Trails:** Utilize the **Missouri Pacific (MoPac)** rail-trail network through the Midwest to avoid high-risk road zones.
 
@@ -43,16 +43,16 @@ If moving heavy gear or families with children:
 扫
 
 ---
-## 🚀 Practical Implementation Guide for Beginners
+## 4. 🚀 Practical Implementation Guide for Beginners
 
-### 1. Step-by-Step Action Plan
+### 4.1. Step-by-Step Action Plan
 *   **Preparation:** Read this module fully before attempting to build or implement. Gather raw materials locally.
 *   **Execution:** Build a small-scale prototype first. For example, if building a mechanical system or shelter, make a miniature version to test physics and material strength.
 *   **Review:** Test the implementation under stress (wind, water, heavy use) and refine.
 
-### 2. Troubleshooting & Failure Modes
+### 4.2. Troubleshooting & Failure Modes
 *   **System Failure:** When a system breaks, apply the "5 Whys" technique to find the root cause (e.g., The gear broke. Why? It was made of soft wood. Why? We lacked hardwood. Why?). Fix the root cause, not just the symptom.
 *   **Burnout:** Decadal survival is a marathon, not a sprint. If the community is exhausted, lower productivity expectations and focus on rest and social cohesion.
 
-### 3. Community & Decadal Flourishing
+### 4.3. Community & Decadal Flourishing
 *   **Apprenticeship:** No critical skill should be held by only one person. Every master must have an apprentice. Document local modifications to these original instructions in a physical journal.

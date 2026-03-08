@@ -7,16 +7,16 @@
 We use the Metric system because it is based on logic (powers of 10).
 நாம் மெட்ரிக் முறையைப் பயன்படுத்துகிறோம், ஏனெனில் இது தர்க்கத்தை (10-ன் அடுக்குகள்) அடிப்படையாகக் கொண்டது.
 
-### Length (நீளம்)
+### 1.1. Length (நீளம்)
 *   **10 Millimeters (mm)** = 1 Centimeter (cm)
 *   **100 Centimeters (cm)** = 1 Meter (m)
 *   **1,000 Meters (m)** = 1 Kilometer (km)
 
-### Mass (நிறை/எடை)
+### 1.2. Mass (நிறை/எடை)
 *   **1,000 Grams (g)** = 1 Kilogram (kg)
 *   **1,000 Kilograms (kg)** = 1 Metric Ton (t)
 
-### Volume (கொள்ளளவு)
+### 1.3. Volume (கொள்ளளவு)
 *   **1,000 Milliliters (ml)** = 1 Liter (L)
 
 ---
@@ -56,16 +56,16 @@ To calculate how much Terra Preta you need:
 扫
 
 ---
-## 🚀 Practical Implementation Guide for Beginners
+## 5. 🚀 Practical Implementation Guide for Beginners
 
-### 1. Step-by-Step Action Plan
+### 5.1. Step-by-Step Action Plan
 *   **Preparation:** Read this module fully before attempting to build or implement. Gather raw materials locally.
 *   **Execution:** Build a small-scale prototype first. For example, if building a mechanical system or shelter, make a miniature version to test physics and material strength.
 *   **Review:** Test the implementation under stress (wind, water, heavy use) and refine.
 
-### 2. Troubleshooting & Failure Modes
+### 5.2. Troubleshooting & Failure Modes
 *   **System Failure:** When a system breaks, apply the "5 Whys" technique to find the root cause (e.g., The gear broke. Why? It was made of soft wood. Why? We lacked hardwood. Why?). Fix the root cause, not just the symptom.
 *   **Burnout:** Decadal survival is a marathon, not a sprint. If the community is exhausted, lower productivity expectations and focus on rest and social cohesion.
 
-### 3. Community & Decadal Flourishing
+### 5.3. Community & Decadal Flourishing
 *   **Apprenticeship:** No critical skill should be held by only one person. Every master must have an apprentice. Document local modifications to these original instructions in a physical journal.

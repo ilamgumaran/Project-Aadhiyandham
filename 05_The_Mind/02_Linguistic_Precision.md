@@ -18,24 +18,24 @@ A reduction in emotional escalation during disputes, increased accuracy in techn
 
 ## 3. How-To: Practicing E-Prime (Step-by-Step)
 
-### Step 1: The Identity Audit
+### 3.1. Step 1: The Identity Audit
 Identify every time you use "is" to label a person or thing. 
 *   *Static:* "He is a blacksmith."
 *   *E-Prime:* "He works at the forge today."
 *   *Rationale:* This prevents the person from being "trapped" in a role, allowing for flexibility and growth.
 
-### Step 2: Owning the Perspective
+### 3.2. Step 2: Owning the Perspective
 Acknowledge that your senses are the filter.
 *   *Absolute:* "The sky is blue."
 *   *E-Prime:* "The sky appears blue to my eyes."
 *   *Rationale:* This leaves room for others to have different observations without creating a "truth war."
 
-### Step 3: Action-Oriented Reporting
+### 3.3. Step 3: Action-Oriented Reporting
 In technical manuals (Phase II & III), replace passive "is" with active verbs.
 *   *Passive:* "The iron is hot."
 *   *Active:* "The iron glows red, indicating it has reached forging temperature."
 
-### Step 4: Conflict Resolution (The Null Bridge)
+### 3.4. Step 4: Conflict Resolution (The Null Bridge)
 During a dispute, both parties must restate the other's position in E-Prime before responding.
 *   *Example:* "I hear you saying that you felt ignored during the morning assembly."
 
@@ -60,16 +60,16 @@ During a dispute, both parties must restate the other's position in E-Prime befo
 2.  **The Red Flag:** If you feel an emotional spike during a conversation, pause and translate your next sentence into E-Prime.
 
 ---
-## 🚀 Practical Implementation Guide for Beginners
+## 6. 🚀 Practical Implementation Guide for Beginners
 
-### 1. Step-by-Step Action Plan
+### 6.1. Step-by-Step Action Plan
 *   **Preparation:** Read this module fully before attempting to build or implement. Gather raw materials locally.
 *   **Execution:** Build a small-scale prototype first. For example, if building a mechanical system or shelter, make a miniature version to test physics and material strength.
 *   **Review:** Test the implementation under stress (wind, water, heavy use) and refine.
 
-### 2. Troubleshooting & Failure Modes
+### 6.2. Troubleshooting & Failure Modes
 *   **System Failure:** When a system breaks, apply the "5 Whys" technique to find the root cause (e.g., The gear broke. Why? It was made of soft wood. Why? We lacked hardwood. Why?). Fix the root cause, not just the symptom.
 *   **Burnout:** Decadal survival is a marathon, not a sprint. If the community is exhausted, lower productivity expectations and focus on rest and social cohesion.
 
-### 3. Community & Decadal Flourishing
+### 6.3. Community & Decadal Flourishing
 *   **Apprenticeship:** No critical skill should be held by only one person. Every master must have an apprentice. Document local modifications to these original instructions in a physical journal.

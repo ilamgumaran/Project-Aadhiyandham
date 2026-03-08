@@ -10,22 +10,22 @@ Machines and systems that achieve the highest possible work-output per unit of f
 
 ## 3. How-To: The Energy Efficiency Audit (Step-by-Step)
 
-### Step 1: Map the Chain of Conversion
+### 3.1. Step 1: Map the Chain of Conversion
 For any new machine or workshop process, draw the "Energy Path."
 *   *Example (Milling Grain):* Falling Water -> Water Wheel -> Main Shaft -> Belt -> Millstone.
 *   *Observation:* There are 4 points of friction/loss in this chain.
 
-### Step 2: Identify the "Heat Leak"
+### 3.2. Step 2: Identify the "Heat Leak"
 Run the system for 15 minutes. Use your hands (carefully) to feel for heat build-up.
 1.  **Bearings:** If they are hot, the lubrication is failing or the alignment is off.
 2.  **Belts:** If they are warm, they are slipping.
 3.  **Rationale:** Any heat you feel is energy that is NOT milling grain.
 
-### Step 3: Eliminate Conversions
+### 3.3. Step 3: Eliminate Conversions
 Apply the "Direct Work" rule. Can you eliminate an intermediate step?
 *   *Optimization:* Instead of generating electricity to run an electric motor to run a pump, can you use a **Hydraulic Ram Pump** (Module 01) to use the water's momentum directly?
 
-### Step 4: The 10% Waste Rule
+### 3.4. Step 4: The 10% Waste Rule
 For every energy transformation, assume a 10% loss. If your chain has 5 steps, you have lost nearly 50% of your energy before you even begin the work. Reduce the chain to 2 steps.
 
 ---
@@ -47,16 +47,16 @@ INPUT (100%) ----> [ CONVERSION 1 ] ----> [ CONVERSION 2 ] ----> WORK (70%)
 *   **Lubrication Audit:** Once a month, verify that all points of friction are coated in tallow/resin.
 
 ---
-## 🚀 Practical Implementation Guide for Beginners
+## 6. 🚀 Practical Implementation Guide for Beginners
 
-### 1. Step-by-Step Action Plan
+### 6.1. Step-by-Step Action Plan
 *   **Preparation:** Read this module fully before attempting to build or implement. Gather raw materials locally.
 *   **Execution:** Build a small-scale prototype first. For example, if building a mechanical system or shelter, make a miniature version to test physics and material strength.
 *   **Review:** Test the implementation under stress (wind, water, heavy use) and refine.
 
-### 2. Troubleshooting & Failure Modes
+### 6.2. Troubleshooting & Failure Modes
 *   **System Failure:** When a system breaks, apply the "5 Whys" technique to find the root cause (e.g., The gear broke. Why? It was made of soft wood. Why? We lacked hardwood. Why?). Fix the root cause, not just the symptom.
 *   **Burnout:** Decadal survival is a marathon, not a sprint. If the community is exhausted, lower productivity expectations and focus on rest and social cohesion.
 
-### 3. Community & Decadal Flourishing
+### 6.3. Community & Decadal Flourishing
 *   **Apprenticeship:** No critical skill should be held by only one person. Every master must have an apprentice. Document local modifications to these original instructions in a physical journal.

@@ -7,12 +7,12 @@ According to **WHO Standards**, sanitation is the primary barrier against the se
 
 ## 2. Technical Specifications (WHO/Sphere Standards)
 
-### A. Siting Rules (The 30/50 Rule)
+### 2.1. A. Siting Rules (The 30/50 Rule)
 *   **From Water:** Minimum **30 Meters** (98 ft) downhill from any water source (spring/well).
 *   **From Dwellings:** Maximum **50 Meters** (to ensure use) but minimum **6 Meters** (to avoid smell and insects).
 *   **Groundwater:** The pit bottom must be at least **1.5 Meters** above the water table.
 
-### B. User Ratios
+### 2.2. B. User Ratios
 *   **Initial Phase:** Max 50 people per latrine.
 *   **Stabilized Phase:** Max 20 people per latrine.
 
@@ -46,16 +46,16 @@ For the first 30 days of arrival.
 *   **Closure:** When the pit is within 50cm of the top, fill it with soil and plant a high-nitrogen tree (Module 02) on top. Move the latrine structure to a new site.
 
 ---
-## 🚀 Practical Implementation Guide for Beginners
+## 6. 🚀 Practical Implementation Guide for Beginners
 
-### 1. Step-by-Step Action Plan
+### 6.1. Step-by-Step Action Plan
 *   **Preparation:** Read this module fully before attempting to build or implement. Gather raw materials locally.
 *   **Execution:** Build a small-scale prototype first. For example, if building a mechanical system or shelter, make a miniature version to test physics and material strength.
 *   **Review:** Test the implementation under stress (wind, water, heavy use) and refine.
 
-### 2. Troubleshooting & Failure Modes
+### 6.2. Troubleshooting & Failure Modes
 *   **System Failure:** When a system breaks, apply the "5 Whys" technique to find the root cause (e.g., The gear broke. Why? It was made of soft wood. Why? We lacked hardwood. Why?). Fix the root cause, not just the symptom.
 *   **Burnout:** Decadal survival is a marathon, not a sprint. If the community is exhausted, lower productivity expectations and focus on rest and social cohesion.
 
-### 3. Community & Decadal Flourishing
+### 6.3. Community & Decadal Flourishing
 *   **Apprenticeship:** No critical skill should be held by only one person. Every master must have an apprentice. Document local modifications to these original instructions in a physical journal.

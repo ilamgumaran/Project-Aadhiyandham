@@ -22,31 +22,31 @@ The journey is not just traveling; it is the mastery of **Spatial Logic**. We br
 
 Before engaging in spatial logic and map reading, the physical reality of the journey must be secured. A foot-based migration requires meticulous planning to avoid early systemic failure.
 
-### 1. Physical Conditioning and Pacing
+### 2.1. Physical Conditioning and Pacing
 *   **The 50% Rule:** When traveling on foot with a mixed-age group or family, your maximum daily distance is 50% of the slowest member's capacity. Attempting to force a faster pace leads to injury and psychological breakdown.
 *   **Conditioning:** Begin training with weight months in advance. Walk on uneven terrain, not paved roads, to strengthen stabilizing ankle and knee ligaments.
 
-### 2. The Cargo Trolley System (The Travois)
+### 2.2. The Cargo Trolley System (The Travois)
 Carrying all necessary survival gear in a backpack (which limits you to ~20% of your body weight) is often insufficient for establishing a new settlement. 
 *   **The Single-Wheel Cart / Travois:** A manually pulled cart with a large, heavy-duty wheel (or a dual-wheel game cart for flatter terrain) allows a human to pull up to 100 lbs (45 kg) of gear with significantly less caloric expenditure than carrying it on their back. 
 *   **Harnessing:** The pulling harness should strap across the chest and hips, not just the shoulders. This keeps the center of gravity low and frees the hands for defense or clearing brush.
 *   **Family Scaling (2 Adults, 2 Teens):** Deploy at least **two** single-wheel carts. The adults (or strongest teen) pull the carts (carrying up to 200 lbs of heavy tools, seeds, and water), while the other two carry standard backpacks (~20-30 lbs each) containing immediate-access trauma kits, rain gear, and high-calorie rations.
 
-### 3. Essential Carry (The Sovereignty Kit)
+### 2.3. Essential Carry (The Sovereignty Kit)
 Your cargo must prioritize items that cannot be easily manufactured in the wild. **For a family of 4 (2 Adults, 2 Teens), pack the following quantities:**
 *   **Core Tools:** 1x High-carbon steel axe, 1x folding cross-cut saw, 4x fixed-blade knives (one worn on the belt of every family member), and 2x tempered shovels.
 *   **Water & Fire:** 4x 40oz (1.2L) single-wall stainless steel canteens (unlined, so they can be placed directly in a fire to boil water), 1x high-capacity gravity water filter (with 4x individual pocket filters as backup), and 4x ferrocerium rods.
 *   **The Seed Bank:** 10 lbs (4.5 kg) of lightweight, vacuum-sealed heirloom seeds (beans, squash, corn, potatoes) distributed across two different packs in case one is lost.
 *   **Transit Calories:** Minimum 2,500 calories per person, per day. For a 10-day trek, the family requires roughly 80 lbs (36 kg) of highly dense rations (pemmican, hardtack, nut butters).
 
-### 4. Very Nice to Have (Quality of Life & Efficiency Upgrades)
+### 2.4. Very Nice to Have (Quality of Life & Efficiency Upgrades)
 While not strictly required for bare survival, these items drastically reduce caloric burn, prevent minor injuries from becoming major, and maintain morale:
 *   **Optics:** 1x high-quality monocular or lightweight binoculars for scouting routes, finding water sources, and identifying threats from a safe distance before committing to a path.
 *   **Illumination:** 2x lightweight, hand-crank or solar LED headlamps. While fire provides light, directional hands-free light makes nighttime medical emergencies or gear repairs significantly safer.
 *   **Hygiene & Medical:** A small, dedicated metal trowel for digging latrines quickly, heavy-duty tweezers for tick/splinter removal, and concentrated biodegradable soap (like Dr. Bronner's) to prevent dysentery.
 *   **Field Repair Kit:** Heavy-duty sail needles, kevlar thread, and duct tape for patching tarps, packs, and footwear in the field.
 
-### 5. Transient Sheltering (En Route)
+### 2.5. Transient Sheltering (En Route)
 Do not carry heavy, rigid tents. 
 *   **The Tarp System:** Carry heavy-duty, waterproof silnylon tarps and high-tensile paracord. A tarp can be strung between trees (an A-frame or lean-to) in minutes, providing immediate protection from rain and wind while saving massive weight.
     *   **Family Scaling (4 people):** Carry **two 10x10 ft (3x3m)** tarps and 200 feet of paracord. This allows you to build two adjacent A-frames (2 people per shelter).
@@ -70,14 +70,14 @@ To successfully navigate the physical transition to a refugia, this module is br
 
 ## 4. Practical Implementation Guide for Beginners: The Journey
 
-### 1. Step-by-Step Action Plan
+### 4.1. Step-by-Step Action Plan
 *   **Preparation (Months 1-3):** Begin physical conditioning. Walk 5 miles a day with a 20lb backpack. Acquire baseplate compasses and physical topographical maps.
 *   **Execution (Transit):** Never travel at night unless necessary. Establish a buddy system.
 *   **Arrival:** When you reach the candidate location, establish a temporary perimeter before resting.
 
-### 2. Troubleshooting & Failure Modes
+### 4.2. Troubleshooting & Failure Modes
 *   **Lost Navigation:** If you lose your bearings, STOP. Do not wander. Use the shadow-stick method (Module 01.03) to find North and re-orient using a known landmark (river or mountain).
 *   **Injury:** Have a designated medic. Prioritize stopping bleeding and stabilizing fractures before continuing.
 
-### 3. Community & Decadal Flourishing
+### 4.3. Community & Decadal Flourishing
 *   Ensure every adult and capable child knows how to read the map and use the compass. Redundancy is survival.

@@ -10,7 +10,7 @@ Outcome 5 establishes Decadal and Generational Resilience. In the early years of
 ## 2. Zero-Tech Fasteners: Timber Framing
 The reliance on modern iron nails is a vulnerability. When the nails rust, the building falls.
 
-### The Mortise and Tenon Joint
+### 2.1. The Mortise and Tenon Joint
 This is the foundational joint of generational building, requiring zero metal.
 
 **Step-by-Step Execution:**
@@ -25,7 +25,7 @@ This is the foundational joint of generational building, requiring zero metal.
 ## 3. Permanent Masonry: Fired Brick and Lime Mortar
 Mud and wattle melt in heavy rain. For permanent civil infrastructure (forges, granaries, aqueducts), masonry is required.
 
-### Firing Clay Bricks (The Clamp Kiln)
+### 3.1. Firing Clay Bricks (The Clamp Kiln)
 You do not need a pre-existing brick oven to fire bricks; you build the oven *out* of the bricks you are firing.
 
 **Step-by-Step Execution:**
@@ -36,7 +36,7 @@ You do not need a pre-existing brick oven to fire bricks; you build the oven *ou
 5. **The Firing:** Fill the base tunnels with hardwood and light them. You must maintain this fire continuously for 3 to 5 days, reaching internal temperatures of ~1000°C (1800°F).
 6. **Cooling:** Do not open the clamp immediately. Let it cool slowly for a week to prevent the ceramic from cracking due to thermal shock. 
 
-### Creating Lime Mortar
+### 3.2. Creating Lime Mortar
 **Step-by-Step Chemistry:**
 1. **The Burn:** Heat limestone rocks (Calcium Carbonate) in a kiln at 900°C to drive off the CO2, creating caustic Quicklime.
 2. **Slaking:** Drop the Quicklime into water (wear goggles). It will boil violently. The resulting paste is Slaked Lime.
@@ -44,16 +44,16 @@ You do not need a pre-existing brick oven to fire bricks; you build the oven *ou
 
 ---
 
-## 🔬 Scientific Validation & Research Context
+## 4. 🔬 Scientific Validation & Research Context
 *   **Thermal Expansion Coefficients:** Engineering studies validate that using iron fasteners in green wood causes "nail sickness." The iron rusts due to the tannic acid in the wood, and the differing thermal expansion rates cause the wood around the nail to rot. Timber framing relies on uniform organic materials expanding at the exact same rate.
 *   **The Lime Cycle:** The chemical equation for lime mortar (`Ca(OH)2 + CO2 -> CaCO3 + H2O`) proves that the mortar literally absorbs atmospheric carbon to become stone. It is structurally superior to modern cement for historical masonry because it is permeable; it allows moisture to escape rather than trapping it inside the wall where it can freeze and shatter the brick.
 
 ---
-## 🚀 Practical Implementation Guide for Beginners
+## 5. 🚀 Practical Implementation Guide for Beginners
 
-### 1. Step-by-Step Action Plan
+### 5.1. Step-by-Step Action Plan
 *   **Phase 1: The Joinery Prototype:** Do not build a house first. Cut a 4x4 beam. Attempt to carve a basic Mortise and Tenon joint and secure it with a wooden peg. If you cannot make a tight joint on the ground, you cannot make it 10 feet in the air.
 *   **Phase 2: The Lime Burn:** Locate local limestone, chalk, or sea shells. Build a small, very hot hardwood fire and burn the shells for 12 hours. Carefully drop the white, calcined shells into a bucket of water (wear eye protection, it will boil violently). You have just made slaked lime.
 
-### 2. Troubleshooting & Failure Modes
+### 5.2. Troubleshooting & Failure Modes
 *   **Exploding Bricks:** If your bricks explode inside the clamp kiln, they were not completely dry before firing. The internal moisture turned to steam and ruptured the ceramic. Dry them in the shade for two additional weeks next time.

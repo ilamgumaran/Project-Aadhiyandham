@@ -23,23 +23,23 @@ A human-powered (or animal-towed) three-wheeled vehicle capable of carrying a 25
 
 ## 4. Assembly Instructions (Step-by-Step)
 
-### Step 1: Prepping the "Steel Lugs"
+### 4.1. Step 1: Prepping the "Steel Lugs"
 The parts of a vehicle that handle rotation (bearings and threads) must be steel. 
 1.  Cut the **Head Tube**, **Bottom Bracket**, and **Rear Dropouts** from salvaged scrap bike frames.
 2.  Clean the steel thoroughly to ensure a good bond with the resin.
 
-### Step 2: The Main Chassis (Twin-Boom Design)
+### 4.2. Step 2: The Main Chassis (Twin-Boom Design)
 1.  Select two primary bamboo culms (the "Booms").
 2.  **Miter:** Carve the ends of the bamboo to fit perfectly against the curvature of the steel lugs.
 3.  **Fire-Hardening:** Lightly char the bamboo over a fire. This drives out moisture and significantly increases the compressive strength.
 
-### Step 3: Joining (The Composite Lug Method)
+### 4.3. Step 3: Joining (The Composite Lug Method)
 1.  Position the bamboo MITERED ends against the steel parts.
 2.  **The Wrap:** Soak your natural fibers (hemp/rope) in hot resin or hide glue.
 3.  **The Bond:** Wrap the soaked fibers tightly around the joint in a "cross-hatch" pattern. Build up a thickness of at least 1cm.
 4.  **Cure:** Allow the joint to dry for 48 hours. The result is a composite lug that is stronger than the bamboo or the steel independently.
 
-### Step 4: Rear Drive and Wheels
+### 4.4. Step 4: Rear Drive and Wheels
 1.  Mount the rear axle through the bamboo booms using similar composite lugs.
 2.  Use 20-inch or 26-inch bicycle wheels for light loads; use heavy-duty industrial casters or wheelbarrow wheels for maximum cargo capacity.
 
@@ -63,16 +63,16 @@ The parts of a vehicle that handle rotation (bearings and threads) must be steel
 *   **UV Protection:** Paint the bamboo with a mix of linseed oil and charcoal to prevent sun-bleaching and splitting.
 
 ---
-## 🚀 Practical Implementation Guide for Beginners
+## 7. 🚀 Practical Implementation Guide for Beginners
 
-### 1. Step-by-Step Action Plan
+### 7.1. Step-by-Step Action Plan
 *   **Preparation:** Read this module fully before attempting to build or implement. Gather raw materials locally.
 *   **Execution:** Build a small-scale prototype first. For example, if building a mechanical system or shelter, make a miniature version to test physics and material strength.
 *   **Review:** Test the implementation under stress (wind, water, heavy use) and refine.
 
-### 2. Troubleshooting & Failure Modes
+### 7.2. Troubleshooting & Failure Modes
 *   **System Failure:** When a system breaks, apply the "5 Whys" technique to find the root cause (e.g., The gear broke. Why? It was made of soft wood. Why? We lacked hardwood. Why?). Fix the root cause, not just the symptom.
 *   **Burnout:** Decadal survival is a marathon, not a sprint. If the community is exhausted, lower productivity expectations and focus on rest and social cohesion.
 
-### 3. Community & Decadal Flourishing
+### 7.3. Community & Decadal Flourishing
 *   **Apprenticeship:** No critical skill should be held by only one person. Every master must have an apprentice. Document local modifications to these original instructions in a physical journal.

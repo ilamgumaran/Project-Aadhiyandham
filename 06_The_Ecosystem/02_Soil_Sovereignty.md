@@ -13,12 +13,12 @@ A deep, black, nutrient-rich topsoil capable of supporting high-intensity agricu
 ## 3. How-To: Build a Soil Sieve (The Refinement Tool)
 Before mixing Biochar and Compost, you must remove large rocks and debris from your sub-soil.
 
-### Materials Needed
+### 3.1. Materials Needed
 *   **Frame:** Four sturdy timber planks (approx. 60cm each).
 *   **Mesh:** Salvaged 1/4 inch (6mm) hardware cloth or heavy-duty wire mesh.
 *   **Handles:** Two longer side planks or separate wood grips.
 
-### Instructions
+### 3.2. Instructions
 1.  Nail the four planks into a square frame.
 2.  Stretch the wire mesh across the bottom and staple or nail it securely to the frame.
 3.  **How to Use:** Place the sieve over a wheelbarrow. Shovel raw sub-soil onto the mesh and shake.
@@ -56,21 +56,21 @@ Before mixing Biochar and Compost, you must remove large rocks and debris from y
 
 ---
 
-## 🔬 Scientific Validation & Research Context
+## 8. 🔬 Scientific Validation & Research Context
 *   **Biochar and Nutrient Retention:** Dr. Johannes Lehmann's seminal research (published in **Nature**, 2007, *"A Handful of Carbon"*) validated that the ancient Amazonian *Terra Preta* soils remained fertile for thousands of years due to human-created "black carbon" (biochar). Biochar vastly increases the Cation Exchange Capacity (CEC) of soil, acting as a microscopic sponge that prevents vital nutrients (like nitrogen and phosphorus) from leaching away during heavy rains.
 *   **Carbon Sequestration:** Burning biomass in a restricted-oxygen environment (pyrolysis) locks carbon into a stable lattice structure that microbes cannot easily break down, effectively sequestering carbon for millennia.
 
 
-## 🚀 Practical Implementation Guide for Beginners: The Ecosystem
+## 9. 🚀 Practical Implementation Guide for Beginners: The Ecosystem
 
-### 1. Step-by-Step Action Plan
+### 9.1. Step-by-Step Action Plan
 *   **Month 1:** Start a compost pile immediately. Collect all organic waste (excluding meat/dairy initially) and layer with dry carbon (leaves, straw).
 *   **Month 3:** Begin creating Terra Preta (biochar). Dig a trench, burn wood with restricted oxygen, crush the char, and mix it with compost before adding to garden beds.
 *   **Year 1:** Plant the 'Top 10 Staples' (Potatoes, Beans, Corn, Squash) from the seed bank. Save 20% of the yield strictly for next year's seeds.
 
-### 2. Troubleshooting & Failure Modes
+### 9.2. Troubleshooting & Failure Modes
 *   **Crop Failure (Pests):** Do not use chemical pesticides. Introduce companion planting (e.g., Marigolds with Tomatoes) and encourage natural predators like ladybugs and birds.
 *   **Soil Depletion:** If yields drop, you are taking more than you give. Rest the bed, plant nitrogen-fixing cover crops (clover, beans), and double the compost application.
 
-### 3. Community & Decadal Flourishing
+### 9.3. Community & Decadal Flourishing
 *   Assign a "Keeper of the Seeds." Seed genetics adapt to your specific microclimate over decades. This is the true wealth of the settlement.

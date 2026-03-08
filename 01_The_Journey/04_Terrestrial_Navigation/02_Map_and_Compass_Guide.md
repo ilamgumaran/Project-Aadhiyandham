@@ -12,19 +12,19 @@
 ---
 
 ## 2. How-To: Navigating to a Destination (Step-by-Step)
-## எப்படி செய்வது: இலக்கை நோக்கிச் செல்லுதல்
+## 3. எப்படி செய்வது: இலக்கை நோக்கிச் செல்லுதல்
 
-### Step 1: Set the Course on the Map (வரைபடத்தில் பாதையை அமைத்தல்)
+### 3.1. Step 1: Set the Course on the Map (வரைபடத்தில் பாதையை அமைத்தல்)
 1.  Connect your current location (Point A) and destination (Point B) with the edge of the compass.
     உங்கள் தற்போதைய இடத்தையும் (புள்ளி A) இலக்கையும் (புள்ளி B) திசைகாட்டியின் விளிம்பால் இணைக்கவும்.
 2.  Ensure the **direction-of-travel arrow** points toward Point B.
     பயண திசை அம்பு புள்ளி B-ஐ நோக்கி இருப்பதை உறுதி செய்யவும்.
 
-### Step 2: Align the Bezel (டயலை வரிசைப்படுத்துதல்)
+### 3.2. Step 2: Align the Bezel (டயலை வரிசைப்படுத்துதல்)
 1.  Rotate the **bezel** until the internal orienting lines are parallel to the North-South grid lines on your map.
     உட்புற வரிசைக் கோடுகள் வரைபடத்தின் வடக்கு-தெற்கு கோடுகளுக்கு இணையாக இருக்கும் வரை டயலைச் சுழற்றவும்.
 
-### Step 3: Follow the Bearing (திசையைப் பின்பற்றுதல்)
+### 3.3. Step 3: Follow the Bearing (திசையைப் பின்பற்றுதல்)
 1.  Hold the compass flat in front of you. (திசைகாட்டியை உங்களுக்கு முன்னால் சமமாகப் பிடிக்கவும்.)
 2.  Rotate your **entire body** until the red magnetic needle sits inside the orienting arrow (The Shed).
     சிவப்பு காந்த ஊசி உட்புற அம்புக்குறிக்குள் உட்காரும் வரை உங்கள் முழு உடலையும் சுழற்றவும்.
@@ -33,8 +33,8 @@
 
 ---
 
-## 3. How to Find Your Location (Resectioning)
-## உங்கள் இருப்பிடத்தைக் கண்டறிதல் (மறுபகிர்வு)
+## 4. How to Find Your Location (Resectioning)
+## 5. உங்கள் இருப்பிடத்தைக் கண்டறிதல் (மறுபகிர்வு)
 
 If you are lost but see two known mountains:
 நீங்கள் தொலைந்து போய், இரண்டு தெரிந்த மலைகளைக் கண்டால்:
@@ -44,7 +44,7 @@ If you are lost but see two known mountains:
 3.  **The Result:** You are located at the intersection of the two lines.
     முடிவு: நீங்கள் இரண்டு கோடுகளும் சந்திக்கும் இடத்தில் இருக்கிறீர்கள்.
 
-## 4. Visual Illustration (Conceptual) / காட்சி விளக்கம்
+## 6. Visual Illustration (Conceptual) / காட்சி விளக்கம்
 
 ```text
       [ DESTINATION B ]
@@ -67,16 +67,16 @@ If you are lost but see two known mountains:
 扫
 
 ---
-## 🚀 Practical Implementation Guide for Beginners
+## 7. 🚀 Practical Implementation Guide for Beginners
 
-### 1. Step-by-Step Action Plan
+### 7.1. Step-by-Step Action Plan
 *   **Preparation:** Read this module fully before attempting to build or implement. Gather raw materials locally.
 *   **Execution:** Build a small-scale prototype first. For example, if building a mechanical system or shelter, make a miniature version to test physics and material strength.
 *   **Review:** Test the implementation under stress (wind, water, heavy use) and refine.
 
-### 2. Troubleshooting & Failure Modes
+### 7.2. Troubleshooting & Failure Modes
 *   **System Failure:** When a system breaks, apply the "5 Whys" technique to find the root cause (e.g., The gear broke. Why? It was made of soft wood. Why? We lacked hardwood. Why?). Fix the root cause, not just the symptom.
 *   **Burnout:** Decadal survival is a marathon, not a sprint. If the community is exhausted, lower productivity expectations and focus on rest and social cohesion.
 
-### 3. Community & Decadal Flourishing
+### 7.3. Community & Decadal Flourishing
 *   **Apprenticeship:** No critical skill should be held by only one person. Every master must have an apprentice. Document local modifications to these original instructions in a physical journal.

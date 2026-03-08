@@ -9,7 +9,7 @@ Outcome 2 requires Absolute Biological Sovereignty. While the "Temperate Antibio
 
 ## 2. Advanced Trauma Protocols: Detailed Execution
 
-### 1. Hemorrhage Control (The Windlass Tourniquet)
+### 2.1. Hemorrhage Control (The Windlass Tourniquet)
 In zero-tech environments, massive blood loss is the primary cause of preventable death. An improvised cloth is not enough; you must establish mechanical advantage.
 
 **Step-by-Step Application:**
@@ -22,7 +22,7 @@ In zero-tech environments, massive blood loss is the primary cause of preventabl
 7. **Secure the Windlass:** Tie the ends of the stick down to the limb using another strip of cloth so it cannot unwind.
 8. **Time:** Write the exact time of application on the patient's forehead (e.g., "TQ 14:30") using blood, dirt, or a marker. Tissue necrosis begins after 2 hours.
 
-### 2. Orthopedic Stabilization (The Traction Splint)
+### 2.2. Orthopedic Stabilization (The Traction Splint)
 A fractured femur can sever the femoral artery if the bone shifts. The massive thigh muscles will immediately spasm, pulling the jagged bone ends over each other. 
 
 **Step-by-Step Application:**
@@ -45,16 +45,16 @@ The continuation of the settlement depends entirely on the safe delivery of the 
 
 ---
 
-## 🔬 Scientific Validation & Research Context
+## 4. 🔬 Scientific Validation & Research Context
 *   **The Windlass Tourniquet:** Research from the Committee on Tactical Combat Casualty Care (CoTCCC) validates that improvised tourniquets without a mechanical windlass fail to achieve complete arterial occlusion in over 90% of cases, leading to a false sense of security and death by slow hemorrhage.
 *   **Delayed Cord Clamping:** The World Health Organization (WHO) explicitly recommends delayed cord clamping (1-3 minutes minimum) for all births to improve maternal and infant health and nutrition outcomes.
 
 ---
-## 🚀 Practical Implementation Guide for Beginners
+## 5. 🚀 Practical Implementation Guide for Beginners
 
-### 1. Step-by-Step Action Plan
+### 5.1. Step-by-Step Action Plan
 *   **Phase 1: The Trauma Kit:** Assemble a dedicated zero-tech trauma bag today. It must contain: 2x commercially made windlass tourniquets (do not improvise these unless forced), 10 yards of compressed cotton gauze, and heavy-duty trauma shears.
 *   **Phase 2: The Drill:** Conduct a mock drill. Have a community member simulate a severe leg wound. Time how long it takes for a responder to apply the tourniquet and achieve mechanical tightness. If it takes longer than 60 seconds, the drill is a failure.
 
-### 2. Troubleshooting & Failure Modes
+### 5.2. Troubleshooting & Failure Modes
 *   **Infection Post-Trauma:** If a wound is packed to stop bleeding, the gauze *must* be removed and the wound irrigated with sterilized (boiled) water within 24 hours. Leaving bloody gauze in a deep cavity guarantees systemic sepsis.

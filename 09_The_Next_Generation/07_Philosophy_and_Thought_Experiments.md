@@ -13,7 +13,7 @@ A thought experiment is a simulation you run in your head. It helps you test ide
 ---
 
 ## 2. Thought Experiment: The Shared Resource (The Well)
-## சிந்தனை சோதனை: பகிரப்பட்ட வளம் (கிணறு)
+## 3. சிந்தனை சோதனை: பகிரப்பட்ட வளம் (கிணறு)
 
 **Scenario (சூழல்):**
 There is one water well for two families. If one family takes all the water today, the well will be empty tomorrow.
@@ -30,7 +30,7 @@ How should the families decide how much water to take to ensure the well never r
 
 ---
 
-## 3. Simplifying Complexity / சிக்கலை எளிதாக்குதல்
+## 4. Simplifying Complexity / சிக்கலை எளிதாக்குதல்
 Aadhiyandham philosophy encourages "Striping Away the Noise."
 ஆதியந்தம் தத்துவம் "தேவையற்ற சத்தத்தை அகற்றுவதை" ஊக்குவிக்கிறது.
 
@@ -41,7 +41,7 @@ Aadhiyandham philosophy encourages "Striping Away the Noise."
 
 ---
 
-## 4. Visual Illustration (Conceptual) / காட்சி விளக்கம் (கருத்துரு)
+## 5. Visual Illustration (Conceptual) / காட்சி விளக்கம் (கருத்துரு)
 
 ```text
       [ REAL PROBLEM ]
@@ -59,16 +59,16 @@ Aadhiyandham philosophy encourages "Striping Away the Noise."
 扫
 
 ---
-## 🚀 Practical Implementation Guide for Beginners
+## 6. 🚀 Practical Implementation Guide for Beginners
 
-### 1. Step-by-Step Action Plan
+### 6.1. Step-by-Step Action Plan
 *   **Preparation:** Read this module fully before attempting to build or implement. Gather raw materials locally.
 *   **Execution:** Build a small-scale prototype first. For example, if building a mechanical system or shelter, make a miniature version to test physics and material strength.
 *   **Review:** Test the implementation under stress (wind, water, heavy use) and refine.
 
-### 2. Troubleshooting & Failure Modes
+### 6.2. Troubleshooting & Failure Modes
 *   **System Failure:** When a system breaks, apply the "5 Whys" technique to find the root cause (e.g., The gear broke. Why? It was made of soft wood. Why? We lacked hardwood. Why?). Fix the root cause, not just the symptom.
 *   **Burnout:** Decadal survival is a marathon, not a sprint. If the community is exhausted, lower productivity expectations and focus on rest and social cohesion.
 
-### 3. Community & Decadal Flourishing
+### 6.3. Community & Decadal Flourishing
 *   **Apprenticeship:** No critical skill should be held by only one person. Every master must have an apprentice. Document local modifications to these original instructions in a physical journal.
