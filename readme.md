@@ -3,7 +3,7 @@
 **Aadhiyandham** signifies the Beginning (Aadhi), the End (Andham), and the eternal, cyclic rhythm that connects them. It represents a state of totality and centeredness, where the start and end are one, allowing for a life of blissful curiosity and harmony with the universal vibration.
 
 ## Project Vision
-To design a blueprint for re-establishing a functional, sustainable civilization in the wake of systemic climate or global disaster. The project is structured into five sequential phases, moving from initial survival to the establishment of a "centered null" society.
+To design a blueprint for re-establishing a functional, sustainable civilization. The project is structured into seven sequential phases, moving from initial survival to the establishment of a "centered null" society where biological needs are automated to free the mind for exploration.
 
 ---
 
@@ -22,7 +22,7 @@ To design a blueprint for re-establishing a functional, sustainable civilization
 6.  **[06_Mind_and_Centered_Living/](06_Mind_and_Centered_Living/):** Linguistic precision (E-Prime), restorative architecture (Pattern Language), and the neuroscience of curiosity.
 
 ### Phase IV: The Archive of Reason (The Wisdom)
-7.  **[05_Historical_Wisdom/](05_Historical_Wisdom/):** Learning from historical failures, consensus-based governance, and managing the "Recycling Cliff."
+7.  **[05_Historical_Wisdom/](05_Historical_Wisdom/):** Learning from historical outcomes, consensus-based governance, and managing the "Recycling Cliff."
 8.  **[07_Archive_of_Natural_Phenomena/](07_Archive_of_Natural_Phenomena/):** A synthesized encyclopedia of the laws of nature (Thermodynamics, Liebig's Law, Biological Phyla).
 
 ### Phase V: Expression (The Civilization)
@@ -48,24 +48,23 @@ Every module directory contains a **01_Rationale_and_Importance.md** file. This 
 
 ---
 
-## The Aadhiyandham Mandate: Why We Build This
-## ஆதியந்தம் ஆணை: நாம் ஏன் இதை உருவாக்குகிறோம்
+## The Aadhiyandham Mandate: The Distillation of Knowledge
+## ஆதியந்தம் ஆணை: அறிவின் வடித்தெடுத்தல்
 
-### A Heritage of Logic, Not Bias (சார்பற்ற தர்க்கத்தின் மரபுரிமை)
-Project Aadhiyandham does not exist to preserve our current society's mistakes, but to distill its most resilient **logic**. We have stripped away the "noise" of greed, the complexity of unsustainable systems, and the bias of outdated power structures. What remains is a clean foundation intended to accelerate the development of a new, flourishing civilization from the ruins of the old, or for those who choose a different path today.
+### Alignment with the Objective (குறிக்கோளுடன் இணைதல்)
+Project Aadhiyandham serves as a foundational distillation of knowledge from our current civilization. We recognize that there is no universal "right" or "wrong," only actions that either bring us closer to our objective or take us further away. Our objective is the sustainable maintenance of human biology and the environment through efficient processes, systems, and tools.
 
-ஆதியந்தம் திட்டம் நமது தற்போதைய சமூகத்தின் தவறுகளைப் பாதுகாப்பதற்காக அல்ல, மாறாக அதன் மிகவும் மீள்தன்மை கொண்ட தர்க்கத்தை வடித்தெடுப்பதற்காகவே உள்ளது. பேராசை, நிலையற்ற அமைப்புகளின் சிக்கல்கள் மற்றும் காலாவதியான அதிகாரக் கட்டமைப்புகளின் சார்புகளை நாங்கள் நீக்கியுள்ளோம். எஞ்சியிருப்பது ஒரு தூய்மையான அடித்தளம், இது பழைய இடிபாடுகளிலிருந்து ஒரு புதிய, செழிப்பான நாகரிகத்தின் வளர்ச்சியை முடுக்கிவிட அல்லது இன்று வேறு பாதையைத் தேர்ந்தெடுப்பவர்களுக்காக வடிவமைக்கப்பட்டுள்ளது.
+ஆதியந்தம் திட்டம் நமது தற்போதைய நாகரிகத்திலிருந்து அறிவை வடித்தெடுக்கும் ஒரு அடிப்படை பணியாகும். உலகளாவிய "சரி" அல்லது "தவறு" என்று எதுவும் இல்லை என்பதை நாங்கள் அங்கீகரிக்கிறோம்; நமது குறிக்கோளுக்கு நம்மை நெருக்கமாக்கும் அல்லது அதிலிருந்து நம்மைத் தூரமாக்கும் செயல்கள் மட்டுமே உள்ளன. திறமையான செயல்முறைகள், அமைப்புகள் மற்றும் கருவிகள் மூலம் மனித உயிரியல் மற்றும் சுற்றுச்சூழலை நிலையான முறையில் பராமரிப்பதே நமது குறிக்கோள்.
+
+### Freeing the Mind (மனதை விடுவித்தல்)
+By implementing robust systems for basic biological and psychological needs, we aim to reduce the time required for raw survival. This efficiency frees the individual to spend their life on **introspection and exploration** of the world around them. We use the technical learnings of the past to accelerate a future where curiosity is the primary human activity.
+
+அடிப்படை உயிரியல் மற்றும் உளவியல் தேவைகளுக்கான வலுவான அமைப்புகளைச் செயல்படுத்துவதன் மூலம், உயிர்வாழ்வதற்குத் தேவையான நேரத்தைக் குறைப்பதை நாங்கள் நோக்கமாகக் கொண்டுள்ளோம். இந்தத் திறன் தனிமனிதன் தனது வாழ்க்கையைத் தன்னாய்வு மற்றும் தன்னைச் சுற்றியுள்ள உலகத்தை ஆராய்வதில் செலவிட அனுமதிக்கிறது. ஆர்வம் என்பது முதன்மையான மனிதச் செயல்பாடாக இருக்கும் எதிர்காலத்தை முடுக்கிவிட கடந்த காலத்தின் தொழில்நுட்பக் கற்றல்களைப் பயன்படுத்துகிறோம்.
 
 ### From Zero to Civilization (பூஜ்ஜியத்திலிருந்து நாகரிகம் வரை)
-We have designed every instruction to be **Step-by-Step**. This guide assumes **zero level of prior knowledge**. Whether you are a teenager arriving at a refugia for the first time or a family looking to escape a failing system, the path is clear:
-*   **Phase I** keeps you alive. (கட்டம் I உங்களை உயிர்ப்புடன் வைத்திருக்கும்.)
-*   **Phases II-IV** make you stable. (கட்டங்கள் II-IV உங்களை நிலைப்படுத்தும்.)
-*   **Phases V-VII** make you a civilization. (கட்டங்கள் V-VII உங்களை ஒரு நாகரிகமாக மாற்றும்.)
+We have designed every instruction to be **Step-by-Step**, assuming **zero prior knowledge**. The path is a progression from survival to a flourishing state of being.
 
-பூஜ்ஜிய அளவிலான முன்னறிவு இல்லாத எவரும் கற்றுக்கொள்ளும் வகையில் ஒவ்வொரு அறிவுறுத்தலையும் படிப்படியாக வடிவமைத்துள்ளோம்.
+பூஜ்ஜிய முன்னறிவு இருப்பதாகக் கருதி, ஒவ்வொரு அறிவுறுத்தலையும் படிப்படியாக வடிவமைத்துள்ளோம். பாதை என்பது உயிர்வாழ்வதிலிருந்து ஒரு செழிப்பான நிலைக்கு மாறுவதாகும்.
 
-*By learning the 'Why' before the 'How,' we ensure that the next generation builds with wisdom, not just rules.*
-*எப்படி என்பதற்கு முன் ஏன் என்பதை அறிந்துகொள்வதன் மூலம், அடுத்த தலைமுறை வெறும் விதிகளுடன் மட்டுமல்லாமல் ஞானத்துடனும் கட்டமைப்பதை உறுதி செய்கிறோம்.*
-扫
-扫
-扫
+*By learning the 'Why' before the 'How,' we move closer to a state of perpetual harmony.*
+*எப்படி என்பதற்கு முன் ஏன் என்பதை அறிந்துகொள்வதன் மூலம், நாம் நிலையான இணக்கமான நிலையை நோக்கி நகர்கிறோம்.*
