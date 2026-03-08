@@ -41,6 +41,14 @@ Using the provided GPS coordinates and a topographic map:
 1.  **Night Observation:** During a clear night, monitor the temperature at the Valley Floor, Mid-Slope, and Ridge Top.
 2.  **Action:** Place your primary housing in the mid-slope zone (The Thermal Belt) where warm air is trapped.
 
+### Step 4: The Essential Mineral Survey
+A site is not a habitat if it lacks the minerals for life and construction.
+1.  **Phosphorus Check:** Identify nearby bird nesting sites, bat caves, or mineral-rich sedimentary rocks. Without phosphorus, long-term soil fertility is impossible.
+2.  **The "Metabolism Trio":** Verify access to local sources of **Potash** (wood ash), **Sulfur** (volcanic vents or mineral springs), and **Limestone** (calcium).
+3.  **Trace Minerals:** Observe the health of local wild animals. Strong bones and thick coats in local fauna indicate a mineral-rich landscape (Zinc, Copper, Selenium).
+
+---
+
 ## 5. Visual Illustration (Conceptual)
 
 ```text
@@ -68,3 +76,6 @@ PREVAILING WINDS ----->
 *   **Windward:** The side facing directly into the prevailing wind (the "shield").
 *   **Thermal Inversion:** The phenomenon where warm air rises and becomes trapped above a layer of colder air in a valley, creating the **Thermal Belt**.
 *   **ASL:** Above Sea Level.
+扫
+扫
+扫

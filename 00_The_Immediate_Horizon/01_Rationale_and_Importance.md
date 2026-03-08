@@ -16,8 +16,9 @@ If specific names of locations change over time, settlers must look for these un
 *   **The 100m Floor:** The site must sit at least 100m above the current local sea or flood-plain level. This provides a natural gravity-drain for waste and immunity to rising water.
 
 #### B. The Carrying Capacity (Space and Health)
-*   **Balanced Density:** The habitat must have enough flat or gently sloping acreage to allow for **100 square meters of living space per person** plus agricultural land.
-*   **Rationale:** Overcrowding is a biological threat. Tight clusters lead to rapid pathogen spread and sanitation failure. However, settlers must remain within a **5-minute walking radius** of a central commons. This "loose proximity" provides enough distance for private sanitation while keeping the group close enough to deter large animal threats and coordinate collective defense.
+*   **Balanced Density:** The habitat must have enough flat or gently sloping acreage to allow for **0.5 Hectares (approx. 1.2 Acres) per person**.
+*   **Rationale:** Based on global permaculture research (2026), 0.5 hectares is the "Sovereignty Threshold." It provides enough space for caloric staples, fuel wood, fiber, and a fallow buffer to handle crop failures without degrading the soil. 
+*   **Density:** Settlers must remain within a **5-minute walking radius** of a central commons. This "loose proximity" provides enough distance for private sanitation (preventing the 2026 'pressure cooker' effect) while keeping the group close enough to deter large animal threats and coordinate collective defense.
 
 #### C. The Resource Web (The Four Pillars of Flow)
 1.  **Hydrological Sovereignty:** Access to a permanent, high-altitude freshwater source (spring or mountain lake). The water must flow *down* to the settlement to provide zero-energy pressure.

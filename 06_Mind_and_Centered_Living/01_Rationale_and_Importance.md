@@ -18,7 +18,11 @@ A civilization is defined more by its psychological baseline than its physical t
 
 ### 4. Temporal Sovereignty
 **Importance:** Eliminating future-anxiety.
-**Rationale:** The feeling of "running out of time" drives irrational growth. By designing rhythms that emphasize the "Eternal Present," we align human activity with the slow, patient cycles of the natural world (seasons, forest growth).
+**Rationale:** The feeling of "running out of time" drives irrational growth. By designing rhythms that emphasize the "Eternal Present," we align human activity with the slow, patient cycles of the natural world.
+
+### 5. Social Permaculture (Communal Resilience)
+**Importance:** Preventing social exhaustion and hyper-independence.
+**Rationale:** Global studies show that "growing kale is easy; living with people is hard." To prevent burnout, we implement systems for rotating labor, resolving power imbalances, and discouraging the "hyper-independence" trap (refusing to ask for help). Our objective is a society where interpersonal negotiation is a reasoned process, not an emotional burden.
 
 ---
 *The mind is the environment. The environment is the mind.*
