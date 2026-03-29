@@ -1,7 +1,8 @@
 import os
 import glob
+import re
 
-def convert_md_to_html(md_path, html_path, prev_link, next_link, atlas_index="index.html", main_index="../index.html"):
+def convert_md_to_html(md_path, html_path, title_cache, main_index="../../index.html", atlas_index="../index.html"):
     with open(md_path, 'r', encoding='utf-8') as f:
         lines = f.readlines()
 
@@ -26,12 +27,16 @@ def convert_md_to_html(md_path, html_path, prev_link, next_link, atlas_index="in
         else:
             content_html += f"<p>{line}</p>\n"
 
+    # Default if no title found
+    if not title:
+        title = os.path.basename(md_path).replace('.md', '').replace('_', ' ').title()
+
     html_template = f"""<!DOCTYPE html>
 <html lang="en">
 <head>
     <meta charset="UTF-8">
-    <title>{title if title else "Candidate Location"} - Project Aadhiyandham</title>
-    <link rel="stylesheet" href="../style.css">
+    <title>{title} - Project Aadhiyandham</title>
+    <link rel="stylesheet" href="../../style.css">
 </head>
 <body>
     <header>
@@ -43,9 +48,7 @@ def convert_md_to_html(md_path, html_path, prev_link, next_link, atlas_index="in
     </section>
 
     <div class="nav">
-        <span>{f'Previous: <a href="{prev_link}">Previous Location</a>' if prev_link else ""}</span>
         <span><a href="{atlas_index}">Back to Atlas Index</a></span>
-        <span>{f'Next: <a href="{next_link}">Next Location</a>' if next_link else ""}</span>
     </div>
 
     <footer>
@@ -56,26 +59,78 @@ def convert_md_to_html(md_path, html_path, prev_link, next_link, atlas_index="in
 
     with open(html_path, 'w', encoding='utf-8') as f:
         f.write(html_template)
+        
+    return title
+
+def build_atlas_index(grouped_locations):
+    index_path = "html/candidate_locations/index.html"
+    
+    html_content = """<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Global Atlas of Resilient Locations - Project Aadhiyandham</title>
+    <link rel="stylesheet" href="../style.css">
+</head>
+<body>
+    <header>
+        <p><a href="../index.html">Main Index</a></p>
+        <h1>Global Atlas of Resilient Locations</h1>
+        <p>A categorized evaluation of 70 geographical sites selected for long-term climatic, geological, and hydrological stability.</p>
+    </header>
+
+    <section>
+"""
+
+    for continent in sorted(grouped_locations.keys()):
+        html_content += f"        <h2>{continent.replace('_', ' ')}</h2>\n        <ul>\n"
+        for loc in sorted(grouped_locations[continent], key=lambda x: x['title']):
+            html_content += f"            <li><a href='{continent}/{loc['filename']}'>{loc['title']}</a></li>\n"
+        html_content += "        </ul>\n\n"
+
+    html_content += """    </section>
+
+    <footer>
+        <p>Licensed under GNU GPLv3 | Project Aadhiyandham</p>
+    </footer>
+</body>
+</html>"""
+
+    with open(index_path, 'w', encoding='utf-8') as f:
+        f.write(html_content)
 
 def main():
     source_dir = "candidate_locations"
     dest_dir = "html/candidate_locations"
     
-    if not os.path.exists(dest_dir):
-        os.makedirs(dest_dir)
-
-    md_files = sorted([f for f in os.listdir(source_dir) if f.endswith(".md")])
+    continents = ["Africa", "Asia", "Europe", "North_America", "Oceania", "South_America"]
     
-    for i, filename in enumerate(md_files):
-        md_path = os.path.join(source_dir, filename)
-        html_filename = filename.replace(".md", ".html")
-        html_path = os.path.join(dest_dir, html_filename)
+    grouped_locations = {c: [] for c in continents}
+    
+    for continent in continents:
+        cont_source = os.path.join(source_dir, continent)
+        cont_dest = os.path.join(dest_dir, continent)
         
-        prev_link = md_files[i-1].replace(".md", ".html") if i > 0 else None
-        next_link = md_files[i+1].replace(".md", ".html") if i < len(md_files) - 1 else None
+        if not os.path.exists(cont_dest):
+            os.makedirs(cont_dest)
+            
+        md_files = glob.glob(os.path.join(cont_source, "*.md"))
         
-        print(f"Converting {filename}...")
-        convert_md_to_html(md_path, html_path, prev_link, next_link)
+        for md_path in md_files:
+            filename = os.path.basename(md_path)
+            html_filename = filename.replace(".md", ".html")
+            html_path = os.path.join(cont_dest, html_filename)
+            
+            title = convert_md_to_html(md_path, html_path, {})
+            grouped_locations[continent].append({
+                "filename": html_filename,
+                "title": title
+            })
+            print(f"Converted {continent}/{filename}")
+
+    # Build the master index
+    build_atlas_index(grouped_locations)
+    print("Generated candidate_locations/index.html")
 
 if __name__ == "__main__":
     main()
