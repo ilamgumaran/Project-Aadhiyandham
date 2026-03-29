@@ -7,7 +7,7 @@ This document organizes all files in the repository by the **6 Expected Outcomes
 | File | Title | Classification | Summary |
 |---|---|---|---|
 | `Glossary.md` | Glossary of Terms: Project Aadhiyandham | **Atomic Topic** | This page provides detailed definitions of the core concepts, technologies, and biological terms used throughout the Aadhiyandham manual. |
-| `content_plan.md` | Content & Atomic File Plan (Aligned by Expected Outcomes) | **Atomic Topic** | This document organizes all files in the repository by the **6 Expected Outcomes** of Project Aadhiyandham. Missing gaps critical to these outcomes... |
+| `content_plan.md` | Content & Atomic File Plan (Aligned by Expected Outcomes) | **Atomic Topic** | This document organizes all files in the repository by the **6 Expected Outcomes** of Project Aadhiyandham. |
 | `master_report.md` | Project Aadhiyandham (ஆதியந்தம்): Master Research Report | **Atomic Topic** | Project Aadhiyandham is a multi-phase blueprint for re-establishing a functional, sustainable, and harmonious civilization. By synthesizing ancient... |
 | `readme.md` | Project Aadhiyandham (ஆதியந்தம்): A User Manual for Civilization | **Atomic Topic** | **Project Aadhiyandham (ஆதியந்தம்)** is born from the understanding that our current global infrastructure is fragile, highly centralized, and out ... |
 | `settlers_summary.md` | The Settler's Summary: A Handbook for Civilization | **Atomic Topic** | This handbook provides the essential, high-priority actions for re-establishing life and harmony within the Aadhiyandham framework. |
@@ -110,6 +110,7 @@ This document organizes all files in the repository by the **6 Expected Outcomes
 
 | File | Title | Classification | Summary |
 |---|---|---|---|
+| `MISSING_PLACEHOLDER` | [READY FOR REVIEW] Thermal Mass Cooking & Rocket Ovens | **Missing Action File** | Minimizing deforestation by cooking and boiling water with 80% less wood. |
 | `01_Rationale_and_Importance.md` | Rationale and Importance: The First 100 Days | **Module Theory & Structure** | **Alignment:** Outcome 2: Absolute Biological Sovereignty |
 | `02_Bio_Security_and_Water.md` | Bio-Security: Water Purification (Slow Sand Filter) | **Atomic Topic** | **Alignment:** Outcome 2: Absolute Biological Sovereignty |
 | `03_Shelter_and_Thermal_Grounding.md` | Shelter and Thermal Grounding: Construction Guide | **Action Oriented** | **Alignment:** Outcome 2: Absolute Biological Sovereignty |
@@ -148,6 +149,8 @@ This document organizes all files in the repository by the **6 Expected Outcomes
 
 | File | Title | Classification | Summary |
 |---|---|---|---|
+| `MISSING_PLACEHOLDER` | [READY FOR REVIEW] Ceramic Synthesis & Pottery | **Missing Action File** | Pit-firing clay to create water-tight storage, fermentation crocks, and boiling vessels without scavenged metal. |
+| `MISSING_PLACEHOLDER` | [READY FOR REVIEW] Advanced Cordage and Rope Making | **Missing Action File** | Synthesizing high-tensile rope from plant fibers, essential for timber framing and traction splints. |
 | `01_Rationale_and_Importance.md` | Rationale and Importance: Mechanics and Infrastructure | **Module Theory & Structure** | **Alignment:** Outcome 5: Decadal and Generational Resilience |
 | `02_Mechanical_Power.md` | Mechanical Power and the Line-Shaft: Engineering Guide | **Action Oriented** | **Alignment:** Outcome 5: Decadal and Generational Resilience |
 | `03_Low_Tech_Mobility.md` | Low-Tech Mobility: Cargo Trike Construction Guide | **Action Oriented** | **Alignment:** Outcome 5: Decadal and Generational Resilience |

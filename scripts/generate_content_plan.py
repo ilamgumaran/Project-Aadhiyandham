@@ -51,6 +51,12 @@ def generate_plan():
         "Foundational Documents": []
     }
 
+    # New missing placeholders discovered during deep review
+    outcomes["Outcome 2: Absolute Biological Sovereignty"].append({"file": "MISSING_PLACEHOLDER", "title": "[READY FOR REVIEW] Thermal Mass Cooking & Rocket Ovens", "summary": "Minimizing deforestation by cooking and boiling water with 80% less wood.", "class": "Missing Action File"})
+    
+    outcomes["Outcome 5: Decadal and Generational Resilience"].append({"file": "MISSING_PLACEHOLDER", "title": "[READY FOR REVIEW] Ceramic Synthesis & Pottery", "summary": "Pit-firing clay to create water-tight storage, fermentation crocks, and boiling vessels without scavenged metal.", "class": "Missing Action File"})
+    outcomes["Outcome 5: Decadal and Generational Resilience"].append({"file": "MISSING_PLACEHOLDER", "title": "[READY FOR REVIEW] Advanced Cordage and Rope Making", "summary": "Synthesizing high-tensile rope from plant fibers, essential for timber framing and traction splints.", "class": "Missing Action File"})
+
     for filepath in md_files:
         if 'html/' in filepath or '.git/' in filepath:
             continue
