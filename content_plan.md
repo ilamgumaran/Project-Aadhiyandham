@@ -123,6 +123,7 @@ This document organizes all files in the repository by the **6 Expected Outcomes
 | `01_Oral_Hygiene_and_Dentistry.md` | Zero-Tech Dentistry & Oral Hygiene: Preventing the Abscess | **Atomic Topic** | **Alignment:** Outcome 2: Absolute Biological Sovereignty |
 | `01_Holistic_Healing.md` | Ancient Medicine and Botany: Ayurvedic and Holistic Healing | **Atomic Topic** | **Alignment:** Outcome 2: Absolute Biological Sovereignty |
 | `01_Generational_Midwifery_and_Care.md` | Generational Midwifery and Neonatal Care: The First Year | **Atomic Topic** | **Alignment:** Outcome 2: Absolute Biological Sovereignty |
+| `01_Natural_Burial.md` | The Ecology of Death: Zero-Impact Mortuary Practices | **Atomic Topic** | **Alignment:** Outcome 2: Absolute Biological Sovereignty |
 | `01_Rationale_and_Importance.md` | Rationale and Importance: Climate, Soil and Seed | **Module Theory & Structure** | **Alignment:** Outcome 2: Absolute Biological Sovereignty |
 | `02_Soil_Sovereignty.md` | Soil Sovereignty: The Terra Preta Method | **Atomic Topic** | **Alignment:** Outcome 2: Absolute Biological Sovereignty |
 | `03_The_Seed_Bank.md` | The Seed Bank: Planting and Saving Guide | **Action Oriented** | **Alignment:** Outcome 2: Absolute Biological Sovereignty |
@@ -148,6 +149,7 @@ This document organizes all files in the repository by the **6 Expected Outcomes
 | `02_Linguistic_Precision.md` | Linguistic Precision: E-Prime Practice Guide | **Action Oriented** | **Alignment:** Outcome 4: Psychological Centeredness |
 | `03_Restorative_Architecture.md` | Restorative Architecture: Design Implementation Guide | **Action Oriented** | **Alignment:** Outcome 4: Psychological Centeredness |
 | `01_Advanced_Conflict_Resolution.md` | Advanced Conflict Resolution: Re-centering the Community | **Atomic Topic** | **Alignment:** Outcome 4: Psychological Centeredness |
+| `01_Compassionate_Care.md` | Severe Mental Illness: Compassionate Zero-Tech Care | **Atomic Topic** | **Alignment:** Outcome 4: Psychological Centeredness |
 
 ## Outcome 5: Decadal and Generational Resilience
 
@@ -164,6 +166,7 @@ This document organizes all files in the repository by the **6 Expected Outcomes
 | `01_Advanced_Cordage.md` | Advanced Cordage and Rope Making: The Ligaments of Infrastructure | **Atomic Topic** | **Alignment:** Outcome 5: Decadal and Generational Resilience |
 | `01_Rationale_and_Importance.md` | Rationale and Importance: Historical Wisdom | **Module Theory & Structure** | **Alignment:** Outcome 5: Decadal and Generational Resilience |
 | `02_Recycling_Cliff.md` | The Recycling Cliff: Strategic Resource Management | **Atomic Topic** | **Alignment:** Outcome 5: Decadal and Generational Resilience |
+| `01_Demographic_Harmony.md` | Carrying Capacity and Contraception: Demographic Harmony | **Atomic Topic** | **Alignment:** Outcome 5: Decadal and Generational Resilience |
 | `03_Consensus_Models.md` | Models of Consensus Governance: Facilitation Guide | **Action Oriented** | **Alignment:** Outcome 5: Decadal and Generational Resilience |
 | `01_Rationale_and_Importance.md` | Rationale and Importance: Universal Education | **Module Theory & Structure** | **Alignment:** Outcome 5: Decadal and Generational Resilience |
 | `02_English_Language_Lessons.md` | English Language Lessons: The Tool of Record | **Atomic Topic** | **Alignment:** Outcome 5: Decadal and Generational Resilience |
@@ -172,6 +175,7 @@ This document organizes all files in the repository by the **6 Expected Outcomes
 | `05_Mathematics_and_Geometry.md` | Mathematics and Geometry: The Logic of Space | **Atomic Topic** | **Alignment:** Outcome 5: Decadal and Generational Resilience |
 | `06_Foundational_Science.md` | Foundational Science: The Art of Inquiry | **Atomic Topic** | **Alignment:** Outcome 5: Decadal and Generational Resilience |
 | `07_Philosophy_and_Thought_Experiments.md` | Philosophy and Thought Experiments: The Lab of the Mind | **Atomic Topic** | **Alignment:** Outcome 5: Decadal and Generational Resilience |
+| `01_The_Scientific_Method.md` | Epistemology: The Scientific Method and Preventing Dogma | **Atomic Topic** | **Alignment:** Outcome 5: Decadal and Generational Resilience |
 | `01_Rationale_and_Importance.md` | Rationale and Importance: Archive of Natural Phenomena | **Module Theory & Structure** | **Alignment:** Outcome 5: Decadal and Generational Resilience |
 | `02_Laws_of_Energy.md` | The Laws of Energy: Efficiency Audit Guide | **Action Oriented** | Energy is the primary currency of existence. Every time we transform energy (e.g., from water flow to mechanical rotation to heat), we "pay a tax" ... |
 | `03_Limiting_Factors.md` | Liebig's Law: System Diagnostic Guide | **Action Oriented** | **Alignment:** Outcome 5: Decadal and Generational Resilience |
@@ -185,4 +189,5 @@ This document organizes all files in the repository by the **6 Expected Outcomes
 | File | Title | Classification | Summary |
 |---|---|---|---|
 | `01_Cultural_Technology_and_Rituals.md` | Cultural Technology: Rituals, Calendars, and Meaning | **Atomic Topic** | **Alignment:** Outcome 6: A Flourishing Civilization |
+| `02_The_Architecture_of_Play.md` | The Architecture of Play: Unstructured Joy | **Atomic Topic** | **Alignment:** Outcome 6: A Flourishing Civilization |
 
