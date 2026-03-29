@@ -127,6 +127,7 @@ This document organizes all files in the repository by the **6 Expected Outcomes
 | `04_Livestock_and_Mechanical_Animals.md` | Livestock and Mechanical Animals: Management Guide | **Action Oriented** | **Alignment:** Outcome 2: Absolute Biological Sovereignty |
 | `01_Long_Term_Preservation.md` | Long-Term Food Preservation: Surviving the Winter | **Atomic Topic** | **Alignment:** Outcome 2: Absolute Biological Sovereignty |
 | `01_Humanure_Composting.md` | Generational Sanitation & Humanure: Closing the Loop | **Atomic Topic** | **Alignment:** Outcome 2: Absolute Biological Sovereignty |
+| `02_Humanure_Integration.md` | Humanure Integration: Closing the Ecological Loop | **Atomic Topic** | **Alignment:** Outcome 2: Absolute Biological Sovereignty |
 | `01_Thermal_Mass_and_Rocket_Ovens.md` | Thermal Mass Cooking and Rocket Ovens: Zero-Tech Efficiency | **Atomic Topic** | **Alignment:** Outcome 2: Absolute Biological Sovereignty |
 
 ## Outcome 3: Perimeter Sovereignty and Passive Defense
