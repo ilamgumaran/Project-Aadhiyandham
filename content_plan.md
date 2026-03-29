@@ -28,7 +28,7 @@ This document organizes all files in the repository by the **6 Expected Outcomes
 | `04_Non_Motorized_Transit_Routes.md` | Non-Motorized Transit: Moving without Fuel | **Atomic Topic** | **Alignment:** Outcome 1: Locating and Connecting Optimal Refugia |
 | `05_Essential_Packing_List.md` | Essential Packing List: The Toolkit of the Traveler | **Atomic Topic** | **Alignment:** Outcome 1: Locating and Connecting Optimal Refugia |
 | `01_Decentralized_Networking_and_Trade.md` | Decentralized Networking & Trade Routes: Establishing Waystations | **Atomic Topic** | **Alignment:** Outcome 1: Locating and Connecting Optimal Refugia |
-| `01_Micro_Climate_Forecasting.md` | Advanced Micro-Climate Forecasting: Reading the Sky and Earth | **Atomic Topic** | **Alignment:** Outcome 1: Locating and Connecting Optimal Refugia |
+| `01_Micro_Climate_Forecasting.md` | Advanced Atmospheric Observation: The Science of the Sky | **Atomic Topic** | **Alignment:** Outcome 1: Locating and Connecting Optimal Refugia |
 | `01_Rationale_and_Importance.md` | Rationale and Importance: Geography and Habitat | **Module Theory & Structure** | **Alignment:** Outcome 1: Locating and Connecting Optimal Refugia |
 | `02_Topographical_Resilience.md` | Topographical Resilience: Land Selection Guide | **Action Oriented** | **Alignment:** Outcome 1: Locating and Connecting Optimal Refugia |
 | `03_Solar_and_Thermal_Balance.md` | Solar and Thermal Balance: Site Management Guide | **Action Oriented** | **Alignment:** Outcome 1: Locating and Connecting Optimal Refugia |
