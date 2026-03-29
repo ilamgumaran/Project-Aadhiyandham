@@ -1,0 +1,46 @@
+name: Aadhiyandham CI Pipeline
+
+on:
+  push:
+    branches: [ main ]
+  pull_request:
+    branches: [ main ]
+
+jobs:
+  build-and-verify:
+    runs-on: ubuntu-latest
+
+    steps:
+    - uses: actions/checkout@v3
+
+    - name: Set up Python
+      uses: actions/setup-python@v4
+      with:
+        python-version: '3.10'
+
+    - name: Run Quality Control Scripts
+      run: |
+        # 1. Regenerate Content Plan to ensure it matches MD files
+        python3 scripts/generate_content_plan.py
+        
+        # 2. Inject Navigation Bar globally
+        python3 scripts/inject_nav.py
+        
+        # 3. Clean and inject Glossary Definitions globally
+        python3 scripts/clean_vocabulary.py
+        python3 scripts/add_glossaries.py
+        
+        # 4. Enforce strict hierarchical numbering
+        python3 scripts/renumber_headers.py
+
+    - name: Check for Uncommitted Changes
+      run: |
+        # If the scripts above generated new HTML or MD changes that were not pushed, fail the build.
+        # This ensures the author always runs the build pipeline locally before pushing.
+        if [[ `git status --porcelain` ]]; then
+          echo "Error: The build pipeline generated changes that are not committed."
+          echo "Please run the pipeline scripts locally and commit the resulting changes."
+          git status
+          git diff
+          exit 1
+        fi
