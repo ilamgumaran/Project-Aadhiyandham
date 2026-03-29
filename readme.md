@@ -79,5 +79,5 @@ If a community follows the Aadhiyandham sequential path (from The Journey to The
 *   **[master_report.md](master_report.md):** The final synthesis and global candidate ranking.
 *   **[settlers_summary.md](settlers_summary.md):** The condensed, action-oriented handbook.
 *   **[Glossary.md](Glossary.md):** Detailed definitions of project terms.
-*   **[candidate_locations/](candidate_locations/):** Detailed evaluations of 70 resilient global sites.
-*   **[html/](html/):** A beautiful, web-ready version of the archive.
+*   **[candidate_locations/](candidate_locations):** Detailed evaluations of 70 resilient global sites.
+*   **[html/](html):** A beautiful, web-ready version of the archive.

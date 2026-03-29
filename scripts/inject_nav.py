@@ -7,37 +7,49 @@ NAV_HTML = """
         <ul>
             <li><a href="{root_path}index.html">🏠 Home</a></li>
             <li class="dropdown">
-                <a href="javascript:void(0)" class="dropbtn">Phases 1-3 ▾</a>
+                <a href="javascript:void(0)" class="dropbtn">Outcome 1 ▾</a>
                 <div class="dropdown-content">
-                    <a href="{root_path}01_The_Journey/01_Rationale_and_Importance.html">01. The Journey</a>
-                    <a href="{root_path}02_The_Site/01_Rationale_and_Importance.html">02. The Site</a>
-                    <a href="{root_path}03_The_Arrival/01_Rationale_and_Importance.html">03. The Arrival</a>
+                    <a href="{root_path}Outcome_1_Locating_Refugia/01_The_Journey/01_Rationale_and_Importance.html">01. The Journey</a>
+                    <a href="{root_path}Outcome_1_Locating_Refugia/02_The_Site/01_Rationale_and_Importance.html">02. The Site</a>
+                    <a href="{root_path}candidate_locations/index.html">🌍 The Atlas</a>
                 </div>
             </li>
             <li class="dropdown">
-                <a href="javascript:void(0)" class="dropbtn">Phases 4-6 ▾</a>
+                <a href="javascript:void(0)" class="dropbtn">Outcome 2 ▾</a>
                 <div class="dropdown-content">
-                    <a href="{root_path}04_The_Body/01_Rationale_and_Importance.html">04. The Body</a>
-                    <a href="{root_path}05_The_Mind/01_Rationale_and_Importance.html">05. The Mind</a>
-                    <a href="{root_path}06_The_Ecosystem/01_Rationale_and_Importance.html">06. The Ecosystem</a>
+                    <a href="{root_path}Outcome_2_Biological_Sovereignty/03_The_Arrival/01_Rationale_and_Importance.html">03. The Arrival</a>
+                    <a href="{root_path}Outcome_2_Biological_Sovereignty/04_The_Body/01_Rationale_and_Importance.html">04. The Body</a>
+                    <a href="{root_path}Outcome_2_Biological_Sovereignty/06_The_Ecosystem/01_Rationale_and_Importance.html">06. The Ecosystem</a>
                 </div>
             </li>
             <li class="dropdown">
-                <a href="javascript:void(0)" class="dropbtn">Phases 7-9 ▾</a>
+                <a href="javascript:void(0)" class="dropbtn">Outcome 3 ▾</a>
                 <div class="dropdown-content">
-                    <a href="{root_path}07_The_Mechanics/01_Rationale_and_Importance.html">07. The Mechanics</a>
-                    <a href="{root_path}08_The_Society/01_Rationale_and_Importance.html">08. The Society</a>
-                    <a href="{root_path}09_The_Next_Generation/01_Rationale_and_Importance.html">09. The Next Generation</a>
+                    <a href="{root_path}Outcome_3_Perimeter_Defense/01_Passive_Defense/01_Passive_Perimeter_Defense.html">01. Perimeter Defense</a>
                 </div>
             </li>
             <li class="dropdown">
-                <a href="javascript:void(0)" class="dropbtn">Phases 10-11 ▾</a>
+                <a href="javascript:void(0)" class="dropbtn">Outcome 4 ▾</a>
                 <div class="dropdown-content">
-                    <a href="{root_path}10_The_Archive/01_Rationale_and_Importance.html">10. The Archive</a>
-                    <a href="{root_path}11_The_Horizon/01_Rationale_and_Importance.html">11. The Horizon</a>
+                    <a href="{root_path}Outcome_4_Psychological_Centeredness/05_The_Mind/01_Rationale_and_Importance.html">05. The Mind</a>
                 </div>
             </li>
-            <li><a href="{root_path}candidate_locations/index.html">🌍 Atlas</a></li>
+            <li class="dropdown">
+                <a href="javascript:void(0)" class="dropbtn">Outcome 5 ▾</a>
+                <div class="dropdown-content">
+                    <a href="{root_path}Outcome_5_Decadal_Resilience/07_The_Mechanics/01_Rationale_and_Importance.html">07. The Mechanics</a>
+                    <a href="{root_path}Outcome_5_Decadal_Resilience/08_The_Society/01_Rationale_and_Importance.html">08. The Society</a>
+                    <a href="{root_path}Outcome_5_Decadal_Resilience/09_The_Next_Generation/01_Rationale_and_Importance.html">09. Education</a>
+                    <a href="{root_path}Outcome_5_Decadal_Resilience/10_The_Archive/01_Rationale_and_Importance.html">10. The Archive</a>
+                    <a href="{root_path}Outcome_5_Decadal_Resilience/11_The_Horizon/01_Rationale_and_Importance.html">11. The Horizon</a>
+                </div>
+            </li>
+            <li class="dropdown">
+                <a href="javascript:void(0)" class="dropbtn">Outcome 6 ▾</a>
+                <div class="dropdown-content">
+                    <a href="{root_path}Outcome_6_Flourishing_Civilization/01_Cultural_Technology/01_Cultural_Technology_and_Rituals.html">01. Cultural Tech</a>
+                </div>
+            </li>
             <li><a href="{root_path}glossary.html">📖 Glossary</a></li>
         </ul>
     </nav>
@@ -132,15 +144,14 @@ def update_html():
                 with open(filepath, 'r', encoding='utf-8') as f:
                     content = f.read()
                 
-                if '<nav class="global-nav">' in content:
-                    continue # already injected
-                
-                # Inject right after <body>
-                content = content.replace('<body>', '<body>\n' + nav_block)
+                # Overwrite old nav bar if it exists
+                if '<!-- Global Navigation Bar -->' in content:
+                    content = re.sub(r'<!-- Global Navigation Bar -->.*?</nav>', nav_block.strip(), content, flags=re.DOTALL)
+                else:
+                    content = content.replace('<body>', '<body>\n' + nav_block)
                 
                 with open(filepath, 'w', encoding='utf-8') as f:
                     f.write(content)
-                #print(f"Added nav to {filepath}")
 
 if __name__ == '__main__':
     update_css()
