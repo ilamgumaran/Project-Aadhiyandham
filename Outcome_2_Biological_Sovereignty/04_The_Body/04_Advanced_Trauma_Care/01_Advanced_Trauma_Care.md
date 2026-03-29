@@ -1,9 +1,9 @@
-# Advanced Trauma Care and Midwifery: Zero-Tech Medical Protocols
+# Advanced Trauma Care: Zero-Tech Medical Protocols
 
 **Alignment:** Outcome 2: Absolute Biological Sovereignty
 
 ## 1. Why This Is Important (The Rationale)
-Outcome 2 requires Absolute Biological Sovereignty. While the "Temperate Antibiotic Kit" addresses baseline infection and illness, a settlement will inevitably face acute physical trauma. Without a functional industrial hospital, the inability to set a broken bone, stop arterial bleeding, or safely deliver a child turns an accident into a generational tragedy. 
+Outcome 2 requires Absolute Biological Sovereignty. While the "Temperate Antibiotic Kit" addresses baseline infection and illness, a settlement will inevitably face acute physical trauma. Without a functional industrial hospital, the inability to set a broken bone or stop arterial bleeding turns an accident into a generational tragedy. 
 
 ---
 
@@ -33,28 +33,15 @@ A fractured femur can sever the femoral artery if the bone shifts. The massive t
 
 ---
 
-## 3. Midwifery and Childbirth
-The continuation of the settlement depends entirely on the safe delivery of the next generation without surgical intervention.
-
-**Step-by-Step Execution:**
-1. **The Gravity Position:** The mother should not lie flat on her back. Midwifery in a refugia relies on gravity. Utilize a squatting, kneeling, or supported-standing position. This opens the pelvic outlet by an additional 20-30%.
-2. **Catching, Not Pulling:** As the infant crowns, the midwife should support the perineum with a warm, damp cloth to prevent tearing, and simply support the baby's head as it emerges. *Never pull the infant.*
-3. **The Golden Hour:** Immediately after birth, before cleaning, place the infant skin-to-skin on the mother's bare chest and cover them both. This regulates the infant's heart rate, stabilizes their body temperature, and introduces them to the mother's biome.
-4. **Delayed Cord Clamping:** Do not cut the umbilical cord immediately. Wait until it turns white and stops pulsing (usually 3-5 minutes). This allows up to 30% of the infant's total blood volume to transfer from the placenta, preventing neonatal anemia.
-5. **Sterile Cutting:** Tie off the cord tightly in two places using boiled string, and cut *between* the ties using a flame-sterilized blade. 
-
----
-
-## 4. 🔬 Scientific Validation & Research Context
+## 3. 🔬 Scientific Validation & Research Context
 *   **The Windlass Tourniquet:** Research from the Committee on Tactical Combat Casualty Care (CoTCCC) validates that improvised tourniquets without a mechanical windlass fail to achieve complete arterial occlusion in over 90% of cases, leading to a false sense of security and death by slow hemorrhage.
-*   **Delayed Cord Clamping:** The World Health Organization (WHO) explicitly recommends delayed cord clamping (1-3 minutes minimum) for all births to improve maternal and infant health and nutrition outcomes.
 
 ---
-## 5. 5.Practical Implementation Guide for Beginners
+## 4. Practical Implementation Guide for Beginners
 
-### 5.1. Step-by-Step Action Plan
+### 4.1. Step-by-Step Action Plan
 *   **Phase 1: The Trauma Kit:** Assemble a dedicated zero-tech trauma bag today. It must contain: 2x commercially made windlass tourniquets (do not improvise these unless forced), 10 yards of compressed cotton gauze, and heavy-duty trauma shears.
 *   **Phase 2: The Drill:** Conduct a mock drill. Have a community member simulate a severe leg wound. Time how long it takes for a responder to apply the tourniquet and achieve mechanical tightness. If it takes longer than 60 seconds, the drill is a failure.
 
-### 5.2. Troubleshooting & Failure Modes
+### 4.2. Troubleshooting & Failure Modes
 *   **Infection Post-Trauma:** If a wound is packed to stop bleeding, the gauze *must* be removed and the wound irrigated with sterilized (boiled) water within 24 hours. Leaving bloody gauze in a deep cavity guarantees systemic sepsis.
