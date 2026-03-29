@@ -1,102 +1,285 @@
+/* Academic Publication CSS Theme for Project Aadhiyandham */
+
 :root {
-    --bg: #fdfaf6;
-    --text: #2c2c2c;
-    --accent: #6b8e23; /* Olive Green */
-    --link: #4682b4; /* Steel Blue */
-    --border: #e0ddd5;
+    /* Academic color palette: High contrast, easy on the eyes for long reading */
+    --bg-color: #fbfbf9; /* Warm off-white, like old paper */
+    --text-primary: #1a1a1a;
+    --text-secondary: #4a4a4a;
+    --accent-color: #8a2be2; /* Deep subtle purple/blue for links, or dark red */
+    --accent-color: #600000; /* Academic Crimson */
+    --link-color: #003366; /* Oxford Blue */
+    --link-hover: #0055a4;
+    --border-light: #dcdcdc;
+    --border-dark: #999999;
+    --box-bg: #f4f4f4;
 }
+
 body {
-    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
-    line-height: 1.6;
-    color: var(--text);
-    background-color: var(--bg);
-    max-width: 800px;
-    margin: 40px auto;
-    padding: 20px;
+    font-family: 'Georgia', 'Times New Roman', Times, serif;
+    font-size: 18px;
+    line-height: 1.7;
+    color: var(--text-primary);
+    background-color: var(--bg-color);
+    max-width: 850px;
+    margin: 0 auto;
+    padding: 40px 30px;
+    text-rendering: optimizeLegibility;
+    -webkit-font-smoothing: antialiased;
 }
-header, footer {
-    border-bottom: 1px solid var(--border);
-    margin-bottom: 20px;
-    padding-bottom: 10px;
+
+/* Headings */
+h1, h2, h3, h4, h5 {
+    font-family: 'Georgia', 'Times New Roman', Times, serif;
+    color: #000;
+    margin-top: 2em;
+    margin-bottom: 0.5em;
+    line-height: 1.3;
+    font-weight: normal;
 }
-footer {
-    border-top: 1px solid var(--border);
-    border-bottom: none;
-    margin-top: 40px;
-    padding-top: 20px;
-    font-size: 0.9em;
+
+h1 {
+    font-size: 2.2em;
     text-align: center;
+    margin-top: 1em;
+    margin-bottom: 0.2em;
+    border-bottom: 2px solid var(--border-dark);
+    padding-bottom: 15px;
 }
-h1, h2, h3 { color: var(--accent); }
-a { color: var(--link); text-decoration: none; }
-a:hover { text-decoration: underline; }
-.nav { display: flex; justify-content: space-between; margin-top: 20px; font-weight: bold; }
+
+header p {
+    text-align: center;
+    font-style: italic;
+    color: var(--text-secondary);
+    margin-top: 0;
+    margin-bottom: 30px;
+}
+
+h2 {
+    font-size: 1.6em;
+    border-bottom: 1px solid var(--border-light);
+    padding-bottom: 5px;
+}
+
+h3 {
+    font-size: 1.3em;
+    font-weight: bold;
+    color: var(--text-secondary);
+}
+
+/* Typography & Links */
+p {
+    margin-bottom: 1.5em;
+}
+
+a {
+    color: var(--link-color);
+    text-decoration: none;
+    border-bottom: 1px dotted var(--link-color);
+    transition: all 0.2s ease;
+}
+
+a:hover {
+    color: var(--link-hover);
+    border-bottom: 1px solid var(--link-hover);
+}
+
+hr {
+    border: 0;
+    height: 1px;
+    background: var(--border-light);
+    margin: 3em 0;
+}
+
+/* Lists */
+ul, ol {
+    margin-bottom: 1.5em;
+    padding-left: 2em;
+}
+
+li {
+    margin-bottom: 0.5em;
+}
+
+/* Specific Content Blocks */
 .diagram { 
     background: #fff; 
-    border: 1px solid var(--border); 
-    padding: 20px; 
-    margin: 20px 0; 
+    border: 1px solid var(--border-dark); 
+    padding: 25px; 
+    margin: 2.5em 0; 
     text-align: center; 
+    box-shadow: 2px 2px 8px rgba(0,0,0,0.05);
 }
-.how-to {
-    background: #f0f4f0;
-    border-left: 5px solid var(--accent);
-    padding: 15px;
-    margin: 20px 0;
-}
-img { max-width: 100%; height: auto; border-radius: 4px; }
 
+.diagram h3 {
+    margin-top: 0;
+    font-size: 1.1em;
+    text-transform: uppercase;
+    letter-spacing: 1px;
+    color: var(--text-secondary);
+}
+
+/* Academic "Methodology / Protocol" styling */
+.how-to {
+    background-color: #ffffff;
+    border-left: 4px solid var(--border-dark);
+    border-right: 1px solid var(--border-light);
+    border-top: 1px solid var(--border-light);
+    border-bottom: 1px solid var(--border-light);
+    padding: 20px 25px;
+    margin: 2em 0;
+}
+
+.how-to h3 {
+    margin-top: 0;
+}
+
+/* Scientific Validation Block - Styled like an abstract or citation block */
+.research-validation {
+    margin: 2.5em 0 !important;
+    padding: 20px 25px !important;
+    background-color: #f8f9fa !important; /* Subtle cool grey */
+    border-left: 4px solid var(--link-color) !important;
+    border-radius: 0 !important;
+    font-size: 0.95em;
+}
+
+.research-validation h3 {
+    color: var(--link-color) !important;
+    font-family: 'Helvetica Neue', Helvetica, Arial, sans-serif;
+    text-transform: uppercase;
+    font-size: 0.9em;
+    letter-spacing: 1px;
+    margin-top: 0 !important;
+}
+
+/* Practical Guide Block */
+.practical-guide {
+    margin-top: 2.5em !important;
+    padding: 20px 25px !important;
+    background-color: #fff !important;
+    border: 1px solid var(--border-dark) !important;
+    border-left: 4px solid var(--accent-color) !important;
+}
+
+.practical-guide h2 {
+    border-bottom: none;
+    margin-top: 0;
+    font-size: 1.4em;
+}
+
+.instruction-step {
+    margin-bottom: 15px !important;
+    padding-left: 15px !important;
+    border-left: 2px solid var(--border-dark) !important;
+}
+
+img { max-width: 100%; height: auto; display: block; margin: 0 auto; }
+
+/* Breadcrumbs (Academic Citation style) */
 .breadcrumbs {
     font-size: 0.85em;
-    color: #777;
-    margin-bottom: 20px;
-    padding: 10px;
-    background: #f0f0f0;
-    border-radius: 4px;
+    font-family: 'Helvetica Neue', Helvetica, Arial, sans-serif;
+    color: #666;
+    margin-bottom: 30px;
+    padding: 10px 0;
+    border-bottom: 1px solid var(--border-light);
+    background: transparent;
 }
 .breadcrumbs a {
-    color: var(--link);
+    color: var(--text-secondary);
+    border-bottom: none;
+}
+.breadcrumbs a:hover {
+    text-decoration: underline;
 }
 .breadcrumbs span {
-    color: var(--text);
-    font-weight: bold;
+    color: var(--text-primary);
+}
+
+/* Alignment Tag */
+p.alignment {
+    font-family: 'Helvetica Neue', Helvetica, Arial, sans-serif;
+    font-size: 0.8em;
+    text-transform: uppercase;
+    letter-spacing: 1px;
+    background-color: transparent !important;
+    color: var(--text-secondary) !important;
+    border: 1px solid var(--border-light);
+    padding: 4px 8px !important;
+    border-radius: 2px !important;
+    display: inline-block;
+    margin: 0 auto 30px auto !important;
+    text-align: center;
+    width: 100%;
+    box-sizing: border-box;
+}
+
+/* Vocabulary / Glossary section */
+.vocabulary {
+    margin-top: 4em !important;
+    padding: 2em 0 !important;
+    background-color: transparent !important;
+    border-top: 2px solid var(--border-dark) !important;
+}
+
+.vocabulary h2 {
+    font-variant: small-caps;
+    margin-top: 0;
 }
 
 .vocabulary dl { margin-top: 20px; }
-.vocabulary dt { font-weight: bold; color: var(--accent); margin-top: 10px; }
-.vocabulary dd { margin-left: 20px; font-size: 0.95em; color: #555; }
+.vocabulary dt { 
+    font-weight: bold; 
+    color: var(--text-primary) !important; 
+    margin-top: 15px !important; 
+    font-family: 'Helvetica Neue', Helvetica, Arial, sans-serif;
+}
+.vocabulary dd { 
+    margin-left: 0 !important; 
+    font-size: 0.95em; 
+    color: var(--text-secondary) !important; 
+    padding-left: 20px;
+    border-left: 1px solid var(--border-light);
+}
 
-/* Global Sticky Navigation Bar */
+/* Global Sticky Navigation Bar - Refined for Academic Theme */
 .global-nav {
-    background-color: #2c3e50;
+    background-color: #ffffff;
     position: sticky;
     top: 0;
     z-index: 1000;
-    border-radius: 4px;
-    margin-bottom: 20px;
-    box-shadow: 0 4px 6px rgba(0,0,0,0.1);
+    border-bottom: 1px solid var(--border-dark);
+    margin-bottom: 30px;
+    margin-top: -40px; /* Offset body padding */
+    padding: 0 20px;
+    width: 100%;
+    box-sizing: border-box;
+    font-family: 'Helvetica Neue', Helvetica, Arial, sans-serif;
+    font-size: 0.9em;
 }
 .global-nav ul {
     list-style-type: none;
-    margin: 0;
+    margin: 0 auto;
     padding: 0;
     overflow: hidden;
     display: flex;
     flex-wrap: wrap;
+    justify-content: center;
+    max-width: 900px;
 }
 .global-nav li {
     float: left;
 }
 .global-nav li a, .global-nav .dropbtn {
     display: inline-block;
-    color: white;
+    color: var(--text-primary);
     text-align: center;
-    padding: 14px 16px;
+    padding: 12px 16px;
     text-decoration: none;
-    font-weight: bold;
+    border-bottom: none;
 }
 .global-nav li a:hover, .dropdown:hover .dropbtn {
-    background-color: #27ae60;
+    background-color: var(--box-bg);
 }
 .global-nav li.dropdown {
     display: inline-block;
@@ -104,24 +287,78 @@ img { max-width: 100%; height: auto; border-radius: 4px; }
 .global-nav .dropdown-content {
     display: none;
     position: absolute;
-    background-color: #f9f9f9;
-    min-width: 160px;
-    box-shadow: 0px 8px 16px 0px rgba(0,0,0,0.2);
+    background-color: #ffffff;
+    min-width: 200px;
+    box-shadow: 0px 4px 12px rgba(0,0,0,0.1);
     z-index: 1;
-    border-radius: 4px;
+    border: 1px solid var(--border-light);
+    border-top: none;
 }
 .global-nav .dropdown-content a {
-    color: black;
+    color: var(--text-primary);
     padding: 12px 16px;
     text-decoration: none;
     display: block;
     text-align: left;
-    border-bottom: 1px solid #ddd;
+    border-bottom: 1px solid var(--border-light);
+    font-size: 0.9em;
 }
 .global-nav .dropdown-content a:hover {
-    background-color: #f1f1f1;
-    color: #27ae60;
+    background-color: var(--box-bg);
+    color: var(--link-color);
 }
 .global-nav .dropdown:hover .dropdown-content {
     display: block;
 }
+
+/* Footer */
+footer {
+    border-top: 1px solid var(--border-dark);
+    margin-top: 4em;
+    padding-top: 20px;
+    font-size: 0.85em;
+    text-align: center;
+    font-family: 'Helvetica Neue', Helvetica, Arial, sans-serif;
+    color: var(--text-secondary);
+}
+
+/* Code and Pre blocks */
+pre, code {
+    font-family: 'Courier New', Courier, monospace;
+    background-color: var(--box-bg);
+    padding: 2px 4px;
+    font-size: 0.9em;
+    border-radius: 3px;
+}
+
+pre {
+    padding: 15px;
+    overflow-x: auto;
+    border: 1px solid var(--border-light);
+    line-height: 1.4;
+}
+
+/* Tables (for Content Plan and Atlas) */
+table { 
+    width: 100%; 
+    border-collapse: collapse; 
+    margin-bottom: 30px; 
+    font-size: 0.9em;
+}
+th, td { 
+    border: 1px solid var(--border-light); 
+    padding: 12px; 
+    text-align: left; 
+    vertical-align: top;
+}
+th { 
+    background-color: var(--box-bg); 
+    color: var(--text-primary); 
+    font-weight: bold;
+    border-bottom: 2px solid var(--border-dark);
+}
+.tag-theory { color: #555; font-style: italic; }
+.tag-action { color: #000; font-weight: bold; }
+.tag-atomic { color: #333; }
+.tag-location { color: #777; }
+.tag-missing { color: var(--accent-color); font-weight: bold; }
