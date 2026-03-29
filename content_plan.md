@@ -121,6 +121,7 @@ This document organizes all files in the repository by the **6 Expected Outcomes
 | `03_Temperate_Antibiotics.md` | The Temperate Antibiotic Kit: Preparation Guide | **Action Oriented** | **Alignment:** Outcome 2: Absolute Biological Sovereignty |
 | `01_Advanced_Trauma_and_Midwifery.md` | Advanced Trauma Care and Midwifery: Zero-Tech Medical Protocols | **Action Oriented** | **Alignment:** Outcome 2: Absolute Biological Sovereignty |
 | `01_Oral_Hygiene_and_Dentistry.md` | Zero-Tech Dentistry & Oral Hygiene: Preventing the Abscess | **Atomic Topic** | **Alignment:** Outcome 2: Absolute Biological Sovereignty |
+| `01_Holistic_Healing.md` | Ancient Medicine and Botany: Ayurvedic and Holistic Healing | **Atomic Topic** | **Alignment:** Outcome 2: Absolute Biological Sovereignty |
 | `01_Rationale_and_Importance.md` | Rationale and Importance: Climate, Soil and Seed | **Module Theory & Structure** | **Alignment:** Outcome 2: Absolute Biological Sovereignty |
 | `02_Soil_Sovereignty.md` | Soil Sovereignty: The Terra Preta Method | **Atomic Topic** | **Alignment:** Outcome 2: Absolute Biological Sovereignty |
 | `03_The_Seed_Bank.md` | The Seed Bank: Planting and Saving Guide | **Action Oriented** | **Alignment:** Outcome 2: Absolute Biological Sovereignty |
