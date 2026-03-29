@@ -116,7 +116,7 @@ This document organizes all files in the repository by the **6 Expected Outcomes
 | `04_Emergency_Nutrition.md` | Emergency Nutrition: The First 100 Days | **Atomic Topic** | **Alignment:** Outcome 2: Absolute Biological Sovereignty |
 | `05_Psychological_Grounding.md` | Psychological Grounding: The Return to Null | **Atomic Topic** | **Alignment:** Outcome 2: Absolute Biological Sovereignty |
 | `06_Emergency_Sanitation.md` | Emergency Sanitation: The Pit Latrine Guide | **Action Oriented** | **Alignment:** Outcome 2: Absolute Biological Sovereignty |
-| `01_Rationale_and_Importance.md` | Rationale and Importance: Biological Health | **Module Theory & Structure** | **Alignment:** Outcome 2: Absolute Biological Sovereignty |
+| `01_Rationale_and_Importance.md` | Rationale and Importance: The Human Body and Holistic Health | **Module Theory & Structure** | **Alignment:** Outcome 2: Absolute Biological Sovereignty |
 | `02_Biochemical_Signals.md` | The Brain's Biochemical Signals: Endocrine Regulation Guide | **Action Oriented** | **Alignment:** Outcome 2: Absolute Biological Sovereignty |
 | `03_Temperate_Antibiotics.md` | The Temperate Antibiotic Kit: Preparation Guide | **Action Oriented** | **Alignment:** Outcome 2: Absolute Biological Sovereignty |
 | `01_Advanced_Trauma_Care.md` | Advanced Trauma Care: Zero-Tech Medical Protocols | **Action Oriented** | **Alignment:** Outcome 2: Absolute Biological Sovereignty |
@@ -131,6 +131,7 @@ This document organizes all files in the repository by the **6 Expected Outcomes
 | `01_Humanure_Composting.md` | Generational Sanitation & Humanure: Closing the Loop | **Atomic Topic** | **Alignment:** Outcome 2: Absolute Biological Sovereignty |
 | `02_Humanure_Integration.md` | Humanure Integration: Closing the Ecological Loop | **Atomic Topic** | **Alignment:** Outcome 2: Absolute Biological Sovereignty |
 | `01_Thermal_Mass_and_Rocket_Ovens.md` | Thermal Mass Cooking and Rocket Ovens: Zero-Tech Efficiency | **Atomic Topic** | **Alignment:** Outcome 2: Absolute Biological Sovereignty |
+| `01_Co_Inhabitants.md` | Ecological Harmony and Wildlife: The Co-Inhabitants | **Atomic Topic** | **Alignment:** Outcome 2: Absolute Biological Sovereignty |
 
 ## Outcome 3: Perimeter Sovereignty and Passive Defense
 
