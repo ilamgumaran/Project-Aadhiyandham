@@ -19,8 +19,8 @@ A route is broken down into "Days of Travel" (roughly 15-20 miles on foot with a
 
 ### 2.2. Zero-Power Communication Protocols
 Before committing couriers to a week-long trek, settlements must verify that the destination refugia is still viable and expecting them.
-*   **The Heliograph (Solar Signaling):** Using highly polished metal or glass mirrors to flash sunlight across vast distances. If two settlements are situated on high-elevation benches (as prescribed in Module 02), a heliograph flash can be seen for 30+ miles on a clear day. We use a simplified Morse-style code to signal "All Clear" or "Do Not Approach."
-*   **Acoustic Relays (The Horn):** For dense canopy or foggy environments where light fails, deep-resonance acoustic tools (like modified conch shells or scavenged metallic pipes) can transmit low-frequency sound waves across valleys. These are only used in extreme emergencies as they compromise acoustic sovereignty.
+
+*   **Solar Heliographs, Semaphores, and Signal Codes:** See [Module 05.02: Zero-Power Communication Protocols](02_Zero_Power_Communication_Protocols.md) for full technical details on signaling across long distances without electricity.
 
 ---
 
