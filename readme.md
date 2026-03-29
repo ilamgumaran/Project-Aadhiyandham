@@ -33,7 +33,7 @@ If a community follows the Aadhiyandham sequential path (from The Journey to The
 ### 3.2. Outcome 2: Absolute Biological Sovereignty
 *   **Water & Food:** Communities will no longer rely on chemical water treatment plants or global agriculture. Through Bio-Sand filtration, Terra Preta (biochar) soil building, and heirloom seed banking, the settlement will produce its own pristine water and nutrient-dense food indefinitely.
     *   *Solution Framework:* Biological water filtration (Schmutzdecke layer), passive solar thermal dynamics for winter growing, open-pollinated seed propagation, and biochar pyrolysis trenches.
-    *   *Missing/Optimal Placeholder:* `[READY FOR REVIEW] [TO BE DEVELOPED] Thermal Mass Cooking & Rocket Ovens` (Minimizing deforestation by cooking and boiling water with 80% less wood).
+    *   *Solution Framework:* Thermal Mass Cooking & Rocket Ovens (Minimizing deforestation by cooking and boiling water with 80% less wood).
     *   *Solution Framework:* Long-Term Food Preservation (Root cellars, zero-energy lacto-fermentation, and salt-curing without modern refrigeration).
     *   *Solution Framework:* Generational Sanitation & Humanure (Thermophilic composting of human waste to safely close the phosphorus cycle without contaminating groundwater).
 *   **Health:** By utilizing the "Temperate Antibiotic Kit" (like Allicin from garlic) and understanding endocrine regulation (the Glymphatic Wash via sleep and sunlight), the community will manage its own baseline immunity and health without pharmaceutical supply chains.
