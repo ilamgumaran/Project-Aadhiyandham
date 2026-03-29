@@ -110,7 +110,6 @@ This document organizes all files in the repository by the **6 Expected Outcomes
 
 | File | Title | Classification | Summary |
 |---|---|---|---|
-| `MISSING_PLACEHOLDER` | [READY FOR REVIEW] Thermal Mass Cooking & Rocket Ovens | **Missing Action File** | Minimizing deforestation by cooking and boiling water with 80% less wood. |
 | `01_Rationale_and_Importance.md` | Rationale and Importance: The First 100 Days | **Module Theory & Structure** | **Alignment:** Outcome 2: Absolute Biological Sovereignty |
 | `02_Bio_Security_and_Water.md` | Bio-Security: Water Purification (Slow Sand Filter) | **Atomic Topic** | **Alignment:** Outcome 2: Absolute Biological Sovereignty |
 | `03_Shelter_and_Thermal_Grounding.md` | Shelter and Thermal Grounding: Construction Guide | **Action Oriented** | **Alignment:** Outcome 2: Absolute Biological Sovereignty |
@@ -128,6 +127,7 @@ This document organizes all files in the repository by the **6 Expected Outcomes
 | `04_Livestock_and_Mechanical_Animals.md` | Livestock and Mechanical Animals: Management Guide | **Action Oriented** | **Alignment:** Outcome 2: Absolute Biological Sovereignty |
 | `01_Long_Term_Preservation.md` | Long-Term Food Preservation: Surviving the Winter | **Atomic Topic** | **Alignment:** Outcome 2: Absolute Biological Sovereignty |
 | `01_Humanure_Composting.md` | Generational Sanitation & Humanure: Closing the Loop | **Atomic Topic** | **Alignment:** Outcome 2: Absolute Biological Sovereignty |
+| `01_Thermal_Mass_and_Rocket_Ovens.md` | Thermal Mass Cooking and Rocket Ovens: Zero-Tech Efficiency | **Atomic Topic** | **Alignment:** Outcome 2: Absolute Biological Sovereignty |
 
 ## Outcome 3: Perimeter Sovereignty and Passive Defense
 
@@ -149,8 +149,6 @@ This document organizes all files in the repository by the **6 Expected Outcomes
 
 | File | Title | Classification | Summary |
 |---|---|---|---|
-| `MISSING_PLACEHOLDER` | [READY FOR REVIEW] Ceramic Synthesis & Pottery | **Missing Action File** | Pit-firing clay to create water-tight storage, fermentation crocks, and boiling vessels without scavenged metal. |
-| `MISSING_PLACEHOLDER` | [READY FOR REVIEW] Advanced Cordage and Rope Making | **Missing Action File** | Synthesizing high-tensile rope from plant fibers, essential for timber framing and traction splints. |
 | `01_Rationale_and_Importance.md` | Rationale and Importance: Mechanics and Infrastructure | **Module Theory & Structure** | **Alignment:** Outcome 5: Decadal and Generational Resilience |
 | `02_Mechanical_Power.md` | Mechanical Power and the Line-Shaft: Engineering Guide | **Action Oriented** | **Alignment:** Outcome 5: Decadal and Generational Resilience |
 | `03_Low_Tech_Mobility.md` | Low-Tech Mobility: Cargo Trike Construction Guide | **Action Oriented** | **Alignment:** Outcome 5: Decadal and Generational Resilience |
@@ -158,6 +156,8 @@ This document organizes all files in the repository by the **6 Expected Outcomes
 | `01_Textile_Synthesis.md` | Textile and Clothing Synthesis: The Decadal Loom | **Atomic Topic** | **Alignment:** Outcome 5: Decadal and Generational Resilience |
 | `01_Structural_Engineering.md` | Advanced Structural Engineering: Post-Scavenge Construction | **Atomic Topic** | **Alignment:** Outcome 5: Decadal and Generational Resilience |
 | `01_Ash_Lye_and_Soap.md` | Foundational Chemistry: Synthesizing Soap from Ash | **Atomic Topic** | **Alignment:** Outcome 5: Decadal and Generational Resilience |
+| `01_Pottery_and_Ceramics.md` | Ceramic Synthesis & Pottery: Vessels of Civilization | **Atomic Topic** | **Alignment:** Outcome 5: Decadal and Generational Resilience |
+| `01_Advanced_Cordage.md` | Advanced Cordage and Rope Making: The Ligaments of Infrastructure | **Atomic Topic** | **Alignment:** Outcome 5: Decadal and Generational Resilience |
 | `01_Rationale_and_Importance.md` | Rationale and Importance: Historical Wisdom | **Module Theory & Structure** | **Alignment:** Outcome 5: Decadal and Generational Resilience |
 | `02_Recycling_Cliff.md` | The Recycling Cliff: Strategic Resource Management | **Atomic Topic** | **Alignment:** Outcome 5: Decadal and Generational Resilience |
 | `03_Consensus_Models.md` | Models of Consensus Governance: Facilitation Guide | **Action Oriented** | **Alignment:** Outcome 5: Decadal and Generational Resilience |
