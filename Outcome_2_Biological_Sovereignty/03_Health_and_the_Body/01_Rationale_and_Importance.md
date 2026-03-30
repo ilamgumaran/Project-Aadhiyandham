@@ -8,12 +8,13 @@ In an isolated settlement, the human body is the most sensitive and essential pi
 
 To achieve biological sovereignty without pharmaceutical supply chains, this module is broken down into the following actionable health guides:
 
-*   **[02. The Brain's Biochemical Signals](02_Biochemical_Signals.md):** Managing circadian rhythms and the Glymphatic Wash (via sleep) to prevent mental collapse and immune failure.
-*   **[03. The Temperate Antibiotic Kit](03_Temperate_Antibiotics.md):** The cultivation and processing of baseline antibacterial plants (like Allicin from Garlic) to manage routine infections.
-*   **[04. Advanced Trauma Care](04_Advanced_Trauma_Care/01_Advanced_Trauma_Care.md):** Zero-tech mechanical protocols for surviving acute physical injury, including windlass tourniquets for arterial bleeding and traction splinting for broken femurs.
-*   **[05. Zero-Tech Dentistry](05_Zero_Tech_Dentistry/01_Oral_Hygiene_and_Dentistry.md):** Preventing lethal jaw abscesses through botanical toothbrushes (Miswak/Neem), saltwater osmosis, and emergency tooth extraction techniques.
-*   **[06. Ancient Medicine and Botany](06_Ancient_Medicine_and_Botany/01_Holistic_Healing.md):** Utilizing Ayurvedic frameworks and lymphatic Yoga protocols to treat common illnesses (dysentery, fevers, respiratory infections) using the forest pharmacy.
-*   **[07. Generational Midwifery and Neonatal Care](07_Maternal_and_Neonatal_Care/01_Generational_Midwifery_and_Care.md):** The absolute foundation of the next generation. This covers prenatal nutrition, zero-intervention gravity childbirth, delayed cord clamping, and postnatal care to prevent infant mortality.
+*   **[02. Endocrine Regulation](02_Endocrine_Regulation.md):** Managing circadian rhythms and the Glymphatic Wash (via sleep) to prevent mental collapse and immune failure.
+*   **[03. Temperate Antibiotic Kit](03_Temperate_Antibiotic_Kit.md):** The cultivation and processing of baseline antibacterial plants (like Allicin from Garlic) to manage routine infections.
+*   **[04. Advanced Trauma Care](04_Advanced_Trauma_Care.md):** Zero-tech mechanical protocols for surviving acute physical injury, including windlass tourniquets for arterial bleeding and traction splinting.
+*   **[05. Zero-Tech Dentistry](05_Zero_Tech_Dentistry.md):** Preventing lethal jaw abscesses through botanical toothbrushes (Miswak/Neem) and emergency tooth extraction techniques.
+*   **[06. Ancient Medicine](06_Ancient_Medicine.md):** Utilizing Ayurvedic frameworks and lymphatic Yoga protocols to treat common illnesses using the forest pharmacy.
+*   **[07. Midwifery and Childbirth](07_Midwifery_and_Childbirth.md):** This covers prenatal nutrition, zero-intervention gravity childbirth, and postnatal care to prevent infant mortality.
+*   **[08. Natural Burial](08_Natural_Burial.md):** Closing the biological loop by returning the body to the earth without chemical embalming.
 
 ---
 *The healthy body is the foundation of the clear mind.*

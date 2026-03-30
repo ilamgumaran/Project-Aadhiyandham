@@ -35,6 +35,17 @@ If specific names of locations change over time, settlers must look for these un
 A successful location is one where human activity acts as a **Regenerative Feedback Loop**. The waste of the settlement (manure/charcoal) builds the soil (Terra Preta), which increases the food yield, which strengthens the human biology, which allows more time for exploration and introspection. 
 
 ---
+
+## 2. Module Index: The Path to Water Sovereignty
+
+To secure the biological foundation of the settlement, this sub-module is broken down into the following actionable guides:
+
+*   **[02. Bio-Sand Filtration](02_Bio_Sand_Filtration.md):** Creating a "living" filter to produce 2,000 liters of safe water daily without chemicals.
+*   **[03. Immediate Sanitation](03_Immediate_Sanitation.md):** Zero-tech protocols for preventing disease during the first 100 days.
+*   **[04. Humanure Composting](04_Humanure_Composting.md):** Thermophilic composting to safely close the phosphorus cycle.
+*   **[05. Humanure Integration](05_Humanure_Integration.md):** How to return treated nutrients to the soil to build the next generation of food.
+
+---
 *Success in the first 100 days depends on selecting a location that treats human presence as a benefit to the land, not a burden.*
 *முதல் 100 நாட்களின் வெற்றி என்பது மனித இருப்பை நிலத்திற்கு ஒரு சுமையாக அல்லாமல், ஒரு நன்மையாகக் கருதும் இடத்தைத் தேர்ந்தெடுப்பதில் தங்கியுள்ளது.*
 

@@ -26,7 +26,19 @@ Agriculture is the engine of civilization. In the Aadhiyandham model, sustenance
 *True wealth is not gold; it is fertile soil and a viable seed.*
 
 ---
-## 2. 2.Practical Implementation Guide for Beginners
+
+## 2. Module Index: The Path to Soil Sovereignty
+
+To ensure the calorie "floor" and long-term fertility of the settlement, this sub-module is broken down into the following actionable guides:
+
+*   **[02. Terra Preta & Biochar](02_Terra_Preta_and_Biochar.md):** Building permanent soil reefs to hold water and nutrients for centuries.
+*   **[03. Heirloom Seed Banking](03_Heirloom_Seed_Banking.md):** Preserving and adapting 1,000-year genetics to your microclimate.
+*   **[04. Long-Term Food Preservation](04_Long_Term_Food_Preservation.md):** Root cellaring, lacto-fermentation, and salt-curing without electricity.
+*   **[05. Thermal Mass Cooking](05_Thermal_Mass_Cooking.md):** Insulated rocket ovens that cook with 80% less wood than a campfire.
+*   **[06. Emergency Nutrition](06_Emergency_Nutrition.md):** High-calorie "Bridge Rations" for the first 30 days of arrival.
+
+---
+## 3. Practical Implementation Guide for Beginners
 
 ### 2.1. Step-by-Step Action Plan
 *   **Preparation:** Read this module fully before attempting to build or implement. Gather raw materials locally.
