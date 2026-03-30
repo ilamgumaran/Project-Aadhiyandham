@@ -27,6 +27,17 @@ A civilization is defined more by its psychological baseline than its physical t
 **Rationale:** Global studies show that "growing kale is easy; living with people is hard." To prevent burnout, we implement systems for rotating labor, resolving power imbalances, and discouraging the "hyper-independence" trap (refusing to ask for help). Our objective is a society where interpersonal negotiation is a reasoned process, not an emotional burden.
 
 ---
+
+## 2. Module Index: The Path to Psychological Centeredness
+
+To maintain the "Centered Null" and ensure the long-term mental health of the settlement, this sub-module is broken down into the following actionable guides:
+
+*   **[02. Linguistic Precision (E-Prime)](02_Linguistic_Precision.md):** The mental software for reducing ego and preventing conflict.
+*   **[03. Restorative Architecture](03_Restorative_Architecture.md):** Designing physical spaces that naturally calm the nervous system.
+*   **[04. Conflict Resolution](04_Conflict_Resolution.md):** Zero-tech protocols for resolving disputes and maintaining social harmony.
+*   **[05. Mental Illness & Compassionate Care](05_Mental_Illness_and_Compassionate_Care.md):** Managing psychological distress within the community without pharmacological intervention.
+
+---
 *The mind is the environment. The environment is the mind.*
 
 ---
