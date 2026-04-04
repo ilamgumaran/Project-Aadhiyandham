@@ -145,6 +145,7 @@ body.outcome-3 h1 { border-top: 15px solid var(--color-outcome-3); }
 body.outcome-4 h1 { border-top: 15px solid var(--color-outcome-4); }
 body.outcome-5 h1 { border-top: 15px solid var(--color-outcome-5); }
 body.outcome-6 h1 { border-top: 15px solid var(--color-outcome-6); }
+body.global-theme h1 { border-top: 15px solid var(--border-main); }
 
 /* Global Nav */
 .global-nav {
