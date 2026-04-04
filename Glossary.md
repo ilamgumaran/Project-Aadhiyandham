@@ -12,6 +12,7 @@ This page provides detailed definitions of the core concepts, technologies, and 
 
 ## B
 *   **Biochar:** A highly porous form of charcoal produced through pyrolysis. Used in Aadhiyandham as a "biological reef" for soil fertility and a chemical filter for water.
+*   **Biomimetic Art:** Artistic expression that draws inspiration from and emulates biological forms, processes, and systems to foster a deeper connection with the natural world.
 *   **Biomimicry:** The practice of learning from and emulating nature’s strategies, forms, and systems to solve human design challenges.
 *   **Blissful Curiosity:** The primary motivation of the Aadhiyandham citizen; learning and observing for the sake of the joy of discovery rather than for power or status.
 *   **Bloomery:** A type of furnace used for smelting iron from its oxides. It produces a spongy mass of wrought iron called a "bloom."
@@ -24,6 +25,7 @@ This page provides detailed definitions of the core concepts, technologies, and 
 ## E
 *   **E-Prime (English-Prime):** A version of the English language that excludes all forms of the verb "to be." Used to eliminate static identities and absolute judgments, reducing social conflict.
 *   **Entropy:** The universal tendency toward disorder and the loss of useful energy (2nd Law of Thermodynamics).
+*   **Equinoxes:** The two times each year (spring and autumn) when the Sun crosses the celestial equator, and day and night are of approximately equal length.
 
 ## G
 *   **Glymphatic System:** The brain's waste clearance system that "flushes" metabolic toxins during deep sleep.
@@ -33,9 +35,8 @@ This page provides detailed definitions of the core concepts, technologies, and 
 *   **Heirloom Seeds:** Open-pollinated plant varieties that have been passed down through generations, allowing for natural seed-saving and microclimate adaptation.
 *   **Hydraulic Ram Pump (Hydram):** A cyclic water pump that uses the "water hammer" effect of falling water to lift a portion of that water to a higher elevation without electricity.
 
-## L
-*   **Liebig’s Law of the Minimum:** The principle that growth is controlled not by the total resources available, but by the scarcest resource (the limiting factor).
-*   **Line-Shaft:** A power transmission system using a central rotating shaft and a series of pulleys and belts to distribute mechanical torque to multiple machines.
+## N
+*   **Neural Plasticity:** The ability of the brain to form and reorganize synaptic connections, especially in response to learning or experience or following injury.
 
 ## P
 *   **Pyrolysis:** The thermochemical decomposition of organic material at elevated temperatures in the absence of oxygen.
@@ -43,11 +44,14 @@ This page provides detailed definitions of the core concepts, technologies, and 
 ## R
 *   **Recycling Cliff:** The projected point in time (15–25 years post-collapse) when salvaged old-world materials (like bare steel) will have corroded beyond structural usefulness.
 *   **Refugia:** Geographical areas that remain relatively stable and life-supporting during periods of global climatic or systemic disruption.
+*   **Rites of Passage:** Formal ceremonies or trials that mark a person's transition from one social or biological status to another, particularly from childhood to adulthood.
 
 ## S
 *   **Schmutzdecke:** (German for "dirt layer") The essential biological slime layer that forms on top of a Slow Sand Filter, consisting of bacteria and algae that consume pathogens.
 *   **Serotonin:** A neurotransmitter triggered by morning sunlight that regulates mood, focus, and feelings of well-being.
 *   **Silvopasture:** The intentional integration of trees, forage plants, and livestock into a single, mutually beneficial ecological loop.
+*   **Solar Calendar:** A physical and conceptual system for tracking time based on the Earth's orbit around the Sun, typically using horizon markers to identify key celestial events.
+*   **Solstices:** The two times each year (summer and winter) when the Sun reaches its highest or lowest point in the sky at noon, marked by the longest and shortest days.
 
 ## T
 *   **Terra Preta:** (Portuguese for "Black Earth") A human-made, highly fertile soil type characterized by high concentrations of biochar, organic matter, and nutrients.
