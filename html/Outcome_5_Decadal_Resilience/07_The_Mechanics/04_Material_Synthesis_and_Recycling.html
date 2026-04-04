@@ -5,7 +5,7 @@
     <title>04 Material Synthesis and Recycling - 07 The Mechanics - Project Aadhiyandham</title>
     <link rel="stylesheet" href="../../style.css">
 </head>
-<body>
+<body class="outcome-5">
 
     
     
@@ -66,7 +66,7 @@
 
     <header>
         <p><a href="../../index.html">Main Index</a></p>
-        <h1>Material Synthesis: The Bloomery Iron Guide</h1>
+        <h1>Material Synthesis: The <a class="glossary-term" href="../../glossary.html#bloomery">Bloomery</a> Iron Guide</h1>
         <p class="alignment" style="color: #2c3e50; font-weight: bold; background-color: #e8f4f8; padding: 5px 10px; border-radius: 4px; display: inline-block;">Alignment: Outcome 5: Decadal and Generational Resilience</p>
     </header>
     
@@ -74,7 +74,7 @@
 
     <section>
         <h2>1. Why This Is Important</h2>
-        <p>The "Recycling Cliff" is real. Scavenged steel will eventually rust away. To survive long-term, we must make our own iron. The <strong>Bloomery</strong> turns rocks (ore) into metal.</p>
+        <p>The "<a class="glossary-term" href="../../glossary.html#recycling-cliff">Recycling Cliff</a>" is real. Scavenged steel will eventually rust away. To survive long-term, we must make our own iron. The <strong><a class="glossary-term" href="../../glossary.html#bloomery">Bloomery</a></strong> turns rocks (ore) into metal.</p>
         <p><strong>DANGER: SAFETY FIRST</strong></p>
         <ul>
             <li><strong>Eyes:</strong> 1200°C light can damage your retinas. Do not stare directly into the air-hole (tuyere).</li>
@@ -82,7 +82,7 @@
             <li><strong>Buddy System:</strong> Never smelt alone. If someone faints from the heat, they need immediate rescue.</li>
         </ul>
         <h2>2. Expected Outcome</h2>
-        <p>The production of a 2-5kg "Bloom" of wrought iron that you can hammer into tools.</p>
+        <p>The production of a 2-5kg "Bloom" of <a class="glossary-term" href="../../glossary.html#wrought-iron">wrought iron</a> that you can hammer into tools.</p>
         <h2>3. Materials Needed & Sourcing</h2>
         <p>| Material | Purpose | How to Find / Source |</p>
         <p>| :--- | :--- | :--- |</p>
@@ -118,21 +118,44 @@
             <li><strong>THE BLOOM:</strong> Pull out the glowing mass of iron with heavy tongs.</li>
             <li><strong>Shingling:</strong> Immediately hit it with a heavy hammer to knock off the remaining trash and squash the iron into a solid bar.</li>
         </ul>
-        <h2>5. Visual Illustration (Conceptual)</h2>
-        <pre style="background-color: #f4f4f4; padding: 10px; border-radius: 4px; overflow-x: auto;">
-        [ CROSS SECTION ]
-              | EXHAUST |
-              |_________|
-              | CHARCOAL|
-              |   + ORE |
-              |_________|
-              |  HEAT   |
-              |  ZONE   | <--- [ AIR IN ]
-              |_________|
-              |  BLOOM  |
-              |_________|
-              [ TAP HOLE ] <--- Trash (Slag) drains here
-        </pre>
+        <h2>5. Visual Illustration</h2>
+        <div class="diagram">
+            <svg width="400" height="500" viewBox="0 0 400 500" xmlns="http://www.w3.org/2000/svg">
+                <!-- Furnace Body -->
+                <path d="M 100 450 L 120 100 L 280 100 L 300 450 Z" fill="#e67e22" stroke="#d35400" stroke-width="4" />
+                
+                <!-- Internal Charge -->
+                <rect x="140" y="120" width="120" height="40" fill="#34495e" /> <!-- Charcoal layer -->
+                <rect x="140" y="160" width="120" height="20" fill="#7f8c8d" /> <!-- Ore layer -->
+                <rect x="140" y="180" width="120" height="40" fill="#34495e" />
+                <rect x="140" y="220" width="120" height="20" fill="#7f8c8d" />
+                
+                <!-- Tuyere (Air Inlet) -->
+                <line x1="50" y1="380" x2="130" y2="380" stroke="#95a5a6" stroke-width="8" />
+                <text x="50" y="370" font-size="12" font-weight="bold">Air In (Tuyere)</text>
+                
+                <!-- Heat Zone -->
+                <circle cx="200" cy="380" r="50" fill="url(#heatGradient)" />
+                <defs>
+                    <radialGradient id="heatGradient">
+                        <stop offset="0%" stop-color="#f1c40f" />
+                        <stop offset="100%" stop-color="#e67e22" stop-opacity="0" />
+                    </radialGradient>
+                </defs>
+
+                <!-- Bloom -->
+                <path d="M 170 430 Q 200 400 230 430 L 220 460 Q 200 470 180 460 Z" fill="#2c3e50" />
+                <text x="200" y="450" fill="white" text-anchor="middle" font-size="12">BLOOM</text>
+
+                <!-- Slag Tap -->
+                <line x1="280" y1="460" x2="350" y2="480" stroke="#2c3e50" stroke-width="4" />
+                <path d="M 350 480 Q 370 490 350 500 Z" fill="#2c3e50" />
+                <text x="350" y="470" font-size="12">Slag Tap</text>
+
+                <text x="200" y="80" text-anchor="middle" font-size="16" font-weight="bold">Bloomery Furnace Cross-Section</text>
+            </svg>
+            <p class="diagram-caption">Figure 2: Cross-section of a clay bloomery furnace showing the air inlet and the developing iron bloom.</p>
+        </div>
         <h2>6. Maintenance Guide</h2>
         <ul>
             <li><strong>The First Tool:</strong> Use your first bloom to make a better hammer and tongs.</li>
@@ -148,7 +171,7 @@
         </ul>
         <hr>
         <hr>
-        <div class="practical-guide" style="margin-top: 2em; padding: 1em; background-color: #f4f8fb; border-left: 4px solid #2196F3;">
+        <div class="how-to">
         <h2>8. 8.Practical Implementation Guide for Beginners</h2>
         <h3>8.1. Step-by-Step Action Plan</h3>
         <ul>
@@ -173,15 +196,15 @@
     <dl>
         <dt style="font-weight: bold; color: #2c3e50; margin-top: 10px;">Aadhiyandham</dt>
         <dd style="margin-left: 20px; font-size: 0.95em; color: #555;">A Tamil portmanteau of Aadhi (Primordial Beginning) and Andham (Final End).</dd>
-        <dt style="font-weight: bold; color: #2c3e50; margin-top: 10px;">Bloomery</dt>
+        <dt style="font-weight: bold; color: #2c3e50; margin-top: 10px;"><a class="glossary-term" href="../../glossary.html#bloomery">Bloomery</a></dt>
         <dd style="margin-left: 20px; font-size: 0.95em; color: #555;">A type of furnace used for smelting iron from its oxides.</dd>
         <dt style="font-weight: bold; color: #2c3e50; margin-top: 10px;">Decadal</dt>
         <dd style="margin-left: 20px; font-size: 0.95em; color: #555;">Relating to or covering a period of a decade (ten years).</dd>
-        <dt style="font-weight: bold; color: #2c3e50; margin-top: 10px;">Recycling Cliff</dt>
+        <dt style="font-weight: bold; color: #2c3e50; margin-top: 10px;"><a class="glossary-term" href="../../glossary.html#recycling-cliff">Recycling Cliff</a></dt>
         <dd style="margin-left: 20px; font-size: 0.95em; color: #555;">The projected point in time when salvaged old-world materials will corrode.</dd>
         <dt style="font-weight: bold; color: #2c3e50; margin-top: 10px;">Resilience</dt>
         <dd style="margin-left: 20px; font-size: 0.95em; color: #555;">The capacity to withstand or to recover quickly from difficulties; toughness.</dd>
-        <dt style="font-weight: bold; color: #2c3e50; margin-top: 10px;">Wrought Iron</dt>
+        <dt style="font-weight: bold; color: #2c3e50; margin-top: 10px;"><a class="glossary-term" href="../../glossary.html#wrought-iron">Wrought Iron</a></dt>
         <dd style="margin-left: 20px; font-size: 0.95em; color: #555;">A tough, malleable form of iron suitable for forging and rolling.</dd>
     </dl>
 </section>

@@ -5,7 +5,7 @@
     <title>02 Mechanical Power - 07 The Mechanics - Project Aadhiyandham</title>
     <link rel="stylesheet" href="../../style.css">
 </head>
-<body>
+<body class="outcome-5">
 
     
     
@@ -66,7 +66,7 @@
 
     <header>
         <p><a href="../../index.html">Main Index</a></p>
-        <h1>Mechanical Power and the Line-Shaft: Engineering Guide</h1>
+        <h1>Mechanical Power and the <a class="glossary-term" href="../../glossary.html#line-shaft">Line-Shaft</a>: Engineering Guide</h1>
         <p class="alignment" style="color: #2c3e50; font-weight: bold; background-color: #e8f4f8; padding: 5px 10px; border-radius: 4px; display: inline-block;">Alignment: Outcome 5: Decadal and Generational Resilience</p>
     </header>
     
@@ -89,32 +89,61 @@
         <h3>3.2. Instructions</h3>
         <ul>
             <li>Construct a wheel (min. 1.5m diameter) with a heavy outer rim.</li>
-            <li>Mount the wheel directly onto the <strong>Line-Shaft</strong> between the water wheel and the first machine station.</li>
+            <li>Mount the wheel directly onto the <strong><a class="glossary-term" href="../../glossary.html#line-shaft">Line-Shaft</a></strong> between the water wheel and the first machine station.</li>
             <li><strong>Balance:</strong> Spin the wheel; if it always stops at the same point, add weight to the opposite side until it is perfectly balanced.</li>
             <li><strong>Usage:</strong> Once the water wheel starts, the Great Wheel will take several minutes to reach speed, but will then "carry" the system through variations in flow.</li>
         </ul>
         <hr>
-        <h2>4. How-To: The Line-Shaft Distribution System</h2>
+        <h2>4. How-To: The <a class="glossary-term" href="../../glossary.html#line-shaft">Line-Shaft</a> Distribution System</h2>
         <ul>
             <li><strong>Installation:</strong> Mount the shaft along the ceiling using timber hangers.</li>
             <li><strong>Formula:</strong> $N_1 \times D_1 = N_2 \times D_2$.</li>
             <li><strong>Safety:</strong> Use Fast and Loose pulleys to disengage individual machines.</li>
         </ul>
-        <h2>5. Visual Illustration (Conceptual)</h2>
-        <pre style="background-color: #f4f4f4; padding: 10px; border-radius: 4px; overflow-x: auto;">
-        [ WATER WHEEL ] ---> [ GREAT WHEEL / FLYWHEEL ] ---> [ LINE-SHAFT ]
-                                    (Stability)                 (Distribution)
-        </pre>
+        <h2>5. Visual Illustration</h2>
+        <div class="diagram">
+            <svg width="600" height="300" viewBox="0 0 600 300" xmlns="http://www.w3.org/2000/svg">
+                <!-- Water Wheel -->
+                <circle cx="80" cy="150" r="60" fill="none" stroke="#2980b9" stroke-width="8" />
+                <line x1="80" y1="90" x2="80" y2="210" stroke="#2980b9" stroke-width="4" />
+                <line x1="20" y1="150" x2="140" y2="150" stroke="#2980b9" stroke-width="4" />
+                <text x="80" y="240" text-anchor="middle" font-size="14" font-weight="bold">Water Wheel</text>
+
+                <!-- Connection to Flywheel -->
+                <line x1="140" y1="150" x2="200" y2="150" stroke="#34495e" stroke-width="6" />
+
+                <!-- Flywheel -->
+                <circle cx="200" cy="150" r="40" fill="#7f8c8d" />
+                <circle cx="200" cy="150" r="35" fill="none" stroke="#2c3e50" stroke-width="10" />
+                <text x="200" y="240" text-anchor="middle" font-size="14" font-weight="bold">Flywheel</text>
+
+                <!-- Line Shaft -->
+                <rect x="240" y="145" width="300" height="10" fill="#34495e" />
+                <text x="390" y="130" text-anchor="middle" font-size="14" font-weight="bold">Line-Shaft</text>
+
+                <!-- Belts and Machines -->
+                <!-- Machine 1 -->
+                <line x1="300" y1="155" x2="300" y2="220" stroke="#e67e22" stroke-width="4" stroke-dasharray="4" />
+                <rect x="270" y="220" width="60" height="40" fill="#95a5a6" />
+                <text x="300" y="280" text-anchor="middle" font-size="12">Lathe</text>
+
+                <!-- Machine 2 -->
+                <line x1="450" y1="155" x2="450" y2="220" stroke="#e67e22" stroke-width="4" stroke-dasharray="4" />
+                <rect x="420" y="220" width="60" height="40" fill="#95a5a6" />
+                <text x="450" y="280" text-anchor="middle" font-size="12">Mill</text>
+            </svg>
+            <p class="diagram-caption">Figure 1: Typical Line-shaft distribution system smoothing power from a water wheel.</p>
+        </div>
         <hr>
         <hr>
-        <div class="research-validation" style="margin: 2em 0; padding: 1.5em; background-color: #f0f7f4; border-left: 5px solid #2ecc71; border-radius: 4px;">
-        <h3 style="color: #27ae60; margin-top: 0;">6. 🔬 Scientific Validation & Research Context</h3>
+        <div class="research-validation">
+        <h3>6. 🔬 Scientific Validation & Research Context</h3>
         <ul>
-            <li><strong>The Laws of Thermodynamics:</strong> The First Law of Thermodynamics states that energy cannot be created or destroyed, only transformed. A water wheel or line-shaft does not "make" power; it captures the kinetic energy of gravity acting on water mass.</li>
+            <li><strong>The Laws of <a class="glossary-term" href="../../glossary.html#thermodynamics">Thermodynamics</a>:</strong> The First Law of <a class="glossary-term" href="../../glossary.html#thermodynamics">Thermodynamics</a> states that energy cannot be created or destroyed, only transformed. A water wheel or <a class="glossary-term" href="../../glossary.html#line-shaft">line-shaft</a> does not "make" power; it captures the kinetic energy of gravity acting on water mass.</li>
             <li><strong>Mechanical Advantage & Friction:</strong> The efficiency of any pre-electric system is entirely dictated by the reduction of friction. The use of hardwood bearings soaked in animal fat reduces the coefficient of sliding friction by up to 80% compared to dry wood-on-wood contact, allowing the captured kinetic energy to successfully translate into cutting or grinding torque instead of being lost as waste heat.</li>
         </ul>
         <hr>
-        <div class="practical-guide" style="margin-top: 2em; padding: 1em; background-color: #f4f8fb; border-left: 4px solid #2196F3;">
+        <div class="how-to">
         <h2>7. 7.Practical Implementation Guide for Beginners</h2>
         <h3>7.1. Step-by-Step Action Plan</h3>
         <ul>
@@ -142,7 +171,7 @@
         <dd style="margin-left: 20px; font-size: 0.95em; color: #555;">A Tamil portmanteau of Aadhi (Primordial Beginning) and Andham (Final End).</dd>
         <dt style="font-weight: bold; color: #2c3e50; margin-top: 10px;">Decadal</dt>
         <dd style="margin-left: 20px; font-size: 0.95em; color: #555;">Relating to or covering a period of a decade (ten years).</dd>
-        <dt style="font-weight: bold; color: #2c3e50; margin-top: 10px;">Line-Shaft</dt>
+        <dt style="font-weight: bold; color: #2c3e50; margin-top: 10px;"><a class="glossary-term" href="../../glossary.html#line-shaft">Line-Shaft</a></dt>
         <dd style="margin-left: 20px; font-size: 0.95em; color: #555;">A power transmission system using a central rotating shaft.</dd>
         <dt style="font-weight: bold; color: #2c3e50; margin-top: 10px;">Resilience</dt>
         <dd style="margin-left: 20px; font-size: 0.95em; color: #555;">The capacity to withstand or to recover quickly from difficulties; toughness.</dd>
