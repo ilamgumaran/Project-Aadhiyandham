@@ -23,6 +23,15 @@ Phase V marks the transition from survival to civilization. This module focuses 
 **Rationale:** A sustainable civilization thrives by sharing its blueprints. By trading knowledge (e.g., filter designs, furnace specs) instead of just material goods, we build a network of settlements that are all committed to the Aadhiyandham principles, ensuring that if one location fails, the wisdom survives in another.
 
 ---
+
+## 2. Module Index: The Path to Advanced Civilization
+
+To ensure that the settlement evolves into a flourishing and intellectually curious civilization, this sub-module is broken down into the following actionable guides:
+
+*   **[02. Glassmaking](02_Glassmaking.md):** Synthesizing clear glass for optics, microbiology, and chemical analysis.
+*   **[03. Crucible Steel](03_Crucible_Steel.md):** Producing high-carbon steel for surgical precision and durable tools.
+
+---
 *Civilization is the expression of curiosity through durable materials.*
 
 ---

@@ -23,6 +23,21 @@ The ability to maintain tools and synthesize materials is the difference between
 **Rationale:** Fuel-based transport is a luxury of the past. By designing cargo vehicles that utilize human and animal power—and building them from local materials like bamboo—we ensure that the movement of goods and people remains a permanent capability of the society.
 
 ---
+
+## 2. Module Index: The Path to Industrial Resilience
+
+To ensure the settlement can manufacture tools and generate power indefinitely, this sub-module is broken down into the following actionable guides:
+
+*   **[02. Mechanical Power](02_Mechanical_Power.md):** Designing and building water wheels and line-shaft systems for zero-electricity workshops.
+*   **[03. Low-Tech Mobility](03_Low_Tech_Mobility.md):** Constructing cargo-hauling vehicles from local wood and bamboo.
+*   **[04. Material Synthesis & Recycling](04_Material_Synthesis_and_Recycling.md):** Smelting local iron ore and recycling scavenged steel.
+*   **[05. Textiles & Leather](05_Textiles_and_Leather.md):** Weaving natural fibers and tanning leather for durable clothing.
+*   **[06. Advanced Structural Engineering](06_Advanced_Structural_Engineering.md):** Mortar, brick-firing, and timber-framing without modern fasteners.
+*   **[07. Foundational Chemistry](07_Foundational_Chemistry.md):** Extracting lye from ash to synthesize soap and binders.
+*   **[08. Ceramic Synthesis](08_Ceramic_Synthesis.md):** Creating water-tight pottery and vessels for processing.
+*   **[09. Cordage & Rope Making](09_Cordage_and_Rope.md):** Synthesizing high-tensile rope from plant bast-fibers.
+
+---
 *If you can build the tools, you can build the future.*
 
 ---

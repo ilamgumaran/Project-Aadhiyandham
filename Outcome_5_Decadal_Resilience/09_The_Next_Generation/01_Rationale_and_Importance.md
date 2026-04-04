@@ -31,6 +31,20 @@ This module provides the foundational tools for the next generation to understan
 **நோக்கம்:** "மனதின் ஆய்வகம்" (Lab of the Mind) என்பதன் மூலம் ஈர்க்கப்பட்டு, தத்துவம் நிகழ்வுகள் நடப்பதற்கு முன்பே அவற்றை உருவகப்படுத்த அனுமதிக்கிறது. இது சிக்கலான தன்மையை எளிதாக்கவும், மனித தொடர்பு மற்றும் நெறிமுறை மீள்தன்மைக்கு முன்னுரிமை அளிக்கும் அமைப்புகளை உருவாக்கவும் உதவுகிறது.
 
 ---
+
+## 2. Module Index: The Path to Universal Education
+
+To ensure the intellectual and ethical continuity of the settlement, this sub-module is broken down into the following actionable guides:
+
+*   **[02. English Language Lessons](02_English_Language_Lessons.md):** Mastering the global lingua franca for trade and knowledge transfer.
+*   **[03. Tamil Language Lessons](03_Tamil_Language_Lessons.md):** Preserving the linguistic roots and cultural philosophy of Aadhiyandham.
+*   **[04. Metrics & Measurement](04_Metrics_and_Measurement.md):** The metric system and foundational tools for physical precision.
+*   **[05. Mathematics & Geometry](05_Mathematics_and_Geometry.md):** Calculating structure, area, and volume without digital tools.
+*   **[06. Foundational Science](06_Foundational_Science.md):** Understanding the laws of thermodynamics, gravity, and biology.
+*   **[07. Philosophy & Thought Experiments](07_Philosophy_and_Thought_Experiments.md):** The ethics of living in the Centered Null.
+*   **[08. The Scientific Method](08_The_Scientific_Method.md):** The formal protocol for objective inquiry and testing assumptions.
+
+---
 *Education is the seed of future wisdom.*
 *கல்வி என்பது எதிர்கால ஞானத்தின் விதை.*
 

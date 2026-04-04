@@ -23,6 +23,16 @@ A civilization that does not understand why its predecessors failed is destined 
 **Rationale:** A lone fortress eventually becomes a tomb. We prioritize knowledge exchange and mutual benefit with other surviving groups to build a network of resilience, while maintaining defensive isolation through "Gray Hole" strategies.
 
 ---
+
+## 2. Module Index: The Path to Social Resilience
+
+To ensure the settlement maintains a flexible and stable social fabric, this sub-module is broken down into the following actionable guides:
+
+*   **[02. The Recycling Cliff](02_Recycling_Cliff.md):** Strategic planning for the transition from scavenged salvage to local manufacturing.
+*   **[03. Consensus Models](03_Consensus_Models.md):** Non-hierarchical governance protocols for group decision-making.
+*   **[04. Demographic Harmony](04_Demographic_Harmony.md):** Managing carrying capacity and generational population shifts.
+
+---
 *Wisdom is the ability to change your mind when the evidence changes.*
 
 ---

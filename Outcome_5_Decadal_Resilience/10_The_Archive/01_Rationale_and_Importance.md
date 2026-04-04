@@ -23,6 +23,16 @@ Knowledge is the most durable tool. This module serves as the settlement's "ency
 **Rationale:** We preserve the SI (Metric) system because it provides a universal "lens" for measurement. By maintaining a shared mathematical language, the settlement can accurately use the archive’s technical data and communicate effectively with other resilient communities.
 
 ---
+
+## 2. Module Index: The Path to Information Storage
+
+To ensure that critical knowledge survives the decay of scavenged materials, this sub-module is broken down into the following actionable guides:
+
+*   **[02. Laws of Energy](02_Laws_of_Energy.md):** Understanding the fundamental constraints of the physical universe.
+*   **[03. Limiting Factors](03_Limiting_Factors.md):** Using Liebig’s Law to diagnose and solve systemic bottlenecks.
+*   **[04. Papermaking & Ink](04_Papermaking_and_Ink.md):** Synthesizing durable information storage from plant fibers and minerals.
+
+---
 *Logic is the only technology that does not require a battery.*
 
 ---
