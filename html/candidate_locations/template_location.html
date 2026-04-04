@@ -5,7 +5,7 @@
     <title>Candidate Location Evaluation Template - Project Aadhiyandham</title>
     <link rel="stylesheet" href="../style.css">
 </head>
-<body>
+<body class="outcome-1">
 
     
     
@@ -67,6 +67,31 @@
     <header>
         <p><a href="../index.html">Main Index</a> | <a href="index.html">Atlas Index</a></p>
     </header>
+
+    <div class="diagram">
+        <svg width="600" height="300" viewBox="0 0 600 300" xmlns="http://www.w3.org/2000/svg">
+            <defs>
+                <linearGradient id="skyGradient" x1="0%" y1="0%" x2="0%" y2="100%">
+                    <stop offset="0%" style="stop-color:#f0f8ff;stop-opacity:1" />
+                    <stop offset="100%" style="stop-color:#e0f0ff;stop-opacity:1" />
+                </linearGradient>
+            </defs>
+            <rect width="600" height="300" fill="url(#skyGradient)" />
+            <path d="M0,300 L0,100 L150,200 L300,250 L450,200 L600,50 L600,300 Z" fill="#7d7d7d" stroke="#2d3436" stroke-width="2" />
+            <path d="M0,300 L0,150 L100,220 L300,270 L500,220 L600,100 L600,300 Z" fill="#a0a0a0" stroke="#2d3436" stroke-width="1" />
+            <path d="M550,70 Q500,150 300,260" fill="none" stroke="#0077be" stroke-width="4" stroke-dasharray="8,4" />
+            <circle cx="300" cy="260" r="5" fill="#0077be" />
+            <text x="310" y="255" font-family="Arial" font-size="12" fill="#0077be" font-weight="bold">Water Catchment</text>
+            <path d="M600,20 Q500,40 450,100" fill="none" stroke="#ae2012" stroke-width="3" />
+            <path d="M450,100 L460,90 M450,100 L465,105" fill="none" stroke="#ae2012" stroke-width="3" />
+            <text x="470" y="50" font-family="Arial" font-size="12" fill="#ae2012" font-weight="bold">Severe Weather Buffer</text>
+            <rect x="280" y="230" width="40" height="20" fill="#0a9396" rx="2" />
+            <text x="270" y="225" font-family="Arial" font-size="14" fill="#0a9396" font-weight="bold">Refugia Site</text>
+            <text x="20" y="280" font-family="Arial" font-size="14" fill="#fff">Primary Ridge</text>
+            <text x="480" y="280" font-family="Arial" font-size="14" fill="#fff">Secondary Ridge</text>
+        </svg>
+        <p class="diagram-caption">Figure 1.1: Topographical Buffering - Utilizing valley cross-sections for wind protection and gravity-fed water flow.</p>
+    </div>
 
     <section>
         <h1>Candidate Location Evaluation Template</h1>
