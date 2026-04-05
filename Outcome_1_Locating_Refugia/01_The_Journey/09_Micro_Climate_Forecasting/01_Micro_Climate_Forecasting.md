@@ -74,6 +74,14 @@ Clouds are the visible footprints of the invisible wind.
 *   **Evolutionary Olfaction:** Research published in the journal *Nature* confirms the evolutionary basis for human geosmin detection, linking our extreme sensitivity to this specific bacterial aerosol to the survival necessity of tracking rain across arid landscapes during the Pleistocene epoch.
 
 ---
+
+
+## Glossary Reference
+
+*See [../../../Glossary.md](../../../Glossary.md) for full definitions of:*
+
+*   **Refugia**
+
 ## 7. Practical Implementation Guide for Beginners
 
 ### 7.1. Step-by-Step Action Plan

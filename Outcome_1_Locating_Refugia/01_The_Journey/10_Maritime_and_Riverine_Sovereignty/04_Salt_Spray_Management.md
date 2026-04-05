@@ -32,7 +32,17 @@ Because clay is immune to salt corrosion, coastal settlements should prioritize 
 Research into **Halophytes** (salt-tolerant plants) shows they utilize specialized cells to sequester salt. By integrating these species into the perimeter, we create a "Biological Shield" that allows a coastal refugia to maintain high agricultural yields just meters from the ocean.
 
 ---
-## 4. 4.Practical Implementation Guide for Beginners
+
+
+## Glossary Reference
+
+*See [../../../Glossary.md](../../../Glossary.md) for full definitions of:*
+
+*   **Heirloom Seeds**
+*   **Recycling Cliff**
+*   **Refugia**
+
+## 4. Practical Implementation Guide for Beginners
 
 ### 4.1. Step-by-Step Action Plan
 *   **Phase 1: Soil Testing:** Perform the "Indicator Plant" check (Module 02.06) to identify existing salt-tolerant species on your land.

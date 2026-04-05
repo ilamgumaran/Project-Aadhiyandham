@@ -41,7 +41,15 @@ Trail sustainability is a function of civil engineering.
 *   **The Half-Rule:** A trail's grade should never exceed half the grade of the hillside it is built on. If the hill is a 20% slope, the trail must be 10% or less to prevent the hill from "sliding" onto the path.
 
 ---
-## 5. 5.Practical Implementation Guide for Beginners
+
+
+## Glossary Reference
+
+*See [../../../Glossary.md](../../../Glossary.md) for full definitions of:*
+
+*   **Refugia**
+
+## 5. Practical Implementation Guide for Beginners
 
 ### 5.1. Step-by-Step Action Plan
 *   **Phase 1: Sighting:** Use your Clinometer (Module 02.02) to flag a 5% route up your primary access slope.

@@ -68,7 +68,23 @@ SOURCE [Head 'h']
 扫
 
 ---
-## 7. 7.Practical Implementation Guide for Beginners
+
+
+## Glossary Reference
+
+*See [../../Glossary.md](../../Glossary.md) for full definitions of:*
+
+*   **Apprenticeship**
+*   **Burnout**
+*   **Execution**
+*   **Hydraulic Ram Pump (Hydram)**
+*   **Preparation**
+*   **Refugia**
+*   **Review**
+*   **System Failure**
+*   **Thermal Belt**
+
+## 7. Practical Implementation Guide for Beginners
 
 ### 7.1. Step-by-Step Action Plan
 *   **Preparation:** Read this module fully before attempting to build or implement. Gather raw materials locally.

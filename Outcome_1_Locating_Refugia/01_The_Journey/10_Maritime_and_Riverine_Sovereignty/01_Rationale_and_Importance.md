@@ -30,7 +30,15 @@ To master the water as a medium of sovereignty, this sub-module is broken down i
 *The water does the work, if you know its rhythm.*
 
 ---
-## 3. 3.Practical Implementation Guide for Beginners
+
+
+## Glossary Reference
+
+*See [../../../Glossary.md](../../../Glossary.md) for full definitions of:*
+
+*   **Refugia**
+
+## 3. Practical Implementation Guide for Beginners
 
 ### 3.1. Step-by-Step Action Plan
 *   **Phase 1: Shoreline Observation:** Identify the "High Water" and "Low Water" marks over a lunar cycle.

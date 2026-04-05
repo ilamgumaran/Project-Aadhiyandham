@@ -33,7 +33,17 @@ A simple A-frame structure that is dragged rather than rolled.
 3.  **Validation:** Identify the Wind Shadow and establish Phase 0.
 
 ---
-## 5. 5.Practical Implementation Guide for Beginners: The Journey
+
+
+## Glossary Reference
+
+*See [../../Glossary.md](../../Glossary.md) for full definitions of:*
+
+*   **Execution**
+*   **Preparation**
+*   **Refugia**
+
+## 5. Practical Implementation Guide for Beginners: The Journey
 
 ### 5.1. Step-by-Step Action Plan
 *   **Preparation (Months 1-3):** Begin physical conditioning. Walk 5 miles a day with a 20lb backpack. Acquire baseplate compasses and physical topographical maps.

@@ -3,7 +3,7 @@ import glob
 import shutil
 
 def organize_atlas():
-    base_dir = "candidate_locations"
+    base_dir = "Outcome_1_Locating_Refugia/03_Candidate_Atlas"
     continents = {
         "africa": "Africa",
         "asia": "Asia",

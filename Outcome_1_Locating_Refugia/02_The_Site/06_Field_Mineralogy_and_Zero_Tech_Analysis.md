@@ -50,7 +50,15 @@ Civilization is a series of chemical transformations.
 *   **Limestone (CaCO3):** When fired in a kiln, it becomes Quicklime (CaO), which is the base for all pre-industrial chemistry, including soap-making and sanitation.
 
 ---
-## 5. 5.Practical Implementation Guide for Beginners
+
+
+## Glossary Reference
+
+*See [../../Glossary.md](../../Glossary.md) for full definitions of:*
+
+*   **Refugia**
+
+## 5. Practical Implementation Guide for Beginners
 
 ### 5.1. Step-by-Step Action Plan
 *   **Phase 1: The Mineral Walk:** Walk the perimeter of your site. Perform the "Fizz Test" on every distinct rock type you find.

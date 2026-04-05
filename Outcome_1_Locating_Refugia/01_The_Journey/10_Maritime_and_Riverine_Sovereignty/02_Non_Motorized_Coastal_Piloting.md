@@ -27,7 +27,15 @@ In open water, where the coastline is far, use the "Horizon Dip" method.
 Sight-line navigation is a practical application of **Parallax**. As the observer moves, the relative position of two objects at different distances shifts. By mastering this shift, the brain becomes a high-precision surveying tool.
 
 ---
-## 4. 4.Practical Implementation Guide for Beginners
+
+
+## Glossary Reference
+
+*See [../../../Glossary.md](../../../Glossary.md) for full definitions of:*
+
+*   **Refugia**
+
+## 4. Practical Implementation Guide for Beginners
 
 ### 4.1. Step-by-Step Action Plan
 *   **Phase 1: Mark Identification:** While on land, identify 5-10 "Unmistakable Marks" along your home coastline.

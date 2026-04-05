@@ -70,7 +70,16 @@ Long-distance communication often strips away tone and nuance, leading to misund
 *   **Link:** See [Module 04.05.02: Linguistic Precision](../../Outcome_4_Psychological_Centeredness/05_The_Mind/02_Linguistic_Precision.md) for full training.
 
 ---
-## 7. 7.Practical Implementation Guide for Beginners
+
+
+## Glossary Reference
+
+*See [../../../Glossary.md](../../../Glossary.md) for full definitions of:*
+
+*   **Centered Null**
+*   **Refugia**
+
+## 7. Practical Implementation Guide for Beginners
 
 ### 7.1. Step-by-Step Action Plan
 *   **Phase 1:** Build a basic Heliograph using a scavenged mirror and a wooden tripod.

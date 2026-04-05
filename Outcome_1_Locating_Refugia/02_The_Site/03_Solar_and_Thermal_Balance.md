@@ -61,16 +61,30 @@ To orient buildings correctly, you must find True South (or North), not Magnetic
 *   **Pruning:** Periodically thin the trees to the Equator-side of the settlement to ensure the "Solar Obstruction Line" does not rise over time.
 
 ## 7. Vocabulary of the Foundation
-*   **Passive Solar Design:** Building design that uses the sun's energy for heating and cooling without active mechanical systems.
-*   **Lux:** A measure of the intensity of light as perceived by the human eye. 2,500 lux is the minimum required for a biological reset.
-*   **Solstice:** The two times of year (Winter and Summer) when the sun reaches its highest or lowest point in the sky at noon.
-*   **Equinox:** The two times of year when day and night are of equal length.
+
 *   **Diurnal Swing:** The difference between the highest and lowest temperature in a single 24-hour period.
-扫
-扫
+*   **Equinox:** The two times of year when day and night are of equal length.
+*   **Lux:** A measure of the intensity of light as perceived by the human eye. 2,500 lux is the minimum required for a biological reset.
+*   **Passive Solar Design:** Building design that uses the sun's energy for heating and cooling without active mechanical systems.
+*   **Solstice:** The two times of year (Winter and Summer) when the sun reaches its highest or lowest point in the sky at noon.
 
 ---
-## 8. 8.Practical Implementation Guide for Beginners
+
+
+## Glossary Reference
+
+*See [../../Glossary.md](../../Glossary.md) for full definitions of:*
+
+*   **Apprenticeship**
+*   **Burnout**
+*   **Execution**
+*   **Preparation**
+*   **Refugia**
+*   **Review**
+*   **Serotonin**
+*   **System Failure**
+
+## 8. Practical Implementation Guide for Beginners
 
 ### 8.1. Step-by-Step Action Plan
 *   **Preparation:** Read this module fully before attempting to build or implement. Gather raw materials locally.

@@ -73,17 +73,30 @@ PREVAILING WINDS ----->
 *   **Windbreaks:** Plant dense, multi-layered "Living Walls" of trees on the edges of your thermal belt to further dissipate wind energy.
 
 ## 7. Vocabulary of the Foundation
-*   **Orography:** The branch of physical geography dealing with mountains and their impact on weather (e.g., orographic lift causing rain on one side and a rain shadow on the other).
-*   **Leeward:** The side of a mountain or ridge protected from the wind (the "shadow").
-*   **Windward:** The side facing directly into the prevailing wind (the "shield").
-*   **Thermal Inversion:** The phenomenon where warm air rises and becomes trapped above a layer of colder air in a valley, creating the **Thermal Belt**.
+
 *   **ASL:** Above Sea Level.
-扫
-扫
-扫
+*   **Leeward:** The side of a mountain or ridge protected from the wind (the "shadow").
+*   **Orography:** The branch of physical geography dealing with mountains and their impact on weather (e.g., orographic lift causing rain on one side and a rain shadow on the other).
+*   **Thermal Inversion:** The phenomenon where warm air rises and becomes trapped above a layer of colder air in a valley, creating the **Thermal Belt**.
+*   **Windward:** The side facing directly into the prevailing wind (the "shield").
 
 ---
-## 8. 8.Practical Implementation Guide for Beginners
+
+
+## Glossary Reference
+
+*See [../../Glossary.md](../../Glossary.md) for full definitions of:*
+
+*   **Apprenticeship**
+*   **Burnout**
+*   **Execution**
+*   **Preparation**
+*   **Refugia**
+*   **Review**
+*   **System Failure**
+*   **Thermal Belt**
+
+## 8. Practical Implementation Guide for Beginners
 
 ### 8.1. Step-by-Step Action Plan
 *   **Preparation:** Read this module fully before attempting to build or implement. Gather raw materials locally.

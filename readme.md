@@ -58,11 +58,11 @@ If a community follows the Aadhiyandham sequential path (from The Journey to The
 *   **Surviving the "Recycling Cliff":** Modern scavenged materials (like steel) will eventually rust away. The project prepares the community to mine, smelt, and forge their own tools (Bloomery Iron and Crucible Steel) and generate mechanical power (Line-shafts and Hydrams) to ensure industrial capability survives past the 20-year mark.
     *   *Solution Framework:* Low-tech metallurgy (Wootz steel, Bloomery furnaces), mechanical advantage (water-wheels, pulleys), and basic thermodynamics.
     *   *Solution Framework:* Advanced Structural Engineering (Creating lime mortar, firing permanent brick, and timber-framing without scavenged nails).
-    *   *Missing/Optimal Placeholder:* `[READY FOR REVIEW] [TO BE DEVELOPED] Ceramic Synthesis & Pottery` (Pit-firing clay to create water-tight storage, fermentation crocks, and boiling vessels without scavenged metal).
+    *   *Solution Framework:* Ceramic Synthesis & Pottery (Pit-firing clay to create water-tight storage, fermentation crocks, and boiling vessels without scavenged metal).
     *   *Solution Framework:* Foundational Chemistry (Extracting potash and lye from wood ash to synthesize soap, vital for surgical hygiene and disease prevention).
 *   **Engineering Advancements for Harmonization, Not Dominance:** We must possess the ability to transform materials to build tools and convert energy into other forms to safely expand human physical strength. However, the explicit goal is *not* to build a major industrial complex for mass production. Basic building and crafting are skills meant for everyone (or those intrinsically interested) to achieve harmony with the environment—never as a mechanism to exert influence, consolidate wealth, or hold power over others. 
     *   *Solution Framework:* Decentralized tool-making and the "Master/Apprentice" knowledge transfer system.
-    *   *Missing/Optimal Placeholder:* `[READY FOR REVIEW] [TO BE DEVELOPED] Advanced Cordage and Rope Making` (Synthesizing high-tensile rope from plant fibers, essential for timber framing and traction splints).
+    *   *Solution Framework:* Advanced Cordage and Rope Making (Synthesizing high-tensile rope from plant fibers, essential for timber framing and traction splints).
     *   *Solution Framework:* Textile and Clothing Synthesis (Shearing, spinning yarn, weaving looms, and natural leather tanning before scavenged modern clothing disintegrates).
 *   **Knowledge Transfer:** The inclusion of an explicit curriculum (mathematics, physics, philosophy, and language) ensures that the first generation born in the refugia will possess the intellectual framework to understand the universe, rather than reverting to superstition.
     *   *Solution Framework:* Foundational curriculum focusing on the metric system, basic geometry, and thought experiments.
@@ -77,10 +77,36 @@ If a community follows the Aadhiyandham sequential path (from The Journey to The
 
 ---
 
-## 4. Resources and Quick Links
+## 4. Global Section Map
+
+All subsections follow a sequential global numbering scheme (01-14) across the six Outcomes:
+
+| # | Section | Outcome | Path |
+|---|---|---|---|
+| 01 | The Journey | 1 - Locating Refugia | `Outcome_1_Locating_Refugia/01_The_Journey/` |
+| 02 | The Site | 1 - Locating Refugia | `Outcome_1_Locating_Refugia/02_The_Site/` |
+| -- | Candidate Atlas | 1 - Locating Refugia | `Outcome_1_Locating_Refugia/03_Candidate_Atlas/` |
+| 03 | Water & Sanitation | 2 - Biological Sovereignty | `Outcome_2_Biological_Sovereignty/03_Water_and_Sanitation/` |
+| 04 | Food & Soil Sovereignty | 2 - Biological Sovereignty | `Outcome_2_Biological_Sovereignty/04_Food_and_Soil_Sovereignty/` |
+| 05 | Health & the Body | 2 - Biological Sovereignty | `Outcome_2_Biological_Sovereignty/05_Health_and_the_Body/` |
+| 06 | Ecological Harmony | 2 - Biological Sovereignty | `Outcome_2_Biological_Sovereignty/06_Ecological_Harmony/` |
+| 07 | Passive Defense | 3 - Perimeter Defense | `Outcome_3_Perimeter_Defense/07_Passive_Defense/` |
+| 08 | The Mind | 4 - Psychological Centeredness | `Outcome_4_Psychological_Centeredness/08_The_Mind/` |
+| 09 | The Mechanics | 5 - Decadal Resilience | `Outcome_5_Decadal_Resilience/09_The_Mechanics/` |
+| 10 | The Society | 5 - Decadal Resilience | `Outcome_5_Decadal_Resilience/10_The_Society/` |
+| 11 | The Next Generation | 5 - Decadal Resilience | `Outcome_5_Decadal_Resilience/11_The_Next_Generation/` |
+| 12 | The Archive | 5 - Decadal Resilience | `Outcome_5_Decadal_Resilience/12_The_Archive/` |
+| 13 | The Horizon | 5 - Decadal Resilience | `Outcome_5_Decadal_Resilience/13_The_Horizon/` |
+| 14 | Cultural Technology | 6 - Flourishing Civilization | `Outcome_6_Flourishing_Civilization/14_Cultural_Technology/` |
+
+---
+
+## 5. Resources and Quick Links
 *   **[content_plan.md](content_plan.md):** The master tracker classifying all atomic and action-oriented files.
+*   **[DEPENDENCIES.md](DEPENDENCIES.md):** Cross-module dependency map and implementation phasing.
+*   **[MODULE_TEMPLATE.md](MODULE_TEMPLATE.md):** Standard template with frontmatter schema for new modules.
 *   **[master_report.md](master_report.md):** The final synthesis and global candidate ranking.
 *   **[settlers_summary.md](settlers_summary.md):** The condensed, action-oriented handbook.
 *   **[Glossary.md](Glossary.md):** Detailed definitions of project terms.
-*   **[candidate_locations/](candidate_locations/):** Detailed evaluations of 70 resilient global sites.
+*   **[Candidate Atlas](Outcome_1_Locating_Refugia/03_Candidate_Atlas/):** Detailed evaluations of 70 resilient global sites.
 *   **[html/](html/):** A beautiful, web-ready version of the archive.

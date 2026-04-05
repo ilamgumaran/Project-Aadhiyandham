@@ -31,7 +31,17 @@ Instruments (barometers, hygrometers) measure the *current* state of the atmosph
 Global research confirms that climate change is causing "Phenological Mismatch"—where the timing of pollinators (bees) and the flowering of plants no longer align. By tracking these indicators, a refugia can anticipate crop failures *before* they happen and adjust its "Seed Bank" strategy (Outcome 2) to include more resilient species.
 
 ---
-## 4. 4.Practical Implementation Guide for Beginners
+
+
+## Glossary Reference
+
+*See [../../../Glossary.md](../../../Glossary.md) for full definitions of:*
+
+*   **Acoustic Sovereignty**
+*   **Heirloom Seeds**
+*   **Refugia**
+
+## 4. Practical Implementation Guide for Beginners
 
 ### 4.1. Step-by-Step Action Plan
 *   **Phase 1: The Bio-Log:** Start a dedicated ledger in the Archive (Module 10). Record the "First Seen" date for 10 local species (3 plants, 3 insects, 4 birds).

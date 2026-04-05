@@ -59,7 +59,18 @@ Group exactly 3 families together.
 *   **The Check-In:** Every 2 hours, the Guardian must check children's feet and hydration levels.
 
 ---
-## 7. 7.Practical Implementation Guide for Beginners: The Journey
+
+
+## Glossary Reference
+
+*See [../../Glossary.md](../../Glossary.md) for full definitions of:*
+
+*   **Centered Null**
+*   **Execution**
+*   **Preparation**
+*   **Refugia**
+
+## 7. Practical Implementation Guide for Beginners: The Journey
 
 ### 7.1. Step-by-Step Action Plan
 *   **Preparation (Months 1-3):** Begin physical conditioning. Walk 5 miles a day with a 20lb backpack. Acquire baseplate compasses and physical topographical maps.

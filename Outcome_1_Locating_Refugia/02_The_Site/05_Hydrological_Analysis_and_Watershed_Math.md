@@ -58,7 +58,15 @@ In open reservoirs, you lose water to the air.
 Hydrological resilience is the ultimate expression of **Liebig's Law**. It states that growth is dictated not by total resources available, but by the scarcest resource (the limiting factor). In any refugia, the water floor is the limiting factor. If your soil can support 1,000 people but your water can only support 100, your carrying capacity is 100.
 
 ---
-## 6. 6.Practical Implementation Guide for Beginners
+
+
+## Glossary Reference
+
+*See [../../Glossary.md](../../Glossary.md) for full definitions of:*
+
+*   **Refugia**
+
+## 6. Practical Implementation Guide for Beginners
 
 ### 6.1. Step-by-Step Action Plan
 *   **Phase 1: Measurement:** Perform the LPM test every month for one full year. Record the data in the settlement's physical Archive (Module 10).

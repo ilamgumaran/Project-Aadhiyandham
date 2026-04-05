@@ -63,7 +63,7 @@ def convert_md_to_html(md_path, html_path, title_cache, main_index="../../index.
     return title
 
 def build_atlas_index(grouped_locations):
-    index_path = "html/candidate_locations/index.html"
+    index_path = "html/Outcome_1_Locating_Refugia/03_Candidate_Atlas/index.html"
     
     html_content = """<!DOCTYPE html>
 <html lang="en">
@@ -100,8 +100,8 @@ def build_atlas_index(grouped_locations):
         f.write(html_content)
 
 def main():
-    source_dir = "candidate_locations"
-    dest_dir = "html/candidate_locations"
+    source_dir = "Outcome_1_Locating_Refugia/03_Candidate_Atlas"
+    dest_dir = "html/Outcome_1_Locating_Refugia/03_Candidate_Atlas"
     
     continents = ["Africa", "Asia", "Europe", "North_America", "Oceania", "South_America"]
     
@@ -130,7 +130,7 @@ def main():
 
     # Build the master index
     build_atlas_index(grouped_locations)
-    print("Generated candidate_locations/index.html")
+    print("Generated 03_Candidate_Atlas/index.html")
 
 if __name__ == "__main__":
     main()

@@ -41,7 +41,16 @@ Before building, map the **External Energies** moving through the site:
 3.  **Water Flow:** Identify the "Gravity Line" from your source to Zone 1.
 
 ---
-## 4. 4.Practical Implementation Guide for Beginners: Site Selection & Setup
+
+
+## Glossary Reference
+
+*See [../../Glossary.md](../../Glossary.md) for full definitions of:*
+
+*   **Bloomery**
+*   **Refugia**
+
+## 4. Practical Implementation Guide for Beginners: Site Selection & Setup
 
 ### 4.1. Step-by-Step Action Plan
 *   **Day 1-3:** Survey the immediate 1km radius. Identify the primary fresh water source and the highest defensible/dry ground.
