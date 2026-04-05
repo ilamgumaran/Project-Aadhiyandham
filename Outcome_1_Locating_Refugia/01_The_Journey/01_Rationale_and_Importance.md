@@ -67,6 +67,7 @@ To successfully navigate the physical transition to a refugia, this module is br
 *   **[07. Emergency Family Protocol](07_Emergency_Family_Transit_Protocol.md):** Safety of the vulnerable. It defines the "50% Rule" for pacing and psychological grounding techniques.
 *   **[08. Essential Packing List](08_Essential_Packing_List.md):** What to carry for the trek.
 *   **[09. Micro-Climate Forecasting](09_Micro_Climate_Forecasting/01_Micro_Climate_Forecasting.md):** Using natural observation to predict weather.
+*   **[10. Maritime & Riverine Sovereignty](10_Maritime_and_Riverine_Sovereignty/01_Rationale_and_Importance.md):** The protocols for "Blue Refugia," utilizing water as a low-friction highway for trade and stealthy transit.
 
 ---
 
