@@ -44,6 +44,7 @@ To secure the biological foundation of the settlement, this sub-module is broken
 *   **[03. Immediate Sanitation](03_Immediate_Sanitation.md):** Zero-tech protocols for preventing disease during the first 100 days.
 *   **[04. Humanure Composting](04_Humanure_Composting.md):** Thermophilic composting to safely close the phosphorus cycle.
 *   **[05. Humanure Integration](05_Humanure_Integration.md):** How to return treated nutrients to the soil to build the next generation of food.
+*   **[06. Thermophilic Sanitation Math](06_Thermophilic_Sanitation_Math.md):** Technical study on pathogen die-off curves and zero-tech safety verification.
 
 ---
 *Success in the first 100 days depends on selecting a location that treats human presence as a benefit to the land, not a burden.*
