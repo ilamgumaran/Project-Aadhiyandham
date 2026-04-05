@@ -36,6 +36,7 @@ To ensure the calorie "floor" and long-term fertility of the settlement, this su
 *   **[04. Long-Term Food Preservation](04_Long_Term_Food_Preservation.md):** Root cellaring, lacto-fermentation, and salt-curing without electricity.
 *   **[05. Thermal Mass Cooking](05_Thermal_Mass_Cooking.md):** Insulated rocket ovens that cook with 80% less wood than a campfire.
 *   **[06. Emergency Nutrition](06_Emergency_Nutrition.md):** High-calorie "Bridge Rations" for the first 30 days of arrival.
+*   **[07. Pyrolysis Engineering](07_Pyrolysis_Engineering_and_TLUD_Gasifiers.md):** Advanced technical study on building TLUD gasifiers for clean biochar production and wood vinegar capture.
 
 ---
 
