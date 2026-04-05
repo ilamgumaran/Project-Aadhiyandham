@@ -37,7 +37,11 @@ The minimum viable sequence for a newly arrived community:
 |---|---|---|
 | 01 The Journey | None (entry point) | 02 The Site |
 | 02 The Site | 01 The Journey | 03, 04, 07 (site selection informs all construction) |
-| 03 Candidate Atlas | None (reference data) | 01, 02 (location evaluation criteria) |
+| 02/08 Location Recording | 02 The Site (sentinels, terrain) | 01 Journey (route encoding), 14a Diplomacy (inter-settlement sharing) |
+| 02/09 Geological Stability | 02 The Site (topography), 06 Field Mineralogy | 07 Initial Layout (safe building zones), 09 Mechanics (mineral sourcing) |
+| 02/10 Climate Thresholds | 09 Micro-Climate Forecasting, 05 Hydrology | 04 Food (crop selection), 03 Water (drought planning) |
+| 02/11 Soil & Water Baselines | 06 Field Mineralogy, 05 Hydrology | 04 Food (nutrient management), 03 Water (filtration design) |
+| 03 Candidate Atlas | All of 02 The Site (evaluation framework) | 01, 02 (location evaluation criteria) |
 
 ### Outcome 2: Biological Sovereignty
 | Section | Depends On | Provides To |

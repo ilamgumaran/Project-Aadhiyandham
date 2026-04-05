@@ -27,13 +27,45 @@ Use this template to score a real-world location against the Aadhiyandham bluepr
 *   **Climate & Mood:** [Are the daily temperatures and light levels conducive to biological health without extreme energy input?]
 *   **Health Score (1-10):** [Score based on availability of medicinal plants and thermal comfort]
 
-## 5. Phase IV & V: Wisdom & Synthesis
-*   **Geological Foundations:** [Are clay, limestone, or iron ores locally available?]
+## 5. Phase IV: Geological Stability (See Module 09)
+*   **Landslide Risk:** [Slope angle above site? Curved trees? Mid-slope springs? Rate: LOW / MEDIUM / HIGH / CRITICAL]
+*   **Seismic Risk:** [Linear valleys? Offset streams? Hot springs? Slickensides? Rate: LOW / MEDIUM / HIGH]
+*   **Karst/Sinkhole Risk:** [Limestone bedrock? Disappearing streams? Dolines? Rate: NONE / LOW / MEDIUM / HIGH]
+*   **Flood Risk:** [Distance from active floodplain? Meander position? Terrace elevation? Rate: LOW / MEDIUM / HIGH]
+*   **Volcanic Proximity:** [Distance to nearest volcanic peak? Lahar valley? Rate: NONE / MONITOR / HIGH]
+
+## 6. Phase V: Climate Envelope (See Module 10)
+*   **Latitude:** [Degrees, measured by Polaris angle or noon shadow ratio]
+*   **Estimated Frost-Free Season:** [Days, based on local vegetation or first-season observation]
+*   **Wet-Bulb Risk:** [Has this region historically experienced sustained high heat + humidity? Rate: LOW / MEDIUM / HIGH]
+*   **Precipitation Estimate:** [Annual mm, or qualitative: arid / semi-arid / moderate / wet]
+*   **Heating Season:** [Months requiring firewood for warmth]
+
+## 7. Phase VI: Soil & Water Quality (See Module 11)
+*   **Soil Depth:** [Average cm across 5 test pits]
+*   **N Indicator:** [Dominant plant community: nettles/chickweed = HIGH, legumes = LOW, moss/bare = VERY LOW]
+*   **P Indicator:** [Root mycorrhizal colonization: clean = ADEQUATE, heavy fungal = LOW]
+*   **K Indicator:** [Ash water test: soapy = ADEQUATE, neutral = LOW]
+*   **Water Clarity:** [Clear / Turbid after rain / Turbid always]
+*   **Water Biology:** [Mayfly-stonefly / Caddisfly / Chironomid / None]
+*   **Water pH:** [Acid fizz / Alkaline fizz / Neutral]
+*   **Contamination Flags:** [Metallic sheen? Dead zones? Sulfur smell? Rusty seepage?]
+*   **Fertility Scorecard Total (0-24):** [Sum from Module 11 scorecard]
+
+## 8. Phase VII: Location Recording (See Module 08)
+*   **Sentinel Landmarks:** [Name 3 geologically permanent features visible from site, with angular separation]
+*   **Approach Route:** [Primary trail/river approach described in narrative form]
+*   **Celestial Latitude:** [Polaris angle or equinox noon shadow ratio]
+
+## 9. Wisdom & Synthesis
+*   **Geological Resources:** [Are clay, limestone, or iron ores locally available?]
 *   **Isolation vs. Network:** [Is it defensibly isolated while still allowing for a 500-mile trade radius?]
 
-## 6. Final Verdict
+## 10. Final Verdict
 *   **Recommendation:** [Proceed / Reject / Monitor]
-*   **Justification:** [Brief summary of why this location fits the Aadhiyandham philosophy]
+*   **Geological Risk Summary:** [Primary geological concern and mitigation plan]
+*   **Climate Risk Summary:** [Which climate threshold is closest to breach?]
+*   **Justification:** [Brief summary of why this location fits or fails the Aadhiyandham philosophy]
 
 ---
 
