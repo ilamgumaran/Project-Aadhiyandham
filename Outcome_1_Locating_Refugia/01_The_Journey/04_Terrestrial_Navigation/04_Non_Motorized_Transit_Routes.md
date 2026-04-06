@@ -43,7 +43,21 @@ If moving heavy gear or families with children:
 扫
 
 ---
-## 4. 4.Practical Implementation Guide for Beginners
+
+
+## Glossary Reference
+
+*See [../../../Glossary.md](../../../Glossary.md) for full definitions of:*
+
+*   **Apprenticeship**
+*   **Burnout**
+*   **Execution**
+*   **Preparation**
+*   **Refugia**
+*   **Review**
+*   **System Failure**
+
+## 4. Practical Implementation Guide for Beginners
 
 ### 4.1. Step-by-Step Action Plan
 *   **Preparation:** Read this module fully before attempting to build or implement. Gather raw materials locally.

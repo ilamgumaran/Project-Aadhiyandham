@@ -38,7 +38,21 @@ Navigation is the bridge between survival and reaching the objective. Modern sys
 扫
 
 ---
-## 2. 2.Practical Implementation Guide for Beginners
+
+
+## Glossary Reference
+
+*See [../../../Glossary.md](../../../Glossary.md) for full definitions of:*
+
+*   **Apprenticeship**
+*   **Burnout**
+*   **Execution**
+*   **Preparation**
+*   **Refugia**
+*   **Review**
+*   **System Failure**
+
+## 2. Practical Implementation Guide for Beginners
 
 ### 2.1. Step-by-Step Action Plan
 *   **Preparation:** Read this module fully before attempting to build or implement. Gather raw materials locally.

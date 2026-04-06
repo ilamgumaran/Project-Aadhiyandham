@@ -29,7 +29,17 @@ Reaching a refugia is only the first step. To transition from "The Journey" to "
 *   **Family Limit:** Follow the **50% Rule** (Module 01.03) when calculating pack weight for groups with children.
 
 ---
-## 4. 4.Practical Implementation Guide for Beginners: The Journey
+
+
+## Glossary Reference
+
+*See [../../Glossary.md](../../Glossary.md) for full definitions of:*
+
+*   **Execution**
+*   **Preparation**
+*   **Refugia**
+
+## 4. Practical Implementation Guide for Beginners: The Journey
 
 ### 4.1. Step-by-Step Action Plan
 *   **Preparation (Months 1-3):** Begin physical conditioning. Walk 5 miles a day with a 20lb backpack. Acquire baseplate compasses and physical topographical maps.

@@ -31,7 +31,15 @@ To cross a river without being swept downstream:
 Navigating a river is an exercise in managing **Reynolds Numbers**. Laminar flow (smooth) is predictable; turbulent flow (chaotic) contains hidden energy that can capsize a vessel. We utilize the "Acoustic Signature" of the river to identify turbulence before it is visible.
 
 ---
-## 4. 4.Practical Implementation Guide for Beginners
+
+
+## Glossary Reference
+
+*See [../../../Glossary.md](../../../Glossary.md) for full definitions of:*
+
+*   **Refugia**
+
+## 4. Practical Implementation Guide for Beginners
 
 ### 4.1. Step-by-Step Action Plan
 *   **Phase 1: Stick Floating:** Throw a stick into the river and watch its path. This reveals the Thalweg and the hidden eddies.

@@ -59,7 +59,7 @@ While a Rocket Stove is for direct boiling, baking requires retained, radiant he
 """
     },
 
-    "Outcome_5_Decadal_Resilience/07_The_Mechanics/08_Ceramic_Synthesis/01_Pottery_and_Ceramics": {
+    "Outcome_5_Decadal_Resilience/09_The_Mechanics/08_Ceramic_Synthesis/01_Pottery_and_Ceramics": {
         "title": "Ceramic Synthesis & Pottery: Vessels of Civilization",
         "parent_name": "07 The Mechanics",
         "md": """# Ceramic Synthesis & Pottery: Vessels of Civilization
@@ -121,7 +121,7 @@ You do not need a massive brick kiln to fire basic earthenware.
 """
     },
 
-    "Outcome_5_Decadal_Resilience/07_The_Mechanics/09_Cordage_and_Rope/01_Advanced_Cordage": {
+    "Outcome_5_Decadal_Resilience/09_The_Mechanics/09_Cordage_and_Rope/01_Advanced_Cordage": {
         "title": "Advanced Cordage and Rope Making: The Ligaments of Infrastructure",
         "parent_name": "07 The Mechanics",
         "md": """# Advanced Cordage and Rope Making: The Ligaments of Infrastructure
@@ -304,7 +304,7 @@ CUSTOM_HTML_BLOCKS = {
             <div class="instruction-step"><strong>Step 5 (Firing):</strong> Feed small dry twigs horizontally. The intense draft will pull the flame sideways and up.</div>
         </div>
 """,
-    "Outcome_5_Decadal_Resilience/07_The_Mechanics/08_Ceramic_Synthesis/01_Pottery_and_Ceramics": """
+    "Outcome_5_Decadal_Resilience/09_The_Mechanics/08_Ceramic_Synthesis/01_Pottery_and_Ceramics": """
         <div class="how-to">
             <h2>3. Forming and Zero-Tech Firing (The Pit Kiln)</h2>
             <p>Unlike brick-making, thin-walled pottery is incredibly fragile and requires precise thermal management.</p>
@@ -359,7 +359,7 @@ CUSTOM_HTML_BLOCKS = {
             <div class="instruction-step"><strong>Step 5 (The Smother):</strong> Once burned down to a massive bed of red-hot coals (1400°F), bury the entire pit in loose dirt to trap the heat for 24 hours.</div>
         </div>
 """,
-    "Outcome_5_Decadal_Resilience/07_The_Mechanics/09_Cordage_and_Rope/01_Advanced_Cordage": """
+    "Outcome_5_Decadal_Resilience/09_The_Mechanics/09_Cordage_and_Rope/01_Advanced_Cordage": """
         <div class="how-to">
             <h2>3. The Reverse Wrap (The Splicing Technique)</h2>
             <p>You cannot simply twist fibers together in one direction; they will immediately untwist when you let go. The "Reverse Wrap" uses opposing tension to lock the fibers in place permanently.</p>

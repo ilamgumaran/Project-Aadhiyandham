@@ -21,7 +21,7 @@ def extract_metadata(filepath):
     return title, summary
 
 def map_to_outcome(filepath):
-    if "Outcome_1_" in filepath or "candidate_locations" in filepath:
+    if "Outcome_1_" in filepath or "Candidate_Atlas" in filepath or "candidate_locations" in filepath:
         return "Outcome 1: Locating and Connecting Optimal Refugia"
     elif "Outcome_2_" in filepath:
         return "Outcome 2: Absolute Biological Sovereignty"
@@ -66,7 +66,7 @@ def generate_plan():
             classification = "Module Theory & Structure"
         elif "Guide" in title or "How-To" in title or "Protocol" in title or "Practical" in title:
             classification = "Action Oriented"
-        elif "candidate_locations" in filepath:
+        elif "Candidate_Atlas" in filepath or "candidate_locations" in filepath:
             classification = "Location Data"
             
         outcomes[outcome_key].append({

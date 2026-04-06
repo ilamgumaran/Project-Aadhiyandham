@@ -20,18 +20,26 @@ jobs:
 
     - name: Run Quality Control Scripts
       run: |
-        # 1. Regenerate Content Plan to ensure it matches MD files
-        python3 scripts/generate_content_plan.py
-        
-        # 2. Inject Navigation Bar globally
-        python3 scripts/inject_nav.py
-        
-        # 3. Clean and inject Glossary Definitions globally
-        python3 scripts/clean_vocabulary.py
-        python3 scripts/add_glossaries.py
-        
-        # 4. Enforce strict hierarchical numbering
+        # 1. Enforce strict hierarchical numbering on module headers
         python3 scripts/renumber_headers.py
+
+        # 2. Clean and deduplicate vocabulary sections
+        python3 scripts/clean_vocabulary.py
+
+        # 3. Inject glossary back-references into modules
+        python3 scripts/add_glossaries.py
+
+        # 4. Regenerate Content Plan to ensure it matches MD files
+        python3 scripts/generate_content_plan.py
+
+        # 5. Regenerate HTML mirrors from markdown sources
+        python3 scripts/generate_new_htmls.py
+
+        # 6. Inject Navigation Bar globally into HTML
+        python3 scripts/inject_nav.py
+
+        # 7. Validate internal HTML links
+        python3 scripts/check_html_links.py
 
     - name: Check for Uncommitted Changes
       run: |

@@ -1,7 +1,7 @@
 import os
 
 MODULES = {
-    "Outcome_2_Biological_Sovereignty/04_The_Body/08_Ecology_of_Death/01_Natural_Burial": {
+    "Outcome_2_Biological_Sovereignty/05_Health_and_the_Body/08_Ecology_of_Death/01_Natural_Burial": {
         "title": "The Ecology of Death: Zero-Impact Mortuary Practices",
         "parent_name": "04 The Body",
         "md": """# The Ecology of Death: Zero-Impact Mortuary Practices
@@ -55,7 +55,7 @@ Cemeteries with stone markers take up valuable land and represent ego-driven per
 *   **Scavenger Disruption:** If a shallow grave is disturbed by animals, the carbon layer was insufficient, allowing decomposition odors to vent. In areas with massive apex predators (grizzly bears), the grave must either be dug slightly deeper (4-5 feet) and covered with a layer of heavy stones directly over the carbon layer before the dirt is filled in.
 """
     },
-    "Outcome_5_Decadal_Resilience/08_The_Society/03_Carrying_Capacity/01_Demographic_Harmony": {
+    "Outcome_5_Decadal_Resilience/10_The_Society/03_Carrying_Capacity/01_Demographic_Harmony": {
         "title": "Carrying Capacity and Contraception: Demographic Harmony",
         "parent_name": "08 The Society",
         "md": """# Carrying Capacity and Contraception: Demographic Harmony
@@ -109,7 +109,7 @@ Once the carrying capacity is defined, the society must manage its birth rate wi
 *   **Toxic Misidentification:** Wild Carrot (Queen Anne's Lace) looks nearly identical to Poison Hemlock. Eating Hemlock will cause rapid respiratory failure and death. The community botanist must teach the defining difference: Queen Anne's Lace has a hairy stem, while Hemlock has a smooth, purple-spotted stem.
 """
     },
-    "Outcome_5_Decadal_Resilience/09_The_Next_Generation/09_Epistemology/01_The_Scientific_Method": {
+    "Outcome_5_Decadal_Resilience/11_The_Next_Generation/09_Epistemology/01_The_Scientific_Method": {
         "title": "Epistemology: The Scientific Method and Preventing Dogma",
         "parent_name": "09 The Next Generation",
         "md": """# Epistemology: The Scientific Method and Preventing Dogma
@@ -155,7 +155,7 @@ The scientific method must be taught practically, not just theoretically.
 *   **Ego Defense:** The hardest part of the Scientific Method is admitting you were wrong. If an elder's proposed crop technique fails the double-blind trial, and the elder becomes angry or defensive, the community must publicly support the data over the elder. If social hierarchy trumps empirical data, the scientific method dies.
 """
     },
-    "Outcome_4_Psychological_Centeredness/05_The_Mind/05_Mental_Illness/01_Compassionate_Care": {
+    "Outcome_4_Psychological_Centeredness/08_The_Mind/05_Mental_Illness/01_Compassionate_Care": {
         "title": "Severe Mental Illness: Compassionate Zero-Tech Care",
         "parent_name": "05 The Mind",
         "md": """# Severe Mental Illness: Compassionate Zero-Tech Care
@@ -208,7 +208,7 @@ If an individual becomes a violent threat to themselves or others during an acut
 *   **Caretaker Burnout:** If a family tries to hide a member's severe mental illness out of shame and attempts to manage it entirely alone, they will suffer a physical and emotional collapse. The community must actively step in, remove the stigma, and distribute the caloric and emotional labor of caretaking.
 """
     },
-    "Outcome_6_Flourishing_Civilization/01_Cultural_Technology/02_The_Architecture_of_Play": {
+    "Outcome_6_Flourishing_Civilization/14_Cultural_Technology/02_The_Architecture_of_Play": {
         "title": "The Architecture of Play: Unstructured Joy",
         "parent_name": "01 Cultural Technology",
         "md": """# The Architecture of Play: Unstructured Joy

@@ -71,6 +71,17 @@ To successfully navigate the physical transition to a refugia, this module is br
 
 ---
 
+
+
+## Glossary Reference
+
+*See [../../Glossary.md](../../Glossary.md) for full definitions of:*
+
+*   **Execution**
+*   **Heirloom Seeds**
+*   **Preparation**
+*   **Refugia**
+
 ## 4. Practical Implementation Guide for Beginners: The Journey
 
 ### 4.1. Step-by-Step Action Plan
