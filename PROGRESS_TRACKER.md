@@ -42,9 +42,9 @@
 - [T] `06_Field_Mineralogy_and_Zero_Tech_Analysis.md`
 - [T] `07_Initial_Site_Layout.md`
 - [T] `08_Location_Recording_Without_GPS.md`
-- [ ] `09_Geological_Stability_Assessment.md`
-- [ ] `10_Climate_Adaptation_Thresholds.md`
-- [ ] `11_Soil_and_Water_Quality_Baselines.md`
+- [T] `09_Geological_Stability_Assessment.md`
+- [T] `10_Climate_Adaptation_Thresholds.md`
+- [T] `11_Soil_and_Water_Quality_Baselines.md`
 
 ---
 
@@ -213,3 +213,4 @@
 | 7 | 2026-04-12 | 01.10.04, 02.01, 02.02 | Salt Spray Management (NaCl aerosol exponential decay, osmotic stress dS/m thresholds, halophyte physiology, three-belt planting guide, soil desalination protocol), Site Rationale (Liebig's Law, IPCC sea level projections, thermal belt physics, site selection scorecard 320-point system, 7-day assessment protocol), Topographical Resilience (angle of repose by soil type, FoS>1.5, flood recurrence probability, Venturi effect, thermal belt mapping, 8-point floodplain checklist) |
 | 8 | 2026-04-12 | 02.03, 02.04, 02.05 | Solar & Thermal Balance (solar altitude formula, overhang sizing table by latitude, thermal mass calculations, circadian biology 2500 lux threshold, vitamin D synthesis, Greek/Roman precedents), Water Sovereignty & Hydrams (Joukowsky equation 28 bar water hammer, D'Aubuisson efficiency, drive pipe energy accumulator, hydram sizing calculator, alternative zero-energy water lifting), Hydrological Analysis (Rational Method Q=CIA, drought probability over 500yr horizon, baseflow vs stormflow, reservoir design guide, rainwater harvesting calculations, water budget worksheet) |
 | 9 | 2026-04-12 | 02.06, 02.07, 02.08 | Field Mineralogy (Mohs hardness scale, soil texture triangle, phosphorus as limiting element, 10-mineral identification table, pH testing 4 methods, jar settle test, clay prospecting, 15-species indicator plants), Initial Site Layout (Mollison zone theory with caloric geometry, sector analysis, Yeomans keyline system, gravity-water axis ASCII diagram, Roman castrum precedent, caloric audit worksheet), Location Recording (information theory ~25 bits, durability hierarchy of media, three-system redundancy, location record document template) |
+| 10 | 2026-04-12 | 02.09, 02.10, 02.11 | Geological Stability (FoS concept, return period probability, 5-threat framework restructured, geological site assessment checklist), Climate Adaptation Thresholds (climate envelope formalization, climate inertia/committed warming, relocation trigger doctrine, 5-year baseline rule), Soil & Water Quality (soil food web biology, CEC concept, earthworm census, phosphorus covenant, restructured N-P-K/water quality tests). **OUTCOME 1 COMPLETE — 30/30 modules at [T] status.** |

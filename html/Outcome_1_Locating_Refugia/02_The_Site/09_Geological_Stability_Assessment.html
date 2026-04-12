@@ -13,25 +13,48 @@
         <p class="alignment">Outcome 1: Locating and Connecting Optimal Refugia</p>
         <dl class="module-meta"><dt>Difficulty</dt><dd><span class="difficulty-badge difficulty-moderate">moderate</span></dd><dt>Time to Build</dt><dd>3-7 days (field survey)</dd><dt>Best Season</dt><dd>dry season preferred (exposed rock faces)</dd><dt>Team Size</dt><dd>2-3</dd><dt>Status</dt><dd>complete</dd></dl>
         <div class="safety-banner safe"><span class="safety-icon">&#10003;</span><div><strong>Safe to Explore.</strong> This module is safe for beginners. Experiment freely — mistakes here are low-cost learning opportunities.</div></div>
-        <div class="color-legend"><span class="legend-theory">Theory</span><span class="legend-outcome">Outcome</span><span class="legend-research">Research</span><span class="legend-practical">Practical Guide</span></div>
-        <div class="toc"><ol><li><span class="dot-theory">&#9679;</span> <a href="#1-why-this-is-important">1. Why This Is Important</a></li><li><span class="dot-outcome">&#9679;</span> <a href="#2-expected-outcome">2. Expected Outcome</a></li><li><a href="#3-threat-1-landslide-and-mass-wasting">3. Threat 1: Landslide and Mass Wasting</a></li><li><a href="#4-threat-2-seismic-activity-earthquakes">4. Threat 2: Seismic Activity (Earthquakes)</a></li><li><a href="#5-threat-3-sinkhole-and-karst-collapse">5. Threat 3: Sinkhole and Karst Collapse</a></li><li><a href="#6-threat-4-flooding-and-river-migration">6. Threat 4: Flooding and River Migration</a></li><li><a href="#7-threat-5-volcanic-proximity">7. Threat 5: Volcanic Proximity</a></li><li><a href="#8-the-100-year-geological-monitoring-protocol">8. The 100-Year Geological Monitoring Protocol</a></li><li><span class="dot-vocab">&#9679;</span> <a href="#9-vocabulary-of-the-foundation">9. Vocabulary of the Foundation</a></li><li><span class="dot-research">&#9679;</span> <a href="#10-scientific-validation-research-context">10. Scientific Validation &amp; Research Context</a></li><li><span class="dot-practical">&#9679;</span> <a href="#11-practical-implementation-guide-for-beginners">11. Practical Implementation Guide for Beginners</a></li></ol></div>
+        <div class="color-legend"><span class="legend-practical">Practical Guide</span></div>
+        <div class="toc"><ol><li><a href="#theoretical-foundation">Theoretical Foundation</a></li><li><a href="#core-principles">Core Principles</a></li><li><span class="dot-practical">&#9679;</span> <a href="#practical-implementation">Practical Implementation</a></li><li><span class="dot-practical">&#9679;</span> <a href="#common-failure-modes">Common Failure Modes</a></li><li><span class="dot-vocab">&#9679;</span> <a href="#vocabulary-of-the-foundation">Vocabulary of the Foundation</a></li><li><a href="#cross-references">Cross-References</a></li><li><a href="#further-study">Further Study</a></li><li><span class="dot-vocab">&#9679;</span> <a href="#glossary-reference">Glossary Reference</a></li></ol></div>
     </header>
 
     <section>
 <p><strong>Alignment:</strong> Outcome 1: Locating and Connecting Optimal Refugia</p>
-<div class="section-theory" id="1-why-this-is-important">
-<h2>1. Why This Is Important</h2>
+<p>> <strong>CAUTION</strong>: Geological field assessment requires traversing potentially unstable terrain. Never approach active landslide scarps, cliff edges, sinkhole rims, or flood-swollen rivers. When probing for karst voids, stand to the side of the probe, not above it.</p>
+<h2 id="theoretical-foundation">Theoretical Foundation</h2>
 <p>The existing site evaluation framework (Section 02) assesses water, sun, soil, and topography — but treats the geology as frozen in time. It is not. Rivers migrate. Hillsides slide. Fault lines fracture. Sinkholes swallow. A site that scores perfectly on every other metric becomes a death trap if the bedrock is unstable, the slope is prone to mass wasting, or the region sits atop an active fault.</p>
-<p>This module provides zero-tech field methods to assess geological stability over a 100-year horizon without seismographs, geological surveys, or printed maps.</p>
+<p>This module provides zero-tech field methods to assess geological stability over a 100-year horizon without seismographs, geological surveys, or printed maps. The expected outcome is a site-specific geological risk profile that either confirms the location is stable or identifies specific hazards that must be mitigated or that disqualify the site entirely.</p>
+<p><strong>The Factor of Safety concept.</strong> Slope stability is governed by the ratio of resisting forces to driving forces, expressed as the Factor of Safety (FoS):</p>
+<pre><code>
+FoS = Resisting Forces / Driving Forces
+
+FoS = 1.0  --&gt;  slope is at the point of failure (forces exactly balanced)
+FoS = 1.5  --&gt;  minimum for permanent structures (50% safety margin)
+FoS &gt; 2.0  --&gt;  generally safe for all construction
+</code></pre>
+<p>FoS can be estimated in the field by observing the slope angle relative to the material's angle of repose (the steepest angle at which loose material remains stable — see Module 02.02). A slope at 80% of the angle of repose has roughly FoS = 1.25 — marginal. A slope at 60% of the angle of repose has roughly FoS = 1.7 — acceptable. Saturation from rainfall reduces FoS dramatically by adding pore-water pressure to the driving forces while reducing friction in the resisting forces.</p>
+<p><strong>Return period probability.</strong> The probability of experiencing at least one event of return period T within n years of occupation:</p>
+<pre><code>
+P = 1 - (1 - 1/T)^n
+
+100-year flood over 500 years:   P = 1 - (1 - 0.01)^500  = 99.3%
+500-year earthquake over 500 yr: P = 1 - (1 - 0.002)^500 = 63.2%
+1000-year eruption over 500 yr:  P = 1 - (1 - 0.001)^500 = 39.4%
+</code></pre>
+<p>This math justifies conservative building codes. An event described as "rare" in a single human lifetime becomes near-certain over the timescale of a permanent settlement. Every geological hazard with a return period shorter than the intended occupation period must be treated as inevitable.</p>
+<p><strong>Scientific validation.</strong> Geomorphological research (Shroder, 1980; Wieczorek & Snyder, 2009) validates that curved tree trunks are among the most reliable field indicators of active soil creep, with lateral displacement rates of 1-10 cm/year correlating with eventual catastrophic slope failure. Varnes (1978) and the USGS Landslide Hazard Program confirm that slopes exceeding 25 degrees in clay-rich materials are classified as "high susceptibility" for rainfall-triggered landslides. Ford & Williams (2007) document that doline density and growth rate are the most accessible predictors of sinkhole hazard, measurable with zero instrumentation. Leopold & Wolman's (1960) foundational work on fluvial geomorphology established that alluvial rivers migrate laterally at rates of 0.1-10m per year, fully consistent with the 3x channel-width buffer recommended in this module.</p>
 <hr>
-</div>
-<div class="section-outcome" id="2-expected-outcome">
-<h2>2. Expected Outcome</h2>
-<p>A site-specific geological risk profile that either confirms the location is stable or identifies specific hazards that must be mitigated or that disqualify the site entirely.</p>
+<h2 id="core-principles">Core Principles</h2>
+<ol>
+<li><strong>The Multiple Threat Survey.</strong> Assess ALL five geological threats for every candidate site — not just the obvious one. A valley floor free of landslide risk may sit on dissolving limestone. A stable ridgeline may be bisected by an active fault. Single-threat assessment is the most common cause of geological catastrophe in settlement siting.</li>
+<li><strong>The Conservative Buffer.</strong> Apply minimum safe distances that account for worst-case, not average-case, events. The 100-year flood is not the largest flood that will occur in 500 years of occupation. The runout zone of a landslide extends farther when the slope is fully saturated than when it is dry. Always design to the extreme case.</li>
+<li><strong>The Indicator Hierarchy.</strong> Field indicators are sufficient for go/no-go decisions — you do not need instruments to identify pistol-butt trees, offset streams, or karst dolines. A single CRITICAL indicator (tension cracks parallel to slope contour, active sinkhole growth, lahar deposits in a valley) is grounds for site rejection regardless of other merits.</li>
+<li><strong>The Annual Monitoring Discipline.</strong> Geological change is slow but cumulative — only continuous monitoring detects it before failure. A slope that creeps 2cm/year shows no visible change in any single observation but has moved a full meter in 50 years. The monitoring protocol must outlive the founders.</li>
+<li><strong>The Acceptable Risk Threshold.</strong> No site is zero-risk; the goal is to identify which risks exist and whether they can be mitigated or must be avoided. A site with moderate karst risk but excellent water and soil may be superior to a geologically stable site with poor water. The assessment produces a risk profile, not a binary pass/fail.</li>
+</ol>
 <hr>
-</div>
-<h2 id="3-threat-1-landslide-and-mass-wasting">3. Threat 1: Landslide and Mass Wasting</h2>
-<h3 id="3-1-what-to-look-for">3.1. What to Look For</h3>
+<div class="section-practical" id="practical-implementation">
+<h2>Practical Implementation</h2>
+<h3 id="phase-1-walk-the-slopes-landslide-and-mass-wasting">Phase 1: Walk the Slopes (Landslide and Mass Wasting)</h3>
 <p>Landslides are the most common geological killer for hillside settlements. They occur when the downward pull of gravity on saturated soil exceeds the shear strength of the slope material.</p>
 <p><strong>Red flags visible without instruments:</strong></p>
 <table><thead><tr>
@@ -75,9 +98,8 @@
 <td>CRITICAL — imminent failure</td>
 </tr>
 </tbody></table>
-<h3 id="3-2-the-slope-angle-test">3.2. The Slope Angle Test</h3>
-<p><strong>The critical threshold: slopes steeper than 25° (approximately 47% grade) in clay-rich soil are at HIGH risk of failure when saturated.</strong></p>
-<p><strong>Measuring slope without instruments:</strong></p>
+<p><strong>The Slope Angle Test.</strong> The critical threshold: slopes steeper than 25 degrees (approximately 47% grade) in clay-rich soil are at HIGH risk of failure when saturated.</p>
+<p>Measuring slope without instruments:</p>
 <ol>
 <li>Stand at the base of the slope. Hold a straight stick (2m) horizontally at waist height.</li>
 <li>Have a partner stand where the stick tip meets the hillside.</li>
@@ -115,24 +137,21 @@ Slope = 0.9/2.0 = 0.45 = 45% ≈ 24°
 <td>High</td>
 </tr>
 </tbody></table>
-<h3 id="3-3-the-water-saturation-test">3.3. The Water Saturation Test</h3>
-<p>After heavy rain, walk the slope 24 hours later:</p>
+<p>If you cannot determine the slope angle accurately, use the conservative rule: if you cannot walk up the slope comfortably without using your hands, it is too steep to build beneath.</p>
+<p><strong>The Water Saturation Test.</strong> After heavy rain, walk the slope 24 hours later:</p>
 <ul>
-<li>  If water is seeping from the ground surface at mid-slope: <strong>subsurface drainage problem.</strong> The slope has a perched water table.</li>
-<li>  If your boot sinks more than 5cm into the soil: <strong>the soil is saturated to the root zone.</strong> On slopes >20°, this is a slide precursor.</li>
-<li>  If you hear a "sucking" sound when you lift your foot: <strong>clay content is high and water-logged.</strong> This is the worst combination for slope stability.</li>
+<li>If water is seeping from the ground surface at mid-slope: <strong>subsurface drainage problem.</strong> The slope has a perched water table.</li>
+<li>If your boot sinks more than 5cm into the soil: <strong>the soil is saturated to the root zone.</strong> On slopes >20 degrees, this is a slide precursor.</li>
+<li>If you hear a "sucking" sound when you lift your foot: <strong>clay content is high and water-logged.</strong> This is the worst combination for slope stability.</li>
 </ul>
-<h3 id="3-4-safe-building-zone">3.4. Safe Building Zone</h3>
-<p><strong>Never build within the runout zone of a potential slide.</strong> The runout distance is approximately:</p>
+<p><strong>Safe Building Zone.</strong> Never build within the runout zone of a potential slide. The runout distance is approximately:</p>
 <ul>
-<li>  <strong>2× the vertical height of the slope above</strong> for shallow translational slides.</li>
-<li>  <strong>3-4× the vertical height</strong> for deep rotational slides (the crescent-scar type).</li>
+<li><strong>2x the vertical height of the slope above</strong> for shallow translational slides.</li>
+<li><strong>3-4x the vertical height</strong> for deep rotational slides (the crescent-scar type).</li>
 </ul>
 <p>If the slope above your candidate site is 50m tall, the minimum safe distance from the base is 100-200m on flat ground.</p>
-<hr>
-<h2 id="4-threat-2-seismic-activity-earthquakes">4. Threat 2: Seismic Activity (Earthquakes)</h2>
-<h3 id="4-1-zero-tech-seismic-assessment">4.1. Zero-Tech Seismic Assessment</h3>
-<p>You cannot predict earthquakes, but you can identify whether a region has active faulting:</p>
+<h3 id="phase-2-test-the-bedrock-seismic-activity">Phase 2: Test the Bedrock (Seismic Activity)</h3>
+<p>You cannot predict earthquakes, but you can identify whether a region has active faulting. Collect rock samples from exposed outcrops. Apply the vinegar test (limestone = karst risk). Look for polished/grooved surfaces (fault activity). Note any volcanic rock types.</p>
 <p><strong>Field indicators of active faulting:</strong></p>
 <table><thead><tr>
 <th>Indicator</th>
@@ -143,7 +162,7 @@ Slope = 0.9/2.0 = 0.45 = 45% ≈ 24°
 <td>Fault-controlled valley; the straight wall is a fault scarp</td>
 </tr>
 <tr>
-<td><strong>Offset streams</strong> (a creek makes a sharp 90° bend for no topographic reason)</td>
+<td><strong>Offset streams</strong> (a creek makes a sharp 90-degree bend for no topographic reason)</td>
 <td>The stream crosses a fault that has displaced the ground laterally</td>
 </tr>
 <tr>
@@ -163,26 +182,17 @@ Slope = 0.9/2.0 = 0.45 = 45% ≈ 24°
 <td>Repeated fault movement has exposed fresh rock faces</td>
 </tr>
 </tbody></table>
-<h3 id="4-2-the-oral-history-check">4.2. The Oral History Check</h3>
-<p>Before selecting a site, ask any local inhabitants (if present) or search for cultural markers:</p>
+<p><strong>The Oral History Check.</strong> Before selecting a site, ask any local inhabitants (if present) or search for cultural markers. Do local place names reference shaking, trembling, or falling? Many indigenous place names encode geological history. Are there ruins with characteristic collapse patterns (walls fallen outward from the base)? Is there oral tradition of "the ground opening" or "the river changing course overnight"?</p>
+<p><strong>Seismic-Resilient Building Rules.</strong> If the region shows ANY indicators of active faulting, ALL structures must follow these rules:</p>
 <ul>
-<li>  Do local place names reference shaking, trembling, or falling? (Many indigenous place names encode geological history.)</li>
-<li>  Are there ruins with characteristic collapse patterns (walls fallen outward from the base)?</li>
-<li>  Is there oral tradition of "the ground opening" or "the river changing course overnight"?</li>
+<li><strong>Single story only.</strong> Multi-story structures amplify ground motion and collapse catastrophically.</li>
+<li><strong>No unreinforced stone walls.</strong> Use timber frame with wattle-and-daub infill (flexes without shattering).</li>
+<li><strong>Anchor to foundation.</strong> Every vertical timber must be pegged or lashed to a heavy sill beam resting on the ground.</li>
+<li><strong>Diagonal bracing.</strong> Every wall must have at least one diagonal timber (a "knee brace") connecting the sill to the wall plate.</li>
+<li><strong>No heavy roof materials.</strong> Thatch or shingle, never stone or tile (which kills occupants when it falls).</li>
+<li><strong>Wide doorways.</strong> Minimum 1m wide to allow rapid egress during shaking.</li>
 </ul>
-<h3 id="4-3-seismic-resilient-building-rules">4.3. Seismic-Resilient Building Rules</h3>
-<p>If the region shows ANY indicators of active faulting, ALL structures must follow these rules:</p>
-<ul>
-<li>  <strong>Single story only.</strong> Multi-story structures amplify ground motion and collapse catastrophically.</li>
-<li>  <strong>No unreinforced stone walls.</strong> Use timber frame with wattle-and-daub infill (flexes without shattering).</li>
-<li>  <strong>Anchor to foundation.</strong> Every vertical timber must be pegged or lashed to a heavy sill beam resting on the ground.</li>
-<li>  <strong>Diagonal bracing.</strong> Every wall must have at least one diagonal timber (a "knee brace") connecting the sill to the wall plate.</li>
-<li>  <strong>No heavy roof materials.</strong> Thatch or shingle, never stone or tile (which kills occupants when it falls).</li>
-<li>  <strong>Wide doorways.</strong> Minimum 1m wide to allow rapid egress during shaking.</li>
-</ul>
-<hr>
-<h2 id="5-threat-3-sinkhole-and-karst-collapse">5. Threat 3: Sinkhole and Karst Collapse</h2>
-<h3 id="5-1-identifying-karst-terrain">5.1. Identifying Karst Terrain</h3>
+<h3 id="phase-3-probe-for-karst-sinkhole-and-karst-collapse">Phase 3: Probe for Karst (Sinkhole and Karst Collapse)</h3>
 <p>Karst landscapes form when soluble bedrock (limestone, dolomite, gypsum) dissolves underground, creating caverns that can collapse suddenly.</p>
 <p><strong>Field indicators:</strong></p>
 <table><thead><tr>
@@ -210,44 +220,36 @@ Slope = 0.9/2.0 = 0.45 = 45% ≈ 24°
 <td>CRITICAL — active collapse zone</td>
 </tr>
 </tbody></table>
-<h3 id="5-2-the-probe-test">5.2. The Probe Test</h3>
-<p>In suspected karst terrain, before building:</p>
+<p><strong>The Probe Test.</strong> In suspected karst terrain, before building:</p>
 <ol>
 <li>Drive a sharpened hardwood stake (2m long) into the ground with a mallet at 3m intervals across the building site.</li>
 <li>If the stake suddenly plunges with no resistance after passing through the surface soil layer, there is a void beneath.</li>
 <li><strong>Do not build over voids.</strong> Move the site at least 30m away and re-test.</li>
 </ol>
-<h3 id="5-3-living-with-karst">5.3. Living With Karst</h3>
-<p>Karst terrain is not automatically disqualifying — it often has excellent groundwater (springs fed by cavern systems), fertile soil (limestone dissolution enriches calcium), and natural defensive features (caves, sinkholes as barriers). But:</p>
+<p><strong>Living With Karst.</strong> Karst terrain is not automatically disqualifying — it often has excellent groundwater (springs fed by cavern systems), fertile soil (limestone dissolution enriches calcium), and natural defensive features (caves, sinkholes as barriers). But:</p>
 <ul>
-<li>  <strong>Never build on or directly adjacent to active dolines.</strong></li>
-<li>  <strong>Route latrines and composting AWAY from sinkholes</strong> — contamination reaches the water table almost instantly in karst (no soil filtration).</li>
-<li>  <strong>Monitor existing dolines annually</strong> — measure diameter and depth. If growing, the dissolution is active and nearby structures must be relocated.</li>
+<li><strong>Never build on or directly adjacent to active dolines.</strong></li>
+<li><strong>Route latrines and composting AWAY from sinkholes</strong> — contamination reaches the water table almost instantly in karst (no soil filtration).</li>
+<li><strong>Monitor existing dolines annually</strong> — measure diameter and depth. If growing, the dissolution is active and nearby structures must be relocated.</li>
 </ul>
-<hr>
-<h2 id="6-threat-4-flooding-and-river-migration">6. Threat 4: Flooding and River Migration</h2>
-<h3 id="6-1-reading-the-floodplain">6.1. Reading the Floodplain</h3>
+<h3 id="phase-4-read-the-river-flooding-and-river-migration">Phase 4: Read the River (Flooding and River Migration)</h3>
 <p>Rivers migrate. A site 200m from a riverbank today may be undercut in 50 years.</p>
 <p><strong>How to identify the flood boundary without maps:</strong></p>
 <ul>
-<li>  <strong>The debris line:</strong> After any major rain event, walk downstream and mark the highest point where flood debris (sticks, leaves, trash) has been deposited. This is the most recent flood extent.</li>
-<li>  <strong>Vegetation change boundary:</strong> The line where upland species (oaks, maples) transition to floodplain species (willows, sycamores, alders) marks the approximate boundary of regular (5-10 year) flooding.</li>
-<li>  <strong>Soil color change:</strong> Dig a 50cm test pit. If the soil transitions from brown/red topsoil to grey or blue-grey clay, you are in the floodplain. Grey clay = regular waterlogging = regular flooding.</li>
-<li>  <strong>Terrace edges:</strong> If the ground rises in a distinct step (1-3m) above the river floodplain, you are on a river terrace — an older, abandoned floodplain. These are generally safe, but verify the terrace is not being undercut at its base.</li>
+<li><strong>The debris line:</strong> After any major rain event, walk downstream and mark the highest point where flood debris (sticks, leaves, trash) has been deposited. This is the most recent flood extent.</li>
+<li><strong>Vegetation change boundary:</strong> The line where upland species (oaks, maples) transition to floodplain species (willows, sycamores, alders) marks the approximate boundary of regular (5-10 year) flooding.</li>
+<li><strong>Soil color change:</strong> Dig a 50cm test pit. If the soil transitions from brown/red topsoil to grey or blue-grey clay, you are in the floodplain. Grey clay = regular waterlogging = regular flooding.</li>
+<li><strong>Terrace edges:</strong> If the ground rises in a distinct step (1-3m) above the river floodplain, you are on a river terrace — an older, abandoned floodplain. These are generally safe, but verify the terrace is not being undercut at its base.</li>
 </ul>
-<h3 id="6-2-the-meander-migration-rule">6.2. The Meander Migration Rule</h3>
-<p>Rivers in alluvial (sandy/silty) valleys migrate laterally. The outer bank of every curve (meander) is being eroded; the inner bank is being deposited.</p>
-<p><strong>Rule of thumb:</strong> Never build within <strong>3× the current river width</strong> of the outer bank of a meander. A river 20m wide can migrate 60m in a single catastrophic flood.</p>
-<p><strong>Safe zones:</strong> The inner (point bar) side of meanders, or — best — elevated terraces above the active floodplain.</p>
-<h3 id="6-3-the-multi-generational-flood-record">6.3. The Multi-Generational Flood Record</h3>
-<p>Begin recording the annual high-water mark on a permanent stone marker at a fixed location near the river:</p>
+<p><strong>The Meander Migration Rule.</strong> Rivers in alluvial (sandy/silty) valleys migrate laterally. The outer bank of every curve (meander) is being eroded; the inner bank is being deposited.</p>
+<p>Rule of thumb: Never build within <strong>3x the current river width</strong> of the outer bank of a meander. A river 20m wide can migrate 60m in a single catastrophic flood.</p>
+<p>Safe zones: The inner (point bar) side of meanders, or — best — elevated terraces above the active floodplain.</p>
+<p><strong>The Multi-Generational Flood Record.</strong> Begin recording the annual high-water mark on a permanent stone marker at a fixed location near the river:</p>
 <pre><code>
 Year [description] — Water reached [X] hand-widths above base mark.
 </code></pre>
 <p>After 10 years, this record reveals the flood cycle. After 50 years, it reveals long-term trends (rising flood levels = climate shift, upstream deforestation, or channel aggradation).</p>
-<hr>
-<h2 id="7-threat-5-volcanic-proximity">7. Threat 5: Volcanic Proximity</h2>
-<h3 id="7-1-identifying-volcanic-terrain">7.1. Identifying Volcanic Terrain</h3>
+<h3 id="phase-5-assess-volcanic-proximity">Phase 5: Assess Volcanic Proximity</h3>
 <p>If the settlement is within 100 km of a volcanic peak, these indicators require assessment:</p>
 <table><thead><tr>
 <th>Indicator</th>
@@ -274,7 +276,7 @@ Year [description] — Water reached [X] hand-widths above base mark.
 <td>CRITICAL — this valley has been scoured by volcanic mudflows</td>
 </tr>
 </tbody></table>
-<h3 id="7-2-minimum-safe-distance">7.2. Minimum Safe Distance</h3>
+<p><strong>Minimum Safe Distance:</strong></p>
 <table><thead><tr>
 <th>Volcanic Hazard</th>
 <th>Minimum Distance</th>
@@ -296,16 +298,15 @@ Year [description] — Water reached [X] hand-widths above base mark.
 <td>100+ km downwind (no practical defense; relocate if sustained)</td>
 </tr>
 </tbody></table>
-<h3 id="7-3-the-practical-rule">7.3. The Practical Rule</h3>
-<p>If you can see a volcanic peak from your settlement, you are close enough to be affected by its eruption. This does not disqualify the site, but it requires:</p>
+<p><strong>The Practical Rule.</strong> If you can see a volcanic peak from your settlement, you are close enough to be affected by its eruption. This does not disqualify the site, but it requires:</p>
 <ul>
-<li>  An evacuation route that moves <strong>perpendicular to valleys radiating from the peak</strong> (never flee down-valley; that is where pyroclastic flows and lahars channel).</li>
-<li>  Stockpiled cloth face coverings for ash protection.</li>
-<li>  Roof pitch >30° to prevent ash accumulation and structural collapse.</li>
+<li>An evacuation route that moves <strong>perpendicular to valleys radiating from the peak</strong> (never flee down-valley; that is where pyroclastic flows and lahars channel).</li>
+<li>Stockpiled cloth face coverings for ash protection.</li>
+<li>Roof pitch >30 degrees to prevent ash accumulation and structural collapse.</li>
 </ul>
-<hr>
-<h2 id="8-the-100-year-geological-monitoring-protocol">8. The 100-Year Geological Monitoring Protocol</h2>
-<p>Geology changes slowly, but it changes. Record the following annually:</p>
+<h3 id="phase-6-establish-baselines-and-monitor">Phase 6: Establish Baselines and Monitor</h3>
+<p>Install slope-monitoring stakes, mark the riverbank edge, measure spring output, and record the first flood-level mark. These are Year 1 baselines for the 100-year monitoring protocol. The geological monitoring protocol must be performed by at least 2 trained observers. Loss of monitoring continuity can allow hazards to develop undetected. All annual measurements must be recorded on durable media (stone or fired clay tablets for critical baselines, hide/paper for annual updates). The 100-year record becomes more valuable over time.</p>
+<p><strong>The 100-Year Geological Monitoring Protocol:</strong></p>
 <table><thead><tr>
 <th>Observation</th>
 <th>Method</th>
@@ -343,49 +344,103 @@ Year [description] — Water reached [X] hand-widths above base mark.
 </tr>
 </tbody></table>
 <p><strong>The 5-Year Review:</strong> Every 5 years, a designated observer walks the entire settlement perimeter and compares current conditions to the baseline record established in year 1. Any significant deviation triggers a community assessment of whether structures need relocation.</p>
+<h3 id="the-geological-site-assessment-checklist">The Geological Site Assessment Checklist</h3>
+<p>A single-page pass/fail summary for every candidate site:</p>
+<table><thead><tr>
+<th>Threat</th>
+<th>Key Indicator</th>
+<th>Pass</th>
+<th>Fail</th>
+<th>Mitigation if Marginal</th>
+</tr></thead><tbody>
+<tr>
+<td>Landslide / Mass Wasting</td>
+<td>Slope angle <25 degrees in clay; no pistol-butt trees or tension cracks</td>
+<td>No active movement indicators; slope within safe angle</td>
+<td>Any CRITICAL indicator (tension cracks, fresh scarps)</td>
+<td>Relocate structures beyond runout zone (2-4x slope height)</td>
+</tr>
+<tr>
+<td>Seismic Activity</td>
+<td>No offset streams, slickensides, or fault-aligned springs</td>
+<td>No field evidence of active faulting</td>
+<td>Multiple fault indicators confirmed</td>
+<td>Build single-story, timber-frame, diagonal-braced structures only</td>
+</tr>
+<tr>
+<td>Sinkhole / Karst</td>
+<td>Bedrock does not fizz with vinegar; no dolines or disappearing streams</td>
+<td>No karst indicators present</td>
+<td>Active subsidence or void detected by probe test</td>
+<td>Avoid dolines by 30m+; route sanitation away from sinkholes</td>
+</tr>
+<tr>
+<td>Flooding / River Migration</td>
+<td>Site above debris line and vegetation boundary; not on outer meander bank</td>
+<td>On terrace or upland, outside floodplain</td>
+<td>Within floodplain or meander runout zone</td>
+<td>Elevate structures; maintain 3x river-width buffer from outer bank</td>
+</tr>
+<tr>
+<td>Volcanic Proximity</td>
+<td>No volcanic rock, ash deposits, or lahar fills in site vicinity</td>
+<td>Beyond minimum safe distances for all hazard types</td>
+<td>Lahar deposits in valley floor; within 30 km of active vent</td>
+<td>Establish perpendicular evacuation route; steep roof pitch for ash</td>
+</tr>
+</tbody></table>
 <hr>
-<div class="section-vocab" id="9-vocabulary-of-the-foundation">
-<h2>9. Vocabulary of the Foundation</h2>
+</div>
+<div class="section-practical" id="common-failure-modes">
+<h2>Common Failure Modes</h2>
+<ol>
+<li><strong>Single-threat assessment.</strong> Checking only for landslides while ignoring karst collapse beneath the site, or assessing only flood risk while building below an unstable slope. The five-threat survey exists because geological hazards co-occur — limestone terrain is prone to both sinkholes and flooding, and volcanic valleys combine lahar risk with seismic activity.</li>
+<li><strong>Dry-season survey bias.</strong> Slopes appear stable in dry season; the same slope fails when saturated in wet season. Springs that indicate subsurface instability may not flow during drought. The water saturation test must be conducted after heavy rainfall, not during the most convenient survey window.</li>
+<li><strong>Building in meander runout zone.</strong> The site looks safe today but is within the river's migration path. A river 20m wide migrating at 2m/year will reach a structure 60m from the bank in 30 years — well within a settlement's lifetime. The 3x channel-width rule accounts for catastrophic single-event migration, not gradual drift.</li>
+<li><strong>Monitoring abandonment.</strong> Geological observation stops after the founder generation; hazards develop undetected over decades. A slope creeping at 2cm/year shows no visible change to the casual observer but has accumulated a meter of displacement in 50 years. The monitoring protocol must be an apprenticed skill, transmitted with the same discipline as food production.</li>
+<li><strong>Volcanic risk dismissal.</strong> "The volcano has not erupted in living memory" — but geological time is not human time. A volcano with a 500-year eruption cycle has a 63% probability of erupting within 500 years of settlement. Lahar deposits in a valley floor are proof that the hazard is real regardless of how long ago the last event occurred.</li>
+</ol>
+<hr>
+</div>
+<div class="section-vocab" id="vocabulary-of-the-foundation">
+<h2>Vocabulary of the Foundation</h2>
 <ul>
-<li>  <strong>Mass Wasting:</strong> The downslope movement of rock, soil, and debris under the influence of gravity. Includes landslides, mudflows, rockfalls, and soil creep.</li>
-<li>  <strong>Karst:</strong> A landscape formed by the dissolution of soluble rocks (limestone, dolomite, gypsum), characterized by sinkholes, caves, and disappearing streams.</li>
-<li>  <strong>Doline:</strong> A closed depression in karst terrain formed by surface dissolution or the collapse of an underground cavity. Commonly called a sinkhole.</li>
-<li>  <strong>Slickensides:</strong> Polished, grooved rock surfaces formed by frictional movement along a geological fault plane. Evidence of past seismic activity.</li>
-<li>  <strong>Lahar:</strong> A destructive mudflow composed of volcanic debris and water that travels down valleys radiating from a volcano, often triggered by snowmelt or heavy rain on ash deposits.</li>
-<li>  <strong>Meander Migration:</strong> The lateral movement of a river channel over time as the outer bank erodes and the inner bank accumulates sediment.</li>
-<li>  <strong>River Terrace:</strong> A flat, elevated surface adjacent to a river, representing a former floodplain that the river has since cut below.</li>
+<li><strong>Mass Wasting:</strong> The downslope movement of rock, soil, and debris under the influence of gravity. Includes landslides, mudflows, rockfalls, and soil creep.</li>
+<li><strong>Karst:</strong> A landscape formed by the dissolution of soluble rocks (limestone, dolomite, gypsum), characterized by sinkholes, caves, and disappearing streams.</li>
+<li><strong>Doline:</strong> A closed depression in karst terrain formed by surface dissolution or the collapse of an underground cavity. Commonly called a sinkhole.</li>
+<li><strong>Slickensides:</strong> Polished, grooved rock surfaces formed by frictional movement along a geological fault plane. Evidence of past seismic activity.</li>
+<li><strong>Lahar:</strong> A destructive mudflow composed of volcanic debris and water that travels down valleys radiating from a volcano, often triggered by snowmelt or heavy rain on ash deposits.</li>
+<li><strong>Meander Migration:</strong> The lateral movement of a river channel over time as the outer bank erodes and the inner bank accumulates sediment.</li>
+<li><strong>River Terrace:</strong> A flat, elevated surface adjacent to a river, representing a former floodplain that the river has since cut below.</li>
+<li><strong>Factor of Safety (FoS):</strong> The ratio of resisting forces to driving forces acting on a slope or structure. FoS = 1.0 is the threshold of failure; FoS = 1.5 is the minimum acceptable margin for permanent construction.</li>
+<li><strong>Return Period:</strong> The average recurrence interval of a geological or hydrological event of a given magnitude. A "100-year flood" has a 1% probability of occurring in any single year.</li>
+<li><strong>Angle of Repose:</strong> The steepest angle at which a pile of unconsolidated material (sand, gravel, soil) remains stable without sliding. Varies by material: dry sand ~34 degrees, wet clay ~15 degrees, angular gravel ~40 degrees.</li>
+<li><strong>Rotational Slide:</strong> A landslide in which the failure surface is curved (concave-up), causing the sliding mass to rotate backward as it moves downslope. Produces crescent-shaped headscarps and hummocky toe deposits.</li>
+<li><strong>Translational Slide:</strong> A landslide in which the failure surface is approximately planar, often along a bedding plane, clay layer, or soil-rock interface. The mass moves downslope without significant rotation.</li>
 </ul>
 <hr>
 </div>
-<div class="section-research" id="10-scientific-validation-research-context">
-<h2>10. Scientific Validation & Research Context</h2>
+<h2 id="cross-references">Cross-References</h2>
 <ul>
-<li>  <strong>Pistol-Butt Trees:</strong> Geomorphological research (Shroder, 1980; Wieczorek & Snyder, 2009) validates that curved tree trunks are among the most reliable field indicators of active soil creep, with lateral displacement rates of 1-10 cm/year correlating with eventual catastrophic slope failure.</li>
-<li>  <strong>25° Critical Slope Angle:</strong> Varnes (1978) and the USGS Landslide Hazard Program confirm that slopes exceeding 25° in clay-rich materials are classified as "high susceptibility" for rainfall-triggered landslides, the threshold at which pore-water pressure routinely exceeds shear strength.</li>
-<li>  <strong>Karst Collapse Indicators:</strong> Ford & Williams (2007, "Karst Hydrogeology and Geomorphology") document that doline density and growth rate are the most accessible predictors of sinkhole hazard, measurable with zero instrumentation.</li>
-<li>  <strong>River Meander Migration Rates:</strong> Leopold & Wolman's (1960) foundational work on fluvial geomorphology established that alluvial rivers migrate laterally at rates of 0.1-10m per year depending on discharge and bank material, fully consistent with the 3× channel-width buffer recommended here.</li>
+<li><a href="02_Topographical_Resilience.html">02_Topographical_Resilience.md</a> — slope stability fundamentals, angle of repose by material type</li>
+<li><a href="05_Hydrological_Analysis_and_Watershed_Math.html">05_Hydrological_Analysis_and_Watershed_Math.md</a> — flood hydrology, return period calculations, watershed delineation</li>
+<li><a href="06_Field_Mineralogy_and_Zero_Tech_Analysis.html">06_Field_Mineralogy_and_Zero_Tech_Analysis.md</a> — rock identification methods for karst and volcanic assessment</li>
+<li><a href="07_Initial_Site_Layout.html">07_Initial_Site_Layout.md</a> — incorporating geological constraints into settlement layout</li>
+<li><a href="../../Outcome_3_Perimeter_Defense/07_Passive_Defense/03_Wildfire_Defensible_Space.html">../../Outcome_3_Perimeter_Defense/07_Passive_Defense/03_Wildfire_Defensible_Space.md</a> — fire risk sector mapping and defensible space</li>
 </ul>
 <hr>
-</div>
-<div class="section-practical" id="11-practical-implementation-guide-for-beginners">
-<h2>11. Practical Implementation Guide for Beginners</h2>
-<h3 id="11-1-step-by-step-action-plan">11.1. Step-by-Step Action Plan</h3>
+<h2 id="further-study">Further Study</h2>
 <ul>
-<li>  <strong>Phase 1: Walk the Slopes.</strong> Before any construction, walk every slope above and below the candidate site. Look for curved trees, scars, springs, and cracks. Measure the steepest slope angle above the site using the stick method.</li>
-<li>  <strong>Phase 2: Test the Bedrock.</strong> Collect rock samples from exposed outcrops. Apply the vinegar test (limestone = karst risk). Look for polished/grooved surfaces (fault activity). Note any volcanic rock types.</li>
-<li>  <strong>Phase 3: Read the River.</strong> If near a watercourse, identify the debris line, vegetation boundary, and soil color transition. Determine whether you are on the floodplain, a terrace, or upland.</li>
-<li>  <strong>Phase 4: Establish Baselines.</strong> Install slope-monitoring stakes, mark the riverbank edge, measure spring output, and record the first flood-level mark. These are Year 1 baselines for the 100-year monitoring protocol.</li>
+<li>Varnes, D.J. "Slope Movement Types and Processes." In <em>Landslides: Analysis and Control</em>, Special Report 176, Transportation Research Board, 1978. The foundational classification of mass wasting types still used in geomorphology.</li>
+<li>Ford, D.C. & Williams, P.W. <em>Karst Hydrogeology and Geomorphology.</em> Wiley, 2007. The definitive reference on karst processes, sinkhole formation, and groundwater behavior in soluble rock terrain.</li>
+<li>Leopold, L.B. & Wolman, M.G. "River Channel Patterns: Braided, Meandering, and Straight." USGS Professional Paper 282-B, 1957. Foundational work on fluvial geomorphology and meander migration rates.</li>
+<li>Bolt, B.A. <em>Earthquakes.</em> 5th ed., W.H. Freeman, 2005. Accessible treatment of seismology, fault mechanics, and earthquake-resistant construction principles.</li>
+<li>USGS Landslide Hazards Program publications. Field identification guides for landslide indicators, slope stability assessment methods, and hazard mapping protocols.</li>
 </ul>
-<h3 id="11-2-troubleshooting-failure-modes">11.2. Troubleshooting & Failure Modes</h3>
-<ul>
-<li>  <strong>All candidate sites have geological risks:</strong> This is expected. The goal is not to find a zero-risk site (none exist), but to identify WHICH risks are present and whether they can be mitigated. A site with moderate karst risk but excellent water and soil may be superior to a geologically stable site with poor water.</li>
-<li>  <strong>Cannot determine slope angle accurately:</strong> Use the conservative rule: if you cannot walk up the slope comfortably without using your hands, it is too steep to build beneath.</li>
-</ul>
-<h3 id="11-3-community-decadal-flourishing">11.3. Community & Decadal Flourishing</h3>
-<ul>
-<li>  <strong>Apprenticeship:</strong> The geological monitoring protocol must be performed by at least 2 trained observers. Loss of monitoring continuity can allow hazards to develop undetected.</li>
-<li>  <strong>Archive:</strong> All annual measurements must be recorded on durable media (stone or fired clay tablets for critical baselines, hide/paper for annual updates). The 100-year record becomes more valuable over time.</li>
-</ul>
+<hr>
+<div class="section-vocab" id="glossary-reference">
+<h2>Glossary Reference</h2>
+<p>See <strong>Outcome 1 Master Glossary</strong> for standardized definitions of all geological and site assessment terminology used across this section.</p>
 </div>
     </section>
 

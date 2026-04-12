@@ -26,23 +26,43 @@ materials:
 status:         complete
 -->
 
-## 1. Why This Is Important
+> **CAUTION**: When digging soil test pits deeper than 1 meter, shore the sides to prevent collapse. Do not taste-test water that shows red flags (metallic sheen, sulfurous smell, absence of aquatic life) — use visual and biological indicators only.
+
+---
+
+## Theoretical Foundation
 
 Module 06 (Field Mineralogy) identifies WHETHER clay, limestone, and mineral resources exist. But it does not answer the questions that determine long-term settlement viability: Is the soil fertile ENOUGH to feed 50 people indefinitely? Is the water safe to drink WITHOUT a slow sand filter? What nutrients will be depleted first, and in how many years?
 
 Without these baselines, a community may build an entire settlement on soil that exhausts its phosphorus in 5 years, or drink water that slowly accumulates toxic minerals. This module provides zero-tech methods to establish the quantitative baselines that all food and water modules depend on.
 
+**The soil food web.** Soil fertility is not just chemistry — it is biology. A teaspoon of healthy soil contains 1 billion bacteria, 10,000 protozoa, 10-50 meters of fungal hyphae, and thousands of nematodes. These organisms cycle nutrients from organic matter into plant-available forms. Without this biological community, even chemically rich soil is infertile. Indicators of a healthy soil food web: earthworms present (>5 per shovelful), soil smells "earthy" (actinomycete bacteria), crumbly aggregated structure (not compacted or powdery).
+
+**The cation exchange capacity (CEC) concept simplified.** Clay and organic matter particles carry negative surface charges that hold positively charged nutrients (K+, Ca2+, Mg2+, NH4+) like magnets. Sandy soil has low CEC (nutrients wash away); clay-rich soil has high CEC (nutrients retained). This is why clay content (from the ribbon/jar test in Module 06) directly predicts fertility retention. Adding biochar increases CEC dramatically (the principle behind Terra Preta).
+
+**Scientific validation.** Peoples et al. (2009, *Symbiosis*) compiled data showing legume cover crops fix 50-200 kg N/ha/year depending on species and climate, confirming the feasibility of indefinite nitrogen cycling without synthetic inputs. Cordell et al. (2009, *Global Environmental Change*) identified phosphorus as the nutrient most likely to limit food production in the absence of mined phosphate rock, with global reserves declining. The humanure cycle is the only closed-loop P recovery method that scales to community level without industrial chemistry. Rosenberg & Resh (1993, *Freshwater Biomonitoring and Benthic Macroinvertebrates*) established that macroinvertebrate community composition correlates with water quality at >90% accuracy compared to chemical analysis, making it the gold standard for zero-tech water assessment. Ellenberg's indicator values (1979, revised 2001) provide the empirical basis for using nettle (*Urtica dioica*) as a nitrogen indicator, with strong presence correlating to soil N > 200 mg/kg.
+
 ---
 
-## 2. Expected Outcome
+## Core Principles
 
-A site-specific soil fertility profile and water quality baseline that: (a) confirms whether the land can sustain the target population, (b) identifies the first nutrient to deplete, and (c) establishes a monitoring protocol that detects degradation 3-5 years before crop failure.
+1. **The Phosphorus Covenant.** ALL organic waste must return to the soil — breaking the phosphorus cycle is the single fastest path to agricultural collapse. Any community that dumps waste or allows nutrient outflow will deplete its phosphorus within a generation. This is not a preference — it is a biological law.
+
+2. **The Baseline Before Building.** Complete soil and water assessment before any permanent construction — you cannot relocate a settlement built on infertile soil.
+
+3. **The Biological Indicator Priority.** Soil biology and aquatic macroinvertebrates are more reliable than chemical tests — they integrate conditions over time, not just the moment of sampling.
+
+4. **The Nutrient Depletion Clock.** Know which nutrient will deplete first and when — plan amendment strategies before depletion, not after crop failure.
+
+5. **The Annual Record Imperative.** Test soil and water annually at the same time and place — trends are only visible with consistent long-term data.
 
 ---
 
-## 3. Soil Fertility Assessment
+## Practical Implementation
 
-### 3.1. The Three Nutrients That Matter
+### Soil Fertility Assessment
+
+#### The Three Nutrients That Matter
 
 All plant growth depends on three macronutrients. Everything else (trace minerals, micronutrients) matters, but these three determine whether crops grow at all:
 
@@ -52,7 +72,7 @@ All plant growth depends on three macronutrients. Everything else (trace mineral
 | **Phosphorus** | P | Root growth, flowering, seed set | Purple/reddish leaves, stunted growth, poor fruit | 5-15 years (slowest to deplete, hardest to replace) |
 | **Potassium** | K | Disease resistance, water regulation | Brown leaf edges ("scorch"), weak stems | 3-7 years |
 
-### 3.2. Zero-Tech N-P-K Assessment
+#### Zero-Tech N-P-K Assessment
 
 You cannot measure parts-per-million without a lab. But you CAN assess relative abundance using plant indicators and simple tests.
 
@@ -78,7 +98,7 @@ You cannot measure parts-per-million without a lab. But you CAN assess relative 
 4.  **If the water turns slippery/soapy feeling:** The ash is high in potassium (forms potash/lye in water). The soil that grew these plants has adequate K.
 5.  **If the water feels neutral (like plain water):** K may be low. The plants did not accumulate much potassium because it was scarce in the soil.
 
-### 3.3. Soil Depth Assessment
+#### Soil Depth Assessment
 
 Crops require a minimum soil depth to anchor roots and access nutrients and water.
 
@@ -92,7 +112,7 @@ Crops require a minimum soil depth to anchor roots and access nutrients and wate
 
 **The Dig Test:** At 5 random points across the candidate growing area, dig a test pit with a stick or shovel until you hit rock, hard clay, or gravel that roots cannot penetrate. Record the depth. If the average is less than 30 cm, the site requires either: (a) raised bed construction with imported soil, or (b) selection of shallow-rooted crop varieties only.
 
-### 3.4. Soil Contamination Screening
+#### Soil Contamination Screening
 
 **Prior land use matters.** If the site was previously used for industry, mining, or intensive agriculture:
 
@@ -103,7 +123,7 @@ Crops require a minimum soil depth to anchor roots and access nutrients and wate
 | **Sulfurous smell when digging** | Acid sulfate soils (common in former swamplands near coast) | Exposure to air acidifies these soils dramatically. Do not disturb. |
 | **Rusty-orange water seeping from the ground** | Iron oxide leaching, possibly from acid mine drainage | Water is toxic to most crops. Redirect away from growing areas. Do not use for drinking without extensive filtration. |
 
-### 3.5. The Nutrient Depletion Clock
+#### The Nutrient Depletion Clock
 
 For a population of 50 people on 25 acres of growing land (0.5 acres/person):
 
@@ -119,11 +139,22 @@ For a population of 50 people on 25 acres of growing land (0.5 acres/person):
 *   **Bird guano:** If seabird or bat colonies exist nearby, their accumulated droppings are concentrated P.
 *   **Rock phosphate:** Some geological formations contain phosphate-rich rock. Crush and apply directly. Identified via the vinegar test: rock phosphate often (not always) fizzes weakly due to carbonate inclusions.
 
----
+#### The Earthworm Census
 
-## 4. Water Quality Assessment
+A quick field test for overall soil health. Dig a 30cm x 30cm x 30cm block of soil. Count earthworms.
 
-### 4.1. The Five Water Quality Parameters
+| Count | Rating | Interpretation |
+|:---|:---|:---|
+| >10 | Excellent | Healthy soil biology; nutrient cycling is active |
+| 5-10 | Adequate | Soil biology functional but could benefit from mulching and compost |
+| <5 | Poor | May need composting/mulching to rebuild biological community |
+| 0 (in moist soil) | Suspect | Possible contamination — investigate with other screening tests |
+
+Perform the earthworm census at the same time as the dig test (soil depth assessment). Count in each of the 5 test pits for a site-wide picture.
+
+### Water Quality Assessment
+
+#### The Five Water Quality Parameters
 
 | Parameter | Acceptable Range | How to Test (Zero-Tech) | Risk if Exceeded |
 |:---|:---|:---|:---|
@@ -133,7 +164,7 @@ For a population of 50 people on 25 acres of growing land (0.5 acres/person):
 | **Taste** (after boiling) | No metallic, salty, or bitter flavor | Sip a small amount of boiled water | Metallic = dissolved metals. Salty = mineral springs. Bitter = alkaline minerals. |
 | **pH** | 6.5 - 8.5 | See vinegar/baking soda test below | <6.0 = corrosive to teeth, leaches metals from soil. >9.0 = caustic, kills soil biology. |
 
-### 4.2. The Vinegar-Soda pH Test
+#### The Vinegar-Soda pH Test
 
 **You need:** White vinegar (or any acid) and baking soda (sodium bicarbonate, if available). If baking soda is unavailable, use wood ash (alkaline).
 
@@ -148,7 +179,7 @@ For a population of 50 people on 25 acres of growing land (0.5 acres/person):
 
 **If neither fizzes:** The water is near neutral (pH 6.5-7.5). This is the safe zone for drinking and irrigation.
 
-### 4.3. The Biological Water Quality Indicator
+#### The Biological Water Quality Indicator
 
 The most reliable zero-tech water quality test is the biology living in it:
 
@@ -160,7 +191,7 @@ The most reliable zero-tech water quality test is the biology living in it:
 | **Tubifex worms** (red, hair-thin worms waving from mud) | Very low oxygen, heavy organic pollution | VERY POOR — investigate upstream contamination source |
 | **No visible aquatic life** | Either extreme pollution or extreme mineral content | DANGEROUS — do not use without extensive testing |
 
-### 4.4. Seasonal Water Quality Variation
+#### Seasonal Water Quality Variation
 
 Water quality is NOT constant through the year:
 
@@ -168,7 +199,7 @@ Water quality is NOT constant through the year:
 *   **Late summer/dry season:** Concentrated mineral content as volume drops. Taste may become metallic or bitter. If unpalatable, this water may exceed safe mineral thresholds — switch to rainwater or spring water.
 *   **Spring snowmelt:** Often the cleanest water of the year (filtered through snowpack), but can carry high turbidity if melting rapidly over exposed soil. Collect from springs rather than surface runoff.
 
-### 4.5. The Annual Water Quality Record
+#### The Annual Water Quality Record
 
 At the same date each month, at the same collection point:
 
@@ -181,11 +212,9 @@ At the same date each month, at the same collection point:
 
 After 2 years, you have a seasonal pattern. After 5 years, you can detect trends. A worsening trend (declining clarity, increasing metallic taste, loss of mayfly nymphs) indicates upstream contamination or aquifer degradation.
 
----
+### Integrating Soil and Water into Site Selection
 
-## 5. Integrating Soil and Water into Site Selection
-
-### 5.1. The Site Fertility Scorecard
+#### The Site Fertility Scorecard
 
 | Parameter | Score 3 (Excellent) | Score 2 (Adequate) | Score 1 (Marginal) | Score 0 (Disqualifying) |
 |:---|:---|:---|:---|:---|
@@ -204,39 +233,77 @@ After 2 years, you have a seasonal pattern. After 5 years, you can detect trends
 *   **6-11:** Marginal. Significant infrastructure required. Consider only if no better alternative within reach.
 *   **0-5:** Do not settle. The land or water cannot support a community without inputs that will not exist post-collapse.
 
+### Action Plan and Protocols
+
+**Week 1: Soil Survey.** Walk the candidate growing area. Dig 5 test pits (depth check + earthworm census). Observe wild plant communities (N indicator). Dig up 3 wild plants and examine roots (P indicator). Burn dried vegetation and test ash (K indicator). Record everything.
+
+**Week 2: Water Survey.** Collect water samples from every potential source (springs, streams, ponds, wells). Perform the clarity, color, odor, taste, and pH tests on each. Flip rocks in flowing water and identify aquatic organisms. Record everything.
+
+**Week 3: Contamination Screening.** Walk the entire watershed upstream of your water source. Look for metallic sheens, dead zones, sulfurous smells, abandoned industrial sites, or old mining operations. If found, the water source may be permanently compromised — switch to an alternative.
+
+**First Growing Season: Calibration.** Plant a small test plot of 3-4 staple crops without any soil amendment. Record germination rates, plant color (yellowing = N deficiency, purpling = P deficiency, edge scorch = K deficiency), and final yield. This is your unmodified baseline. All future Terra Preta and composting improvements are measured against it.
+
+### Troubleshooting
+
+*   **All soil indicators show deficiency:** This is common on heavily leached or sandy soils. It does not disqualify the site if water is good. Plan for 2-3 years of intensive composting and biochar amendment before expecting reliable staple crop yields. In the interim, prioritize wild foraging and high-resilience crops (amaranth, sunchoke).
+*   **Water tastes metallic but biology is healthy:** Dissolved iron is the most common cause. Iron-rich water stains everything orange but is not toxic in moderate concentrations. Aerate the water (pour it back and forth between vessels) to oxidize and precipitate the iron, then filter through cloth.
+
+### Community Monitoring and Apprenticeship
+
+Soil and water monitoring is the foundation of food security. At least 2 community members must be able to perform all tests and interpret the results. Cross-train annually. Assign one person as the permanent record-keeper for annual water quality and soil assessment data — continuity of records across years is what transforms raw data into actionable trends.
+
 ---
 
-## 6. Vocabulary of the Foundation
+## Common Failure Modes
+
+1. **Phosphorus depletion blindside.** Crops grow well for 5-10 years then suddenly decline — P was being mined from the soil without replacement. By the time deficiency symptoms appear in plants (purple leaves, poor fruit set), the soil P reserve is nearly exhausted. Prevention: close the phosphorus loop from year one (humanure, bone meal, ash return).
+
+2. **Water source contamination from settlement activities.** Latrines, animal pens, or composting placed upslope of the water intake — this violates the gravity-water axis principle from Module 07. Pathogens and nutrients flow downhill. Prevention: all waste processing must be downslope and at least 30 meters from any water source.
+
+3. **Testing only in optimal season.** Spring soil tests show high N from winter decomposition; late summer tests reveal the true fertility floor. A site that looks rich in April may show deficiency by August. Prevention: test at both the seasonal high (spring) and the seasonal low (late summer) before committing to a site.
+
+4. **Ignoring biological water indicators.** Water looks clear but has no mayfly nymphs — invisible chemical contamination that clarity and odor tests cannot detect. The absence of sensitive aquatic life in otherwise suitable habitat is a red flag that demands investigation. Prevention: always check under rocks in flowing water; absence of life is a finding, not a non-result.
+
+5. **Single test pit extrapolation.** Testing one spot and assuming the whole growing area matches — soil can vary dramatically over short distances due to underlying geology, drainage patterns, and prior land use. Prevention: test at least 5 points spread across the candidate area and record each independently.
+
+---
+
+## Vocabulary of the Foundation
 
 *   **Mycorrhizal Fungi:** Symbiotic fungi that extend plant root systems, trading mineral nutrients (especially phosphorus) scavenged from rock particles in exchange for plant sugars. Heavy mycorrhizal dependence indicates low soil phosphorus.
 *   **Potash:** Potassium carbonate (K2CO3) derived from wood ash. A primary source of potassium for soil fertility and a precursor for soap making (lye).
 *   **Acid Sulfate Soil:** Soil containing iron sulfides that, when exposed to air, produce sulfuric acid. Common in former coastal wetlands. Extremely hostile to plant growth.
 *   **Aquatic Macroinvertebrate:** Visible (non-microscopic) animals without backbones that live in water — including insect larvae, worms, and crustaceans. Their species composition reliably indicates water quality without chemical testing.
-*   **Rock Phosphate:** Sedimentary or ignite rock containing high concentrations of the mineral apatite, the primary geological source of phosphorus. Can be applied directly to acidic soils (slow release) or processed with sulfuric acid to make superphosphate (if chemistry infrastructure exists).
+*   **Rock Phosphate:** Sedimentary or igneous rock containing high concentrations of the mineral apatite, the primary geological source of phosphorus. Can be applied directly to acidic soils (slow release) or processed with sulfuric acid to make superphosphate (if chemistry infrastructure exists).
+*   **Cation Exchange Capacity (CEC):** The ability of soil to hold positively charged nutrient ions on the surfaces of clay and organic matter particles. High CEC means the soil retains nutrients; low CEC means nutrients leach away with rainwater. Measured in milliequivalents per 100 grams (meq/100g). Sandy soil: 1-5 meq/100g. Clay soil: 20-50 meq/100g. Biochar-amended soil: 40-80 meq/100g.
+*   **Soil Food Web:** The community of organisms living in the soil — bacteria, fungi, protozoa, nematodes, arthropods, and earthworms — that decompose organic matter and cycle nutrients into plant-available forms. A dead soil food web means dead crops regardless of chemical nutrient content.
+*   **Earthworm Census:** A standardized field test in which earthworms are counted in a 30cm x 30cm x 30cm soil block as an indicator of overall soil biological health.
+*   **Bioavailability:** The fraction of a nutrient present in soil that is actually in a chemical form plants can absorb. Total nutrient content and bioavailable nutrient content are not the same — phosphorus bound to iron oxides, for example, is present but inaccessible to roots.
+*   **Nutrient Cycling:** The movement of nutrients (N, P, K, and others) from soil into plants, from plants into animals or humans, and from waste back into soil. A closed cycle loses nothing. An open cycle (waste dumped, crops exported) depletes the system.
+*   **Indicator Organism:** A species whose presence, absence, or abundance reliably signals a specific environmental condition. Mayfly nymphs indicate clean water; nettles indicate high nitrogen; earthworms indicate healthy soil biology.
 
 ---
 
-## 7. Scientific Validation & Research Context
+## Cross-References
 
-*   **Nitrogen Fixation Rates:** Peoples et al. (2009, Symbiosis) compiled data showing legume cover crops fix 50-200 kg N/ha/year depending on species and climate, confirming the feasibility of indefinite nitrogen cycling without synthetic inputs.
-*   **Phosphorus as the Limiting Nutrient:** Cordell et al. (2009, Global Environmental Change) identified phosphorus as the nutrient most likely to limit food production in the absence of mined phosphate rock, with global reserves declining. The humanure cycle is the only closed-loop P recovery method that scales to community level without industrial chemistry.
-*   **Aquatic Bioindicator Reliability:** Rosenberg & Resh (1993, "Freshwater Biomonitoring and Benthic Macroinvertebrates") established that macroinvertebrate community composition correlates with water quality at >90% accuracy compared to chemical analysis, making it the gold standard for zero-tech water assessment.
-*   **Plant Indicator Species for N:** Ellenberg's indicator values (1979, revised 2001) provide the empirical basis for using nettle (Urtica dioica) as a nitrogen indicator, with strong presence correlating to soil N > 200 mg/kg.
+*   [06 Field Mineralogy and Zero-Tech Analysis](06_Field_Mineralogy_and_Zero_Tech_Analysis.md) — mineral identification underlying soil chemistry; ribbon/jar test for clay content predicts CEC and nutrient retention
+*   [05 Hydrological Analysis and Watershed Math](05_Hydrological_Analysis_and_Watershed_Math.md) — water quantity assessment (this module covers water quality)
+*   [07 Initial Site Layout](07_Initial_Site_Layout.md) — integrating soil and water baseline data into zone placement and the gravity-water axis
+*   [Terra Preta and Biochar](../../Outcome_2_Biological_Sovereignty/04_Food_and_Soil_Sovereignty/02_Terra_Preta_and_Biochar.md) — soil amendment techniques to increase CEC, rebuild soil biology, and address nutrient depletion
+*   [Bio-Sand Filtration](../../Outcome_2_Biological_Sovereignty/03_Water_and_Sanitation/02_Bio_Sand_Filtration.md) — water treatment methods when biological indicators show poor or very poor quality
 
 ---
 
-## 8. Practical Implementation Guide for Beginners
+## Further Study
 
-### 8.1. Step-by-Step Action Plan
-*   **Week 1: Soil Survey.** Walk the candidate growing area. Dig 5 test pits (depth check). Observe wild plant communities (N indicator). Dig up 3 wild plants and examine roots (P indicator). Burn dried vegetation and test ash (K indicator). Record everything.
-*   **Week 2: Water Survey.** Collect water samples from every potential source (springs, streams, ponds, wells). Perform the clarity, color, odor, taste, and pH tests on each. Flip rocks in flowing water and identify aquatic organisms. Record everything.
-*   **Week 3: Contamination Screening.** Walk the entire watershed upstream of your water source. Look for metallic sheens, dead zones, sulfurous smells, abandoned industrial sites, or old mining operations. If found, the water source may be permanently compromised — switch to an alternative.
-*   **First Growing Season: Calibration.** Plant a small test plot of 3-4 staple crops without any soil amendment. Record germination rates, plant color (yellowing = N deficiency, purpling = P deficiency, edge scorch = K deficiency), and final yield. This is your unmodified baseline. All future Terra Preta and composting improvements are measured against it.
+*   Brady, N.C. & Weil, R.R. *The Nature and Properties of Soils* (15th edition, 2017). The standard university soil science textbook. Comprehensive treatment of soil chemistry, biology, and physics relevant to fertility assessment.
+*   Lowenfels, J. & Lewis, W. *Teaming with Microbes: The Organic Gardener's Guide to the Soil Food Web* (revised edition, 2010). Accessible introduction to soil biology — bacteria, fungi, protozoa, nematodes — and how they cycle nutrients. Practical guidance for building soil food web health through composting and mulching.
+*   Rosenberg, D.M. & Resh, V.H. *Freshwater Biomonitoring and Benthic Macroinvertebrates* (1993). The foundational text on using aquatic invertebrates as water quality indicators. Establishes the >90% correlation between macroinvertebrate community composition and chemical water quality metrics.
+*   Cordell, D., Drangert, J.-O. & White, S. "The story of phosphorus: Global food security and food for thought." *Global Environmental Change* 19(2): 292-305 (2009). Documents the phosphorus crisis — declining global reserves and the critical importance of phosphorus recycling for long-term food security.
+*   Lehmann, J. & Joseph, S. *Biochar for Environmental Management: Science and Technology* (2009). Technical reference on biochar production, properties, and soil amendment effects including CEC enhancement, the mechanism behind Terra Preta soils.
 
-### 8.2. Troubleshooting & Failure Modes
-*   **All soil indicators show deficiency:** This is common on heavily leached or sandy soils. It does not disqualify the site if water is good. Plan for 2-3 years of intensive composting and biochar amendment before expecting reliable staple crop yields. In the interim, prioritize wild foraging and high-resilience crops (amaranth, sunchoke).
-*   **Water tastes metallic but biology is healthy:** Dissolved iron is the most common cause. Iron-rich water stains everything orange but is not toxic in moderate concentrations. Aerate the water (pour it back and forth between vessels) to oxidize and precipitate the iron, then filter through cloth.
+---
 
-### 8.3. Community & Decadal Flourishing
-*   **Apprenticeship:** Soil and water monitoring is the foundation of food security. At least 2 community members must be able to perform all tests and interpret the results. Cross-train annually.
-*   **The Phosphorus Covenant:** The single most important long-term fertility practice is returning ALL organic waste (humanure, bone meal, food scraps, ash) to the soil. Any community that breaks this cycle by dumping waste or allowing nutrient outflow will deplete its phosphorus within a generation. This is not a preference — it is a biological law.
+## Glossary Reference
+
+See **Outcome 1 Master Glossary** for standardized definitions of all terms used across Section 02 modules.
