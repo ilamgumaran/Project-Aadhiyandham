@@ -16,9 +16,9 @@
 - [T] `01_Rationale_and_Importance.md`
 - [T] `02_Orienting_and_Positioning.md`
 - [T] `03_Direction_and_Orientation_Basics.md`
-- [ ] `04_Terrestrial_Navigation/01_Rationale_and_Importance.md`
-- [ ] `04_Terrestrial_Navigation/02_Map_and_Compass_Guide.md`
-- [ ] `04_Terrestrial_Navigation/03_Celestial_Navigation_Sun.md`
+- [T] `04_Terrestrial_Navigation/01_Rationale_and_Importance.md`
+- [T] `04_Terrestrial_Navigation/02_Map_and_Compass_Guide.md`
+- [T] `04_Terrestrial_Navigation/03_Celestial_Navigation_Sun.md`
 - [ ] `04_Terrestrial_Navigation/04_Non_Motorized_Transit_Routes.md`
 - [ ] `04_Terrestrial_Navigation/05_Geometric_Trail_Engineering.md`
 - [ ] `05_Networking_and_Trade/01_Decentralized_Networking_and_Trade.md`
@@ -205,3 +205,4 @@
 | Session | Date | Modules Enhanced | Notes |
 |---------|------|-----------------|-------|
 | 1 | 2026-04-12 | 01.01, 01.02, 01.03 | Outcome 1 / The Journey: Rationale (logistics physics, Margaria's equation, historical migrations), Orienting (neuroscience of place cells, triangulation math), Direction (axial tilt, shadow-stick, stellar navigation) |
+| 2 | 2026-04-12 | 01.04.01, 01.04.02, 01.04.03 | Terrestrial Navigation: Rationale (GPS fragility, historical surveys, navigation geometry), Map & Compass (geodynamo, declination tables, resection/aiming-off procedures), Celestial Sun (shadow-stick/equal-shadow/watch methods, Polaris/Southern Cross, solar declination cycle) |
