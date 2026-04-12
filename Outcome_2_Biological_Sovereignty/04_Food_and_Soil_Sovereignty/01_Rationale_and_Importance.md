@@ -37,6 +37,7 @@ To ensure the calorie "floor" and long-term fertility of the settlement, this su
 *   **[05. Thermal Mass Cooking](05_Thermal_Mass_Cooking.md):** Insulated rocket ovens that cook with 80% less wood than a campfire.
 *   **[06. Emergency Nutrition](06_Emergency_Nutrition.md):** High-calorie "Bridge Rations" for the first 30 days of arrival.
 *   **[07. Pyrolysis Engineering](07_Pyrolysis_Engineering_and_TLUD_Gasifiers.md):** Advanced technical study on building TLUD gasifiers for clean biochar production and wood vinegar capture.
+*   **[08. Refugia Pantry Physics](08_Refugia_Pantry_Physics.md):** Mathematical calculations for caloric density, storage volumetrics, and the physics of earth-cooled root cellars.
 
 ---
 
