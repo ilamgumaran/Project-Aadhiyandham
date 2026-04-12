@@ -19,9 +19,9 @@
 - [T] `04_Terrestrial_Navigation/01_Rationale_and_Importance.md`
 - [T] `04_Terrestrial_Navigation/02_Map_and_Compass_Guide.md`
 - [T] `04_Terrestrial_Navigation/03_Celestial_Navigation_Sun.md`
-- [ ] `04_Terrestrial_Navigation/04_Non_Motorized_Transit_Routes.md`
-- [ ] `04_Terrestrial_Navigation/05_Geometric_Trail_Engineering.md`
-- [ ] `05_Networking_and_Trade/01_Decentralized_Networking_and_Trade.md`
+- [T] `04_Terrestrial_Navigation/04_Non_Motorized_Transit_Routes.md`
+- [T] `04_Terrestrial_Navigation/05_Geometric_Trail_Engineering.md`
+- [T] `05_Networking_and_Trade/01_Decentralized_Networking_and_Trade.md`
 - [ ] `05_Networking_and_Trade/02_Zero_Power_Communication_Protocols.md`
 - [ ] `06_Transit_Guide_from_Georgia_USA.md`
 - [ ] `07_Emergency_Family_Transit_Protocol.md`
@@ -206,3 +206,4 @@
 |---------|------|-----------------|-------|
 | 1 | 2026-04-12 | 01.01, 01.02, 01.03 | Outcome 1 / The Journey: Rationale (logistics physics, Margaria's equation, historical migrations), Orienting (neuroscience of place cells, triangulation math), Direction (axial tilt, shadow-stick, stellar navigation) |
 | 2 | 2026-04-12 | 01.04.01, 01.04.02, 01.04.03 | Terrestrial Navigation: Rationale (GPS fragility, historical surveys, navigation geometry), Map & Compass (geodynamo, declination tables, resection/aiming-off procedures), Celestial Sun (shadow-stick/equal-shadow/watch methods, Polaris/Southern Cross, solar declination cycle) |
+| 3 | 2026-04-12 | 01.04.04, 01.04.05, 01.05.01 | Non-Motorized Transit (rail-trail network, pack animal logistics, route planning), Geometric Trail Engineering (Manning equation, bench cut, half-rule, switchback geometry), Networking & Trade (MVP genetics, waystation system, heliograph communication, Roman/Silk Road precedents) |
