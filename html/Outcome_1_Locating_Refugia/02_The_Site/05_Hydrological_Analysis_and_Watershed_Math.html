@@ -12,92 +12,645 @@
         <h1>Hydrological Analysis: Watershed Math and Drought Resilience</h1>
         <p class="alignment">Outcome 1: Locating and Connecting Optimal Refugia</p>
         
-        <div class="safety-banner safe"><span class="safety-icon">&#10003;</span><div><strong>Safe to Explore.</strong> This module is safe for beginners. Experiment freely — mistakes here are low-cost learning opportunities.</div></div>
-        <div class="color-legend"><span class="legend-theory">Theory</span><span class="legend-research">Research</span><span class="legend-practical">Practical Guide</span></div>
-        <div class="toc"><ol><li><span class="dot-theory">&#9679;</span> <a href="#1-why-this-is-important-the-rationale">1. Why This Is Important (The Rationale)</a></li><li><a href="#2-calculating-your-water-floor">2. Calculating Your Water Floor</a></li><li><a href="#3-watershed-math-carrying-capacity">3. Watershed Math: Carrying Capacity</a></li><li><a href="#4-reservoir-sizing-for-intermittent-sources">4. Reservoir Sizing for Intermittent Sources</a></li><li><span class="dot-research">&#9679;</span> <a href="#5-scientific-validation-liebig-s-law-of-the-minimum">5. 🔬 Scientific Validation: Liebig’s Law of the Minimum</a></li><li><span class="dot-vocab">&#9679;</span> <a href="#glossary-reference">Glossary Reference</a></li><li><span class="dot-practical">&#9679;</span> <a href="#6-practical-implementation-guide-for-beginners">6. Practical Implementation Guide for Beginners</a></li></ol></div>
+        <div class="safety-banner caution"><span class="safety-icon">&#9888;</span><div><strong>Moderate Caution.</strong> Some steps require care. Read the full module before starting. Follow the troubleshooting section if something goes wrong.</div></div>
+        <div class="color-legend"><span class="legend-practical">Practical Guide</span></div>
+        <div class="toc"><ol><li><a href="#theoretical-foundation">Theoretical Foundation</a></li><li><a href="#core-principles">Core Principles</a></li><li><span class="dot-practical">&#9679;</span> <a href="#practical-implementation">Practical Implementation</a></li><li><span class="dot-practical">&#9679;</span> <a href="#common-failure-modes">Common Failure Modes</a></li><li><span class="dot-vocab">&#9679;</span> <a href="#vocabulary-of-the-foundation">Vocabulary of the Foundation</a></li><li><a href="#cross-references">Cross-References</a></li><li><a href="#further-study">Further Study</a></li><li><span class="dot-vocab">&#9679;</span> <a href="#glossary-reference">Glossary Reference</a></li></ol></div>
     </header>
 
     <section>
 <p><strong>Alignment:</strong> Outcome 1: Locating and Connecting Optimal Refugia</p>
-<div class="section-theory" id="1-why-this-is-important-the-rationale">
-<h2>1. Why This Is Important (The Rationale)</h2>
-<p>A settlement is defined by its water floor—the absolute minimum amount of water available during the peak of a 100-year drought. Relying on "current" flow is a fatal design flaw. This detailed study provides the mathematical framework to calculate carrying capacity based on hydrological reality, ensuring the settlement never outgrows its lifeblood.</p>
+<p>> <strong>SAFE</strong>: Hydrological measurement techniques are observational. Exercise caution near fast-moving water during flow measurement — never wade into water deeper than knee height or with current strong enough to affect balance.</p>
 <hr>
-</div>
-<h2 id="2-calculating-your-water-floor">2. Calculating Your Water Floor</h2>
-<h3 id="2-1-the-flow-rate-test-liters-per-minute">2.1. The Flow Rate Test (Liters Per Minute)</h3>
-<p>To determine the supply capacity of a spring or stream, use the <strong>Bucket-and-Stopwatch Method</strong>.</p>
+<h2 id="theoretical-foundation">Theoretical Foundation</h2>
+<p>A settlement is defined by its water floor — the absolute minimum volume of water available during the peak of a 100-year drought. Every other resource constraint (soil fertility, timber, forage) can be addressed through labor and ingenuity. Water cannot be manufactured. The hydrological analysis of a candidate site is therefore the single most consequential calculation in settlement design.</p>
+<h3 id="the-hydrological-cycle-at-settlement-scale">The Hydrological Cycle at Settlement Scale</h3>
+<p>Water moves through a closed loop that determines everything a settlement can and cannot do. The sequence at landscape scale proceeds as follows:</p>
+<p><strong>Precipitation</strong> falls on the catchment area. A fraction is intercepted by the forest canopy and evaporates before reaching the ground (canopy interception loss, typically 15-30% in dense forest). The remainder reaches the soil surface. A fraction infiltrates into the soil matrix, where it either feeds plant roots (and returns to the atmosphere via transpiration) or percolates downward through permeable strata to recharge the groundwater table. Groundwater moves laterally through aquifers and discharges at springs, seeps, and stream baseflow. Surface water that does not infiltrate becomes direct runoff — stormflow — which travels overland or through shallow subsurface paths to streams and rivers. The entire system is driven by solar energy (evapotranspiration) and gravity (infiltration, flow).</p>
+<p>A settlement's water supply is a function of three variables: the watershed area draining to its sources, the precipitation received by that watershed, and the fraction of precipitation that reaches usable springs and streams. The <strong>runoff coefficient</strong> quantifies this last variable — the fraction of rainfall that becomes surface water rather than being absorbed or evaporated:</p>
+<table><thead><tr>
+<th>Land Cover</th>
+<th>Runoff Coefficient</th>
+</tr></thead><tbody>
+<tr>
+<td>Dense forest</td>
+<td>0.05 - 0.20</td>
+</tr>
+<tr>
+<td>Grassland / meadow</td>
+<td>0.10 - 0.35</td>
+</tr>
+<tr>
+<td>Degraded / bare soil</td>
+<td>0.35 - 0.60</td>
+</tr>
+<tr>
+<td>Bare rock / outcrop</td>
+<td>0.70 - 0.90</td>
+</tr>
+<tr>
+<td>Urban / impervious surface</td>
+<td>0.70 - 0.95</td>
+</tr>
+</tbody></table>
+<p>These values have profound implications. A forested watershed absorbs most of its rainfall into groundwater, producing steady baseflow. A deforested watershed sheds rainfall as surface runoff, producing flashy stormflow and diminished baseflow. Protecting watershed forest is therefore a direct investment in water supply reliability.</p>
+<h3 id="the-rational-method-for-peak-flow-estimation">The Rational Method for Peak Flow Estimation</h3>
+<p>The Rational Method provides a first-order estimate of peak flood discharge from a catchment. The formula:</p>
+<pre><code>
+Q = C x I x A
+</code></pre>
+<p>Where:</p>
+<ul>
+<li><strong>Q</strong> = peak flow (m^3/s)</li>
+<li><strong>C</strong> = runoff coefficient (dimensionless, from table above)</li>
+<li><strong>I</strong> = rainfall intensity (m/s) for the design storm duration</li>
+<li><strong>A</strong> = catchment area (m^2)</li>
+</ul>
+<p><strong>Worked example:</strong> A 1 km^2 forested catchment (C = 0.15) experiences a 50 mm/hr rainstorm:</p>
+<pre><code>
+I = 0.050 m / 3600 s = 1.389 x 10^-5 m/s
+A = 1,000,000 m^2
+Q = 0.15 x 1.389 x 10^-5 x 1,000,000 = 2.08 m^3/s
+</code></pre>
+<p>A flow of 2.08 m^3/s is substantial — roughly equivalent to a stream 2 meters wide and 0.5 meters deep moving at 2 m/s. This flow must be safely conveyed around or through settlement infrastructure. Any bridge, culvert, reservoir spillway, or ford must be designed to pass the peak flow of the design storm without structural failure or erosion.</p>
+<h3 id="baseflow-vs-stormflow">Baseflow vs Stormflow</h3>
+<p>Springs and streams carry two fundamentally different types of water, and confusing them is a common source of settlement water crises.</p>
+<p><strong>Baseflow</strong> is the sustained discharge from groundwater seepage. It is filtered through soil and rock, typically clean, and relatively constant between storm events. Baseflow is determined by aquifer size, geology, and long-term recharge rate — not by recent rainfall. A spring fed by a large, slow aquifer (deep sandstone, limestone karst with extensive conduit systems) may have nearly constant flow year-round, varying by a factor of 2-3 between wet and dry seasons. A spring from shallow fractured rock or thin soil may vary by a factor of 10:1 or more between wet and dry seasons.</p>
+<p><strong>Stormflow</strong> is the rapid pulse of surface runoff during and immediately after rain events. It is turbid, may carry pathogens and chemical contaminants from the land surface, and ceases within hours to days after rainfall stops. Stormflow cannot be relied upon for settlement water supply, and requires treatment before consumption.</p>
+<p>Settlement water systems should be designed to capture baseflow only. The intake structure for a spring should be designed to exclude stormflow (which may overwhelm the spring during heavy rain). Stream intakes should include provisions for shutting down during high-turbidity flood events.</p>
+<h3 id="drought-hydrology">Drought Hydrology</h3>
+<p>The concept of the "100-year drought" is statistical: it describes a drought of severity that has a 1% probability of occurring in any given year. This does not mean it occurs once per century — it means that in any given year, there is a 1 in 100 chance of experiencing it.</p>
+<p>Over long settlement horizons, the cumulative probability is sobering. The probability of experiencing at least one event of return period T within N years is:</p>
+<pre><code>
+P = 1 - (1 - 1/T)^N
+</code></pre>
+<table><thead><tr>
+<th>Event</th>
+<th>Over 100 years</th>
+<th>Over 500 years</th>
+</tr></thead><tbody>
+<tr>
+<td>100-year drought</td>
+<td>63.4%</td>
+<td>99.3%</td>
+</tr>
+<tr>
+<td>500-year drought</td>
+<td>18.1%</td>
+<td>63.2%</td>
+</tr>
+<tr>
+<td>1000-year drought</td>
+<td>9.5%</td>
+<td>39.4%</td>
+</tr>
+</tbody></table>
+<p>A settlement designed for a 500-year horizon has a 99.3% probability of experiencing at least one 100-year drought and a 63.2% probability of experiencing a 500-year drought. Design water systems for the 100-year drought flow as an absolute minimum. The 0.4 safety factor applied to dry-season measurements (described below) is intended to approximate this margin.</p>
+<h3 id="water-quality-and-source-protection">Water Quality and Source Protection</h3>
+<p>Groundwater discharged from springs is naturally filtered through soil and rock matrix. In an undisturbed watershed with adequate soil depth (1m+) and residence time, spring water is typically safe for direct consumption without treatment, provided the source area is protected from contamination.</p>
+<p>Surface water — streams, ponds, reservoirs — is always exposed to environmental contamination (animal feces, decomposing organic matter, surface runoff carrying soil pathogens) and should always be treated before drinking.</p>
+<p>Source protection is the most cost-effective water treatment technology available. The principle: maintain an undisturbed vegetated buffer of at least 100 meters upslope and lateral to all spring sources. Within this protection zone, prohibit:</p>
+<ul>
+<li>Latrines and human waste disposal</li>
+<li>Animal pens and grazing</li>
+<li>Composting operations</li>
+<li>Fuel storage or chemical use</li>
+<li>Soil disturbance (clearing, cultivation, construction)</li>
+</ul>
+<p>Mark the source protection zone physically with cairns, posts, or living fence, and enforce the prohibition as settlement law.</p>
+<h3 id="historical-precedent">Historical Precedent</h3>
+<p>The Nabataean civilization centered on Petra (4th century BCE through 1st century CE) sustained a city of 20,000 or more people in a desert environment receiving less than 100 mm of annual rainfall. Their extraordinary system of dams, cisterns, channels, and aqueducts captured virtually every drop of runoff from the surrounding sandstone watersheds. Archaeological surveys by Oleson and others have documented hundreds of individual water-capture structures distributed across the landscape, each sized to its local catchment. The Nabataeans did not find water — they engineered it.</p>
+<p>The Sinhalese kingdoms of Sri Lanka, from the 3rd century BCE onward, constructed massive irrigation reservoirs (locally called "tanks") — some holding more than 50 million cubic meters — that sustained intensive rice agriculture across the dry zone for over 2,000 years. The cascade tank system, where overflow from one reservoir feeds the next downslope, demonstrates sophisticated understanding of watershed-scale hydrology.</p>
+<p>Both civilizations prove the same principle: hydrological engineering, not rainfall, determines carrying capacity. A settlement with 2,000 mm of annual rainfall but no storage or source protection may be more water-insecure than a settlement with 200 mm and excellent catchment engineering.</p>
+<hr>
+<h2 id="core-principles">Core Principles</h2>
+<p><strong>1. The Drought Floor Rule.</strong> Design all water infrastructure for the 100-year drought flow, not the average flow. Measure spring and stream discharge at the end of the dry season and apply the 0.4 safety factor: <code>Drought Floor = Dry Season LPM x 0.4</code>. This ensures the settlement survives even when flow drops by 60% below the driest conditions you have personally measured.</p>
+<p><strong>2. The Baseflow Principle.</strong> Settlement water supply must come from baseflow (springs, groundwater seepage) rather than stormflow (surface runoff). Baseflow is reliable, clean, and predictable. Stormflow is intermittent, turbid, and potentially contaminated. Design intake structures to capture baseflow and exclude stormflow.</p>
+<p><strong>3. The 90-Day Buffer.</strong> Maintain 90 days of stored water capacity at all times. This volume bridges seasonal gaps between rainy and dry periods and provides a buffer against emergency contamination events (upstream landslide, animal carcass in source, earthquake disruption of spring flow). Storage is insurance — it converts a crisis into an inconvenience.</p>
+<p><strong>4. The Source Protection Zone.</strong> Maintain a minimum 100-meter undisturbed vegetated buffer upslope of all water sources. No latrines, animal operations, composting, or soil disturbance within this zone. Source protection is the cheapest and most effective water treatment system ever devised.</p>
+<p><strong>5. The Monitoring Imperative.</strong> Measure spring and stream flow monthly for the first 3 years of settlement, then quarterly thereafter. Maintain written records in the settlement archive. You cannot manage what you do not measure. A 12-month flow record reveals seasonal patterns; a 3-year record reveals inter-annual variability; a 10-year record reveals drought cycles.</p>
+<hr>
+<div class="section-practical" id="practical-implementation">
+<h2>Practical Implementation</h2>
+<h3 id="the-bucket-and-stopwatch-method">The Bucket-and-Stopwatch Method</h3>
+<p>For small springs and seeps that can be fully diverted into a container, the bucket-and-stopwatch method provides accurate flow measurement.</p>
 <ol>
-<li><strong>Capture:</strong> Divert the entire flow of the water source into a bucket of known volume (e.g., 10 Liters).</li>
-<li><strong>Time:</strong> Record the seconds (s) required to fill the bucket.</li>
-<li><strong>Calculation:</strong> <code>(Volume / Seconds) * 60 = Liters Per Minute (LPM)</code>.</li>
+<li><strong>Capture:</strong> Divert the entire flow of the water source into a bucket or container of known volume (e.g., 10 liters).</li>
+<li><strong>Time:</strong> Record the seconds required to fill the container.</li>
+<li><strong>Calculate:</strong> <code>Flow (LPM) = (Volume in Liters / Seconds) x 60</code>.</li>
 </ol>
 <ul>
-<li>  <em>Example:</em> A 10L bucket fills in 5 seconds. <code>(10 / 5) * 60 = 120 LPM</code>.</li>
+<li><em>Example:</em> A 10 L bucket fills in 5 seconds. <code>(10 / 5) x 60 = 120 LPM</code>.</li>
 </ul>
-<h3 id="2-2-the-seasonal-decay-factor">2.2. The Seasonal Decay Factor</h3>
-<p>Springs fluctuate. To find your <strong>Drought Floor</strong>, measure the LPM at the end of the dry season and apply the <strong>Aadhiyandham Margin of Safety (0.4)</strong>.</p>
+<p>Repeat three times and average the results to reduce measurement error.</p>
+<h3 id="the-float-method-for-larger-streams">The Float Method for Larger Streams</h3>
+<p>For streams too large to divert into a bucket, use the float method to estimate volumetric flow:</p>
+<ol>
+<li><strong>Select</strong> a straight, uniform section of stream at least 10 meters long, with consistent width and depth and no obstructions.</li>
+<li><strong>Measure channel cross-section:</strong> At three evenly spaced points along the section, measure the channel width (W, in meters) and depth (D, in meters) at 3-5 points across the width. Compute the average cross-sectional area: <code>A_cross = W_avg x D_avg</code>.</li>
+<li><strong>Measure surface velocity:</strong> Drop a small stick or leaf at the upstream end and time its travel over the 10-meter distance. Repeat five times and average. This gives surface velocity (V_s) in m/s.</li>
+<li><strong>Correct for depth:</strong> Average stream velocity is approximately 80% of surface velocity (the bed and banks create friction). <code>V_avg = 0.8 x V_s</code>.</li>
+<li><strong>Calculate flow:</strong> <code>Q = A_cross x V_avg</code> (in m^3/s). Multiply by 1000 and by 60 to convert to liters per minute: <code>LPM = Q x 60,000</code>.</li>
+</ol>
+<p><strong>Accuracy:</strong> plus or minus 20-30%, which is adequate for settlement planning purposes. Perform multiple measurements and average.</p>
+<h3 id="annual-flow-monitoring-log">Annual Flow Monitoring Log</h3>
+<p>Maintain a written log at each water source using the following format:</p>
+<table><thead><tr>
+<th>Month</th>
+<th>Date</th>
+<th>Source Name</th>
+<th>Method</th>
+<th>Flow (LPM)</th>
+<th>Weather (last 7 days)</th>
+<th>Notes</th>
+</tr></thead><tbody>
+<tr>
+<td>Jan</td>
+<td>15 Jan</td>
+<td>North Spring</td>
+<td>Bucket</td>
+<td>42</td>
+<td>3 days rain</td>
+<td>Measured after 2 dry days</td>
+</tr>
+<tr>
+<td>Feb</td>
+<td>12 Feb</td>
+<td>North Spring</td>
+<td>Bucket</td>
+<td>38</td>
+<td>Dry all week</td>
+<td>Baseflow reading</td>
+</tr>
+<tr>
+<td>...</td>
+<td>...</td>
+<td>...</td>
+<td>...</td>
+<td>...</td>
+<td>...</td>
+<td>...</td>
+</tr>
+</tbody></table>
+<p><strong>Critical measurement protocol:</strong></p>
 <ul>
-<li>  <code>Drought Floor = Dry Season LPM * 0.4</code>.</li>
-<li>  <em>This ensures that even if the spring drops by 60% in a historic drought, the settlement survives.</em></li>
+<li>Measure at the same location each time (mark it physically with a cairn or stake).</li>
+<li>Measure at the same time of day (morning, before peak evapotranspiration).</li>
+<li>For baseflow readings, measure after 5 or more consecutive dry days. Do not measure during or immediately after rainfall — that captures stormflow, which inflates the reading.</li>
+<li>After 12 months of data, plot the values to create a <strong>hydrograph</strong> — a graph of flow versus time that reveals the seasonal pattern of your water source.</li>
 </ul>
-<hr>
-<h2 id="3-watershed-math-carrying-capacity">3. Watershed Math: Carrying Capacity</h2>
-<p>How many people can your land support?</p>
-<h3 id="3-1-individual-consumption-baseline">3.1. Individual Consumption Baseline</h3>
+<h3 id="the-seasonal-decay-factor">The Seasonal Decay Factor</h3>
+<p>Springs fluctuate with season and year. To find your <strong>Drought Floor</strong>, measure the flow at the end of the dry season (the annual minimum) and apply the Aadhiyandham Margin of Safety:</p>
+<pre><code>
+Drought Floor = Dry Season LPM x 0.4
+</code></pre>
+<p>This 0.4 factor accounts for the possibility that the drought you measured was not the worst drought — the 100-year event may reduce flows by an additional 60% beyond what you observed. This is conservative by design. In water planning, conservatism is survival.</p>
+<h3 id="individual-consumption-baselines">Individual Consumption Baselines</h3>
+<table><thead><tr>
+<th>Tier</th>
+<th>Liters Per Person Per Day</th>
+<th>Description</th>
+</tr></thead><tbody>
+<tr>
+<td>Survival</td>
+<td>15</td>
+<td>Drinking, cooking, basic hygiene only</td>
+</tr>
+<tr>
+<td>Standard</td>
+<td>50</td>
+<td>Includes small garden irrigation and modest livestock</td>
+</tr>
+<tr>
+<td>Abundance</td>
+<td>100</td>
+<td>Full permaculture operation and mechanical water use</td>
+</tr>
+</tbody></table>
+<h3 id="carrying-capacity-calculator">Carrying Capacity Calculator</h3>
+<p>The fundamental carrying capacity formula:</p>
+<pre><code>
+Maximum Population = (Drought Floor LPM x 1440) / Daily Liters Per Person
+</code></pre>
+<p>Where 1440 is the number of minutes in a day.</p>
+<p>Expanded scenario table for planning:</p>
+<table><thead><tr>
+<th>Scenario</th>
+<th>Water Per Person (L/day)</th>
+<th>Source Flow for 50 people (LPM)</th>
+<th>Source Flow for 100 people (LPM)</th>
+</tr></thead><tbody>
+<tr>
+<td>Survival (15 L/day)</td>
+<td>15</td>
+<td>0.52</td>
+<td>1.04</td>
+</tr>
+<tr>
+<td>Standard (50 L/day)</td>
+<td>50</td>
+<td>1.74</td>
+<td>3.47</td>
+</tr>
+<tr>
+<td>Agriculture-inclusive (150 L/day)</td>
+<td>150</td>
+<td>5.21</td>
+<td>10.42</td>
+</tr>
+<tr>
+<td>Full abundance (250 L/day)</td>
+<td>250</td>
+<td>8.68</td>
+<td>17.36</td>
+</tr>
+</tbody></table>
+<p>The agriculture-inclusive tier assumes approximately 1,000 m^2 of garden per person irrigated at 5 mm/day, which adds roughly 100 L/day per person to the standard domestic consumption of 50 L/day. The full abundance tier adds livestock watering (cattle: 50 L/head/day, goats: 10 L/head/day) and water for mechanical uses (clay processing, tool cooling, washing).</p>
+<p><strong>Worked example:</strong> A spring measured at 8 LPM at the end of the dry season. Drought Floor = 8 x 0.4 = 3.2 LPM. At the Standard tier (50 L/day): <code>(3.2 x 1440) / 50 = 92 people</code>. At the Agriculture-inclusive tier (150 L/day): <code>(3.2 x 1440) / 150 = 30 people</code>. The settlement must choose its ambition level based on its water floor.</p>
+<h3 id="reservoir-design-guide">Reservoir Design Guide</h3>
+<p>If the water source is intermittent (rain-fed stream, seasonal spring) or if you require a buffer against contamination events, reservoir storage is essential.</p>
+<p><strong>1. The 90-Day Rule for Sizing:</strong></p>
+<pre><code>
+Reservoir Volume (Liters) = Population x Daily Consumption (L) x 90
+</code></pre>
+<p>For 50 people at the Standard tier: <code>50 x 50 x 90 = 225,000 Liters = 225 m^3</code>.</p>
+<p><strong>2. Shape — Deep and Narrow:</strong></p>
+<p>Evaporation is proportional to surface area. A deep, narrow reservoir minimizes the surface-area-to-volume ratio. Comparison:</p>
 <ul>
-<li>  <strong>Survival (Minimum):</strong> 15 Liters/Day (Drinking, Cooking, Basic Hygiene).</li>
-<li>  <strong>Resilience (Standard):</strong> 50 Liters/Day (Includes small-scale garden and livestock).</li>
-<li>  <strong>Abundance (Outcome 6):</strong> 100 Liters/Day (Full permaculture and mechanical power).</li>
+<li>A cylinder 3 m deep x 5 m radius holds <code>pi x 5^2 x 3 = 236 m^3</code> (236,000 L) with a surface area of 78.5 m^2.</li>
+<li>A cylinder 1.5 m deep x 7.1 m radius holds the same 236 m^3 but with a surface area of 158 m^2 — double the evaporation exposure.</li>
 </ul>
-<h3 id="3-2-the-capacity-formula">3.2. The Capacity Formula</h3>
-<p><code>Total People = (Drought Floor LPM * 1440) / 50 Liters</code>.</p>
+<p>Always excavate deeper rather than wider.</p>
+<p><strong>3. Lining Options:</strong></p>
 <ul>
-<li>  <em>1440 is the number of minutes in a day.</em></li>
-<li>  <em>Example:</em> If your Drought Floor is 5 LPM: <code>(5 * 1440) / 50 = 144 People</code>.</li>
+<li><strong>Compacted clay:</strong> Minimum 30 cm thickness, applied in 10 cm lifts, each puddled (saturated and compacted by foot or animal trampling) until plastic and impermeable. The most durable and lowest-technology option.</li>
+<li><strong>Bentonite clay blanket:</strong> If locally available, a 5-10 cm layer of sodium bentonite swells when wet to form an effective seal.</li>
+<li><strong>Scavenged plastic sheeting:</strong> HDPE or EPDM liner, minimum 1 mm thickness, protected from UV and puncture by a 15 cm soil cover layer above and below.</li>
 </ul>
-<hr>
-<h2 id="4-reservoir-sizing-for-intermittent-sources">4. Reservoir Sizing for Intermittent Sources</h2>
-<p>If your source is rain-fed or an intermittent stream, you must build a "Buffer" (The Reservoir).</p>
-<h3 id="4-1-the-90-day-rule">4.1. The 90-Day Rule</h3>
-<p>A resilient settlement must have <strong>90 days of storage</strong> in reserve.</p>
-<p><code>Reservoir Size (Liters) = (Population <em> 50) </em> 90</code>.</p>
+<p><strong>4. Inlet and Silt Management:</strong></p>
+<p>Install a silt trap upstream of the main reservoir — a small settling basin (5-10% of main reservoir volume) where inflowing water slows and drops its suspended sediment. Clean the silt trap annually before the rainy season. Without a silt trap, sediment accumulation progressively reduces reservoir capacity — a 1% annual siltation rate halves the effective volume within 70 years.</p>
+<p><strong>5. Overflow and Spillway:</strong></p>
+<p>Design a spillway that can safely pass at least 10 times the average inflow without eroding the dam or embankment. Line the spillway channel with stone or compacted gravel. An undersized spillway is the most common cause of earthen dam failure.</p>
+<p><strong>6. Evaporation Reduction:</strong></p>
+<table><thead><tr>
+<th>Method</th>
+<th>Evaporation Reduction</th>
+<th>Notes</th>
+</tr></thead><tbody>
+<tr>
+<td>Floating duckweed (<em>Lemna</em>)</td>
+<td>~30%</td>
+<td>Also provides livestock feed; requires management to prevent complete coverage</td>
+</tr>
+<tr>
+<td>Shade cloth / palm frond cover</td>
+<td>~50%</td>
+<td>Requires structural support; limited to smaller reservoirs</td>
+</tr>
+<tr>
+<td>Fully enclosed cistern</td>
+<td>~100%</td>
+<td>Most effective; practical only for volumes under ~50 m^3</td>
+</tr>
+<tr>
+<td>No cover (open water)</td>
+<td>0% (baseline)</td>
+<td>Losses of 5-10 mm/day in hot, dry climates are common</td>
+</tr>
+</tbody></table>
+<p>For a reservoir with 78.5 m^2 surface area in a climate with 8 mm/day evaporation, the daily loss without cover is 628 liters/day — equivalent to the drinking water for 42 people at the survival tier. Evaporation control is not optional in warm climates.</p>
+<h3 id="rainwater-harvesting-supplement">Rainwater Harvesting Supplement</h3>
+<p>For settlements with roof structures, rainwater collection provides a valuable supplement to spring and stream sources.</p>
+<pre><code>
+Annual Collection (L) = Roof Area (m^2) x Annual Rainfall (m) x Runoff Coefficient x 1000
+</code></pre>
+<p>Runoff coefficients for roofing materials:</p>
 <ul>
-<li>  <em>For 50 people:</em> <code>(50 <em> 50) </em> 90 = 225,000 Liters (Approx. 225 Cubic Meters)</code>.</li>
+<li>Metal / corrugated iron: 0.80 - 0.85</li>
+<li>Tile: 0.70 - 0.80</li>
+<li>Thatch: 0.50 - 0.60</li>
 </ul>
-<h3 id="4-2-evaporation-loss">4.2. Evaporation Loss</h3>
-<p>In open reservoirs, you lose water to the air.</p>
-<ul>
-<li>  <strong>The Solution:</strong> Build deep and narrow rather than wide and shallow. A floating layer of aquatic plants (Duckweed) can reduce evaporation by 30% while providing livestock feed.</li>
-</ul>
-<hr>
-<div class="section-research" id="5-scientific-validation-liebig-s-law-of-the-minimum">
-<h2>5. 🔬 Scientific Validation: Liebig’s Law of the Minimum</h2>
-<p>Hydrological resilience is the ultimate expression of <strong>Liebig's Law</strong>. It states that growth is dictated not by total resources available, but by the scarcest resource (the limiting factor). In any refugia, the water floor is the limiting factor. If your soil can support 1,000 people but your water can only support 100, your carrying capacity is 100.</p>
+<p><strong>Worked example:</strong> A 50 m^2 metal roof in a location receiving 800 mm annual rainfall:</p>
+<pre><code>
+Collection = 50 x 0.80 x 0.80 x 1000 = 32,000 L/year = 87.7 L/day average
+</code></pre>
+<p>This supplements but does not replace spring or stream sources. Rainwater is inherently seasonal and variable. However, for a single household of 4 people at the survival tier (60 L/day total), a 50 m^2 roof in an 800 mm rainfall zone provides meaningful security.</p>
+<p>Install first-flush diverters (discard the first 1-2 mm of rainfall from each event, which washes accumulated dust, bird droppings, and debris from the roof surface) and covered storage tanks to maintain quality.</p>
+<h3 id="water-budget-worksheet">Water Budget Worksheet</h3>
+<p>The water budget integrates all sources against all demands on a monthly basis. Construct a table for each month of the year:</p>
+<table><thead><tr>
+<th>Category</th>
+<th>Jan</th>
+<th>Feb</th>
+<th>Mar</th>
+<th>Apr</th>
+<th>May</th>
+<th>Jun</th>
+<th>Jul</th>
+<th>Aug</th>
+<th>Sep</th>
+<th>Oct</th>
+<th>Nov</th>
+<th>Dec</th>
+</tr></thead><tbody>
+<tr>
+<td><strong>Sources (L/day)</strong></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>Spring A (baseflow)</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>Spring B (baseflow)</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>Stream intake</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>Rainwater harvesting</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>Reservoir drawdown</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td><strong>Total Supply</strong></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td><strong>Demands (L/day)</strong></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>Drinking & cooking</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>Hygiene & washing</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>Garden irrigation</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>Livestock</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>Mechanical / craft use</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>Reservoir evaporation</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td><strong>Total Demand</strong></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td><strong>Surplus / Deficit</strong></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+</tbody></table>
+<p>Fill this table using measured flows and projected demands. The critical months are those showing a deficit — these are the months when the settlement draws down stored water. The cumulative deficit over all deficit months must not exceed the reservoir volume minus the 90-day emergency reserve. If it does, either reduce demand (fewer people, less irrigation) or increase supply (additional sources, larger catchment).</p>
 <hr>
 </div>
+<div class="section-practical" id="common-failure-modes">
+<h2>Common Failure Modes</h2>
+<p><strong>1. Designing for average flow instead of drought floor.</strong> The most common and most dangerous error. Average flow may be 5 to 10 times the drought floor. A settlement sized for average flow will experience water crisis during the first major drought — which, over a multi-generational horizon, is a certainty, not a possibility.</p>
+<p><strong>2. Siltation of reservoirs.</strong> Every stream carries a sediment load proportional to its catchment's erosion rate. Without silt traps and regular maintenance, reservoirs fill progressively with sediment. A reservoir losing 1% of its volume annually to siltation loses half its effective capacity within a human lifetime. Install silt traps, clean them annually, and maintain watershed vegetation to minimize erosion.</p>
+<p><strong>3. Source contamination from upslope activities.</strong> Pathogens from latrines and animal pens travel through soil via percolation and can reach springs and seeps within weeks to months, depending on soil type and distance. A single latrine placed 30 meters upslope of a spring can render the spring unsafe for drinking. Enforce source protection zones without exception.</p>
+<p><strong>4. Evaporation losses in open reservoirs.</strong> In hot, dry climates, open-water evaporation can reach 8-10 mm per day, which translates to 30-50% annual loss of stored volume. This is a silent, continuous drain on the water budget that is easily overlooked. Use floating vegetation, shade structures, or enclosed cisterns to reduce losses.</p>
+<p><strong>5. Population growth exceeding water budget.</strong> Settlements that do not enforce population limits tied to the measured water floor will inevitably outgrow their water supply. The carrying capacity formula must be treated as a hard ceiling, not a guideline. When population approaches 80% of the calculated maximum, halt growth until additional water sources are developed and proven through at least one full dry season of measurement.</p>
+<hr>
+</div>
+<div class="section-vocab" id="vocabulary-of-the-foundation">
+<h2>Vocabulary of the Foundation</h2>
+<ul>
+<li><strong>Watershed</strong>: The total land area that drains to a single point (stream confluence, spring, reservoir). All precipitation falling within the watershed boundary eventually reaches that point. The watershed is the fundamental unit of hydrological analysis.</li>
+<li><strong>Baseflow</strong>: The component of stream or spring flow derived from groundwater discharge. Baseflow is sustained between rainfall events and represents the reliable, clean water supply from subsurface storage.</li>
+<li><strong>Stormflow</strong>: The component of stream flow derived from direct surface runoff during and immediately after rainfall. Stormflow is rapid, turbid, unreliable, and requires treatment.</li>
+<li><strong>Runoff Coefficient</strong>: The fraction of precipitation that becomes surface runoff rather than infiltrating into soil or evaporating. Expressed as a dimensionless number between 0 and 1. Determined primarily by land cover, soil type, and slope.</li>
+<li><strong>Rational Method</strong>: An empirical formula (Q = C x I x A) for estimating peak surface runoff from a catchment during a design storm. Used to size spillways, culverts, and flood conveyance structures.</li>
+<li><strong>Drought Floor</strong>: The minimum reliable water supply, calculated as the dry-season measured flow multiplied by the 0.4 safety factor. All population and infrastructure planning must reference the drought floor, not average flow.</li>
+<li><strong>Hydrograph</strong>: A graph of water flow (discharge) plotted against time. A 12-month hydrograph reveals seasonal patterns; a multi-year hydrograph reveals drought cycles and long-term trends.</li>
+<li><strong>Carrying Capacity (hydrological)</strong>: The maximum population a site can sustain based on its drought floor water supply and the chosen consumption tier. Determined by the formula: <code>(Drought Floor LPM x 1440) / Daily Liters Per Person</code>.</li>
+<li><strong>Silt Trap</strong>: A small settling basin installed upstream of a reservoir where inflowing water velocity decreases, allowing suspended sediment to settle out before entering the main storage body.</li>
+<li><strong>Evapotranspiration</strong>: The combined loss of water from the landscape through direct evaporation (from soil, water surfaces) and transpiration (water uptake and release by plants). The primary mechanism by which water exits the local hydrological cycle.</li>
+<li><strong>Aquifer</strong>: A body of permeable rock or sediment that stores and transmits groundwater. The size, permeability, and recharge rate of the aquifer feeding a spring determine the spring's reliability and drought resilience.</li>
+<li><strong>Source Protection Zone</strong>: The designated area upslope and lateral to a water source within which all activities that could introduce contamination are prohibited. Minimum recommended radius: 100 meters.</li>
+<li><strong>Cistern</strong>: An enclosed, watertight container for storing collected water (rainwater or piped spring water). Cisterns eliminate evaporation loss and contamination risk but are limited in practical volume compared to open reservoirs.</li>
+</ul>
+<hr>
+</div>
+<h2 id="cross-references">Cross-References</h2>
+<ul>
+<li><a href="01_Rationale_and_Importance.html">01 Rationale and Importance</a> — Liebig's Law and the role of water as the ultimate limiting factor in site selection.</li>
+<li><a href="04_Water_Sovereignty_and_Hydrams.html">04 Water Sovereignty and Hydrams</a> — hydraulic ram pumps and techniques for moving water uphill without external energy.</li>
+<li><a href="11_Soil_and_Water_Quality_Baselines.html">11 Soil and Water Quality Baselines</a> — field methods for testing water quality parameters (pH, turbidity, coliform).</li>
+<li><a href="../../Outcome_2_Biological_Sovereignty/03_Water_and_Sanitation/01_Rationale_and_Importance.html">Outcome 2: Water and Sanitation Rationale</a> — water treatment principles and sanitation system design.</li>
+<li><a href="../../Outcome_2_Biological_Sovereignty/03_Water_and_Sanitation/02_Bio_Sand_Filtration.html">Outcome 2: Bio-Sand Filtration</a> — slow sand filtration for treatment of surface water sources.</li>
+</ul>
+<hr>
+<h2 id="further-study">Further Study</h2>
+<ul>
+<li>Dunne, T. & Leopold, L.B. <em>Water in Environmental Planning</em>. W.H. Freeman, 1978. The foundational text on applied hydrology for land-use planning. Covers watershed analysis, runoff estimation, erosion, and water quality in accessible, field-oriented language.</li>
+<li>Linsley, R.K., Franzini, J.B. & Freyberg, D.L. <em>Water Resources Engineering</em>. McGraw-Hill, 4th edition, 1992. A comprehensive engineering reference covering surface water hydrology, groundwater, reservoir design, and water supply systems.</li>
+<li>World Health Organization. <em>Guidelines for Drinking-water Quality</em>. 4th edition, 2011. The international standard for water quality parameters, treatment methods, and source protection protocols.</li>
+<li>Pacey, A. & Cullis, A. <em>Rainwater Harvesting: The Collection of Rainfall and Runoff in Rural Areas</em>. Intermediate Technology Publications, 1986. Practical guidance on rainwater collection systems for low-resource settings, including sizing, storage, and quality management.</li>
+<li>Oleson, J.P. <em>Humayma Excavation Project</em> and related publications on Nabataean hydraulic engineering. Documents the extraordinary water capture and storage systems that sustained desert civilization at Petra and surrounding settlements.</li>
+</ul>
+<hr>
 <div class="section-vocab" id="glossary-reference">
 <h2>Glossary Reference</h2>
 <p><em>See <a href="../../Glossary.html">../../Glossary.md</a> for full definitions of:</em></p>
 <ul>
-<li>  <strong>Refugia</strong></li>
-</ul>
-</div>
-<div class="section-practical" id="6-practical-implementation-guide-for-beginners">
-<h2>6. Practical Implementation Guide for Beginners</h2>
-<h3 id="6-1-step-by-step-action-plan">6.1. Step-by-Step Action Plan</h3>
-<ul>
-<li>  <strong>Phase 1: Measurement:</strong> Perform the LPM test every month for one full year. Record the data in the settlement's physical Archive (Module 10).</li>
-<li>  <strong>Phase 2: Drought Simulation:</strong> Calculate your population limit based on the lowest recorded month.</li>
-<li>  <strong>Phase 3: Storage Construction:</strong> If the drought floor is below 20 LPM, prioritize building a stone-and-clay lined reservoir before increasing the population.</li>
-</ul>
-<h3 id="6-2-troubleshooting-failure-modes">6.2. Troubleshooting & Failure Modes</h3>
-<ul>
-<li>  <strong>Siltation:</strong> If the reservoir fills with mud, its capacity drops. Build a "Silt Trap"—a smaller pond before the main reservoir where water slows down and drops its sediment.</li>
-</ul>
-<h3 id="6-3-community-decadal-flourishing">6.3. Community & Decadal Flourishing</h3>
-<ul>
-<li>  <strong>The Water Warden:</strong> Appoint a member to track seasonal flows and maintain the silt traps. Knowledge of the water's rhythm is the most valuable intelligence in the refugia.</li>
+<li><strong>Refugia</strong></li>
+<li><strong>Carrying Capacity</strong></li>
+<li><strong>Liebig's Law</strong></li>
+<li><strong>Drought Floor</strong></li>
+<li><strong>Baseflow</strong></li>
 </ul>
 </div>
     </section>

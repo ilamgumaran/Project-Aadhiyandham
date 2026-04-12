@@ -36,9 +36,9 @@
 ### 02 The Site
 - [T] `01_Rationale_and_Importance.md`
 - [T] `02_Topographical_Resilience.md`
-- [ ] `03_Solar_and_Thermal_Balance.md`
-- [ ] `04_Water_Sovereignty_and_Hydrams.md`
-- [ ] `05_Hydrological_Analysis_and_Watershed_Math.md`
+- [T] `03_Solar_and_Thermal_Balance.md`
+- [T] `04_Water_Sovereignty_and_Hydrams.md`
+- [T] `05_Hydrological_Analysis_and_Watershed_Math.md`
 - [ ] `06_Field_Mineralogy_and_Zero_Tech_Analysis.md`
 - [ ] `07_Initial_Site_Layout.md`
 - [ ] `08_Location_Recording_Without_GPS.md`
@@ -211,3 +211,4 @@
 | 5 | 2026-04-12 | 01.08, 01.09.01, 01.09.02 | Essential Packing List (Margaria's load-carrying physics, Irreplaceability Hierarchy, 7-category weight budget, seed viability), Micro-Climate Forecasting (ideal gas law, adiabatic lapse rates, complete cloud atlas, Beaufort Scale, sling psychrometer, Buys Ballot's Law), Phenological Indicators (Growing Degree-Days formula, Hopkins' Bioclimatic Law, 23-species phenological calendar, planting decision matrix) |
 | 6 | 2026-04-12 | 01.10.01, 01.10.02, 01.10.03 | Maritime Rationale (water transport energetics 5-10x land efficiency, Archimedes' displacement, sail force physics, vessel selection matrix, Blue Refugia concept), Coastal Piloting (transit geometry, vertical sextant angle, kamal/pelorus construction, danger bearing, lead line, three-point fix), Riverine Logic (continuity equation Q=AV, Bernoulli's principle, helicoidal flow, Class I-VI rapids, ferry glide mechanics, strainer safety) |
 | 7 | 2026-04-12 | 01.10.04, 02.01, 02.02 | Salt Spray Management (NaCl aerosol exponential decay, osmotic stress dS/m thresholds, halophyte physiology, three-belt planting guide, soil desalination protocol), Site Rationale (Liebig's Law, IPCC sea level projections, thermal belt physics, site selection scorecard 320-point system, 7-day assessment protocol), Topographical Resilience (angle of repose by soil type, FoS>1.5, flood recurrence probability, Venturi effect, thermal belt mapping, 8-point floodplain checklist) |
+| 8 | 2026-04-12 | 02.03, 02.04, 02.05 | Solar & Thermal Balance (solar altitude formula, overhang sizing table by latitude, thermal mass calculations, circadian biology 2500 lux threshold, vitamin D synthesis, Greek/Roman precedents), Water Sovereignty & Hydrams (Joukowsky equation 28 bar water hammer, D'Aubuisson efficiency, drive pipe energy accumulator, hydram sizing calculator, alternative zero-energy water lifting), Hydrological Analysis (Rational Method Q=CIA, drought probability over 500yr horizon, baseflow vs stormflow, reservoir design guide, rainwater harvesting calculations, water budget worksheet) |
