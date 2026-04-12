@@ -28,8 +28,11 @@ def check_links():
                     parser.feed(content)
                 
                 for link in parser.links:
-                    # Skip external links
-                    if link.startswith("http") or link.startswith("mailto:"):
+                    # Skip external links and javascript
+                    if link.startswith("http") or link.startswith("mailto:") or link.startswith("javascript:"):
+                        continue
+                    # Skip fragment-only links
+                    if link.startswith("#"):
                         continue
                     
                     # Resolve relative path

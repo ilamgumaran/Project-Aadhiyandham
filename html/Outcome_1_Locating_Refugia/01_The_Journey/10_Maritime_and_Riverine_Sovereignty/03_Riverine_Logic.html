@@ -2,191 +2,136 @@
 <html lang="en">
 <head>
     <meta charset="UTF-8">
-    <title>03 Riverine Logic & Current Reading - Project Aadhiyandham</title>
-    <link rel="stylesheet" href="../../../../style.css">
-    <style>
-        .diagram-container {
-            background: #fff;
-            border: 1px solid #ddd;
-            border-radius: 8px;
-            padding: 20px;
-            margin: 20px 0;
-            text-align: center;
-        }
-        .diagram-container svg {
-            max-width: 100%;
-            height: auto;
-        }
-    </style>
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Riverine Logic: Reading the Current - Project Aadhiyandham</title>
+    <link rel="stylesheet" href="../../../style.css">
 </head>
 <body class="outcome-1">
 
     <!-- Global Navigation Bar -->
     <nav class="global-nav">
         <ul>
-            <li><a href="../../../../index.html">🏠 Home</a></li>
+            <li><a href="../../../index.html">Home</a></li>
             <li class="dropdown">
-                <a href="javascript:void(0)" class="dropbtn">Outcome 1 ▾</a>
+                <a href="javascript:void(0)" class="dropbtn">Outcome 1 &#9662;</a>
                 <div class="dropdown-content">
-                    <a href="../../../../Outcome_1_Locating_Refugia/01_The_Journey/01_Rationale_and_Importance.html">01. The Journey</a>
-                    <a href="../../../../Outcome_1_Locating_Refugia/02_The_Site/01_Rationale_and_Importance.html">02. The Site</a>
-                    <a href="../../../../candidate_locations/index.html">🌍 The Atlas</a>
+                    <a href="../../../Outcome_1_Locating_Refugia/01_The_Journey/01_Rationale_and_Importance.html">01. The Journey</a>
+                    <a href="../../../Outcome_1_Locating_Refugia/02_The_Site/01_Rationale_and_Importance.html">02. The Site</a>
+                    <a href="../../../Outcome_1_Locating_Refugia/03_Candidate_Atlas/template_location.html">03. The Atlas</a>
                 </div>
             </li>
             <li class="dropdown">
-                <a href="javascript:void(0)" class="dropbtn">Outcome 2 ▾</a>
+                <a href="javascript:void(0)" class="dropbtn">Outcome 2 &#9662;</a>
                 <div class="dropdown-content">
-                    <a href="../../../../Outcome_2_Biological_Sovereignty/01_Water_and_Sanitation/01_Rationale_and_Importance.html">01. Water & Sanitation</a>
-                    <a href="../../../../Outcome_2_Biological_Sovereignty/02_Food_and_Soil_Sovereignty/01_Rationale_and_Importance.html">02. Food & Soil</a>
-                    <a href="../../../../Outcome_2_Biological_Sovereignty/03_Health_and_the_Body/01_Rationale_and_Importance.html">03. Health & Body</a>
-                    <a href="../../../../Outcome_2_Biological_Sovereignty/04_Ecological_Harmony/01_Rationale_and_Importance.html">04. Ecology</a>
+                    <a href="../../../Outcome_2_Biological_Sovereignty/03_Water_and_Sanitation/01_Rationale_and_Importance.html">03. Water &amp; Sanitation</a>
+                    <a href="../../../Outcome_2_Biological_Sovereignty/04_Food_and_Soil_Sovereignty/01_Rationale_and_Importance.html">04. Food &amp; Soil</a>
+                    <a href="../../../Outcome_2_Biological_Sovereignty/05_Health_and_the_Body/01_Rationale_and_Importance.html">05. Health &amp; Body</a>
+                    <a href="../../../Outcome_2_Biological_Sovereignty/06_Ecological_Harmony/01_Rationale_and_Importance.html">06. Ecological Harmony</a>
                 </div>
             </li>
             <li class="dropdown">
-                <a href="javascript:void(0)" class="dropbtn">Outcome 3 ▾</a>
+                <a href="javascript:void(0)" class="dropbtn">Outcome 3 &#9662;</a>
                 <div class="dropdown-content">
-                    <a href="../../../../Outcome_3_Perimeter_Defense/01_Passive_Defense/01_Rationale_and_Importance.html">01. Perimeter Defense</a>
+                    <a href="../../../Outcome_3_Perimeter_Defense/07_Passive_Defense/01_Rationale_and_Importance.html">07. Passive Defense</a>
+                    <a href="../../../Outcome_3_Perimeter_Defense/07a_Active_Threat_Response/01_Rationale_and_Importance.html">07a. Active Threat Response</a>
+                    <a href="../../../Outcome_3_Perimeter_Defense/07b_Animal_Coexistence_Protocols/01_Rationale_and_Importance.html">07b. Animal Coexistence</a>
                 </div>
             </li>
             <li class="dropdown">
-                <a href="javascript:void(0)" class="dropbtn">Outcome 4 ▾</a>
+                <a href="javascript:void(0)" class="dropbtn">Outcome 4 &#9662;</a>
                 <div class="dropdown-content">
-                    <a href="../../../../Outcome_4_Psychological_Centeredness/01_The_Mind/01_Rationale_and_Importance.html">01. The Mind</a>
+                    <a href="../../../Outcome_4_Psychological_Centeredness/08_The_Mind/01_Rationale_and_Importance.html">08. The Mind</a>
+                    <a href="../../../Outcome_4_Psychological_Centeredness/08a_Group_Dynamics/01_Rationale_and_Importance.html">08a. Group Dynamics</a>
+                    <a href="../../../Outcome_4_Psychological_Centeredness/08b_Childhood_Development/01_Rationale_and_Importance.html">08b. Childhood Development</a>
                 </div>
             </li>
             <li class="dropdown">
-                <a href="javascript:void(0)" class="dropbtn">Outcome 5 ▾</a>
+                <a href="javascript:void(0)" class="dropbtn">Outcome 5 &#9662;</a>
                 <div class="dropdown-content">
-                    <a href="../../../../Outcome_5_Decadal_Resilience/07_The_Mechanics/01_Rationale_and_Importance.html">07. The Mechanics</a>
-                    <a href="../../../../Outcome_5_Decadal_Resilience/08_The_Society/01_Rationale_and_Importance.html">08. The Society</a>
-                    <a href="../../../../Outcome_5_Decadal_Resilience/09_The_Next_Generation/01_Rationale_and_Importance.html">09. Education</a>
-                    <a href="../../../../Outcome_5_Decadal_Resilience/10_The_Archive/01_Rationale_and_Importance.html">10. The Archive</a>
-                    <a href="../../../../Outcome_5_Decadal_Resilience/11_The_Horizon/01_Rationale_and_Importance.html">11. The Horizon</a>
+                    <a href="../../../Outcome_5_Decadal_Resilience/09_The_Mechanics/01_Rationale_and_Importance.html">09. The Mechanics</a>
+                    <a href="../../../Outcome_5_Decadal_Resilience/10_The_Society/01_Rationale_and_Importance.html">10. The Society</a>
+                    <a href="../../../Outcome_5_Decadal_Resilience/11_The_Next_Generation/01_Rationale_and_Importance.html">11. Education</a>
+                    <a href="../../../Outcome_5_Decadal_Resilience/12_The_Archive/01_Rationale_and_Importance.html">12. The Archive</a>
+                    <a href="../../../Outcome_5_Decadal_Resilience/13_The_Horizon/01_Rationale_and_Importance.html">13. The Horizon</a>
                 </div>
             </li>
             <li class="dropdown">
-                <a href="javascript:void(0)" class="dropbtn">Outcome 6 ▾</a>
+                <a href="javascript:void(0)" class="dropbtn">Outcome 6 &#9662;</a>
                 <div class="dropdown-content">
-                    <a href="../../../../Outcome_6_Flourishing_Civilization/01_Cultural_Technology/01_Rationale_and_Importance.html">01. Cultural Tech</a>
+                    <a href="../../../Outcome_6_Flourishing_Civilization/14_Cultural_Technology/01_Rationale_and_Importance.html">14. Cultural Technology</a>
+                    <a href="../../../Outcome_6_Flourishing_Civilization/14a_Inter_Settlement_Diplomacy/01_Rationale_and_Importance.html">14a. Diplomacy</a>
+                    <a href="../../../Outcome_6_Flourishing_Civilization/14b_Knowledge_Exchange/01_Rationale_and_Importance.html">14b. Knowledge Exchange</a>
                 </div>
             </li>
-            <li><a href="../../../../glossary.html">📖 Glossary</a></li>
+            <li><a href="../../../Glossary.html">Glossary</a></li>
         </ul>
     </nav>
 
+
     <header>
-        <p><a href="../../../../index.html">Main Index</a></p>
         <h1>Riverine Logic: Reading the Current</h1>
-        <p class="alignment">Alignment: Outcome 1: Locating and Connecting Optimal <a class="glossary-term" href="../../../../glossary.html#refugia">Refugia</a></p>
+        <p class="alignment">Outcome 1: Locating and Connecting Optimal Refugia</p>
+        
+        <div class="safety-banner safe"><span class="safety-icon">&#10003;</span><div><strong>Safe to Explore.</strong> This module is safe for beginners. Experiment freely — mistakes here are low-cost learning opportunities.</div></div>
+        <div class="color-legend"><span class="legend-research">Research</span><span class="legend-practical">Practical Guide</span></div>
+        <div class="toc"><ol><li><a href="#1-the-geometry-of-the-current">1. The Geometry of the Current</a></li><li><a href="#2-ferry-gliding-the-sideways-move">2. Ferry-Gliding (The Sideways Move)</a></li><li><span class="dot-research">&#9679;</span> <a href="#3-scientific-validation-laminar-vs-turbulent-flow">3. 🔬 Scientific Validation: Laminar vs. Turbulent Flow</a></li><li><span class="dot-vocab">&#9679;</span> <a href="#glossary-reference">Glossary Reference</a></li><li><span class="dot-practical">&#9679;</span> <a href="#4-practical-implementation-guide-for-beginners">4. Practical Implementation Guide for Beginners</a></li></ol></div>
     </header>
 
-    <div class="breadcrumbs">
-        <a href="../../../../index.html">Index</a> &gt; 
-        <a href="../01_Rationale_and_Importance.html">01 The Journey</a> &gt; 
-        <a href="01_Rationale_and_Importance.html">10 Maritime and Riverine Sovereignty</a> &gt; 
-        <span>03 Riverine Logic</span>
-    </div>
-
     <section>
-        <p>Rivers are dynamic biological systems. To navigate them without power, you must understand the fluid dynamics of water.</p>
-
-        <hr>
-
-        <h2>1. The Geometry of the Current</h2>
-
-        <div class="diagram-container">
-            <h3>Visual Guide: Eddies and Ferry-Gliding</h3>
-            <svg width="600" height="400" viewBox="0 0 600 400" xmlns="http://www.w3.org/2000/svg">
-                <!-- River Banks -->
-                <rect x="0" y="0" width="100" height="400" fill="#aed581"/>
-                <rect x="500" y="0" width="100" height="400" fill="#aed581"/>
-                <!-- River -->
-                <rect x="100" y="0" width="400" height="400" fill="#81d4fa"/>
-                
-                <!-- Current Arrows -->
-                <path d="M 200 50 L 200 100" stroke="#0288d1" stroke-width="4" marker-end="url(#arrow)"/>
-                <path d="M 300 50 L 300 100" stroke="#0288d1" stroke-width="4" marker-end="url(#arrow)"/>
-                <path d="M 400 50 L 400 100" stroke="#0288d1" stroke-width="4" marker-end="url(#arrow)"/>
-                <text x="310" y="80" font-size="14" fill="#01579b" font-weight="bold">MAIN FLOW (Thalweg)</text>
-
-                <!-- The Rock and Eddy -->
-                <circle cx="250" cy="200" r="30" fill="#757575"/>
-                <path d="M 250 240 Q 280 240 280 270 Q 280 300 250 300 Q 220 300 220 270 Q 220 240 250 240" fill="#b3e5fc" opacity="0.6" stroke="#0288d1" stroke-dasharray="4,2"/>
-                <text x="235" y="275" font-size="12" fill="#01579b" font-weight="bold">EDDY</text>
-
-                <!-- Ferry Gliding Boat -->
-                <g transform="translate(400, 300) rotate(-45)">
-                    <path d="M -20 -8 L 20 -8 L 25 0 L 20 8 L -20 8 Z" fill="#5d4037"/>
-                </g>
-                <text x="410" y="280" font-size="12" fill="#212121" font-weight="bold">Boat Angled at 45°</text>
-                
-                <path d="M 400 300 L 150 300" stroke="#d32f2f" stroke-width="3" stroke-dasharray="8,4" marker-end="url(#arrow-red)"/>
-                <text x="180" y="325" font-size="14" fill="#d32f2f" font-weight="bold">Resultant Path (Sideways)</text>
-
-                <defs>
-                    <marker id="arrow" viewBox="0 0 10 10" refX="5" refY="5" markerWidth="6" markerHeight="6" orient="auto-start-reverse">
-                        <path d="M 0 0 L 10 5 L 0 10 z" fill="#0288d1" />
-                    </marker>
-                    <marker id="arrow-red" viewBox="0 0 10 10" refX="5" refY="5" markerWidth="6" markerHeight="6" orient="auto-start-reverse">
-                        <path d="M 0 0 L 10 5 L 0 10 z" fill="#d32f2f" />
-                    </marker>
-                </defs>
-            </svg>
-        </div>
-
-        <h3>1.1. The Main Flow (The Thalweg)</h3>
-        <p>The fastest and deepest part of the river.</p>
-        <ul>
-            <li><strong>Action:</strong> When traveling downstream, stay in the Thalweg to maximize momentum.</li>
-            <li><strong>Observation:</strong> Look for the smoothest, least-turbulent water with the most surface bubbles.</li>
-        </ul>
-
-        <h3>1.2. The Eddy (The Resting Spot)</h3>
-        <p>An area of calm water behind an obstacle (boulder or point of land) where the current flows upstream.</p>
-        <ul>
-            <li><strong>Action:</strong> Use eddies to rest or stop when traveling upstream.</li>
-            <li><strong>The Eddy Line:</strong> The boundary between the downstream current and the upstream eddy. Crossing this line requires a sharp angle to avoid tipping.</li>
-        </ul>
-
-        <hr>
-
-        <h2>2. Ferry-Gliding (The Sideways Move)</h2>
-        <p>To cross a river without being swept downstream:</p>
-        <ol>
-            <li><strong>Angle:</strong> Point the bow of the vessel at a 45-degree angle toward the far shore, facing <em>into</em> the current.</li>
-            <li><strong>Momentum:</strong> As you paddle/row forward, the current pushes the side of the vessel, resulting in a perfectly straight sideways movement across the river.</li>
-        </ol>
-
-        <hr>
-
-        <h2>3. 🔬 Scientific Validation: Laminar vs. Turbulent Flow</h2>
-        <p>Navigating a river is an exercise in managing <strong>Reynolds Numbers</strong>. Laminar flow (smooth) is predictable; turbulent flow (chaotic) contains hidden energy that can capsize a vessel. We utilize the "Acoustic Signature" of the river to identify turbulence before it is visible.</p>
-
-        <hr>
-
-        <div class="practical-guide">
-            <h2>4. Practical Implementation Guide for Beginners</h2>
-            <h3>4.1. Step-by-Step Action Plan</h3>
-            <ul>
-                <li><strong>Phase 1: Stick Floating:</strong> Throw a stick into the river and watch its path. This reveals the Thalweg and the hidden eddies.</li>
-                <li><strong>Phase 2: Ferry Practice:</strong> Attempt to cross a shallow, slow-moving stream in a straight line using the ferry-glide angle.</li>
-                <li><strong>Phase 3: The Portaging Survey:</strong> Identify areas where the river is too dangerous to navigate and map the "Carry Path" (Portage) around them.</li>
-            </ul>
-
-            <h3>4.2. Troubleshooting & Failure Modes</h3>
-            <ul>
-                <li><strong>Strainers:</strong> Fallen trees in the water. These are lethal because they allow water to pass but trap the vessel and the human. Always navigate to the opposite bank of a strainer.</li>
-            </ul>
-        </div>
+<p><strong>Alignment:</strong> Outcome 1: Locating and Connecting Optimal Refugia</p>
+<p>Rivers are dynamic biological systems. To navigate them without power, you must understand the fluid dynamics of water.</p>
+<hr>
+<h2 id="1-the-geometry-of-the-current">1. The Geometry of the Current</h2>
+<h3 id="1-1-the-main-flow-the-thalweg">1.1. The Main Flow (The Thalweg)</h3>
+<p>The fastest and deepest part of the river.</p>
+<ul>
+<li>  <strong>Action:</strong> When traveling downstream, stay in the Thalweg to maximize momentum.</li>
+<li>  <strong>Observation:</strong> Look for the smoothest, least-turbulent water with the most surface bubbles.</li>
+</ul>
+<h3 id="1-2-the-eddy-the-resting-spot">1.2. The Eddy (The Resting Spot)</h3>
+<p>An area of calm water behind an obstacle (boulder or point of land) where the current flows upstream.</p>
+<ul>
+<li>  <strong>Action:</strong> Use eddies to rest or stop when traveling upstream.</li>
+<li>  <strong>The Eddy Line:</strong> The boundary between the downstream current and the upstream eddy. Crossing this line requires a sharp angle to avoid tipping.</li>
+</ul>
+<hr>
+<h2 id="2-ferry-gliding-the-sideways-move">2. Ferry-Gliding (The Sideways Move)</h2>
+<p>To cross a river without being swept downstream:</p>
+<ol>
+<li><strong>Angle:</strong> Point the bow of the vessel at a 45-degree angle toward the far shore, facing <em>into</em> the current.</li>
+<li><strong>Momentum:</strong> As you paddle/row forward, the current pushes the side of the vessel, resulting in a perfectly straight sideways movement across the river.</li>
+</ol>
+<hr>
+<div class="section-research" id="3-scientific-validation-laminar-vs-turbulent-flow">
+<h2>3. 🔬 Scientific Validation: Laminar vs. Turbulent Flow</h2>
+<p>Navigating a river is an exercise in managing <strong>Reynolds Numbers</strong>. Laminar flow (smooth) is predictable; turbulent flow (chaotic) contains hidden energy that can capsize a vessel. We utilize the "Acoustic Signature" of the river to identify turbulence before it is visible.</p>
+<hr>
+</div>
+<div class="section-vocab" id="glossary-reference">
+<h2>Glossary Reference</h2>
+<p><em>See <a href="../../../Glossary.html">../../../Glossary.md</a> for full definitions of:</em></p>
+<ul>
+<li>  <strong>Refugia</strong></li>
+</ul>
+</div>
+<div class="section-practical" id="4-practical-implementation-guide-for-beginners">
+<h2>4. Practical Implementation Guide for Beginners</h2>
+<h3 id="4-1-step-by-step-action-plan">4.1. Step-by-Step Action Plan</h3>
+<ul>
+<li>  <strong>Phase 1: Stick Floating:</strong> Throw a stick into the river and watch its path. This reveals the Thalweg and the hidden eddies.</li>
+<li>  <strong>Phase 2: Ferry Practice:</strong> Attempt to cross a shallow, slow-moving stream in a straight line using the ferry-glide angle.</li>
+<li>  <strong>Phase 3: The Portaging Survey:</strong> Identify areas where the river is too dangerous to navigate and map the "Carry Path" (Portage) around them.</li>
+</ul>
+<h3 id="4-2-troubleshooting-failure-modes">4.2. Troubleshooting & Failure Modes</h3>
+<ul>
+<li>  <strong>Strainers:</strong> Fallen trees in the water. These are lethal because they allow water to pass but trap the vessel and the human. Always navigate to the opposite bank of a strainer.</li>
+</ul>
+</div>
     </section>
 
-    <div class="nav">
-        <span>Previous: <a href="02_Non_Motorized_Coastal_Piloting.html">02 Non-Motorized Coastal Piloting</a></span>
-        <span>Next: <a href="04_Salt_Spray_Management.html">04 Salt-Spray Management</a></span>
-    </div>
-
     <footer>
-        <p>Licensed under GNU GPLv3 | Project Aadhiyandham</p>
+        <p>Project Aadhiyandham (&#2950;&#2980;&#3007;&#2991;&#2984;&#3021;&#2980;&#2990;&#3021;) &mdash; Licensed under GNU GPLv3</p>
+        <p style="font-size: 0.85em; margin-top: 4px;">The Architecture of the Null: A User Manual for Civilization</p>
     </footer>
 </body>
 </html>

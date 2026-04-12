@@ -1,0 +1,334 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Cross-Module Dependency Map - Project Aadhiyandham</title>
+    <link rel="stylesheet" href="./style.css">
+</head>
+<body class="global-theme">
+
+    <!-- Global Navigation Bar -->
+    <nav class="global-nav">
+        <ul>
+            <li><a href="./index.html">Home</a></li>
+            <li class="dropdown">
+                <a href="javascript:void(0)" class="dropbtn">Outcome 1 &#9662;</a>
+                <div class="dropdown-content">
+                    <a href="./Outcome_1_Locating_Refugia/01_The_Journey/01_Rationale_and_Importance.html">01. The Journey</a>
+                    <a href="./Outcome_1_Locating_Refugia/02_The_Site/01_Rationale_and_Importance.html">02. The Site</a>
+                    <a href="./Outcome_1_Locating_Refugia/03_Candidate_Atlas/template_location.html">03. The Atlas</a>
+                </div>
+            </li>
+            <li class="dropdown">
+                <a href="javascript:void(0)" class="dropbtn">Outcome 2 &#9662;</a>
+                <div class="dropdown-content">
+                    <a href="./Outcome_2_Biological_Sovereignty/03_Water_and_Sanitation/01_Rationale_and_Importance.html">03. Water &amp; Sanitation</a>
+                    <a href="./Outcome_2_Biological_Sovereignty/04_Food_and_Soil_Sovereignty/01_Rationale_and_Importance.html">04. Food &amp; Soil</a>
+                    <a href="./Outcome_2_Biological_Sovereignty/05_Health_and_the_Body/01_Rationale_and_Importance.html">05. Health &amp; Body</a>
+                    <a href="./Outcome_2_Biological_Sovereignty/06_Ecological_Harmony/01_Rationale_and_Importance.html">06. Ecological Harmony</a>
+                </div>
+            </li>
+            <li class="dropdown">
+                <a href="javascript:void(0)" class="dropbtn">Outcome 3 &#9662;</a>
+                <div class="dropdown-content">
+                    <a href="./Outcome_3_Perimeter_Defense/07_Passive_Defense/01_Rationale_and_Importance.html">07. Passive Defense</a>
+                    <a href="./Outcome_3_Perimeter_Defense/07a_Active_Threat_Response/01_Rationale_and_Importance.html">07a. Active Threat Response</a>
+                    <a href="./Outcome_3_Perimeter_Defense/07b_Animal_Coexistence_Protocols/01_Rationale_and_Importance.html">07b. Animal Coexistence</a>
+                </div>
+            </li>
+            <li class="dropdown">
+                <a href="javascript:void(0)" class="dropbtn">Outcome 4 &#9662;</a>
+                <div class="dropdown-content">
+                    <a href="./Outcome_4_Psychological_Centeredness/08_The_Mind/01_Rationale_and_Importance.html">08. The Mind</a>
+                    <a href="./Outcome_4_Psychological_Centeredness/08a_Group_Dynamics/01_Rationale_and_Importance.html">08a. Group Dynamics</a>
+                    <a href="./Outcome_4_Psychological_Centeredness/08b_Childhood_Development/01_Rationale_and_Importance.html">08b. Childhood Development</a>
+                </div>
+            </li>
+            <li class="dropdown">
+                <a href="javascript:void(0)" class="dropbtn">Outcome 5 &#9662;</a>
+                <div class="dropdown-content">
+                    <a href="./Outcome_5_Decadal_Resilience/09_The_Mechanics/01_Rationale_and_Importance.html">09. The Mechanics</a>
+                    <a href="./Outcome_5_Decadal_Resilience/10_The_Society/01_Rationale_and_Importance.html">10. The Society</a>
+                    <a href="./Outcome_5_Decadal_Resilience/11_The_Next_Generation/01_Rationale_and_Importance.html">11. Education</a>
+                    <a href="./Outcome_5_Decadal_Resilience/12_The_Archive/01_Rationale_and_Importance.html">12. The Archive</a>
+                    <a href="./Outcome_5_Decadal_Resilience/13_The_Horizon/01_Rationale_and_Importance.html">13. The Horizon</a>
+                </div>
+            </li>
+            <li class="dropdown">
+                <a href="javascript:void(0)" class="dropbtn">Outcome 6 &#9662;</a>
+                <div class="dropdown-content">
+                    <a href="./Outcome_6_Flourishing_Civilization/14_Cultural_Technology/01_Rationale_and_Importance.html">14. Cultural Technology</a>
+                    <a href="./Outcome_6_Flourishing_Civilization/14a_Inter_Settlement_Diplomacy/01_Rationale_and_Importance.html">14a. Diplomacy</a>
+                    <a href="./Outcome_6_Flourishing_Civilization/14b_Knowledge_Exchange/01_Rationale_and_Importance.html">14b. Knowledge Exchange</a>
+                </div>
+            </li>
+            <li><a href="./Glossary.html">Glossary</a></li>
+        </ul>
+    </nav>
+
+
+    <header>
+        <h1>Cross-Module Dependency Map</h1>
+        <p class="alignment"></p>
+        
+        <div class="safety-banner safe"><span class="safety-icon">&#10003;</span><div><strong>Safe to Explore.</strong> This module is safe for beginners. Experiment freely — mistakes here are low-cost learning opportunities.</div></div>
+        
+        <div class="toc"><ol><li><a href="#critical-path-arrival-to-stability">Critical Path: Arrival to Stability</a></li><li><a href="#section-level-dependencies">Section-Level Dependencies</a></li><li><a href="#shared-material-dependencies">Shared Material Dependencies</a></li><li><a href="#implementation-phases">Implementation Phases</a></li></ol></div>
+    </header>
+
+    <section>
+<p>This document maps the dependencies between sections, showing which modules must be completed (or understood) before others can be effectively implemented. Use this to plan the implementation sequence for a new refugia.</p>
+<hr>
+<h2 id="critical-path-arrival-to-stability">Critical Path: Arrival to Stability</h2>
+<p>The minimum viable sequence for a newly arrived community:</p>
+<pre><code class="language-text">
+01 The Journey ──► 02 The Site ──► 03 Water &amp; Sanitation ──► 04 Food &amp; Soil
+                                          │                        │
+                                          ▼                        ▼
+                                   07 Passive Defense        06 Ecological Harmony
+                                          │                        │
+                                          ▼                        ▼
+                                   05 Health &amp; Body ────────► 08 The Mind
+                                                                   │
+                                                                   ▼
+                                                         09 The Mechanics
+                                                               │
+                                                    ┌──────────┼──────────┐
+                                                    ▼          ▼          ▼
+                                              10 Society  12 Archive  13 Horizon
+                                                    │          │
+                                                    ▼          ▼
+                                              11 Next Gen  14 Cultural Tech
+</code></pre>
+<hr>
+<h2 id="section-level-dependencies">Section-Level Dependencies</h2>
+<h3 id="outcome-1-locating-refugia">Outcome 1: Locating Refugia</h3>
+<table><thead><tr>
+<th>Section</th>
+<th>Depends On</th>
+<th>Provides To</th>
+</tr></thead><tbody>
+<tr>
+<td>01 The Journey</td>
+<td>None (entry point)</td>
+<td>02 The Site</td>
+</tr>
+<tr>
+<td>02 The Site</td>
+<td>01 The Journey</td>
+<td>03, 04, 07 (site selection informs all construction)</td>
+</tr>
+<tr>
+<td>02/08 Location Recording</td>
+<td>02 The Site (sentinels, terrain)</td>
+<td>01 Journey (route encoding), 14a Diplomacy (inter-settlement sharing)</td>
+</tr>
+<tr>
+<td>02/09 Geological Stability</td>
+<td>02 The Site (topography), 06 Field Mineralogy</td>
+<td>07 Initial Layout (safe building zones), 09 Mechanics (mineral sourcing)</td>
+</tr>
+<tr>
+<td>02/10 Climate Thresholds</td>
+<td>09 Micro-Climate Forecasting, 05 Hydrology</td>
+<td>04 Food (crop selection), 03 Water (drought planning)</td>
+</tr>
+<tr>
+<td>02/11 Soil & Water Baselines</td>
+<td>06 Field Mineralogy, 05 Hydrology</td>
+<td>04 Food (nutrient management), 03 Water (filtration design)</td>
+</tr>
+<tr>
+<td>03 Candidate Atlas</td>
+<td>All of 02 The Site (evaluation framework)</td>
+<td>01, 02 (location evaluation criteria)</td>
+</tr>
+</tbody></table>
+<h3 id="outcome-2-biological-sovereignty">Outcome 2: Biological Sovereignty</h3>
+<table><thead><tr>
+<th>Section</th>
+<th>Depends On</th>
+<th>Provides To</th>
+</tr></thead><tbody>
+<tr>
+<td>03 Water & Sanitation</td>
+<td>02 The Site (water source identification)</td>
+<td>04 Food (irrigation), 05 Health (clean water for medicine)</td>
+</tr>
+<tr>
+<td>04 Food & Soil</td>
+<td>02 The Site (soil analysis), 03 Water</td>
+<td>05 Health (nutrition), 06 Ecological (crop-ecosystem integration)</td>
+</tr>
+<tr>
+<td>05 Health & Body</td>
+<td>03 Water, 04 Food, 09 Chemistry (antiseptics)</td>
+<td>08 The Mind (physical health enables mental health)</td>
+</tr>
+<tr>
+<td>06 Ecological Harmony</td>
+<td>02 The Site, 04 Food & Soil</td>
+<td>07 Passive Defense (landscape design), 04 Food (silvopasture feedback)</td>
+</tr>
+</tbody></table>
+<h3 id="outcome-3-perimeter-defense">Outcome 3: Perimeter Defense</h3>
+<table><thead><tr>
+<th>Section</th>
+<th>Depends On</th>
+<th>Provides To</th>
+</tr></thead><tbody>
+<tr>
+<td>07 Passive Defense</td>
+<td>02 The Site (topography), 06 Ecology (defensive planting)</td>
+<td>08 The Mind (security enables psychological safety)</td>
+</tr>
+<tr>
+<td>07a Active Threat Response</td>
+<td>07 Passive Defense</td>
+<td>Community security</td>
+</tr>
+<tr>
+<td>07b Animal Coexistence</td>
+<td>06 Ecological Harmony, 07 Passive Defense</td>
+<td>04 Food (crop protection)</td>
+</tr>
+</tbody></table>
+<h3 id="outcome-4-psychological-centeredness">Outcome 4: Psychological Centeredness</h3>
+<table><thead><tr>
+<th>Section</th>
+<th>Depends On</th>
+<th>Provides To</th>
+</tr></thead><tbody>
+<tr>
+<td>08 The Mind</td>
+<td>03 Water, 04 Food, 05 Health, 07 Defense (basic needs met)</td>
+<td>10 Society (healthy individuals form healthy governance)</td>
+</tr>
+<tr>
+<td>08a Group Dynamics</td>
+<td>08 The Mind, 10 The Society</td>
+<td>Community resilience</td>
+</tr>
+<tr>
+<td>08b Childhood Development</td>
+<td>08 The Mind</td>
+<td>11 The Next Generation (psychological readiness for learning)</td>
+</tr>
+</tbody></table>
+<h3 id="outcome-5-decadal-resilience">Outcome 5: Decadal Resilience</h3>
+<table><thead><tr>
+<th>Section</th>
+<th>Depends On</th>
+<th>Provides To</th>
+</tr></thead><tbody>
+<tr>
+<td>09 The Mechanics</td>
+<td>02 The Site (water power), 03 Water (hydrams)</td>
+<td>04 Food (milling), 05 Health (surgical tools), 13 Horizon</td>
+</tr>
+<tr>
+<td>10 The Society</td>
+<td>08 The Mind, 09 Mechanics (shared labor models)</td>
+<td>11 Next Gen (governance context for curriculum)</td>
+</tr>
+<tr>
+<td>11 The Next Generation</td>
+<td>08 The Mind, 08b Childhood Dev, 10 Society, 12 Archive</td>
+<td>13 Horizon (trained minds for advanced tech)</td>
+</tr>
+<tr>
+<td>12 The Archive</td>
+<td>09 Mechanics (papermaking tools), 07 Chemistry (ink)</td>
+<td>11 Next Gen (knowledge substrate), 14b Knowledge Exchange</td>
+</tr>
+<tr>
+<td>13 The Horizon</td>
+<td>09 Mechanics (furnaces), 11 Next Gen (scientific literacy)</td>
+<td>Long-term technological advancement</td>
+</tr>
+</tbody></table>
+<h3 id="outcome-6-flourishing-civilization">Outcome 6: Flourishing Civilization</h3>
+<table><thead><tr>
+<th>Section</th>
+<th>Depends On</th>
+<th>Provides To</th>
+</tr></thead><tbody>
+<tr>
+<td>14 Cultural Technology</td>
+<td>08 The Mind, 10 The Society</td>
+<td>Community identity, multi-generational morale</td>
+</tr>
+<tr>
+<td>14a Inter-Settlement Diplomacy</td>
+<td>01 The Journey (routes), 14 Cultural Tech</td>
+<td>14b Knowledge Exchange</td>
+</tr>
+<tr>
+<td>14b Knowledge Exchange</td>
+<td>12 The Archive, 14a Diplomacy</td>
+<td>Cross-community innovation</td>
+</tr>
+</tbody></table>
+<hr>
+<h2 id="shared-material-dependencies">Shared Material Dependencies</h2>
+<p>These materials are required by multiple sections. Sourcing them is a cross-cutting concern:</p>
+<table><thead><tr>
+<th>Material</th>
+<th>Produced By</th>
+<th>Required By</th>
+</tr></thead><tbody>
+<tr>
+<td><strong>Charcoal / Biochar</strong></td>
+<td>04 Food (pyrolysis)</td>
+<td>03 Water (filtration), 09 Mechanics (smelting), 07 Chemistry (soap)</td>
+</tr>
+<tr>
+<td><strong>Clay</strong></td>
+<td>02 The Site (field mineralogy)</td>
+<td>09 Mechanics (furnaces), 09 Ceramics (pottery), 06 Structural (brick)</td>
+</tr>
+<tr>
+<td><strong>Lime</strong></td>
+<td>09 Mechanics (kiln)</td>
+<td>06 Structural Engineering (mortar), 03 Water (pH adjustment)</td>
+</tr>
+<tr>
+<td><strong>Cordage / Rope</strong></td>
+<td>09 Cordage module</td>
+<td>05 Health (traction splints), 06 Structural (timber framing), 09 Textiles (looms)</td>
+</tr>
+<tr>
+<td><strong>Iron / Steel</strong></td>
+<td>09 Mechanics (bloomery)</td>
+<td>04 Food (tools), 05 Health (surgical), 13 Horizon (advanced tech)</td>
+</tr>
+<tr>
+<td><strong>Soap / Lye</strong></td>
+<td>09 Chemistry (potash)</td>
+<td>05 Health (surgical hygiene), 05 Textiles (fiber processing)</td>
+</tr>
+<tr>
+<td><strong>Paper / Ink</strong></td>
+<td>12 The Archive</td>
+<td>11 Next Gen (curriculum), 14b Knowledge Exchange</td>
+</tr>
+</tbody></table>
+<hr>
+<h2 id="implementation-phases">Implementation Phases</h2>
+<h3 id="phase-1-first-100-days-sections-01-04-07">Phase 1: First 100 Days (Sections 01-04, 07)</h3>
+<p>Arrival, site selection, water security, food establishment, basic perimeter.</p>
+<h3 id="phase-2-stabilization-sections-05-06-08">Phase 2: Stabilization (Sections 05, 06, 08)</h3>
+<p>Health systems, ecological integration, psychological grounding.</p>
+<h3 id="phase-3-the-recycling-cliff-sections-09-10-12">Phase 3: The Recycling Cliff (Sections 09, 10, 12)</h3>
+<p>Material synthesis before scavenged resources degrade. Governance formalization. Knowledge archiving.</p>
+<h3 id="phase-4-generational-transfer-sections-11-13-14">Phase 4: Generational Transfer (Sections 11, 13, 14)</h3>
+<p>Education, advanced technologies, cultural identity, inter-settlement networking.</p>
+    </section>
+
+    <footer>
+        <p>Project Aadhiyandham (&#2950;&#2980;&#3007;&#2991;&#2984;&#3021;&#2980;&#2990;&#3021;) &mdash; Licensed under GNU GPLv3</p>
+        <p style="font-size: 0.85em; margin-top: 4px;">The Architecture of the Null: A User Manual for Civilization</p>
+    </footer>
+</body>
+</html>

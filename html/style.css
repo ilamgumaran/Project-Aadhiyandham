@@ -1,205 +1,872 @@
-/* Modern Technical Manual Theme - Project Aadhiyandham */
+/* =============================================================================
+   Project Aadhiyandham — Academic Field Manual Stylesheet
+   A structured, color-coded design for learning theory and executing practice.
+   ============================================================================= */
 
+/* --- CSS Custom Properties (Design Tokens) --- */
 :root {
-    /* Institutional Academic Palette */
-    --bg-color: #fdfdfb; 
-    --text-primary: #1a1a1a;
-    --text-secondary: #4a4a4a;
-    --border-main: #2d3436;
-    --white: #ffffff;
-    
-    /* Outcome Institutional Branding */
-    --color-outcome-1: #005f73; /* Deep Sea Teal */
-    --color-outcome-2: #0a9396; /* Bio-Green */
-    --color-outcome-3: #ae2012; /* Warning Red/Rust */
-    --color-outcome-4: #9b5de5; /* Neural Purple */
-    --color-outcome-5: #bb3e03; /* Industrial Copper */
-    --color-outcome-6: #ee9b00; /* Solar Saffron */
-    
-    /* Glossary & Link Colors */
+    /* Page */
+    --bg-page: #fcfcfa;
+    --bg-white: #ffffff;
+    --text-primary: #1a1a2e;
+    --text-secondary: #4a4a5a;
+    --text-muted: #7a7a8a;
+    --border-light: #e2e2e8;
+    --border-medium: #c8c8d0;
+
+    /* Outcome Institutional Colors */
+    --color-outcome-1: #005f73;
+    --color-outcome-2: #0a9396;
+    --color-outcome-3: #ae2012;
+    --color-outcome-4: #7b2d8e;
+    --color-outcome-5: #bb3e03;
+    --color-outcome-6: #ca8a04;
+
+    /* Semantic Section Colors — the core color-coding system */
+    --color-theory: #1a56db;        /* Blue — Why / Rationale / Theory */
+    --color-theory-bg: #eff6ff;
+    --color-theory-border: #bfdbfe;
+
+    --color-outcome: #047857;       /* Green — Expected Outcome */
+    --color-outcome-bg: #ecfdf5;
+    --color-outcome-border: #a7f3d0;
+
+    --color-materials: #92400e;     /* Amber — Materials & Sourcing */
+    --color-materials-bg: #fffbeb;
+    --color-materials-border: #fde68a;
+
+    --color-assembly: #1e3a5f;      /* Navy — Assembly / Step-by-step */
+    --color-assembly-bg: #f8fafc;
+    --color-assembly-border: #cbd5e1;
+
+    --color-safety: #dc2626;        /* Red — Safety warnings */
+    --color-safety-bg: #fef2f2;
+    --color-safety-border: #fecaca;
+
+    --color-research: #5b21b6;      /* Purple — Scientific validation */
+    --color-research-bg: #f5f3ff;
+    --color-research-border: #ddd6fe;
+
+    --color-practical: #0d9488;     /* Teal — Practical beginner guide */
+    --color-practical-bg: #f0fdfa;
+    --color-practical-border: #99f6e4;
+
+    --color-vocab: #475569;         /* Slate — Vocabulary */
+    --color-vocab-bg: #f8fafc;
+    --color-vocab-border: #cbd5e1;
+
+    --color-diagram: #374151;       /* Gray — Diagrams/Illustrations */
+    --color-diagram-bg: #ffffff;
+    --color-diagram-border: #d1d5db;
+
+    /* Glossary */
     --glossary-link: #005f73;
-    --link-hover: #94d2bd;
+    --link-hover: #0a9396;
+
+    /* Safety Tier Colors */
+    --safety-green: #16a34a;
+    --safety-yellow: #ca8a04;
+    --safety-red: #dc2626;
 }
+
+/* --- Base Reset & Typography --- */
+*, *::before, *::after { box-sizing: border-box; }
 
 body {
-    font-family: 'Inter', -apple-system, sans-serif;
-    font-size: 18px;
-    line-height: 1.7;
+    font-family: 'Charter', 'Georgia', 'Cambria', 'Times New Roman', serif;
+    font-size: 17px;
+    line-height: 1.8;
     color: var(--text-primary);
-    background-color: var(--bg-color);
-    max-width: 900px;
+    background-color: var(--bg-page);
+    max-width: 860px;
     margin: 0 auto;
-    padding: 0;
+    padding: 0 20px;
+    -webkit-font-smoothing: antialiased;
 }
 
-/* Publication Style Headings */
-h1, h2, h3 {
-    font-family: 'Georgia', serif;
+/* --- Academic Headings --- */
+h1, h2, h3, h4 {
+    font-family: 'Georgia', 'Cambria', serif;
     font-weight: 700;
-    color: #000;
+    color: var(--text-primary);
+    line-height: 1.3;
 }
 
 h1 {
-    font-size: 2.8em;
+    font-size: 2.2em;
     text-align: left;
-    padding: 60px 40px 20px 40px;
-    margin: 0;
-    background: #fff;
-    border-bottom: 1px solid #eee;
+    padding: 50px 0 15px 0;
+    margin: 0 0 5px 0;
+    border-bottom: 3px double var(--border-medium);
+    letter-spacing: -0.02em;
 }
 
 h2 {
-    font-size: 1.8em;
-    margin-top: 2.5em;
-    border-bottom: 2px solid var(--text-primary);
-    padding-bottom: 8px;
+    font-size: 1.5em;
+    margin: 2.5em 0 0.8em 0;
+    padding-bottom: 6px;
+    border-bottom: 1px solid var(--border-light);
     display: flex;
     align-items: center;
+    gap: 10px;
 }
 
 h3 {
-    font-size: 1.4em;
-    margin-top: 1.5em;
+    font-size: 1.2em;
+    margin: 1.8em 0 0.6em 0;
     color: var(--text-secondary);
 }
 
-/* Sections */
-section {
-    padding: 20px 40px;
+h4 {
+    font-size: 1.05em;
+    margin: 1.2em 0 0.5em 0;
+    color: var(--text-secondary);
 }
 
-/* Glossary Links - Visual cue for difficult terms */
+/* --- Body Text --- */
+p {
+    margin: 0.8em 0;
+    text-align: justify;
+    hyphens: auto;
+}
+
+strong { color: var(--text-primary); }
+
+a {
+    color: var(--glossary-link);
+    text-decoration: none;
+    border-bottom: 1px solid transparent;
+    transition: border-color 0.2s;
+}
+a:hover {
+    border-bottom-color: var(--link-hover);
+    color: var(--link-hover);
+}
+
+hr {
+    border: none;
+    border-top: 1px solid var(--border-light);
+    margin: 2em 0;
+}
+
+/* --- Alignment Badge (subtitle under h1) --- */
+.alignment {
+    font-family: 'Inter', -apple-system, sans-serif;
+    font-size: 0.8em;
+    font-weight: 600;
+    text-transform: uppercase;
+    letter-spacing: 0.08em;
+    color: var(--text-muted);
+    background: none;
+    padding: 0;
+    margin: 0 0 1em 0;
+    display: block;
+}
+
+/* --- Sections --- */
+section {
+    padding: 0;
+}
+
+/* =============================================================================
+   SEMANTIC SECTION COLOR CODING
+   Each module section type gets a distinct visual treatment
+   ============================================================================= */
+
+/* --- 1. THEORY / RATIONALE (Blue) --- */
+.section-theory {
+    background: var(--color-theory-bg);
+    border-left: 5px solid var(--color-theory);
+    border-radius: 0 6px 6px 0;
+    padding: 1.5em 1.8em;
+    margin: 2em 0;
+}
+.section-theory::before {
+    content: "THEORY & RATIONALE";
+    display: block;
+    font-family: 'Inter', -apple-system, sans-serif;
+    font-size: 0.7em;
+    font-weight: 700;
+    text-transform: uppercase;
+    letter-spacing: 0.12em;
+    color: var(--color-theory);
+    margin-bottom: 0.8em;
+}
+.section-theory h2 { color: var(--color-theory); border: none; margin-top: 0; }
+
+/* --- 2. EXPECTED OUTCOME (Green) --- */
+.section-outcome {
+    background: var(--color-outcome-bg);
+    border-left: 5px solid var(--color-outcome);
+    border-radius: 0 6px 6px 0;
+    padding: 1.5em 1.8em;
+    margin: 2em 0;
+}
+.section-outcome::before {
+    content: "EXPECTED OUTCOME";
+    display: block;
+    font-family: 'Inter', -apple-system, sans-serif;
+    font-size: 0.7em;
+    font-weight: 700;
+    text-transform: uppercase;
+    letter-spacing: 0.12em;
+    color: var(--color-outcome);
+    margin-bottom: 0.8em;
+}
+.section-outcome h2 { color: var(--color-outcome); border: none; margin-top: 0; }
+
+/* --- 3. MATERIALS (Amber) --- */
+.section-materials {
+    background: var(--color-materials-bg);
+    border-left: 5px solid var(--color-materials);
+    border-radius: 0 6px 6px 0;
+    padding: 1.5em 1.8em;
+    margin: 2em 0;
+}
+.section-materials::before {
+    content: "MATERIALS & SOURCING";
+    display: block;
+    font-family: 'Inter', -apple-system, sans-serif;
+    font-size: 0.7em;
+    font-weight: 700;
+    text-transform: uppercase;
+    letter-spacing: 0.12em;
+    color: var(--color-materials);
+    margin-bottom: 0.8em;
+}
+.section-materials h2 { color: var(--color-materials); border: none; margin-top: 0; }
+
+/* --- 4. ASSEMBLY / INSTRUCTIONS (Navy) --- */
+.section-assembly {
+    background: var(--color-assembly-bg);
+    border-left: 5px solid var(--color-assembly);
+    border-radius: 0 6px 6px 0;
+    padding: 1.5em 1.8em;
+    margin: 2em 0;
+}
+.section-assembly::before {
+    content: "STEP-BY-STEP INSTRUCTIONS";
+    display: block;
+    font-family: 'Inter', -apple-system, sans-serif;
+    font-size: 0.7em;
+    font-weight: 700;
+    text-transform: uppercase;
+    letter-spacing: 0.12em;
+    color: var(--color-assembly);
+    margin-bottom: 0.8em;
+}
+.section-assembly h2 { color: var(--color-assembly); border: none; margin-top: 0; }
+
+/* --- 5. DIAGRAM / ILLUSTRATION (Gray card) --- */
+.section-diagram {
+    background: var(--color-diagram-bg);
+    border: 2px solid var(--color-diagram-border);
+    border-radius: 6px;
+    padding: 1.5em 1.8em;
+    margin: 2em 0;
+    text-align: center;
+}
+.section-diagram::before {
+    content: "ILLUSTRATION";
+    display: block;
+    font-family: 'Inter', -apple-system, sans-serif;
+    font-size: 0.7em;
+    font-weight: 700;
+    text-transform: uppercase;
+    letter-spacing: 0.12em;
+    color: var(--color-diagram);
+    margin-bottom: 0.8em;
+    text-align: left;
+}
+.section-diagram h2 { color: var(--color-diagram); border: none; margin-top: 0; }
+.section-diagram pre {
+    text-align: left;
+    background: #f9fafb;
+    padding: 1.2em;
+    border-radius: 4px;
+    border: 1px solid var(--color-diagram-border);
+    overflow-x: auto;
+    font-size: 0.85em;
+    line-height: 1.5;
+}
+
+/* --- 6. VOCABULARY (Slate) --- */
+.section-vocab {
+    background: var(--color-vocab-bg);
+    border-left: 5px solid var(--color-vocab);
+    border-radius: 0 6px 6px 0;
+    padding: 1.5em 1.8em;
+    margin: 2em 0;
+}
+.section-vocab::before {
+    content: "KEY TERMINOLOGY";
+    display: block;
+    font-family: 'Inter', -apple-system, sans-serif;
+    font-size: 0.7em;
+    font-weight: 700;
+    text-transform: uppercase;
+    letter-spacing: 0.12em;
+    color: var(--color-vocab);
+    margin-bottom: 0.8em;
+}
+.section-vocab h2 { color: var(--color-vocab); border: none; margin-top: 0; }
+
+/* --- 7. SCIENTIFIC VALIDATION (Purple) --- */
+.section-research {
+    background: var(--color-research-bg);
+    border-left: 5px solid var(--color-research);
+    border-radius: 0 6px 6px 0;
+    padding: 1.5em 1.8em;
+    margin: 2em 0;
+}
+.section-research::before {
+    content: "SCIENTIFIC VALIDATION";
+    display: block;
+    font-family: 'Inter', -apple-system, sans-serif;
+    font-size: 0.7em;
+    font-weight: 700;
+    text-transform: uppercase;
+    letter-spacing: 0.12em;
+    color: var(--color-research);
+    margin-bottom: 0.8em;
+}
+.section-research h2 { color: var(--color-research); border: none; margin-top: 0; }
+
+/* --- 8. PRACTICAL GUIDE (Teal) --- */
+.section-practical {
+    background: var(--color-practical-bg);
+    border-left: 5px solid var(--color-practical);
+    border-radius: 0 6px 6px 0;
+    padding: 1.5em 1.8em;
+    margin: 2em 0;
+}
+.section-practical::before {
+    content: "PRACTICAL FIELD GUIDE";
+    display: block;
+    font-family: 'Inter', -apple-system, sans-serif;
+    font-size: 0.7em;
+    font-weight: 700;
+    text-transform: uppercase;
+    letter-spacing: 0.12em;
+    color: var(--color-practical);
+    margin-bottom: 0.8em;
+}
+.section-practical h2 { color: var(--color-practical); border: none; margin-top: 0; }
+
+/* =============================================================================
+   SAFETY FRAMEWORK
+   ============================================================================= */
+.safety-banner {
+    display: flex;
+    align-items: center;
+    gap: 12px;
+    padding: 12px 18px;
+    border-radius: 6px;
+    margin: 1.5em 0;
+    font-family: 'Inter', -apple-system, sans-serif;
+    font-size: 0.88em;
+    font-weight: 600;
+}
+.safety-banner.safe {
+    background: #f0fdf4;
+    border: 2px solid #86efac;
+    color: #166534;
+}
+.safety-banner.caution {
+    background: #fefce8;
+    border: 2px solid #fde047;
+    color: #854d0e;
+}
+.safety-banner.danger {
+    background: #fef2f2;
+    border: 2px solid #fca5a5;
+    color: #991b1b;
+}
+.safety-icon {
+    font-size: 1.4em;
+    flex-shrink: 0;
+}
+
+/* Start-Small Progression Box */
+.start-small {
+    background: linear-gradient(135deg, #f0fdf4 0%, #ecfdf5 100%);
+    border: 2px dashed #86efac;
+    border-radius: 8px;
+    padding: 1.2em 1.5em;
+    margin: 1.5em 0;
+    font-family: 'Inter', -apple-system, sans-serif;
+    font-size: 0.9em;
+}
+.start-small::before {
+    content: "START SMALL — PROTOTYPE FIRST";
+    display: block;
+    font-size: 0.75em;
+    font-weight: 700;
+    text-transform: uppercase;
+    letter-spacing: 0.1em;
+    color: var(--safety-green);
+    margin-bottom: 0.6em;
+}
+
+/* Room for Improvement callout */
+.room-to-explore {
+    background: linear-gradient(135deg, #eff6ff 0%, #f5f3ff 100%);
+    border: 2px dashed #93c5fd;
+    border-radius: 8px;
+    padding: 1.2em 1.5em;
+    margin: 1.5em 0;
+    font-family: 'Inter', -apple-system, sans-serif;
+    font-size: 0.9em;
+}
+.room-to-explore::before {
+    content: "ROOM TO EXPLORE";
+    display: block;
+    font-size: 0.75em;
+    font-weight: 700;
+    text-transform: uppercase;
+    letter-spacing: 0.1em;
+    color: var(--color-theory);
+    margin-bottom: 0.6em;
+}
+
+/* =============================================================================
+   TABLES — Academic style
+   ============================================================================= */
+table {
+    width: 100%;
+    border-collapse: collapse;
+    margin: 1.5em 0;
+    font-size: 0.92em;
+    line-height: 1.5;
+}
+thead th {
+    background: var(--text-primary);
+    color: #fff;
+    font-family: 'Inter', -apple-system, sans-serif;
+    font-size: 0.8em;
+    font-weight: 700;
+    text-transform: uppercase;
+    letter-spacing: 0.06em;
+    padding: 10px 14px;
+    text-align: left;
+}
+tbody td {
+    padding: 10px 14px;
+    border-bottom: 1px solid var(--border-light);
+    vertical-align: top;
+}
+tbody tr:nth-child(even) { background: #f9f9fb; }
+tbody tr:hover { background: #f0f0f5; }
+
+/* =============================================================================
+   CODE BLOCKS (for ASCII diagrams)
+   ============================================================================= */
+pre, code {
+    font-family: 'SFMono-Regular', 'Consolas', 'Liberation Mono', 'Menlo', monospace;
+}
+pre {
+    background: #1e293b;
+    color: #e2e8f0;
+    padding: 1.5em;
+    border-radius: 6px;
+    overflow-x: auto;
+    font-size: 0.82em;
+    line-height: 1.6;
+    margin: 1.5em 0;
+}
+code {
+    background: #f1f5f9;
+    padding: 2px 6px;
+    border-radius: 3px;
+    font-size: 0.9em;
+    color: var(--color-assembly);
+}
+pre code {
+    background: none;
+    padding: 0;
+    color: inherit;
+}
+
+/* =============================================================================
+   LISTS
+   ============================================================================= */
+ul, ol {
+    padding-left: 1.8em;
+    margin: 0.8em 0;
+}
+li {
+    margin: 0.4em 0;
+}
+li > ul, li > ol {
+    margin: 0.2em 0;
+}
+
+/* =============================================================================
+   TABLE OF CONTENTS (auto-generated sidebar)
+   ============================================================================= */
+.toc {
+    background: #f8f9fa;
+    border: 1px solid var(--border-light);
+    border-radius: 6px;
+    padding: 1.2em 1.5em;
+    margin: 1.5em 0 2.5em 0;
+    font-size: 0.88em;
+}
+.toc::before {
+    content: "IN THIS MODULE";
+    display: block;
+    font-family: 'Inter', -apple-system, sans-serif;
+    font-size: 0.7em;
+    font-weight: 700;
+    text-transform: uppercase;
+    letter-spacing: 0.12em;
+    color: var(--text-muted);
+    margin-bottom: 0.8em;
+    padding-bottom: 0.5em;
+    border-bottom: 1px solid var(--border-light);
+}
+.toc ol {
+    padding-left: 1.2em;
+    margin: 0;
+    counter-reset: toc-counter;
+    list-style: none;
+}
+.toc li {
+    counter-increment: toc-counter;
+    margin: 0.4em 0;
+    line-height: 1.4;
+}
+.toc li::before {
+    content: counter(toc-counter) ".";
+    font-weight: 600;
+    color: var(--text-muted);
+    margin-right: 0.5em;
+    font-size: 0.9em;
+}
+.toc a {
+    color: var(--text-secondary);
+    border: none;
+}
+.toc a:hover { color: var(--color-theory); }
+
+/* Color dots in TOC matching section type */
+.toc .dot-theory { color: var(--color-theory); }
+.toc .dot-outcome { color: var(--color-outcome); }
+.toc .dot-materials { color: var(--color-materials); }
+.toc .dot-assembly { color: var(--color-assembly); }
+.toc .dot-diagram { color: var(--color-diagram); }
+.toc .dot-vocab { color: var(--color-vocab); }
+.toc .dot-research { color: var(--color-research); }
+.toc .dot-practical { color: var(--color-practical); }
+
+/* =============================================================================
+   METADATA BLOCK (frontmatter display)
+   ============================================================================= */
+.module-meta {
+    display: grid;
+    grid-template-columns: repeat(auto-fill, minmax(180px, 1fr));
+    gap: 8px 20px;
+    background: #f8f9fa;
+    border: 1px solid var(--border-light);
+    border-radius: 6px;
+    padding: 1em 1.5em;
+    margin: 1em 0 2em 0;
+    font-family: 'Inter', -apple-system, sans-serif;
+    font-size: 0.8em;
+}
+.module-meta dt {
+    font-weight: 700;
+    text-transform: uppercase;
+    letter-spacing: 0.06em;
+    color: var(--text-muted);
+    font-size: 0.8em;
+}
+.module-meta dd {
+    margin: 0 0 0.5em 0;
+    color: var(--text-primary);
+    font-weight: 500;
+}
+
+/* =============================================================================
+   GLOSSARY LINKS
+   ============================================================================= */
 .glossary-term {
     color: var(--glossary-link);
     text-decoration: none;
     border-bottom: 1px dotted var(--glossary-link);
     font-weight: 600;
     cursor: help;
+    transition: all 0.2s;
 }
-
 .glossary-term:hover {
     background-color: #e9f5f5;
     border-bottom: 1px solid var(--glossary-link);
 }
 
-/* Callout Blocks: Engaging & Instructional */
+/* =============================================================================
+   NAVIGATION
+   ============================================================================= */
 
-/* THE HOW-TO BOX (Actionable Steps) */
-.how-to {
-    background-color: #fff;
-    border: 1px solid #ddd;
-    border-left: 10px solid var(--text-secondary);
-    border-radius: 4px;
-    padding: 25px;
-    margin: 2.5em 0;
-    box-shadow: 5px 5px 0px #f1f1f1;
-}
-
-.how-to h3 {
-    margin-top: 0;
-    font-family: 'Inter', sans-serif;
-    text-transform: uppercase;
-    font-size: 0.9em;
-    letter-spacing: 1px;
-    color: #555;
-}
-
-/* RESEARCH VALIDATION (The Academic Proof) */
-.research-validation {
-    background-color: #f0f4f8 !important;
-    border: 1px solid #d1d9e0 !important;
-    border-radius: 4px !important;
-    padding: 25px !important;
-    margin: 2.5em 0 !important;
-}
-
-.research-validation h3 {
-    margin-top: 0 !important;
-    color: #24292e !important;
-    font-family: 'Inter', sans-serif;
-    font-size: 0.9em;
-    text-transform: uppercase;
-}
-
-/* ILLUSTRATIONS / DIAGRAMS */
-.diagram {
-    background: #fff;
-    border: 2px solid #eee;
-    border-radius: 8px;
-    padding: 30px;
-    margin: 3em 0;
-    text-align: center;
-}
-
-.diagram-caption {
-    font-size: 0.85em;
-    color: #666;
-    margin-top: 15px;
-    font-style: italic;
-}
-
-/* Outcome-Specific Top Borders for H1 */
-body.outcome-1 h1 { border-top: 15px solid var(--color-outcome-1); }
-body.outcome-2 h1 { border-top: 15px solid var(--color-outcome-2); }
-body.outcome-3 h1 { border-top: 15px solid var(--color-outcome-3); }
-body.outcome-4 h1 { border-top: 15px solid var(--color-outcome-4); }
-body.outcome-5 h1 { border-top: 15px solid var(--color-outcome-5); }
-body.outcome-6 h1 { border-top: 15px solid var(--color-outcome-6); }
-body.global-theme h1 { border-top: 15px solid var(--border-main); }
-
-/* Global Nav */
+/* Global Sticky Nav Bar */
 .global-nav {
-    background: #fff;
-    border-bottom: 1px solid #eee;
-    padding: 10px 0;
+    background: var(--text-primary);
     position: sticky;
     top: 0;
-    z-index: 100;
+    z-index: 1000;
+    border-radius: 0 0 6px 6px;
+    margin-bottom: 0;
+    box-shadow: 0 2px 8px rgba(0,0,0,0.15);
 }
-
 .global-nav ul {
-    list-style: none;
-    display: flex;
-    justify-content: center;
-    gap: 20px;
-    padding: 0;
+    list-style-type: none;
     margin: 0;
+    padding: 0;
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
 }
-
-.global-nav a {
+.global-nav li { position: relative; }
+.global-nav li a, .global-nav .dropbtn {
+    display: inline-block;
+    color: #cbd5e1;
+    text-align: center;
+    padding: 12px 15px;
     text-decoration: none;
-    color: #666;
-    font-size: 0.85em;
+    font-family: 'Inter', -apple-system, sans-serif;
+    font-size: 0.78em;
     font-weight: 600;
     text-transform: uppercase;
+    letter-spacing: 0.05em;
+    border: none;
+    cursor: pointer;
+    background: none;
+    transition: color 0.2s;
 }
-
-.global-nav a:hover {
-    color: #000;
+.global-nav li a:hover, .global-nav .dropdown:hover .dropbtn {
+    color: #ffffff;
+    background: rgba(255,255,255,0.1);
 }
+.global-nav li.dropdown { display: inline-block; }
+.global-nav .dropdown-content {
+    display: none;
+    position: absolute;
+    background: var(--bg-white);
+    min-width: 220px;
+    box-shadow: 0 8px 24px rgba(0,0,0,0.15);
+    z-index: 1001;
+    border-radius: 0 0 6px 6px;
+    border-top: 3px solid var(--color-theory);
+}
+.global-nav .dropdown-content a {
+    color: var(--text-primary);
+    padding: 10px 16px;
+    text-decoration: none;
+    display: block;
+    text-align: left;
+    border-bottom: 1px solid #f1f1f1;
+    font-size: 0.82em;
+    text-transform: none;
+    letter-spacing: 0;
+    transition: all 0.15s;
+}
+.global-nav .dropdown-content a:hover {
+    background: var(--color-theory-bg);
+    color: var(--color-theory);
+    border-bottom-color: #f1f1f1;
+}
+.global-nav .dropdown:hover .dropdown-content { display: block; }
 
 /* Breadcrumbs */
 .breadcrumbs {
-    padding: 15px 40px;
-    font-size: 0.8em;
-    color: #888;
-    background: #f9f9f9;
+    padding: 12px 0;
+    font-family: 'Inter', -apple-system, sans-serif;
+    font-size: 0.78em;
+    color: var(--text-muted);
+    border-bottom: 1px solid var(--border-light);
+    margin-bottom: 0;
+}
+.breadcrumbs a { color: var(--text-muted); }
+.breadcrumbs a:hover { color: var(--color-theory); }
+
+/* Prev/Next Navigation */
+.nav {
+    display: flex;
+    justify-content: space-between;
+    padding: 1.5em 0;
+    margin-top: 3em;
+    border-top: 2px solid var(--border-light);
+    font-family: 'Inter', -apple-system, sans-serif;
+    font-size: 0.85em;
+}
+.nav a {
+    color: var(--color-theory);
+    font-weight: 600;
 }
 
-/* Vocabulary Section (Local to page) */
-.vocabulary {
-    margin-top: 5em;
-    padding: 40px;
-    background: #f1f1f1;
-    border-radius: 8px;
+/* =============================================================================
+   OUTCOME-SPECIFIC BRANDING
+   ============================================================================= */
+body.outcome-1 h1 { border-top: 6px solid var(--color-outcome-1); padding-top: 25px; }
+body.outcome-2 h1 { border-top: 6px solid var(--color-outcome-2); padding-top: 25px; }
+body.outcome-3 h1 { border-top: 6px solid var(--color-outcome-3); padding-top: 25px; }
+body.outcome-4 h1 { border-top: 6px solid var(--color-outcome-4); padding-top: 25px; }
+body.outcome-5 h1 { border-top: 6px solid var(--color-outcome-5); padding-top: 25px; }
+body.outcome-6 h1 { border-top: 6px solid var(--color-outcome-6); padding-top: 25px; }
+body.global-theme h1 { border-top: 6px solid var(--text-primary); padding-top: 25px; }
+
+/* =============================================================================
+   SECTION COLOR LEGEND (shown at top of modules)
+   ============================================================================= */
+.color-legend {
+    display: flex;
+    flex-wrap: wrap;
+    gap: 8px;
+    margin: 1em 0 0.5em 0;
+    font-family: 'Inter', -apple-system, sans-serif;
+    font-size: 0.7em;
 }
+.color-legend span {
+    display: inline-flex;
+    align-items: center;
+    gap: 5px;
+    padding: 3px 10px;
+    border-radius: 20px;
+    font-weight: 600;
+    letter-spacing: 0.03em;
+}
+.legend-theory { background: var(--color-theory-bg); color: var(--color-theory); border: 1px solid var(--color-theory-border); }
+.legend-outcome { background: var(--color-outcome-bg); color: var(--color-outcome); border: 1px solid var(--color-outcome-border); }
+.legend-materials { background: var(--color-materials-bg); color: var(--color-materials); border: 1px solid var(--color-materials-border); }
+.legend-assembly { background: var(--color-assembly-bg); color: var(--color-assembly); border: 1px solid var(--color-assembly-border); }
+.legend-research { background: var(--color-research-bg); color: var(--color-research); border: 1px solid var(--color-research-border); }
+.legend-practical { background: var(--color-practical-bg); color: var(--color-practical); border: 1px solid var(--color-practical-border); }
 
-.vocabulary h2 { border-bottom: 1px solid #ccc; }
+/* =============================================================================
+   DIFFICULTY BADGE
+   ============================================================================= */
+.difficulty-badge {
+    display: inline-block;
+    font-family: 'Inter', -apple-system, sans-serif;
+    font-size: 0.72em;
+    font-weight: 700;
+    text-transform: uppercase;
+    letter-spacing: 0.08em;
+    padding: 3px 12px;
+    border-radius: 20px;
+    margin-left: 8px;
+    vertical-align: middle;
+}
+.difficulty-beginner { background: #dcfce7; color: #166534; }
+.difficulty-moderate { background: #fef9c3; color: #854d0e; }
+.difficulty-advanced { background: #fee2e2; color: #991b1b; }
+.difficulty-expert { background: #f3e8ff; color: #6b21a8; }
 
-footer {
-    padding: 60px 40px;
+/* =============================================================================
+   LEGACY COMPAT — old class names still used in some HTML
+   ============================================================================= */
+.how-to { /* alias to section-practical */
+    background: var(--color-practical-bg);
+    border-left: 5px solid var(--color-practical);
+    border-radius: 0 6px 6px 0;
+    padding: 1.5em 1.8em;
+    margin: 2em 0;
+}
+.research-validation {
+    background: var(--color-research-bg) !important;
+    border: none !important;
+    border-left: 5px solid var(--color-research) !important;
+    border-radius: 0 6px 6px 0 !important;
+    padding: 1.5em 1.8em !important;
+    margin: 2em 0 !important;
+}
+.practical-guide {
+    background: var(--color-practical-bg);
+    border-left: 5px solid var(--color-practical);
+    border-radius: 0 6px 6px 0;
+    padding: 1.5em 1.8em;
+    margin: 2em 0;
+}
+.diagram {
+    background: var(--color-diagram-bg);
+    border: 2px solid var(--color-diagram-border);
+    border-radius: 6px;
+    padding: 1.5em;
+    margin: 2em 0;
     text-align: center;
-    font-size: 0.8em;
-    color: #999;
-    border-top: 1px solid #eee;
+}
+.diagram-container {
+    background: var(--color-diagram-bg);
+    border: 2px solid var(--color-diagram-border);
+    border-radius: 6px;
+    padding: 1.5em;
+    margin: 2em 0;
+    text-align: center;
+}
+.diagram-container svg { max-width: 100%; height: auto; }
+.diagram-caption {
+    font-family: 'Inter', -apple-system, sans-serif;
+    font-size: 0.82em;
+    color: var(--text-muted);
+    margin-top: 12px;
+    font-style: italic;
+}
+.instruction-step {
+    margin-bottom: 12px;
+    padding-left: 15px;
+    border-left: 3px solid var(--color-outcome);
+}
+
+.vocabulary {
+    background: var(--color-vocab-bg);
+    border-left: 5px solid var(--color-vocab);
+    border-radius: 0 6px 6px 0;
+    padding: 1.5em 1.8em;
+    margin: 2em 0;
+}
+.vocabulary h2 { border-bottom: 1px solid var(--border-light); color: var(--color-vocab); }
+
+/* =============================================================================
+   FOOTER
+   ============================================================================= */
+footer {
+    padding: 40px 0;
+    text-align: center;
+    font-family: 'Inter', -apple-system, sans-serif;
+    font-size: 0.78em;
+    color: var(--text-muted);
+    border-top: 1px solid var(--border-light);
+    margin-top: 3em;
+}
+
+/* =============================================================================
+   PRINT STYLES
+   ============================================================================= */
+@media print {
+    .global-nav, .breadcrumbs, .nav, .toc, .color-legend { display: none; }
+    body { max-width: 100%; font-size: 11pt; }
+    .section-theory, .section-outcome, .section-materials, .section-assembly,
+    .section-diagram, .section-vocab, .section-research, .section-practical {
+        break-inside: avoid;
+        border-left-width: 3px;
+    }
+    h1 { font-size: 18pt; }
+    h2 { font-size: 14pt; }
+    pre { font-size: 8pt; }
+}
+
+/* =============================================================================
+   RESPONSIVE
+   ============================================================================= */
+@media (max-width: 768px) {
+    body { font-size: 15px; padding: 0 12px; }
+    h1 { font-size: 1.6em; }
+    h2 { font-size: 1.3em; }
+    .module-meta { grid-template-columns: 1fr 1fr; }
+    .global-nav li a, .global-nav .dropbtn { padding: 10px 8px; font-size: 0.7em; }
+    .section-theory, .section-outcome, .section-materials, .section-assembly,
+    .section-diagram, .section-vocab, .section-research, .section-practical {
+        padding: 1em 1.2em;
+        margin: 1.5em -12px;
+        border-radius: 0;
+    }
 }
