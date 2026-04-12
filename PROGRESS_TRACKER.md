@@ -54,9 +54,9 @@
 - [T] `01_Rationale_and_Importance.md`
 - [T] `02_Bio_Sand_Filtration.md`
 - [T] `03_Immediate_Sanitation.md`
-- [ ] `04_Humanure_Composting.md`
-- [ ] `05_Humanure_Integration.md`
-- [ ] `06_Thermophilic_Sanitation_Math.md`
+- [T] `04_Humanure_Composting.md`
+- [T] `05_Humanure_Integration.md`
+- [T] `06_Thermophilic_Sanitation_Math.md`
 
 ### 04 Food and Soil Sovereignty
 - [ ] `01_Rationale_and_Importance.md`
@@ -215,3 +215,4 @@
 | 9 | 2026-04-12 | 02.06, 02.07, 02.08 | Field Mineralogy (Mohs hardness scale, soil texture triangle, phosphorus as limiting element, 10-mineral identification table, pH testing 4 methods, jar settle test, clay prospecting, 15-species indicator plants), Initial Site Layout (Mollison zone theory with caloric geometry, sector analysis, Yeomans keyline system, gravity-water axis ASCII diagram, Roman castrum precedent, caloric audit worksheet), Location Recording (information theory ~25 bits, durability hierarchy of media, three-system redundancy, location record document template) |
 | 10 | 2026-04-12 | 02.09, 02.10, 02.11 | Geological Stability (FoS concept, return period probability, 5-threat framework restructured, geological site assessment checklist), Climate Adaptation Thresholds (climate envelope formalization, climate inertia/committed warming, relocation trigger doctrine, 5-year baseline rule), Soil & Water Quality (soil food web biology, CEC concept, earthworm census, phosphorus covenant, restructured N-P-K/water quality tests). **OUTCOME 1 COMPLETE — 30/30 modules at [T] status.** |
 | 11 | 2026-04-12 | 03.01, 03.02, 03.03 | Water & Sanitation Rationale (F-diagram fecal-oral pathways, waterborne disease epidemiology, John Snow/cholera, water demand 5-tier hierarchy 2.5-50 L/person/day, sanitation-disease-nutrition triangle, environmental enteropathy, phosphorus imperative 0.5 kg P/person/year, phased 100-day deployment), Bio-Sand Filtration (Darcy's Law Q=KA·Δh/L, Schmutzdecke biofilm ecology, 4 pathogen removal mechanisms, CAWST removal efficiency data 90-99% bacteria, filter sizing for 50-person settlement, swirl-and-dump maintenance), Immediate Sanitation (germ theory/F-diagram, displacement epidemiology WHO data, groundwater contamination physics, fly vector biology, trench→pit→VIP latrine progression, tippy-tap handwashing, 3 ASCII diagrams) |
+| 12 | 2026-04-12 | 03.04, 03.05, 03.06 | Humanure Composting (thermophilic decomposition 4 phases, C:N ratio 25-35:1 with carbon source table, moisture/oxygen requirements, pathogen destruction kinetics first-order N(t)=N₀e^(-kt), dry toilet construction, 3-bin system ASCII layout, zero-tech temperature monitoring via metal rod/wrist), Humanure Integration (phosphorus bottleneck 0.5 kg P/person/year, CEC comparison sandy→clay→biochar, Terra Preta 2000-year model, biochar charging protocol, 3 application methods, crop rotation table, nutrient budget worksheet), Thermophilic Sanitation Math (D-value concept, 11-organism thermal death table with D₅₅/D₆₀/D₆₅, Ascaris as indicator organism, Arrhenius equation, 3 zero-tech temperature methods, wax melting-point indicators, seed germination bio-assay, temperature log template). **SECTION 03 COMPLETE — 6/6 modules at [T] status.** |
