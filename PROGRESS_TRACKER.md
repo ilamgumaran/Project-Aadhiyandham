@@ -51,9 +51,9 @@
 ## Outcome 2 -- Biological Sovereignty
 
 ### 03 Water and Sanitation
-- [ ] `01_Rationale_and_Importance.md`
-- [ ] `02_Bio_Sand_Filtration.md`
-- [ ] `03_Immediate_Sanitation.md`
+- [T] `01_Rationale_and_Importance.md`
+- [T] `02_Bio_Sand_Filtration.md`
+- [T] `03_Immediate_Sanitation.md`
 - [ ] `04_Humanure_Composting.md`
 - [ ] `05_Humanure_Integration.md`
 - [ ] `06_Thermophilic_Sanitation_Math.md`
@@ -214,3 +214,4 @@
 | 8 | 2026-04-12 | 02.03, 02.04, 02.05 | Solar & Thermal Balance (solar altitude formula, overhang sizing table by latitude, thermal mass calculations, circadian biology 2500 lux threshold, vitamin D synthesis, Greek/Roman precedents), Water Sovereignty & Hydrams (Joukowsky equation 28 bar water hammer, D'Aubuisson efficiency, drive pipe energy accumulator, hydram sizing calculator, alternative zero-energy water lifting), Hydrological Analysis (Rational Method Q=CIA, drought probability over 500yr horizon, baseflow vs stormflow, reservoir design guide, rainwater harvesting calculations, water budget worksheet) |
 | 9 | 2026-04-12 | 02.06, 02.07, 02.08 | Field Mineralogy (Mohs hardness scale, soil texture triangle, phosphorus as limiting element, 10-mineral identification table, pH testing 4 methods, jar settle test, clay prospecting, 15-species indicator plants), Initial Site Layout (Mollison zone theory with caloric geometry, sector analysis, Yeomans keyline system, gravity-water axis ASCII diagram, Roman castrum precedent, caloric audit worksheet), Location Recording (information theory ~25 bits, durability hierarchy of media, three-system redundancy, location record document template) |
 | 10 | 2026-04-12 | 02.09, 02.10, 02.11 | Geological Stability (FoS concept, return period probability, 5-threat framework restructured, geological site assessment checklist), Climate Adaptation Thresholds (climate envelope formalization, climate inertia/committed warming, relocation trigger doctrine, 5-year baseline rule), Soil & Water Quality (soil food web biology, CEC concept, earthworm census, phosphorus covenant, restructured N-P-K/water quality tests). **OUTCOME 1 COMPLETE — 30/30 modules at [T] status.** |
+| 11 | 2026-04-12 | 03.01, 03.02, 03.03 | Water & Sanitation Rationale (F-diagram fecal-oral pathways, waterborne disease epidemiology, John Snow/cholera, water demand 5-tier hierarchy 2.5-50 L/person/day, sanitation-disease-nutrition triangle, environmental enteropathy, phosphorus imperative 0.5 kg P/person/year, phased 100-day deployment), Bio-Sand Filtration (Darcy's Law Q=KA·Δh/L, Schmutzdecke biofilm ecology, 4 pathogen removal mechanisms, CAWST removal efficiency data 90-99% bacteria, filter sizing for 50-person settlement, swirl-and-dump maintenance), Immediate Sanitation (germ theory/F-diagram, displacement epidemiology WHO data, groundwater contamination physics, fly vector biology, trench→pit→VIP latrine progression, tippy-tap handwashing, 3 ASCII diagrams) |
