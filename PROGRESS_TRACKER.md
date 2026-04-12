@@ -31,11 +31,11 @@
 - [T] `10_Maritime_and_Riverine_Sovereignty/01_Rationale_and_Importance.md`
 - [T] `10_Maritime_and_Riverine_Sovereignty/02_Non_Motorized_Coastal_Piloting.md`
 - [T] `10_Maritime_and_Riverine_Sovereignty/03_Riverine_Logic.md`
-- [ ] `10_Maritime_and_Riverine_Sovereignty/04_Salt_Spray_Management.md`
+- [T] `10_Maritime_and_Riverine_Sovereignty/04_Salt_Spray_Management.md`
 
 ### 02 The Site
-- [ ] `01_Rationale_and_Importance.md`
-- [ ] `02_Topographical_Resilience.md`
+- [T] `01_Rationale_and_Importance.md`
+- [T] `02_Topographical_Resilience.md`
 - [ ] `03_Solar_and_Thermal_Balance.md`
 - [ ] `04_Water_Sovereignty_and_Hydrams.md`
 - [ ] `05_Hydrological_Analysis_and_Watershed_Math.md`
@@ -210,3 +210,4 @@
 | 4 | 2026-04-12 | 01.05.02, 01.06, 01.07 | Zero-Power Communication (heliograph physics, Aadhiyandham Signal Code, OTP encryption, Split-Token auth), Georgia Transit Guide (travois physics, port-to-foothill transition, Route 1 ATL→Sequatchie 280km, Route 2 ATL→Ozarks 900km), Emergency Family Transit (HPA axis stress psychophysiology, child developmental stages, 50% Rule, Bug-Out Chain formation) |
 | 5 | 2026-04-12 | 01.08, 01.09.01, 01.09.02 | Essential Packing List (Margaria's load-carrying physics, Irreplaceability Hierarchy, 7-category weight budget, seed viability), Micro-Climate Forecasting (ideal gas law, adiabatic lapse rates, complete cloud atlas, Beaufort Scale, sling psychrometer, Buys Ballot's Law), Phenological Indicators (Growing Degree-Days formula, Hopkins' Bioclimatic Law, 23-species phenological calendar, planting decision matrix) |
 | 6 | 2026-04-12 | 01.10.01, 01.10.02, 01.10.03 | Maritime Rationale (water transport energetics 5-10x land efficiency, Archimedes' displacement, sail force physics, vessel selection matrix, Blue Refugia concept), Coastal Piloting (transit geometry, vertical sextant angle, kamal/pelorus construction, danger bearing, lead line, three-point fix), Riverine Logic (continuity equation Q=AV, Bernoulli's principle, helicoidal flow, Class I-VI rapids, ferry glide mechanics, strainer safety) |
+| 7 | 2026-04-12 | 01.10.04, 02.01, 02.02 | Salt Spray Management (NaCl aerosol exponential decay, osmotic stress dS/m thresholds, halophyte physiology, three-belt planting guide, soil desalination protocol), Site Rationale (Liebig's Law, IPCC sea level projections, thermal belt physics, site selection scorecard 320-point system, 7-day assessment protocol), Topographical Resilience (angle of repose by soil type, FoS>1.5, flood recurrence probability, Venturi effect, thermal belt mapping, 8-point floodplain checklist) |
