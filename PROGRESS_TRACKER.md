@@ -25,9 +25,9 @@
 - [T] `05_Networking_and_Trade/02_Zero_Power_Communication_Protocols.md`
 - [T] `06_Transit_Guide_from_Georgia_USA.md`
 - [T] `07_Emergency_Family_Transit_Protocol.md`
-- [ ] `08_Essential_Packing_List.md`
-- [ ] `09_Micro_Climate_Forecasting/01_Micro_Climate_Forecasting.md`
-- [ ] `09_Micro_Climate_Forecasting/02_Phenological_Indicators.md`
+- [T] `08_Essential_Packing_List.md`
+- [T] `09_Micro_Climate_Forecasting/01_Micro_Climate_Forecasting.md`
+- [T] `09_Micro_Climate_Forecasting/02_Phenological_Indicators.md`
 - [ ] `10_Maritime_and_Riverine_Sovereignty/01_Rationale_and_Importance.md`
 - [ ] `10_Maritime_and_Riverine_Sovereignty/02_Non_Motorized_Coastal_Piloting.md`
 - [ ] `10_Maritime_and_Riverine_Sovereignty/03_Riverine_Logic.md`
@@ -207,4 +207,5 @@
 | 1 | 2026-04-12 | 01.01, 01.02, 01.03 | Outcome 1 / The Journey: Rationale (logistics physics, Margaria's equation, historical migrations), Orienting (neuroscience of place cells, triangulation math), Direction (axial tilt, shadow-stick, stellar navigation) |
 | 2 | 2026-04-12 | 01.04.01, 01.04.02, 01.04.03 | Terrestrial Navigation: Rationale (GPS fragility, historical surveys, navigation geometry), Map & Compass (geodynamo, declination tables, resection/aiming-off procedures), Celestial Sun (shadow-stick/equal-shadow/watch methods, Polaris/Southern Cross, solar declination cycle) |
 | 3 | 2026-04-12 | 01.04.04, 01.04.05, 01.05.01 | Non-Motorized Transit (rail-trail network, pack animal logistics, route planning), Geometric Trail Engineering (Manning equation, bench cut, half-rule, switchback geometry), Networking & Trade (MVP genetics, waystation system, heliograph communication, Roman/Silk Road precedents) |
-| 4 | 2026-04-11 | 01.05.02, 01.06, 01.07 | Zero-Power Communication (heliograph physics, Aadhiyandham Signal Code, OTP encryption, Split-Token auth), Georgia Transit Guide (travois physics, port-to-foothill transition, Route 1 ATL→Sequatchie 280km, Route 2 ATL→Ozarks 900km), Emergency Family Transit (HPA axis stress psychophysiology, child developmental stages, 50% Rule, Bug-Out Chain formation) |
+| 4 | 2026-04-12 | 01.05.02, 01.06, 01.07 | Zero-Power Communication (heliograph physics, Aadhiyandham Signal Code, OTP encryption, Split-Token auth), Georgia Transit Guide (travois physics, port-to-foothill transition, Route 1 ATL→Sequatchie 280km, Route 2 ATL→Ozarks 900km), Emergency Family Transit (HPA axis stress psychophysiology, child developmental stages, 50% Rule, Bug-Out Chain formation) |
+| 5 | 2026-04-12 | 01.08, 01.09.01, 01.09.02 | Essential Packing List (Margaria's load-carrying physics, Irreplaceability Hierarchy, 7-category weight budget, seed viability), Micro-Climate Forecasting (ideal gas law, adiabatic lapse rates, complete cloud atlas, Beaufort Scale, sling psychrometer, Buys Ballot's Law), Phenological Indicators (Growing Degree-Days formula, Hopkins' Bioclimatic Law, 23-species phenological calendar, planting decision matrix) |
