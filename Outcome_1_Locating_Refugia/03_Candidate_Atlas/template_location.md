@@ -72,7 +72,7 @@ Use this template to score a real-world location against the Aadhiyandham bluepr
 
 ## Glossary Reference
 
-*See [../Glossary.md](../Glossary.md) for full definitions of:*
+*See [../../Glossary.md](../../Glossary.md) for full definitions of:*
 
 *   **Apprenticeship**
 *   **Burnout**

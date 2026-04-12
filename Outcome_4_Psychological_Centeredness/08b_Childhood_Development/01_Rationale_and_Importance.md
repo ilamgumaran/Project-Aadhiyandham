@@ -15,4 +15,9 @@ Section 11 (The Next Generation) covers formal curriculum and knowledge transfer
 
 ## 3. Status
 
-This section is a structural placeholder. Modules will be developed in coordination with Section 11 (The Next Generation).
+All planned modules have been developed:
+
+*   **02 — Attachment and Security in Communal Living** — Bowlby/Ainsworth-grounded protocols for secure attachment in multi-caregiver settings, including caregiver rotation, loss/departure handling, and kibbutz research findings.
+*   **03 — Developmental Milestones Without Modern Scaffolding** — Recalibrated milestone windows based on cross-cultural (non-WEIRD) research, community observer training, and delay response protocols.
+*   **04 — Play as Development** — Three-zone play environment design, age-graded facilitation protocols, mixed-age play group management, and labor/play boundary guidelines.
+*   **05 — Intergenerational Identity** — Adult grief processing, community origin story construction, age-appropriate narration framework, ritual design, and physical identity markers.

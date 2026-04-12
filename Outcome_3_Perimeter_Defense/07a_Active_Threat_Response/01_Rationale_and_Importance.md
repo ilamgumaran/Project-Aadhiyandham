@@ -14,4 +14,7 @@ Passive defense (Section 07) handles the majority of security needs through land
 
 ## 3. Status
 
-This section is a structural placeholder. Modules will be developed after the passive defense foundation (Section 07) is fully validated through field testing.
+All planned modules have been developed:
+*   **02 — Nightwatch and Rotation Protocols** — Sustainable 4-hour shift system for 24-hour perimeter awareness.
+*   **03 — De-escalation and Non-Lethal Deterrence** — Five-phase contact protocol with communication-first response.
+*   **04 — Emergency Lockdown Procedures** — Community-wide 3-minute lockdown sequence with Safe Core designation.

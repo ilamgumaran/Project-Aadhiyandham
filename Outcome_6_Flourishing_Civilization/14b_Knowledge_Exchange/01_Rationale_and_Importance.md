@@ -14,4 +14,8 @@ Section 12 (The Archive) addresses knowledge storage within a single settlement.
 
 ## 3. Status
 
-This section is a structural placeholder. Modules will be developed in coordination with Section 12 (The Archive) and Section 14a (Inter-Settlement Diplomacy).
+The following modules are complete:
+
+*   **02 — The Traveling Scholar System** (`02_The_Traveling_Scholar_System.md`): Protocols for knowledge carriers who physically move between settlements, including credential systems, circuit planning, arrival protocols, and the scholar corps structure. Draws on the Islamic *rihla* tradition, medieval journeyman systems, and Polynesian wayfinding networks.
+*   **03 — Standardized Documentation Formats** (`03_Standardized_Documentation_Formats.md`): A common template, pictographic supplement system, diagram conventions, and body-referenced measurement standards that make technical documents legible across language barriers. Informed by ISOTYPE, Mesopotamian metrological standards, and medieval manuscript conventions.
+*   **04 — Innovation Attribution and Commons** (`04_Innovation_Attribution_and_Commons.md`): The Knowledge Commons Charter and attribution ledger system ensuring innovations remain freely available while originators receive permanent credit. Grounded in Elinor Ostrom's commons governance research, the scientific priority system, and open-source licensing principles.

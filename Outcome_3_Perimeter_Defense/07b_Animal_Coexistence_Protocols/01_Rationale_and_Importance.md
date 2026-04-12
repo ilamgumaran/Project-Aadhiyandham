@@ -14,4 +14,7 @@ The most frequent perimeter breaches in any rural settlement come from wildlife,
 
 ## 3. Status
 
-This section is a structural placeholder. Modules will be developed in coordination with Section 06 (Ecological Harmony) to ensure alignment.
+All planned modules have been developed:
+*   **02 — Large Predator Management** — Species-specific non-lethal deterrence for bears, wolves, and large cats.
+*   **03 — Crop Raider Defense** — Layered physical, sensory, and strategic planting barriers against deer, boar, rabbits, and birds.
+*   **04 — Livestock Guardian Systems** — Integration of guardian dogs, donkeys, and llamas with passive perimeter defense.

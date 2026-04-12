@@ -39,7 +39,7 @@
 
 ## Glossary Reference
 
-*See [../../Glossary.md](../../Glossary.md) for full definitions of:*
+*See [../../../Glossary.md](../../../Glossary.md) for full definitions of:*
 
 *   **Apprenticeship**
 *   **Biochar**

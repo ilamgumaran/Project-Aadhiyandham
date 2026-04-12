@@ -38,7 +38,13 @@ jobs:
         # 6. Inject Navigation Bar globally into HTML
         python3 scripts/inject_nav.py
 
-        # 7. Validate internal HTML links
+        # 7. Validate internal markdown cross-references
+        python3 scripts/check_markdown_links.py
+
+        # 8. Advisory: Check glossary coverage (does not fail build)
+        python3 scripts/check_glossary_coverage.py || true
+
+        # 9. Validate internal HTML links
         python3 scripts/check_html_links.py
 
     - name: Check for Uncommitted Changes

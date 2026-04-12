@@ -67,7 +67,7 @@ For sensitive written messages carried by couriers, use a simple One-Time Pad (O
 Long-distance communication often strips away tone and nuance, leading to misunderstandings.
 *   **Linguistic Precision:** All inter-settlement signals must follow the **E-Prime** protocol (avoiding the verb "to be").
 *   **The Diplomacy Bridge:** Always start a communication with a "State of the Observer" (e.g., "I observe the valley is quiet" vs "The valley is safe").
-*   **Link:** See [Module 04.05.02: Linguistic Precision](../../Outcome_4_Psychological_Centeredness/05_The_Mind/02_Linguistic_Precision.md) for full training.
+*   **Link:** See [Module 04.05.02: Linguistic Precision](../../../Outcome_4_Psychological_Centeredness/08_The_Mind/02_Linguistic_Precision.md) for full training.
 
 ---
 

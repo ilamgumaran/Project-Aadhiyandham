@@ -71,7 +71,7 @@ Beyond flat space and water, the physical shape of the land dictates survivabili
 
 ## Glossary Reference
 
-*See [../Glossary.md](../Glossary.md) for full definitions of:*
+*See [../../Glossary.md](../../Glossary.md) for full definitions of:*
 
 *   **Gravity-Fed**
 
