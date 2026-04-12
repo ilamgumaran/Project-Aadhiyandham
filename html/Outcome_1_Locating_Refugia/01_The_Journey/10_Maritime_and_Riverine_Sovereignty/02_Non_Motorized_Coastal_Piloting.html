@@ -3,64 +3,351 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Non-Motorized Coastal Piloting: The Sight-Line Method - Project Aadhiyandham</title>
+    <title>Non-Motorized Coastal Piloting - Project Aadhiyandham</title>
     <link rel="stylesheet" href="../../../style.css">
 </head>
 <body class="outcome-1">
 
     <header>
-        <h1>Non-Motorized Coastal Piloting: The Sight-Line Method</h1>
-        <p class="alignment">Outcome 1: Locating and Connecting Optimal Refugia</p>
+        <h1>Non-Motorized Coastal Piloting</h1>
+        <p class="alignment">Outcome 1 — Locating and Connecting Optimal Refugia</p>
         
         <div class="safety-banner safe"><span class="safety-icon">&#10003;</span><div><strong>Safe to Explore.</strong> This module is safe for beginners. Experiment freely — mistakes here are low-cost learning opportunities.</div></div>
-        <div class="color-legend"><span class="legend-research">Research</span><span class="legend-practical">Practical Guide</span></div>
-        <div class="toc"><ol><li><a href="#1-the-geometry-of-the-sight-line-transit">1. The Geometry of the Sight-Line (Transit)</a></li><li><a href="#2-using-horizon-markers">2. Using Horizon Markers</a></li><li><span class="dot-research">&#9679;</span> <a href="#3-scientific-validation-parallax">3. 🔬 Scientific Validation: Parallax</a></li><li><span class="dot-vocab">&#9679;</span> <a href="#glossary-reference">Glossary Reference</a></li><li><span class="dot-practical">&#9679;</span> <a href="#4-practical-implementation-guide-for-beginners">4. Practical Implementation Guide for Beginners</a></li></ol></div>
+        <div class="color-legend"><span class="legend-practical">Practical Guide</span></div>
+        <div class="toc"><ol><li><a href="#theoretical-foundation">Theoretical Foundation</a></li><li><a href="#core-principles">Core Principles</a></li><li><span class="dot-practical">&#9679;</span> <a href="#practical-implementation">Practical Implementation</a></li><li><span class="dot-practical">&#9679;</span> <a href="#common-failure-modes">Common Failure Modes</a></li><li><span class="dot-vocab">&#9679;</span> <a href="#vocabulary-of-the-foundation">Vocabulary of the Foundation</a></li><li><a href="#cross-references">Cross-References</a></li><li><a href="#further-study">Further Study</a></li><li><span class="dot-vocab">&#9679;</span> <a href="#glossary-reference">Glossary Reference</a></li></ol></div>
     </header>
 
     <section>
-<p><strong>Alignment:</strong> Outcome 1: Locating and Connecting Optimal Refugia</p>
-<p>Coastal piloting is the art of determining your position by observing the relationship between natural landmarks on the shore. This allows for precise navigation without a compass or GPS.</p>
+<p><strong>Alignment:</strong> Outcome 1 — Locating and Connecting Optimal Refugia</p>
+<p>> <strong>CAUTION</strong>: Coastal waters contain hazards invisible from the surface — submerged rocks, shifting sandbars, tidal races. Always carry a lead line and sound ahead when entering unfamiliar waters. Never approach a lee shore in onshore wind conditions.</p>
 <hr>
-<h2 id="1-the-geometry-of-the-sight-line-transit">1. The Geometry of the Sight-Line (Transit)</h2>
-<p>A "Transit" occurs when two fixed objects on the shore appear to line up from the perspective of the observer on the water.</p>
-<h3 id="1-1-creating-a-position-line">1.1. Creating a Position Line</h3>
+<h2 id="theoretical-foundation">Theoretical Foundation</h2>
+<p>Coastal piloting is the discipline of fixing position and navigating safely using only the geometry of visible landmarks, the curvature of the Earth, and the depth of the water beneath the keel. It requires no electronics, no magnetic compass (though one helps), and no charts (though charts multiply accuracy). Every technique below rests on elementary trigonometry and the physics of light traveling in straight lines through the lower atmosphere.</p>
+<h3 id="the-transit-range">The Transit (Range)</h3>
+<p>When two fixed objects on shore — a front mark and a rear mark — appear exactly aligned from the observer's perspective, the observer lies on a unique straight line (azimuth) connecting those two objects, extended seaward. This line is called a <strong>transit</strong> (British usage) or <strong>range</strong> (American usage). Its critical property: it requires no instrument at all; the human eye detects misalignment of two objects to approximately 0.01 degrees (about 0.5 metres lateral error at 3 km).</p>
+<p><strong>The geometry of sensitivity.</strong> Let the front mark be at distance d1 from the observer and the rear mark at distance d2 (where d2 > d1). If the observer moves laterally by a small displacement delta-x, the angular separation between the two marks changes by approximately:</p>
+<pre><code>
+delta-theta (radians) = delta-x * (1/d1 - 1/d2)
+</code></pre>
+<p>This sensitivity is maximized when d1 is small relative to d2 — that is, when the front mark is close and the rear mark is far. A front mark at 200 m and a rear mark at 2000 m gives ten times the sensitivity of two marks both at 2000 m. Practical consequence: always choose the closest identifiable object as your front mark.</p>
+<p><strong>Universality.</strong> Every maritime culture developed transit navigation independently. Polynesian navigators aligned reef passages with mountain peaks. Norse sailors aligned cairns on headlands. Tamil fishermen aligned temple towers with coconut palms. The transit is the most reliable position line available to any navigator, past or present.</p>
+<h3 id="the-three-point-fix-cocked-hat">The Three-Point Fix (Cocked Hat)</h3>
+<p>Three transits or three compass bearings to known landmarks define three position lines. In theory they intersect at a single point. In practice, observation errors cause the three lines to form a small triangle — the <strong>cocked hat</strong>. The navigator's true position lies within or very near this triangle.</p>
+<p><strong>Accuracy criteria:</strong></p>
+<ul>
+<li>The cocked hat should be less than 500 m on a side for acceptable coastal piloting.</li>
+<li>If larger, retake all bearings and replot.</li>
+<li>Angular separation between the three landmarks should be between 60 and 120 degrees for optimum geometric strength.</li>
+<li>Separations of 30 degrees or 150 degrees produce elongated, unreliable triangles.</li>
+</ul>
+<p><strong>Error distribution.</strong> If all three bearings have equal random error sigma, the area of the cocked hat scales as sigma-squared. Halving your observation error reduces the triangle area by a factor of four.</p>
+<h3 id="vertical-sextant-angle-vsa">Vertical Sextant Angle (VSA)</h3>
+<p>If the height of a landmark is known (a cliff, mountain, lighthouse), measuring the vertical angle between its peak and the waterline yields distance:</p>
+<pre><code>
+Distance = Height / tan(angle)
+</code></pre>
+<p>At small angles (less than 5 degrees), this simplifies to:</p>
+<pre><code>
+Distance (m) = Height (m) * 57.3 / angle (degrees)
+</code></pre>
+<p><strong>Worked example.</strong> A mountain 500 m tall subtends a vertical angle of 2 degrees:</p>
+<pre><code>
+Distance = 500 / tan(2 deg) = 500 / 0.0349 = 14,326 m = 14.3 km
+</code></pre>
+<p>This measurement can be taken with a simple <strong>protractor-and-plumb-bob sextant</strong> — a protractor with a weighted string hanging from the center pivot, and a sighting tube or straw along the straight edge. Accuracy: plus or minus 0.25 degrees with care, yielding distance accuracy of roughly plus or minus 12 percent at small angles.</p>
+<p><strong>VSA distance table for common angles and heights:</strong></p>
+<table><thead><tr>
+<th>Landmark Height</th>
+<th>0.5 deg</th>
+<th>1.0 deg</th>
+<th>2.0 deg</th>
+<th>5.0 deg</th>
+</tr></thead><tbody>
+<tr>
+<td>100 m</td>
+<td>11.5 km</td>
+<td>5.7 km</td>
+<td>2.9 km</td>
+<td>1.1 km</td>
+</tr>
+<tr>
+<td>250 m</td>
+<td>28.6 km</td>
+<td>14.3 km</td>
+<td>7.2 km</td>
+<td>2.9 km</td>
+</tr>
+<tr>
+<td>500 m</td>
+<td>57.3 km</td>
+<td>28.6 km</td>
+<td>14.3 km</td>
+<td>5.7 km</td>
+</tr>
+<tr>
+<td>1000 m</td>
+<td>114.6 km</td>
+<td>57.3 km</td>
+<td>28.6 km</td>
+<td>11.4 km</td>
+</tr>
+</tbody></table>
+<p><em>Note: At distances beyond about 20 km, atmospheric refraction and curvature corrections become significant.</em></p>
+<h3 id="horizon-distance">Horizon Distance</h3>
+<p>The geometric distance to the horizon from an eye height h (in metres) above sea level is:</p>
+<pre><code>
+d (km) = 3.57 * sqrt(h)
+</code></pre>
+<p><strong>Practical values:</strong></p>
+<table><thead><tr>
+<th>Platform</th>
+<th>Eye Height (m)</th>
+<th>Horizon Distance (km)</th>
+</tr></thead><tbody>
+<tr>
+<td>Seated in canoe</td>
+<td>0.7</td>
+<td>3.0</td>
+</tr>
+<tr>
+<td>Kneeling in canoe</td>
+<td>1.0</td>
+<td>3.6</td>
+</tr>
+<tr>
+<td>Standing in small boat</td>
+<td>2.0</td>
+<td>5.0</td>
+</tr>
+<tr>
+<td>Standing on deck of large boat</td>
+<td>4.0</td>
+<td>7.1</td>
+</tr>
+<tr>
+<td>Top of 10 m cliff</td>
+<td>10.0</td>
+<td>11.3</td>
+</tr>
+<tr>
+<td>Top of 30 m bluff</td>
+<td>30.0</td>
+<td>19.6</td>
+</tr>
+</tbody></table>
+<p>This distance governs when landmarks appear over or disappear below the horizon. A 500 m mountain becomes visible at roughly 80 km in clear air (its height contributes to the detection range: d = 3.57 * (sqrt(h_eye) + sqrt(h_landmark))). This is the outer limit of visual coastal piloting.</p>
+<h3 id="dead-reckoning-on-water">Dead Reckoning on Water</h3>
+<p>Dead reckoning (DR) is the estimation of current position from the last known fix, projected forward by course steered plus speed multiplied by elapsed time.</p>
+<p><strong>Speed estimation — the chip log method:</strong></p>
 <ol>
-<li><strong>Identify:</strong> Locate a "Front Mark" (e.g., a distinct boulder on the beach) and a "Rear Mark" (e.g., a sharp peak in the distance).</li>
-<li><strong>Align:</strong> When the peak is directly behind the boulder, you are on a fixed geometric line extending into the sea.</li>
-<li><strong>The Fix:</strong> To find your exact spot on that line, identify a <em>second</em> set of lining-up objects. Where the two lines cross is your exact location.</li>
+<li>Drop a chip of wood (or any floating debris) at the bow.</li>
+<li>Count the seconds until it passes the stern.</li>
+<li>Speed = vessel length / elapsed time.</li>
+</ol>
+<p>Example: vessel length is 5 m, chip takes 2.5 seconds to travel stern-to-bow:</p>
+<pre><code>
+Speed = 5 m / 2.5 s = 2.0 m/s = 3.9 knots
+</code></pre>
+<p><strong>Current correction.</strong> Current adds vectorially to vessel speed through the water. A 2-knot current at 90 degrees to your heading pushes you 1 nautical mile (1.85 km) sideways per hour. After 3 hours, you are 5.6 km off your intended track — enough to miss an island entirely.</p>
+<p><strong>DR accuracy degrades with time.</strong> A 10 percent speed estimation error and a 5-degree heading error compound to roughly 1 nautical mile of position uncertainty after 5 nautical miles of travel. Fix position whenever landmarks are visible.</p>
+<h3 id="historical-navigation-methods">Historical Navigation Methods</h3>
+<p><strong>Polynesian stick charts (Marshall Islands).</strong> Islanders constructed frameworks of bent palm-rib sticks tied together, encoding ocean swell patterns, wave refraction around islands, and relative island positions. Shells tied to the framework represented islands. These were mnemonic devices studied on land before voyages — not carried aboard. They encoded information about swell direction changes that indicated proximity to land beyond the horizon.</p>
+<p><strong>Viking sun compass and sunstone.</strong> Norse navigators used a wooden disc with gnomon to track the sun's azimuth, calibrated by the hyperbolic shadow curves for specific latitudes. The legendary "sunstone" was a calcite (Iceland spar) crystal that polarizes light — when held toward an overcast sky, the crystal reveals the sun's direction through the polarization pattern of scattered light, even when the sun itself is invisible.</p>
+<p><strong>Arab kamal.</strong> A rectangular wooden card (approximately 5 x 3 cm) attached to a knotted string. The navigator holds the string taut between teeth and card, with the card at arm's length, bottom edge on the horizon, top edge on Polaris. Each knot corresponds to the latitude of a known port. When the correct knot is between the teeth and Polaris sits on the top edge, the navigator is at that port's latitude. Accuracy: approximately plus or minus 1 degree of latitude (plus or minus 111 km) — sufficient for east-west ocean crossings.</p>
+<hr>
+<h2 id="core-principles">Core Principles</h2>
+<ol>
+<li><strong>The Transit is King.</strong> Two aligned landmarks give the most accurate position line available to the coastal pilot — no instruments required, no calibration, no error from magnetic deviation. Whenever a natural transit exists, use it in preference to any compass bearing.</li>
+<li><strong>Never Trust a Single Line.</strong> One bearing or one transit defines a line, not a position. You could be anywhere along that line. Always cross a first line with a second (and ideally a third) to obtain a fix. A single line of position is useful only for confirming you have not drifted off a known track.</li>
+<li><strong>The Danger Bearing.</strong> Before entering an area with a known hazard (reef, rock, shoal), pre-calculate a critical bearing to a visible landmark. While underway, monitor that bearing. If it crosses the pre-calculated threshold, you have entered the danger zone. This is a defensive technique — it tells you when to turn away, not where you are.</li>
+<li><strong>The Running Fix.</strong> When only one landmark is visible, take a bearing, sail a known distance on a known course, then take a second bearing to the same landmark. The two bearing lines, with the first one advanced by the distance and course made good, intersect to give a fix. Accuracy depends on the accuracy of your dead reckoning between the two bearings.</li>
+<li><strong>Pilotage is Continuous.</strong> Fix your position every 15 to 30 minutes in coastal waters. A 2-knot current moves you 1 km in 15 minutes. Complacency kills. Between fixes, maintain a dead reckoning plot. If you cannot fix your position for more than 30 minutes, slow down or stop until you can.</li>
 </ol>
 <hr>
-<h2 id="2-using-horizon-markers">2. Using Horizon Markers</h2>
-<p>In open water, where the coastline is far, use the "Horizon Dip" method.</p>
+<div class="section-practical" id="practical-implementation">
+<h2>Practical Implementation</h2>
+<h3 id="building-a-kamal-star-altitude-measurer">Building a Kamal (Star Altitude Measurer)</h3>
+<p><strong>Materials:</strong> A rectangular piece of flat wood, bone, or stiff card (approximately 3 cm wide by 5 cm tall), a length of cord (approximately 50 cm), and access to a night sky with Polaris visible.</p>
+<p><strong>Construction (30 minutes):</strong></p>
+<ol>
+<li>Drill or punch a small hole in the exact center of the card's bottom edge.</li>
+<li>Thread the cord through the hole and knot it on the far side.</li>
+<li>To calibrate: on a night when you know your latitude, hold the card at arm's length with the cord taut between your front teeth and the card. Adjust until the bottom edge rests on the horizon and the top edge touches Polaris.</li>
+<li>Tie a knot in the cord at the point where it exits your teeth. Label this knot with your current latitude.</li>
+<li>Travel to a location one degree of latitude away (111 km north or south) and repeat, tying another knot.</li>
+<li>Interpolate additional knots at equal spacing.</li>
+</ol>
+<p><strong>Use at sea:</strong> Hold the string taut between teeth and card. Slide the string until Polaris sits on the top edge and the horizon on the bottom edge. Read the knot position. Accuracy: plus or minus 0.5 degrees of latitude with practice (plus or minus 56 km).</p>
+<h3 id="building-a-pelorus-bearing-circle">Building a Pelorus (Bearing Circle)</h3>
+<p><strong>Materials:</strong> A flat board (approximately 30 cm diameter), a nail or dowel for the pivot, a straight sighting bar (30 cm long with small sight-holes or notches at each end), protractor or compass rose template.</p>
+<p><strong>Construction:</strong></p>
+<ol>
+<li>Draw or transfer a compass rose (0 to 360 degrees) onto the board, with 0 degrees at the top.</li>
+<li>Drive the pivot nail through the exact center.</li>
+<li>Mount the sighting bar on the pivot so it rotates freely.</li>
+<li>Mount the board on the vessel's centerline with the 0-degree mark pointing precisely forward along the keel.</li>
+</ol>
+<p><strong>Use:</strong> Sight along the bar toward a landmark. Read the angle on the compass rose where the bar crosses it. This gives a relative bearing (angle from the bow). If you know the vessel's heading (from a compass or from a known course), convert to a true bearing: True Bearing = Heading + Relative Bearing.</p>
+<p><strong>Accuracy:</strong> Plus or minus 2 degrees with careful use. Sufficient for coastal piloting when combined with transits.</p>
+<h3 id="the-sighting-triangle-procedure">The Sighting Triangle Procedure</h3>
+<p>Step-by-step procedure for taking a three-point fix:</p>
+<ol>
+<li><strong>Select landmarks.</strong> Identify three charted landmarks at angular separations of 60 to 120 degrees from each other.</li>
+<li><strong>Take the middle bearing first.</strong> The landmark closest to the beam (roughly perpendicular to your course) changes bearing most slowly — take it first as the reference.</li>
+<li><strong>Take the most-abeam bearing second.</strong> The landmark directly abeam changes bearing fastest with forward motion — take it next to minimize time lag.</li>
+<li><strong>Take the third bearing.</strong> Complete the triangle.</li>
+<li><strong>Plot on chart.</strong> Draw each bearing line from the landmark. The three lines should form a small triangle (the cocked hat).</li>
+<li><strong>Evaluate.</strong> If the cocked hat is less than 500 m on a side, your position is within it — take the center as your fix. If larger than 500 m, discard and retake all three bearings.</li>
+<li><strong>Record.</strong> Log the time, bearings, and plotted position. This becomes your new DR starting point.</li>
+</ol>
+<p><strong>Time budget.</strong> The entire procedure — sight, plot, evaluate — should take no more than 5 minutes. If it takes longer, vessel motion degrades accuracy.</p>
+<h3 id="danger-bearing-worked-example">Danger Bearing — Worked Example</h3>
+<p>Consider the following situation:</p>
+<pre><code>
+                        N
+                        |
+        LIGHTHOUSE (L)  |
+             *          |
+            / \         |
+           /   \        |
+          /     \       |
+    REEF /  045  \      |
+   ~~~~~~/~~~~~~~~\~~~~~|~~~~~~~  (Reef line)
+        /    SAFE  \    |
+       /   WATER    \   |
+      /              \  |
+     /                \ |
+    V                  \|
+  VESSEL (heading NE)
+</code></pre>
+<p><strong>Procedure:</strong></p>
+<ol>
+<li>From the chart, identify the reef boundary and the lighthouse position.</li>
+<li>Draw a line from the lighthouse tangent to the reef edge. Measure this bearing: 045 degrees True.</li>
+<li>This is the <strong>danger bearing</strong>: 045 degrees.</li>
+<li><strong>Rule:</strong> While underway, continuously observe the lighthouse bearing. If the lighthouse bears <strong>less than 045 degrees</strong> (i.e., more northward), you are <strong>inside the reef line</strong> — danger. If it bears <strong>greater than 045 degrees</strong>, you are in safe water.</li>
+<li>If the bearing approaches 045 degrees, alter course to seaward immediately.</li>
+</ol>
+<h3 id="the-lead-line-depth-sounding">The Lead Line (Depth Sounding)</h3>
+<p>A weight (1 to 3 kg of lead, stone, or iron) attached to a line marked at regular intervals. The oldest and most reliable navigation instrument in existence.</p>
+<p><strong>Traditional marks (Royal Navy system):</strong></p>
+<table><thead><tr>
+<th>Depth (fathoms)</th>
+<th>Depth (metres)</th>
+<th>Mark</th>
+</tr></thead><tbody>
+<tr>
+<td>2</td>
+<td>3.7</td>
+<td>Leather with 2 strips</td>
+</tr>
+<tr>
+<td>3</td>
+<td>5.5</td>
+<td>Leather with 3 strips</td>
+</tr>
+<tr>
+<td>5</td>
+<td>9.1</td>
+<td>White cloth</td>
+</tr>
+<tr>
+<td>7</td>
+<td>12.8</td>
+<td>Red cloth</td>
+</tr>
+<tr>
+<td>10</td>
+<td>18.3</td>
+<td>Leather with hole</td>
+</tr>
+<tr>
+<td>13</td>
+<td>23.8</td>
+<td>Blue cloth</td>
+</tr>
+<tr>
+<td>15</td>
+<td>27.4</td>
+<td>White cloth</td>
+</tr>
+<tr>
+<td>17</td>
+<td>31.1</td>
+<td>Red cloth</td>
+</tr>
+<tr>
+<td>20</td>
+<td>36.6</td>
+<td>Cord with 2 knots</td>
+</tr>
+</tbody></table>
+<p><strong>The arming.</strong> Press tallow (animal fat), beeswax, or sticky clay into a hollow in the bottom of the lead weight. When it strikes the seabed, it picks up a sample: sand, mud, shell fragments, gravel, or rock. This <strong>bottom sample</strong> is compared with known bottom characteristics for the area:</p>
 <ul>
-<li>  <strong>The Logic:</strong> As you move away from a mountain, it appears to "sink" into the horizon.</li>
-<li>  <strong>Measurement:</strong> Use your hand at arm's length to measure the "fingers of height" of a known peak. If the mountain is 3 fingers high, you are at a specific distance (calculable via simple geometry in Module 05.05).</li>
+<li>Sticky grey mud = river estuary or sheltered bay.</li>
+<li>Coarse sand with shell = shallow bank, possibly near reef.</li>
+<li>Fine sand = open coast, moderate depth.</li>
+<li>Rock chips or no sample = hard bottom, possibly reef.</li>
 </ul>
-<hr>
-<div class="section-research" id="3-scientific-validation-parallax">
-<h2>3. 🔬 Scientific Validation: Parallax</h2>
-<p>Sight-line navigation is a practical application of <strong>Parallax</strong>. As the observer moves, the relative position of two objects at different distances shifts. By mastering this shift, the brain becomes a high-precision surveying tool.</p>
+<p><strong>Depth plus bottom type combined give a surprisingly reliable position estimate</strong>, especially when visibility is poor. A sequence of soundings (e.g., "12 metres, mud... 8 metres, sand... 5 metres, shell") traces a profile that can be matched to a known approach channel.</p>
+<h3 id="night-piloting">Night Piloting</h3>
+<p>When darkness eliminates most visual landmarks, piloting shifts to three methods:</p>
+<p><strong>1. Silhouette bearings.</strong> Known hills and peaks remain visible as dark shapes against the star field. Identify which stars will pass behind which peaks at specific times (this can be predicted from star charts and almanacs). A star disappearing behind a peak's edge gives a precise bearing to that peak.</p>
+<p><strong>2. The lead line.</strong> Becomes the primary navigation tool at night. Take continuous soundings. A consistent depth profile (e.g., following the 10-metre contour) can guide you along a coast even in total darkness.</p>
+<p><strong>3. Sound and smell.</strong> Breaking waves on a reef are audible at 1 to 2 km. Surf on a beach carries further downwind. The smell of vegetation, woodsmoke, or tidal mudflats indicates proximity to land. These are not precise, but they are life-saving early warnings.</p>
+<p><strong>Night piloting rule:</strong> Never approach an unfamiliar coast at night. Heave to or anchor offshore until dawn provides visual references.</p>
 <hr>
 </div>
+<div class="section-practical" id="common-failure-modes">
+<h2>Common Failure Modes</h2>
+<ol>
+<li><strong>Misidentified Landmarks.</strong> Two similar hills, two similar headlands, two church towers — confusion is easy and the resulting fix is entirely wrong. Mitigation: always use transit pairs (two landmarks in alignment), not single marks. A misidentified single mark gives a wrong line; a misidentified transit pair is much harder to mistake because the relative geometry must match.</li>
+<li><strong>Current Set Ignored.</strong> The vessel drifts off course between fixes, and the navigator assumes the DR track is accurate. A 1.5-knot current (common in tidal waters) displaces the vessel 2.8 km per hour. Mitigation: always estimate current from tidal data, observed drift of flotsam, or the difference between successive fixes and DR positions. Apply the correction vector to all DR projections.</li>
+<li><strong>Fog and Low Visibility.</strong> All visual piloting fails simultaneously. The navigator has no bearings, no transits, no VSA, no horizon. Mitigation: fall back immediately to depth sounding (the lead line) and dead reckoning. Reduce speed. Sound fog signals. If depth soundings do not match expectations, anchor and wait.</li>
+<li><strong>Refraction Error.</strong> Atmospheric heating (especially afternoon sun on water) bends light rays, distorting the apparent position of landmarks and the horizon. Landmarks may appear elevated, depressed, or laterally shifted. Mirage effects can make distant objects appear closer or create phantom images. Mitigation: take critical bearings in early morning or evening when the air column is most stable. Apply a refraction correction of approximately 8 percent to horizon-distance calculations in hot conditions.</li>
+<li><strong>Parallax of Near Objects.</strong> A landmark very close to the vessel (under 500 m) shifts its apparent bearing rapidly with small changes in vessel position. The navigator takes a bearing, the vessel drifts 20 m, and the bearing has changed by several degrees. Mitigation: use distant rear marks for transits (the angular shift decreases with distance). For pelorus bearings, always prefer landmarks at greater than 1 km range.</li>
+</ol>
+<hr>
+</div>
+<div class="section-vocab" id="vocabulary-of-the-foundation">
+<h2>Vocabulary of the Foundation</h2>
+<ul>
+<li><strong>Transit (Range):</strong> The alignment of two fixed objects as observed from a vessel, defining a line of position. No instruments required. The most accurate position line available to the visual navigator.</li>
+<li><strong>Cocked Hat:</strong> The small triangle formed by three lines of position that fail to intersect at a single point due to observation error. The navigator's true position is within or very near this triangle. Size indicates fix quality.</li>
+<li><strong>Vertical Sextant Angle (VSA):</strong> The measured angle between the peak of a landmark of known height and the waterline, used to calculate distance to the landmark via trigonometry.</li>
+<li><strong>Dead Reckoning (DR):</strong> The estimation of current position by advancing a known previous position using course steered, speed through the water, and elapsed time. Does not account for current unless explicitly corrected.</li>
+<li><strong>Danger Bearing:</strong> A pre-calculated bearing to a visible landmark that defines the boundary of a hazard zone. If the observed bearing crosses the danger bearing, the vessel has entered unsafe water.</li>
+<li><strong>Running Fix:</strong> A position fix obtained from two bearings to the same landmark taken at different times, with the first bearing advanced along the course and distance made good between observations.</li>
+<li><strong>Kamal:</strong> A traditional Arab navigation instrument consisting of a calibrated card on a knotted string, used to measure the altitude of Polaris (or other stars) for latitude determination.</li>
+<li><strong>Pelorus:</strong> A sighting device consisting of a compass rose and pivoting sight bar, mounted on the vessel's centerline, used to measure relative bearings to landmarks.</li>
+<li><strong>Lead Line:</strong> A weighted, marked line used for measuring water depth (sounding) and sampling bottom sediment. The oldest navigation instrument still in use.</li>
+<li><strong>Fathom:</strong> A unit of depth equal to 6 feet (1.83 metres). Originally defined as the span of a man's outstretched arms — the natural unit for hauling line hand-over-hand.</li>
+<li><strong>Set and Drift:</strong> Set is the direction toward which a current flows. Drift is the speed of the current. Together they define the current vector that must be applied to dead reckoning calculations.</li>
+<li><strong>Bearing:</strong> The horizontal angle between a reference direction (true north, magnetic north, or the vessel's heading) and the direction to an observed object, measured clockwise from 000 to 360 degrees.</li>
+</ul>
+<hr>
+</div>
+<h2 id="cross-references">Cross-References</h2>
+<ul>
+<li><a href="01_Rationale_and_Importance.html">01_Rationale_and_Importance.md</a> — Why maritime sovereignty matters for post-infrastructure communities.</li>
+<li><a href="03_Riverine_Logic.html">03_Riverine_Logic.md</a> — Inland waterway navigation: current reading, river piloting, and portage route selection.</li>
+<li><a href="../04_Terrestrial_Navigation/02_Map_and_Compass_Guide.html">../04_Terrestrial_Navigation/02_Map_and_Compass_Guide.md</a> — Compass bearing techniques applicable to pelorus use and shore-based triangulation.</li>
+<li><a href="../04_Terrestrial_Navigation/03_Celestial_Navigation_Sun.html">../04_Terrestrial_Navigation/03_Celestial_Navigation_Sun.md</a> — Solar and stellar positioning methods that extend piloting range beyond coastal waters.</li>
+<li><a href="../02_Orienting_and_Positioning.html">../02_Orienting_and_Positioning.md</a> — Triangulation fundamentals: the geometric principles underlying all position fixing.</li>
+</ul>
+<hr>
+<h2 id="further-study">Further Study</h2>
+<ul>
+<li><strong>Lewis, David.</strong> <em>We, the Navigators: The Ancient Art of Landfinding in the Pacific.</em> University of Hawaii Press, 1972. The definitive study of Polynesian non-instrument navigation, based on voyages with traditional navigators.</li>
+<li><strong>Cotter, Charles H.</strong> <em>A History of Nautical Astronomy.</em> Hollis & Carter, 1968. Comprehensive treatment of the development of celestial and coastal navigation from antiquity through the twentieth century.</li>
+<li><strong>Bowditch, Nathaniel.</strong> <em>The American Practical Navigator.</em> Originally published 1802; continuously updated and still in print (U.S. Government publication). The standard reference for all aspects of marine navigation, including piloting, celestial navigation, and dead reckoning.</li>
+<li><strong>Crowley, Tony.</strong> <em>The Barefoot Navigator: Wayfinding with the Skills of the Ancients.</em> Adlard Coles Nautical, 2006. Practical guide to navigation without modern instruments, with emphasis on techniques accessible to the amateur.</li>
+<li><strong>Gatty, Harold.</strong> <em>Nature Is Your Guide: How to Find Your Way on Land and Sea by Observing Nature.</em> E.P. Dutton, 1958. Natural navigation using wind, waves, clouds, birds, and ocean swells — the environmental cues that complement visual piloting.</li>
+</ul>
+<hr>
 <div class="section-vocab" id="glossary-reference">
 <h2>Glossary Reference</h2>
-<p><em>See <a href="../../../Glossary.html">../../../Glossary.md</a> for full definitions of:</em></p>
-<ul>
-<li>  <strong>Refugia</strong></li>
-</ul>
-</div>
-<div class="section-practical" id="4-practical-implementation-guide-for-beginners">
-<h2>4. Practical Implementation Guide for Beginners</h2>
-<h3 id="4-1-step-by-step-action-plan">4.1. Step-by-Step Action Plan</h3>
-<ul>
-<li>  <strong>Phase 1: Mark Identification:</strong> While on land, identify 5-10 "Unmistakable Marks" along your home coastline.</li>
-<li>  <strong>Phase 2: The Triangle Fix:</strong> Practice finding your position by identifying three marks that form a wide triangle around you.</li>
-<li>  <strong>Phase 3: Night Piloting:</strong> Identify which marks are visible by moonlight.</li>
-</ul>
-<h3 id="4-2-troubleshooting-failure-modes">4.2. Troubleshooting & Failure Modes</h3>
-<ul>
-<li>  <strong>Atmospheric Refraction:</strong> On very hot days, the horizon may "shimmer," making marks appear higher than they are. Wait for the air to cool or use the "Lead Line" (measuring water depth) to verify your position.</li>
-</ul>
+<p><em>See <a href="../../../Glossary.html">../../../Glossary.md</a> for full definitions of all technical terms used in this module.</em></p>
 </div>
     </section>
 

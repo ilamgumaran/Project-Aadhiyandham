@@ -12,60 +12,349 @@
         <h1>Riverine Logic: Reading the Current</h1>
         <p class="alignment">Outcome 1: Locating and Connecting Optimal Refugia</p>
         
-        <div class="safety-banner safe"><span class="safety-icon">&#10003;</span><div><strong>Safe to Explore.</strong> This module is safe for beginners. Experiment freely — mistakes here are low-cost learning opportunities.</div></div>
-        <div class="color-legend"><span class="legend-research">Research</span><span class="legend-practical">Practical Guide</span></div>
-        <div class="toc"><ol><li><a href="#1-the-geometry-of-the-current">1. The Geometry of the Current</a></li><li><a href="#2-ferry-gliding-the-sideways-move">2. Ferry-Gliding (The Sideways Move)</a></li><li><span class="dot-research">&#9679;</span> <a href="#3-scientific-validation-laminar-vs-turbulent-flow">3. 🔬 Scientific Validation: Laminar vs. Turbulent Flow</a></li><li><span class="dot-vocab">&#9679;</span> <a href="#glossary-reference">Glossary Reference</a></li><li><span class="dot-practical">&#9679;</span> <a href="#4-practical-implementation-guide-for-beginners">4. Practical Implementation Guide for Beginners</a></li></ol></div>
+        <div class="safety-banner danger"><span class="safety-icon">&#9888;</span><div><strong>High Caution Module.</strong> This module involves processes that can cause serious injury if instructions are not followed precisely. Build a small-scale prototype first. Never skip safety steps.</div></div>
+        <div class="color-legend"><span class="legend-practical">Practical Guide</span></div>
+        <div class="toc"><ol><li><a href="#theoretical-foundation">Theoretical Foundation</a></li><li><a href="#core-principles">Core Principles</a></li><li><span class="dot-practical">&#9679;</span> <a href="#practical-implementation">Practical Implementation</a></li><li><span class="dot-practical">&#9679;</span> <a href="#common-failure-modes">Common Failure Modes</a></li><li><span class="dot-vocab">&#9679;</span> <a href="#vocabulary-of-the-foundation">Vocabulary of the Foundation</a></li><li><a href="#cross-references">Cross-References</a></li><li><a href="#further-study">Further Study</a></li><li><span class="dot-vocab">&#9679;</span> <a href="#glossary-reference">Glossary Reference</a></li></ol></div>
     </header>
 
     <section>
 <p><strong>Alignment:</strong> Outcome 1: Locating and Connecting Optimal Refugia</p>
-<p>Rivers are dynamic biological systems. To navigate them without power, you must understand the fluid dynamics of water.</p>
+<p>> <strong>DANGER</strong>: River navigation carries risk of drowning, hypothermia, and vessel entrapment. Every person on the water must wear a personal flotation device at all times. Never run a rapid you have not scouted from shore. Strainers (fallen trees) are the single deadliest river hazard — scout for them before every section.</p>
 <hr>
-<h2 id="1-the-geometry-of-the-current">1. The Geometry of the Current</h2>
-<h3 id="1-1-the-main-flow-the-thalweg">1.1. The Main Flow (The Thalweg)</h3>
-<p>The fastest and deepest part of the river.</p>
+<h2 id="theoretical-foundation">Theoretical Foundation</h2>
+<p>Rivers obey the same physics as any fluid system. Understanding four governing principles transforms a river from an unpredictable hazard into a readable highway with consistent, exploitable rules.</p>
+<h3 id="the-continuity-equation">The Continuity Equation</h3>
+<p>The fundamental relationship governing all river behavior:</p>
+<pre><code>
+Q = A x V
+</code></pre>
+<p>Where Q is volumetric flow rate (m^3/s), A is cross-sectional area (m^2), and V is mean velocity (m/s). Flow rate Q remains constant along a reach (water is incompressible and neither created nor destroyed between tributaries). The critical implication: if a river narrows, velocity must increase proportionally. A river flowing at 2 m/s through a 30 m wide channel will accelerate to approximately 6 m/s if the channel narrows to 10 m — the same volume of water forced through one-third the area. This is why narrows and constrictions are inherently dangerous, and why the sound of a river changes pitch as it approaches a gorge.</p>
+<h3 id="reynolds-number">Reynolds Number</h3>
+<p>The Reynolds Number predicts whether flow will be laminar (smooth, predictable) or turbulent (chaotic, eddy-generating):</p>
+<pre><code>
+Re = (rho x V x L) / mu
+</code></pre>
+<p>Where rho is fluid density (~998 kg/m^3 for fresh water), V is velocity (m/s), L is characteristic length such as channel depth (m), and mu is dynamic viscosity (~1.0 x 10^-3 Pa-s for water at 20 C). For virtually all river conditions — any depth greater than a few centimeters and velocity above a few cm/s — Re exceeds 500. This means river flow is turbulent by default. Turbulent flow generates eddies, vortices, boils, and locally unpredictable currents. Laminar flow (smooth, layered, predictable) occurs only in extremely shallow, extremely slow conditions such as sheet flow over a flat floodplain. The practical consequence: you cannot predict the behavior of any individual parcel of river water. You can only predict the statistical patterns of the turbulence — which is what the rest of this module teaches.</p>
+<h3 id="bernoulli-s-principle-applied-to-rivers">Bernoulli's Principle Applied to Rivers</h3>
+<p>Bernoulli's equation, simplified for open channel flow:</p>
+<pre><code>
+P + (1/2)(rho)(V^2) + (rho)(g)(h) = constant along a streamline
+</code></pre>
+<p>Where P is pressure, V is velocity, g is gravitational acceleration, and h is elevation. The practical interpretation: where velocity increases, pressure decreases and the water surface drops. Where velocity decreases, pressure increases and depth increases. This produces three observable phenomena:</p>
 <ul>
-<li>  <strong>Action:</strong> When traveling downstream, stay in the Thalweg to maximize momentum.</li>
-<li>  <strong>Observation:</strong> Look for the smoothest, least-turbulent water with the most surface bubbles.</li>
+<li><strong>Outside of bends</strong>: velocity is higher, water surface is slightly lower, but the channel is deeper (the thalweg hugs the outside bank).</li>
+<li><strong>Inside of bends</strong>: velocity is lower, water is shallower, sediment deposits to form a point bar.</li>
+<li><strong>Downstream of obstacles</strong>: velocity drops, pressure rises, and a mound of slower, deeper water forms (the eddy).</li>
 </ul>
-<h3 id="1-2-the-eddy-the-resting-spot">1.2. The Eddy (The Resting Spot)</h3>
-<p>An area of calm water behind an obstacle (boulder or point of land) where the current flows upstream.</p>
-<ul>
-<li>  <strong>Action:</strong> Use eddies to rest or stop when traveling upstream.</li>
-<li>  <strong>The Eddy Line:</strong> The boundary between the downstream current and the upstream eddy. Crossing this line requires a sharp angle to avoid tipping.</li>
-</ul>
-<hr>
-<h2 id="2-ferry-gliding-the-sideways-move">2. Ferry-Gliding (The Sideways Move)</h2>
-<p>To cross a river without being swept downstream:</p>
+<h3 id="helicoidal-flow-in-bends">Helicoidal Flow in Bends</h3>
+<p>River bends produce a three-dimensional corkscrew current pattern called helicoidal flow. The mechanism:</p>
 <ol>
-<li><strong>Angle:</strong> Point the bow of the vessel at a 45-degree angle toward the far shore, facing <em>into</em> the current.</li>
-<li><strong>Momentum:</strong> As you paddle/row forward, the current pushes the side of the vessel, resulting in a perfectly straight sideways movement across the river.</li>
+<li>Surface water is flung toward the outside bank by centrifugal acceleration.</li>
+<li>At the outside bank, this water dives downward along the cut bank.</li>
+<li>Along the bottom, the current flows laterally toward the inside bank.</li>
+<li>At the inside bank, the current rises, carrying sediment that deposits as the point bar.</li>
+</ol>
+<p>The result is a continuous helical rotation superimposed on the downstream flow. Practical implications for the navigator: the deepest channel (thalweg) always lies on the outside of bends. Use this to find deep water when draught matters. Simultaneously, respect the power of the outside current — it pushes vessels toward the eroding cut bank, and undercut banks on the outside of bends are among the most dangerous features on any river.</p>
+<pre><code>
+Cross-section of a river bend (looking downstream):
+
+    OUTSIDE (cut bank)              INSIDE (point bar)
+    |                                           /
+    |  &lt;--- surface current flows outward      /
+    |        ________________________         /
+    |       /  . . . &gt; &gt; &gt; &gt; . . .  \       /
+    |      / .                     .  \    / &lt;-- shallow
+    |     | v   helicoidal         ^   | /       sediment
+    |     |     circulation        |   |/        deposit
+    |      \ .                   .  \ /
+    |       \ . . . &lt; &lt; &lt; &lt; . . . . /
+    |        \_____________________/
+    |   deep
+    |   thalweg
+</code></pre>
+<h3 id="hydraulic-features">Hydraulic Features</h3>
+<p>Rivers produce a taxonomy of features that the navigator must identify on sight:</p>
+<p><strong>Standing waves</strong> form when fast water meets slow water or a shallow bottom. The wave is stationary relative to the riverbed — water flows through it continuously. Small standing waves (under 0.3 m) are rideable and indicate a clear channel. Large standing waves (over 0.5 m) can swamp an open vessel and indicate powerful hydraulic differentials. A train of standing waves decreasing in size downstream typically marks the main channel through a rapid.</p>
+<p><strong>Holes (hydraulics/reversals)</strong> form when water pours over a submerged ledge or drop. The surface water downstream of the ledge recirculates back upstream, creating a trap. Small holes are playful; large holes are lethal — they can hold a vessel or swimmer indefinitely. Identification from upstream: a smooth horizon line (the lip of the ledge) followed by white water, with a visible foam line moving upstream toward the lip. If the foam line extends across the full width of the river, the hole is almost certainly a keeper. Portage.</p>
+<p><strong>Pillows</strong> are smooth, convex water humps forming on the upstream side of large submerged boulders. The water piles up before splitting around the obstacle. Pillows indicate a rock large enough to pin a vessel. Give clearance — pass to either side, never over the top.</p>
+<p><strong>Boils</strong> are upwelling disturbances from deep turbulence — circular, mushroom-shaped eruptions on the surface. They indicate powerful, deep currents interacting with bottom features. Boils are unpredictable and can destabilize a vessel by suddenly lifting one side. Maintain speed through boil fields to retain steerage.</p>
+<h3 id="historical-context">Historical Context</h3>
+<p>Native American canoe routes formed an interconnected network covering more than 10,000 km of rivers and portages across North America. The Algonquin, Cree, and Ojibwe peoples developed route knowledge accumulated over millennia — understanding seasonal water levels, portage locations, camping sites, and the specific character of every rapid on every route. The French voyageurs adopted these exact routes wholesale for the fur trade from the 1600s through the 1800s, paddling from Montreal to Lake Athabasca (approximately 4,000 km) in a single season using birch bark canoes carrying 2,000+ kg of cargo. The key lesson: rivers are highways with rules as specific and learnable as any road system. The voyageurs did not improvise — they followed established routes with established techniques passed down through generations of Indigenous navigation knowledge.</p>
+<hr>
+<h2 id="core-principles">Core Principles</h2>
+<ol>
+<li><strong>Read the Water Before Entering.</strong> Scout every rapid, narrows, or unfamiliar section from shore before running it. Walk downstream along the bank until you can see the entire section. Identify the main channel, all obstacles, all horizon lines, and your exit eddy at the bottom. If you cannot see the full section, portage. No rapid is worth running blind.</li>
+<li><strong>The Outside Rule.</strong> The deepest, fastest water is on the outside of every bend. When traveling downstream and needing depth, use the outside line — but be prepared for the current to push you into the cut bank. When traveling upstream, stay on the inside to avoid fighting the strongest current. When in doubt about depth, the outside is deeper.</li>
+<li><strong>The Eddy is Your Dock.</strong> Every obstacle in the current creates an eddy on its downstream side — a pocket of calm water flowing gently upstream. Use eddies to stop, rest, scout the next section, and plan your next move. River travel is not a continuous run; it is a series of eddy-to-eddy hops, each one deliberate and scouted.</li>
+<li><strong>The Ferry Angle is Everything.</strong> A vessel angled 30-45 degrees upstream with forward paddling power will move laterally across the current with zero downstream drift. This single technique — the ferry glide — is the most important river skill. It allows controlled positioning anywhere on the river without losing ground downstream.</li>
+<li><strong>When in Doubt, Portage.</strong> Walking around a dangerous section takes 30 minutes. Swimming out of a hydraulic trap may not be possible at all. The river will be there tomorrow. Portage every section that exceeds your skill, your vessel's capability, or your ability to read from shore.</li>
 </ol>
 <hr>
-<div class="section-research" id="3-scientific-validation-laminar-vs-turbulent-flow">
-<h2>3. 🔬 Scientific Validation: Laminar vs. Turbulent Flow</h2>
-<p>Navigating a river is an exercise in managing <strong>Reynolds Numbers</strong>. Laminar flow (smooth) is predictable; turbulent flow (chaotic) contains hidden energy that can capsize a vessel. We utilize the "Acoustic Signature" of the river to identify turbulence before it is visible.</p>
+<div class="section-practical" id="practical-implementation">
+<h2>Practical Implementation</h2>
+<h3 id="river-classification-international-scale-of-river-difficulty">River Classification (International Scale of River Difficulty)</h3>
+<p>All river sections can be classified using the International Scale. This classification determines whether a section is navigable for your vessel type and load condition.</p>
+<table><thead><tr>
+<th>Class</th>
+<th>Description</th>
+<th>Waves</th>
+<th>Maneuvering</th>
+<th>Cargo Vessel?</th>
+</tr></thead><tbody>
+<tr>
+<td>I</td>
+<td>Easy</td>
+<td>Small, regular</td>
+<td>Minimal required</td>
+<td>Yes — standard navigation</td>
+</tr>
+<tr>
+<td>II</td>
+<td>Moderate</td>
+<td>Up to 0.6 m, wide channels</td>
+<td>Some maneuvering around obstacles</td>
+<td>Yes — with caution, scouting recommended</td>
+</tr>
+<tr>
+<td>III</td>
+<td>Difficult</td>
+<td>Irregular, up to 1 m, narrow passages</td>
+<td>Complex maneuvering, strong eddies</td>
+<td>No — unload cargo, line or portage</td>
+</tr>
+<tr>
+<td>IV</td>
+<td>Very Difficult</td>
+<td>Powerful, continuous hydraulics</td>
+<td>Precise maneuvering mandatory</td>
+<td>No — portage all vessels</td>
+</tr>
+<tr>
+<td>V</td>
+<td>Extremely Difficult</td>
+<td>Violent, continuous, large holes</td>
+<td>Expert only, serious risk to life</td>
+<td>No — portage, no exceptions</td>
+</tr>
+<tr>
+<td>VI</td>
+<td>Nearly Impossible</td>
+<td>Extreme, virtually unrunnable</td>
+<td>Risk of death is substantial</td>
+<td>No — absolute portage</td>
+</tr>
+</tbody></table>
+<p><strong>Rule</strong>: Loaded cargo vessels should not attempt anything above Class II. Scouting from shore is mandatory for anything above Class I. When in doubt about classification, treat the section as one class higher than your estimate.</p>
+<h3 id="reading-water-features">Reading Water Features</h3>
+<p>The following table summarizes the visual language of moving water. Learn these patterns and you can read any river.</p>
+<table><thead><tr>
+<th>Feature</th>
+<th>Appearance</th>
+<th>Meaning</th>
+<th>Action</th>
+</tr></thead><tbody>
+<tr>
+<td>V-shape pointing downstream</td>
+<td>Two lines of turbulence converging downstream</td>
+<td>Rock just below surface at the apex of the V</td>
+<td>Pass on either side of the V, never through the apex</td>
+</tr>
+<tr>
+<td>V-shape pointing upstream</td>
+<td>Two lines of turbulence diverging downstream</td>
+<td>Clear deep channel between two obstacles</td>
+<td>Follow the V — this is your path</td>
+</tr>
+<tr>
+<td>Smooth tongue</td>
+<td>Glossy, smooth water forming a tongue shape entering a rapid</td>
+<td>Deep, fast channel — typically the safest path</td>
+<td>Follow the tongue through the rapid</td>
+</tr>
+<tr>
+<td>Horizon line</td>
+<td>Water appears to drop away; you cannot see the surface beyond</td>
+<td>Water drops sharply — possible waterfall, ledge, or major rapid</td>
+<td>Stop. Scout from shore. Never cross a horizon line blind</td>
+</tr>
+<tr>
+<td>Eddy line</td>
+<td>Sharp boundary between smooth and turbulent water</td>
+<td>Boundary between downstream current and upstream eddy</td>
+<td>Cross at 45 degrees with speed to enter or exit the eddy</td>
+</tr>
+<tr>
+<td>Pillow</td>
+<td>Smooth, rounded hump of water</td>
+<td>Large rock just below surface</td>
+<td>Give clearance — pass well to either side</td>
+</tr>
+<tr>
+<td>Rooster tail</td>
+<td>Jet of water spraying upward</td>
+<td>Rock just below surface in very fast current</td>
+<td>Avoid — the rock is barely submerged and the current is powerful</td>
+</tr>
+<tr>
+<td>Foam/debris line</td>
+<td>Line of bubbles and floating material</td>
+<td>Convergence zone where two currents meet</td>
+<td>Marks the thalweg or eddy boundaries</td>
+</tr>
+</tbody></table>
+<h3 id="the-ferry-glide-step-by-step">The Ferry Glide: Step-by-Step</h3>
+<p>The ferry glide is the foundational river crossing technique. It exploits the current itself to provide lateral movement.</p>
+<ol>
+<li>Position your vessel in an eddy above and upstream of the crossing point.</li>
+<li>Point the bow upstream at a 30-45 degree angle toward the far bank.</li>
+<li>Paddle forward with enough power to maintain the angle against the current.</li>
+<li>The current pushes against the exposed hull side, driving the vessel laterally.</li>
+<li>Forward paddling maintains the upstream angle, preventing the current from spinning the vessel downstream.</li>
+<li>The result: controlled lateral movement with zero downstream drift.</li>
+<li>As you approach the far bank, enter the eddy on that side.</li>
+</ol>
+<pre><code>
+FERRY GLIDE — PLAN VIEW (looking down)
+
+    Far Bank
+    ========================================================
+                                              .
+                          Vessel          . &#x27;
+                         movement     . &#x27;
+                        (lateral)  . &#x27;     Bow points upstream
+                               . &#x27;         at 30-45 deg angle
+                           . &#x27;            /
+                       . &#x27;           [====&gt;     Vessel
+                   . &#x27;                \
+               . &#x27;                     Stern
+           . &#x27;
+    ========================================================
+    Near Bank
+
+    Current direction:  ===================&gt;
+                        (flowing left to right)
+
+    Paddle force:       -----&gt; (forward, into current)
+    Current force:      =====&gt; (pushes hull sideways)
+    Resultant movement: . . .&gt; (lateral crossing)
+</code></pre>
+<p><strong>Angle adjustment</strong>: In fast current, use a narrower angle (closer to pointing directly upstream, ~30 degrees). In slow current, use a wider angle (~45 degrees). If you are drifting downstream, narrow your angle and increase paddle power.</p>
+<h3 id="the-eddy-turn-step-by-step">The Eddy Turn: Step-by-Step</h3>
+<p>The eddy turn parks your vessel in calm water behind an obstacle — your primary braking and stopping technique.</p>
+<ol>
+<li>Approach the eddy line at a 45 degree angle, with forward speed.</li>
+<li>Drive the bow across the eddy line with a strong forward stroke.</li>
+<li>As the bow enters the eddy (where water flows upstream), the stern remains in the downstream current.</li>
+<li>The differential current — upstream on the bow, downstream on the stern — spins the vessel to face upstream.</li>
+<li>The vessel is now parked in the eddy, facing upstream, in calm water.</li>
+<li>From this position you can rest, scout downstream, or set up for a ferry glide.</li>
+</ol>
+<p><strong>Critical detail</strong>: Lean the vessel slightly downstream (into the eddy) as you cross the eddy line. If you lean upstream, the downstream current will catch the upstream gunwale and flip the vessel instantly.</p>
+<h3 id="portage-assessment">Portage Assessment</h3>
+<p>Portage (carrying the vessel overland around an obstacle) is not failure — it is the most important safety decision in river travel. Portage when:</p>
+<ul>
+<li>You cannot see the entire rapid or section from shore above it.</li>
+<li>There are horizon lines you cannot read or identify from any vantage point.</li>
+<li>The section is Class III or above and your vessel is loaded with cargo.</li>
+<li>The consequence of capsizing includes pinning against rocks, trees, or undercut banks.</li>
+<li>There are strainers (fallen trees, root masses) anywhere in the section.</li>
+<li>Water temperature is below 15 C and immersion would cause cold water shock.</li>
+<li>Any member of the crew is uncertain, fatigued, or uncomfortable.</li>
+</ul>
+<p><strong>Portage procedure</strong>: Unload cargo first. Carry cargo to the put-in below the obstacle. Return for the vessel. Two people minimum for carrying a loaded canoe. Scout the portage trail for footing hazards before carrying the vessel.</p>
+<h3 id="current-speed-measurement">Current Speed Measurement</h3>
+<p>A simple field method for measuring current velocity:</p>
+<ol>
+<li>Pace off 20 m along the riverbank parallel to the current.</li>
+<li>Mark the upstream and downstream points clearly (sticks, rocks).</li>
+<li>Throw a piece of wood (a stick of neutral buoyancy) into the thalweg at the upstream marker.</li>
+<li>Time how long the stick takes to reach the downstream marker.</li>
+<li>Speed = distance / time. Repeat three times and average the results.</li>
+</ol>
+<table><thead><tr>
+<th>Current Speed</th>
+<th>Character</th>
+<th>Navigation Implication</th>
+</tr></thead><tbody>
+<tr>
+<td>0.5 m/s</td>
+<td>Gentle</td>
+<td>Easy upstream paddling, minimal ferry angle needed</td>
+</tr>
+<tr>
+<td>1.0 m/s</td>
+<td>Moderate</td>
+<td>Upstream paddling requires sustained effort, walk pace</td>
+</tr>
+<tr>
+<td>2.0 m/s</td>
+<td>Powerful</td>
+<td>Upstream paddling very difficult, ferry angle must be narrow</td>
+</tr>
+<tr>
+<td>3.0 m/s</td>
+<td>Dangerous</td>
+<td>Unpowered vessels should not attempt upstream travel</td>
+</tr>
+<tr>
+<td>4.0+ m/s</td>
+<td>Extreme</td>
+<td>Downstream only with extreme caution; portage likely</td>
+</tr>
+</tbody></table>
 <hr>
 </div>
+<div class="section-practical" id="common-failure-modes">
+<h2>Common Failure Modes</h2>
+<ol>
+<li><strong>Strainer entrapment.</strong> Fallen trees, root masses, and log jams allow water to flow through but trap vessels and people against the debris. Strainers are the single deadliest river hazard because they are often invisible until it is too late and escape is nearly impossible once pinned. ALWAYS scout for strainers before entering any section. If you are being swept toward a strainer and cannot avoid it: lean INTO the strainer and attempt to climb over it. Leaning away from the strainer causes the current to push the upstream gunwale under water, flooding the vessel and pulling you under the debris.</li>
+<li><strong>Broaching in rapids.</strong> The vessel turns sideways to the current and wraps around a rock or obstacle. Once broached, the full force of the current pins the vessel in place — thousands of kilograms of force that no human effort can overcome. Immediate response: high-brace on the downstream side and lean the vessel aggressively downstream. This lifts the upstream gunwale above the water and prevents the current from flooding over it. If the vessel is already taking water over the upstream gunwale, abandon the vessel immediately — a water-filled vessel pinned by current becomes a deathtrap.</li>
+<li><strong>Hydraulic trap.</strong> A recirculating hole (reversal) captures the vessel and holds it in the recirculation indefinitely. The surface current flows upstream back into the hole, and the vessel cannot escape by paddling forward. If trapped in a hole: attempt to paddle laterally toward the edge of the hole where the recirculation weakens. If that fails, abandon the vessel. Swim to the bottom of the river — the outflow current at depth flows downstream and will flush you past the recirculation. This is counterintuitive but physically correct: the recirculation only affects the surface. The deep current always flows downstream.</li>
+<li><strong>Undercut bank collision.</strong> The outside of bends often features undercut rock or soil — the bank extends outward beneath the waterline, creating a void that can trap a vessel swept underneath. Undercut banks are invisible from the water surface. Stay clear of outside banks in bends, especially where you can see active erosion, exposed roots, or dark shadows at the waterline. If swept toward an undercut bank, paddle aggressively away from the bank. If contact is imminent, lean toward the bank (counterintuitively) to prevent the current from pushing the upstream gunwale under.</li>
+<li><strong>Cold water shock.</strong> Sudden immersion in water below 15 C triggers an involuntary gasp reflex — the body inhales regardless of whether the head is above water. If the head is submerged, this means inhaling water and drowning within seconds. Cold water shock kills faster than hypothermia. Mitigation: wear a personal flotation device at all times (it keeps the head above water during the gasp reflex). Practice cold water immersion in controlled, shallow conditions so the body learns to suppress the reflex. Know the water temperature before every trip.</li>
+</ol>
+<hr>
+</div>
+<div class="section-vocab" id="vocabulary-of-the-foundation">
+<h2>Vocabulary of the Foundation</h2>
+<p><strong>Thalweg</strong> — The line connecting the deepest points of successive cross-sections of a river channel. The thalweg represents the path of maximum velocity and depth. It migrates to the outside of bends and toward the center in straight sections.</p>
+<p><strong>Eddy</strong> — A region of calm or upstream-flowing water on the downstream side of an obstacle (rock, bridge pier, point of land). Eddies form because the obstacle blocks the downstream current, creating a low-pressure zone that draws water back upstream to fill the void.</p>
+<p><strong>Eddy Line</strong> — The sharp, visible boundary between the downstream main current and the upstream eddy current. Eddy lines can be remarkably abrupt — a few centimeters separating water moving in opposite directions. Crossing an eddy line requires speed and angle to prevent the differential current from capsizing the vessel.</p>
+<p><strong>Ferry Glide</strong> — A technique for crossing a river laterally without downstream drift. The vessel is angled 30-45 degrees upstream and paddled forward; the current provides the lateral force while forward paddling maintains the angle.</p>
+<p><strong>Hydraulic / Hole</strong> — A recirculating feature formed when water pours over a ledge or drop. The surface water downstream of the drop flows back upstream, creating a closed loop. Small hydraulics are playful; large hydraulics are vessel traps.</p>
+<p><strong>Standing Wave</strong> — A stationary wave formed where fast water meets slower water or a shallow bottom. The wave remains in place while water flows through it continuously. Standing wave trains typically mark the main channel through rapids.</p>
+<p><strong>Strainer</strong> — Any obstacle that allows water to pass through but traps solid objects (vessels, people). Fallen trees, root masses, log jams, and wire fences are all strainers. The deadliest common river hazard.</p>
+<p><strong>Portage</strong> — Carrying the vessel and cargo overland around an unnavigable section of river. From the French "porter" (to carry). Portage routes were critical links in pre-industrial river highway networks.</p>
+<p><strong>Boil</strong> — An upwelling of water from depth, appearing as a circular, mushroom-shaped disturbance on the surface. Boils indicate deep turbulence interacting with bottom features and can destabilize vessels.</p>
+<p><strong>Pillow</strong> — A smooth, convex hump of water forming on the upstream face of a large submerged rock. The water piles up before splitting around the obstacle. Pillows indicate rocks large enough to pin a vessel.</p>
+<p><strong>Broach</strong> — When a vessel turns sideways (beam-on) to the current, usually resulting in the vessel wrapping around a rock or obstacle. One of the most dangerous situations in whitewater navigation.</p>
+<p><strong>Rooster Tail</strong> — A vertical jet of water spraying upward from a rock that is barely submerged in fast current. The rock is too shallow to form a pillow but too deep to be visible. Indicates extreme danger in fast water.</p>
+<p><strong>Point Bar</strong> — The shallow, sediment-deposited area on the inside of a river bend. Formed by helicoidal flow carrying sediment from the outside bank to the inside bank. Point bars are shallow, slow-current areas — good for wading, poor for navigation.</p>
+<p><strong>Cut Bank</strong> — The steep, eroding bank on the outside of a river bend. The thalweg runs along the cut bank, and helicoidal flow actively undercuts the bank from below. Cut banks are unstable and may collapse; the water alongside them is deep, fast, and dangerous.</p>
+<p><strong>Helicoidal Flow</strong> — The three-dimensional corkscrew current pattern in river bends. Surface water flows toward the outside bank, dives along the cut bank, flows along the bottom toward the inside bank, and rises. This continuous helical rotation drives erosion on the outside and deposition on the inside of every bend.</p>
+<hr>
+</div>
+<h2 id="cross-references">Cross-References</h2>
+<ul>
+<li><a href="01_Rationale_and_Importance.html">01_Rationale_and_Importance.md</a> — Maritime sovereignty rationale and why waterways are strategic assets</li>
+<li><a href="02_Non_Motorized_Coastal_Piloting.html">02_Non_Motorized_Coastal_Piloting.md</a> — Celestial and dead-reckoning navigation methods applicable to wide rivers and estuaries</li>
+<li><a href="04_Salt_Spray_Management.html">04_Salt_Spray_Management.md</a> — Corrosion and equipment management applicable where rivers reach tidal or brackish zones</li>
+<li><a href="../01_Rationale_and_Importance.html">../01_Rationale_and_Importance.md</a> — Energy budget calculations for water transit vs. overland travel</li>
+<li><a href="../04_Terrestrial_Navigation/05_Geometric_Trail_Engineering.html">../04_Terrestrial_Navigation/05_Geometric_Trail_Engineering.md</a> — Portage trail construction and gradient management</li>
+</ul>
+<hr>
+<h2 id="further-study">Further Study</h2>
+<ul>
+<li>Leopold, Luna B. <em>A View of the River</em>. Harvard University Press, 1994. The foundational text on river geomorphology — channel geometry, sediment transport, flood frequency, and the physics of flowing water. Essential for understanding why rivers behave as they do.</li>
+<li>Nealy, William. <em>Kayak: The New Frontier</em>. Menasha Ridge Press, 1986. An illustrated guide to reading whitewater, with hand-drawn diagrams of every river feature. The clearest visual guide to hydraulic features, eddy turns, and ferry glides ever published.</li>
+<li>Mason, Bill. <em>Path of the Paddle: An Illustrated Guide to the Art of Canoeing</em>. Van Nostrand Reinhold, 1980. The definitive canoe technique manual by Canada's most respected canoeist. Covers flat water and whitewater technique, reading current, and expedition planning.</li>
+<li>Morse, Eric W. <em>Fur Trade Canoe Routes of Canada / Then and Now</em>. University of Toronto Press, 1969. Historical documentation of the voyageur route network — portage locations, seasonal water conditions, and the logistics of long-distance canoe travel.</li>
+<li>U.S. Geological Survey. <em>Water Resources Publications</em>. USGS stream gauging methodologies, discharge measurement techniques, and open-channel flow hydraulics. Available at usgs.gov/water. The authoritative source for quantitative river data and measurement standards.</li>
+</ul>
+<hr>
 <div class="section-vocab" id="glossary-reference">
 <h2>Glossary Reference</h2>
-<p><em>See <a href="../../../Glossary.html">../../../Glossary.md</a> for full definitions of:</em></p>
-<ul>
-<li>  <strong>Refugia</strong></li>
-</ul>
-</div>
-<div class="section-practical" id="4-practical-implementation-guide-for-beginners">
-<h2>4. Practical Implementation Guide for Beginners</h2>
-<h3 id="4-1-step-by-step-action-plan">4.1. Step-by-Step Action Plan</h3>
-<ul>
-<li>  <strong>Phase 1: Stick Floating:</strong> Throw a stick into the river and watch its path. This reveals the Thalweg and the hidden eddies.</li>
-<li>  <strong>Phase 2: Ferry Practice:</strong> Attempt to cross a shallow, slow-moving stream in a straight line using the ferry-glide angle.</li>
-<li>  <strong>Phase 3: The Portaging Survey:</strong> Identify areas where the river is too dangerous to navigate and map the "Carry Path" (Portage) around them.</li>
-</ul>
-<h3 id="4-2-troubleshooting-failure-modes">4.2. Troubleshooting & Failure Modes</h3>
-<ul>
-<li>  <strong>Strainers:</strong> Fallen trees in the water. These are lethal because they allow water to pass but trap the vessel and the human. Always navigate to the opposite bank of a strainer.</li>
-</ul>
+<p><em>See <a href="../../../Glossary.html">../../../Glossary.md</a> for full definitions of all technical terms used in this module.</em></p>
 </div>
     </section>
 
