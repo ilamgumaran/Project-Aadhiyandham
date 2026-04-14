@@ -1,91 +1,291 @@
-# Low-Tech Mobility: Cargo Trike Construction Guide
+# Low-Tech Mobility: Human and Animal-Powered Transport Systems
 
 **Alignment:** Outcome 5: Decadal and Generational Resilience
 
-## 1. Why This Is Important
-Mobility is the backbone of logistics. In a post-fuel world, the ability to move 200kg of grain, timber, or water across a settlement determines the efficiency of the civilization. By using **Structural Bamboo** and **Salvaged Steel**, we create a vehicle that is lightweight, incredibly strong, and entirely repairable with local materials.
+Transport capacity determines the operational radius of a settlement. A person carrying a load on their back covers 15-25 km/day with 20-30 kg. A handcart doubles the payload to 50-100 kg. An animal-drawn cart increases it to 300-500 kg. Each step up in transport capacity proportionally extends the settlement's logistical reach — for trade, resource gathering, and emergency response. The difference between a community that can move 50 kg of grain per trip and one that can move 500 kg is not merely one of convenience; it is the difference between subsistence isolation and regional economic participation.
 
-## 2. Expected Outcome
-A human-powered (or animal-towed) three-wheeled vehicle capable of carrying a 250kg payload across semi-rugged terrain.
+Post-collapse transport must be manufactured and maintained from local materials. Rubber tires, steel bearings, and pneumatic components will degrade within 5-15 years without industrial resupply. Replacements must be fabricated from wood, leather, iron, and fiber — materials available at the village level indefinitely. This module covers vehicle designs that can be built and repaired using workshop-scale manufacturing: no vulcanization, no precision machining, no ball bearing manufacture. Every joint, every axle, every wheel described here can be made by a competent woodworker and a blacksmith working together.
 
-## 3. Materials Needed & Sourcing
+Historical precedent confirms the viability of this approach. Every pre-industrial civilization maintained transport systems without rubber or petroleum. Roman ox-carts traversed 400,000 km of engineered roads. Chinese wheelbarrows carried 150-200 kg with a single operator across thousands of kilometers. Japanese daihachi-guruma handcarts moved 300-500 kg through the dense urban networks of the Edo period. Indian bullock carts — 15 million still in daily operation as of 2020 — haul 500-1000 kg across rural South Asia using wooden wheels and bamboo frames. These designs are field-proven at civilizational scale across millennia.
 
-| Material | Specification | How to Find / Source |
-| :--- | :--- | :--- |
-| **Structural Bamboo** | Guadua or Tonkin (min. 3" diameter) | Harvest locally or establish a grove early (Module 02). |
-| **Head Tube** | Steel (from scrap bikes) | Salvage the front part of a bicycle frame where the forks connect. |
-| **Bottom Bracket** | Steel (from scrap bikes) | Salvage the part of the frame where the pedals and cranks rotate. |
-| **Rear Axle** | 1-inch solid steel or high-tensile pipe | Scavenge from industrial machinery or small trailers. |
-| **Natural Fiber** | Hemp, Flax, or Manila rope | Grow and process locally (Module 02). |
-| **Resin** | Pine resin or Hide glue | Synthesized from local resources (Module 03). |
+> **CAUTION**: Vehicle construction involves cutting and shaping heavy timber, working with heated metal components, and testing load-bearing structures. Wear eye protection when cutting or chiseling wood. Use heavy gloves when handling heated iron components. Test all vehicles at half the rated load before full-load operation. Never stand beneath a vehicle supported only by a jack or blocks — use stable cribbing. Wheel and axle failures under load can cause crushing injuries.
 
 ---
 
-## 4. Assembly Instructions (Step-by-Step)
+## Theoretical Foundation
 
-### 4.1. Step 1: Prepping the "Steel Lugs"
-The parts of a vehicle that handle rotation (bearings and threads) must be steel. 
-1.  Cut the **Head Tube**, **Bottom Bracket**, and **Rear Dropouts** from salvaged scrap bike frames.
-2.  Clean the steel thoroughly to ensure a good bond with the resin.
+### The Physics of Wheeled Transport
 
-### 4.2. Step 2: The Main Chassis (Twin-Boom Design)
-1.  Select two primary bamboo culms (the "Booms").
-2.  **Miter:** Carve the ends of the bamboo to fit perfectly against the curvature of the steel lugs.
-3.  **Fire-Hardening:** Lightly char the bamboo over a fire. This drives out moisture and significantly increases the compressive strength.
+Rolling friction versus sliding friction is the fundamental reason the wheel transformed human civilization. A wheel on packed earth has a coefficient of rolling resistance (Crr) of 0.02-0.05, compared to a sliding friction coefficient of 0.3-0.5. This 10-20x reduction in friction means that a 200 kg load requiring 600-1000 N of force to drag across the ground requires only 40-100 N to roll on wheels. The wheel does not eliminate friction — it converts high sliding friction into low rolling friction by continuously presenting a new contact surface.
 
-### 4.3. Step 3: Joining (The Composite Lug Method)
-1.  Position the bamboo MITERED ends against the steel parts.
-2.  **The Wrap:** Soak your natural fibers (hemp/rope) in hot resin or hide glue.
-3.  **The Bond:** Wrap the soaked fibers tightly around the joint in a "cross-hatch" pattern. Build up a thickness of at least 1cm.
-4.  **Cure:** Allow the joint to dry for 48 hours. The result is a composite lug that is stronger than the bamboo or the steel independently.
+Surface type dramatically affects rolling resistance. Approximate Crr values for common surfaces:
 
-### 4.4. Step 4: Rear Drive and Wheels
-1.  Mount the rear axle through the bamboo booms using similar composite lugs.
-2.  Use 20-inch or 26-inch bicycle wheels for light loads; use heavy-duty industrial casters or wheelbarrow wheels for maximum cargo capacity.
+- Hard pavement or stone flags: 0.01-0.02
+- Packed gravel or compacted earth: 0.02-0.04
+- Firm dirt road: 0.03-0.05
+- Grass or loose soil: 0.05-0.10
+- Soft sand or deep mud: 0.10-0.30
 
-## 5. Visual Illustration (Conceptual)
+The difference between a packed gravel road (Crr = 0.03) and a soft dirt path (Crr = 0.08) more than doubles the pulling force required. This is why road maintenance and surface preparation yield outsized returns on labor investment.
+
+Bearing friction governs axle performance. A wooden axle turning in a wooden hub has a friction coefficient of 0.2-0.5 when dry, dropping to 0.04-0.08 when greased with animal fat or vegetable oil. Lubrication is not optional maintenance — it is an operational necessity. A greased axle requires 4-5x less pulling force than a dry one. For a 200 kg cart, the difference between greased and ungreased bearings is the difference between 60 N and 250 N of pulling force — the difference between easy work and exhausting labor.
+
+Suitable lubricants in order of effectiveness:
+
+- Rendered tallow (beef or mutton fat): excellent, widely available, apply as warm paste
+- Lard (pig fat): good, but softens excessively in hot weather
+- Vegetable oils (linseed, castor, rapeseed): good, but require more frequent reapplication
+- Beeswax blended with tallow: excellent durability, ideal for long trips
+- Graphite powder (from charcoal): dry lubricant, useful in dusty conditions where grease attracts grit
+
+Wheel diameter determines obstacle-crossing ability. A wheel can climb an obstacle up to approximately one-quarter of its diameter without requiring additional force. For rough terrain with ruts, roots, and stones of 10-15 cm, wheel diameter should be at least 50 cm. For cargo vehicles operating on unimproved roads, 70-100 cm is optimal. Larger wheels also reduce rolling resistance slightly because the contact patch deformation is proportionally smaller relative to wheel radius.
+
+Load distribution follows a simple equation: the force required to pull a loaded cart equals payload multiplied by Crr multiplied by gravitational acceleration. For a 200 kg payload on packed earth (Crr = 0.03): F = 200 x 0.03 x 9.81 = 59 N, approximately 6 kgf. This is easily within sustained human pulling capacity on flat ground.
+
+Grade resistance adds a gravitational component. On a 5% grade with 200 kg: additional force = 200 x 9.81 x 0.05 = 98 N. Total pulling force nearly triples compared to flat ground. On a 10% grade, it increases fivefold. The practical implication is that route selection to avoid steep grades is as important as vehicle design — a longer flat route may require less total energy than a shorter hilly one.
+
+### The Biomechanics of Human-Powered Transport
+
+The energy cost of walking increases approximately linearly with carried load up to roughly 60% of body weight, then escalates sharply as the musculoskeletal system approaches structural limits. A 70 kg person carrying 40 kg (57% body weight) expends roughly twice the energy of unloaded walking. At 50 kg (71% body weight), energy expenditure more than triples as gait efficiency collapses. Wheeled transport eliminates this exponential penalty by transferring the load to the axle.
+
+Pushing versus pulling matters for human-powered carts. Humans can sustain greater pushing force — using body weight leaned forward against the handles — than pulling force, which relies on arm and back muscles alone. Carts designed for pushing from behind are more efficient for human operators than carts designed for forward pulling.
+
+The Chinese wheelbarrow demonstrates optimal load placement. Unlike the European wheelbarrow, where the load sits in front of the wheel and the operator bears approximately 50% of the weight through the handles, the Chinese wheelbarrow places the load directly over or between a large central wheel. The operator needs only to balance and push, not lift. This design allows a single operator to move 100-200 kg, versus 50-100 kg for the European configuration. The efficiency gain is not in the wheel — it is in the geometry of load placement.
+
+Sustained human power output is approximately 75W of mechanical work for an adult in reasonable physical condition. At 4 km/hr pushing a 200 kg cart on flat packed earth, power equals force times velocity: 59 N x 1.1 m/s = 65W. This is sustainable for 8 or more hours of continuous operation. Doubling the load to 400 kg requires 130W — beyond sustained capacity, necessitating either animal power, a second operator, or multiple trips.
+
+### Animal Draft Power
+
+Oxen provide sustained pulling force of 500-700 N at 3-4 km/hr, producing 1500-2800W (2-4 hp) of mechanical power. They can work 4-6 hours per day on a grass-and-hay diet without grain supplementation. A pair of oxen pulling a cart moves 500-1000 kg at 3-4 km/hr. Oxen are slower than horses but hardier, cheaper to feed, and less prone to injury. They are the default draft animal for communities without established grain surpluses.
+
+Horses and mules sustain 750-1000 N at 5-6 km/hr, producing 3750-6000W (5-8 hp). They are faster than oxen but require better feed — grain supplementation is necessary for sustained draft work. Mules combine the speed of horses with greater disease resistance and surefootedness, making them superior for rough terrain. However, mules cannot reproduce, requiring ongoing access to both horses and donkeys.
+
+Donkeys sustain 200-400 N at 3-5 km/hr. They are excellent for rough terrain, require minimal feed, and are remarkably resistant to disease and heat stress. A donkey with a pack saddle carries 50-80 kg over mountain trails where no wheeled vehicle can operate. For semi-arid and mountainous routes, donkeys are the optimal draft animal.
+
+Harness design is the critical variable in animal draft efficiency. The throat-and-girth harness presses against the animal's trachea, limiting usable pulling force to approximately 30% of the animal's muscular capacity — the animal chokes before reaching full effort. The collar harness distributes force across the shoulders and chest, allowing full pulling power. The Chinese developed the collar harness around the 3rd century BCE. Europe did not widely adopt it until the 10th century CE — a 1300-year delay that constrained European overland transport capacity throughout antiquity and the early medieval period.
+
+### Historical Transport Systems
+
+The Roman road system comprised 400,000 km of engineered roads with ox-carts limited to approximately 500 kg by law to protect road surfaces. Ox-cart speed averaged 3-5 km/hr, covering 25-35 km per day. The road surface itself — compacted gravel over a rubble base — reduced rolling resistance to Crr values of 0.02-0.03, comparable to modern packed gravel.
+
+The Chinese wheelbarrow, invented around the 2nd century CE, used a single large central wheel with cargo panniers balanced on either side. Carrying 150-200 kg with one operator, it was the most efficient human-powered cargo vehicle ever designed. Some were fitted with small sails for wind assistance on flat terrain — a practical application of multi-source energy harvesting.
+
+The Japanese daihachi-guruma was a heavy two-wheeled handcart requiring two operators, with a cargo capacity of 300-500 kg. It served as the standard commercial transport vehicle throughout the Edo period (1603-1868), operating within a comprehensive urban logistics network that functioned entirely without animal or mechanical power.
+
+The Indian bullock cart uses wooden wheels, a bamboo or hardwood frame, and carries 500-1000 kg with a pair of bullocks. It remains in daily use across rural South Asia, with an estimated 15 million in operation as of 2020 — living proof that pre-industrial transport technology functions at scale in the modern era.
+
+The common thread across all these systems is that none required materials or processes beyond the capability of village-level manufacturing. Wood, iron, fiber, leather, and animal fat sustained continental-scale transport networks for millennia. The industrial era replaced these materials with rubber, petroleum, and precision-machined steel — materials that offer superior performance but cannot be produced locally. The task of post-collapse transport is not to invent new solutions but to return to proven ones with the benefit of modern engineering understanding of why they work.
+
+---
+
+## Core Principles
+
+1. **The Repairability Principle** — every component of the vehicle must be replaceable using village-level manufacturing. Wooden wheels, wooden frames, iron axle pins, leather bearings. No component should require industrial processes — rubber vulcanization, precision machining, ball bearing manufacture — to replace. If a component cannot be made in the settlement workshop, redesign the vehicle to eliminate that component.
+
+2. **The Load-Over-Wheel Principle** — position the heaviest part of the load directly over or between the wheels, not behind them. This minimizes the lifting force the operator or animal must supply through the handles or harness. The Chinese wheelbarrow, with its load centered over a single wheel, is more efficient than the European wheelbarrow, where the operator bears half the load weight. Apply this geometry to every vehicle design.
+
+3. **The Lubrication Imperative** — an ungreased axle requires 4-5x more pulling force than a greased one. The community must maintain a supply of lubricant — rendered animal fat (tallow), vegetable oil, or beeswax — and apply it to all axle bearings before every trip. This is not periodic maintenance. It is a pre-departure checklist item equivalent to checking fuel in a motor vehicle. Assign responsibility for lubricant production and supply to a specific community role.
+
+4. **The Route-Over-Vehicle Principle** — improving the route yields greater transport efficiency than improving the vehicle. Clearing obstacles, grading the surface to reduce Crr, building simple bridges over streams, and cutting switchbacks into steep grades all reduce the force required to move any vehicle along that route. A crude cart on a good road outperforms an excellent cart on a bad trail. Community labor invested in route improvement benefits every vehicle and every trip indefinitely.
+
+5. **The Multi-Vehicle Fleet Principle** — no single vehicle design serves all needs. The settlement requires: (a) lightweight handcarts for garden and field work within 1 km, (b) medium cargo trikes for 5-20 km hauling, (c) heavy animal-drawn carts for long-distance trade at 50+ km. Build the fleet progressively as manufacturing capability develops — handcarts first, then cargo trikes as bicycle salvage and bamboo become available, then animal-drawn carts as draft animals are acquired and trained.
+
+---
+
+## Practical Implementation
+
+### Vehicle Design A: The Settlement Handcart (Human-Powered, 50-100 kg)
+
+The handcart is the first vehicle a settlement should build — it requires the least material and skill while providing immediate logistical benefit for daily hauling of firewood, water containers, harvested crops, and building materials within the settlement perimeter.
+
+Design specifications:
+
+- **Configuration:** two-wheel, push-from-behind
+- **Platform bed:** 80 x 60 cm
+- **Wheel diameter:** 50-60 cm
+- **Frame:** hardwood (oak, ash, or hickory) or bamboo twin-boom
+- **Wheels:** solid wood disc (simplest to build, heaviest) or spoked (lighter, requires more skill)
+- **Axle:** hardwood or iron rod, 3-4 cm diameter
+- **Bearing:** hardwood hub bored to axle diameter plus 2 mm clearance, greased with tallow
+- **Handle length:** 1.0-1.2 m from axle to grip, angled 30-40 degrees from horizontal
+- **Construction time:** 2-3 days for an experienced woodworker with prepared materials
+- **Rated load:** 50 kg (solid disc wheels) to 100 kg (spoked wheels with iron axle)
+
+For the solid disc wheel variant, select a cross-section from a large hardwood log (minimum 50 cm diameter, 8-10 cm thick). Bore the center hole to match the axle diameter plus 2 mm. Reinforce the disc with two iron or hardwood straps bolted across the face perpendicular to the grain — without these, the disc will split along the grain under load within weeks. Alternatively, laminate three boards with grain directions alternating 90 degrees, then cut the disc from the laminated blank.
+
+### Vehicle Design B: The Cargo Trike (Human-Powered, 150-250 kg)
+
+The cargo trike extends the settlement's hauling range to 5-20 km with payloads of 150-250 kg — sufficient for grain transport, timber hauling, and inter-settlement trade. The design uses structural bamboo and salvaged steel in a composite construction that combines the lightness and availability of bamboo with the rotational precision of steel bearing surfaces.
+
+**Materials and Sourcing:**
+
+| Material | Specification | Sourcing |
+| :--- | :--- | :--- |
+| **Structural Bamboo** | Guadua or Tonkin, min. 3" (7.5 cm) diameter | Harvest locally or establish a grove (see Module 02) |
+| **Head Tube** | Steel, from salvaged bicycle frames | Cut the front steering tube from a scrap bicycle |
+| **Bottom Bracket** | Steel, from salvaged bicycle frames | Cut the pedal/crank housing from a scrap bicycle |
+| **Rear Axle** | 1" solid steel rod or high-tensile pipe | Salvage from industrial machinery or small trailers |
+| **Natural Fiber** | Hemp, flax, or manila rope | Grow and process locally (see Module 02) |
+| **Resin** | Pine resin or hide glue | Synthesize from local tree sap or animal hides |
+
+**Dimensions:** Overall length 2.0-2.5 m, width 0.8-1.0 m, cargo bed 1.0 x 0.8 m. The twin-boom bamboo chassis provides torsional rigidity through triangulation — the two booms diverging from the head tube to the rear axle form a natural triangle that resists twisting forces under uneven loading.
+
+**Structural properties of bamboo:** Compressive strength 40-80 MPa, tensile strength 100-230 MPa. By weight, bamboo is comparable to structural steel in tensile strength. Fire-hardening — lightly charring the bamboo surface over controlled flame — drives out residual moisture and increases compressive strength by 20-30%. All structural bamboo members should be fire-hardened before assembly.
+
+**Assembly — The Composite Lug Method:** Miter the ends of bamboo culms to fit precisely against the curvature of the steel lugs (head tube, bottom bracket, rear dropouts). Clean all steel surfaces thoroughly. Soak natural fiber (hemp or flax rope) in hot pine resin or hide glue. Wrap the soaked fiber tightly around each bamboo-to-steel joint in a cross-hatch pattern, building up a thickness of at least 1 cm. Allow 48 hours for curing. The resulting composite lug transfers load through shear in the resin-fiber matrix — it is stronger than either the bamboo or the steel connection alone. Apply a protective coating of linseed oil mixed with powdered charcoal to all composite lugs for UV and moisture resistance.
+
+**Wheel options:** Salvaged bicycle wheels (20" for maneuverability in tight spaces, 26" for rough terrain and better obstacle clearance), solid wood disc wheels (60-80 cm diameter, heaviest but simplest to fabricate), or spoked wooden wheels with iron tire shrink-fit (best performance, requires blacksmithing capability).
 
 ```text
-      [ HANDLEBARS ]
-            |
-      [ STEEL HEAD TUBE ]
-           / \
-          /   \  <--- [ COMPOSITE LUGS ] (Resin-wrapped Fiber)
-         /     \
-[ BAMBOO BOOM 1 ] [ BAMBOO BOOM 2 ]
-       |         |
-       |         |
-[ REAR AXLE ]=====[ CARGO BED ]
+CARGO TRIKE — TOP VIEW
+
+         [HANDLEBARS]
+              |
+        [HEAD TUBE]
+           /     \
+          / BAMBOO \
+         / BOOM 1   \ BOOM 2
+        /    (2.0m)   \
+       /               \
+      |    CARGO BED    |
+      |   1.0 x 0.8 m   |
+      |  (250 kg max)   |
+       \               /
+        \  [COMPOSITE \
+         \   LUGS]   /
+    [====REAR AXLE====]
+    (o)             (o)
+   wheel           wheel
+   20-26"          20-26"
+
+
+CARGO TRIKE — SIDE VIEW
+
+  HANDLES --\     CARGO BED
+              \   ___________
+               \ |           |
+    HEAD TUBE --[x]         [x]-- REAR AXLE
+                 \         / |
+          BOOM ---\-------/  |
+                   \        (o) WHEEL
+                    (o)
+               FRONT WHEEL
 ```
 
-## 6. Maintenance Guide
-*   **Joint Inspection:** Check for hairline cracks in the resin lugs annually. If found, simply apply a fresh layer of resin-soaked fiber.
-*   **UV Protection:** Paint the bamboo with a mix of linseed oil and charcoal to prevent sun-bleaching and splitting.
+### Vehicle Design C: The Animal-Drawn Cart (Ox/Horse/Mule, 300-500 kg)
+
+The animal-drawn cart is the settlement's heavy transport vehicle for long-distance trade, bulk agricultural hauling, and heavy material transport at ranges of 50 km or more. Design: two-wheel, tongue-and-yoke for paired oxen or shaft-and-collar for a single horse or mule. Platform bed 1.5 x 1.0 m. Wheel diameter 80-100 cm.
+
+Frame: heavy hardwood (oak preferred for its combination of strength, workability, and rot resistance). All structural joints use mortise-and-tenon joinery reinforced with iron pins at stress points. The bed frame should be a rectangular ladder frame with cross-members at 30 cm intervals to distribute point loads.
+
+Wheels: spoked construction with a shrink-fit iron tire. The wheelwright shapes the felloes (curved outer rim segments), fits spokes from hub to felloe, and assembles the wheel slightly larger than the iron tire ring. The blacksmith heats the iron ring until it expands sufficiently to fit over the wooden wheel, then quenches it rapidly with water. As the iron cools and contracts, it grips the wooden rim permanently, compressing the entire wheel structure and preventing loosening. The iron tire also protects the wooden rim from ground wear — a critical durability feature.
+
+Yoke and harness: for oxen, a carved hardwood yoke sits across the necks of a pair, with the tongue (central pole) extending forward between them. For horses and mules, a collar harness distributing draft force across the shoulders is essential. The collar is carved from hardwood, padded with leather or stuffed cloth, and fitted to the individual animal. A poorly fitted collar causes sores, reduces pulling capacity, and can permanently injure the animal.
+
+**Construction sequence for the animal-drawn cart:**
+
+1. Season all hardwood lumber for a minimum of 6 months before construction begins
+2. Build the bed frame first — rectangular ladder frame with mortise-and-tenon joints pinned with iron
+3. Construct wheels (allow 2-3 weeks for a wheelwright building spoked wheels for the first time)
+4. Forge or acquire the iron axle and linchpins
+5. Have the blacksmith produce and shrink-fit the iron tires onto completed wheels
+6. Assemble axle to frame, mount wheels, test with half-load before full-load operation
+7. Carve and fit the yoke or collar harness to the specific draft animals that will pull the cart
+
+Total construction time: 3-6 weeks depending on material preparation and skill level. The animal-drawn cart is the most labor-intensive vehicle in the fleet, but it is also the most valuable — a single cart trip replaces 5-10 handcart trips or 20-30 backpack loads.
+
+### The Travois (Zero-Tech Fallback)
+
+The travois is described in detail in Outcome 1, Section 01.06: Transit Guide. In summary: an A-frame of two poles dragged on the ground behind a human or animal, carrying 30-50 kg (human-pulled) or 80-150 kg (animal-pulled). Rolling resistance is dramatically higher than wheeled transport (effective Crr of approximately 0.3 versus 0.03 for wheels) — roughly 10x more effort per kilogram moved.
+
+However, the travois operates on any terrain: steep trails, deep mud, snow, loose rock, dense forest. It requires no wheels, no axles, no bearings, no manufactured components beyond two poles and lashing cord. Construction time is measured in minutes, not days. The travois is the constant-performance transport solution when wheels cannot operate, and it should remain in the settlement's capability set even after wheeled vehicles are available.
+
+Use cases where the travois is superior to wheeled vehicles:
+
+- Steep mountain trails with grades exceeding 15%
+- Muddy or swampy ground where wheels sink
+- Dense forest without cleared paths
+- Snow cover exceeding 15 cm depth
+- Emergency evacuation of injured persons on rough terrain
+- Situations where no manufactured vehicle is available
 
 ---
 
+## Common Failure Modes
+
+**Axle Fracture** — overloading or striking an obstacle at speed can snap a wooden axle instantly. Prevention: use the strongest available hardwood (oak, hickory, or ironwood). Maintain loads within design limits. Carry a spare axle on any trip exceeding 10 km. Iron axles are strongly preferred when blacksmithing capability is available — they bend before breaking, giving warning before catastrophic failure.
+
+**Wheel Collapse** — solid wood wheels crack under load as the wood dries and shrinks, opening radial splits. Spoked wheels can lose spoke tension from the same drying process. Prevention: season all wheel wood for a minimum of 6 months before construction. Store wheels in shade when not in use to slow moisture cycling. For spoked wheels, the shrink-fit iron tire provides continuous compressive force that compensates for minor wood shrinkage.
+
+**Joint Failure at Composite Lugs** — resin-fiber composite joints degrade from ultraviolet exposure, moisture infiltration, and cyclic loading (vibration during transport). Prevention: inspect all composite lugs annually. Rewrap with fresh resin-soaked fiber at the first sign of cracking or delamination. Maintain the linseed oil and charcoal UV protection coating — reapply every 6 months or after heavy rain exposure.
+
+**Bearing Wear** — ungreased or worn bearings cause axle binding, excessive friction, heat buildup, and eventual seizure or failure. Prevention: grease all bearings before every trip without exception. Inspect bearing surfaces monthly for scoring or oval wear. Replace bearing bushings when clearance between axle and hub exceeds 3-4 mm — beyond this tolerance, the axle wobbles under load, accelerating wear and risking wheel detachment.
+
+**Tire and Rim Wear** — unprotected wooden rims wear rapidly on rocky or gravelly surfaces, losing material and roundness. An out-of-round wheel increases rolling resistance and causes destructive vibration. Prevention: shrink-fit iron tire (best protection), leather strip wrapping secured with tacks (adequate for lighter vehicles), or deliberate route selection to avoid rocky surfaces when iron tires are not available.
+
+**Overloading** — community pressure to maximize each trip by adding "just a few more kilograms" leads to structural failure on the route, far from the workshop. A vehicle that fails 15 km from the settlement with 400 kg of cargo creates a recovery problem worse than the original transport problem. Prevention: mark the maximum rated load permanently on every vehicle. Weigh loads using a simple balance beam and known reference weights before departure. Enforce load limits as community policy — overloading voids the design safety margin and risks losing both the cargo and the vehicle.
+
+---
+
+## Vocabulary of the Foundation
+
+- **Rolling resistance (Crr)** — the ratio of drag force to normal force for a wheel rolling on a surface. Lower values mean easier rolling. Packed earth: 0.02-0.05. Soft sand: 0.1-0.3. Paved surface: 0.01-0.02.
+
+- **Composite lug** — a joint formed by wrapping resin-soaked natural fiber around the junction of two structural members (typically bamboo to steel). The fiber-resin matrix transfers load through shear, creating a bond stronger than either material alone.
+
+- **Fire-hardening** — controlled surface charring of bamboo or wood to drive out moisture and cross-link surface cellulose fibers, increasing compressive strength by 20-30%. Distinct from full carbonization, which destroys structural integrity.
+
+- **Collar harness** — a draft animal harness distributing pulling force across the shoulders and chest rather than the throat. Allows the animal to exert full muscular pulling force without respiratory restriction.
+
+- **Shrink-fit tire** — an iron ring heated to expand, fitted over a wooden wheel rim, then quenched with water to contract. The cooling iron grips the wood permanently, compressing the wheel structure and protecting the rim from wear.
+
+- **Travois** — an A-frame drag sled consisting of two poles converging at the puller's harness and diverging to drag on the ground behind. The zero-technology transport solution for terrain where wheels cannot operate.
+
+- **Tongue-and-yoke** — a draft connection system for paired animals, typically oxen. A central pole (tongue) extends forward from the cart between the animals, connected to a crossbar (yoke) resting across their necks.
+
+- **Shaft harness** — a single-animal draft connection using two rigid poles flanking the animal's body, connected to the collar harness. Used for horses, mules, and donkeys.
+
+- **Spoke** — a radial structural member connecting a wheel hub to the rim. Spoked wheels are lighter than solid disc wheels but require greater woodworking skill to construct and maintain.
+
+- **Felloe** — one of the curved outer segments of a wooden wheel rim, into which the outer ends of the spokes are fitted. Multiple felloes form the complete rim circle.
+
+- **Linchpin** — the pin passing through a hole at the end of an axle to retain the wheel. A small, easily lost component whose absence causes wheel detachment. Carry spares.
+
+- **Wheelwright** — a craftsperson specializing in wheel construction, particularly spoked wheels with shrink-fit iron tires. One of the most critical skilled trades in a pre-industrial community — a settlement without a wheelwright cannot maintain wheeled transport.
+
+- **Daihachi-guruma** — the heavy two-wheeled handcart of Edo-period Japan (1603-1868). A historical example of effective human-powered cargo transport carrying 300-500 kg with two operators, functioning within a comprehensive urban logistics network.
+
+- **Nave** — the central hub of a wheel through which the axle passes. Also called the hub. The nave must be bored precisely to match axle diameter with 2-3 mm clearance for the lubricant film.
+
+---
+
+## Cross-References
+
+- [Rationale: Mechanics](01_Rationale_and_Importance.md) — manufacturing timeline and repair-before-replace principle
+- [Mechanical Power](02_Mechanical_Power.md) — workshop power for vehicle component manufacture
+- [Material Synthesis](04_Material_Synthesis_and_Recycling.md) — iron for axles, tires, and hardware
+- [Textiles and Leather](05_Textiles_and_Leather.md) — leather for bearings and harnesses
+- [Cordage and Rope](09_Cordage_and_Rope.md) — fiber for composite lugs and lashing
+- [Outcome 1, Section 01.06: Transit Guide](../../Outcome_1_Locating_Refugia/01_The_Journey/06_Transit_Guide_from_Georgia_USA.md) — travois design and transit logistics
+- [Outcome 2, Section 06.02: Livestock](../../Outcome_2_Biological_Sovereignty/06_Ecological_Harmony/02_Livestock_and_Mechanical_Animals.md) — draft animal management
+
+---
+
+## Further Study
+
+- M.J.T. Lewis, "The Origins of the Wheelbarrow," *Technology and Culture* (1994)
+- Stuart Piggott, *Wagon, Chariot and Carriage: Symbol and Status in the History of Transport* (1992)
+- Joseph Needham, *Science and Civilisation in China, Volume 4: Physics and Physical Technology, Part 2: Mechanical Engineering* — Chinese wheelbarrow and transport technology
+- J. Spruytte, *Early Harness Systems* (1983) — collar vs throat harness comparison
+- John Thompson, *Horse-Drawn Transport of the British Army* (1983) — practical military logistics with animal draft
+- George Sturt, *The Wheelwright's Shop* (1923) — detailed account of traditional wheelwright methods and workshop practice
+- Adam Wybe, historical records of the Chinese sailing wheelbarrow — wind-assisted human-powered transport
+
+---
 
 ## Glossary Reference
 
 *See [../../Glossary.md](../../Glossary.md) for full definitions of:*
 
-*   **Apprenticeship**
-*   **Burnout**
-*   **Execution**
-*   **Preparation**
-*   **Review**
-*   **System Failure**
-
-## 7. Practical Implementation Guide for Beginners
-
-### 7.1. Step-by-Step Action Plan
-*   **Preparation:** Read this module fully before attempting to build or implement. Gather raw materials locally.
-*   **Execution:** Build a small-scale prototype first. For example, if building a mechanical system or shelter, make a miniature version to test physics and material strength.
-*   **Review:** Test the implementation under stress (wind, water, heavy use) and refine.
-
-### 7.2. Troubleshooting & Failure Modes
-*   **System Failure:** When a system breaks, apply the "5 Whys" technique to find the root cause (e.g., The gear broke. Why? It was made of soft wood. Why? We lacked hardwood. Why?). Fix the root cause, not just the symptom.
-*   **Burnout:** Decadal survival is a marathon, not a sprint. If the community is exhausted, lower productivity expectations and focus on rest and social cohesion.
-
-### 7.3. Community & Decadal Flourishing
-*   **Apprenticeship:** No critical skill should be held by only one person. Every master must have an apprentice. Document local modifications to these original instructions in a physical journal.
+- **Recycling Cliff**
+- **Refugia**
