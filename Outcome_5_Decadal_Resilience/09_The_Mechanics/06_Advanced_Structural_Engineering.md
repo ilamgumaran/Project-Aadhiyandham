@@ -1,68 +1,290 @@
-# Advanced Structural Engineering: Post-Scavenge Construction
+# Advanced Structural Engineering: Timber Framing, Masonry, and Lime Construction
 
 **Alignment:** Outcome 5: Decadal and Generational Resilience
 
-## 1. Why This Is Important (The Rationale)
-Outcome 5 establishes Decadal and Generational Resilience. In the early years of a settlement, construction relies heavily on scavenged modern materials (plywood, steel nails, asphalt shingles). However, within 20 years, these materials will degrade and the "Recycling Cliff" will hit. True structural resilience means the ability to build permanent, weather-proof, multi-story buildings using only local geology and biology. 
+Shelter is the first priority after water and food, but permanent shelter — structures that last 50 to 200 years — requires engineering beyond basic survival construction. Scavenged modern materials (plywood, OSB, drywall, steel nails) degrade in 10 to 30 years. True structural permanence requires the three classical building systems: timber framing (wood joining without metal fasteners), masonry (fired brick with lime mortar), and earthen construction (cob, rammed earth, wattle-and-daub). These are the systems that the settlement must master to build beyond the Recycling Cliff.
+
+These are not primitive techniques — they are the engineering systems that built every civilization before 1900. The mortise-and-tenon joint is 7000+ years old (Neolithic lake dwellings). Roman pozzolanic concrete has lasted 2000 years. Medieval timber frames in England and Germany still stand after 500 to 700 years. The techniques in this module have been proven at civilizational timescale — they are the highest expression of building with local materials and human skill.
+
+The key advantage of these systems is that every component is repairable or replaceable with local materials. A broken timber can be scarfed and pegged. A cracked brick can be chiseled out and replaced. Lime mortar can be repointed century after century. Modern construction — dependent on Portland cement, steel connectors, and manufactured lumber — cannot be maintained without industrial supply chains. When those chains break, the buildings break with them. The classical systems are self-sustaining: the forest grows the timber, the clay pit yields the bricks, and the limestone outcrop provides mortar that literally turns back into stone. A community that masters these three systems can build permanently.
+
+> **DANGER**: Structural construction involves working at height, handling heavy timber, operating kilns at 900 degrees Celsius and above, and exposure to caustic quicklime. Falls, crush injuries, and chemical burns are the primary hazards. Always wear eye protection and leather gloves when handling lime. Never work alone at height. Keep vinegar available as an acid neutralizer for lime burns. These hazards are manageable with discipline but lethal with carelessness.
 
 ---
 
-## 2. Zero-Tech Fasteners: Timber Framing
-The reliance on modern iron nails is a vulnerability. When the nails rust, the building falls.
+## Theoretical Foundation
 
-### 2.1. The Mortise and Tenon Joint
-This is the foundational joint of generational building, requiring zero metal.
+### The Mechanics of Timber Structures
 
-**Step-by-Step Execution:**
-1. **The Tenon (The Peg):** On the end of your first beam, use a cross-cut saw to cut a shoulder, and a chisel to remove the cheek wood, leaving a protruding rectangular "peg" exactly in the center.
-2. **The Mortise (The Hole):** On your second beam, trace the exact dimensions of your Tenon. Use a hand-auger (brace and bit) to drill out the majority of the wood inside the traced rectangle. Use a chisel to square the corners until the hole is perfectly clean.
-3. **The Test Fit:** Insert the Tenon into the Mortise. It should be a friction fit, requiring light taps from a wooden mallet to seat fully.
-4. **Draw-Boring (The Lock):** Pull the joint apart. Drill a 1-inch hole completely through the Mortise cheeks. Insert the Tenon back in, and stick an awl through the hole to mark where it hits the Tenon. Pull the Tenon out, and drill its hole *slightly closer* to the shoulder (about 1/8th of an inch).
-5. **The Trunnel (Tree-Nail):** Carve a hardwood peg (oak or hickory) that is completely dry. Drive it through the offset holes. As the peg fights through the misaligned holes, it physically yanks the two beams together with massive force, locking them permanently.
+Wood is a natural composite: long cellulose fibers bound by lignin. This structure gives remarkable strength along the grain and significant weakness across it. Compressive strength parallel to grain: 30 to 60 MPa (oak). Tensile strength: 80 to 120 MPa. Shear strength: 6 to 12 MPa. The critical weakness is shear perpendicular to grain — splitting. Every timber joint must avoid inducing cross-grain shear.
+
+Mortise-and-tenon joinery transfers load through bearing surfaces rather than shear on fasteners. A well-cut joint distributes force across 200 to 500 square centimeters of wood-to-wood contact, compared to a nail's 0.2 square centimeters — a 1000:1 advantage in bearing area. The joint works with wood's strength in compression, not against its weakness in splitting.
+
+Draw-boring is the offset peg hole technique that pre-loads the joint in tension. Drill the peg hole through the mortise cheeks first, insert the tenon and mark the hole location, then drill the tenon's hole approximately 2 millimeters closer to the shoulder. When the hardwood trunnel is driven through these misaligned holes, it bends through the offset, pulling the tenon into the mortise with permanent tension. The joint is locked without glue, without metal, and without any possibility of working loose.
+
+The trunnel must be dry hardwood — oak, black locust, or hickory. As the surrounding timber seasons and shrinks, it contracts onto the trunnel, further tightening the joint. This is the opposite of nail sickness, where tannic acid corrosion and differing thermal expansion cause iron nails to loosen and surrounding wood to rot. In a draw-bored joint, the wood and peg work together, growing tighter with age.
+
+Green timber (freshly cut) is easier to work but shrinks 4 to 8 percent as it dries. Seasoned timber (air-dried 1 to 2 years) is stable but harder to cut. Medieval practice: cut joints in green timber, allow the frame to season before raising. The draw-bored pegs pull joints tighter as the wood dries.
+
+Species selection matters enormously. Oak is the premier structural timber in temperate climates: strong, durable, and resistant to decay. White oak heartwood is naturally rot-resistant and can last centuries even in exposed conditions. Black locust is even more decay-resistant and makes excellent posts and sills where ground contact is unavoidable.
+
+Softwoods (pine, spruce, fir) are weaker but grow faster — suitable for rafters and non-structural members protected from moisture. The settlement should identify and protect stands of durable hardwoods as strategic timber reserves.
+
+Historical durability confirms these principles. The Horyuji temple (Japan, 607 CE) is the oldest surviving wooden structure — over 1400 years old. European cruck frames from the 13th century are still inhabited. The secret: joinery that works with the wood, species selection that matches function, and a roof that keeps water out.
+
+### The Science of Brick and Masonry
+
+Clay particles are plate-shaped aluminosilicates that become plastic when wet and rigid when dry. But this is reversible — dried clay dissolves back into mud when re-wetted. Only firing produces permanence.
+
+Firing at 900 to 1100 degrees Celsius causes vitrification — the particles partially melt and fuse, creating a ceramic that is permanently waterproof. Well-fired brick achieves compressive strengths of 10 to 40 MPa, comparable to concrete. Tensile strength is negligible — masonry works in compression. Arches, vaults, and domes exploit this by converting vertical loads into compressive forces along curved paths.
+
+The clamp kiln is a self-contained firing method where the unfired bricks themselves form the kiln. Bricks are stacked in a pyramid with firing tunnels through the base, the exterior sealed with mud. Hardwood is burned in the tunnels for 3 to 5 days. Temperature gradient: approximately 1100 degrees Celsius at center (fully vitrified) to 800 degrees Celsius at exterior (under-fired). After cooling for 5 to 7 days, bricks are sorted by quality.
+
+Brick sizing evolved to fit the human hand. The Roman bessalis (200 by 200 millimeters) and sesquipedalis (450 by 450 millimeters) served different purposes, but the English standard (215 by 103 by 65 millimeters) became widespread because a single brick can be gripped, lifted, and placed with one hand while the other hand holds a trowel. This ergonomic constraint is real engineering — a bricklayer lays 300 to 500 bricks per day, and each one must be handled precisely.
+
+Bonding patterns determine wall integrity. English bond alternates courses of stretchers (long face out) and headers (short face out), tying the wall through its full thickness — simplest and strongest for the settlement. A wall one brick thick (215 millimeters) suffices for non-load-bearing partitions. Load-bearing walls should be one-and-a-half bricks thick (328 millimeters), with headers tying inner and outer leaves together.
+
+The arch is the fundamental masonry spanning element. A semicircular arch converts vertical load into compressive forces flowing along the curve and down into the piers. No brick in the arch is in tension. Masonry arches can span 3 to 6 meters while a flat brick lintel cannot safely span more than about 1 meter. Building an arch requires a temporary wooden form (centering) to support the bricks until the keystone is placed and mortar has set.
+
+### The Lime Cycle: Chemistry of Permanence
+
+The complete lime cycle: CaCO3 (limestone) is heated to 900 degrees Celsius, driving off CO2 to produce CaO (quicklime). Quicklime reacts violently with water to produce Ca(OH)2 (slaked lime). Slaked lime is mixed with sand and applied as mortar. Over months, the mortar absorbs CO2 from the atmosphere, reverting to CaCO3 — limestone. The mortar literally becomes stone by re-absorbing the CO2 driven off during calcination. This is a closed cycle.
+
+Surface carbonation begins within hours. Full carbonation of a 10 to 12 millimeter mortar joint takes 6 to 12 months, proceeding inward from exposed surfaces. The mortar must remain moist during this period — too-rapid drying produces weak, powdery mortar.
+
+Lime mortar is weaker in compression than Portland cement (2 to 5 MPa versus Portland's 20 to 40 MPa), but this apparent disadvantage conceals critical superiority for long-term construction:
+
+- It is flexible: it absorbs building movement, thermal expansion, and settlement without cracking
+- It is permeable: it allows moisture to migrate through the wall and escape, preventing the freeze-thaw cycles that shatter brick in cement-pointed walls
+- It is self-healing: hairline cracks dissolve surface lime in rainwater, which re-carbonates and seals the crack
+- It is repairable: old mortar can be raked out and repointed with new mortar indefinitely, century after century
+
+These four properties make lime mortar functionally superior to Portland cement for any structure intended to last beyond a single human lifetime.
+
+Pozzolanic addition: mixing lime with volcanic ash, crushed brick, or calcined clay creates hydraulic lime that sets underwater at 5 to 15 MPa. Roman concrete used this formula — the Pantheon dome (126 CE, 43-meter span) is pozzolanic concrete. This should be the settlement's target for structural mortar.
+
+Lime wash (whitewash) is dilute slaked lime brushed onto walls. At pH 12 to 13, it is antimicrobial, reflective (reducing heat absorption by 60 to 80 percent), and weatherproof when applied in 3 to 5 thin coats while each previous coat is still slightly damp.
+
+Whitewash should be reapplied annually. Every pre-modern building was whitewashed — not for aesthetics, but for hygiene and preservation. The settlement should whitewash all wall surfaces annually as standard maintenance.
+
+### Earthen Construction
+
+Cob is a mixture of clay subsoil, sand, straw, and water, hand-built in courses without formwork. Each course is approximately 30 to 45 centimeters high and must dry for several days before the next course is added. Compressive strength is modest at 1 to 3 MPa, but this is adequate for single-story load-bearing walls 45 to 60 centimeters thick. Thermal mass is excellent: thick cob walls store heat during the day and release it at night, moderating interior temperature swings. See Outcome 2, Section 06.04 for detailed thermal design.
+
+Rammed earth uses a similar clay-sand mixture but is compacted in formwork (removable wooden frames) using a heavy tamper. Each layer of loose soil, approximately 15 centimeters deep, is rammed until it compresses to about half that depth and produces a solid ringing sound under the tamper rather than a dull thud. The resulting walls are denser and stronger than cob, achieving 2 to 5 MPa compressive strength at 40 to 60 centimeters thickness.
+
+The formwork is stripped and repositioned upward as each course cures. A skilled crew of 4 to 6 people can erect 2 to 3 cubic meters of wall per day. The Great Wall of China includes extensive rammed earth sections surviving over two millennia — proof at civilizational scale.
+
+Wattle-and-daub consists of a woven stick framework (the wattle) plastered with a clay-straw mixture (the daub). It is non-load-bearing and is used as infill between structural timber frame members. It is fast to construct and provides good thermal insulation, but requires periodic re-daubing as the surface weathers. In a timber-framed building, wattle-and-daub panels are the standard wall infill.
+
+All three earthen methods share a critical vulnerability: water. Protection requires three measures: a good roof with wide overhangs (minimum 45 centimeters), a raised foundation to prevent rising damp, and lime render on the exterior. With these protections, earthen buildings survive for centuries — cob farmhouses in Devon, England, dating to the 15th century are still inhabited. Without them, an earthen wall may not survive a single harsh winter.
 
 ---
 
-## 3. Permanent Masonry: Fired Brick and Lime Mortar
-Mud and wattle melt in heavy rain. For permanent civil infrastructure (forges, granaries, aqueducts), masonry is required.
+## Core Principles
 
-### 3.1. Firing Clay Bricks (The Clamp Kiln)
-You do not need a pre-existing brick oven to fire bricks; you build the oven *out* of the bricks you are firing.
+1. **The Joint-Over-Fastener Principle** — Wooden joints are structurally superior to metal fasteners. They distribute load over large bearing areas, work with wood's natural expansion and shrinkage, and can be repaired with local materials. A nailed frame depends on the nail; when it corrodes, the frame fails. A pegged frame depends on geometry; when a peg fails, it is replaced in minutes. Use metal fasteners only where joinery is impractical.
 
-**Step-by-Step Execution:**
-1. **The Mix:** Dig subsoil rich in clay. Mix it with sand (to prevent shrinkage) and water until it holds its shape. Press it into wooden molds (9x4x2 inches).
-2. **Air Drying (Critical):** Stack the raw bricks in the shade for at least 3 weeks. If you fire a wet brick, the trapped water turns to steam and explodes like a grenade.
-3. **Building the Clamp:** On flat ground, build a solid foundation of fired bricks (or stone). Stack your raw, dry bricks in a large pyramid. Leave several 2-foot wide tunnels running completely through the base of the pyramid.
-4. **The Casing:** Cover the entire exterior of the pyramid with mud to insulate it and trap the heat.
-5. **The Firing:** Fill the base tunnels with hardwood and light them. You must maintain this fire continuously for 3 to 5 days, reaching internal temperatures of ~1000°C (1800°F).
-6. **Cooling:** Do not open the clamp immediately. Let it cool slowly for a week to prevent the ceramic from cracking due to thermal shock. 
+2. **The Compression Principle** — Masonry works in compression. Every masonry structure must be designed so that loads are transmitted as compressive forces throughout. Use arches, not lintels. Use buttresses, not cantilevered beams. Build thick walls rather than thin walls requiring tension reinforcement. If a masonry element is in tension, the design is wrong.
 
-### 3.2. Creating Lime Mortar
-**Step-by-Step Chemistry:**
-1. **The Burn:** Heat limestone rocks (Calcium Carbonate) in a kiln at 900°C to drive off the CO2, creating caustic Quicklime.
-2. **Slaking:** Drop the Quicklime into water (wear goggles). It will boil violently. The resulting paste is Slaked Lime.
-3. **The Mix:** Mix 1 part Slaked Lime with 3 parts sharp sand. Use it to lay your fired bricks. The mortar will absorb CO2 from the air over the next 6 months, turning back into solid limestone.
+3. **The Lime Priority Principle** — Lime production — kiln construction, limestone sourcing, slaking protocol — should be established within Year 1 to 2 of the settlement. Lime is needed for mortar, plaster, whitewash, water purification, tanning, and soil amendment. It is the single most versatile chemical product the settlement can manufacture from local geology.
+
+4. **The Seasonal Building Cycle** — Fell trees in winter (lowest sap), cut joints in spring, raise frames in summer, finish walls before freeze. Mold bricks in spring/summer, air-dry through summer, fire in autumn. Never mortar when temperatures will drop below 5 degrees Celsius within 48 hours — frozen mortar never achieves full strength.
+
+5. **The Foundation-First Principle** — Every permanent structure requires a foundation separating it from ground moisture. Stone footings raised minimum 30 centimeters above grade, or a compacted gravel pad with drainage, are the minimum. Without this, timber rots from the base and earthen walls erode from rising damp. The foundation is the least visible and most critical element of any building.
 
 ---
 
-## 4. 🔬 Scientific Validation & Research Context
-*   **Thermal Expansion Coefficients:** Engineering studies validate that using iron fasteners in green wood causes "nail sickness." The iron rusts due to the tannic acid in the wood, and the differing thermal expansion rates cause the wood around the nail to rot. Timber framing relies on uniform organic materials expanding at the exact same rate.
-*   **The Lime Cycle:** The chemical equation for lime mortar (`Ca(OH)2 + CO2 -> CaCO3 + H2O`) proves that the mortar literally absorbs atmospheric carbon to become stone. It is structurally superior to modern cement for historical masonry because it is permeable; it allows moisture to escape rather than trapping it inside the wall where it can freeze and shatter the brick.
+## Practical Implementation
+
+### Timber Frame Construction
+
+Joint types for the settlement's repertoire: the mortise-and-tenon is the primary structural joint, used for all beam-to-post and beam-to-beam connections. The dovetail locks beams against withdrawal forces where lateral loads are expected. The lap joint extends timber length for non-critical members. The scarf joint splices beams end-to-end with pegs for structural members that must exceed available timber length.
+
+The basic frame layout is the bay system: two parallel frames (each consisting of posts and a cross-beam) connected by tie beams and wall plates. Bay spacing of 3 to 4 meters and frame height of 3 to 4 meters to the wall plate, plus roof, provides approximately 12 square meters of floor area per bay. A three-bay house (36 square meters) is a practical family dwelling.
+
+Larger community buildings (workshops, meeting halls, storage barns) can extend to 5, 6, or more bays along a single axis. The beauty of the bay system is modularity: a building can be extended by adding bays to either end, using the same joint techniques and member sizes throughout.
+
+Tool requirements for timber framing are modest but specific: a felling axe, a broad axe or adze for hewing round logs into square timbers, a crosscut saw, firmer chisels (12, 19, 25, and 38 millimeter widths at minimum), a wooden mallet, a brace and bit with auger bits for peg holes, a framing square, a plumb bob, a chalk line, and a drawknife for shaping trunnels. All can be manufactured by the settlement's blacksmith — see Section 04.
+
+For the mortise-and-tenon with draw-boring: cut the tenon on the beam end using a crosscut saw for the shoulders and a chisel for the cheeks. Cut the mortise in the receiving timber by drilling out the waste with a brace and bit, then squaring with a chisel. Test-fit with a mallet. Pull the joint apart, drill the peg hole through the mortise cheeks, mark the tenon through the hole, then drill the tenon's hole 2 millimeters closer to the shoulder. Drive a dry oak trunnel through the offset holes. The joint is permanently locked under tension.
+
+The scarf joint splices two timbers end-to-end when available lengths (typically 4 to 6 meters) are insufficient for wall plates or ridge beams. The simplest form is the halved scarf: each timber is cut to half-depth for 30 to 45 centimeters, the halves are overlapped, and two or more trunnels are driven through. For most settlement applications, the halved scarf with three pegs is adequate.
+
+Raising: assemble each frame flat on the ground with all joints pegged. Raise with ropes and pike poles, pivoting on the sill. Minimum crew: 6 to 8 adults plus a leader. Brace each frame immediately upon reaching vertical. Connect frames with tie beams before releasing braces. Never stand in the plane of a frame being raised.
+
+Roof structure: the king post truss (single central vertical) is simplest, suitable for spans up to 6 meters. The queen post truss (two verticals) spans wider bays. The critical principle is triangulation — a triangle cannot deform without changing member lengths. Every roof structure must be resolved into triangles.
+
+Roofing materials: thatch (rye straw or water reed) provides excellent insulation at a steep pitch (45 degrees minimum), lasting 25 to 30 years for water reed and 15 to 20 years for straw. Wood shingles (cedar or oak, split not sawn) last 20 to 40 years. Fired clay tiles have an indefinite lifespan but require stronger framing to support their weight (50 to 70 kilograms per square meter versus 25 to 35 for thatch).
+
+Wall infill: once the frame is raised, bays between structural timbers must be filled. Wattle-and-daub is fastest. Brick nogging is more durable and fire-resistant. Cob infill is an intermediate option. All infill is non-structural — the timber frame carries all loads.
+
+### Brick Making and Firing
+
+Brick molding: wooden mold (215 by 103 by 65 millimeters). Wet the mold, pack clay-sand mix firmly, strike off excess, turn out onto a sand-dusted drying surface. An experienced molder produces 300 to 500 bricks per day.
+
+Air drying requires minimum 3 weeks in shade, protected from rain but with good air circulation. Stack green bricks on edge with gaps between them to allow air flow on all surfaces. Turn bricks every few days for even drying. In humid climates, extend the drying period to 4 to 6 weeks. The test for readiness: a properly dried brick rings when tapped with a knuckle. A wet brick thuds. Break one test brick from the center of the drying stack — the core should be the same color as the surface, with no darker wet center. If the core is still damp, the entire batch needs more time. Patience at this stage prevents catastrophic losses in the kiln.
+
+Clamp kiln construction: on level ground, lay a stone foundation. Stack 3000 to 10,000 air-dried bricks in a pyramidal form with firing tunnels (60 centimeters wide) through the base. Coat the exterior with mud to insulate. Fill tunnels with hardwood and fire continuously for 3 to 5 days at 900 to 1100 degrees Celsius. Allow 5 to 7 days for cooling — never open a hot kiln.
+
+Sort after cooling by dismantling from outside in:
+
+- Outer bricks (salmon-colored, soft) — under-fired; interior use or crush as pozzolan
+- Middle bricks (red, hard, resonant ring) — well-fired; general construction
+- Center bricks (dark red to purple, glassy fracture) — fully vitrified; foundations and structural use
+
+Expect 60 to 70 percent usable for structural purposes.
+
+Fuel consumption is significant: a clamp kiln firing 5000 bricks requires 2 to 4 cubic meters of dry hardwood or 1 to 2 cubic meters of charcoal. The settlement must plan fuel woodlots to sustain brick-making without depleting construction timber. Coppiced hardwood (hazel, willow, ash) is ideal — it regrows from the stump on a 5 to 10 year rotation.
+
+### Lime Production
+
+Limestone sourcing: any form of calcium carbonate will work — limestone, chalk, marble, coral, oyster shells, clam shells. The settlement needs a reliable source within practical hauling distance. Test candidate rock by dropping acid (vinegar) on it — calcium carbonate fizzes vigorously.
+
+Kiln construction: a simple vertical shaft kiln, 1 to 2 meters in diameter and 2 to 3 meters in height, lined with firebrick or refractory clay. The kiln should be built into a hillside if possible, using the earth as insulation and the slope for natural draft — air enters through a low opening at the base and exits through the top, drawing combustion gases upward through the limestone charge.
+
+Charge with alternating layers of broken limestone (fist-sized pieces for even calcination) and fuel (hardwood or charcoal). Fire for 24 to 72 hours at 900 degrees Celsius or above, maintaining a bright orange-yellow flame visible at the kiln top. Successfully calcined limestone is white, lightweight, and crumbles easily when squeezed. Incompletely calcined stone retains a hard grey core — return it to the next firing.
+
+A single firing of 1 cubic meter of limestone produces 500 to 600 kilograms of quicklime — enough mortar for approximately 2000 to 3000 bricks. Stockpile slaked lime (stored under water in sealed pits) during kiln operations.
+
+Quicklime handling: CaO reacts violently with water, generating enough heat to ignite combustibles and cause severe burns. Store absolutely dry, sealed from rain. Never add water to a large quantity of quicklime — the reaction can be explosive.
+
+Slaking: add quicklime slowly to water (never water to quicklime) at approximately 1 part quicklime to 3 parts water. The mixture will boil violently. Stir with a long-handled tool, keeping face and hands clear. The resulting paste is lime putty. Lime putty improves with age — mature putty stored under water for 3+ months produces superior mortar.
+
+Mortar mixing: combine 1 part lime putty with 3 parts sharp sand (angular grain, not smooth river sand). Mix thoroughly until uniform. Use within 2 to 4 hours of mixing. Apply to brick or stone joints no thicker than 10 to 12 millimeters. Keep fresh mortar moist for several days by misting or covering with damp cloth to ensure proper carbonation.
+
+Pozzolanic mortar: for structural applications (foundations, arches, cisterns, any masonry that contacts water), add crushed fired brick or calcined clay at a ratio of 1 part pozzolan to 2 parts lime putty to 6 parts sand. The pozzolanic reaction produces calcium silicate hydrate, which sets hydraulically — hardening even submerged. This is the formula that built Roman aqueducts and the Pantheon. Stockpile crushed under-fired bricks from each kiln firing specifically for pozzolanic mortar.
+
+Lime plaster: mix 1 part lime putty to 2.5 parts sand for a base coat (10 to 15 millimeters thick), and 1 part lime putty to 2 parts fine sand for the finish coat (3 to 5 millimeters thick). Apply the base coat, scratch it to create a key, allow to firm for 24 hours, then apply the finish coat. Lime plaster protects walls from weather, improves fire resistance, and provides a surface for whitewashing.
+
+### Structural Diagrams
+
+```text
+MORTISE AND TENON WITH DRAW-BORE
+
+    BEAM A                    BEAM B
+    +---------+              +---------+
+    |         |              |         |
+    |    [MORTISE]           |  [TENON]|====>
+    |    |    |  |           |  |      |
+    |    | O  |  |  <-- Peg  |  | O    |  <-- Offset 2mm
+    |    |    |  |    hole   |  |      |      toward shoulder
+    |    [    ]  |           |  [      |
+    |         |              |         |
+    +---------+              +---------+
+
+    When driven, the oak trunnel bends through the offset,
+    pulling the joint tight with permanent tension.
+
+CLAMP KILN — CROSS SECTION
+
+    ~~~~~~~~ MUD CASING ~~~~~~~~
+    |                          |
+    |   [BRICK] [BRICK] [BRICK]|  <-- 3000-10,000 bricks
+    |   [BRICK] [BRICK] [BRICK]|      stacked in pyramid
+    |   [BRICK] [BRICK] [BRICK]|
+    |                          |
+    ===[FIRE TUNNEL]==[FIRE TUNNEL]===  <-- Hardwood fuel
+    ================================
+           STONE FOUNDATION
+
+KING POST TRUSS
+
+              /\
+             /  \    <-- Rafters (compression)
+            / KP \
+           / |  | \
+          /  |  |  \     KP = King Post (tension)
+         /   |  |   \
+        /    |  |    \
+    ===+================+===  <-- Tie Beam (tension)
+       |    POST    |   POST
+       |            |
+    Foundation   Foundation
+
+    The triangle cannot deform without changing
+    member lengths — inherently rigid.
+
+TIMBER FRAME BAY SYSTEM — END VIEW
+
+    ========== WALL PLATE ==========
+    ||                            ||
+    ||     WATTLE-AND-DAUB        ||  <-- Non-structural
+    ||       or BRICK NOGGING     ||      infill panel
+    ||                            ||
+    || POST                  POST ||
+    ||                            ||
+    ================================
+    |||  STONE FOUNDATION  30cm+ |||
+    ================================
+         above grade level
+```
 
 ---
 
+## Common Failure Modes
+
+1. **Green Timber Splitting** — Cutting joints in timber that is too green causes the joint to open as the wood dries and shrinks unevenly. Prevention: cut joints slightly tight in green timber, allowing for 4 to 8 percent shrinkage. The draw-bored trunnel will pull the joint tighter as the wood contracts. Alternatively, air-dry timber for 1 to 2 years before cutting any joints.
+
+2. **Exploding Bricks** — Bricks that retain internal moisture explode during firing as trapped water flashes to steam, destroying surrounding bricks and potentially collapsing part of the kiln. Prevention: air-dry green bricks for a minimum of 3 weeks in shade. Test readiness by breaking one brick from the batch — the core must be the same color and dryness as the surface. If the center is darker or damp, continue drying.
+
+3. **Lime Burns** — Quicklime and actively slaking lime generate extreme heat and caustic alkalinity at pH 12 to 13. Contact with skin causes deep chemical burns that may not be immediately painful but destroy tissue. Contact with eyes causes blindness. Prevention: always add lime to water, never water to lime. Wear eye protection and leather gloves for all lime handling. Keep dilute vinegar immediately available as an acid neutralizer. Never handle quicklime with bare skin.
+
+4. **Frost Damage to Fresh Mortar** — Lime mortar that freezes before initial carbonation (the first 48 hours) develops ice crystals that disrupt the calcium hydroxide matrix. The mortar will never achieve full strength and will crumble. Prevention: do not apply mortar when temperatures will drop below 5 degrees Celsius within 48 hours. Cover fresh masonry with insulating material (straw bales, canvas, burlap) during cold nights. Schedule all mortaring work for the warm months.
+
+5. **Foundation Failure** — Rising damp rots timber sills and erodes earthen walls from below — the most common cause of building failure in traditional construction. Prevention: stone or gravel foundation raised minimum 30 centimeters above grade with drainage. Place a moisture barrier (stone slabs, lime plaster, or tar-soaked timber) between foundation and wall.
+
+6. **Roof Leakage** — Water intrusion rots timber joints from inside, invisible until catastrophic failure. Prevention: roof overhangs of minimum 30 centimeters, annual inspection, and prompt repair. The old builder's saying: "A good hat and a good pair of boots" — a sound roof and a dry foundation — are all a building needs to last centuries.
+
+---
+
+## Vocabulary of the Foundation
+
+- **Mortise** — The rectangular hole cut into a timber to receive a tenon. Must be clean, square-cornered, and precisely sized to the corresponding tenon.
+- **Tenon** — The projecting rectangular tongue on the end of a timber that fits into a mortise. The bearing surfaces of the tenon transfer structural load to the mortise.
+- **Draw-boring** — The technique of drilling offset peg holes through mortise and tenon so that driving the peg pulls the joint tight under permanent tension.
+- **Trunnel** — Tree-nail. A dry hardwood peg (oak, locust, hickory) used to lock timber joints. Must be harder and drier than the surrounding timber.
+- **Vitrification** — The partial melting and fusion of clay particles during high-temperature firing, creating a waterproof ceramic matrix. Occurs above approximately 900 degrees Celsius.
+- **Clamp kiln** — A temporary kiln constructed from the very bricks being fired, sealed with mud, and self-demolishing after cooling. No pre-existing kiln infrastructure is required.
+- **Quicklime** — Calcium oxide (CaO). Produced by calcining limestone at 900 degrees Celsius or above. Violently reactive with water. The first product of the lime cycle.
+- **Slaked lime** — Calcium hydroxide (Ca(OH)2). Quicklime that has been reacted with water in a controlled exothermic process. The basis for mortar, plaster, and whitewash.
+- **Carbonation** — The process by which lime mortar absorbs carbon dioxide from the atmosphere, converting calcium hydroxide back to calcium carbonate (limestone). The final step of the lime cycle.
+- **Pozzolan** — A siliceous material (volcanic ash, crushed fired brick, calcined clay) that reacts with lime to produce hydraulic cement capable of setting underwater and achieving higher strength.
+- **Scarf joint** — A method of splicing two timbers end-to-end by cutting complementary tapered faces, overlapping them, and securing with pegs. Used to extend timber beyond available lengths.
+- **Bay** — The basic spatial unit of a timber frame: the volume between two parallel frames. Bay spacing determines floor area and structural rhythm.
+- **King post truss** — A triangular roof structure with a single central vertical member (the king post) connecting the ridge beam to the tie beam. The simplest truss form, suitable for spans up to 6 meters.
+- **Cob** — A mixture of clay subsoil, sand, straw, and water, hand-built in courses as load-bearing walls. No formwork required. Excellent thermal mass.
+- **Rising damp** — Moisture drawn upward from the ground into walls by capillary action. Prevented by moisture barriers, raised foundations, and perimeter drainage.
+
+---
+
+## Cross-References
+
+- [01. Rationale: Mechanics](01_Rationale_and_Importance.md) — manufacturing timeline and strategic priority
+- [02. Mechanical Power](02_Mechanical_Power.md) — water-powered sawmill for timber processing
+- [04. Material Synthesis](04_Material_Synthesis_and_Recycling.md) — iron production for structural hardware where joinery is impractical
+- [07. Foundational Chemistry](07_Foundational_Chemistry.md) — lime production chemistry and calcination details
+- [08. Ceramic Synthesis](08_Ceramic_Synthesis.md) — brick and tile firing temperatures and kiln design
+- [Outcome 2, Section 06.04: Shelter](../../Outcome_2_Biological_Sovereignty/06_Ecological_Harmony/04_Shelter_and_Thermal_Grounding.md) — thermal design, basic shelter, and cob construction
+
+---
+
+## Further Study
+
+- Cecil Hewett, *English Historic Carpentry* (1980) — comprehensive survey of medieval timber frame joinery and joint evolution
+- Jack Sobon, *Build a Classic Timber-Framed House* (1994) — practical timber framing for owner-builders
+- Gerard Lynch, *Brickwork: History, Technology, and Practice* (1994) — brick manufacture from clay preparation through firing
+- Stafford Holmes and Michael Wingate, *Building with Lime* (2002) — lime mortar, plaster, and render in traditional construction
+- John G. Landels, *Engineering in the Ancient World* (2000) — Roman construction techniques including pozzolanic concrete
+- Lynne Elizabeth and Cassandra Adams (eds.), *Alternative Construction: Contemporary Natural Building Methods* (2000) — cob, rammed earth, and natural building systems
+- Ted Ruddock, *Arch Bridges and Their Builders, 1735-1835* (1979) — masonry arch engineering and construction methods
+- Becky Little and Tom Morton, *Building with Earth in Scotland* (2001) — earthen construction in temperate climates
+
+---
 
 ## Glossary Reference
 
 *See [../../Glossary.md](../../Glossary.md) for full definitions of:*
 
-*   **Execution**
-*   **Recycling Cliff**
-
-## 5. Practical Implementation Guide for Beginners
-
-### 5.1. Step-by-Step Action Plan
-*   **Phase 1: The Joinery Prototype:** Do not build a house first. Cut a 4x4 beam. Attempt to carve a basic Mortise and Tenon joint and secure it with a wooden peg. If you cannot make a tight joint on the ground, you cannot make it 10 feet in the air.
-*   **Phase 2: The Lime Burn:** Locate local limestone, chalk, or sea shells. Build a small, very hot hardwood fire and burn the shells for 12 hours. Carefully drop the white, calcined shells into a bucket of water (wear eye protection, it will boil violently). You have just made slaked lime.
-
-### 5.2. Troubleshooting & Failure Modes
-*   **Exploding Bricks:** If your bricks explode inside the clamp kiln, they were not completely dry before firing. The internal moisture turned to steam and ruptured the ceramic. Dry them in the shade for two additional weeks next time.
+- **Recycling Cliff**
+- **Refugia**
