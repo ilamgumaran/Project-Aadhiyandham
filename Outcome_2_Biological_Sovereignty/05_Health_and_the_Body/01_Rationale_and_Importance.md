@@ -113,7 +113,10 @@ This section comprises seven sub-modules, each addressing a specific domain of p
 
 - **[07. Midwifery and Childbirth](07_Midwifery_and_Childbirth.md)**: Covers the full reproductive health cycle: prenatal nutrition and monitoring, labor recognition and support, physiological (gravity-assisted) delivery technique, management of common complications (postpartum hemorrhage, cord prolapse, malpresentation), neonatal assessment, breastfeeding support, and postpartum recovery. Maternal and infant mortality are the largest single contributors to pre-industrial death statistics — competent midwifery reduces both by 60-80%.
 
-- **[08. Natural Burial](08_Natural_Burial.md)**: Addresses the biological, public health, and psychological dimensions of death in a small community. Covers safe body handling (infection prevention), natural burial technique (depth, orientation, decomposition timeline), the role of burial ritual in community grief processing, and the ecological logic of returning the body to the soil without chemical embalming. Closes the biological loop.
+*   **[08. Natural Burial](08_Natural_Burial.md)**: Addresses the biological, public health, and psychological dimensions of death in a small community. Covers safe body handling (infection prevention), natural burial technique (depth, orientation, decomposition timeline), the role of burial ritual in community grief processing, and the ecological logic of returning the body to the soil without chemical embalming. Closes the biological loop.
+
+- **[09. Spectral Management](09_Spectral_Management_and_Circadian_Health.md)**: Technical study on managing light spectra (Blue vs Red) to protect the Glymphatic Wash and ensure long-term immune and neurological repair.
+
 
 ### The Settlement Health Kit (Minimum Equipment)
 
