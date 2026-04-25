@@ -1,0 +1,202 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Regenerative Grazing and Silvopasture Math - Project Aadhiyandham</title>
+    <link rel="stylesheet" href="../../style.css">
+</head>
+<body class="outcome-2">
+
+    <nav class="breadcrumbs">
+        <a href="../../index.html">Index</a> &gt; 
+        <a href="../../index.html">Outcome 2</a> &gt; 
+        <a href="01_Rationale_and_Importance.html">06 Ecological Harmony</a> &gt; 
+        <span>06 Regenerative Grazing Math</span>
+    </nav>
+
+    <header>
+        <h1>Regenerative Grazing and Silvopasture Math</h1>
+        <p class="alignment">Outcome 2: Absolute Biological Sovereignty</p>
+        
+        <div class="safety-banner safe"><span class="safety-icon">&#10003;</span><div><strong>Safe to Explore.</strong> This module involves mathematical planning and observation. Low risk, high reward for settlement resilience.</div></div>
+        <div class="color-legend"><span class="legend-theory">Theory</span><span class="legend-practical">Practical Guide</span><span class="legend-research">Research</span></div>
+        <div class="toc"><ol><li><a href="#theoretical-foundation">Theoretical Foundation</a></li><li><a href="#carrying-capacity">Calculating Carrying Capacity</a></li><li><a href="#paddock-rotation">Paddock Rotation Geometry</a></li><li><a href="#silvopasture-geometry">Silvopasture Geometry</a></li><li><a href="#scientific-validation">Scientific Validation</a></li><li><a href="#practical-implementation">Practical Implementation</a></li></ol></div>
+    </header>
+
+    <section>
+        <nav class="nav">
+            <a href="05_Psychological_Grounding.html">&lt; Previous: 05 Psychological Grounding</a>
+            <a href="../../Outcome_3_Perimeter_Defense/07_Passive_Defense/01_Rationale_and_Importance.html">Next: Outcome 3 &gt;</a>
+        </nav>
+
+        <p><strong>Alignment:</strong> Outcome 2: Absolute Biological Sovereignty</p>
+        <p>Livestock in a refugia are not just food sources; they are <strong>Biological Nutrient Processors</strong>. If animals graze a single area for too long, they destroy the soil structure and kill the forage. If managed through <strong>Rotational Grazing</strong>, their impact triggers rapid plant growth and sequesters massive amounts of carbon. This study provides the mathematical formulas to calculate stocking density and paddock rotation cycles.</p>
+
+        <hr>
+
+        <h2 id="theoretical-foundation">Theoretical Foundation: The Biological Engine</h2>
+        <p>The core of regenerative grazing is the understanding that grass and ruminants evolved together. Large herds of herbivores moving across landscapes, chased by predators, created the deepest, most fertile soils on Earth (the Mollisols of the Great Plains and the Chernozems of Eurasia). By mimicking this "High Impact, Long Rest" cycle, a settlement can turn degraded land into a highly productive biological engine.</p>
+
+        <div class="section-diagram">
+            <h3>The Grazing Pulse</h3>
+            <svg viewBox="0 0 800 300" xmlns="http://www.w3.org/2000/svg">
+                <!-- Background Grid -->
+                <line x1="50" y1="250" x2="750" y2="250" stroke="#ccc" stroke-width="1" />
+                <line x1="50" y1="50" x2="50" y2="250" stroke="#ccc" stroke-width="1" />
+                
+                <!-- Forage Height Curve -->
+                <path d="M 50 150 
+                         L 70 230 
+                         Q 150 100 230 80 
+                         L 250 230 
+                         Q 330 100 410 80 
+                         L 430 230 
+                         Q 510 100 590 80 
+                         L 610 230 
+                         Q 690 100 770 80" 
+                      fill="none" stroke="#0a9396" stroke-width="3" />
+                
+                <!-- Impact Spikes (Animals Present) -->
+                <rect x="50" y="150" width="20" height="100" fill="rgba(174, 32, 18, 0.2)" />
+                <rect x="230" y="80" width="20" height="170" fill="rgba(174, 32, 18, 0.2)" />
+                <rect x="410" y="80" width="20" height="170" fill="rgba(174, 32, 18, 0.2)" />
+                <rect x="590" y="80" width="20" height="170" fill="rgba(174, 32, 18, 0.2)" />
+
+                <!-- Labels -->
+                <text x="400" y="280" text-anchor="middle" font-family="Inter" font-size="12">TIME (Days)</text>
+                <text x="30" y="150" text-anchor="middle" font-family="Inter" font-size="12" transform="rotate(-90 30,150)">FORAGE HEIGHT / VIGOR</text>
+                <text x="140" y="120" font-family="Inter" font-size="10" fill="#0a9396">RECOVERY PHASE (30+ Days)</text>
+                <text x="65" y="245" font-family="Inter" font-size="10" fill="#ae2012">IMPACT</text>
+            </svg>
+            <p class="diagram-caption">Figure 6.1: The Grazing Pulse. Rapid drawdown of forage (Impact) followed by a long Rest period allows root systems to recharge and biomass to explode.</p>
+        </div>
+
+        <h2 id="carrying-capacity">1. Calculating Carrying Capacity (The AUM)</h2>
+        <h3>1.1. The Animal Unit (AU)</h3>
+        <p>To standardize calculations, we use the <strong>Animal Unit (AU)</strong>, defined as one 450kg (1,000 lb) cow.</p>
+        <ul>
+            <li><strong>1 Cow = 1.0 AU</strong></li>
+            <li><strong>1 Mule/Horse = 1.2 AU</strong></li>
+            <li><strong>1 Pig = 0.2 AU</strong></li>
+            <li><strong>5 Sheep/Goats = 1.0 AU</strong></li>
+        </ul>
+
+        <h3>1.2. The Animal Unit Month (AUM)</h3>
+        <p><code>AUM</code> is the amount of forage required by 1 AU for one month (approx. 360kg of dry matter).</p>
+        <ul>
+            <li><strong>Formula:</strong> <code>Total AU * Months of Grazing = Required AUM</code>.</li>
+            <li><strong>The Land Check:</strong> If your land produces 2 AUM per hectare, and you have 5 AU (5 cows), you need <code>(5 AU / 2 AUM) = 2.5 Hectares</code> of forage per month.</li>
+        </ul>
+
+        <hr>
+
+        <h2 id="paddock-rotation">2. Paddock Rotation Geometry</h2>
+        <p>To maximize soil building, animals must "Impact and Move."</p>
+
+        <h3>2.1. The 30-Day Recovery Rule</h3>
+        <p>Plants require rest to rebuild root mass.</p>
+        <ul>
+            <li><strong>Protocol:</strong> Divide your total pasture into a minimum of <strong>8 Paddocks</strong>.</li>
+            <li><strong>Rotation:</strong> Graze each paddock for 3-4 days, then leave it empty for at least 30 days.</li>
+        </ul>
+
+        <h3>2.2. Stocking Density vs. Carrying Capacity</h3>
+        <ul>
+            <li><strong>Carrying Capacity:</strong> How many animals the whole land can support over a year.</li>
+            <li><strong>Stocking Density:</strong> How many animals are in one specific paddock <em>right now</em>.</li>
+            <li><strong>Aadhiyandham Strategy:</strong> High Stocking Density for short durations. This forces animals to graze evenly and trample manure/urine into the soil (High Impact), followed by Long Rest.</li>
+        </ul>
+
+        <hr>
+
+        <h2 id="silvopasture-geometry">3. Silvopasture Geometry: Trees and Forage</h2>
+        <p>Silvopasture is the intentional integration of trees and grazing.</p>
+
+        <div class="section-diagram">
+            <h3>Wide-Row Silvopasture Geometry</h3>
+            <svg viewBox="0 0 800 300" xmlns="http://www.w3.org/2000/svg">
+                <!-- Sky -->
+                <rect width="800" height="300" fill="#f0f9ff" />
+                
+                <!-- Ground -->
+                <rect y="220" width="800" height="80" fill="#dcfce7" />
+                
+                <!-- Tree Rows (East-West alignment seen from South) -->
+                <!-- Row 1 -->
+                <g transform="translate(100, 220)">
+                    <rect x="-5" y="-60" width="10" height="60" fill="#78350f" />
+                    <circle cx="0" cy="-80" r="40" fill="#15803d" />
+                </g>
+                <!-- Row 2 (15m apart) -->
+                <g transform="translate(400, 220)">
+                    <rect x="-5" y="-60" width="10" height="60" fill="#78350f" />
+                    <circle cx="0" cy="-80" r="40" fill="#15803d" />
+                </g>
+                <!-- Row 3 -->
+                <g transform="translate(700, 220)">
+                    <rect x="-5" y="-60" width="10" height="60" fill="#78350f" />
+                    <circle cx="0" cy="-80" r="40" fill="#15803d" />
+                </g>
+
+                <!-- Sun and Rays -->
+                <circle cx="700" cy="50" r="30" fill="#fde047" />
+                <line x1="680" y1="70" x2="100" y2="220" stroke="#fde047" stroke-width="2" stroke-dasharray="5,5" />
+                
+                <!-- Forage Labels -->
+                <text x="250" y="250" text-anchor="middle" font-family="Inter" font-size="14" font-weight="600" fill="#166534">FORAGE ALLEY (10-15m)</text>
+                <text x="550" y="250" text-anchor="middle" font-family="Inter" font-size="14" font-weight="600" fill="#166534">FORAGE ALLEY</text>
+                
+                <!-- Orientation -->
+                <text x="400" y="30" text-anchor="middle" font-family="Inter" font-size="12" font-weight="700">ORIENTATION: ROWS RUN EAST-WEST</text>
+            </svg>
+            <p class="diagram-caption">Figure 6.2: Wide-Row Silvopasture. Rows are aligned East-West to ensure maximum solar penetration to the forage alleys between trees.</p>
+        </div>
+
+        <h3>3.1. The "Wide Row" Layout</h3>
+        <p>To allow enough sunlight for forage while providing shade for animals:</p>
+        <ul>
+            <li><strong>Tree Spacing:</strong> Plant rows of fodder trees (Mulberry, Black Locust, Willow) every <strong>10-15 meters</strong>.</li>
+            <li><strong>Orientation:</strong> Align rows East-to-West to maximize sunlight penetration to the grass between the rows.</li>
+        </ul>
+
+        <hr>
+
+        <h2 id="scientific-validation">🔬 4. Scientific Validation: The Grazing Pulse</h2>
+        <div class="section-research">
+            <p>Research into <strong>Holistic Planned Grazing</strong> (Savory, 1983) confirms that the "Pulse" of intense grazing followed by long rest mimics the behavior of wild herds and their predators. This process increases soil organic matter by up to 1% per year, which significantly increases the water-holding capacity of the refugia. For every 1% increase in soil organic matter, an acre of land can hold an additional 20,000 gallons of water.</p>
+        </div>
+
+        <hr>
+
+        <h2 id="practical-implementation">5. Practical Implementation Guide</h2>
+        <div class="section-practical">
+            <h3>5.1. Step-by-Step Action Plan</h3>
+            <ol>
+                <li><strong>Phase 1: Forage Survey:</strong> Measure the average height of your grass in the dry season. If it is &lt;10cm, your land is already overgrazed.</li>
+                <li><strong>Phase 2: Fencing Geometry:</strong> Use simple movable "Electric" (or physical rope/bamboo) fences to create temporary paddocks.</li>
+                <li><strong>Phase 3: The Move:</strong> Move the animals as soon as they have eaten 50% of the available forage. "Take half, leave half."</li>
+            </ol>
+
+            <h3>5.2. Troubleshooting & Failure Modes</h3>
+            <ul>
+                <li><strong>Parasite Load:</strong> If animals graze too close to the ground (&lt;5cm), they ingest parasite eggs. Always move animals while forage is still "tall."</li>
+                <li><strong>Soil Compaction:</strong> In wet weather, move animals faster to prevent "pugging" (destructive hoof-holes in mud).</li>
+            </ul>
+
+            <h3>5.3. Community & Decadal Flourishing</h3>
+            <p><strong>The Shepherd's Ledger:</strong> Every move must be logged. Tracking the days of rest for each paddock is the primary metric for increasing the settlement's total carrying capacity over decades.</p>
+        </div>
+
+        <nav class="nav">
+            <a href="05_Psychological_Grounding.html">&lt; Previous: 05 Psychological Grounding</a>
+            <a href="../../Outcome_3_Perimeter_Defense/07_Passive_Defense/01_Rationale_and_Importance.html">Next: Outcome 3 &gt;</a>
+        </nav>
+    </section>
+
+    <footer>
+        <p>Project Aadhiyandham (&#2950;&#2980;&#3007;&#2991;&#2984;&#3021;&#2980;&#2990;&#3021;) &mdash; Licensed under GNU GPLv3</p>
+        <p style="font-size: 0.85em; margin-top: 4px;">The Architecture of the Null: A User Manual for Civilization</p>
+    </footer>
+</body>
+</html>

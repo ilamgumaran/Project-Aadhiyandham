@@ -185,6 +185,7 @@ The practices described in this rationale are implemented through the following 
 - **[03. Ecological Harmony and Wildlife](03_Ecological_Harmony_and_Wildlife.md)** — co-inhabiting with local flora and fauna; wildlife corridors, predator coexistence, and the settlement as a "living buffer" between human activity and wilderness.
 - **[04. Shelter and Thermal Grounding](04_Shelter_and_Thermal_Grounding.md)** — designing habitation structures that participate in the thermal and hydrological cycles of the landscape rather than resisting them.
 - **[05. Psychological Grounding](05_Psychological_Grounding.md)** — the Centered Null state; ecological engagement as a foundation for psychological resilience and long-term mental health.
+- **[06. Regenerative Grazing Math](06_Regenerative_Grazing_and_Silvopasture_Math.md)** — mathematical calculations for carrying capacity and paddock rotation geometry to build soil using livestock.
 
 ---
 
