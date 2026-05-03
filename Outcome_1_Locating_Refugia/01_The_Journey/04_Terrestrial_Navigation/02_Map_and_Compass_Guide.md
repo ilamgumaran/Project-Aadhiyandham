@@ -32,6 +32,26 @@ The geographic North Pole (True North) and the magnetic north pole are not in th
 
 **To convert a magnetic bearing to a true bearing:** In areas of West declination, ADD the declination. In areas of East declination, SUBTRACT the declination. The mnemonic: **"Declination West, Compass Best" (compass reads higher than true), "Declination East, Compass Least" (compass reads lower than true).**
 
+```text
+         True North (TN)     Magnetic North (MN)
+              |               /
+              |              /
+              |             /
+              |    decl.   /
+              |   angle   /
+              |  (e.g.   /
+              |  7° W)  /
+              |        /
+              |-------/
+              |      /
+              |     /
+              |    /
+              |   /
+              * Observer
+   West declination: MN is west of TN
+   Compass bearing + declination = true bearing
+```
+
 Many modern baseplate compasses have an adjustable declination screw that mechanically offsets the orienting arrow. If set correctly, all readings are automatically corrected. **Set the declination before departure and verify it at each map change.**
 
 ### How Topographic Maps Encode Terrain
@@ -84,6 +104,30 @@ To measure distance along a curved route: lay a piece of string along the route 
 *   **Direction-of-Travel Arrow:** The arrow printed on the baseplate, pointing away from you. This shows the direction to walk after the needle is aligned.
 *   **Declination Adjustment Screw:** On quality compasses, a small screw that offsets the orienting arrow by the local declination, so all readings are automatically true bearings.
 
+```text
+        BASEPLATE COMPASS — Top-Down View
+    ___________________________________________
+   |                                           |
+   |          Direction-of-Travel Arrow        |
+   |                  /^\                       |
+   |                 / | \                      |
+   |                   |                        |
+   |          .--------.--------.               |
+   |        /  360/0   N        \              |
+   |       | W 270    [R]   90 E |             |
+   |       |       Orienting     |             |
+   |       |  S     Arrow: /^\   |  <- Bezel   |
+   |        \ 180     [R]=red /  |   (rotate)  |
+   |         '--------'------'   |             |
+   |                             |             |
+   |   [Ruler markings along edge]             |
+   |___________________________________________|
+         Baseplate (transparent)
+
+   [R] = Red end of magnetic needle (points to MN)
+   /^\ = Orienting arrow ("the shed")
+```
+
 ### Procedure 1: Setting a Course from Map to Destination
 
 1.  Lay the map flat. Identify your current position (Point A) and destination (Point B).
@@ -109,6 +153,26 @@ When you are uncertain of your position but can see two or more known landmarks:
 ### Procedure 3: Aiming Off
 
 When navigating to a point on a linear feature (e.g., a bridge on a river), do NOT aim directly at it. Aim 5-10 degrees to one side deliberately. When you reach the river, you will know which direction to turn to find the bridge. Without aiming off, you reach the river and face a 50/50 guess — left or right — which can cost hours.
+
+```text
+   AIMING OFF — Why offset beats direct
+
+   ~~~~~~~~~~[BRIDGE]~~~~~~~~~~~~~~ River
+               |    \
+               |     \  Offset bearing
+    Direct     |      \  (aim LEFT of bridge)
+    bearing    |       \
+    (risky)    |        \
+               |         \
+               |          \
+               |           * Navigator
+
+   Direct: you hit the river... but which way
+           is the bridge? 50/50 guess.
+
+   Offset: you KNOW the bridge is to your RIGHT.
+           Turn right along the river. Found it.
+```
 
 ---
 

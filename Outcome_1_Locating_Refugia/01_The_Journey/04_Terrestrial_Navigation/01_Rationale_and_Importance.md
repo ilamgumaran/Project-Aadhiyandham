@@ -28,6 +28,25 @@ This problem has three components, each with increasing complexity:
 
 1. **Bearing determination:** Measuring the angle between True North and the direction of your destination. This is a trigonometric problem — on a flat map, the bearing from point A to point B is the arctangent of the east-west distance divided by the north-south distance, measured clockwise from North.
 
+```text
+        True North
+            |
+            |   / Direction to B
+            |  /
+            | /  bearing angle (theta)
+            |/ )
+     A -----+-------------------
+            |
+            |         B = destination
+            |         .
+            |       .
+            |     .   distance = sqrt(dE^2 + dN^2)
+            |   .
+            | .
+            +  bearing = atan2(dE, dN) mod 360
+          (dN = north-south distance, dE = east-west distance)
+```
+
 2. **Bearing maintenance:** Walking on the correct bearing through terrain that forces detours. Dense forest, cliffs, rivers, and private land all push you off your bearing. The navigator must track these deviations and return to the original line — a process called **aiming off** when done deliberately, and **error accumulation** when done poorly.
 
 3. **Position verification:** Periodically confirming that your actual position matches your expected position. Without verification, errors compound. After 5 km of walking with a 5-degree bearing error, you are approximately 440 m off course. After 20 km, you are 1.75 km off course — easily enough to miss a valley, a water source, or a rendezvous point entirely.
@@ -40,6 +59,23 @@ GPS (Global Positioning System) provides position accuracy of 3-5 meters under i
 *   **Power dependency:** A handheld GPS receiver draws 100-500 mW continuously. At typical battery capacities (2,000-5,000 mAh), runtime is 8-20 hours. On a multi-week foot transit, battery resupply is not guaranteed.
 *   **Infrastructure dependency:** The GPS constellation requires continuous monitoring and correction from ground control stations. Without maintenance, satellite clocks drift. The system degrades to 100+ meter accuracy within weeks of ground station failure, and becomes unreliable within months.
 *   **Jamming and spoofing:** GPS signals are extremely weak (approximately 10^-16 watts at the receiver). A 1-watt jammer can disable GPS reception over a radius of several kilometers. State and non-state actors have demonstrated both jamming and spoofing (sending false position data) repeatedly since 2010.
+
+```text
+  GPS DEPENDENCY CHAIN — every link is a single point of failure
+
+  Satellite         Ground           Atomic         Radio          Your
+  Constellation --> Control  ------> Clocks ------> Signal ------> Receiver
+  (31 satellites)   Stations         (on-board)     (10^-16 W)     (handheld)
+       |               |                |               |              |
+       v               v                v               v              v
+   Orbital decay   Staff/power     Drift without    Jammed by     Needs battery
+   Space debris    Internet link   correction       1W device     (8-20 hrs)
+   Anti-sat weapon Geopolitics     (~weeks)         Spoofable     No resupply
+       |               |                |               |              |
+       +-------+-------+-------+-------+-------+-------+------+-------+
+                               |
+                 ANY single failure = NO position fix
+```
 
 A paper map does not require batteries, satellites, or ground stations. A magnetic compass has no moving parts that depend on external infrastructure. These tools have been the primary navigation instruments for ocean voyaging, polar exploration, and military operations for over 800 years because their failure modes are understood and manageable.
 
@@ -55,6 +91,25 @@ A paper map does not require batteries, satellites, or ground stations. A magnet
 ## Core Principles
 
 1.  **The Hierarchy of Navigation Methods:** Always use the most precise method available. Compass + map (±25-50 m accuracy) is preferred over terrain association alone (±100-500 m). Celestial methods (±1-5 km) are the fallback when instruments are lost. Never rely on a single method when two are available — cross-check.
+
+```text
+  NAVIGATION SKILL HIERARCHY — graceful degradation
+
+  Precision   +========================================+
+  +-25-50 m   |   MAP & COMPASS (instrument-based)     |  Needs: compass, map
+              |   Bearing + distance + terrain check    |  Fails if: lost/broken
+              +============+===========================+
+                           |  falls back to
+              +============v===========================+
+  +-1-5 km    |   CELESTIAL / SUN METHODS              |  Needs: clear sky, stick
+              |   Shadow-stick, Polaris, Sun arc        |  Fails if: overcast
+              +============+===========================+
+                           |  falls back to
+              +============v===========================+
+  +-0.5-2 km  |   TERRAIN ASSOCIATION (always available)|  Needs: eyes, memory
+              |   Ridge lines, drainages, slope aspect  |  Fails if: featureless
+              +========================================+
+```
 
 2.  **The Declination Discipline:** Magnetic North and True North are not the same point. The angular difference — **magnetic declination** — varies by location from 0 to 25+ degrees and changes slowly over time (~0.1 degree/year in most locations). Failing to correct for declination introduces a systematic error that grows with distance: at 10 degrees declination over 10 km, you will be 1.75 km off course. Always apply the local declination correction to every bearing.
 

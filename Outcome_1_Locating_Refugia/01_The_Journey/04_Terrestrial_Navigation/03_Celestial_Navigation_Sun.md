@@ -27,6 +27,28 @@ The sun's path across the sky — its **diurnal arc** — depends on your latitu
 *   **At mid-latitudes (30-50°):** The sun rises in the general East, reaches its highest point (culmination) toward the South (in the Northern Hemisphere) or North (in the Southern Hemisphere), and sets in the general West. The sun is never directly overhead.
 *   **At high latitudes (60°+):** In summer, the sun may barely set (or not set at all). In winter, it barely rises. The solar arc is very low to the horizon, making shadow-based methods less precise.
 
+```text
+              Solar Arc at Different Latitudes (Northern Hemisphere)
+                        (cross-section facing South)
+
+        Zenith
+          *
+         /|\
+        / | \        Equator: sun passes nearly overhead
+       /  |  \              __..--~~--..__ 
+      /   |   \         .--'   high arc    '--.
+     /    |    \      ,'                       ',
+    /     |     \   ,'    Mid-lat (40°N):        ',
+   /      |      \ /    __..--~~--...__            \
+  /       |       /  ,-'  moderate arc  '-,         \
+ /        |      /|,'                      ',\       \
+/         |     / /  High-lat (65°N):        \ \      \
+          |    / /__..--low arc--..___        |  \
+----------+---/---------------------------\---+--------
+  W       | /          HORIZON              \ |       E
+          S                                   N
+```
+
 ### The Seasonal Shift: Solar Declination
 
 The Earth's rotational axis is tilted at **23.44 degrees** from the plane of its orbit. This tilt causes the sun's position at any given time to shift north and south throughout the year — a cycle called **solar declination**:
@@ -81,6 +103,33 @@ Solar noon does NOT occur at 12:00 clock time. It depends on your longitude with
 6.  Draw a straight line between Mark W and Mark E. This is your **East-West line.** The first mark (W) is roughly West; the second mark (E) is roughly East.
 7.  Stand on the line with Mark W to your left and Mark E to your right. You are now facing approximately **True North** (Northern Hemisphere) or **True South** (Southern Hemisphere).
 
+```text
+        Shadow-Stick Method (Top-Down View, Northern Hemisphere)
+
+                          N (True North)
+                          ^
+                          |
+                          |  perpendicular
+                          |  (North-South line)
+                          |
+      Mark W  o-----------+----------o  Mark E
+     (1st tip)            |          (2nd tip)
+              <--- E-W line drawn --->
+                          |
+                   _______|_______
+                  |       |       |    Sun moves East ---> West
+                  |    [stick]    |    Shadow moves West ---> East
+                  |    (base)     |
+                          |
+                          v
+                          S
+
+      Step 1: Place stick, mark shadow tip  --> Mark W
+      Step 2: Wait 15-20 min, mark new tip  --> Mark E
+      Step 3: Connect marks = East-West line
+      Step 4: Face perpendicular (W on left) = North
+```
+
 **Improving accuracy:**
 
 *   Perform the method within 2 hours of solar noon for the best results. Near sunrise or sunset, the shadow moves more laterally than east-to-west, introducing error.
@@ -104,6 +153,29 @@ Solar noon does NOT occur at 12:00 clock time. It depends on your longitude with
 
 1.  Hold the watch flat. Point the **hour hand** directly at the sun.
 2.  Find the midpoint between the hour hand and the 12 o'clock mark. This midpoint indicates the approximate **North-South line.** The direction away from the sun is North.
+
+```text
+     Analog Watch Method (Northern Hemisphere, ~2:00 PM example)
+
+                     12
+                      |    Point hour hand at Sun
+              10  .---.---.  2 ----> SUN ☀
+               ,-'    |  /,'
+             ,'       | / /  ',
+           9|         |/ /     |3
+            |         *-/------|------> Hour hand aimed at Sun
+            |        /|  angle |
+           8 ',    /  |      ,' 4
+               '-/----+----'
+              /   7   |   5
+            /         6
+      SOUTH <---      |
+      (bisector)       |
+                       |
+      Bisect angle between hour hand and 12.
+      Bisector points SOUTH. Opposite = NORTH.
+      DST correction: use 1 instead of 12.
+```
 
 **Southern Hemisphere procedure:**
 

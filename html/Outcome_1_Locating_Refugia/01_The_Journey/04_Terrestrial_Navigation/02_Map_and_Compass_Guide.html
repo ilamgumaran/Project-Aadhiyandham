@@ -66,6 +66,25 @@
 </tr>
 </tbody></table>
 <p><strong>To convert a magnetic bearing to a true bearing:</strong> In areas of West declination, ADD the declination. In areas of East declination, SUBTRACT the declination. The mnemonic: <strong>"Declination West, Compass Best" (compass reads higher than true), "Declination East, Compass Least" (compass reads lower than true).</strong></p>
+<pre><code class="language-text">
+         True North (TN)     Magnetic North (MN)
+              |               /
+              |              /
+              |             /
+              |    decl.   /
+              |   angle   /
+              |  (e.g.   /
+              |  7° W)  /
+              |        /
+              |-------/
+              |      /
+              |     /
+              |    /
+              |   /
+              * Observer
+   West declination: MN is west of TN
+   Compass bearing + declination = true bearing
+</code></pre>
 <p>Many modern baseplate compasses have an adjustable declination screw that mechanically offsets the orienting arrow. If set correctly, all readings are automatically corrected. <strong>Set the declination before departure and verify it at each map change.</strong></p>
 <h3 id="how-topographic-maps-encode-terrain">How Topographic Maps Encode Terrain</h3>
 <p>A topographic map represents three-dimensional terrain on a two-dimensional surface using <strong>contour lines</strong> — curves connecting points of equal elevation. The key relationships:</p>
@@ -107,6 +126,29 @@
 <li>  <strong>Direction-of-Travel Arrow:</strong> The arrow printed on the baseplate, pointing away from you. This shows the direction to walk after the needle is aligned.</li>
 <li>  <strong>Declination Adjustment Screw:</strong> On quality compasses, a small screw that offsets the orienting arrow by the local declination, so all readings are automatically true bearings.</li>
 </ul>
+<pre><code class="language-text">
+        BASEPLATE COMPASS — Top-Down View
+    ___________________________________________
+   |                                           |
+   |          Direction-of-Travel Arrow        |
+   |                  /^\                       |
+   |                 / | \                      |
+   |                   |                        |
+   |          .--------.--------.               |
+   |        /  360/0   N        \              |
+   |       | W 270    [R]   90 E |             |
+   |       |       Orienting     |             |
+   |       |  S     Arrow: /^\   |  &lt;- Bezel   |
+   |        \ 180     [R]=red /  |   (rotate)  |
+   |         &#x27;--------&#x27;------&#x27;   |             |
+   |                             |             |
+   |   [Ruler markings along edge]             |
+   |___________________________________________|
+         Baseplate (transparent)
+
+   [R] = Red end of magnetic needle (points to MN)
+   /^\ = Orienting arrow (&quot;the shed&quot;)
+</code></pre>
 <h3 id="procedure-1-setting-a-course-from-map-to-destination">Procedure 1: Setting a Course from Map to Destination</h3>
 <ol>
 <li>Lay the map flat. Identify your current position (Point A) and destination (Point B).</li>
@@ -130,6 +172,25 @@
 </ol>
 <h3 id="procedure-3-aiming-off">Procedure 3: Aiming Off</h3>
 <p>When navigating to a point on a linear feature (e.g., a bridge on a river), do NOT aim directly at it. Aim 5-10 degrees to one side deliberately. When you reach the river, you will know which direction to turn to find the bridge. Without aiming off, you reach the river and face a 50/50 guess — left or right — which can cost hours.</p>
+<pre><code class="language-text">
+   AIMING OFF — Why offset beats direct
+
+   ~~~~~~~~~~[BRIDGE]~~~~~~~~~~~~~~ River
+               |    \
+               |     \  Offset bearing
+    Direct     |      \  (aim LEFT of bridge)
+    bearing    |       \
+    (risky)    |        \
+               |         \
+               |          \
+               |           * Navigator
+
+   Direct: you hit the river... but which way
+           is the bridge? 50/50 guess.
+
+   Offset: you KNOW the bridge is to your RIGHT.
+           Turn right along the river. Found it.
+</code></pre>
 <hr>
 </div>
 <div class="section-practical" id="common-failure-modes">
