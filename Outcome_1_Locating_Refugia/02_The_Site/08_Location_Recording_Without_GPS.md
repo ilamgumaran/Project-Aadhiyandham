@@ -40,6 +40,26 @@ Every module in Section 02 (The Site) assumes you can *find* the refugium. But w
 
 **Durability hierarchy of recording media.** Stone inscription > fired clay > metal engraving > vellum/parchment > paper. Stone inscriptions survive 3,000-5,000+ years (Egyptian hieroglyphs, Roman milestones). Fired clay tablets survive 2,000-4,000 years (Sumerian cuneiform). Paper survives 50-200 years depending on conditions. Oral tradition with structured encoding (songlines, epic poetry) survives 10,000+ years but requires a continuous human chain.
 
+```text
+  DURABILITY vs. INFORMATION DENSITY
+  (Recording Media Hierarchy)
+
+  Least durable                     Most info per cm2
+       ^                                  ^
+       |  Digital media (3-10 yr)  ████████████████|
+       |  Standard paper (50-100 yr)  ████████████ |
+       |  Acid-free paper (500 yr)  ██████████     |
+       |  Vellum/parchment (1000 yr)  ████████     |
+       |  Fired clay tablet (3000 yr)  ██████      |
+       |  Carved stone (5000+ yr)  ██              |
+       v                                  v
+  Most durable                     Least info per cm2
+
+  TRADEOFF: The most durable media hold the
+  least information. Record ESSENTIAL data on
+  stone; record DETAILED data on paper + renew.
+```
+
 This module provides three independent systems: **physical marking** (for anyone walking nearby), **celestial anchoring** (for anyone with clear sky), and **narrative encoding** (for anyone who can hear a story). Research by linguist R.M.W. Dixon and geographer Duane Hamacher has documented that Australian Aboriginal songlines encode geographic features verified as accurate over 10,000+ years, including coastlines submerged since the last ice age. Naked-eye Polaris sighting provides latitude accurate to +/-1-2 degrees (+/-110-220 km). Combined with three sentinel landmarks, this narrows location to a specific valley. Archaeological surveys of Scottish Highland cairns and Inuit inuksuit demonstrate structural survival of dry-stacked stone markers for 1,000-4,000 years in exposed alpine and arctic environments without maintenance.
 
 ---
@@ -47,6 +67,29 @@ This module provides three independent systems: **physical marking** (for anyone
 ## Core Principles
 
 1. **The Three-System Redundancy.** Physical landmarks, celestial anchoring, and narrative encoding form three independent channels. Any one system alone is insufficient — landmarks can be destroyed, skies can be overcast for weeks, oral chains can break. All three together are virtually indestructible because no single event can eliminate all three simultaneously.
+
+```text
+  THREE-SYSTEM REDUNDANCY FOR LOCATION RECOVERY
+
+  ┌──────────────┐  ┌──────────────┐  ┌──────────────┐
+  │  SYSTEM 1    │  │  SYSTEM 2    │  │  SYSTEM 3    │
+  │  Physical    │  │  Celestial   │  │  Narrative   │
+  │  Landmarks   │  │  Fix         │  │  Encoding    │
+  │  (Sentinels  │  │  (Polaris +  │  │  (Route Song │
+  │   + Cairns)  │  │   Solar noon)│  │   + Archive) │
+  └──────┬───────┘  └──────┬───────┘  └──────┬───────┘
+         │                 │                  │
+         ▼                 ▼                  ▼
+     ~15 bits          ~5 bits           ~10 bits
+     (bearing to       (latitude)        (sequence of
+      3 landmarks)                        landmarks)
+         │                 │                  │
+         └────────┬────────┴──────────────────┘
+                  ▼
+        ANY TWO SYSTEMS COMBINED
+        ≈ 20 bits → ~5 km accuracy
+        + cairn trail → final approach
+```
 
 2. **The Geological Permanence Standard.** All reference landmarks must be solid rock or major water features — nothing biological, nothing man-made. A granite spire endures for millennia; a prominent oak dies within centuries; a building crumbles within decades.
 
@@ -136,6 +179,30 @@ Without trigonometric tables, use the **ratio method:**
 4.  At the solstices, adjust by +/-23.4 degrees (Earth's axial tilt).
 
 **Recording format:** `At equinox noon, the shadow-to-stick ratio measures 1.0. Therefore latitude is approximately 45 degrees.`
+
+```text
+  CELESTIAL FIX: LATITUDE FROM SOLAR NOON
+
+                    ☉ Sun at local noon
+                   /
+                  / elevation
+                 /   angle (E)
+                /  ·
+   ────────────┼──────────────── Horizon
+               |  \
+          Stick|   \ Shadow (S)
+          (H)  |    \
+               |     \
+  ─────────────┴──────·─────────  Ground
+
+  tan(E) = H / S     Latitude = 90° - E  (at equinox)
+
+  COMBINED FIX:
+  Latitude  ←── solar noon altitude + date
+       +
+  Bearing to known landmark ──→ narrows to
+       a specific valley (~5 km band)
+```
 
 **Longitude Approximation (The Noon Offset Method).** True longitude requires a reference clock, which will not exist post-collapse. However, **relative longitude** between two known refugia can be approximated:
 

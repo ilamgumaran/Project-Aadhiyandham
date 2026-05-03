@@ -16,6 +16,34 @@ Bill Mollison and David Holmgren formalized the zones-and-sectors model in the l
 
 Each zone radiates outward from the center in concentric, roughly circular bands (deformed by topography in practice). The optimization principle is to **minimize the total distance traveled per day** by placing high-frequency-of-use elements closest to the center. This is not a suggestion; it is a mathematical imperative.
 
+```text
+           PERMACULTURE ZONE MODEL — Top-Down View
+              (caloric intensity decreasing outward)
+
+            ~ ~ ~ ZONE 5: Wild / Unmanaged ~ ~ ~ ~
+          ~ ~ +---------------------------------+ ~ ~
+        ~ ~  |   ZONE 4: Managed Forest/Timber  |  ~ ~
+       ~ ~   | +-----------------------------+  |   ~ ~
+      ~ ~    | | ZONE 3: Main Crops/Staples  |  |    ~ ~
+      ~ ~    | | +-------------------------+ |  |     ~ ~
+      ~ ~    | | | ZONE 2: Orchard/Poultry | |  |     ~ ~
+      ~ ~    | | | +-------------------+   | |  |     ~ ~
+      ~ ~    | | | | ZONE 1: Kitchen,  |   | |  |     ~ ~
+      ~ ~    | | | |  Herbs, Nursery   |   | |  |     ~ ~
+      ~ ~    | | | |    +-------+      |   | |  |     ~ ~
+      ~ ~    | | | |    |ZONE 0 |      |   | |  |     ~ ~
+      ~ ~    | | | |    |Dwelling|     |   | |  |     ~ ~
+      ~ ~    | | | |    +-------+      |   | |  |     ~ ~
+      ~ ~    | | | +-------------------+   | |  |     ~ ~
+      ~ ~    | | +-------------------------+ |  |     ~ ~
+       ~ ~   | +-----------------------------+  |    ~ ~
+        ~ ~  +---------------------------------+  ~ ~
+          ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~
+
+      Visit freq:  CONSTANT --> DAILY --> WEEKLY --> SEASONAL
+      Distance:      0 m      0-20 m   20-500 m   500 m-2 km+
+```
+
 Consider the arithmetic. A person visiting a Zone 1 element (20 meters from center) 10 times per day walks:
 
     20m × 2 (round trip) × 10 visits = 400 meters/day
@@ -37,6 +65,34 @@ Sectors are drawn as pie-slices radiating from the Zone 0 center outward. Each s
 - The **fire-risk sector** (typically the direction of hot, dry summer wind) requires firebreaks, cleared buffer zones, and fire-resistant species.
 - The **water sector** (direction of surface and subsurface water flow) should be harvested with swales, dams, and keyline earthworks.
 
+```text
+         SECTOR ANALYSIS — Top-Down Overlay on Site
+                         N
+                         |
+          COLD WIND  .../|\...  SUMMER
+          SECTOR    / / | \ \   SUNRISE
+         (block)   / /  |  \ \  SECTOR
+                  /  |   |   |  \
+       -------  /  __|___|___|__  \ --------
+       FIRE   |   |  Windbreak  |   | WET WIND
+       DANGER |   |  ........   |   | SECTOR
+       SECTOR |   | :  ZONE 0 :|   | (harvest
+       (clear |   | : Dwelling :|   |  rain)
+       buffer)|   |  ''''|'''''    |
+       -------  \  |     |     |  / --------
+                  \ |  [open]  | /
+                   \|  cleared |/
+                    | SUN SECTOR|
+                    | (no shade)|
+                    |  Zone 2-3 |
+                    |agriculture|
+                         |
+                         S
+
+       .... = windbreak/barrier    [open] = unshaded for solar gain
+       Each sector = a design response (block / channel / harvest)
+```
+
 Failure to map sectors before building is one of the most common and costly settlement errors. A dwelling oriented without regard to the cold-wind sector will hemorrhage heat all winter. A garden placed in the shade sector of a hill will never produce adequate yields.
 
 ### The Keyline System (P.A. Yeomans, 1954)
@@ -46,6 +102,29 @@ Percival Alfred Yeomans, an Australian mining engineer turned farmer, developed 
 The critical concept is the **keypoint**: the point on a primary valley where the ridge transitions from convex (shedding) to concave (collecting). Above the keypoint, water disperses across the landscape. Below the keypoint, water concentrates into defined drainage lines. The keypoint is therefore the highest point at which water can still be economically collected and stored.
 
 Keyline design works by running cultivation lines (plowing, swales, or planting rows) **slightly off-contour** from the keypoint outward. These lines drift gently from the valley toward the ridge, carrying water laterally across the slope rather than allowing it to concentrate in the valley bottom. The effect is to **redistribute water from wet areas to dry areas**, evening out soil moisture across the entire landscape. This prevents both erosion (by slowing water flow) and drought stress (by distributing water to ridge soils that would otherwise be parched).
+
+```text
+     KEYLINE WATER DISTRIBUTION — Top-Down View
+
+     RIDGE (dry)                            RIDGE (dry)
+       \                                      /
+        \    <-- keyline cultivation rows --> /
+         \   _....---''''---...._           /
+          \ /  water drifts      \         /
+           /   toward ridges ---> \       /
+          / _....---''''---...._   \     /
+         / /                    \   \   /
+        / /   * KEYPOINT *       \   \ /
+       / /    (convex-to-concave  \   /\
+      | |      transition)         | /  \
+       \ \    VALLEY (wet)        / /    |
+        \ \   water collects     / /     |
+          \_'....____.....___.'_/        |
+
+     Water movement:  VALLEY ====> RIDGE
+     Rows drift off-contour, moving water from wet valleys to dry ridges.
+     * = Keypoint: ideal dam/tank location (highest gravity-fed point)
+```
 
 For a post-infrastructure settlement, keyline principles determine where to place swales, where to orient garden beds, and where to site water storage. The keypoint is the ideal location for a dam or water tank — it is the highest point where gravity will still deliver water to the maximum land area below.
 

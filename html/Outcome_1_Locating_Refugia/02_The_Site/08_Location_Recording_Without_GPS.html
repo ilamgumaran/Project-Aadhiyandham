@@ -27,11 +27,54 @@
 <p><strong>The fundamental problem.</strong> GPS coordinates encode location as two numbers (latitude, longitude) on an abstract grid requiring satellite infrastructure. Without GPS, these numbers are useless. A durable location system must encode position using only features observable from the site itself — the same approach used by every pre-GPS civilization.</p>
 <p><strong>Information theory of location.</strong> A location on Earth's surface requires approximately 25 bits of information to specify to 1 km accuracy (log2 of Earth's surface area in km2). Three sentinel bearings provide approximately 15 bits. Latitude from Polaris provides approximately 5 bits. Combined: approximately 20 bits, specifying location to roughly 5 km — sufficient when combined with a cairn trail for the final approach.</p>
 <p><strong>Durability hierarchy of recording media.</strong> Stone inscription > fired clay > metal engraving > vellum/parchment > paper. Stone inscriptions survive 3,000-5,000+ years (Egyptian hieroglyphs, Roman milestones). Fired clay tablets survive 2,000-4,000 years (Sumerian cuneiform). Paper survives 50-200 years depending on conditions. Oral tradition with structured encoding (songlines, epic poetry) survives 10,000+ years but requires a continuous human chain.</p>
+<pre><code class="language-text">
+  DURABILITY vs. INFORMATION DENSITY
+  (Recording Media Hierarchy)
+
+  Least durable                     Most info per cm2
+       ^                                  ^
+       |  Digital media (3-10 yr)  ████████████████|
+       |  Standard paper (50-100 yr)  ████████████ |
+       |  Acid-free paper (500 yr)  ██████████     |
+       |  Vellum/parchment (1000 yr)  ████████     |
+       |  Fired clay tablet (3000 yr)  ██████      |
+       |  Carved stone (5000+ yr)  ██              |
+       v                                  v
+  Most durable                     Least info per cm2
+
+  TRADEOFF: The most durable media hold the
+  least information. Record ESSENTIAL data on
+  stone; record DETAILED data on paper + renew.
+</code></pre>
 <p>This module provides three independent systems: <strong>physical marking</strong> (for anyone walking nearby), <strong>celestial anchoring</strong> (for anyone with clear sky), and <strong>narrative encoding</strong> (for anyone who can hear a story). Research by linguist R.M.W. Dixon and geographer Duane Hamacher has documented that Australian Aboriginal songlines encode geographic features verified as accurate over 10,000+ years, including coastlines submerged since the last ice age. Naked-eye Polaris sighting provides latitude accurate to +/-1-2 degrees (+/-110-220 km). Combined with three sentinel landmarks, this narrows location to a specific valley. Archaeological surveys of Scottish Highland cairns and Inuit inuksuit demonstrate structural survival of dry-stacked stone markers for 1,000-4,000 years in exposed alpine and arctic environments without maintenance.</p>
 <hr>
 <h2 id="core-principles">Core Principles</h2>
 <ol>
 <li><strong>The Three-System Redundancy.</strong> Physical landmarks, celestial anchoring, and narrative encoding form three independent channels. Any one system alone is insufficient — landmarks can be destroyed, skies can be overcast for weeks, oral chains can break. All three together are virtually indestructible because no single event can eliminate all three simultaneously.</li>
+</ol>
+<pre><code class="language-text">
+  THREE-SYSTEM REDUNDANCY FOR LOCATION RECOVERY
+
+  ┌──────────────┐  ┌──────────────┐  ┌──────────────┐
+  │  SYSTEM 1    │  │  SYSTEM 2    │  │  SYSTEM 3    │
+  │  Physical    │  │  Celestial   │  │  Narrative   │
+  │  Landmarks   │  │  Fix         │  │  Encoding    │
+  │  (Sentinels  │  │  (Polaris +  │  │  (Route Song │
+  │   + Cairns)  │  │   Solar noon)│  │   + Archive) │
+  └──────┬───────┘  └──────┬───────┘  └──────┬───────┘
+         │                 │                  │
+         ▼                 ▼                  ▼
+     ~15 bits          ~5 bits           ~10 bits
+     (bearing to       (latitude)        (sequence of
+      3 landmarks)                        landmarks)
+         │                 │                  │
+         └────────┬────────┴──────────────────┘
+                  ▼
+        ANY TWO SYSTEMS COMBINED
+        ≈ 20 bits → ~5 km accuracy
+        + cairn trail → final approach
+</code></pre>
+<ol>
 <li><strong>The Geological Permanence Standard.</strong> All reference landmarks must be solid rock or major water features — nothing biological, nothing man-made. A granite spire endures for millennia; a prominent oak dies within centuries; a building crumbles within decades.</li>
 <li><strong>The Equinox Calibration Discipline.</strong> All angular measurements are taken at the equinox using the sunrise point, not a magnetic compass. This removes declination drift entirely. The equinox sunrise azimuth is fixed by Earth's axial geometry and does not change on human timescales.</li>
 <li><strong>The Corruption Detection Principle.</strong> Route songs use meter and rhyme as built-in checksums — any alteration to a word breaks the rhythmic pattern, signaling corruption to any listener. This is analogous to a parity bit in digital communication.</li>
@@ -140,6 +183,29 @@ From [Sentinel 1]: Walk toward [Sentinel 2] for [X] sunrise-to-noon periods.
 <li>At the solstices, adjust by +/-23.4 degrees (Earth's axial tilt).</li>
 </ol>
 <p><strong>Recording format:</strong> <code>At equinox noon, the shadow-to-stick ratio measures 1.0. Therefore latitude is approximately 45 degrees.</code></p>
+<pre><code class="language-text">
+  CELESTIAL FIX: LATITUDE FROM SOLAR NOON
+
+                    ☉ Sun at local noon
+                   /
+                  / elevation
+                 /   angle (E)
+                /  ·
+   ────────────┼──────────────── Horizon
+               |  \
+          Stick|   \ Shadow (S)
+          (H)  |    \
+               |     \
+  ─────────────┴──────·─────────  Ground
+
+  tan(E) = H / S     Latitude = 90° - E  (at equinox)
+
+  COMBINED FIX:
+  Latitude  ←── solar noon altitude + date
+       +
+  Bearing to known landmark ──→ narrows to
+       a specific valley (~5 km band)
+</code></pre>
 <p><strong>Longitude Approximation (The Noon Offset Method).</strong> True longitude requires a reference clock, which will not exist post-collapse. However, <strong>relative longitude</strong> between two known refugia can be approximated:</p>
 <ol>
 <li>Both communities observe a predictable celestial event (e.g., a lunar eclipse, which is visible simultaneously across a hemisphere).</li>

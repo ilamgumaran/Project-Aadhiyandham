@@ -41,6 +41,26 @@ Friedrich Mohs devised a relative hardness scale in 1812 that remains the standa
 
 The testing protocol is simple: attempt to scratch the unknown mineral with each reference object in ascending order. If your steel knife scratches the mineral, it is softer than 5.5. If the mineral scratches the knife, it is harder than 5.5. Combined with color, streak (the color of the powder left when the mineral is scraped across an unglazed porcelain tile or rough stone surface), and acid reaction, this system identifies the majority of construction-relevant minerals without laboratory equipment.
 
+```text
+    MOHS HARDNESS FIELD TEST — DECISION FLOWCHART
+
+    FINGERNAIL scratches it?
+      YES --> Hardness <2.5   [Talc, Gypsum, Clay]
+      NO  |
+          v
+    COPPER COIN scratches it?
+      YES --> Hardness 2.5-3.5 [Calcite, Limestone, Gold]
+      NO  |
+          v
+    STEEL KNIFE scratches it?
+      YES --> Hardness 3.5-5.5 [Fluorite, Slate, Iron ore]
+      NO  |
+          v
+    Can it SCRATCH GLASS?
+      YES --> Hardness >5.5   [Quartz, Feldspar, Granite]
+      NO  --> Hardness ~5.5   [borderline — retest]
+```
+
 ### The Soil Texture Triangle
 
 Soil particles are classified by diameter into three size fractions:
@@ -50,6 +70,32 @@ Soil particles are classified by diameter into three size fractions:
 - **Clay**: less than 0.002 millimeters. Feels sticky when wet, hard when dry. Invisible individual particles.
 
 Every soil is a mixture of these three fractions. The proportions determine the soil's agricultural and construction properties. The ribbon test provides a rapid field estimate: a ribbon exceeding 5 centimeters indicates greater than 30 percent clay content. Ideal agricultural soil (loam) is approximately 40 percent sand, 40 percent silt, and 20 percent clay — it drains well, retains moisture, and holds nutrients. Ideal brick or pottery clay contains greater than 50 percent clay-fraction particles. The jar settle test (described in Practical Implementation) provides more precise ratios by exploiting differential settling rates in water.
+
+```text
+           SIMPLIFIED SOIL TEXTURE TRIANGLE
+
+      100% CLAY
+         /\
+        /  \
+       /    \
+      / CLAY \
+     /--------\
+    / silty    \
+   /  clay  clay\
+  /-------- loam-\
+ / sandy     \    \
+/ clay  LOAM  silt \
+/   loam  *   loam  \
+/----------+----------\
+/ loamy  sandy   silty  \
+/  sand   loam    silt   \
+/___________________________\
+100% SAND               100% SILT
+
+  * = LOAM (ideal agricultural soil)
+      ~40% sand, ~40% silt, ~20% clay
+  Left axis = % clay | Right axis = % silt | Bottom = % sand
+```
 
 ### Phosphorus — The Limiting Element
 
@@ -178,6 +224,33 @@ This test determines the sand, silt, and clay percentages of a soil sample by ex
 8. **Calculate** each fraction as a percentage of the total settled depth.
 
 **Interpretation:** Ideal agricultural loam shows roughly equal sand and silt layers with a thinner clay layer (approximately 40/40/20). Pottery-grade clay deposits show the clay layer comprising more than half the total. Pure sand (all settles in 1 minute) indicates poor water retention and nutrient holding capacity — amend heavily with organic matter or seek a different field location.
+
+```text
+         JAR SETTLE TEST — SIDE VIEW AFTER 24 HOURS
+
+         |           |
+         |   water   |  <-- may remain slightly cloudy
+         |  (clear)  |      with finest clay particles
+         |___________|
+         |:::::::::::| ~10%  CLAY (settles in 24+ hours)
+         |:::::::::::|       finest particles, sticky
+         |___________|
+         |...........| ~20%  SILT (settles in 2-4 hours)
+         |...........|       smooth, flour-like
+         |...........|
+         |___________|
+         |ooooooooooo| ~20%  FINE SAND (settles in 30 min)
+         |ooooooooooo|       visible grains
+         |___________|
+         |OOoOOoOOoOO| ~50%  COARSE SAND + GRAVEL
+         |OOoOOoOOoOO|       (settles in <1 minute)
+         |OOoOOoOOoOO|       largest, heaviest particles
+         |___________|
+
+         Measure each layer as % of total settled depth.
+         Example above: sandy soil, poor for agriculture.
+         Ideal loam:  sand ~40% | silt ~40% | clay ~20%
+```
 
 ### The Mineral Walk Protocol
 
