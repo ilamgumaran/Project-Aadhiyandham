@@ -10,6 +10,31 @@ The physics of loaded human locomotion is well characterized. Margaria's foundat
 
 **The 20% Rule and Its Physiological Basis.** Laboratory and field studies converge on 20% of body weight as the threshold for sustained multi-day loaded walking without cumulative injury. Beyond 25%, biomechanical compensations become measurable: forward trunk lean increases by 5-10 degrees, ground reaction forces at the knee rise by 15-25%, and lumbar spinal compression loads enter ranges associated with disc degeneration. At 30%+ body weight, injury rates in military studies climb sharply — blisters, stress fractures, metatarsalgia, and rhabdomyolysis all increase in incidence. The 20% rule is not conservative; it is the empirically derived boundary for safe sustained travel over rough terrain by untrained civilians.
 
+```text
+        PACK LOADING ZONES (side view)
+        ________________________________
+       /  Light / Bulky (sleeping pad,  \
+      /   spare clothing)    TOP ZONE    \
+     |__________________________________|
+     |                                   |
+     |  Medium weight (food, medical,    |
+     |  archive)       MID ZONE          |
+     |___________________________________|
+     |  ============================  <--+-- SHOULDER LINE
+     |  HEAVY items close to back:   |   |
+     |  water, tools, dense gear     |   |
+     |  *** CENTER OF GRAVITY ***    |   |
+     |  ============================  <--+-- HIP BELT LINE
+     |___________________________________|
+     |  Light / Compact (fire kit,       |
+     |  first aid pouch)  BOTTOM ZONE    |
+      \__________________________________/
+         ^                          ^
+         |   Heavy mass hugs the    |
+         |   back between shoulders |
+         |   and hips for stability |
+```
+
 **Historical Load Data.** The Roman legionary carried approximately 30 kg (roughly 45% of body weight for a 67 kg man), but these were elite conditioned soldiers marching on engineered roads at 30 km/day. Himalayan Sherpa porters routinely carry 60-100% of body weight but at dramatically reduced speeds of 1-2 km/hr on steep terrain, with a lifetime of physiological adaptation including increased red blood cell counts and modified gait mechanics. Neither model applies to refugee families crossing unimproved terrain. The 20% rule assumes unconditioned adults on variable terrain with no resupply.
 
 **The Concept of Tool Leverage.** Not all items are equal. A ferrocerium rod weighs 50 grams and provides thousands of fire-starting strikes — it cannot be manufactured without industrial metallurgy (the cerium-iron alloy requires electrolytic reduction of rare-earth ores). A magnifying lens requires optical-grade glass grinding. High-carbon steel tools require blast furnaces, controlled carbon infusion, and quenching infrastructure. These items possess extreme **tool leverage**: their weight-to-utility ratio is orders of magnitude higher than anything that can be improvised from raw materials. The packing list is organized around this principle — carry what you cannot make.
@@ -21,6 +46,33 @@ The physics of loaded human locomotion is well characterized. Margaria's foundat
 ## Core Principles
 
 1. **The Irreplaceability Hierarchy.** Carry items that cannot be manufactured from raw materials first. High-carbon steel, optical glass, ferrocerium alloys, and biological seeds rank highest. Items that can be fashioned from wood, stone, or fiber (handles, cordage, containers) rank lowest. Every gram of pack weight must be justified against this hierarchy.
+
+```text
+          IRREPLACEABILITY HIERARCHY
+              SHED FIRST
+                 /\
+                /  \
+               / Cl \        Clothing — weavable
+              /  ot  \       from fiber crops
+             / hing   \
+            /----------\
+           /   Food     \    Food — growable
+          /   Stores     \   from seed within
+         /________________\  one season
+        /    Shelter       \
+       /    Materials       \ Shelter — buildable
+      /______________________\  from timber/thatch
+     /    Navigation &        \
+    /     Communication        \ Maps, compass —
+   /____________________________ \ hard to replicate
+  /   Medical Supplies &          \
+ /    Precision Tools              \ Require industrial
+/___________________________________\ manufacturing
+|  Seeds & Genetics / Ferrocerium /  |
+|  High-Carbon Steel / Optical Glass |
+|  CARRY FIRST — TRULY IRREPLACEABLE |
+|____________________________________|
+```
 
 2. **The 20% Rule.** Total pack weight must not exceed 20% of the carrier's body weight for sustained multi-day travel. A 75 kg adult carries a maximum of 15 kg. A 50 kg adolescent carries a maximum of 10 kg. There are no exceptions for "just a few more kilos" — the physics of joint loading is indifferent to intention.
 
@@ -197,6 +249,24 @@ Physical paper copies of key Aadhiyandham modules (ஆதியந்தம் �
 | **Grand Total** | **30.65** | — |
 
 The grand total of 30.65 kg exceeds a single adult's 15 kg limit by more than double. This is intentional — the Sovereignty Kit is designed for a **group**, not an individual. A minimum party of 3 adults (combined budget: 45 kg) can carry the full kit with margin. For a solo traveler, prioritize Categories A (partial — axe, knife, saw only), B, C, E, and F, totaling approximately 15 kg.
+
+```text
+  WEIGHT BUDGET — 30.65 kg SOVEREIGNTY KIT
+  (Approximate share by category)
+
+  A: Master Tools   |||||||||||||||||||||||  40%  (12.4 kg)
+  F: Shelter/Thermal ||||||||||||||||       16%  ( 5.05 kg)
+  C: Seeds           ||||||||||||||         15%  ( 4.5 kg)
+  D: Synthesis       ||||||||||||           12%  ( 3.75 kg)
+  E: Medical         ||||||||                8%  ( 2.35 kg)
+  G: Archive         |||||                   5%  ( 1.45 kg)
+  B: Navigation      ||||                    4%  ( 1.15 kg)
+                     +-----+-----+-----+-----+
+                     0%   10%   20%   30%   40%
+
+  NOTE: Full kit requires 3+ carriers (45 kg budget).
+  Solo traveler: drop partial A, all D, partial G = ~15 kg.
+```
 
 **Family of Four (2 adults at 75 kg, 1 adolescent at 50 kg, 1 child — non-carrier):**
 

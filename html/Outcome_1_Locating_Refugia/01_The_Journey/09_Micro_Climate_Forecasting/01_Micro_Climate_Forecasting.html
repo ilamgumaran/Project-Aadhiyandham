@@ -47,6 +47,25 @@
 <li><strong>Moist (Saturated) Adiabatic Lapse Rate (MALR):</strong> Once air reaches its dew point and condensation begins, the rate of cooling slows to approximately <strong>5-6 C/km</strong>. The difference exists because condensation releases latent heat back into the air parcel, partially offsetting the cooling.</li>
 </ul>
 <p>This differential is the mechanism behind <strong>orographic precipitation</strong>: when wind pushes air up a mountain slope, the air cools at the DALR until it reaches the dew point. Condensation begins, clouds form, and rain falls on the windward side. After the air crests the peak and descends the leeward side, it warms at the DALR (since it has lost its moisture as rain). The result is a dry, warm <strong>rain shadow</strong> on the far side of the mountain — the reason deserts often form leeward of mountain ranges.</p>
+<pre><code class="language-text">
+  Adiabatic Lapse Rate — Orographic Precipitation Cross-Section
+
+  3000 m  ............cloud top..............
+                   /~~RAIN~~\
+  2500 m      ___/  MALR     \___              Dry descent
+             /  5-6 C/km cool  \              (warms at DALR
+  2000 m   /   (latent heat     \              10 C/km)
+          /     slows cooling)   \
+  1500 m /________________________\____        RAIN SHADOW
+        / ^ Cloud base (dew point) \   \___    (dry, warm)
+       /  | reached here            \      \___
+  500 m  DALR 10 C/km cooling        \         \___
+      /   | (unsaturated air)          \            \___
+  0 m ====|============================|=================&gt;
+      WINDWARD         PEAK           LEEWARD
+      (wet side)                      (dry side)
+      Wind --&gt;--&gt;--&gt;--&gt;--&gt;--&gt;--&gt;--&gt;--&gt;--&gt;--&gt;--&gt;
+</code></pre>
 <h3 id="dew-point-the-most-useful-weather-variable">Dew Point: The Most Useful Weather Variable</h3>
 <p>The dew point temperature is the temperature at which air becomes saturated and water vapor begins to condense. It is arguably the single most useful variable for field weather prediction:</p>
 <ul>
@@ -175,6 +194,24 @@
 </tr>
 </tbody></table>
 <p><strong>The anvil rule:</strong> If a Cumulonimbus displays a flat anvil top pointing toward you, the storm is approaching your position. The anvil forms when the rising air column hits the tropopause (the boundary of the stratosphere) and spreads horizontally in the direction of upper-level winds.</p>
+<pre><code class="language-text">
+  Cloud Type Altitude Chart — Weather Implications
+
+  12 km  -------- TROPOPAUSE ----------------------------------------
+         |  Cirrus (Ci)          thin ice wisps        | FAIR      |
+  10 km  |  Cirrostratus (Cs)    halo around sun/moon  | change in |
+         |  Cirrocumulus (Cc)    mackerel sky           | 24-48 hrs |
+   6 km  ================ HIGH / MIDDLE BOUNDARY ==================
+         |  Altostratus (As)     frosted-glass sun      | RAIN in   |
+   4 km  |  Altocumulus (Ac)     gray/white patches     | 12-24 hrs |
+   2 km  ================ MIDDLE / LOW BOUNDARY ====================
+         |  Stratus (St)         gray overcast sheet    | IMMINENT  |
+         |  Stratocumulus (Sc)   lumpy rolls            | drizzle   |
+         |  Cumulus (Cu)         white puffy (small=ok) | or STORM  |
+         |  Nimbostratus (Ns)    dark, steady rain      | if growing |
+   0 km  |  Cumulonimbus (Cb)   tower + anvil = SEVERE | NOW       |
+         ========================================================
+</code></pre>
 <h3 id="the-water-glass-barometer-boyle-s-law">The Water Glass Barometer (Boyle's Law)</h3>
 <p><strong>Construction:</strong> Take a standard glass jar and fill it halfway with water (preferably colored with berry juice or charcoal dust for visibility). Take a narrower glass bottle with a long neck. Quickly invert the narrow bottle and submerge its open neck into the water jar. Ensure it does not touch the bottom.</p>
 <p><strong>The Physics:</strong> You have trapped a pocket of air inside the upside-down bottle. According to Boyle's Law (1662) — the pressure and volume of a gas have an inverse relationship at constant temperature — the pressure of that trapped air will push against the water column.</p>
@@ -231,6 +268,29 @@
 </tr>
 </tbody></table>
 <p><strong>Forecasting rule:</strong> When the wet bulb reading is approaching the dry bulb reading (difference shrinking over successive measurements), moisture is increasing rapidly and precipitation is likely within 12 hours.</p>
+<pre><code class="language-text">
+  Sling Psychrometer — Device and Sample Readings
+
+       HANDLE (spin here)
+       ||
+       ||==================||
+       ||  DRY    |  WET   ||
+       ||  BULB   |  BULB  ||
+       ||         | [cloth]||  &lt;-- wet wick soaked
+       ||  23.0   |  18.0  ||      in clean water
+       ||==================||
+       (swing vigorously 30 sec, then read both)
+
+  Example Readings (at ~20 C ambient):
+  -----------------------------------------------
+   Dry Bulb   Wet Bulb   Difference   Rel. Humidity
+    20.0 C     20.0 C      0.0 C        100%  (fog)
+    22.0 C     19.0 C      3.0 C        ~75%
+    25.0 C     19.0 C      6.0 C        ~50%
+    28.0 C     18.0 C     10.0 C        ~25%  (dry)
+  -----------------------------------------------
+  Rule: difference SHRINKING over hours = rain coming
+</code></pre>
 <h3 id="wind-observation-the-beaufort-scale">Wind Observation: The Beaufort Scale</h3>
 <p>Admiral Beaufort's 1805 scale allows precise wind speed estimation from visual observations alone. The following table uses land-based indicators suitable for a post-infrastructure environment:</p>
 <table><thead><tr>

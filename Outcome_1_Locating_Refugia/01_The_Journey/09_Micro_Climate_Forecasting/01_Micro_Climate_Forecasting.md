@@ -41,6 +41,26 @@ As air rises, it expands (because pressure decreases with altitude) and cools. T
 
 This differential is the mechanism behind **orographic precipitation**: when wind pushes air up a mountain slope, the air cools at the DALR until it reaches the dew point. Condensation begins, clouds form, and rain falls on the windward side. After the air crests the peak and descends the leeward side, it warms at the DALR (since it has lost its moisture as rain). The result is a dry, warm **rain shadow** on the far side of the mountain — the reason deserts often form leeward of mountain ranges.
 
+```text
+  Adiabatic Lapse Rate — Orographic Precipitation Cross-Section
+
+  3000 m  ............cloud top..............
+                   /~~RAIN~~\
+  2500 m      ___/  MALR     \___              Dry descent
+             /  5-6 C/km cool  \              (warms at DALR
+  2000 m   /   (latent heat     \              10 C/km)
+          /     slows cooling)   \
+  1500 m /________________________\____        RAIN SHADOW
+        / ^ Cloud base (dew point) \   \___    (dry, warm)
+       /  | reached here            \      \___
+  500 m  DALR 10 C/km cooling        \         \___
+      /   | (unsaturated air)          \            \___
+  0 m ====|============================|=================>
+      WINDWARD         PEAK           LEEWARD
+      (wet side)                      (dry side)
+      Wind -->-->-->-->-->-->-->-->-->-->-->-->
+```
+
 ### Dew Point: The Most Useful Weather Variable
 
 The dew point temperature is the temperature at which air becomes saturated and water vapor begins to condense. It is arguably the single most useful variable for field weather prediction:
@@ -123,6 +143,25 @@ The following table covers all 10 internationally recognized cloud genera. Memor
 
 **The anvil rule:** If a Cumulonimbus displays a flat anvil top pointing toward you, the storm is approaching your position. The anvil forms when the rising air column hits the tropopause (the boundary of the stratosphere) and spreads horizontally in the direction of upper-level winds.
 
+```text
+  Cloud Type Altitude Chart — Weather Implications
+
+  12 km  -------- TROPOPAUSE ----------------------------------------
+         |  Cirrus (Ci)          thin ice wisps        | FAIR      |
+  10 km  |  Cirrostratus (Cs)    halo around sun/moon  | change in |
+         |  Cirrocumulus (Cc)    mackerel sky           | 24-48 hrs |
+   6 km  ================ HIGH / MIDDLE BOUNDARY ==================
+         |  Altostratus (As)     frosted-glass sun      | RAIN in   |
+   4 km  |  Altocumulus (Ac)     gray/white patches     | 12-24 hrs |
+   2 km  ================ MIDDLE / LOW BOUNDARY ====================
+         |  Stratus (St)         gray overcast sheet    | IMMINENT  |
+         |  Stratocumulus (Sc)   lumpy rolls            | drizzle   |
+         |  Cumulus (Cu)         white puffy (small=ok) | or STORM  |
+         |  Nimbostratus (Ns)    dark, steady rain      | if growing |
+   0 km  |  Cumulonimbus (Cb)   tower + anvil = SEVERE | NOW       |
+         ========================================================
+```
+
 ### The Water Glass Barometer (Boyle's Law)
 
 **Construction:** Take a standard glass jar and fill it halfway with water (preferably colored with berry juice or charcoal dust for visibility). Take a narrower glass bottle with a long neck. Quickly invert the narrow bottle and submerge its open neck into the water jar. Ensure it does not touch the bottom.
@@ -165,6 +204,30 @@ A psychrometer measures relative humidity using the principle that evaporation c
 | 14 C+ | < 15% (very dry) |
 
 **Forecasting rule:** When the wet bulb reading is approaching the dry bulb reading (difference shrinking over successive measurements), moisture is increasing rapidly and precipitation is likely within 12 hours.
+
+```text
+  Sling Psychrometer — Device and Sample Readings
+
+       HANDLE (spin here)
+       ||
+       ||==================||
+       ||  DRY    |  WET   ||
+       ||  BULB   |  BULB  ||
+       ||         | [cloth]||  <-- wet wick soaked
+       ||  23.0   |  18.0  ||      in clean water
+       ||==================||
+       (swing vigorously 30 sec, then read both)
+
+  Example Readings (at ~20 C ambient):
+  -----------------------------------------------
+   Dry Bulb   Wet Bulb   Difference   Rel. Humidity
+    20.0 C     20.0 C      0.0 C        100%  (fog)
+    22.0 C     19.0 C      3.0 C        ~75%
+    25.0 C     19.0 C      6.0 C        ~50%
+    28.0 C     18.0 C     10.0 C        ~25%  (dry)
+  -----------------------------------------------
+  Rule: difference SHRINKING over hours = rain coming
+```
 
 ### Wind Observation: The Beaufort Scale
 

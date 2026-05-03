@@ -40,6 +40,25 @@ Base temperatures vary by species:
 
 **Worked example for crop viability assessment:** Corn requires approximately 2,500 GDD (base 10 degrees C) to reach full maturity. If your site has a growing season of 150 days with a mean daily temperature of 18 degrees C, then your daily GDD accumulation rate is 8 units per day, yielding 1,200 GDD total — far short of 2,500. Corn is not viable at your site. Switch to a short-season variety requiring 1,800 GDD, or abandon corn entirely in favor of crops with lower thermal requirements. This is how phenological arithmetic becomes a crop planning tool.
 
+```text
+  GDD Accumulation Over a Growing Season (base 5°C, ~40°N)
+
+  GDD
+  2500 |                                                     __----*
+  2000 |                                              __---  Goldenrod (~2000)
+  1500 |                                         __--
+  1000 |                                    __--  Chicory (~1000)
+   500 |                           __---  Black Locust (~500)
+   300 |                    __---  Lilac / Oak (~300)
+   100 |             __---  Forsythia (~100)
+     0 |__------
+       +----+----+----+----+----+----+----+----+----+----+----+----+
+       Jan  Feb  Mar  Apr  May  Jun  Jul  Aug  Sep  Oct  Nov  Dec
+
+  S-curve pattern: slow spring accumulation, rapid summer gain,
+  autumn plateau as temperatures drop below base threshold.
+```
+
 ### Vernalization
 
 Many temperate plants require a minimum period of cold exposure before they will flower. This requirement, called vernalization, typically ranges from 200 to 1,500 hours below 7 degrees C, depending on species and cultivar. Vernalization is an evolutionary adaptation that prevents premature flowering during anomalous warm spells in winter.
@@ -67,6 +86,29 @@ A. D. Hopkins established in 1918 that, within temperate North America, phenolog
 This law allows interpolation of phenological timing between observation sites. If lilac blooms on April 20 at a station 2 degrees of latitude south of your position and 240 meters lower in elevation, you can estimate lilac bloom at your site will occur approximately April 20 + 8 days (latitude) + 8 days (elevation) = approximately May 6.
 
 Hopkins' Law is approximate and works best across moderate distances in eastern North America. It breaks down in maritime climates, rain shadows, and across major topographic barriers.
+
+```text
+  Hopkins' Bioclimatic Law — Latitude and Elevation Delays
+
+  NORTH                            Elevation
+  49°N  ---- Site C: 600m ----      |  Site C (49°N, 600m)
+        Lilac bloom: ~May 22        |  +16 days (lat) +8 days (elev)
+                                    |       /
+  47°N                              |      /  +4 days per 1° lat N
+                                    |     /   +4 days per 120m up
+  45°N  ---- Site B: 360m ----      |  Site B (45°N, 360m)
+        Lilac bloom: ~May 6         |  +8 days (lat) +4 days (elev)
+                                    |     /
+  43°N                              |    /
+                                    |   /
+  41°N  ---- Site A: 120m ----      |  Site A (41°N, 120m)
+        Lilac bloom: ~Apr 20        |  BASELINE
+  SOUTH                             +---------------------------
+                                   120m    360m    600m
+
+  Reading: From Site A to Site C, spring arrives 24 days later
+  due to the combined effect of 8° latitude and 480m elevation.
+```
 
 ### Indicator Species Theory
 
@@ -173,6 +215,37 @@ Replace calendar-based planting rules with phenologically triggered decisions:
 | Chicory blooms | Last planting window for fall harvest crops | Count back from expected first frost using crop maturity days |
 | Goldenrod in full bloom | Begin canning, drying, root cellaring in earnest | Growing season entering final phase |
 | First killing frost | Harvest all remaining frost-sensitive crops immediately | Season is closing |
+
+```text
+  Phenological Decision Flowchart — Multi-Signal Planting Confirmation
+
+       Is indicator species           NO
+       blooming for this    ------>  WAIT. Check again
+       planting phase?               in 5 days.
+              |
+             YES
+              v
+       Has GDD accumulation          NO
+       reached the threshold  -----> WAIT. Indicator may be
+       for this crop?                responding to microsite
+              |                      warmth, not regional trend.
+             YES
+              v
+       Have you observed 3+          NO
+       consecutive frost-free -----> WAIT 10 days, then
+       nights?                       reassess all signals.
+              |
+             YES
+              v
+       Do 2+ additional panel        NO
+       species confirm the   -----> Proceed with CAUTION:
+       same seasonal stage?          plant only frost-tolerant
+              |                      varieties; hold back
+             YES                     warm-season transplants.
+              v
+      PLANT WITH CONFIDENCE
+      Full seasonal confirmation achieved.
+```
 
 ---
 
