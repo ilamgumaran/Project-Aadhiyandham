@@ -58,6 +58,26 @@
 </tr>
 </tbody></table>
 <p>Root cohesion adds 5-20 kPa of shear strength to soil. This is why deforested slopes fail catastrophically — the removal of root networks eliminates the mechanical reinforcement that was holding the slope together.</p>
+<pre><code class="language-text">
+  ANGLE OF REPOSE BY SOIL TYPE — Cross-Section View
+
+  Rock (60-80°)        Clay (40-45°)     Gravel (35-40°)    Sand (30-35°)
+        |              /                 /                  /
+        |             /                 /                  /
+        |            /                 /                  /
+        |           /                 /                  /
+        |          /  dry            /                  /
+        |         /                 /                  /
+        |        /                 /                  /
+        |       /     ___________/   _______________/
+        |      /     / FAILURE  /   /  loose material
+        |_____/     /  PLANE   /   /   slides downslope
+  _____|__________/___________/___/________________________
+       bedrock        subsoil          alluvial deposit
+
+  NOTE: Saturation reduces all angles by 10-20°.
+  A 40° clay slope STABLE when dry becomes UNSTABLE when wet.
+</code></pre>
 <p>The <strong>Factor of Safety (FoS)</strong> is the ratio of resisting forces to driving forces acting on a slope:</p>
 <p>FoS = Resisting Forces / Driving Forces</p>
 <ul>
@@ -71,6 +91,31 @@
 <p>Every stream has a floodplain defined by recurrence intervals. The "100-year floodplain" has a 1% chance of flooding in any given year. This sounds rare. Over a 500-year settlement horizon, the probability of at least one such flood is:</p>
 <p>P = 1 - (1 - 0.01)^500 = 1 - 0.99^500 = 0.9934 = 99.3%</p>
 <p>Never build in the 100-year floodplain. Over multi-generational timescales, flooding is not a risk — it is a scheduled event.</p>
+<pre><code class="language-text">
+  FLOOD RECURRENCE vs. FLOOD HEIGHT — Settlement Placement
+
+  Flood
+  Height
+  (m)     |
+   8      |                                           * 500-yr flood
+          |
+   6      |                              * 100-yr flood
+          |         - - - - - - - - - - - - - - - - - - - - - - - -
+   5      |         SETTLEMENT SITE (above 500-yr line)
+          |
+   4      |                   * 50-yr flood
+          |
+   2      |        * 10-yr flood
+          |
+   0      |___*____|__________|__________|__________|__________|___
+          0       10         50        100        200        500
+                          Return Period (years)
+
+  Over 500 years:  10-yr flood occurs ~50 times
+                  100-yr flood occurs ~5 times
+                  500-yr flood occurs ~1 time
+  BUILD ABOVE THE 500-YEAR LINE.
+</code></pre>
 <p>Identify the floodplain by observable field evidence:</p>
 <ol>
 <li><strong>Flat terrain adjacent to a stream</strong> — alluvial plains are depositional surfaces created by repeated flooding.</li>
@@ -80,6 +125,32 @@
 </ol>
 <h3 id="wind-dynamics-and-terrain">Wind Dynamics and Terrain</h3>
 <p>Wind accelerates over ridgelines due to the Venturi effect — compression of airflow as it is forced over a terrain obstacle increases velocity by 20-50% compared to the free-stream wind speed. A ridgeline that appears "sheltered" on a calm day becomes a wind tunnel during storms.</p>
+<pre><code class="language-text">
+  VENTURI WIND ACCELERATION — Top-Down View
+
+  WIND ===&gt;        valley walls
+                  /              \
+  ~~~~~~~~~~~   /                  \   ~~~~~~~~~~~
+  ~ 10 m/s ~  /   ACCELERATION     \  ~ 10 m/s ~
+  ~~~~~~~~~~~/ - - - ZONE - - - - -  \~~~~~~~~~~~
+            |    15-20 m/s winds      |
+            |    (150-200% of         |
+            |     free-stream)        |
+            |                         |
+            |  X AVOID settlement X   |
+             \                       /
+              \    CONSTRICTION     /
+               \   (narrowest)    /
+                \               /
+  ~~~~~~~~~~~    \            /    ~~~~~~~~~~~
+  ~ 10 m/s ~     \__________/     ~ 10 m/s ~
+  ~~~~~~~~~~~                     ~~~~~~~~~~~
+       ^                               ^
+   free-stream                    free-stream
+
+  SITE SETTLEMENT on the wider valley flanks,
+  NOT in the constriction zone.
+</code></pre>
 <p>The <strong>military crest</strong> — the position just below the true ridgeline on the leeward side — experiences 40-60% less wind than the true ridgeline while maintaining good visibility of the surrounding terrain. This is the optimal position for structures that require both shelter and defensive sightlines.</p>
 <p>Wind pressure scales with the square of velocity:</p>
 <p>P = 0.5 <em> ρ </em> v²</p>

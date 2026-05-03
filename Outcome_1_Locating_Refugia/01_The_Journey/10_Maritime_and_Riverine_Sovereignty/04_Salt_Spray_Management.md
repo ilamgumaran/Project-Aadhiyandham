@@ -20,11 +20,55 @@ Sea spray is generated when waves break, ejecting droplets ranging from 1 to 100
 
 Where C(x) is the salt aerosol concentration at distance x from the high-tide line, C_0 is the concentration at the shoreline, and L is the decay length. Under open conditions (no vegetation, moderate wind), L ranges from 400 to 500 meters — meaning that at 500 meters inland, salt concentration has dropped to roughly 37% of the shoreline value. A dense vegetation buffer reduces L dramatically, to 150-200 meters, meaning the same 37% threshold is reached at just 200 meters. This is the foundational argument for the three-belt defense: vegetation physically intercepts aerosol particles, shortening the effective reach of salt spray by 50-70%.
 
+```text
+  Salt Aerosol Deposition Gradient (Cross-Section, Ocean to Inland)
+
+  Salt
+  Conc.   ||
+  (C)     || *
+  100%    ||  *          C(x) = C_0 * e^(-x/L)
+          ||   *
+          ||    **
+          ||      ***
+   37%    ||. . . . .***. . . . . . . . . . . . . . . . .
+          ||            ****
+          ||                *****
+   ~5%    ||                     *********________________
+          ||=========|=============|==========|==========>
+          0m       100m         500m       1000m   Distance
+          |  HIGH    |  MODERATE   |    LOW SALT ZONE     |
+          |  SALT    |   SALT      |   [Settlement here]  |
+          |~~~~~~~~~~|             |   +-+  +-+           |
+          | ocean    |             |   |H|  |H|  crops    |
+```
+
 Wind speed is the primary driver of inland salt penetration. At sustained winds of 30+ km/h, salt deposition rates at 300 meters inland can equal calm-day rates at 100 meters. Storm events can push significant salt loads 2-5 kilometers inland in a single day, overwhelming vegetation buffers temporarily.
 
 ### Osmotic Stress in Plants
 
 Salt dissolved in soil water raises the osmotic potential of the soil solution, making it thermodynamically harder for plant roots to extract water. The plant must expend additional metabolic energy to maintain the water potential gradient across its root membranes. Soil salinity is measured in deciSiemens per meter (dS/m), which quantifies the electrical conductivity of a saturated soil extract — a direct proxy for dissolved ion concentration.
+
+```text
+  Osmotic Stress: Normal Soil vs. Salt-Affected Soil
+
+  NORMAL SOIL (<2 dS/m)            SALT-AFFECTED SOIL (>4 dS/m)
+  Water potential: -0.1 MPa        Water potential: -0.8 MPa
+
+  Soil       Root Cell             Soil        Root Cell
+  ........  |=========|            ........  |=========|
+  . H2O  .  | vacuole |            . H2O  .  | vacuole |
+  .      .  |         |            . NaCl .  |         |
+  . low  .  |  high   |            . high .  |  low    |
+  . salt .=>|  solute |            . salt .|<=  solute |
+  .      .  |  conc.  |            .      .  |  conc.  |
+  . H2O  .  |         |            . Na+  .  |         |
+  .  ==> .  |  TURGOR |            .  <== .  |PLASMOL- |
+  . INTO .  |  NORMAL |            .  OUT .  | YSIS!   |
+  . ROOT .  |  (good) |            . OF   .  | (wilt)  |
+  ........  |=========|            . ROOT .  |=========|
+                                   ........
+  Water flows IN --> healthy        Water flows OUT --> cell shrinks
+```
 
 Critical thresholds for soil salinity:
 
@@ -67,6 +111,24 @@ Mediterranean coastal agriculture has managed salt for over 3,000 years. The Rom
 Five non-negotiable rules govern salt-spray management in a coastal settlement:
 
 1. **The Three-Belt Defense** — Coastal settlements must establish three concentric vegetation zones between the ocean and crops. Belt 1 (halophyte frontline) intercepts the majority of salt aerosol. Belt 2 (windbreak trees) reduces wind speed and captures remaining airborne salt. Belt 3 (the agricultural core) operates in the sheltered, low-salinity zone behind belts 1 and 2. No belt may be omitted. All three must be continuous — a gap in any belt creates a salt channel directly to crops.
+
+```text
+  Three-Belt Windbreak Planting (Cross-Section)
+
+  WIND + SALT SPRAY ===>
+  ~~~~~~~~                 BELT 1            BELT 2           BELT 3
+  ~ ocean ~        Halophytes (frontline) Windbreak trees   Crop zone
+  ~~~~~~~~          Tamarisk, Spartina   Pine, Live Oak   (protected)
+                     Atriplex, Coconut    Casuarina
+  :::::::::::      ,@@, ,@@, ,@@,      ,@@@@@, ,@@@@@,    . . . . .
+  ::salt   ::      |##| |##| |##|      |#####| |#####|    . crops .
+  ::spray  ::  =>  |##| |##| |##|  =>  |#####| |#####|    . beans .
+  :::::::::::      |  | |  | |  |      |     | |     |    . beets .
+  ~~~~~~~~~~~~~    ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^    . . . . .
+  0m               0-100m               100-300m           300-500m+
+                   Captures 50-70%      Captures 20-30%    <10% salt
+                   of salt aerosol      remaining aerosol   remains
+```
 
 2. **The Distance Rule** — Primary agriculture must be sited more than 500 meters from the high-tide line, or behind an effective windbreak system that reduces salt deposition by greater than 90%. If terrain or settlement size prevents 500 meters of separation, the windbreak belts must be proportionally denser and taller to compensate.
 

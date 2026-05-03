@@ -25,6 +25,28 @@ In practice, the limiting resource hierarchy for a post-infrastructure settlemen
 
 A site that scores 10/10 on water but 1/10 on phosphorus will fail. Liebig's Law is absolute.
 
+```text
+          Liebig's Barrel — The Limiting Factor
+
+    Water  Soil   Sun   Fuel  Defense Access
+      |      |     |      |      |      |
+      |      |     |      |      |      |
+   +--+--+--+--+--+--+--+--+--+--+--+--+--+
+   |  |  |  |  |  |  |  |  |  |  |  |  |  |
+   |  |  |  |  |  |  |  |  |  |  |  |  |  |
+   |  |  |  |  |  |  |  |  |  |  |  |  |  |
+   |  |  |  |  |~~|~~|~~|~~|  |  |  |  |  | <-- Water level
+   |  |  |  |  |  |  |  |  |  |  |  |  |  |     (carrying
+   |  |  |  +--+  |  |  |  +--+  |  +--+  |      capacity)
+   |  |  |     |  |  |  |     |  |     |  |
+   |  +--+     +--+  +--+     +--+     +--+
+   |        ^                                |
+   +--+--+--+--+--+--+--+--+--+--+--+--+--+
+         |
+    Shortest stave = Limiting resource
+    Capacity is set by the WEAKEST factor, not the strongest
+```
+
 ### Elevation and Climate Security
 
 Sea level rise projections from IPCC AR6 (2021):
@@ -51,6 +73,28 @@ The **thermal belt** is the elevation band (typically 100-400 m above the valley
 - Reduced fog and dew (which promote fungal crop diseases in valley floors)
 
 **Historical validation:** Appalachian settlers discovered thermal belts empirically over generations. Apple and peach orchards in western North Carolina consistently thrive at mid-slope elevations (300-500 m) while identical varieties planted on the valley floor suffer repeated frost kill. The same pattern is documented in European wine regions — the best vineyards occupy thermal belt positions (Burgundy, Mosel, Douro Valley).
+
+```text
+     Valley Cross-Section — Thermal Belt and Cold Air Drainage
+
+     RIDGELINE (cold, wind-exposed)
+      /\          Wind --->             /\
+     /  \   . . . . . . . . . . . .   /  \
+    /    \                            /    \
+   /      \  ========================/======\  <-- THERMAL BELT
+  /  ~~~>  \   Warm air trapped here /        \     (optimal zone:
+ /    ~~~>  \   Frost-free season   /          \     settlement +
+/      ~~~>  \   +2-4 weeks       /            \     agriculture)
+|        \    \                  /      |        |
+|  Katabatic\  \              /   Katabatic     |
+|  flow  \\   \_____________/    flow  //       |
+|   (cold  \\                    (cold //       |
+|    air     \\ VALLEY FLOOR      air //        |
+|   sinks)    \\  Frost pocket   sinks)         |
++--------------\\_______________//------ -------+
+                  COLD AIR POOL
+              Fog, frost, 5-10 deg C colder
+```
 
 ### Solar Geometry and Aspect
 
@@ -157,6 +201,29 @@ Score each criterion on a 1-10 scale. Multiply by the weight. Sum all weighted s
 - **10**: Exceptional. Among the best possible conditions for this criterion.
 
 A score below 200 means the site has too many weaknesses to be viable. A score of 200-250 is marginally viable — proceed only if no better alternative exists. A score above 250 indicates a strong candidate site. A score above 300 is exceptional and rare.
+
+```text
+     Site Selection Scorecard — Radar Chart (Example Site)
+
+                    Water (9)
+                       *
+                  * . . . . *
+            Access  .   |   .  Soil (7)
+            (5) *   .   |   .   *
+                 .  . --+-- .  .
+         Defense  *. /  |  \ .*  Solar (8)
+          (6)    . */   |   \*  .
+                 . / .--+--.  \ .
+                  *  .  |  .  *
+            Geology .   |   .  Fuel (4)
+             (3)    * . | . *
+                       *
+                   Climate (7)
+
+         * ----  Scored polygon (candidate site)
+         Axes show 1 (center) to 10 (outer edge)
+         Weak axes (Fuel=4, Geology=3) flag risk areas
+```
 
 ### The 7-Day Site Assessment Protocol
 
