@@ -31,6 +31,27 @@
 <p>At the <strong>equinoxes</strong> (approximately March 20 and September 22), the sun rises due East and sets due West at every location on Earth, regardless of latitude. On these two days, the sun's path across the sky is symmetrical about the cardinal East-West line.</p>
 <p>At the <strong>summer solstice</strong> (approximately June 21 in the Northern Hemisphere), the sun rises and sets approximately 23.44 degrees <em>north</em> of the due-East/due-West line. At the <strong>winter solstice</strong> (approximately December 21), it rises and sets approximately 23.44 degrees <em>south</em> of due East/West. The exact offset depends on your latitude — at higher latitudes the angular displacement at the horizon is even larger than 23.44 degrees due to the geometry of the celestial sphere projected onto a flat horizon.</p>
 <p><strong>Practical consequence:</strong> If you use sunrise position alone to determine East, you could be off by more than 23 degrees depending on the date. This is a significant error — over a 10 km walk, a 23-degree error puts you nearly 4 km off course.</p>
+<pre><code class="language-text">
+        Sun Path Arc: Equinox vs. Solstices (Northern Hemisphere)
+                        SOUTH SKY
+                     (observer faces S)
+
+                        * NOON *
+                      / Jun sol \        &lt;- highest arc (summer)
+                    /   ........  \
+                  /  ../  NOON  \.. \
+                / ../    * * *    \.. \
+              /  /  /  Equinox arc  \  \  \
+            / ../  / ...............  \  \.. \
+     NE   / ../  / ../   NOON    \..  \  \.. \   NW
+   rise  / ../  / ../    * * *    \..  \  \.. \  set
+  ------/--/---/--/--- Dec sol ----\--\---\--\------
+  E    /  /   /  /     (lowest)     \  \   \  \   W
+ HORIZON LINE ====================================
+       ^  ^   ^                         ^  ^   ^
+      Jun Eq Dec                      Dec Eq  Jun
+     rise rise rise                  set  set  set
+</code></pre>
 <h3 id="solar-declination">Solar Declination</h3>
 <p>Solar declination is the angle between the sun's rays and the plane of the Earth's equator. It varies continuously throughout the year:</p>
 <ul>
@@ -140,6 +161,27 @@
 <li><strong>Draw a line</strong> (scratch it in the dirt, lay a stick, or stretch a cord) between the two marks. This line runs approximately <strong>East-West</strong>.</li>
 <li><strong>Determine East and West.</strong> In the Northern Hemisphere, the <strong>first mark is the West end</strong> and the <strong>second mark is the East end</strong> of the line. (The shadow moves from West to East as the sun moves from East to West.) In the Southern Hemisphere, the same convention holds — first mark is West, second is East.</li>
 <li><strong>Find North.</strong> Stand on the East-West line with the first mark (West) to your left and the second mark (East) to your right. You are now facing <strong>North</strong> (Northern Hemisphere). In the Southern Hemisphere, reverse: stand with the first mark to your right to face South.</li>
+</ol>
+<pre><code class="language-text">
+    Shadow-Stick Method (Top-Down View, Northern Hemisphere)
+
+                        N
+                        ^
+                        |
+                        |    stick (.)
+                        |
+           W &lt;----[1]--------[2]----&gt; E
+                   ^    .     ^
+                   |         /
+              1st shadow   2nd shadow
+              tip (West)   tip (East)
+              t = 0 min    t = 20 min
+
+     Sun moves E ---&gt; W, so shadow tip moves W ---&gt; E.
+     Line from mark [1] to mark [2] = East-West line.
+     Stand facing perpendicular to line = North.
+</code></pre>
+<ol>
 <li><strong>Optional refinement:</strong> Repeat the procedure, waiting 30 minutes or more between marks, or take a third and fourth mark to average out errors. The more marks you take, the better your East-West line approximates the true arc.</li>
 </ol>
 <p><strong>Accuracy expectations:</strong></p>
@@ -177,6 +219,28 @@
 <li>Polaris marks True North. Drop a vertical line from Polaris to the horizon — that point on the horizon is due North.</li>
 <li>Polaris's altitude above the horizon also tells you your approximate latitude: if Polaris is 35 degrees above the horizon, you are near latitude 35 degrees North.</li>
 </ol>
+<pre><code class="language-text">
+    Finding Polaris Using the Big Dipper (Ursa Major)
+
+                          * Polaris
+                          |  (True North)
+                          |
+                     5x   |  the distance
+                          |  between Dubhe
+                          |  and Merak
+                          |
+                   Dubhe  *
+                         /    &lt;- &quot;pointer stars&quot;
+                  Merak *        (outer bowl edge)
+                       |
+                       * ------*
+                       |  bowl  \
+                       *--------* ---*--- handle
+                                     \
+                                      *
+
+             Big Dipper / Ursa Major
+</code></pre>
 <h3 id="the-southern-cross-method-southern-hemisphere">The Southern Cross Method (Southern Hemisphere)</h3>
 <p>There is no bright "South Star" equivalent to Polaris. Instead:</p>
 <ol>

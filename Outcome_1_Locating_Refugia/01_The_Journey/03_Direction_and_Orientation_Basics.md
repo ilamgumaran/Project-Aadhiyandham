@@ -25,6 +25,28 @@ At the **summer solstice** (approximately June 21 in the Northern Hemisphere), t
 
 **Practical consequence:** If you use sunrise position alone to determine East, you could be off by more than 23 degrees depending on the date. This is a significant error — over a 10 km walk, a 23-degree error puts you nearly 4 km off course.
 
+```text
+        Sun Path Arc: Equinox vs. Solstices (Northern Hemisphere)
+                        SOUTH SKY
+                     (observer faces S)
+
+                        * NOON *
+                      / Jun sol \        <- highest arc (summer)
+                    /   ........  \
+                  /  ../  NOON  \.. \
+                / ../    * * *    \.. \
+              /  /  /  Equinox arc  \  \  \
+            / ../  / ...............  \  \.. \
+     NE   / ../  / ../   NOON    \..  \  \.. \   NW
+   rise  / ../  / ../    * * *    \..  \  \.. \  set
+  ------/--/---/--/--- Dec sol ----\--\---\--\------
+  E    /  /   /  /     (lowest)     \  \   \  \   W
+ HORIZON LINE ====================================
+       ^  ^   ^                         ^  ^   ^
+      Jun Eq Dec                      Dec Eq  Jun
+     rise rise rise                  set  set  set
+```
+
 ### Solar Declination
 
 Solar declination is the angle between the sun's rays and the plane of the Earth's equator. It varies continuously throughout the year:
@@ -173,6 +195,26 @@ This is the most reliable field method for determining direction without any ins
 
 7. **Find North.** Stand on the East-West line with the first mark (West) to your left and the second mark (East) to your right. You are now facing **North** (Northern Hemisphere). In the Southern Hemisphere, reverse: stand with the first mark to your right to face South.
 
+```text
+    Shadow-Stick Method (Top-Down View, Northern Hemisphere)
+
+                        N
+                        ^
+                        |
+                        |    stick (.)
+                        |
+           W <----[1]--------[2]----> E
+                   ^    .     ^
+                   |         /
+              1st shadow   2nd shadow
+              tip (West)   tip (East)
+              t = 0 min    t = 20 min
+
+     Sun moves E ---> W, so shadow tip moves W ---> E.
+     Line from mark [1] to mark [2] = East-West line.
+     Stand facing perpendicular to line = North.
+```
+
 8. **Optional refinement:** Repeat the procedure, waiting 30 minutes or more between marks, or take a third and fourth mark to average out errors. The more marks you take, the better your East-West line approximates the true arc.
 
 **Accuracy expectations:**
@@ -205,6 +247,29 @@ Polaris is not the brightest star in the sky — a common misconception. It is m
 4. Polaris marks True North. Drop a vertical line from Polaris to the horizon — that point on the horizon is due North.
 
 5. Polaris's altitude above the horizon also tells you your approximate latitude: if Polaris is 35 degrees above the horizon, you are near latitude 35 degrees North.
+
+```text
+    Finding Polaris Using the Big Dipper (Ursa Major)
+
+                          * Polaris
+                          |  (True North)
+                          |
+                     5x   |  the distance
+                          |  between Dubhe
+                          |  and Merak
+                          |
+                   Dubhe  *
+                         /    <- "pointer stars"
+                  Merak *        (outer bowl edge)
+                       |
+                       * ------*
+                       |  bowl  \
+                       *--------* ---*--- handle
+                                     \
+                                      *
+
+             Big Dipper / Ursa Major
+```
 
 ### The Southern Cross Method (Southern Hemisphere)
 

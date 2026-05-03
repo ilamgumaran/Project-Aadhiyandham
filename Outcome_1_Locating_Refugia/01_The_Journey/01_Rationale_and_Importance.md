@@ -72,6 +72,29 @@ Where S is the slope (rise/run). This yields approximate speeds for an unloaded,
 
 Beyond this radius, the group must forage, cache supplies in advance, or establish resupply points. This is why the Roman legions built roads with supply depots every 25-30 km (a single day's march), and why the Mormon Trek succeeded through pre-positioned way-stations. The mathematics of human logistics have not changed in two thousand years. There is no willpower substitute for calories.
 
+```text
+  Logistical Reach: Carried Calories vs. Distance
+  (Family of 4, mixed terrain at 15-20 km/day)
+
+  Remaining     |
+  Calories    160k +-***
+  (kcal)        |     ****
+              120k +        ***
+                |            ***
+               80k +             ***
+                |                 ***
+               40k +                  ***
+                |                      ***
+                0 +---+---+---+---+---+--***--> ZERO
+                  0   50  100 150 200 250 (km)
+                          Distance Covered
+
+  Key: Each day consumes ~12,000 kcal (family total)
+       Curve flattens as weakened pace slows progress
+       Beyond ~250 km, carried food is exhausted
+       *** = resupply or foraging required beyond this point
+```
+
 ### Historical Precedent: Lessons from Great Migrations
 
 Humanity has conducted large-scale foot migrations throughout its existence. Each offers specific, actionable lessons:
@@ -99,6 +122,28 @@ These five principles govern every decision during transit. Violating any one of
     *   Deep sand or snow: **~500-700 kcal/hour** (surface deformation dramatically increases energy cost)
 
     A caloric deficit of 500 kcal/day is tolerable for up to two weeks in a healthy adult. A deficit of 1,000+ kcal/day produces measurable cognitive impairment within 3-5 days. If the math does not work, shorten the route or cache supplies in advance.
+
+```text
+    Caloric Budget: Daily Intake vs. Expenditure by Terrain
+    (70 kg adult, 20 kg load, 6-hour movement day)
+
+    kcal/day  0     1000    2000    3000    4000    5000
+              |-------|-------|-------|-------|-------|
+    INTAKE    |=======|=======|==|                        ~2,500 kcal
+              |-------|-------|-------|-------|-------|
+    Flat road |=======|=======|=======|====|              ~3,500 kcal
+              |                               ^ deficit: ~1,000
+    Mod trail |=======|=======|=======|=======|===|       ~4,200 kcal
+              |                               ^ deficit: ~1,700
+    Steep mtn |=======|=======|=======|=======|=======|   ~5,400 kcal
+              |                               ^ deficit: ~2,900
+    Sand/snow |=======|=======|=======|=======|====|      ~4,500 kcal
+              |-------|-------|-------|-------|-------|
+              0     1000    2000    3000    4000    5000
+
+    WARNING: Deficits above 1,000 kcal/day cause cognitive
+    impairment within 3-5 days. Match terrain to rations.
+```
 
 3.  **The Redundancy Principle (மிகை விதி):** No single point of failure should end the journey. Every critical item must exist in at least two copies, carried by different people. Split the seed bank across two packs. Distribute fire-starting tools and water purification across all members. Navigation tools must exist in at least two copies carried by different people. Medical knowledge must not reside in a single "medic" — every adult should know how to stop bleeding, splint a fracture, and treat dehydration. **Two is one, one is none.**
 
@@ -146,6 +191,31 @@ Carrying all necessary survival gear in a backpack (limited to ~20% of body weig
     *   Off-trail: Cart becomes a liability. Transfer critical cargo to backpacks, cache or abandon remaining gear.
     *   Steep grades (>15%): Reduce all above figures by 40-50%. On steep descents, rig a drag brake or lower on a rope.
 *   **Family Scaling (2 Adults, 2 Teens):** Deploy at least **two** single-wheel carts. The two strongest members pull the carts (carrying up to 80-100 kg total of heavy tools, seeds, and water), while the other two carry standard backpacks (10-15 kg each) containing immediate-access trauma kits, rain gear, and high-calorie rations.
+
+```text
+    Cart Load Distribution (Side View)
+    Load zones by weight priority — heavy LOW, light HIGH
+
+         Pulling direction -->
+                    ___________________
+                   |  LIGHT  2-5 kg    |  Tarps, cordage,
+                   |  (top, secured)   |  clothing
+                   |___________________|
+                   |  MEDIUM  5-15 kg  |  Rations, medical,
+                   |  (middle layer)   |  seed bank
+                   |___________________|
+                   | HEAVY  20-30 kg   |  Water, tools,
+                   | (lowest, over axle)|  metal items
+         __________|_______O___________|__________
+        /  harness  =======|===========  frame    \
+       /   to hips         |                       \
+      /_____________(wheel: 40-50cm)________________\
+
+    Balance rules:
+      - Center of gravity OVER or AHEAD of axle
+      - Left-right weight within 2 kg of equal
+      - Strap all layers; loose cargo shifts on slopes
+```
 
 ### Essential Carry (The Sovereignty Kit)
 
@@ -238,6 +308,28 @@ A group plans a route on a map, commits to it psychologically, and then refuses 
 *   Begin each day before dawn with a cold meal. Break camp efficiently — target 45 minutes from waking to moving.
 *   Walk during the cooler hours (dawn to mid-morning, mid-afternoon to dusk). In hot climates, shelter in shade during peak heat (11:00-15:00).
 *   Make camp with at least 90 minutes of daylight remaining for shelter construction, water collection, foot care, and perimeter scouting.
+
+```text
+    Transit Timeline: Phases of a Multi-Day Journey
+
+    PREP (Months)     TRANSIT (Days 1-13)                    ARRIVAL
+    |                 |                                       |
+    |  Conditioning   |  Day rhythm (repeats):                |
+    |  Gear assembly  |  0430  Wake, cold meal                |
+    |  Route planning |  0515  Break camp                     |
+    |  Cache placement|  0600  Move (cool hours)              |
+    |  Shakedown hike |  1000  Rest / shade (hot climates)    |
+    |                 |  1500  Move (afternoon)                |
+    |                 |  1730  Make camp (90 min before dark)  |
+    |                 |  1900  Water, foot care, sleep         |
+    |                 |                                       |
+    ===[PREP]===>[DEPART]--[URBAN]--[RURAL]--[TRANSITION]-->[ARRIVE]
+                  Day 1    Day 2-3  Day 4-9   Day 10-12     Day 13
+                  Roads,   Secondary Trails,   Approaching   Scout,
+                  high     roads,    carts     candidate     rest,
+                  speed    avoid     at 2.5-   site, slower  verify
+                           crowds    3.5 km/h  pace, recon   site
+```
 
 ### Arrival Phase
 

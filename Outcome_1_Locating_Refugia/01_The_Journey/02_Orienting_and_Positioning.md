@@ -32,6 +32,28 @@ The critical insight for the field navigator is this: **the grid cell system req
 
 This is why the first and most important act of orientation is to **identify fixed, recognizable landmarks** --- what this manual calls Sentinels. You are not merely looking for helpful features on the landscape. You are giving your own neural navigation system the reference points it requires to function. When you lock onto two or three Sentinels, your grid cells recalibrate, your place cells begin firing coherently, and the panic subsides. Orientation is as much a neurological act as a cartographic one.
 
+```text
+    COGNITIVE MAP CALIBRATION — The Brain's Internal GPS
+
+    EXTERNAL WORLD                  BRAIN REGIONS
+    Landmark A (mountain) --\
+                             \  +------------------+
+    Landmark B (river)  ------>>| HIPPOCAMPUS      |
+                             /  | (Place Cells)    |
+    Landmark C (tower)  ---/    | "I am HERE"      |
+                                +--------+---------+
+                                         |
+                                         v
+                                +------------------+     +----------------+
+                                | ENTORHINAL CORTEX|---->| HEAD-DIRECTION |
+                                | (Grid Cells)     |     | CELLS          |
+                                | distance + angle |     | "facing NW"   |
+                                +------------------+     +----------------+
+
+    Landmarks vanish --> grid cells DRIFT --> panic response
+    Landmarks found  --> grid cells LOCK  --> calm navigation
+```
+
 ### The Mathematics of Triangulation (Resection)
 
 The technique of determining your position by taking bearings to known landmarks is formally called **resection** (sometimes loosely called triangulation, though triangulation technically refers to determining the position of an unknown point from a known baseline).
@@ -48,6 +70,27 @@ The geometry is straightforward:
 - The ideal angular separation is **60 to 120 degrees**.
 - For a three-bearing fix, landmarks spaced roughly **120 degrees apart** (evenly around you) give the strongest geometry.
 
+```text
+    RESECTION — Determining Position from Known Landmarks
+
+                N (000°)
+                |
+      A (Peak)  |            Bearing to A = 320°
+         *      |            Bearing to B = 065°
+          \     |            Separation = 105° (good!)
+       320°\    |
+            \   |
+             P--------  You (unknown position)
+            /   |
+       065°/    |        Back-bearing A = 320°-180° = 140° --\
+          /     |                                              }-> cross at P
+         *      |        Back-bearing B = 065°+180° = 245° --/
+      B (Tower) |
+
+    RULE: 60°-120° separation = strong fix
+          < 30° separation   = unreliable (lines nearly parallel)
+```
+
 If you lack instruments, you can still estimate angles using your body (see the hand-width method below).
 
 ### Terrain Association vs. Precision Navigation
@@ -55,6 +98,38 @@ If you lack instruments, you can still estimate angles using your body (see the 
 There are two fundamentally different modes of knowing where you are, and the competent navigator uses both:
 
 **Terrain Association** is the skill of reading the shape of the land and matching it to the map. You recognize that you are in a valley running roughly north-south, with a steep ridge to the west and a gentler slope to the east, and a stream junction about 500 meters ahead. You may not know your position to the nearest 100 meters, but you know which valley you are in and roughly where in that valley you stand. Terrain association is fast, intuitive, and sufficient for most overland travel. It is the primary mode used by experienced mountain travelers and military patrols moving through complex ground.
+
+```text
+    TERRAIN ASSOCIATION — Matching Terrain Profile to Map Contours
+
+    What you SEE (cross-section looking north):
+
+          RIDGE        SADDLE       PEAK
+          /    \      /      \      /\
+         /      \    /        \    /  \
+        /  SPUR  \  /   DRAW   \  /    \
+       /    /     \/    (dry     \/      \
+      /    /       \   streambed) \       \
+     /    /   YOU   \      |       \       \
+    /    /     *     \     v        \       \
+   ____/              \__river_______\________
+                      VALLEY FLOOR
+
+    What the MAP shows (contour lines, overhead):
+
+    )))  )))    (((  )))       (((  (((
+    ))    ))   ((    ))       ((    ((
+    )  R   )  (  S   )      (  P   (
+    ))    ))   ((    ))       ((    ((
+    )))  )))    (((  )))       (((  (((
+         |           |              |
+       Ridge       Saddle         Peak
+
+    KEY: Match the PROFILE you see to the CONTOUR SHAPES on the map.
+         Ridges = concentric U-shapes pointing downhill
+         Valleys = V-shapes pointing uphill (toward higher ground)
+         Saddles = hourglass narrowing between two peaks
+```
 
 **Precision Navigation** (point positioning) is the act of determining a specific grid reference --- for example, "I am at grid 438 217" --- accurate to 100 meters or better. This requires either instrument bearings (compass resection), GPS, or very careful map work with identifiable point features. Precision navigation is essential when you must communicate your location to others, when you are navigating in featureless terrain (dense forest, fog, desert), or when you must find a specific small target such as a cache, a rendezvous point, or a water source marked on the map.
 
