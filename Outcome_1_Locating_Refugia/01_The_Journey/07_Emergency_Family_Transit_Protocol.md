@@ -19,6 +19,37 @@ The human stress response — the hypothalamic-pituitary-adrenal (HPA) axis — 
 *   **Sleep disruption:** Elevated cortisol disrupts the circadian cortisol cycle, producing insomnia or fragmented sleep. Sleep deprivation compounds cognitive degradation: after 24 hours without sleep, cognitive performance drops to the equivalent of 0.10% blood alcohol content. After 48 hours, hallucinations and microsleep episodes begin.
 *   **Metabolic cost:** The stress response itself burns approximately 100-200 additional kcal/day above baseline. In a calorie-limited transit scenario, this stress tax reduces the group's logistical reach by 5-10%.
 
+```text
+HPA AXIS STRESS CASCADE
+
+  THREAT PERCEIVED (danger, uncertainty, exhaustion)
+         |
+         v
+  +------------------+
+  |  HYPOTHALAMUS    |-----> releases CRH
+  +------------------+       (corticotropin-releasing hormone)
+         |
+         v
+  +------------------+
+  |  PITUITARY       |-----> releases ACTH
+  +------------------+       (adrenocorticotropic hormone)
+         |
+         v
+  +------------------+
+  |  ADRENAL CORTEX  |-----> releases CORTISOL
+  +------------------+
+         |
+         v
+  ACUTE (minutes):            CHRONIC (days/weeks):
+  + heightened alertness      - immune suppression
+  + faster reflexes           - cognitive degradation
+  + pain tolerance up         - sleep disruption
+                              - metabolic drain +100-200 kcal/day
+         |
+         '--- negative feedback loop back to HYPOTHALAMUS ---'
+              (breaks down under sustained stress)
+```
+
 **The protective mechanism:** The single most effective intervention against chronic stress is **predictability**. When the brain can predict what will happen next (the schedule, the route, the next rest stop, the expected arrival time), the HPA axis downregulates. This is why military units maintain rigid routines even under combat stress — the routine itself is a cortisol reduction tool. For family transit, this means: **maintain a fixed daily schedule, communicate the plan to every member including children, and never deviate from the schedule without clear explanation.**
 
 ### Child Psychology During Crisis Transit
@@ -39,6 +70,23 @@ The 50% Rule states that the maximum daily distance for a mixed-ability group mu
 *   At 90%+ of maximum capacity (forced march), glycogen stores are depleted within 2-3 hours. Full recovery requires 24-48 hours of rest with adequate nutrition. Forced marches are sustainable for 1-2 days only, not for multi-day transit.
 
 **For children:** A healthy 8-year-old can walk approximately 10-15 km per day on flat terrain at a comfortable pace. Applying the 50% Rule: maximum daily distance with an 8-year-old = 5-7.5 km per day. With a 5-year-old (comfortable capacity ~5-8 km/day), maximum = 2.5-4 km per day. Planning must account for the slowest, youngest ambulatory child.
+
+```text
+CHILD PACING CHART — Walking Speed & Rest Intervals by Age
+
+  Age Group      | Speed (km/hr) | Max Day (km) | 50% Rule | Rest Every
+  ---------------+---------------+--------------+----------+-----------
+  Toddler 1-3   |   1.0 - 1.5   |    2 - 4     |  1 - 2   | 15 min
+  Child 4-8     |   2.0 - 3.0   |    5 - 10    |  3 - 5   | 20 min
+  Older 9-12    |   3.0 - 4.0   |   10 - 15    |  5 - 8   | 30 min
+  Teen 13-17    |   4.0 - 5.0   |   15 - 25    |  8 - 13  | 45 min
+  Adult 18-60   |   4.5 - 5.5   |   20 - 30    | 10 - 15  | 45 min
+  Elderly 65+   |   2.0 - 3.5   |    5 - 12    |  3 - 6   | 20 min
+
+  NOTE: "50% Rule" column = max group daily distance (km)
+        when this member is the slowest. Flat terrain, good
+        weather, daypack only. Reduce 30-50% for hills/mud.
+```
 
 ---
 
@@ -126,6 +174,30 @@ MARCH ORDER (Single File)
   [Adults with backpacks]
        |
   [REAR GUARD]
+```
+
+```text
+BUG-OUT CHAIN — Top-Down View (Trail Formation)
+
+  Direction of travel ====>
+
+  SCOUT                                         50-100m ahead
+  (optional; advance recon)                     . . . . . .
+       .  .  .  .  .  .  .  .  .  .  .  .  .  .
+  [NAVIGATOR]                                   leads column
+       |          5-10m spacing
+  [Adult-1 w/ cart] [Adult-2 w/ travois]        heavy gear
+       |          5-10m spacing
+  [GUARDIAN] + [Child] [Child] [Elderly]        CENTER (protected)
+       |          5-10m spacing
+  [Adult-3 w/ pack] [Teen-1 w/ pack]           general carriers
+       |          5-10m spacing
+  [REAR GUARD]                                  watches behind
+       .  .  .  .  .  .  .  .  .  .  .  .
+                                                50m max tail
+
+  Total column length: ~80-150m
+  Voice contact maintained: REAR GUARD <-> GUARDIAN at all times
 ```
 
 ### Daily Schedule

@@ -19,6 +19,26 @@ Georgia's geographic position makes it a strategic departure point for North Ame
 *   **Agricultural baseline:** Georgia's growing season (220-280 frost-free days) allows pre-departure cultivation of transit rations (pemmican ingredients, dried beans, hardtack grain).
 *   **Population density gradient:** Georgia transitions from dense urban (metro Atlanta, ~6 million) to sparse rural (~15 people/km² in the northern mountains) within 100 km. Departing north from Atlanta crosses this density gradient rapidly, reaching low-surveillance terrain within 2-3 days of foot travel.
 
+```text
+POPULATION DENSITY GRADIENT — ATLANTA NORTHWARD
+
+  Pop/km2
+  3000 |##
+  1000 |######
+   500 |..........######
+   100 |                ..........
+    50 |                          --------
+    15 |                                  --------========
+     5 |                                                  ========
+       +----+-----+-----+------+------+-------+------+------+---->
+       0   10    20    30     50     70      90    100   120  km
+       |         |           |              |            |
+     ATLANTA  Suburban    Exurban       Rural       Wilderness
+     (urban)  sprawl     fringe      farmland     (Cohutta Mtns)
+
+  ## Dense urban   .. Suburban   -- Exurban/Rural   == Wilderness
+```
+
 ### The Travois: Zero-Tech All-Terrain Transport
 
 When wheeled carts fail — on steep mountain trails, in dense forest, across mud, or through rocky stream beds — the **travois** provides an alternative cargo platform that has been used continuously for at least 7,000 years (documented in North American archaeological evidence, and independently developed by cultures across every continent).
@@ -42,6 +62,39 @@ The most dangerous phase of any transit is the transition from the accessible ro
 
 This transition must be planned as a discrete operation: scouted in advance, executed quickly (ideally in a single day), and concealed from observers on the road network.
 
+```text
+PORT-TO-FOOTHILL TRANSITION — TACTICAL TOP VIEW
+
+                                REFUGIA SITE (elev. +400m)
+                                    [R]  <-- defensive perimeter
+                                   / |
+                                  /  |  final ascent
+                                 /   |  (steep, 1-2 hrs)
+                          cache /    |
+                           [C]--+    |
+                          /     midpoint
+                         /      (water + food stash)
+                        /
+              waypoint /  <-- 3 stacked stones
+                 [W]--+
+                /       concealed corridor
+               /        (through forest canopy)
+              /
+        [W]--+  waypoint
+        /
+  =====X========================  ROAD (the "port")
+       ^                          ==================
+       |
+  departure point               N
+  (behind terrain                ^
+   feature, not                  |
+   visible from road)        W --+-- E
+                                 |
+  [W] = marked waypoint          S
+  [C] = midpoint cache
+  [R] = refugia site
+   X  = departure point
+```
 ---
 
 ## Core Principles
@@ -69,6 +122,29 @@ This transition must be planned as a discrete operation: scouted in advance, exe
 3.  **Chattanooga to Sequatchie Valley** (85 km): Cross the Tennessee River at Chattanooga (bridge audit critical — identify at least 2 passable bridges). East on TN-28/TN-283 into the Sequatchie Valley. Final 20 km is the port-to-foothill transition — scout in advance.
 
 **Terrain profile:** Total elevation gain ~2,500 m. Maximum single-day climb ~400 m (the approach into Chattanooga from the south).
+
+```text
+ROUTE 1 ELEVATION PROFILE — ATLANTA TO SEQUATCHIE VALLEY
+
+  Elev (m)
+   800 |                          *****
+       |                        **     **        Cohutta
+   700 |                       *    ^    *       Mountains
+       |                      *  Cohutta  *
+   600 |                     *   Wilderness *         ****
+       |                    *               *       **    **
+   500 |                  **                 *     *  Chatt. *     ****
+       |                **                    *   *   Ridge   *  **    *
+   400 |             ***                       * *             **   Seq.
+       |   ATL     **                           *                Valley
+   300 | ****   ***                        Chattanooga
+       |     ***  Cartersville                (TN River)
+   200 +--+-----+--------+---------+--------+--------+---------+-->
+       0  20   65       100       150      195      235      280 km
+       |       |                   |        |                  |
+     Atlanta  Cartersville     Cohutta   Chattanooga      Sequatchie
+                               Pass      (urban xing)     Valley
+```
 
 **Water access:** Excellent. Multiple streams and rivers cross the route every 5-15 km. The Etowah River, Conasauga River, and Tennessee River provide major water sources.
 

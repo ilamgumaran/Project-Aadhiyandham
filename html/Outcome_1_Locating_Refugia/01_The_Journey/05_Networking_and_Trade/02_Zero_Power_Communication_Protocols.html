@@ -99,6 +99,26 @@
 <li><strong>Verification:</strong> The receiving station should see a brilliant flash. They signal back with their own heliograph. When both stations see each other's flashes, alignment is confirmed ("In Sync").</li>
 <li><strong>Tracking:</strong> The sun moves approximately 15° per hour. The mirror angle must be adjusted every 2-4 minutes to maintain alignment. One operator signals; the other tracks the sun.</li>
 </ol>
+<pre><code class="language-text">
+   HELIOGRAPH ALIGNMENT — SIDE VIEW
+
+        SUN
+         \
+          \  incident
+           \ ray
+            \
+   =========\========          SIGHTING         RECEIVING
+   | MIRROR  |  ·  · reflected  VANE            STATION
+   | on      | ·     beam · · ·[####]· · · · · · · &gt;[X]
+   | TRIPOD  |·                 3-5 m             50-80 km
+   ==========|                  ahead             distant
+       /|\
+      / | \                  &quot;Sun dog&quot; bright spot
+     /  |  \                  on vane = beam is
+   -----+-----                on target. Adjust
+    (stable base)             mirror until spot
+                              centers on vane.
+</code></pre>
 <p><strong>Signaling speed:</strong> A trained operator can send 8-12 words per minute using Morse code (short flash = dot, long flash = dash). Untrained operators using the simplified Aadhiyandham code can exchange status messages (see below) in under 2 minutes.</p>
 <h3 id="the-aadhiyandham-signal-code">The Aadhiyandham Signal Code</h3>
 <p>A simplified code designed for reliability over bandwidth. Every operator must memorize these signals:</p>
@@ -148,6 +168,24 @@
 <td>5 sustained flashes</td>
 </tr>
 </tbody></table>
+<pre><code class="language-text">
+   AADHIYANDHAM SIGNAL CODE — TIMING DIAGRAM
+
+   &quot;All Clear&quot; ··· (3 short)
+   BEAM: __|##|_|##|_|##|__________
+          0  1 2  3 4  5 6   (seconds)
+            1s  1s  1s
+           on  on  on
+
+   &quot;Emergency&quot; ——— (3 long)
+   BEAM: __|######|_|######|_|######|__
+          0   3   4   7   8  11  12  (seconds)
+             3s      3s      3s
+            on      on      on
+
+   Legend:  ## = mirror open (flash)   __ = shutter closed
+            |  = transition point      gap = 1 sec between flashes
+</code></pre>
 <p><strong>Authentication preamble:</strong> Every transmission begins with a 3-signal authentication sequence agreed upon in advance and changed monthly. Example: ·——·· (January), —·—·· (February), etc. The receiver verifies the preamble before accepting the message.</p>
 <h3 id="semaphore-flags-weather-independent-visual">Semaphore Flags (Weather-Independent Visual)</h3>
 <p>For shorter ranges (1-5 km) or when sun angle prevents heliograph use:</p>
@@ -180,6 +218,27 @@
 <li><strong>After use, both sender and receiver destroy (burn) the used page.</strong> Each page is used exactly once — hence "one-time pad"</li>
 <li>The OTP is mathematically unbreakable when used correctly (proven by Claude Shannon, 1949). It requires no electronics, no computation beyond simple arithmetic, and no shared secret other than the physical book itself.</li>
 </ol>
+<pre><code class="language-text">
+   ONE-TIME PAD ENCRYPTION — WORKED EXAMPLE
+
+   Encoding:  A=0  B=1  C=2  D=3 ... H=7 ... L=11 ... O=14 ... Z=25
+
+   Plaintext:     H    E    L    P         (message)
+   Numeric:       7    4   11   15
+
+   Key (random):  T    Q    B    X         (from OTP page)
+   Numeric:      19   16    1   23
+
+   Add mod 26:   (7+19)  (4+16)  (11+1)  (15+23)
+                 = 26     = 20    = 12     = 38
+                 mod 26   mod 26  mod 26   mod 26
+                 =  0     = 20    = 12     = 12
+
+   Ciphertext:    A    U    M    M         (transmitted)
+
+   Decrypt: receiver subtracts key from ciphertext (mod 26)
+            using the SAME page, then BURNS the page.
+</code></pre>
 <hr>
 </div>
 <div class="section-practical" id="common-failure-modes">

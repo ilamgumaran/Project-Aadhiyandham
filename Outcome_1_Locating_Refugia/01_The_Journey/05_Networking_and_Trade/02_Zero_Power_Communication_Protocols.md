@@ -77,6 +77,27 @@ All optical communication exploits the same physical principle: light travels in
 4.  **Verification:** The receiving station should see a brilliant flash. They signal back with their own heliograph. When both stations see each other's flashes, alignment is confirmed ("In Sync").
 5.  **Tracking:** The sun moves approximately 15° per hour. The mirror angle must be adjusted every 2-4 minutes to maintain alignment. One operator signals; the other tracks the sun.
 
+```text
+   HELIOGRAPH ALIGNMENT — SIDE VIEW
+
+        SUN
+         \
+          \  incident
+           \ ray
+            \
+   =========\========          SIGHTING         RECEIVING
+   | MIRROR  |  ·  · reflected  VANE            STATION
+   | on      | ·     beam · · ·[####]· · · · · · · >[X]
+   | TRIPOD  |·                 3-5 m             50-80 km
+   ==========|                  ahead             distant
+       /|\
+      / | \                  "Sun dog" bright spot
+     /  |  \                  on vane = beam is
+   -----+-----                on target. Adjust
+    (stable base)             mirror until spot
+                              centers on vane.
+```
+
 **Signaling speed:** A trained operator can send 8-12 words per minute using Morse code (short flash = dot, long flash = dash). Untrained operators using the simplified Aadhiyandham code can exchange status messages (see below) in under 2 minutes.
 
 ### The Aadhiyandham Signal Code
@@ -93,6 +114,25 @@ A simplified code designed for reliability over bandwidth. Every operator must m
 | ——·· | Hostile Activity Observed | 2 long, 2 short |
 | ·—·— | Message Received / Acknowledged | Alternating short-long x2 |
 | ————— (5 long) | Do Not Approach / Quarantine | 5 sustained flashes |
+
+```text
+   AADHIYANDHAM SIGNAL CODE — TIMING DIAGRAM
+
+   "All Clear" ··· (3 short)
+   BEAM: __|##|_|##|_|##|__________
+          0  1 2  3 4  5 6   (seconds)
+            1s  1s  1s
+           on  on  on
+
+   "Emergency" ——— (3 long)
+   BEAM: __|######|_|######|_|######|__
+          0   3   4   7   8  11  12  (seconds)
+             3s      3s      3s
+            on      on      on
+
+   Legend:  ## = mirror open (flash)   __ = shutter closed
+            |  = transition point      gap = 1 sec between flashes
+```
 
 **Authentication preamble:** Every transmission begins with a 3-signal authentication sequence agreed upon in advance and changed monthly. Example: ·——·· (January), —·—·· (February), etc. The receiver verifies the preamble before accepting the message.
 
@@ -132,6 +172,28 @@ For sensitive written messages carried by couriers:
 4.  To decrypt: the receiver reverses the process using the same page of their identical book
 5.  **After use, both sender and receiver destroy (burn) the used page.** Each page is used exactly once — hence "one-time pad"
 6.  The OTP is mathematically unbreakable when used correctly (proven by Claude Shannon, 1949). It requires no electronics, no computation beyond simple arithmetic, and no shared secret other than the physical book itself.
+
+```text
+   ONE-TIME PAD ENCRYPTION — WORKED EXAMPLE
+
+   Encoding:  A=0  B=1  C=2  D=3 ... H=7 ... L=11 ... O=14 ... Z=25
+
+   Plaintext:     H    E    L    P         (message)
+   Numeric:       7    4   11   15
+
+   Key (random):  T    Q    B    X         (from OTP page)
+   Numeric:      19   16    1   23
+
+   Add mod 26:   (7+19)  (4+16)  (11+1)  (15+23)
+                 = 26     = 20    = 12     = 38
+                 mod 26   mod 26  mod 26   mod 26
+                 =  0     = 20    = 12     = 12
+
+   Ciphertext:    A    U    M    M         (transmitted)
+
+   Decrypt: receiver subtracts key from ciphertext (mod 26)
+            using the SAME page, then BURNS the page.
+```
 
 ---
 

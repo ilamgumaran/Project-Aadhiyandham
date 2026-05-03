@@ -22,9 +22,9 @@
 - [I] `04_Terrestrial_Navigation/04_Non_Motorized_Transit_Routes.md`
 - [I] `04_Terrestrial_Navigation/05_Geometric_Trail_Engineering.md`
 - [I] `05_Networking_and_Trade/01_Decentralized_Networking_and_Trade.md`
-- [T] `05_Networking_and_Trade/02_Zero_Power_Communication_Protocols.md`
-- [T] `06_Transit_Guide_from_Georgia_USA.md`
-- [T] `07_Emergency_Family_Transit_Protocol.md`
+- [I] `05_Networking_and_Trade/02_Zero_Power_Communication_Protocols.md`
+- [I] `06_Transit_Guide_from_Georgia_USA.md`
+- [I] `07_Emergency_Family_Transit_Protocol.md`
 - [T] `08_Essential_Packing_List.md`
 - [T] `09_Micro_Climate_Forecasting/01_Micro_Climate_Forecasting.md`
 - [T] `09_Micro_Climate_Forecasting/02_Phenological_Indicators.md`
@@ -249,3 +249,4 @@
 | P2-1 | 2026-05-03 | 01.01, 01.02, 01.03 | **BEGIN PHASE 2: Illustrations.** Rationale (4 new ASCII diagrams: logistical reach curve, caloric budget bar chart, cart load distribution side-view, transit timeline phases; 306→398 lines), Orienting (3 new ASCII diagrams added to existing 2: resection/triangulation, terrain cross-section, cognitive map calibration; 387→462 lines), Direction (3 new ASCII diagrams added to existing 1: sun path arc equinox/solstice, shadow stick top-down, Polaris/Big Dipper finder; 353→418 lines). All existing text/headings/cross-references preserved. |
 | P2-2 | 2026-05-03 | 01.04.01, 01.04.02, 01.04.03 | Terrestrial Navigation: Rationale (3 new ASCII diagrams: bearing geometry with atan2, GPS dependency chain single-point-of-failure, navigation skill hierarchy graceful degradation; 153→208 lines), Map & Compass (3 new: baseplate compass labeled top-down, magnetic declination correction, aiming-off river/bridge technique; 175→239 lines), Celestial Nav Sun (3 new: solar arc at 3 latitudes sky dome, shadow-stick top-down step-by-step, analog watch bisector method; 207→279 lines). |
 | P2-3 | 2026-05-03 | 01.04.04, 01.04.05, 01.05.01 | Non-Motorized Transit (3 new ASCII: route comparison elevation profiles, pack animal load distribution, trail network hub-and-spoke topology; 171→243 lines), Geometric Trail Engineering (3 new + 1 existing: switchback geometry top-down, rolling dip drainage pattern, full bench vs partial bench comparison; 183→258 lines), Decentralized Networking (3 new: genetic diversity 5-node network with 50/500 rule, waystation cache concealed layout, heliograph 4-station relay chain 105 km; 179→250 lines). |
+| P2-4 | 2026-05-03 | 01.05.02, 01.06, 01.07 | Zero-Power Communication (3 new ASCII: heliograph alignment side-view, signal code timing waveforms All Clear/Emergency, OTP encryption worked example HELP→AUMM; 192→254 lines), Georgia Transit Guide (3 new + 1 existing: population density gradient Atlanta→wilderness, port-to-foothill tactical top-down, Route 1 elevation profile 280 km; 194→270 lines), Emergency Family Transit (3 new + 1 existing: HPA axis stress cascade with feedback loop, child pacing chart 6 age groups, Bug-Out Chain column formation top-down; 206→278 lines). |
