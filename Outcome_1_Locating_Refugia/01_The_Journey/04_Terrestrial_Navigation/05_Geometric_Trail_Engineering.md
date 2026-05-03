@@ -55,6 +55,27 @@ The physical basis: when the trail angle relative to the contour lines exceeds a
     *   An **approach angle**: the trail should meet the turning platform at a gentle curve (radius ≥ 3 m), not a sharp corner, to allow wheeled traffic to turn without stopping.
     *   **Drainage**: the turning platform is the lowest point of each switchback segment. Water accumulates here. Install a drainage dip or stone-lined channel to direct water off the platform.
 
+```text
+SWITCHBACK GEOMETRY (Top-Down View)
+
+    Contour lines ~~~~~~~~~~~~~~~~~~~~~~~~  (uphill)
+         ___________  5% grade
+        /           \
+       /  Approach   \  radius >= 3 m
+      /    curve      \
+     | TURNING PLATFORM|  (3 m x 5 m, flat)
+     | [grade reversal]|  <-- drainage exits here
+      \    Approach   /
+       \    curve    /
+        \___________/
+                  \   5% grade
+                   \
+    Contour lines ~~~~~~~~~~~~~~~~~~~~~~~~  (downhill)
+
+    HALF-RULE: Trail grade <= 1/2 sideslope grade
+    Example: 40% sideslope --> max 20% trail grade
+```
+
 4.  **The Topographical Masking Principle:** Trail alignment must consider visual and acoustic concealment:
     *   **Military Crest:** Build the trail 10-20 m below the ridgeline on the settlement-facing slope. This hides travelers from observation on the far side of the ridge while maintaining proximity to the ridge for route efficiency.
     *   **Canopy routing:** Where possible, route the trail under tree canopy. Avoid creating a visible linear clearing through forest. If the trail must cross open ground, route it along natural features (drainage swales, rock outcrops) that break up the visual line.
@@ -71,6 +92,34 @@ The physical basis: when the trail angle relative to the contour lines exceeds a
     | >12% | 8-12 m |
 
     These intervals prevent water from accumulating enough volume and velocity to erode the trail surface.
+
+```text
+ROLLING GRADE REVERSALS — Water Drainage Pattern
+
+    TRAIL PROFILE (side view, exaggerated vertical):
+
+       5% grade -->       5% grade -->       5% grade -->
+      __________         __________         __________
+     /          \       /          \       /          \
+    /            \_dip_/            \_dip_/            \_dip_
+                  |                  |                  |
+                  v                  v                  v
+             water exits        water exits        water exits
+             off trail          off trail          off trail
+
+    CROSS-SECTION AT ROLLING DIP:
+
+         Uphill cut bank
+              \
+               \________________________
+               |     outslope 3%  __--- |
+               |  TRAIL TREAD  __--     |
+               |           __--    dip  |
+               |        __--    lowest  |---> water drains
+               |_____---        point   |     off trail edge
+                                        \
+                                         \  fill slope
+```
 
 ---
 
@@ -109,6 +158,32 @@ BENCH CUT CROSS-SECTION
     Uphill drainage ditch    Downhill edge
     (intercepts hillside      (armored with
      water runoff)             stones if needed)
+```
+
+```text
+FULL BENCH vs PARTIAL BENCH
+
+    FULL BENCH (preferred — all cut, no fill):
+
+        Original slope \
+                        \__________________
+                        |   TRAIL TREAD    |
+                        |  (all on solid   |
+                        |   undisturbed    |
+                        |   ground)        |
+                         \_________________\__ original slope
+
+    PARTIAL BENCH (fill side may settle or fail):
+
+        Original slope \       cut
+                        \_____/_______________
+                        |  CUT  |    FILL     |
+                        | solid | (compacted  |
+                        |ground | 15 cm lifts)|
+                         ========\=============
+                                  \  fill slope (1.5:1 max)
+
+    Rule: Full bench on slopes > 50%. Partial bench on < 50%.
 ```
 
 ### Phase 3: Armoring and Drainage Structures

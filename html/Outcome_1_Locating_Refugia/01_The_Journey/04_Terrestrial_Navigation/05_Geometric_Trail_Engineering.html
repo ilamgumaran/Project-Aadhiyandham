@@ -57,6 +57,26 @@
 <li>  An <strong>approach angle</strong>: the trail should meet the turning platform at a gentle curve (radius ≥ 3 m), not a sharp corner, to allow wheeled traffic to turn without stopping.</li>
 <li>  <strong>Drainage</strong>: the turning platform is the lowest point of each switchback segment. Water accumulates here. Install a drainage dip or stone-lined channel to direct water off the platform.</li>
 </ul>
+<pre><code class="language-text">
+SWITCHBACK GEOMETRY (Top-Down View)
+
+    Contour lines ~~~~~~~~~~~~~~~~~~~~~~~~  (uphill)
+         ___________  5% grade
+        /           \
+       /  Approach   \  radius &gt;= 3 m
+      /    curve      \
+     | TURNING PLATFORM|  (3 m x 5 m, flat)
+     | [grade reversal]|  &lt;-- drainage exits here
+      \    Approach   /
+       \    curve    /
+        \___________/
+                  \   5% grade
+                   \
+    Contour lines ~~~~~~~~~~~~~~~~~~~~~~~~  (downhill)
+
+    HALF-RULE: Trail grade &lt;= 1/2 sideslope grade
+    Example: 40% sideslope --&gt; max 20% trail grade
+</code></pre>
 <ol>
 <li><strong>The Topographical Masking Principle:</strong> Trail alignment must consider visual and acoustic concealment:</li>
 </ol>
@@ -94,6 +114,33 @@
 </tr>
 </tbody></table>
 <p>These intervals prevent water from accumulating enough volume and velocity to erode the trail surface.</p>
+<pre><code class="language-text">
+ROLLING GRADE REVERSALS — Water Drainage Pattern
+
+    TRAIL PROFILE (side view, exaggerated vertical):
+
+       5% grade --&gt;       5% grade --&gt;       5% grade --&gt;
+      __________         __________         __________
+     /          \       /          \       /          \
+    /            \_dip_/            \_dip_/            \_dip_
+                  |                  |                  |
+                  v                  v                  v
+             water exits        water exits        water exits
+             off trail          off trail          off trail
+
+    CROSS-SECTION AT ROLLING DIP:
+
+         Uphill cut bank
+              \
+               \________________________
+               |     outslope 3%  __--- |
+               |  TRAIL TREAD  __--     |
+               |           __--    dip  |
+               |        __--    lowest  |---&gt; water drains
+               |_____---        point   |     off trail edge
+                                        \
+                                         \  fill slope
+</code></pre>
 <hr>
 <div class="section-practical" id="practical-implementation">
 <h2>Practical Implementation</h2>
@@ -129,6 +176,31 @@ BENCH CUT CROSS-SECTION
     Uphill drainage ditch    Downhill edge
     (intercepts hillside      (armored with
      water runoff)             stones if needed)
+</code></pre>
+<pre><code class="language-text">
+FULL BENCH vs PARTIAL BENCH
+
+    FULL BENCH (preferred — all cut, no fill):
+
+        Original slope \
+                        \__________________
+                        |   TRAIL TREAD    |
+                        |  (all on solid   |
+                        |   undisturbed    |
+                        |   ground)        |
+                         \_________________\__ original slope
+
+    PARTIAL BENCH (fill side may settle or fail):
+
+        Original slope \       cut
+                        \_____/_______________
+                        |  CUT  |    FILL     |
+                        | solid | (compacted  |
+                        |ground | 15 cm lifts)|
+                         ========\=============
+                                  \  fill slope (1.5:1 max)
+
+    Rule: Full bench on slopes &gt; 50%. Partial bench on &lt; 50%.
 </code></pre>
 <h3 id="phase-3-armoring-and-drainage-structures">Phase 3: Armoring and Drainage Structures</h3>
 <ul>

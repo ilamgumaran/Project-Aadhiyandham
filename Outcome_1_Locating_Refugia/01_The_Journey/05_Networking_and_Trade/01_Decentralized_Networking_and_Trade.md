@@ -19,6 +19,30 @@ Evolutionary biology imposes a hard constraint on isolated human populations. **
 
 Most refugia will be established by groups of 15-100 people. At this scale, **physical networking with other settlements is not a luxury — it is a biological imperative.** Without gene flow between settlements (through migration, arranged marriages, or simple population exchange), genetic bottlenecking will degrade the health of every isolated group within 3-5 generations (approximately 75-125 years).
 
+```text
+  GENETIC DIVERSITY NETWORK — The 50/500 Rule
+
+  [Settlement A]          [Settlement B]
+   (60 people) <=========> (80 people)
+       |  \   gene flow   /     |
+       |   \             /      |
+       |    v           v       |
+       |   [Settlement C]       |
+       |    (45 people)         |
+       |        |               |
+       |        v               |
+  [Settlement D] <========> [Settlement E]
+   (75 people)   gene flow   (90 people)
+
+  Network total: ~350 people --> needs 1-2 more nodes
+  Each node: 50-100 people (avoids short-term inbreeding)
+  Network goal: >500 total (long-term genetic viability)
+
+     [Isolated X]     <-- BROKEN LINK: no gene flow
+      (40 people)         genetic bottleneck in 3-5
+                          generations --> decline
+```
+
 Beyond genetics, inter-settlement networking provides:
 
 *   **Crop diversity exchange:** A single settlement's seed bank may fail to a local disease or climate shift. Access to seeds from settlements in different microclimates provides insurance.
@@ -95,6 +119,33 @@ Each waystation consists of:
 *   Backfill and compact. Scatter leaves and debris to match surrounding ground
 *   Mark the location relative to a permanent landmark (e.g., "2.5 m due North of the split boulder") in your settlement's secure logbook. Do NOT mark the site visibly at the surface
 
+```text
+  WAYSTATION CACHE LAYOUT — Top-Down View
+
+           Main Trail (DO NOT place waystation here)
+  =====================================================
+           |
+           | 300m concealed approach path
+           | (winding, through dense brush)
+           |
+      [A] Triangle Stone Marker (3 stones)
+           |
+      +----|-----------------------------+
+      |    v                             |
+      |  [B] Observation Point           |
+      |       (elevated, views trail)    |
+      |                                  |
+      |  [C] Shelter Area     [D] Cache  |
+      |   (tarp/lean-to)      (buried    |
+      |   + concealed         60-80 cm,  |
+      |     fire pit          sealed)    |
+      |                                  |
+      |         ~~~[E] Water Source~~~   |
+      |          (spring, <200m away)    |
+      +----------------------------------+
+       Hidden from trail by terrain/vegetation
+```
+
 ### Phase 3: Communication Network
 
 Establish long-range signaling between the home settlement and the first waystation, and between each waystation in the chain:
@@ -107,6 +158,26 @@ Establish long-range signaling between the home settlement and the first waystat
     *   Continuous flashing = "Attempting to establish contact — please respond"
 3.  **Agree on signaling schedule:** e.g., first hour after sunrise on the 1st, 10th, and 20th of each month. Both settlements send observers to their respective signal points. Contact is confirmed when the return signal is received.
 4.  **Backup:** If heliograph fails (overcast conditions), use smoke signals from the same hilltop points with pre-agreed smoke patterns.
+
+```text
+  HELIOGRAPH RELAY CHAIN — Line-of-Sight Signaling
+
+  Settlement                                    Settlement
+  Alpha                                         Delta
+    |                                             ^
+    v                                             |
+  [Station A]---35 km--->[Station B]---40 km--->[Station C]---30 km--->[Station D]
+   (hilltop      LoS      (hilltop      LoS      (hilltop      LoS      (hilltop
+    1,200m)     /    \     1,450m)     /    \     1,100m)     /    \     1,300m)
+              /        \             /        \             /        \
+           mirror     mirror      mirror     mirror      mirror     mirror
+           flash -->  receives    flash -->  receives    flash -->  receives
+                      & relays               & relays               & relays
+
+  Total span: ~105 km    |  Message transit time: 15-30 min
+  Each link: 30-40 km    |  Requires: clear sky + line-of-sight
+  Data rate: 10-12 words/min via Morse-like flash code
+```
 
 ### Phase 4: Trade Protocol
 

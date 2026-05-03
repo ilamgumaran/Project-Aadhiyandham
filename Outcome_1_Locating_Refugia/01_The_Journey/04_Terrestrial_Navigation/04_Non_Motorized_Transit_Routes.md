@@ -24,6 +24,25 @@ Route selection is an optimization problem with three competing variables: **dis
 
 The 40% longer valley route costs 15% less energy. In a calorie-limited scenario, the valley route extends your logistical reach by approximately 30 km.
 
+```text
+  ROUTE COMPARISON: Point A ──────────────────── Point B
+
+  MOUNTAIN ROUTE (100 km, 2000 m gain)         VALLEY ROUTE (140 km, 200 m gain)
+  Energy: 51,300 kJ (12,250 kcal)              Energy: 43,740 kJ (10,450 kcal)
+
+  Elevation Profile:                            Elevation Profile:
+        ___                                                          ___________
+       / X \    X = pass (2000 m)                   ___             /           \
+      /     \                                      /   \___________/             \
+     /       \                                    /                               \
+  A /    ↑    \ B                              A /          ↑                      \ B
+  ──    steep   ──                              ──    gradual (1-2% grade)           ──
+       10-15%                                        follows river valley
+
+  RESULT: 40% longer distance, but 15% LESS energy cost
+  >>> In calorie-limited scenarios, ALWAYS prefer the valley route <<<
+```
+
 **Energy vs. Exposure:** Following a major highway is the flattest, most direct path between most destinations. It is also the most visible, most patrolled, and most likely to be controlled by hostile actors during a crisis. Off-road routes through forest or along minor waterways trade energy efficiency for concealment. The security-energy tradeoff depends entirely on the threat environment.
 
 ### The Rail-Trail Network: Hidden Infrastructure
@@ -59,6 +78,30 @@ When wheeled transport is impractical (dense forest, steep terrain, stream cross
 | Human (cart on trail) | 40-60 kg | 15-20 km/day | Requires trail/road | 3,000-3,500 kcal food + 3-4 L water |
 
 **Mules** are the optimal pack animal for the Appalachian and Ozark terrain: they are more sure-footed than horses on steep, rocky ground; more disease-resistant; they require less feed per kilogram of cargo carried; and they have a practical working lifespan of 30-40 years. The US military used mule trains in mountainous terrain through World War II for precisely these reasons.
+
+```text
+  PACK ANIMAL LOAD DISTRIBUTION (Mule, side view)
+
+             diamond hitch lashing
+                  ╱  ╲
+      ┌──────────╳────╳──────────┐
+      │  LEFT    ║    ║   RIGHT  │  ◄── panniers (balanced L/R)
+      │ PANNIER  ║pad ║ PANNIER  │      max 30-45 kg per side
+      │ 30-45 kg ║    ║ 30-45 kg │
+      └────┬─────╨────╨─────┬────┘
+           │   saddle tree   │
+      ─────┴────┬──────┬────┴─────
+               /  MULE  \            body weight: 350-450 kg
+              /  ~~~~~~~~ \           max load: 20-25% of body wt
+             /    ┌──┐     \
+        ────/─────┘  └──────\────
+           ▓▓              ▓▓     ◄── hooves (sure-footed)
+
+  RULES:  ● Load ≤ 20-25% body weight for multi-day travel
+          ● Balance left/right within 2 kg
+          ● Keep center of gravity LOW (heavy items at bottom)
+          ● Remove saddle/panniers at every extended rest stop
+```
 
 ---
 
@@ -99,6 +142,35 @@ When wheeled transport is impractical (dense forest, steep terrain, stream cross
 *   The route crosses the Great Plains (flat, minimal water, extreme heat in summer), the Rocky Mountains (multiple passes >2,500 m elevation), and the Cascades.
 *   **Logistical reach limitation:** At ~200-260 km on carried supplies, this route requires pre-positioned caches or resupply from allied settlements every 10-15 days. Without a waystation network, this route is not self-supported.
 *   Recommended only with advance preparation, established waystation chain, and seasonal timing (depart April, cross Rockies by July-August before snow).
+
+```text
+  TRAIL NETWORK TOPOLOGY: Hub-and-Spoke with Waystations
+
+         [SETTLEMENT A]
+              │
+              │  primary trail (═══)
+              │
+         ◆ cache 1            [SETTLEMENT D]
+              │                  ╱
+    ══════════╪════════════════╱═══════════
+              │              ╱
+              │    secondary trail (- - -)
+         [HUB TOWN]- - - - - - -◆ cache 3- - -[SETTLEMENT E]
+              │╲
+              │ ╲  primary trail
+              │  ╲
+         ◆ cache 2╲
+              │     ╲
+    ══════════╪══════╲════════════
+              │       ╲
+         [SETTLEMENT B] [SETTLEMENT C]
+
+  LEGEND:  ═══  primary trail (cart-passable, <3% grade)
+           - -  secondary trail (foot/pack animal only)
+            ◆   waystation cache (water, food, shelter)
+           [ ]  settlement or refugia
+  SPACING: waystations at 15-25 km intervals (one day travel)
+```
 
 ### Route Planning Procedure
 
