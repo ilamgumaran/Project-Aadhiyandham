@@ -31,6 +31,25 @@ delta-theta (radians) = delta-x * (1/d1 - 1/d2)
 </code></pre>
 <p>This sensitivity is maximized when d1 is small relative to d2 — that is, when the front mark is close and the rear mark is far. A front mark at 200 m and a rear mark at 2000 m gives ten times the sensitivity of two marks both at 2000 m. Practical consequence: always choose the closest identifiable object as your front mark.</p>
 <p><strong>Universality.</strong> Every maritime culture developed transit navigation independently. Polynesian navigators aligned reef passages with mountain peaks. Norse sailors aligned cairns on headlands. Tamil fishermen aligned temple towers with coconut palms. The transit is the most reliable position line available to any navigator, past or present.</p>
+<pre><code class="language-text">
+              TRANSIT BEARING — TOP-DOWN VIEW
+
+     SHORE                                    SHORE
+  ~~~~~~~~~~~      Rear Mark (R)       ~~~~~~~~~~~
+  ~~~~~~~~~~~          [R]             ~~~~~~~~~~~
+  ~~~~~~~~~~~           |              ~~~~~~~~~~~
+  ~~~~~~~~~~~           |  Transit     ~~~~~~~~~~~
+  ~~~~~~~~~~~      Front Mark (F)      ~~~~~~~~~~~
+  ~~~~~~~~~~~          [F]             ~~~~~~~~~~~
+  ~~~~~~~~~~~        ./ | \.           ~~~~~~~~~~~
+  ~~~~ UNSAFE ~~ . /   |   \ .  ~~ UNSAFE ~~~~~~~~
+  ~~~~~~~~~~~ /     |     \  ~~~~~~~~~~~
+            /       |       \
+   off-line    ON TRANSIT    off-line
+   (marks     LINE (safe     (marks
+   separate)   corridor)     separate)
+              [BOAT]
+</code></pre>
 <h3 id="the-three-point-fix-cocked-hat">The Three-Point Fix (Cocked Hat)</h3>
 <p>Three transits or three compass bearings to known landmarks define three position lines. In theory they intersect at a single point. In practice, observation errors cause the three lines to form a small triangle — the <strong>cocked hat</strong>. The navigator's true position lies within or very near this triangle.</p>
 <p><strong>Accuracy criteria:</strong></p>
@@ -41,6 +60,27 @@ delta-theta (radians) = delta-x * (1/d1 - 1/d2)
 <li>Separations of 30 degrees or 150 degrees produce elongated, unreliable triangles.</li>
 </ul>
 <p><strong>Error distribution.</strong> If all three bearings have equal random error sigma, the area of the cocked hat scales as sigma-squared. Halving your observation error reduces the triangle area by a factor of four.</p>
+<pre><code class="language-text">
+         THREE-POINT FIX — TOP-DOWN CHART VIEW
+
+              (A) Lighthouse
+               *
+              /|\
+             / | \
+            /  |  \
+           /   |   \      (B) Church tower
+          / brg|brg  \       *
+         /  320|042    \    /
+        /     .|.       \  /  brg 118
+       /   . &#x27; | &#x27; .     \/
+      / .&#x27; cocked  &#x27;.\  /
+     /.&#x27;    hat  ___/ &#x27;./
+    .&#x27;---__FIX__---&#x27;  .
+   /   (triangle of  \
+  /      error)        \
+ *
+(C) Hill summit
+</code></pre>
 <h3 id="vertical-sextant-angle-vsa">Vertical Sextant Angle (VSA)</h3>
 <p>If the height of a landmark is known (a cliff, mountain, lighthouse), measuring the vertical angle between its peak and the waterline yields distance:</p>
 <pre><code>
@@ -55,6 +95,28 @@ Distance (m) = Height (m) * 57.3 / angle (degrees)
 Distance = 500 / tan(2 deg) = 500 / 0.0349 = 14,326 m = 14.3 km
 </code></pre>
 <p>This measurement can be taken with a simple <strong>protractor-and-plumb-bob sextant</strong> — a protractor with a weighted string hanging from the center pivot, and a sighting tube or straw along the straight edge. Accuracy: plus or minus 0.25 degrees with care, yielding distance accuracy of roughly plus or minus 12 percent at small angles.</p>
+<pre><code class="language-text">
+    VERTICAL SEXTANT ANGLE — SIDE VIEW
+
+                         * Peak (known height H)
+                        /|
+                       / |
+                      /  |
+                     /   |
+                    /    | H (e.g. 500 m)
+                   /     |
+                  / angle |
+                 /  (a)  |
+    ____________/________|________________
+    ~~~~~~~~~~~/ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~
+    ~~[BOAT]~~/ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~~
+    ~~ eye ~~  ~ ~ ~ ~ ~ ~ ~ WATERLINE ~
+    ~~~~~~~~~~  ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~~
+    |&lt;-------- d = H / tan(a) --------&gt;|
+
+    Observer measures angle (a) from waterline
+    to peak, then computes distance d.
+</code></pre>
 <p><strong>VSA distance table for common angles and heights:</strong></p>
 <table><thead><tr>
 <th>Landmark Height</th>

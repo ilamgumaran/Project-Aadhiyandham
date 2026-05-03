@@ -20,6 +20,28 @@ Q = A x V
 
 Where Q is volumetric flow rate (m^3/s), A is cross-sectional area (m^2), and V is mean velocity (m/s). Flow rate Q remains constant along a reach (water is incompressible and neither created nor destroyed between tributaries). The critical implication: if a river narrows, velocity must increase proportionally. A river flowing at 2 m/s through a 30 m wide channel will accelerate to approximately 6 m/s if the channel narrows to 10 m — the same volume of water forced through one-third the area. This is why narrows and constrictions are inherently dangerous, and why the sound of a river changes pitch as it approaches a gorge.
 
+```text
+CONTINUITY EQUATION — RIVER CROSS-SECTIONS (looking downstream)
+
+  WIDE SECTION (slow)              NARROW SECTION (fast)
+  A = 30 m^2, V = 2 m/s           A = 10 m^2, V = 6 m/s
+
+  <-- 30 m wide -->                <- 10 m ->
+  ~~~~~~~~~~~~~~~~~~               ~~~~~~~~~~
+  |  --> --> --> -->|               | ==>==>==>|
+  |  --> --> --> -->|               | ==>==>==>|
+  |  --> --> --> -->|               | ==>==>==>|
+  |________________|               | ==>==>==>|
+   depth ~1 m                      | ==>==>==>|
+                                   |__________|
+                                    depth ~3 m
+
+  Q = 30 x 2 = 60 m^3/s    =     Q = 10 x 6 = 60 m^3/s
+
+  Same Q throughout: water narrows --> velocity increases
+  Arrow density shows relative speed of flow
+```
+
 ### Reynolds Number
 
 The Reynolds Number predicts whether flow will be laminar (smooth, predictable) or turbulent (chaotic, eddy-generating):
@@ -121,6 +143,28 @@ All river sections can be classified using the International Scale. This classif
 | VI | Nearly Impossible | Extreme, virtually unrunnable | Risk of death is substantial | No — absolute portage |
 
 **Rule**: Loaded cargo vessels should not attempt anything above Class II. Scouting from shore is mandatory for anything above Class I. When in doubt about classification, treat the section as one class higher than your estimate.
+
+```text
+RAPIDS CLASSIFICATION — VISUAL PROFILES (side view, looking across river)
+
+Class I      ~~~__~~~__~~~__~~~       Small ripples, regular pattern
+             ________________________ Flat, even bottom
+
+Class II     ~~\/~~__/\~~\/~~__      Moderate waves up to 0.6 m
+             ____/\______/\_________ Some rocks, wide passages
+
+Class III    ~\/\/~_/\/\~__/\~/\~    Irregular waves to 1.0 m
+             __/\/\__/\__/\/\_______ Narrow passages, strong eddies
+
+Class IV     \/\/\/\/\~/\/\/\/\/\    Powerful, continuous hydraulics
+             /\/\/\__/\/\/\__/\/\/\_ Precise moves mandatory
+
+Class V+     \/\/|/\/\|/\/\/|/\/\   Violent, holes, reversals
+             /\/\|/\/\|/\/\/|/\/\/\ PORTAGE — risk of death
+
+  wave height:  ~0.1m   ~0.6m    ~1.0m    ~1.5m+    ~2.0m+
+  cargo vessel:  YES     CAUTION   NO       NO        NO
+```
 
 ### Reading Water Features
 
@@ -227,6 +271,26 @@ A simple field method for measuring current velocity:
 ## Common Failure Modes
 
 1. **Strainer entrapment.** Fallen trees, root masses, and log jams allow water to flow through but trap vessels and people against the debris. Strainers are the single deadliest river hazard because they are often invisible until it is too late and escape is nearly impossible once pinned. ALWAYS scout for strainers before entering any section. If you are being swept toward a strainer and cannot avoid it: lean INTO the strainer and attempt to climb over it. Leaning away from the strainer causes the current to push the upstream gunwale under water, flooding the vessel and pulling you under the debris.
+
+```text
+STRAINER HAZARD — PLAN VIEW (looking down)
+
+    Current ==>  ==>  ==>  ==>  ==>  ==>  ==>
+
+         ______________________________
+        /  Fallen tree trunk            \  <-- Bank
+       /____________|___|___|____________\
+                    |   |   |
+    ==> ==>  ==>  /|\ /|\ /|\   Branches in water
+    ==> ==>  ==> / | \| |/ | \  (water passes through,
+    ==> ==>  ==>   |  |  | |     solids DO NOT)
+                    |  |  | |
+    WRONG:                       CORRECT:
+    Lean AWAY from strainer      Lean INTO strainer
+    [===X    current pushes      [===>    climb OVER
+      gunwale under water,         lean toward debris,
+      vessel floods, LETHAL        body stays on surface
+```
 
 2. **Broaching in rapids.** The vessel turns sideways to the current and wraps around a rock or obstacle. Once broached, the full force of the current pins the vessel in place — thousands of kilograms of force that no human effort can overcome. Immediate response: high-brace on the downstream side and lean the vessel aggressively downstream. This lifts the upstream gunwale above the water and prevents the current from flooding over it. If the vessel is already taking water over the upstream gunwale, abandon the vessel immediately — a water-filled vessel pinned by current becomes a deathtrap.
 

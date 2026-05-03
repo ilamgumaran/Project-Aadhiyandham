@@ -28,9 +28,9 @@
 - [I] `08_Essential_Packing_List.md`
 - [I] `09_Micro_Climate_Forecasting/01_Micro_Climate_Forecasting.md`
 - [I] `09_Micro_Climate_Forecasting/02_Phenological_Indicators.md`
-- [T] `10_Maritime_and_Riverine_Sovereignty/01_Rationale_and_Importance.md`
-- [T] `10_Maritime_and_Riverine_Sovereignty/02_Non_Motorized_Coastal_Piloting.md`
-- [T] `10_Maritime_and_Riverine_Sovereignty/03_Riverine_Logic.md`
+- [I] `10_Maritime_and_Riverine_Sovereignty/01_Rationale_and_Importance.md`
+- [I] `10_Maritime_and_Riverine_Sovereignty/02_Non_Motorized_Coastal_Piloting.md`
+- [I] `10_Maritime_and_Riverine_Sovereignty/03_Riverine_Logic.md`
 - [T] `10_Maritime_and_Riverine_Sovereignty/04_Salt_Spray_Management.md`
 
 ### 02 The Site
@@ -251,3 +251,4 @@
 | P2-3 | 2026-05-03 | 01.04.04, 01.04.05, 01.05.01 | Non-Motorized Transit (3 new ASCII: route comparison elevation profiles, pack animal load distribution, trail network hub-and-spoke topology; 171→243 lines), Geometric Trail Engineering (3 new + 1 existing: switchback geometry top-down, rolling dip drainage pattern, full bench vs partial bench comparison; 183→258 lines), Decentralized Networking (3 new: genetic diversity 5-node network with 50/500 rule, waystation cache concealed layout, heliograph 4-station relay chain 105 km; 179→250 lines). |
 | P2-4 | 2026-05-03 | 01.05.02, 01.06, 01.07 | Zero-Power Communication (3 new ASCII: heliograph alignment side-view, signal code timing waveforms All Clear/Emergency, OTP encryption worked example HELP→AUMM; 192→254 lines), Georgia Transit Guide (3 new + 1 existing: population density gradient Atlanta→wilderness, port-to-foothill tactical top-down, Route 1 elevation profile 280 km; 194→270 lines), Emergency Family Transit (3 new + 1 existing: HPA axis stress cascade with feedback loop, child pacing chart 6 age groups, Bug-Out Chain column formation top-down; 206→278 lines). |
 | P2-5 | 2026-05-03 | 01.08, 01.09.01, 01.09.02 | Essential Packing List (3 new ASCII: pack loading zones side-view, irreplaceability hierarchy pyramid 6-tier, weight budget horizontal bar chart 7 categories; 277→347 lines), Micro-Climate Forecasting (3 new: adiabatic lapse rate mountain cross-section DALR/MALR, cloud type altitude chart 3 bands, sling psychrometer schematic with lookup table; 295→358 lines), Phenological Indicators (3 new: GDD S-curve accumulation Jan-Dec with 5 species thresholds, Hopkins' Bioclimatic Law 3-site cross-section, phenological decision flowchart 4-step confirmation; 252→325 lines). |
+| P2-6 | 2026-05-03 | 01.10.01, 01.10.02, 01.10.03 | Maritime Rationale (3 new ASCII: transport energy horizontal bar chart 5 modes, Archimedes displacement hull cross-section, sail force top-down drive/drift decomposition; 210→277 lines), Coastal Piloting (3 new: transit bearing corridor top-down, three-point fix cocked hat triangle, vertical sextant angle side-view with formula; 314→379 lines), Riverine Logic (3 new: continuity equation Q=AV wide/narrow cross-sections, rapids Class I-VI wave profiles, strainer hazard plan view with correct lean response; 297→361 lines). **Section 01 The Journey: 18/19 modules at [I] — 1 remaining (Salt Spray).** |

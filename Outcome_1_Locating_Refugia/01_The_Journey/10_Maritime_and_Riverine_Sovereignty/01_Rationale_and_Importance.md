@@ -20,11 +20,51 @@ On flat water with no current, a displacement hull experiences approximately one
 
 When favorable current (river) or wind (sail) provides the motive force, the energy cost to the crew approaches zero. The cargo moves; the humans merely steer. This is the foundational advantage.
 
+```text
+  Transport Energy Cost per Tonne-km (relative scale)
+  ─────────────────────────────────────────────────────
+  Human porter  ████████████████████████████████████████  100
+  Ox cart       ██████████████████████████               65
+  Horse cart    ████████████████████                     50
+  River barge   ████████                                20
+  Coastal sail  ████                                    10
+  ─────────────────────────────────────────────────────
+                0    20    40    60    80    100
+                     Energy units (human porter = 100)
+
+  KEY: Water transport uses 5-10x LESS energy per tonne-km
+       than any land-based method. When wind or current
+       provides motive force, crew energy cost approaches zero.
+```
+
 ### Archimedes' Principle and Shallow-Water Navigation
 
 A vessel displaces a volume of water equal to its own mass divided by the density of water. A 500 kg loaded canoe (hull + crew + cargo) displaces 0.5 m cubed of water. For a canoe with a beam of 0.8 m and a waterline length of 4 m, this corresponds to a draft of approximately 15-20 cm, depending on hull geometry.
 
 The practical consequence: any body of water deeper than approximately 30 cm can support significant cargo loads in an appropriately designed flat-bottom vessel. Rivers as shallow as 50 cm are fully navigable with punt-style or pirogue-type craft. This opens enormous stretches of waterway that would appear "too shallow" to the uninitiated.
+
+```text
+  Cross-Section of Hull in Water (Archimedes' Principle)
+  ══════════════════════════════════════════════════════
+
+              cargo + crew + hull
+            ┌──────────────────────┐
+            │    VESSEL  500 kg    │
+  ~~~~~~~~~~├══════════════════════├~~~~~~~~~~ waterline
+        ····│//////DISPLACED//////│····
+        ····│////WATER VOLUME/////│····
+        ····│///0.5 m^3 of water//│····
+        ····└──────────┬───────────┘····
+        ···············│····················
+                       │
+         ▲  Buoyancy   │   Weight  ▼
+         │  Force (up)  │   Force (down)
+         │  = 500 kgf   │   = 500 kgf
+                       │
+  EQUILIBRIUM: Buoyancy = Weight of displaced water
+  Draft (depth below waterline) depends on hull shape.
+  A flat-bottom hull spreads load wide = shallow draft.
+```
 
 ### The Sail as a Force Multiplier
 
@@ -33,6 +73,33 @@ Wind is free mechanical energy. A simple square sail of 5 m squared, oriented pe
 A square sail, however, can only drive a vessel roughly downwind (within about 20 degrees of the wind bearing). A lateen or fore-and-aft rig transforms the equation: by generating lift rather than pure drag, these rigs permit sailing within 45 degrees of the wind direction. With tacking (zigzagging upwind), a fore-and-aft rigged vessel can make progress in nearly any direction regardless of wind bearing. The only true dead zone is directly into the wind, and even then, tacking at 45 degrees achieves a velocity-made-good of roughly 0.5-0.7x the beam-reach speed.
 
 For a post-infrastructure settlement, the ability to rig even a crude sail from salvaged fabric, bark cloth, or woven matting converts a paddled vessel into a wind-powered cargo platform. The labor savings are transformative.
+
+```text
+  Sail Force Diagram (top-down view)
+  ═══════════════════════════════════
+
+  TRUE WIND ====>  ====>  ====>  ====>  (from left)
+
+                  APPARENT WIND
+                    \\
+                     \\    /--- SAIL ---\
+                      \\ /               \
+              - - - - -X vessel center   |
+                      / \               /
+                     /   \--- SAIL ---/
+                    /
+               RESULTANT FORCE
+              /              \
+             /                \
+      FORWARD              LATERAL
+       DRIVE  ------>       DRIFT
+      (propels              |  (resisted by
+       vessel)              v   keel or
+                               centerboard)
+
+  The keel converts sideways force into forward motion.
+  Fore-and-aft rigs sail within 45 deg of the wind.
+```
 
 ### Historical Precedent
 

@@ -29,6 +29,27 @@
 Q = A x V
 </code></pre>
 <p>Where Q is volumetric flow rate (m^3/s), A is cross-sectional area (m^2), and V is mean velocity (m/s). Flow rate Q remains constant along a reach (water is incompressible and neither created nor destroyed between tributaries). The critical implication: if a river narrows, velocity must increase proportionally. A river flowing at 2 m/s through a 30 m wide channel will accelerate to approximately 6 m/s if the channel narrows to 10 m — the same volume of water forced through one-third the area. This is why narrows and constrictions are inherently dangerous, and why the sound of a river changes pitch as it approaches a gorge.</p>
+<pre><code class="language-text">
+CONTINUITY EQUATION — RIVER CROSS-SECTIONS (looking downstream)
+
+  WIDE SECTION (slow)              NARROW SECTION (fast)
+  A = 30 m^2, V = 2 m/s           A = 10 m^2, V = 6 m/s
+
+  &lt;-- 30 m wide --&gt;                &lt;- 10 m -&gt;
+  ~~~~~~~~~~~~~~~~~~               ~~~~~~~~~~
+  |  --&gt; --&gt; --&gt; --&gt;|               | ==&gt;==&gt;==&gt;|
+  |  --&gt; --&gt; --&gt; --&gt;|               | ==&gt;==&gt;==&gt;|
+  |  --&gt; --&gt; --&gt; --&gt;|               | ==&gt;==&gt;==&gt;|
+  |________________|               | ==&gt;==&gt;==&gt;|
+   depth ~1 m                      | ==&gt;==&gt;==&gt;|
+                                   |__________|
+                                    depth ~3 m
+
+  Q = 30 x 2 = 60 m^3/s    =     Q = 10 x 6 = 60 m^3/s
+
+  Same Q throughout: water narrows --&gt; velocity increases
+  Arrow density shows relative speed of flow
+</code></pre>
 <h3 id="reynolds-number">Reynolds Number</h3>
 <p>The Reynolds Number predicts whether flow will be laminar (smooth, predictable) or turbulent (chaotic, eddy-generating):</p>
 <pre><code>
@@ -145,6 +166,27 @@ Cross-section of a river bend (looking downstream):
 </tr>
 </tbody></table>
 <p><strong>Rule</strong>: Loaded cargo vessels should not attempt anything above Class II. Scouting from shore is mandatory for anything above Class I. When in doubt about classification, treat the section as one class higher than your estimate.</p>
+<pre><code class="language-text">
+RAPIDS CLASSIFICATION — VISUAL PROFILES (side view, looking across river)
+
+Class I      ~~~__~~~__~~~__~~~       Small ripples, regular pattern
+             ________________________ Flat, even bottom
+
+Class II     ~~\/~~__/\~~\/~~__      Moderate waves up to 0.6 m
+             ____/\______/\_________ Some rocks, wide passages
+
+Class III    ~\/\/~_/\/\~__/\~/\~    Irregular waves to 1.0 m
+             __/\/\__/\__/\/\_______ Narrow passages, strong eddies
+
+Class IV     \/\/\/\/\~/\/\/\/\/\    Powerful, continuous hydraulics
+             /\/\/\__/\/\/\__/\/\/\_ Precise moves mandatory
+
+Class V+     \/\/|/\/\|/\/\/|/\/\   Violent, holes, reversals
+             /\/\|/\/\|/\/\/|/\/\/\ PORTAGE — risk of death
+
+  wave height:  ~0.1m   ~0.6m    ~1.0m    ~1.5m+    ~2.0m+
+  cargo vessel:  YES     CAUTION   NO       NO        NO
+</code></pre>
 <h3 id="reading-water-features">Reading Water Features</h3>
 <p>The following table summarizes the visual language of moving water. Learn these patterns and you can read any river.</p>
 <table><thead><tr>
@@ -308,6 +350,27 @@ FERRY GLIDE — PLAN VIEW (looking down)
 <h2>Common Failure Modes</h2>
 <ol>
 <li><strong>Strainer entrapment.</strong> Fallen trees, root masses, and log jams allow water to flow through but trap vessels and people against the debris. Strainers are the single deadliest river hazard because they are often invisible until it is too late and escape is nearly impossible once pinned. ALWAYS scout for strainers before entering any section. If you are being swept toward a strainer and cannot avoid it: lean INTO the strainer and attempt to climb over it. Leaning away from the strainer causes the current to push the upstream gunwale under water, flooding the vessel and pulling you under the debris.</li>
+</ol>
+<pre><code class="language-text">
+STRAINER HAZARD — PLAN VIEW (looking down)
+
+    Current ==&gt;  ==&gt;  ==&gt;  ==&gt;  ==&gt;  ==&gt;  ==&gt;
+
+         ______________________________
+        /  Fallen tree trunk            \  &lt;-- Bank
+       /____________|___|___|____________\
+                    |   |   |
+    ==&gt; ==&gt;  ==&gt;  /|\ /|\ /|\   Branches in water
+    ==&gt; ==&gt;  ==&gt; / | \| |/ | \  (water passes through,
+    ==&gt; ==&gt;  ==&gt;   |  |  | |     solids DO NOT)
+                    |  |  | |
+    WRONG:                       CORRECT:
+    Lean AWAY from strainer      Lean INTO strainer
+    [===X    current pushes      [===&gt;    climb OVER
+      gunwale under water,         lean toward debris,
+      vessel floods, LETHAL        body stays on surface
+</code></pre>
+<ol>
 <li><strong>Broaching in rapids.</strong> The vessel turns sideways to the current and wraps around a rock or obstacle. Once broached, the full force of the current pins the vessel in place — thousands of kilograms of force that no human effort can overcome. Immediate response: high-brace on the downstream side and lean the vessel aggressively downstream. This lifts the upstream gunwale above the water and prevents the current from flooding over it. If the vessel is already taking water over the upstream gunwale, abandon the vessel immediately — a water-filled vessel pinned by current becomes a deathtrap.</li>
 <li><strong>Hydraulic trap.</strong> A recirculating hole (reversal) captures the vessel and holds it in the recirculation indefinitely. The surface current flows upstream back into the hole, and the vessel cannot escape by paddling forward. If trapped in a hole: attempt to paddle laterally toward the edge of the hole where the recirculation weakens. If that fails, abandon the vessel. Swim to the bottom of the river — the outflow current at depth flows downstream and will flush you past the recirculation. This is counterintuitive but physically correct: the recirculation only affects the surface. The deep current always flows downstream.</li>
 <li><strong>Undercut bank collision.</strong> The outside of bends often features undercut rock or soil — the bank extends outward beneath the waterline, creating a void that can trap a vessel swept underneath. Undercut banks are invisible from the water surface. Stay clear of outside banks in bends, especially where you can see active erosion, exposed roots, or dark shadows at the waterline. If swept toward an undercut bank, paddle aggressively away from the bank. If contact is imminent, lean toward the bank (counterintuitively) to prevent the current from pushing the upstream gunwale under.</li>

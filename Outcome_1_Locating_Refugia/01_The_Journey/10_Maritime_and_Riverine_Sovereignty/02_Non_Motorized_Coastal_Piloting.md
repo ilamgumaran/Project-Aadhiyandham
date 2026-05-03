@@ -24,6 +24,26 @@ This sensitivity is maximized when d1 is small relative to d2 — that is, when 
 
 **Universality.** Every maritime culture developed transit navigation independently. Polynesian navigators aligned reef passages with mountain peaks. Norse sailors aligned cairns on headlands. Tamil fishermen aligned temple towers with coconut palms. The transit is the most reliable position line available to any navigator, past or present.
 
+```text
+              TRANSIT BEARING — TOP-DOWN VIEW
+
+     SHORE                                    SHORE
+  ~~~~~~~~~~~      Rear Mark (R)       ~~~~~~~~~~~
+  ~~~~~~~~~~~          [R]             ~~~~~~~~~~~
+  ~~~~~~~~~~~           |              ~~~~~~~~~~~
+  ~~~~~~~~~~~           |  Transit     ~~~~~~~~~~~
+  ~~~~~~~~~~~      Front Mark (F)      ~~~~~~~~~~~
+  ~~~~~~~~~~~          [F]             ~~~~~~~~~~~
+  ~~~~~~~~~~~        ./ | \.           ~~~~~~~~~~~
+  ~~~~ UNSAFE ~~ . /   |   \ .  ~~ UNSAFE ~~~~~~~~
+  ~~~~~~~~~~~ /     |     \  ~~~~~~~~~~~
+            /       |       \
+   off-line    ON TRANSIT    off-line
+   (marks     LINE (safe     (marks
+   separate)   corridor)     separate)
+              [BOAT]
+```
+
 ### The Three-Point Fix (Cocked Hat)
 
 Three transits or three compass bearings to known landmarks define three position lines. In theory they intersect at a single point. In practice, observation errors cause the three lines to form a small triangle — the **cocked hat**. The navigator's true position lies within or very near this triangle.
@@ -35,6 +55,28 @@ Three transits or three compass bearings to known landmarks define three positio
 - Separations of 30 degrees or 150 degrees produce elongated, unreliable triangles.
 
 **Error distribution.** If all three bearings have equal random error sigma, the area of the cocked hat scales as sigma-squared. Halving your observation error reduces the triangle area by a factor of four.
+
+```text
+         THREE-POINT FIX — TOP-DOWN CHART VIEW
+
+              (A) Lighthouse
+               *
+              /|\
+             / | \
+            /  |  \
+           /   |   \      (B) Church tower
+          / brg|brg  \       *
+         /  320|042    \    /
+        /     .|.       \  /  brg 118
+       /   . ' | ' .     \/
+      / .' cocked  '.\  /
+     /.'    hat  ___/ './
+    .'---__FIX__---'  .
+   /   (triangle of  \
+  /      error)        \
+ *
+(C) Hill summit
+```
 
 ### Vertical Sextant Angle (VSA)
 
@@ -57,6 +99,29 @@ Distance = 500 / tan(2 deg) = 500 / 0.0349 = 14,326 m = 14.3 km
 ```
 
 This measurement can be taken with a simple **protractor-and-plumb-bob sextant** — a protractor with a weighted string hanging from the center pivot, and a sighting tube or straw along the straight edge. Accuracy: plus or minus 0.25 degrees with care, yielding distance accuracy of roughly plus or minus 12 percent at small angles.
+
+```text
+    VERTICAL SEXTANT ANGLE — SIDE VIEW
+
+                         * Peak (known height H)
+                        /|
+                       / |
+                      /  |
+                     /   |
+                    /    | H (e.g. 500 m)
+                   /     |
+                  / angle |
+                 /  (a)  |
+    ____________/________|________________
+    ~~~~~~~~~~~/ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~
+    ~~[BOAT]~~/ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~~
+    ~~ eye ~~  ~ ~ ~ ~ ~ ~ ~ WATERLINE ~
+    ~~~~~~~~~~  ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~~
+    |<-------- d = H / tan(a) -------->|
+
+    Observer measures angle (a) from waterline
+    to peak, then computes distance d.
+```
 
 **VSA distance table for common angles and heights:**
 
