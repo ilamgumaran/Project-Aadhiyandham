@@ -38,7 +38,50 @@ Without these baselines, a community may build an entire settlement on soil that
 
 **The soil food web.** Soil fertility is not just chemistry — it is biology. A teaspoon of healthy soil contains 1 billion bacteria, 10,000 protozoa, 10-50 meters of fungal hyphae, and thousands of nematodes. These organisms cycle nutrients from organic matter into plant-available forms. Without this biological community, even chemically rich soil is infertile. Indicators of a healthy soil food web: earthworms present (>5 per shovelful), soil smells "earthy" (actinomycete bacteria), crumbly aggregated structure (not compacted or powdery).
 
+```text
+  SOIL FOOD WEB — Simplified Trophic Diagram
+  ============================================
+       PLANT ROOTS (nutrient uptake)
+        ^            |
+        |            | (litter, root exudates)
+        |            v
+   ARTHROPODS &   ORGANIC MATTER (dead leaves, manure, compost)
+   EARTHWORMS        |
+   (shredders)       v
+        ^      BACTERIA + FUNGI (decomposers)
+        |         |           |
+        |         v           v
+        +--- PROTOZOA    NEMATODES (grazers)
+              |               |
+              +-------+-------+
+                      v
+            Mineralized nutrients
+            (N, P, K into soil for roots)
+```
+
 **The cation exchange capacity (CEC) concept simplified.** Clay and organic matter particles carry negative surface charges that hold positively charged nutrients (K+, Ca2+, Mg2+, NH4+) like magnets. Sandy soil has low CEC (nutrients wash away); clay-rich soil has high CEC (nutrients retained). This is why clay content (from the ribbon/jar test in Module 06) directly predicts fertility retention. Adding biochar increases CEC dramatically (the principle behind Terra Preta).
+
+```text
+  CATION EXCHANGE CAPACITY (CEC) — Soil Type Comparison
+  ======================================================
+  cmol(+)/kg
+  150 |                                         ####
+  120 |                                         ####
+      |                              ####       ####
+  100 |                    ####      ####       ####
+   80 |                    ####      ####       ####
+   60 |                    ####      ####       ####
+   40 |                    ####      ####       ####
+      |            ####    ####      ####       ####
+   20 |            ####    ####      ####       ####
+      |    ####    ####    ####      ####       ####
+    0 +----####----####----####------####-------####---
+         Sand     Loam    Clay     Humus     Biochar
+         (~5)    (~15)   (~30)    (~100)    (50-150)
+
+       LOW CEC ------> nutrients wash away with rain
+       HIGH CEC -----> nutrients held for plant roots
+```
 
 **Scientific validation.** Peoples et al. (2009, *Symbiosis*) compiled data showing legume cover crops fix 50-200 kg N/ha/year depending on species and climate, confirming the feasibility of indefinite nitrogen cycling without synthetic inputs. Cordell et al. (2009, *Global Environmental Change*) identified phosphorus as the nutrient most likely to limit food production in the absence of mined phosphate rock, with global reserves declining. The humanure cycle is the only closed-loop P recovery method that scales to community level without industrial chemistry. Rosenberg & Resh (1993, *Freshwater Biomonitoring and Benthic Macroinvertebrates*) established that macroinvertebrate community composition correlates with water quality at >90% accuracy compared to chemical analysis, making it the gold standard for zero-tech water assessment. Ellenberg's indicator values (1979, revised 2001) provide the empirical basis for using nettle (*Urtica dioica*) as a nitrogen indicator, with strong presence correlating to soil N > 200 mg/kg.
 
@@ -151,6 +194,31 @@ A quick field test for overall soil health. Dig a 30cm x 30cm x 30cm block of so
 | 0 (in moist soil) | Suspect | Possible contamination — investigate with other screening tests |
 
 Perform the earthworm census at the same time as the dig test (soil depth assessment). Count in each of the 5 test pits for a site-wide picture.
+
+```text
+  EARTHWORM CENSUS METHOD
+  ========================
+
+  TOP VIEW (mark on ground)       SIDE VIEW (dig profile)
+  +----------+ 30 cm              ground level
+  |          |                    ~~~~~~~~~~~~~~~~~~~~~~~~~~~
+  |  census  |  30 cm             |          |
+  |  square  |                    |  Sort    |  30 cm deep
+  |          |                    |  through |
+  +----------+                    |  soil    |
+                                  +----------+
+
+  PROCEDURE:
+   1. Mark 30x30 cm square on soil surface
+   2. Dig out soil to 30 cm depth
+   3. Spread soil on flat surface, count ALL worms
+
+  HEALTH RATING:
+   <5 worms  = POOR .       (rebuild with compost/mulch)
+   5-10      = MODERATE ..  (functional, improve over time)
+   10-20     = GOOD ...     (healthy nutrient cycling)
+   >20       = EXCELLENT .. (prime soil biology)
+```
 
 ### Water Quality Assessment
 

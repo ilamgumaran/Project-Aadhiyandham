@@ -38,7 +38,47 @@ Without these thresholds, a community may slowly starve over 20 years without re
 
 **The climate envelope concept formalized.** Every species (including humans) has a multidimensional climate envelope defined by temperature range, precipitation range, seasonality, and extreme event frequency. When conditions move outside this envelope, the population must adapt (change behavior/crops), migrate (relocate), or die. The thresholds in this module define the envelope for a self-sufficient agricultural settlement.
 
+```text
+    Climate Envelope: Wheat Temperature Tolerance
+    (crop yield vs. temperature)
+
+    Yield
+     |
+ 100%|          .--****--.
+     |        ./    |     \.
+  75%|       /   ADAPTATION \         * = current climate
+     |      /    ZONE  |     \        o = projected +2C
+  50%|     /       |   |      \
+     |    /        |   |   o   \
+  25%|   /         |   | o  o   \
+     |  /          |   |  FAILURE \
+   0%|-/-----------|---|----ZONE---\------->
+     0C    10C   *20C* 25C  30C   40C   Temp
+                Optimum
+                         |<------->|
+                         Stress Range
+```
+
 **Climate inertia and lag.** Even if global emissions stopped today, committed warming of 0.5-1.0 degrees C over the next 50 years is locked in due to ocean thermal inertia. Planning must account for conditions that will be different from today even in the best-case scenario. The thermal mass of the oceans absorbs heat slowly and releases it slowly; the warming already absorbed but not yet expressed at the surface guarantees future change regardless of human action. This means site selection must target conditions viable not only today but under an additional 0.5-1.0 degrees C of warming.
+
+```text
+    Committed Warming Timeline (if all emissions stop NOW)
+
+    NOW        +10yr       +30yr       +50yr       +100yr     +300yr
+     |           |           |           |           |          |
+     v           v           v           v           v          v
+    EMISSIONS===STOP===
+    Temp   ~~~~~~~~~RISING~~~~~~~~~>  ....stabilizes....
+           +0.3C       +0.7C        +1.0C      +1.0C
+                  (ocean thermal inertia)
+
+    Sea    ~~~~~~~~~~~~~~RISING~~~~~~~~~~~~RISING~~~~~~~~~>
+    Level  +5cm        +15cm        +30cm      +60cm
+                  (ice sheet + thermal expansion)
+
+    ~~~~ = active change   .... = plateau
+    Lag: 20-50yr for temperature, CENTURIES for sea level
+```
 
 **Expected outcome.** A site-specific climate envelope with quantified thresholds for human survival, crop viability, and water security. A monitoring protocol that provides 5-10 years of advance warning before any threshold is breached.
 
@@ -57,6 +97,37 @@ Without these thresholds, a community may slowly starve over 20 years without re
 4. **The Crop Portfolio Strategy.** Maintain 3 or more staple crops spanning different climate tolerances. If warming kills the cold-adapted crop, the heat-tolerant one may survive. If drought kills the water-dependent crop, the drought-resistant one carries the community. Monoculture is a bet; polyculture is insurance.
 
 5. **The Relocation Trigger.** Define in advance what conditions will trigger site abandonment. Deciding during a crisis — when food stores are depleted and morale is broken — is too late. The Climate Envelope Scorecard provides the trigger: 3 or more failures means active scouting begins while the community can still sustain the effort.
+
+```text
+    Relocation Trigger Doctrine — Decision Flowchart
+
+         +---------------------------+
+         | Monitor 5-year rolling    |<-----------+
+         | average (scorecard data)  |            |
+         +------------+--------------+            |
+                      |                           |
+                      v                           |
+              +-------+--------+                  |
+              | Has threshold  |   NO             |
+              | been crossed?  +-------->---------+
+              +-------+--------+      Continue
+                      | YES           monitoring
+                      v
+            +---------+----------+
+            | Is adaptation      |
+            | feasible within    |
+            | 5 years?           |
+            +---------+----------+
+               YES /       \ NO
+                  v         v
+         +--------+--+  +--+------------+
+         | ADAPT:    |  | RELOCATE:     |
+         | Switch    |  | Scout new     |
+         | crops,    |  | sites while   |
+         | expand    |  | community is  |
+         | storage   |  | still healthy |
+         +-----------+  +---------------+
+```
 
 ---
 

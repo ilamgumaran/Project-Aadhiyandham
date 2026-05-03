@@ -44,6 +44,28 @@ FoS > 2.0  -->  generally safe for all construction
 
 FoS can be estimated in the field by observing the slope angle relative to the material's angle of repose (the steepest angle at which loose material remains stable — see Module 02.02). A slope at 80% of the angle of repose has roughly FoS = 1.25 — marginal. A slope at 60% of the angle of repose has roughly FoS = 1.7 — acceptable. Saturation from rainfall reduces FoS dramatically by adding pore-water pressure to the driving forces while reducing friction in the resisting forces.
 
+```text
+  Factor of Safety — Slope Cross-Section
+        Rainfall / Infiltration
+             | | | | |
+    ~~~~~~~~~v~v~v~v~v~~~  Ground Surface
+   /  Soil + Water Weight  \
+  /  (DRIVING FORCE --->)   \        FoS = Resisting / Driving
+ /____________________________\
+ ~~~ Slip Plane ~~~~~~~~~~~~~~~\     RESISTING FORCES:
+ |  Shear Strength of Soil      |    - Soil cohesion
+ |  Root Cohesion (vegetation)  |    - Internal friction
+ |  Friction Along Slip Plane   |    - Root reinforcement
+ |  (<--- RESISTING FORCE)      |
+ |______________________________|
+ //////// Stable Bedrock ////////
+
+  FoS < 1.0 ... FAILURE (slide occurs)
+  FoS = 1.0 ... forces exactly balanced
+  FoS = 1.5 ... MINIMUM for structures  <-- target
+  FoS > 2.0 ... generally safe
+```
+
 **Return period probability.** The probability of experiencing at least one event of return period T within n years of occupation:
 
 ```
@@ -56,6 +78,27 @@ P = 1 - (1 - 1/T)^n
 
 This math justifies conservative building codes. An event described as "rare" in a single human lifetime becomes near-certain over the timescale of a permanent settlement. Every geological hazard with a return period shorter than the intended occupation period must be treated as inevitable.
 
+```text
+  Return Period vs. Actual Probability of Occurrence
+  ====================================================
+
+  "100-year event" does NOT mean "once per century."
+  It means 1% chance EVERY year. Over time, odds stack up:
+
+  Occupation     |  100-yr event  |  500-yr event  | 1000-yr event
+  Length (yrs)   |  (1%/yr)       |  (0.2%/yr)     | (0.1%/yr)
+  ---------------+----------------+----------------+--------------
+       1 year    |     1%         |     0.2%       |    0.1%
+      10 years   |    10%         |     2%         |    1%
+      50 years   |    39%         |    10%         |    5%
+     100 years   |    63%         |    18%         |   10%
+     500 years   |    99%         |    63%         |   39%
+
+  KEY INSIGHT: A 100-year event is MORE LIKELY THAN NOT
+  to occur within 100 years (63%, not 100%).
+  Over 500 years of settlement, it is virtually certain.
+```
+
 **Scientific validation.** Geomorphological research (Shroder, 1980; Wieczorek & Snyder, 2009) validates that curved tree trunks are among the most reliable field indicators of active soil creep, with lateral displacement rates of 1-10 cm/year correlating with eventual catastrophic slope failure. Varnes (1978) and the USGS Landslide Hazard Program confirm that slopes exceeding 25 degrees in clay-rich materials are classified as "high susceptibility" for rainfall-triggered landslides. Ford & Williams (2007) document that doline density and growth rate are the most accessible predictors of sinkhole hazard, measurable with zero instrumentation. Leopold & Wolman's (1960) foundational work on fluvial geomorphology established that alluvial rivers migrate laterally at rates of 0.1-10m per year, fully consistent with the 3x channel-width buffer recommended in this module.
 
 ---
@@ -63,6 +106,37 @@ This math justifies conservative building codes. An event described as "rare" in
 ## Core Principles
 
 1. **The Multiple Threat Survey.** Assess ALL five geological threats for every candidate site — not just the obvious one. A valley floor free of landslide risk may sit on dissolving limestone. A stable ridgeline may be bisected by an active fault. Single-threat assessment is the most common cause of geological catastrophe in settlement siting.
+
+```text
+  Five Geological Threats — Site Cross-Section
+  ==============================================
+
+   Volcanic Ashfall                          Distant
+   (from prevailing wind) ~~~~>>>>~~~~ ..ite Volcano
+                                      /    \
+  5. ASHFALL zone         ------     / peak \
+                         /      \   /........\
+  1. LANDSLIDE --->     / unstable\
+     (steep slope)     /  slope    \
+                      /  >25 deg   \    3. EARTHQUAKE
+  ~~~~~~~~~~~~~~~~~~ /              \   ~~~fault~~~below~~~
+                    |  ** SAFE **    |
+                    | SETTLEMENT    |   (offset streams,
+                    |  ZONE: mid-   |    slickensides,
+                    |  slope bench, |    hot springs)
+                    |  stable rock  |
+  ..................|...............|...................
+  2. FLOOD ----->   :   River in    :  <--- meander
+     (valley floor) :   floodplain  :       migration
+  ~~~~~~~~~~~~~~~~~~:~~~~~~~~~~~~~~~:~~~~~~~~~~~~~~~~~~
+  4. SINKHOLE       :  limestone    :
+     (karst below)  :  cavern/void  :
+  //////////////////:.dissolution..:///////////////////
+
+  Optimal: mid-elevation bench on stable bedrock, ABOVE
+  floodplain, BELOW unstable slopes, AWAY from faults,
+  karst voids, and volcanic valley drainages.
+```
 
 2. **The Conservative Buffer.** Apply minimum safe distances that account for worst-case, not average-case, events. The 100-year flood is not the largest flood that will occur in 500 years of occupation. The runout zone of a landslide extends farther when the slope is fully saturated than when it is dry. Always design to the extreme case.
 
