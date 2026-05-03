@@ -34,6 +34,28 @@ Altitude = 90° - Latitude + Solar Declination
 <li><strong>Winter solstice noon altitude:</strong> 90 - 35 - 23.44 = <strong>31.6 degrees</strong> (sun low on the horizon)</li>
 </ul>
 <p>This 46.9-degree seasonal swing governs all passive solar design. Overhangs must block the high summer sun while admitting the low winter sun. Every window, every wall orientation, every overhang depth follows from this geometry.</p>
+<pre><code class="language-text">
+    SOLAR ALTITUDE BY SEASON (35 deg N latitude, south-facing section)
+
+    Summer Solstice         Winter Solstice
+    Sun at 78.4 deg         Sun at 31.6 deg
+
+           *                              *
+          /                            .
+         / 78 deg                   . 32 deg
+        /                        .
+    ===D=====]  overhang      ==D=====]  overhang
+    |  |shade|  blocks sun    |       |  sun passes under
+    |  |/////|               |     / |
+    |  |/////|  WINDOW        |   /   |  WINDOW
+    |  |/////|               |  /    |
+    |_________|              |/______|
+    [THERMAL MASS]           [THERMAL MASS] &lt;&lt;&lt; heated
+
+    D = H / tan(A_summer)    Result: winter sun floods
+    Overhang depth formula   the room; summer sun is
+    (H = window height)      blocked by the same overhang
+</code></pre>
 <h3 id="solar-radiation-budget">Solar Radiation Budget</h3>
 <p>At Earth's surface under clear skies, solar irradiance peaks at approximately 1,000 W/m-squared — this is the effective "solar constant" after atmospheric absorption removes roughly 30% of the 1,361 W/m-squared arriving at the top of the atmosphere.</p>
 <p>For a south-facing vertical wall at 35 degrees N latitude:</p>
@@ -99,6 +121,30 @@ Energy = mass x specific heat x temperature change
        = 8,372,000 J = 8.37 MJ = 2.33 kWh
 </code></pre>
 <p>This 2.33 kWh is enough to maintain a small room (15-20 m-squared) at a comfortable temperature through a winter night, assuming reasonable insulation (R-10 walls, R-20 ceiling). Two barrels provide a substantial buffer. Stone walls 300 mm thick provide comparable storage but require more volume and mass.</p>
+<pre><code class="language-text">
+    THERMAL MASS 24-HOUR HEAT CYCLE (winter day)
+
+    Wall Temp
+    (deg C)
+     30 |              ***
+        |           **     **
+     25 |         *           *       &lt;-- THERMAL LAG
+        |       *    ABSORBING  *        (6-8 hr delay)
+     20 |     *    solar heat     *          *****
+        |   *                       *     **     **
+     15 | *                           * *          *
+        |*         RELEASING            *  RELEASING
+     10 |           to room                 to room
+        |___|____|____|____|____|____|____|____|____|___
+        6AM  9AM  NOON 3PM  6PM  9PM  MID  3AM  6AM
+
+        |&lt;-- DAY: sun heats --&gt;|&lt;-- NIGHT: wall emits --&gt;|
+        |    mass through      |    stored heat into     |
+        |    south glazing     |    living space         |
+
+    Peak absorption: ~1 PM    Peak emission: ~8 PM
+    Without mass: room cools immediately after sunset
+</code></pre>
 <h3 id="the-overhang-calculation">The Overhang Calculation</h3>
 <p>For a south-facing window at latitude L, the overhang depth D that blocks summer noon sun but admits winter noon sun is derived from the sun's altitude at each extreme:</p>
 <pre><code>
@@ -134,6 +180,29 @@ D = H x [1/tan(A_summer)]
 </tr>
 </tbody></table>
 <p>Indoor lighting from fire-based sources (candles, oil lamps, tallow) provides only 10-50 lux — grossly insufficient for circadian entrainment. In a post-infrastructure settlement, members who spend mornings indoors will develop circadian drift, leading to insomnia, depression, weakened immune function, and reduced cognitive performance. Settlement design must therefore prioritize outdoor morning sun exposure areas as a medical necessity, not an amenity.</p>
+<pre><code class="language-text">
+    CIRCADIAN LIGHT EXPOSURE &amp; HORMONE RESPONSE (24-hour cycle)
+
+    Lux
+    100k |    *****
+     10k |  **     ***                    Outdoor daylight
+      2.5k|--*---------**---THRESHOLD--- (min for entrainment)
+      500 |               ***
+       50 | .                ***          Indoor / firelight
+       10 |.                    **............................
+        0 |___|____|____|____|____|____|____|____|____|____|__
+          5AM  7AM  9AM  NOON 3PM  6PM  8PM  10PM MID  3AM
+
+    CORTISOL   ^^^^^^^^^^^^                         ^^^  (rises
+    (alertness)  morning peak                        pre-dawn)
+
+    MELATONIN                        ^^^^^^^^^^^^^^^^
+    (sleep)                          onset at dusk, peaks midnight
+
+    PROTOCOL: 30 min outdoor light (&gt;2,500 lux) within 2 hr
+    of waking. Dim/warm light only after sunset. No bright
+    light 8PM-5AM. Fire-based light (10-50 lux) is safe at night.
+</code></pre>
 <h3 id="vitamin-d-synthesis">Vitamin D Synthesis</h3>
 <p>Skin exposed to UVB radiation (290-320 nm wavelength) synthesizes cholecalciferol (vitamin D3) from 7-dehydrocholesterol in the epidermis. This is the primary source of vitamin D for humans in all historical populations.</p>
 <p>At 35 degrees N latitude, adequate vitamin D synthesis requires approximately 15-30 minutes of midday sun exposure on face and forearms, 3-4 times per week, from March through October. During November through February, the solar altitude drops below the critical threshold (approximately 30 degrees above the horizon) required for UVB to penetrate the atmosphere effectively. At latitudes above 35 degrees N, this "vitamin D winter" extends further — at 50 degrees N, effective UVB exposure is unavailable from October through March.</p>

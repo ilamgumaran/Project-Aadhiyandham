@@ -28,6 +28,32 @@ A settlement's water supply is a function of three variables: the watershed area
 
 These values have profound implications. A forested watershed absorbs most of its rainfall into groundwater, producing steady baseflow. A deforested watershed sheds rainfall as surface runoff, producing flashy stormflow and diminished baseflow. Protecting watershed forest is therefore a direct investment in water supply reliability.
 
+```text
+              Watershed: Top-Down View
+     
+        \  rain  /  rain  \  rain  /
+         \  |   /    |     \  |   /
+    ~~~~~~\~|~/~~~~~~|~~~~~~\~|~/~~~~~~  <- Ridgeline boundary
+    |  .   \|/   .   |   .  \|/   .   |
+    | Sub-  *........|.......*  Sub-   |
+    | basin     .    |   .     basin   |
+    |  A     .  stream  .       B      |
+    |      .     |       .             |
+    |    .       |         .           |
+    |  .    _____|_____      .         |
+    | .    /     |     \      .        |
+    |.    /      |      \      .       |
+    |    /  Sub-basin C  \             |
+    |   /        |        \            |
+    ~~~~/~~~~~~~~|~~~~~~~~~\~~~~~~~~~~~
+                 V
+          [Gauging Point]
+              outlet
+     
+     A = total catchment area (m^2)
+     All rainfall within ridgeline drains to outlet
+```
+
 ### The Rational Method for Peak Flow Estimation
 
 The Rational Method provides a first-order estimate of peak flood discharge from a catchment. The formula:
@@ -61,6 +87,31 @@ Springs and streams carry two fundamentally different types of water, and confus
 **Stormflow** is the rapid pulse of surface runoff during and immediately after rain events. It is turbid, may carry pathogens and chemical contaminants from the land surface, and ceases within hours to days after rainfall stops. Stormflow cannot be relied upon for settlement water supply, and requires treatment before consumption.
 
 Settlement water systems should be designed to capture baseflow only. The intake structure for a spring should be designed to exclude stormflow (which may overwhelm the spring during heavy rain). Stream intakes should include provisions for shutting down during high-turbidity flood events.
+
+```text
+     Stream Hydrograph: Flow (Q) vs Time
+     
+     Q                    * peak flow
+     (m^3/s)            *   *
+                       *     *  <- recession limb
+              rain    *       *
+             |====|  *         *
+             |====| * rising    *
+             |====|*  limb       *
+                 *                 *
+     ----------*--------------------*-----------
+               *  STORMFLOW          *
+     .........*....component..........*..........
+     .        .                        .        .
+     .  BASEFLOW (constant groundwater discharge).
+     .................................................
+     |        |        |        |        |        |
+     0       6hr     12hr     18hr     24hr     30hr
+                          Time -->
+     
+         |<- lag ->|
+         peak rain   peak flow
+```
 
 ### Drought Hydrology
 
@@ -247,6 +298,32 @@ Design a spillway that can safely pass at least 10 times the average inflow with
 | No cover (open water) | 0% (baseline) | Losses of 5-10 mm/day in hot, dry climates are common |
 
 For a reservoir with 78.5 m^2 surface area in a climate with 8 mm/day evaporation, the daily loss without cover is 628 liters/day — equivalent to the drinking water for 42 people at the survival tier. Evaporation control is not optional in warm climates.
+
+```text
+     Reservoir Water Balance: Cross-Section
+     
+        evaporation        rainfall
+        ~ ~ ~ ~ ~          | | | |
+        ^  ^  ^  ^         v v v v
+     ---|--|--|--|--|-------------------
+     :  |  :  :  :  :  ~~~~~~~~~~~~   :  <- spillway
+     :  |  :.........:./~~~~~~~~~~\.:.|.-> overflow
+     :  |  : /~water~~~~~~~~~~~~~~\ : |     outflow
+     :  |  :/~~~~~STORAGE~~~~~~~~~~\: |
+     :  |  /~~~~~VOLUME~~~~~~~~~~~~~\ |
+     :  | /~~~~~~~~~~~~~~~~~~~~~~~~~~\|
+     :==|/============================|-> controlled
+     :  DAM                       DAM :   release
+     :  :  :  :  :  :  :  :  :  :  : :
+     :  v  v  v  :  :  :  :  :  :  : :
+     :  seepage  :  :  :  :  :  :  : :
+     :...........:..:..:..:..:..:..:.:.:
+           bedrock / clay lining
+     
+     INFLOW -----> stream feed
+     
+     dStorage = Inflow - Outflow - Evap - Seepage
+```
 
 ### Rainwater Harvesting Supplement
 

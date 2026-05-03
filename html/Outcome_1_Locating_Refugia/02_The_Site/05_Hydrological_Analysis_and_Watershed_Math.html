@@ -53,6 +53,31 @@
 </tr>
 </tbody></table>
 <p>These values have profound implications. A forested watershed absorbs most of its rainfall into groundwater, producing steady baseflow. A deforested watershed sheds rainfall as surface runoff, producing flashy stormflow and diminished baseflow. Protecting watershed forest is therefore a direct investment in water supply reliability.</p>
+<pre><code class="language-text">
+              Watershed: Top-Down View
+
+        \  rain  /  rain  \  rain  /
+         \  |   /    |     \  |   /
+    ~~~~~~\~|~/~~~~~~|~~~~~~\~|~/~~~~~~  &lt;- Ridgeline boundary
+    |  .   \|/   .   |   .  \|/   .   |
+    | Sub-  *........|.......*  Sub-   |
+    | basin     .    |   .     basin   |
+    |  A     .  stream  .       B      |
+    |      .     |       .             |
+    |    .       |         .           |
+    |  .    _____|_____      .         |
+    | .    /     |     \      .        |
+    |.    /      |      \      .       |
+    |    /  Sub-basin C  \             |
+    |   /        |        \            |
+    ~~~~/~~~~~~~~|~~~~~~~~~\~~~~~~~~~~~
+                 V
+          [Gauging Point]
+              outlet
+
+     A = total catchment area (m^2)
+     All rainfall within ridgeline drains to outlet
+</code></pre>
 <h3 id="the-rational-method-for-peak-flow-estimation">The Rational Method for Peak Flow Estimation</h3>
 <p>The Rational Method provides a first-order estimate of peak flood discharge from a catchment. The formula:</p>
 <pre><code>
@@ -77,6 +102,30 @@ Q = 0.15 x 1.389 x 10^-5 x 1,000,000 = 2.08 m^3/s
 <p><strong>Baseflow</strong> is the sustained discharge from groundwater seepage. It is filtered through soil and rock, typically clean, and relatively constant between storm events. Baseflow is determined by aquifer size, geology, and long-term recharge rate — not by recent rainfall. A spring fed by a large, slow aquifer (deep sandstone, limestone karst with extensive conduit systems) may have nearly constant flow year-round, varying by a factor of 2-3 between wet and dry seasons. A spring from shallow fractured rock or thin soil may vary by a factor of 10:1 or more between wet and dry seasons.</p>
 <p><strong>Stormflow</strong> is the rapid pulse of surface runoff during and immediately after rain events. It is turbid, may carry pathogens and chemical contaminants from the land surface, and ceases within hours to days after rainfall stops. Stormflow cannot be relied upon for settlement water supply, and requires treatment before consumption.</p>
 <p>Settlement water systems should be designed to capture baseflow only. The intake structure for a spring should be designed to exclude stormflow (which may overwhelm the spring during heavy rain). Stream intakes should include provisions for shutting down during high-turbidity flood events.</p>
+<pre><code class="language-text">
+     Stream Hydrograph: Flow (Q) vs Time
+
+     Q                    * peak flow
+     (m^3/s)            *   *
+                       *     *  &lt;- recession limb
+              rain    *       *
+             |====|  *         *
+             |====| * rising    *
+             |====|*  limb       *
+                 *                 *
+     ----------*--------------------*-----------
+               *  STORMFLOW          *
+     .........*....component..........*..........
+     .        .                        .        .
+     .  BASEFLOW (constant groundwater discharge).
+     .................................................
+     |        |        |        |        |        |
+     0       6hr     12hr     18hr     24hr     30hr
+                          Time --&gt;
+
+         |&lt;- lag -&gt;|
+         peak rain   peak flow
+</code></pre>
 <h3 id="drought-hydrology">Drought Hydrology</h3>
 <p>The concept of the "100-year drought" is statistical: it describes a drought of severity that has a 1% probability of occurring in any given year. This does not mean it occurs once per century — it means that in any given year, there is a 1 in 100 chance of experiencing it.</p>
 <p>Over long settlement horizons, the cumulative probability is sobering. The probability of experiencing at least one event of return period T within N years is:</p>
@@ -318,6 +367,31 @@ Reservoir Volume (Liters) = Population x Daily Consumption (L) x 90
 </tr>
 </tbody></table>
 <p>For a reservoir with 78.5 m^2 surface area in a climate with 8 mm/day evaporation, the daily loss without cover is 628 liters/day — equivalent to the drinking water for 42 people at the survival tier. Evaporation control is not optional in warm climates.</p>
+<pre><code class="language-text">
+     Reservoir Water Balance: Cross-Section
+
+        evaporation        rainfall
+        ~ ~ ~ ~ ~          | | | |
+        ^  ^  ^  ^         v v v v
+     ---|--|--|--|--|-------------------
+     :  |  :  :  :  :  ~~~~~~~~~~~~   :  &lt;- spillway
+     :  |  :.........:./~~~~~~~~~~\.:.|.-&gt; overflow
+     :  |  : /~water~~~~~~~~~~~~~~\ : |     outflow
+     :  |  :/~~~~~STORAGE~~~~~~~~~~\: |
+     :  |  /~~~~~VOLUME~~~~~~~~~~~~~\ |
+     :  | /~~~~~~~~~~~~~~~~~~~~~~~~~~\|
+     :==|/============================|-&gt; controlled
+     :  DAM                       DAM :   release
+     :  :  :  :  :  :  :  :  :  :  : :
+     :  v  v  v  :  :  :  :  :  :  : :
+     :  seepage  :  :  :  :  :  :  : :
+     :...........:..:..:..:..:..:..:.:.:
+           bedrock / clay lining
+
+     INFLOW -----&gt; stream feed
+
+     dStorage = Inflow - Outflow - Evap - Seepage
+</code></pre>
 <h3 id="rainwater-harvesting-supplement">Rainwater Harvesting Supplement</h3>
 <p>For settlements with roof structures, rainwater collection provides a valuable supplement to spring and stream sources.</p>
 <pre><code>

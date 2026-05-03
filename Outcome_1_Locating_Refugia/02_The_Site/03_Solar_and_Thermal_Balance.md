@@ -25,6 +25,29 @@ Solar declination ranges from +23.44 degrees at the summer solstice to -23.44 de
 
 This 46.9-degree seasonal swing governs all passive solar design. Overhangs must block the high summer sun while admitting the low winter sun. Every window, every wall orientation, every overhang depth follows from this geometry.
 
+```text
+    SOLAR ALTITUDE BY SEASON (35 deg N latitude, south-facing section)
+
+    Summer Solstice         Winter Solstice
+    Sun at 78.4 deg         Sun at 31.6 deg
+
+           *                              *
+          /                            .
+         / 78 deg                   . 32 deg
+        /                        .
+    ===D=====]  overhang      ==D=====]  overhang
+    |  |shade|  blocks sun    |       |  sun passes under
+    |  |/////|               |     / |
+    |  |/////|  WINDOW        |   /   |  WINDOW
+    |  |/////|               |  /    |
+    |_________|              |/______|
+    [THERMAL MASS]           [THERMAL MASS] <<< heated
+
+    D = H / tan(A_summer)    Result: winter sun floods
+    Overhang depth formula   the room; summer sun is
+    (H = window height)      blocked by the same overhang
+```
+
 ### Solar Radiation Budget
 
 At Earth's surface under clear skies, solar irradiance peaks at approximately 1,000 W/m-squared — this is the effective "solar constant" after atmospheric absorption removes roughly 30% of the 1,361 W/m-squared arriving at the top of the atmosphere.
@@ -60,6 +83,31 @@ Energy = mass x specific heat x temperature change
 
 This 2.33 kWh is enough to maintain a small room (15-20 m-squared) at a comfortable temperature through a winter night, assuming reasonable insulation (R-10 walls, R-20 ceiling). Two barrels provide a substantial buffer. Stone walls 300 mm thick provide comparable storage but require more volume and mass.
 
+```text
+    THERMAL MASS 24-HOUR HEAT CYCLE (winter day)
+
+    Wall Temp
+    (deg C)
+     30 |              ***
+        |           **     **
+     25 |         *           *       <-- THERMAL LAG
+        |       *    ABSORBING  *        (6-8 hr delay)
+     20 |     *    solar heat     *          *****
+        |   *                       *     **     **
+     15 | *                           * *          *
+        |*         RELEASING            *  RELEASING
+     10 |           to room                 to room
+        |___|____|____|____|____|____|____|____|____|___
+        6AM  9AM  NOON 3PM  6PM  9PM  MID  3AM  6AM
+
+        |<-- DAY: sun heats -->|<-- NIGHT: wall emits -->|
+        |    mass through      |    stored heat into     |
+        |    south glazing     |    living space         |
+
+    Peak absorption: ~1 PM    Peak emission: ~8 PM
+    Without mass: room cools immediately after sunset
+```
+
 ### The Overhang Calculation
 
 For a south-facing window at latitude L, the overhang depth D that blocks summer noon sun but admits winter noon sun is derived from the sun's altitude at each extreme:
@@ -89,6 +137,30 @@ Human circadian rhythm is entrained (synchronized to the 24-hour day) primarily 
 | Candle or oil lamp | 10-50 |
 
 Indoor lighting from fire-based sources (candles, oil lamps, tallow) provides only 10-50 lux — grossly insufficient for circadian entrainment. In a post-infrastructure settlement, members who spend mornings indoors will develop circadian drift, leading to insomnia, depression, weakened immune function, and reduced cognitive performance. Settlement design must therefore prioritize outdoor morning sun exposure areas as a medical necessity, not an amenity.
+
+```text
+    CIRCADIAN LIGHT EXPOSURE & HORMONE RESPONSE (24-hour cycle)
+
+    Lux
+    100k |    *****
+     10k |  **     ***                    Outdoor daylight
+      2.5k|--*---------**---THRESHOLD--- (min for entrainment)
+      500 |               ***
+       50 | .                ***          Indoor / firelight
+       10 |.                    **............................
+        0 |___|____|____|____|____|____|____|____|____|____|__
+          5AM  7AM  9AM  NOON 3PM  6PM  8PM  10PM MID  3AM
+
+    CORTISOL   ^^^^^^^^^^^^                         ^^^  (rises
+    (alertness)  morning peak                        pre-dawn)
+
+    MELATONIN                        ^^^^^^^^^^^^^^^^
+    (sleep)                          onset at dusk, peaks midnight
+
+    PROTOCOL: 30 min outdoor light (>2,500 lux) within 2 hr
+    of waking. Dim/warm light only after sunset. No bright
+    light 8PM-5AM. Fire-based light (10-50 lux) is safe at night.
+```
 
 ### Vitamin D Synthesis
 

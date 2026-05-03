@@ -28,6 +28,30 @@ For water flowing at 2 m/s that is stopped instantaneously:
 
 This is an extraordinary pressure — 28 times atmospheric pressure — generated from nothing more than water flowing downhill and a valve slamming shut. This pressure spike is what drives water uphill. The hydraulic ram pump is, at its core, a device that harvests water hammer energy in a controlled, repeating cycle.
 
+```text
+  HYDRAM SIDE-VIEW CROSS-SECTION
+  ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+  SPRING/                                          STORAGE TANK
+  STREAM     Drive Pipe (rigid, sloping down)       /  [====]
+    |~~|    ___________________________________    /   |    |
+    |  |===|  water flows --->  v=2 m/s        |  /    | 30m|
+    |  |   |___________________________________|=/     |  up|
+    |__|        slope = h                  |   |       [====]
+                                     +---------+         |
+             supply head h = 3m      | RAM BODY|    delivery
+                                     |         |    pipe
+                                     | [D.V.]--+---> (to tank)
+                                     |    |    |
+                                     | [AIR  ] |
+                                     | [CHAMB] |
+                                     |    |    |
+                                     | [W.V.] <--- waste valve
+                                     +----|----+     "clack"
+                                       spillback
+                                       to stream
+  D.V. = Delivery Check Valve    W.V. = Waste Valve (weighted)
+```
+
 ### The Drive Pipe as Energy Accumulator
 
 The drive pipe is not merely a conduit — it is the energy storage element of the system. The kinetic energy of the water column flowing through it is:
@@ -84,6 +108,34 @@ Between pulses, when the waste valve reopens and drive pipe pressure drops, the 
 
 However, air slowly dissolves into pressurized water according to **Henry's Law** — the solubility of a gas in a liquid is proportional to the partial pressure of that gas above the liquid. Over weeks of operation, the air chamber gradually fills with water, losing its buffering capacity. A waterlogged air chamber is the single most common failure mode of hydraulic ram pumps. Monthly inspection and recharging of the air chamber is mandatory.
 
+```text
+  ONE PUMP CYCLE (~1.5 seconds)
+  =====================================================================
+  Pressure
+  in drive     Joukowsky spike
+  pipe (bar)       ΔP = 28 bar
+                      |
+   30 |               *
+      |              *|*
+      |             * | *  <-- delivery valve opens,
+      |            *  |  *     water forced into air chamber
+   20 |           *   |   *
+      |          *    |    *
+      |         *     |     *
+   10 |        *      |      *        air chamber slowly
+      |       *       |       **      releases stored pressure
+      |      *        |         ***
+    0 |*****          |            ****************************
+      |  ^            |            ^                    ^
+      +--|------------|------------|--------------------|--->
+      0.0s          0.3s        0.5s                 1.5s  Time
+         |            |            |                    |
+     waste valve   valve slams  delivery valve      waste valve
+     OPEN: water   SHUT: water  closes: pressure    REOPENS:
+     accelerates   hammer spike drops, air chamber   cycle
+     in drive pipe (Joukowsky)  sustains flow        repeats
+```
+
 ### Historical Context
 
 The hydraulic ram was invented by **Joseph Michel Montgolfier** — the same Montgolfier of hot air balloon fame — in 1796 in Lyon, France. His original design was refined by his son-in-law, and by the mid-1800s thousands of rams were in continuous operation across Europe and the Americas, supplying water to farms, country estates, and small towns.
@@ -128,6 +180,29 @@ Before building, ensure your site qualifies:
 1. **Supply Head (h):** Measure the vertical drop from your water source to the pump location.
 2. **Delivery Head (H):** Measure the vertical rise from the pump to your target tank.
 3. **Rule:** The Hydram can reliably lift water to a height (H) that is **10 to 20 times** the supply head (h). (e.g., a 2 m drop can lift water 20–40 m uphill).
+
+```text
+  HEAD RATIO: ELEVATION CROSS-SECTION
+  ====================================
+  Delivery Tank  . . . . . . . . . . . . . . . .  +30m elevation
+       [====]    :                                :
+       |    | <--:-- delivery head H = 30m        :
+       |    |    :    (ram to tank)                :
+       [====]    :                                :
+          \      :                                :
+  delivery \     :                                :
+  pipe      \    :                                :
+  Source     \   :  +3m elevation                 :
+  [~~pool~~]  \ :...|                             :
+       \       \|   |                             :
+  drive \   [RAM PUMP] . . . . . 0m (datum)       :
+  pipe   \      :                                 :
+          \_____|   supply head h = 3m            :
+                :                                 :
+                :   Ratio H/h = 30/3 = 10:1       :
+                :   At 70% efficiency, q = 0.7*Q*h/H
+                :   If Q=20 LPM: q = 0.7*20*3/30 = 1.4 LPM
+```
 
 ### Step 2: Installing the Drive Pipe
 

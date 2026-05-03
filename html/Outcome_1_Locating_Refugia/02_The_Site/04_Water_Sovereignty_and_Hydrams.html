@@ -36,6 +36,29 @@
 <p>For water flowing at 2 m/s that is stopped instantaneously:</p>
 <p>ΔP = 1,000 × 1,400 × 2 = 2,800,000 Pa = 28 bar</p>
 <p>This is an extraordinary pressure — 28 times atmospheric pressure — generated from nothing more than water flowing downhill and a valve slamming shut. This pressure spike is what drives water uphill. The hydraulic ram pump is, at its core, a device that harvests water hammer energy in a controlled, repeating cycle.</p>
+<pre><code class="language-text">
+  HYDRAM SIDE-VIEW CROSS-SECTION
+  ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+  SPRING/                                          STORAGE TANK
+  STREAM     Drive Pipe (rigid, sloping down)       /  [====]
+    |~~|    ___________________________________    /   |    |
+    |  |===|  water flows ---&gt;  v=2 m/s        |  /    | 30m|
+    |  |   |___________________________________|=/     |  up|
+    |__|        slope = h                  |   |       [====]
+                                     +---------+         |
+             supply head h = 3m      | RAM BODY|    delivery
+                                     |         |    pipe
+                                     | [D.V.]--+---&gt; (to tank)
+                                     |    |    |
+                                     | [AIR  ] |
+                                     | [CHAMB] |
+                                     |    |    |
+                                     | [W.V.] &lt;--- waste valve
+                                     +----|----+     &quot;clack&quot;
+                                       spillback
+                                       to stream
+  D.V. = Delivery Check Valve    W.V. = Waste Valve (weighted)
+</code></pre>
 <h3 id="the-drive-pipe-as-energy-accumulator">The Drive Pipe as Energy Accumulator</h3>
 <p>The drive pipe is not merely a conduit — it is the energy storage element of the system. The kinetic energy of the water column flowing through it is:</p>
 <p>KE = ½ × m × v²</p>
@@ -70,6 +93,33 @@
 <p>P₁V₁ = P₂V₂</p>
 <p>Between pulses, when the waste valve reopens and drive pipe pressure drops, the compressed air expands and pushes water steadily up the delivery pipe. The result is a reasonably smooth, continuous flow from a pulsed input.</p>
 <p>However, air slowly dissolves into pressurized water according to <strong>Henry's Law</strong> — the solubility of a gas in a liquid is proportional to the partial pressure of that gas above the liquid. Over weeks of operation, the air chamber gradually fills with water, losing its buffering capacity. A waterlogged air chamber is the single most common failure mode of hydraulic ram pumps. Monthly inspection and recharging of the air chamber is mandatory.</p>
+<pre><code class="language-text">
+  ONE PUMP CYCLE (~1.5 seconds)
+  =====================================================================
+  Pressure
+  in drive     Joukowsky spike
+  pipe (bar)       ΔP = 28 bar
+                      |
+   30 |               *
+      |              *|*
+      |             * | *  &lt;-- delivery valve opens,
+      |            *  |  *     water forced into air chamber
+   20 |           *   |   *
+      |          *    |    *
+      |         *     |     *
+   10 |        *      |      *        air chamber slowly
+      |       *       |       **      releases stored pressure
+      |      *        |         ***
+    0 |*****          |            ****************************
+      |  ^            |            ^                    ^
+      +--|------------|------------|--------------------|---&gt;
+      0.0s          0.3s        0.5s                 1.5s  Time
+         |            |            |                    |
+     waste valve   valve slams  delivery valve      waste valve
+     OPEN: water   SHUT: water  closes: pressure    REOPENS:
+     accelerates   hammer spike drops, air chamber   cycle
+     in drive pipe (Joukowsky)  sustains flow        repeats
+</code></pre>
 <h3 id="historical-context">Historical Context</h3>
 <p>The hydraulic ram was invented by <strong>Joseph Michel Montgolfier</strong> — the same Montgolfier of hot air balloon fame — in 1796 in Lyon, France. His original design was refined by his son-in-law, and by the mid-1800s thousands of rams were in continuous operation across Europe and the Americas, supplying water to farms, country estates, and small towns.</p>
 <p>Many of these pumps operated continuously for 50 years or more with no maintenance beyond occasional valve replacement. The Blake Ram, manufactured in the United States, and the Green & Carter Ram from England were produced by the tens of thousands. The technology was displaced in the 20th century not because it failed, but because electric pumps were faster and could lift larger volumes. In a post-infrastructure context, the electric pump is useless and the hydraulic ram reclaims its place as the most reliable zero-energy water lifting device ever invented.</p>
@@ -132,6 +182,28 @@
 <li><strong>Delivery Head (H):</strong> Measure the vertical rise from the pump to your target tank.</li>
 <li><strong>Rule:</strong> The Hydram can reliably lift water to a height (H) that is <strong>10 to 20 times</strong> the supply head (h). (e.g., a 2 m drop can lift water 20–40 m uphill).</li>
 </ol>
+<pre><code class="language-text">
+  HEAD RATIO: ELEVATION CROSS-SECTION
+  ====================================
+  Delivery Tank  . . . . . . . . . . . . . . . .  +30m elevation
+       [====]    :                                :
+       |    | &lt;--:-- delivery head H = 30m        :
+       |    |    :    (ram to tank)                :
+       [====]    :                                :
+          \      :                                :
+  delivery \     :                                :
+  pipe      \    :                                :
+  Source     \   :  +3m elevation                 :
+  [~~pool~~]  \ :...|                             :
+       \       \|   |                             :
+  drive \   [RAM PUMP] . . . . . 0m (datum)       :
+  pipe   \      :                                 :
+          \_____|   supply head h = 3m            :
+                :                                 :
+                :   Ratio H/h = 30/3 = 10:1       :
+                :   At 70% efficiency, q = 0.7*Q*h/H
+                :   If Q=20 LPM: q = 0.7*20*3/30 = 1.4 LPM
+</code></pre>
 <h3 id="step-2-installing-the-drive-pipe">Step 2: Installing the Drive Pipe</h3>
 <ol>
 <li>Connect the drive pipe to your source (spring or stream).</li>
