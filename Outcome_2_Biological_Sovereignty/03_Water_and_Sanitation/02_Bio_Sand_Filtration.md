@@ -37,6 +37,28 @@ Substituting conservative values: Q = 2 m/day x 0.09 m² x (0.10 / 0.55) = 0.033
 
 The critical insight: as the Schmutzdecke matures, K decreases because the biofilm reduces effective pore size. Flow rate drops. This is a *feature*, not a defect — it signals that the biological layer is active and functioning. A filter that flows too fast is not filtering adequately.
 
+```text
+    Darcy's Law: Flow Through a Sand Column
+
+    |<--- A (cross-section area) --->|
+    |                                |
+    |  ~~~~~~~~~~~~~~~~~~~~~~~~~~~~  |  ---
+    |  ~~~~~ STANDING WATER ~~~~~~~  |   |  dh (hydraulic head)
+    |  ~~~~~~~~~~~~~~~~~~~~~~~~~~~~  |   |  = water height above sand
+    |================================|  ---
+    |:::::::::::::::::::::::::::::::::|   |
+    |::::: SAND BED (porous) ::::::::|   |
+    |:::::::::::::::::::::::::::::::::|   |  L (bed depth)
+    |::::: K = hydraulic conductivity|   |
+    |:::::::::::::::::::::::::::::::::|   |
+    |================================|  ---
+    |          v  v  Q (outflow)      |
+    Q = K x A x (dh / L)
+    Higher dh  -->  faster flow
+    Thicker bed (L)  -->  slower flow
+    Mature Schmutzdecke  -->  lower K  -->  slower flow
+```
+
 ### The Schmutzdecke: A Living Biofilm
 
 The Schmutzdecke (Tamil: *உயிர்ப்படலம்*) is the single most important component of a bio-sand filter. It is a biologically active layer, typically 2-5 cm thick, that forms at and just below the sand surface.
@@ -47,6 +69,28 @@ The Schmutzdecke (Tamil: *உயிர்ப்படலம்*) is the single m
 - **Algae**: photosynthetic organisms (if light reaches the surface) that produce oxygen and contribute to the biofilm matrix
 - **Extracellular polymeric substances (EPS)**: the "glue" that holds the biofilm together — a sticky matrix of polysaccharides, proteins, and DNA secreted by the resident organisms
 - **Bacteriophages**: viruses that infect and lyse bacteria — these contribute to pathogenic virus removal
+
+```text
+    Schmutzdecke Biofilm Ecology (top 2 cm of sand, zoomed in)
+
+    WATER ABOVE        incoming pathogen ---> (*)
+    ==========================================  surface
+    :: ORGANIC MAT  ~~ sticky EPS matrix ::::   |
+    ::  [algae]-->O2   [algae]-->O2     :::::   |  0-2 mm
+    ::............................................   |
+    ::  (A) amoeba engulfs (*)  <-- PREDATION :   |
+    ::     \___/                               :   |
+    ::  (P) protozoa hunting bacteria          :   |  2-10 mm
+    ::  [bacteriophage] --lyses--> (*)         :   |
+    ::  {competing bacteria} starve pathogens  :   |
+    ::............................................   |
+    ::  (*) pathogen adsorbed to sand grain O  :   |
+    ::    O~~~(*)  electrostatic attraction     :   | 10-20 mm
+    ::  O    O    O    O  <-- sand grains      :   |
+    ::............................................
+    Key: (*) = pathogen   O = sand grain   [  ] = biofilm organism
+    Removal: predation + competition + adsorption + die-off
+```
 
 **Maturation timeline:**
 - Days 1-3: initial bacterial colonization of sand grain surfaces
@@ -67,6 +111,34 @@ A bio-sand filter achieves pathogen removal through four simultaneous mechanisms
 3. **Biological predation**: The Schmutzdecke's protozoa actively engulf bacteria. Bacteriophages within the biofilm lyse bacterial cells. Predatory bacteria (such as Bdellovibrio) attack other bacteria. This mechanism is the PRIMARY reason why a mature filter outperforms a new one by 10-100x for bacterial removal. It is effective against: E. coli, Vibrio cholerae, Salmonella, Shigella, Campylobacter, and many other waterborne bacterial pathogens.
 
 4. **Natural die-off**: Pathogens trapped within the sand column face hostile conditions — darkness (no photosynthesis for those that need it), nutrient depletion (the resident biofilm consumes available nutrients first), temperature stress, and predation pressure. Over hours to days, trapped pathogens die. This is why the "pause period" between pours matters: it gives the filter time to kill what it has caught.
+
+```text
+    Four Barriers of Pathogen Removal (top to bottom)
+
+    RAW WATER containing: bacteria(*) viruses(v) cysts(C) eggs(E)
+    ~~~ (*)(v)(C)(E)(*)(v)(C)(E)(*)(v) ~~~ incoming water
+    ============================================
+    BARRIER 1: MECHANICAL STRAINING   (day 1+)
+    |  pore size ~50-100 um blocks:           |
+    |  (C) cysts, (E) eggs  --> TRAPPED       |
+    |  (*)(v) pass through                    |
+    |------------------------------------------|
+    BARRIER 2: BIOLOGICAL PREDATION   (day 14+)
+    |  Schmutzdecke protozoa engulf (*)       |
+    |  bacteriophages lyse (v)                |
+    |  competitive exclusion starves (*)      |
+    |------------------------------------------|
+    BARRIER 3: ADSORPTION             (day 1+)
+    |  sand grain O~~~(*) electrostatic bond  |
+    |  sand grain O~~~(v) van der Waals force |
+    |  biofilm coat increases surface area    |
+    |------------------------------------------|
+    BARRIER 4: NATURAL DIE-OFF   (pause period)
+    |  darkness + nutrient depletion + time    |
+    |  trapped pathogens die in hours-days     |
+    ============================================
+    OUTLET: greatly reduced pathogen load
+```
 
 ### Removal Efficiency (Peer-Reviewed Data)
 

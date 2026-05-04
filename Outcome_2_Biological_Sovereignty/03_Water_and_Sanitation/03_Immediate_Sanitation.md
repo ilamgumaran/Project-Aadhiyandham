@@ -22,6 +22,31 @@ The transmission of enteric (intestinal) disease follows a well-characterized se
 
 Every barrier that interrupts ANY single pathway reduces disease transmission. The five key barriers are: (1) safe excreta disposal, (2) handwashing with soap or ash, (3) safe water treatment, (4) safe food handling, and (5) fly control. No single barrier is sufficient alone; the system works through redundancy.
 
+```text
+[ THE F-DIAGRAM — மலக்கழிவு பரவல் வரைபடம் ]
+
+                    ┌─────────┐
+                    │  FECES  │
+                    │ மலக்கழிவு │
+                    └────┬────┘
+          ┌──────┬───────┼───────┬──────┬──────┐
+          ▼      ▼       ▼       ▼      ▼      ▼
+       Fluids  Fields  Flies  Fingers Fomites Food
+        நீர்   நிலம்   ஈக்கள்  விரல்கள் பொருட்கள் உணவு
+          │      │       │       │      │      │
+       [BARRIER: Each pathway can be blocked]
+       ── ✖ ── ✖ ──── ✖ ──── ✖ ── ✖ ── ✖ ──
+       Water  Latrine  Fly   Hand-  Clean  Safe
+       treat- use &   screen wash   uten-  food
+       ment   cover          +soap  sils   prep
+          └──────┴───────┴───┬───┴──────┴──────┘
+                             ▼
+                    ┌────────────────┐
+                    │   NEW HOST     │
+                    │  (ingestion)   │
+                    └────────────────┘
+```
+
 The pathogen load in human feces is staggering. A single gram of infected human feces can contain:
 
 - **10 million viruses** (including rotavirus, hepatitis A, norovirus)
@@ -60,6 +85,28 @@ Fecal pathogens leach from pit latrines into groundwater through the unsaturated
 
 The WHO 30-meter separation rule provides a safety margin for sandy soils (the worst case). In gravelly or fractured-rock terrain, extend to 50 m. Downhill/downstream placement is critical because groundwater flow direction follows surface topography in most terrain types — place the latrine downhill from the water source, and the contamination plume moves away from, not toward, the water.
 
+```text
+[ GROUNDWATER CONTAMINATION PLUME — நிலத்தடி நீர் மாசு ]
+
+  WATER SOURCE              LATRINE PIT
+  (well/spring)             (downhill)
+       │                        │
+  ─────┼────────────────────────┼──────── Ground Surface
+       │   ◄── 30m+ separation ──►
+       │                        │
+       │    Unsaturated Zone    │
+       │    (soil filters       │ Fecal matter
+       │     pathogens)        ╔╧╗
+       │                       ║ ║ Pit (2m deep)
+       │                       ║ ║
+       │                       ╚╤╝
+       │                   .....::.....
+       │               ...::::::::::::::...  Contamination
+  ~~~~~│~~~~~~~~~~~...:::::::::::::::::::~~~  plume spreads
+  ▒▒▒▒▒│▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒  DOWNHILL ──►
+       │  Water Table  ◄── 1.5m+ clearance required
+```
+
 The 1.5 m minimum clearance between the pit bottom and the water table prevents direct contamination of the saturated zone. To test water table depth before digging: excavate a 0.5 m test pit and wait 24 hours. If water seeps in at less than 2 m depth, do NOT dig a pit latrine at that location — use a raised composting toilet instead (see Module 04).
 
 ### Fly Biology and Vector Control
@@ -87,6 +134,31 @@ The common housefly (*Musca domestica*) is the primary mechanical vector for fec
 4. **The Handwashing Non-Negotiable**: Handwashing with soap (or ash) after defecation reduces diarrheal disease incidence by 42-47% (WHO/UNICEF meta-analysis, Curtis & Cairncross, *BMJ*, 2003). A handwashing station at every latrine exit is mandatory.
 
 5. **The Fly Barrier Principle**: Every latrine must have a mechanism to prevent fly access to feces — a tight-fitting lid, a vent pipe with fly screen, or both. An open pit latrine with no fly control is a disease amplifier, not a disease preventer. It concentrates feces in one location and then breeds flies that distribute pathogens across the entire camp.
+
+```text
+[ LATRINE PROGRESSION — கழிப்பறை முன்னேற்றம் ]
+
+  DAYS 1-7            WEEKS 2-4            MONTH 2+
+  Trench Latrine      Deep Pit Latrine     VIP Latrine
+  ──────────────      ────────────────     ───────────────
+                                               ┌─┐ Fly
+       ║ privacy       ║      ╔══╗         ║   │▓│ screen
+       ║ screen        ║      ║//║ roof    ║   └┬┘ vent
+       ║               ║      ║  ║         ╠════╪══╗
+       ║  ┌─┐ ┌─┐     ║   ┌──╨──╨──┐     ║dark│  ║
+  ═════╬══╡ ╞═╡ ╞═    ║   │LID     │     ║    │  ║
+       ║  └─┘ └─┘     ║   │ ┌──┐   │     ║ ┌──┘  ║
+       ║  │     │      ║   └─┤  ├───┘     ╠─┤slab ║
+       ║  │0.6m │      ║     │  │         ║ │     ║
+       ║  │ deep│      ║     │2m│ deep    ║ │2-3m ║
+       ║  └─────┘      ║     │  │         ║ │deep ║
+                       ║     └──┘         ║ └─────║
+  Simple slit +        Slab + squat       + Vent pipe
+  soil cover           hole + lid         + Dark interior
+  ────────────── ► ──────────────── ► ───────────────
+  2 hrs to build       1-2 days           2-3 days
+  50 users/trench      20 users/pit       20 users/pit
+```
 
 ---
 

@@ -51,9 +51,9 @@
 ## Outcome 2 -- Biological Sovereignty
 
 ### 03 Water and Sanitation
-- [T] `01_Rationale_and_Importance.md`
-- [T] `02_Bio_Sand_Filtration.md`
-- [T] `03_Immediate_Sanitation.md`
+- [I] `01_Rationale_and_Importance.md`
+- [I] `02_Bio_Sand_Filtration.md`
+- [I] `03_Immediate_Sanitation.md`
 - [T] `04_Humanure_Composting.md`
 - [T] `05_Humanure_Integration.md`
 - [T] `06_Thermophilic_Sanitation_Math.md`
@@ -256,3 +256,4 @@
 | P2-8 | 2026-05-03 | 02.03, 02.04, 02.05 | Solar & Thermal Balance (3 new + 2 existing: solar altitude summer/winter overhang cross-section, thermal mass 24hr heat cycle with 6-8hr lag, circadian light/hormone 24hr timeline cortisol+melatonin; 320→392 lines), Water Sovereignty & Hydrams (3 new + 2 existing: hydram pump side-view schematic full system, water hammer pressure wave 1.5s cycle, head ratio elevation cross-section 10:1 with D'Aubuisson; 350→425 lines), Hydrological Analysis (3 new: watershed top-down 3 sub-basins, hydrograph baseflow/stormflow/lag time, reservoir water balance cross-section with budget equation; 373→450 lines). |
 | P2-9 | 2026-05-03 | 02.06, 02.07, 02.08 | Field Mineralogy (3 new ASCII: Mohs hardness decision tree fingernail→coin→knife→glass, soil texture triangle simplified with loam example, jar settle test side-view 4 layers with settling times; 295→368 lines), Initial Site Layout (3 new: permaculture zone concentric rings 0-5 with visit frequency, sector analysis top-down compass overlay 4 sectors, keyline water distribution ridge-to-valley; 321→400 lines), Location Recording (3 new + 1 existing: media durability hierarchy digital→stone, three-system redundancy convergence, celestial fix solar noon geometry; 323→390 lines). |
 | P2-10 | 2026-05-03 | 02.09, 02.10, 02.11 | Geological Stability (3 new ASCII: Factor of Safety slope cross-section driving/resisting forces, return period probability table 100yr→63% in 100yr, five geological threats landscape cross-section with optimal zone; 320→394 lines), Climate Adaptation (3 new: climate envelope bell curve current→+2°C shift, committed warming timeline 0-300yr temperature/sea level lag, relocation trigger decision flowchart; 294→365 lines), Soil & Water Quality (3 new: soil food web trophic diagram 5 levels, CEC bar chart sand→biochar comparison, earthworm census 30×30×30cm method with health scale; 309→377 lines). **SECTION 02 COMPLETE — 11/11 at [I]. OUTCOME 1 COMPLETE — 30/30 at [I].** |
+| P2-11 | 2026-05-04 | 03.01, 03.02, 03.03 | **BEGIN OUTCOME 2: Biological Sovereignty.** Water & Sanitation Rationale (3 new ASCII: F-diagram 6 fecal-oral pathways with barriers, water demand 5-tier pyramid 2.5-50 L/p/d, sanitation-disease-nutrition cycle with interventions; 185→249 lines), Bio-Sand Filtration (3 new + 1 existing: Darcy's Law sand column, Schmutzdecke biofilm ecology, four pathogen removal barriers; 292→364 lines), Immediate Sanitation (3 new: F-diagram transmission, groundwater plume cross-section 30m rule, latrine progression trench→pit→VIP; 363→435 lines). |

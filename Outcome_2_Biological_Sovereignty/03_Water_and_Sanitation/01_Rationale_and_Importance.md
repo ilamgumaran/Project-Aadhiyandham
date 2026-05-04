@@ -18,6 +18,28 @@ This module establishes the theoretical foundation and operational framework for
 
 The fecal-oral transmission cycle is the central mechanism of waterborne disease. The "F-diagram," first formalized by Wagner and Lanoix (1958) and refined by WHO, identifies six pathways by which pathogens in feces reach a new host's mouth: **fluids** (contaminated water), **fields** (contaminated soil and crops), **flies** (mechanical vectors carrying fecal matter), **fingers** (unwashed hands), **food** (prepared with contaminated water or hands), and **fomites** (contaminated surfaces and objects). Every intervention in the Water and Sanitation sub-section targets one or more of these pathways.
 
+```text
+                        F-DIAGRAM: Fecal-Oral Transmission Pathways
+                        ============================================
+
+                                  FECES (source)
+                                       |
+              +------------+-----------+-----------+------------+
+              |            |           |           |            |
+           FLUIDS       FIELDS      FLIES      FINGERS      FOOD
+          (water)    (soil/crops) (vectors)   (hands)    (prepared)
+              |            |           |           |            |
+   BARRIERS: |            |           |           |            |
+   [Water    ]  [Latrines] [Fly      ] [Hand-   ] [Safe food ]
+   [treatment]  [covering ] [screens  ] [washing ] [prep rules]
+              |            |           |           |            |
+              +------------+-----------+-----------+------------+
+                                       |
+                                  NEW HOST (mouth)
+
+   >>> Every barrier blocks one pathway. Two+ barriers = defense in depth. <<<
+```
+
 Historical mortality data confirms the primacy of this threat. During the Crimean War (1853-1856), British forces suffered 16,000 combat deaths and 21,000 disease deaths — predominantly cholera and dysentery. In the Boer War (1899-1902), typhoid killed five British soldiers for every one killed by Boer rifles (Curtin, 1998). The 1854 Broad Street cholera outbreak in London, investigated by John Snow, demonstrated that a single contaminated water pump could kill over 600 people in a two-week period. Snow's removal of the pump handle is the founding act of modern epidemiology — and a direct analogy for what the settlement must achieve on Day 1.
 
 Contemporary WHO statistics (2023) report 1.5 million deaths per year from diarrheal disease globally, with over 80% preventable through safe water, sanitation, and hygiene (WASH) interventions. These deaths occur despite the existence of hospitals, oral rehydration salts, and antibiotics. In a post-collapse environment, the "disease multiplier" eliminates all three backstops. The case fatality rate (CFR) for cholera rises from under 1% with modern treatment to 25-50% without (WHO, 2023). Typhoid CFR rises from 1% to 10-30%. Even non-lethal diarrheal episodes become dangerous: each episode causes fluid loss, electrolyte depletion, and malabsorption that compound over weeks into a lethal downward spiral.
@@ -25,6 +47,26 @@ Contemporary WHO statistics (2023) report 1.5 million deaths per year from diarr
 ### Water Demand Calculations
 
 Water requirements scale with temperature, physical activity, and the breadth of uses served. Underestimating water demand is one of the most common planning failures in emergency settlements — the UNHCR Handbook for Emergencies (2007) documents repeated cases where refugee camps designed for "drinking water only" suffered sanitation collapse because no allocation was made for hygiene, cooking, or waste management. The following hierarchy establishes planning targets for a 50-person settlement:
+
+```text
+          WATER DEMAND HIERARCHY (liters per person per day)
+          ==================================================
+
+          +---------------------------------------------------+
+          |   COMFORT / LIVESTOCK         50 L/p/d            |  Phase 3+
+          +---------------------------------------------------+
+          |   GARDENING / IRRIGATION      30 L/p/d            |  Phase 2-3
+          +---------------------------------------------------+
+          |   LAUNDRY / CLEANING          15-20 L/p/d         |  Phase 2
+          +---------------------------------------------------+
+          |   COOKING / HYGIENE            5-7.5 L/p/d        |  Phase 1
+          +---------------------------------------------------+
+          |   SURVIVAL DRINKING            2.5 L/p/d          |  Phase 0
+          +===================================================+
+                 BASE: Non-negotiable from Hour 1
+
+          50-person settlement total: 125 L/day (base) --> 2,500 L/day (full)
+```
 
 - **Minimum survival (drinking only):** 2-3 L/person/day. Below 2 L/day in temperate conditions, renal function deteriorates within 3-5 days. In hot conditions (>35 C ambient), minimum rises to 4-5 L/day due to sweat losses of 1-2 L/hour during heavy labor.
 - **WHO emergency minimum:** 7.5 L/person/day. This covers drinking (2.5 L), cooking (3 L), and minimal personal hygiene (2 L). This is a bare survival allocation — insufficient for laundry, dish washing, or any agricultural use.
@@ -38,6 +80,28 @@ Water requirements scale with temperature, physical activity, and the breadth of
 ### The Sanitation-Disease-Nutrition Triangle
 
 Diarrheal disease does not merely cause dehydration — it initiates a self-reinforcing cycle of malnutrition and immune suppression. Each diarrheal episode damages the intestinal villi responsible for nutrient absorption. In children, repeated episodes cause a condition called environmental enteropathy (also termed tropical enteropathy): chronic, sub-clinical inflammation of the gut lining that reduces nutrient absorption by 20-40% even in the absence of overt symptoms (Humphrey, 2009). The child eats adequate calories but absorbs insufficient protein, zinc, iron, and vitamin A. This produces immune suppression, which increases susceptibility to the next diarrheal episode, which causes further gut damage — a positive feedback loop.
+
+```text
+      SANITATION-DISEASE-NUTRITION CYCLE (positive feedback loop)
+      ============================================================
+
+          POOR SANITATION --------> WATERBORNE DISEASE
+         (open defecation,            (cholera, typhoid,
+          contaminated water)          dysentery, parasites)
+               ^                            |
+               |                            v
+      MORE SUSCEPTIBLE             MALNUTRITION / ENTEROPATHY
+      TO INFECTION                 (gut damage, -20-40%
+      (weakened immunity,           nutrient absorption,
+       depleted zinc/iron)          stunting in children)
+               ^                            |
+               +------- IMMUNE LOSS <-------+
+
+      INTERVENTIONS THAT BREAK THE CYCLE:
+        [X] Latrines/composting toilets --> block fecal contamination
+        [X] Water treatment (2 barriers) -> block pathogen ingestion
+        [X] Handwashing with soap -------> block finger-to-mouth route
+```
 
 Children under 5 are the most vulnerable population. The WHO estimates that repeated diarrheal episodes in the first 1,000 days of life (conception to age 2) cause irreversible stunting — reduced height-for-age that cannot be recovered even with subsequent adequate nutrition. A settlement that fails to protect its children from fecal-oral contamination will produce a generation of physically and cognitively stunted adults, regardless of how successful its food production becomes.
 
