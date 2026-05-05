@@ -26,6 +26,30 @@ The distinction between phosphorus and other macronutrients is categorical, not 
 
 Post-collapse, option (3) is the only viable source at the scale required for settlement agriculture.
 
+```text
+        CLOSED LOOP (this module)              OPEN LOOP (modern flush)
+        ========================              ========================
+
+     ┌─── Food Grown ◄──────────┐         ┌─── Food Grown
+     │         │                 │         │         │
+     ▼         ▼                 │         ▼         ▼
+   Humans Eat Food               │       Humans Eat Food
+     │                           │         │
+     ▼                           │         ▼
+   Excreta Produced              │       Excreta Produced
+   (0.5 kg P/person/yr)         │       (0.5 kg P/person/yr)
+     │                           │         │
+     ▼                           │         ▼
+   Thermophilic Composting       │       Flush Toilet
+     │                           │         │
+     ▼                           │         ▼
+   Biochar-Charged Amendment     │       River → Ocean
+     │                           │         │
+     └───► Returned to Soil ─────┘         ▼
+                                        P LOST FOREVER
+           P CYCLES FOREVER              (no return path)
+```
+
 The human body provides a reliable phosphorus stream. Published nutrient excretion data (Jonsson et al., 2004) establishes the following per-person annual outputs:
 
 | Nutrient    | Annual excretion (kg/person) | Primary excretion route |
@@ -55,6 +79,29 @@ The critical soil property governing nutrient retention is the Cation Exchange C
 The implications for humanure compost application are direct. If mature compost is applied to sandy soil without biochar amendment, a significant fraction of its soluble nitrogen and potassium will leach below the root zone within one to three growing seasons of heavy rainfall. The phosphorus is less mobile (it binds to iron and aluminum oxides in most soils) but still migrates slowly downward over years. The investment in composting is partially wasted.
 
 When compost is applied together with biochar, the picture changes fundamentally. Biochar's microporous carbon structure provides an enormous internal surface area (200-400 m2/g — roughly the area of a football field per gram) that adsorbs nutrient ions and holds them against leaching while remaining accessible to plant roots and soil microbes. The combination of compost (nutrient source) and biochar (nutrient retention matrix) creates a permanent nutrient bank in the soil — one that persists for decades to centuries rather than seasons.
+
+```text
+  CEC (cmol/kg)   NUTRIENT-HOLDING CAPACITY COMPARISON
+        │
+   100+ │                                          ████████
+        │                                          ████████
+    80  │                                          ████████
+        │                                          ████████
+    60  │                                          ████████
+        │                           ██████         ████████
+    50  │                           ██████         ████████
+        │                           ██████         ████████
+    40  │                           ██████         ████████
+        │                           ██████         ████████
+    20  │            ██████         ██████         ████████
+        │  ██████    ██████         ██████         ████████
+    10  │  ██████    ██████         ██████         ████████
+        │  ██████    ██████         ██████         ████████
+     0  └──────────────────────────────────────────────────────
+          Plain     Soil +        Soil +       Terra Preta
+          Soil      Compost       Biochar      (biochar +
+         (~10)      (~20)         (~50)       humanure, ~100+)
+```
 
 ### The Terra Preta Model
 
@@ -205,6 +252,30 @@ The following calculations allow a settlement to plan its humanure compost progr
 - Total blend volume: 15-24 m3/year
 - Applied at 2-5 cm depth: covers 300-1,200 m2/year (0.03-0.12 hectares)
 - To reach the full 2.5 hectares of coverage requires 8-20 years of cumulative application — this is expected. Terra Preta is built over years, not in a single season
+
+```text
+  ┌─────────────────────────────────────────────────────────────┐
+  │              NUTRIENT BUDGET: INPUT / OUTPUT BALANCE         │
+  ├─────────────────────────────────────────────────────────────┤
+  │                                                             │
+  │   INPUTS (per year, 50 people)     SOIL      OUTPUTS        │
+  │   ============================     BANK      =======        │
+  │                                      │                      │
+  │   Humanure compost ──────────►  ┌────┴────┐  Grain harvest  │
+  │     N: 100-150 kg               │         │──► N: 60-80 kg  │
+  │     P: 25 kg                    │  SOIL   │──► P: 10-15 kg  │
+  │     K: 50 kg                    │ NUTRIENT│──► K: 30-40 kg  │
+  │                                 │  BANK   │                 │
+  │   Kitchen compost ───────────►  │         │  Leaching loss  │
+  │     N: 20-40 kg                 │         │──► N: 10-30 kg  │
+  │                                 └────┬────┘                 │
+  │   Biochar (retention) ───────►       │                      │
+  │     (holds nutrients in root zone)   │                      │
+  │                                                             │
+  │   SUSTAINABILITY CONDITION:  Total Inputs  ≥  Total Outputs │
+  │   If inputs < outputs → soil depletion → crop failure       │
+  └─────────────────────────────────────────────────────────────┘
+```
 
 ---
 

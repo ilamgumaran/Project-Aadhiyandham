@@ -45,6 +45,28 @@
 <li>After 5D: 99.999% killed (5-log reduction)</li>
 <li>After 6D: 99.9999% killed, 1 in 1,000,000 survivors (6-log reduction)</li>
 </ul>
+<pre><code class="language-text">
+  D-VALUE CONCEPT: Exponential Pathogen Die-off at Constant Temperature
+
+  log₁₀(survivors)
+       |
+   6   |■■■■■■■■
+       |        \               1D = time for 90% kill
+   5   |         ■■■■■■■■      (one log₁₀ reduction)
+       |                 \
+   4   |                  ■■■■■■■■
+       |                          \
+   3   |                           ■■■■■■■■
+       |                                   \
+   2   |                                    ■■■■■■■■
+       |                                            \
+   1   |                                             ■■■■■■■■
+       |                                                     \
+   0   |______________________________________________________■___
+       0      1D      2D      3D      4D      5D      6D
+                          Time ────►
+       After 4D: 99.99% eliminated | After 6D: 99.9999% ← STANDARD
+</code></pre>
 <p>The 6-log reduction is the internationally accepted food safety standard. It means that if a compost pile started with one million viable Ascaris eggs per gram (an extreme scenario), after 6D exposure at the specified temperature, fewer than one egg per gram would survive. In practice, starting concentrations are far lower, so the actual safety margin is even greater.</p>
 <h3 id="comprehensive-pathogen-thermal-death-table">Comprehensive Pathogen Thermal Death Table</h3>
 <p>The following table summarizes D-values for the major human enteric pathogens relevant to humanure composting. All values are derived from published experimental data (see Further Study). Where ranges are given, the higher value should be used for safety calculations.</p>
@@ -146,6 +168,24 @@
 </tr>
 </tbody></table>
 <p>The table makes the hierarchy of thermal resistance visually obvious. Vibrio cholerae, the cause of cholera, is destroyed almost instantaneously at thermophilic temperatures. At the opposite extreme, Ascaris lumbricoides eggs require hours of sustained exposure at 55 degrees Celsius for a 6-log reduction. Every other human pathogen falls between these two endpoints. This is why Ascaris sets the design standard.</p>
+<pre><code class="language-text">
+  THERMAL DEATH CURVES AT 55°C — Why Ascaris Is the Indicator Organism
+
+  D-value (time for 90% kill)
+                  MINUTES                            HOURS
+                  ◄─────────────────────────────────►◄────────────►
+  V. cholerae    |█| &lt;1 min
+  E. coli        |████████| 5-15 min
+  Salmonella     |████████| 5-10 min
+  Crypto.        |████████████████████████| 10-30 min
+  ASCARIS EGGS   |████████████████████████████████████████████████|
+                                          30-60 min
+  ─────────────────────────────────────────────────────────────────
+                  0        10       20       30       40      50  60 min
+
+  ▲ Design rule: If the process kills Ascaris, EVERYTHING else is dead.
+    Ascaris D₅₅ = 30-60 min → 6-log kill requires 3-6 HOURS at 55°C.
+</code></pre>
 <h3 id="the-ascaris-challenge-why-it-sets-the-standard">The Ascaris Challenge: Why It Sets the Standard</h3>
 <p>Ascaris lumbricoides (human roundworm) produces eggs with a multi-layered proteinaceous shell evolved to survive environmental extremes. This shell consists of an outer uterine layer, a thick chitinous middle layer, and an inner lipid layer that provides extraordinary resistance to desiccation, ultraviolet radiation, chemical disinfection, and moderate heat.</p>
 <p>The thermal resistance profile of Ascaris eggs across the temperature spectrum:</p>
@@ -187,6 +227,32 @@
 <h2>Practical Implementation</h2>
 <h3 id="temperature-monitoring-without-instruments">Temperature Monitoring Without Instruments</h3>
 <p>In a post-collapse setting, mercury or digital thermometers may not be available. The following three methods provide temperature verification using materials available in any settlement.</p>
+<pre><code class="language-text">
+  ZERO-TECH TEMPERATURE MONITORING — Three Methods (Side View of Pile)
+
+                        ╱ ╲  thatch rain cover
+            ___________╱___╲___________
+           ╱           straw cap           ╲
+          ╱┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈╲
+         ╱   ┌───────────────────────────┐    ╲
+        │    │  ③ SEED BIO-ASSAY         │     │
+        │    │  [10 cress seeds in mesh] │     │
+        │    │   placed at core          │     │
+  ──────│────│───check after 7 days──────│─────│──
+        │    │   dead seeds = T &gt; 55°C   │     │
+        │    └───────────────────────────┘     │
+        │         ② WAX INDICATORS             │
+  ①─────┼──────►  [soy wax 49-55°C]  ◄────────┤
+  Metal │         [beeswax 62-64°C]            │
+  rod   │          in wire cage at             │
+  60cm  │          30cm depth                  │
+        │                                      │
+        ╰──────────────────────────────────────╯
+       ▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔
+   ① Insert rod 2 min → press to inner wrist → if painful in 3-5s: ≥55°C
+   ② Retrieve cage after 24h → melted soy wax confirms ≥50°C reached
+   ③ Seeds dead after 7 days → confirms sustained lethal temperature
+</code></pre>
 <p><strong>Method 1: The Metal Rod Test</strong></p>
 <p>Insert a 60 cm metal rod (rebar, iron poker, steel reinforcing bar, or any steel shaft) into the center of the pile. Leave it in place for a minimum of 2 minutes to allow thermal equilibration. Remove the rod and immediately press the inserted end against the sensitive skin of your inner wrist (the volar surface of the forearm, just proximal to the wrist crease --- this area has thin skin and high nerve density, making it a reliable temperature sensor).</p>
 <p>Calibration scale:</p>

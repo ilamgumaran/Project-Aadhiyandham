@@ -28,6 +28,26 @@ The decomposition process proceeds through four distinct phases:
 
 4. **Maturation/Curing Phase (ambient temperature, months).** The remaining organic matter is slowly converted to stable humic substances. Earthworms, beetles, and other macro-organisms colonize the pile. Biological competition during this phase provides an additional safety margin against any surviving pathogens.
 
+```text
+  Temperature
+  (degrees C)
+       70 |         .......
+          |        .       .        THERMOPHILIC PHASE
+       65 |       .  PATHOGEN  .    (days 3-21+)
+          |      .  KILL ZONE   .
+  - -55 --|-----.--.--.--.--.--.--.--.--  PATHOGEN KILL THRESHOLD (55 C)
+          |    .                  .
+       45 |   .                    .....
+          |  .    Thermophilic        .    COOLING PHASE
+       40 |..      begins              .   (weeks 3-8)
+          |.                            .
+       25 |  MESOPHILIC                  ........................
+          |  (days 1-3)                       MATURATION/CURING
+       20 |                                   (months 2-12)
+          +--+-----+-----+-----+-----+-----+-----+-----+----->
+          Day 1    7    14    21    Week 4   Week 8   Month 6  Time
+```
+
 The heat is generated entirely by microbial metabolism. The simplified equation for glucose oxidation illustrates the energy yield:
 
     C6H12O6 + 6O2 --> 6CO2 + 6H2O + 2,870 kJ/mol
@@ -138,6 +158,30 @@ The 12-month curing period provides an additional safety margin. Even if thermop
 5. Rinse the bucket with a small amount of water and a handful of wood ash, which serves as a natural alkaline disinfectant.
 6. Return the clean bucket to the toilet with a fresh 5 cm base layer of carbon cover.
 
+```text
+          DRY TOILET — CROSS-SECTION (SIDE VIEW)
+
+          ___________________
+         |   TOILET SEAT     |        [CARBON COVER]
+         |   /          \    |         ___________
+         |  |   opening  |   |        |  Sawdust  |
+    ====='==|============|=='=====    |  or dry   |
+    |        \__________/        |    |  leaves   |
+    |                            |    |_____+_____|
+    |   +----- 20 L BUCKET ----+ |          |
+    |   | ite carbon cover ~~~ | |       SCOOP
+    |   | ~~~ deposit ~~~~~~~~ | |
+    |   | ~~~ carbon layer ~~~ | |
+    |   | ~~~ deposit ~~~~~~~~ | |
+    |   | ~~~ carbon layer ~~~ | |    LAYERING PATTERN:
+    |   | === base layer ===== | |    deposit -> cover -> repeat
+    |   +----------------------+ |
+    |============================|    <-- SEALED BASE
+    ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~    (no ground contact)
+         VENTILATION PIPE -->  ||
+                               ||
+```
+
 **Urine diversion (optional but recommended).**
 A urine-diverting insert or seat design separates urine from feces at the source. This is advantageous for several reasons. Urine is sterile in healthy individuals and can be applied directly to soil as a nitrogen-rich liquid fertilizer when diluted 1:10 with water. Urine contains approximately 80 percent of the nitrogen and 50 percent of the phosphorus in human excreta — diverting it allows immediate nutrient recovery without waiting for the composting cycle. Separating urine also keeps the feces substantially drier, which improves the C:N balance in the bucket and reduces odor. In settlements where urine diversion is practiced, the carbon cover requirement is reduced and bucket lifespan between emptying is extended.
 
@@ -165,6 +209,26 @@ A urine-diverting insert or seat design separates urine from feces at the source
     Front openings (south-facing) for access with pitchfork.
     Shared walls reduce material cost.
     Roof or tarp over all three bins to control moisture.
+```
+
+```text
+  THREE-BIN ROTATION CYCLE
+
+  BIN 1 (ACTIVE)          BIN 2 (COMPOSTING)        BIN 3 (CURING)
+  +-----------------+     +-----------------+      +-----------------+
+  | Receiving fresh |     | Sealed, heating |      | Mature compost  |
+  | bucket deposits | --> | thermophilic    | -->  | ready to apply  |
+  | daily           |     | then cooling    |      | to food crops   |
+  +-----------------+     +-----------------+      +-----------------+
+      6 MONTHS                12 MONTHS                 6 MONTHS
+      (filling)               (composting)              (final cure)
+
+  When Bin 3 is emptied (applied to soil), the cycle shifts:
+    Bin 1 (now full) --> becomes the new Bin 2 (seal and compost)
+    Bin 2 (now done) --> becomes the new Bin 3 (cure and harvest)
+    Bin 3 (emptied)  --> becomes the new Bin 1 (begin filling)
+
+  TOTAL CYCLE TIME: ~24 months from deposit to safe application
 ```
 
 **Site selection criteria:**

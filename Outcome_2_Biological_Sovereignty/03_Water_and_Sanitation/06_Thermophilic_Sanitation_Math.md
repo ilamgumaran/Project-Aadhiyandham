@@ -45,6 +45,29 @@ The cumulative effect of sustained heat exposure is expressed in multiples of D:
 - After 5D: 99.999% killed (5-log reduction)
 - After 6D: 99.9999% killed, 1 in 1,000,000 survivors (6-log reduction)
 
+```text
+  D-VALUE CONCEPT: Exponential Pathogen Die-off at Constant Temperature
+
+  log₁₀(survivors)
+       |
+   6   |■■■■■■■■
+       |        \               1D = time for 90% kill
+   5   |         ■■■■■■■■      (one log₁₀ reduction)
+       |                 \
+   4   |                  ■■■■■■■■
+       |                          \
+   3   |                           ■■■■■■■■
+       |                                   \
+   2   |                                    ■■■■■■■■
+       |                                            \
+   1   |                                             ■■■■■■■■
+       |                                                     \
+   0   |______________________________________________________■___
+       0      1D      2D      3D      4D      5D      6D
+                          Time ────►
+       After 4D: 99.99% eliminated | After 6D: 99.9999% ← STANDARD
+```
+
 The 6-log reduction is the internationally accepted food safety standard. It means that if a compost pile started with one million viable Ascaris eggs per gram (an extreme scenario), after 6D exposure at the specified temperature, fewer than one egg per gram would survive. In practice, starting concentrations are far lower, so the actual safety margin is even greater.
 
 ### Comprehensive Pathogen Thermal Death Table
@@ -66,6 +89,25 @@ The following table summarizes D-values for the major human enteric pathogens re
 | **Ascaris lumbricoides eggs** | **Roundworm** | **30-60 min** | **10-20 min** | **3-5 min** | **3-6 hours** |
 
 The table makes the hierarchy of thermal resistance visually obvious. Vibrio cholerae, the cause of cholera, is destroyed almost instantaneously at thermophilic temperatures. At the opposite extreme, Ascaris lumbricoides eggs require hours of sustained exposure at 55 degrees Celsius for a 6-log reduction. Every other human pathogen falls between these two endpoints. This is why Ascaris sets the design standard.
+
+```text
+  THERMAL DEATH CURVES AT 55°C — Why Ascaris Is the Indicator Organism
+
+  D-value (time for 90% kill)
+                  MINUTES                            HOURS
+                  ◄─────────────────────────────────►◄────────────►
+  V. cholerae    |█| <1 min
+  E. coli        |████████| 5-15 min
+  Salmonella     |████████| 5-10 min
+  Crypto.        |████████████████████████| 10-30 min
+  ASCARIS EGGS   |████████████████████████████████████████████████|
+                                          30-60 min
+  ─────────────────────────────────────────────────────────────────
+                  0        10       20       30       40      50  60 min
+
+  ▲ Design rule: If the process kills Ascaris, EVERYTHING else is dead.
+    Ascaris D₅₅ = 30-60 min → 6-log kill requires 3-6 HOURS at 55°C.
+```
 
 ### The Ascaris Challenge: Why It Sets the Standard
 
@@ -125,6 +167,33 @@ Moisture serves a dual role. Water has a high specific heat capacity (4,184 J/kg
 ### Temperature Monitoring Without Instruments
 
 In a post-collapse setting, mercury or digital thermometers may not be available. The following three methods provide temperature verification using materials available in any settlement.
+
+```text
+  ZERO-TECH TEMPERATURE MONITORING — Three Methods (Side View of Pile)
+
+                        ╱ ╲  thatch rain cover
+            ___________╱___╲___________
+           ╱           straw cap           ╲
+          ╱┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈╲
+         ╱   ┌───────────────────────────┐    ╲
+        │    │  ③ SEED BIO-ASSAY         │     │
+        │    │  [10 cress seeds in mesh] │     │
+        │    │   placed at core          │     │
+  ──────│────│───check after 7 days──────│─────│──
+        │    │   dead seeds = T > 55°C   │     │
+        │    └───────────────────────────┘     │
+        │         ② WAX INDICATORS             │
+  ①─────┼──────►  [soy wax 49-55°C]  ◄────────┤
+  Metal │         [beeswax 62-64°C]            │
+  rod   │          in wire cage at             │
+  60cm  │          30cm depth                  │
+        │                                      │
+        ╰──────────────────────────────────────╯
+       ▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔
+   ① Insert rod 2 min → press to inner wrist → if painful in 3-5s: ≥55°C
+   ② Retrieve cage after 24h → melted soy wax confirms ≥50°C reached
+   ③ Seeds dead after 7 days → confirms sustained lethal temperature
+```
 
 **Method 1: The Metal Rod Test**
 
