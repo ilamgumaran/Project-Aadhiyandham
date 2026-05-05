@@ -6,6 +6,28 @@ Food sovereignty, in the Aadhiyandham framework, is not a philosophical aspirati
 
 The distinction between survival and sovereignty rests on three pillars. First, **soil fertility**: the settlement must build and maintain soil capable of sustaining intensive agriculture indefinitely, not for five years or ten, but for centuries. The Terra Preta model demonstrates that this is achievable with pre-industrial technology. Second, **genetic sovereignty**: the settlement must control its own seed supply through open-pollinated heirloom varieties that breed true from saved seed, eliminating dependence on external seed producers. Third, **caloric architecture**: crop selection must be optimized for maximum caloric yield per unit of human labor, not per unit of land alone, because in a world without diesel engines, human labor is the binding constraint.
 
+```text
+        FOOD SOVEREIGNTY PYRAMID
+        ========================
+
+             /\        NUTRITION
+            /  \       Complete dietary sufficiency
+           /----\      (vitamins, minerals, fats)
+          / PRE- \
+         / SERVA- \    PRESERVATION
+        /  TION    \   12-month food security
+       /------------\
+      /   HARVEST    \  HARVEST & YIELD
+     /  60-70M kcal/yr\ Caloric floor met annually
+    /------------------\
+   /  PLANT DIVERSITY   \ GENETIC SOVEREIGNTY
+  / 5+ staples, 10+ spp  \ Open-pollinated seed control
+ /------------------------\
+/     SOIL BIOLOGY          \ LIVING SOIL FOUNDATION
+/ Terra Preta + mycorrhizae   \ Biochar, compost, food web
+/------------------------------\
+```
+
 Agriculture is the settlement's primary economic activity. In every pre-industrial society studied -- Roman, Medieval European, Tokugawa Japanese, pre-Columbian Mesoamerican -- between 60% and 80% of total labor hours were devoted to food production, processing, and preservation. The Aadhiyandham settlement will be no different. Every other activity described in this manual -- shelter construction, water systems, medical care, governance -- exists in the margin of time that efficient agriculture creates. To underestimate the agricultural labor requirement is to guarantee the failure of every other system.
 
 > **SAFE**: Agricultural planning and soil preparation pose no inherent hazards. Individual modules within this section address specific safety concerns (pyrolysis fire safety, food preservation botulism risk, etc.).
@@ -90,6 +112,29 @@ Every successful pre-industrial agricultural system that sustained populations f
 
 1. **The Closed-Loop Principle**: Every nutrient that leaves the soil in a harvested crop must be returned to the soil through compost, humanure, animal manure, or green manure. Agricultural output equals soil input. Breaking this loop depletes the soil within 5-10 years in most temperate soils. There are no exceptions and no workarounds.
 
+```text
+         CLOSED-LOOP NUTRIENT CYCLING
+         ============================
+
+    +----------+                +-----------+
+    |   SOIL   |---nutrients--->|   PLANT   |
+    | (living  |                | (crop grows|
+    |  biome)  |                |  biomass)  |
+    +----------+                +-----------+
+         ^                           |
+         |                      harvest
+         |                           |
+         |                           v
+    +----------+                +-----------+
+    | COMPOST  |<---waste-------|   HUMAN   |
+    | humanure |   food scraps  | (consumes |
+    | manure   |   crop residue |  calories) |
+    | biochar  |                +-----------+
+    +----------+
+         |
+         +---> N, P, K returned to soil (zero loss target)
+```
+
 2. **The Genetic Sovereignty Principle**: The settlement must control its own seed supply. This means exclusively open-pollinated heirloom varieties, saved and selected annually from the best-performing plants. Dependence on external seed is dependence on external power -- it makes the settlement's food supply contingent on the continued existence and goodwill of the seed supplier.
 
 3. **The Caloric Floor Principle**: Before planting for variety, nutrition, or culinary pleasure, the settlement must secure its caloric floor. High-calorie staple crops (potatoes, corn, beans, squash) must occupy at minimum 60% of cultivated area. Nutrient-dense supplementary crops (leafy greens, alliums, brassicas) occupy the next 25%. Luxury crops (herbs, spices, medicinal plants) occupy the remaining 15% and are planted only after caloric security is established.
@@ -138,6 +183,32 @@ Harvest staple crops. Begin seed saving -- select seed from the healthiest, most
 
 **Month 11-12 (Late Autumn / Winter)**:
 Apply finished compost and aged humanure to beds. Maintain cover crop growth. Conduct soil assessment to measure changes from baseline. Review crop performance records and plan Year 2 rotations. Process and store biochar for spring application. Repair and maintain tools.
+
+```text
+  CALORIC SELF-SUFFICIENCY TIMELINE (50-person settlement)
+  ========================================================
+
+  100%|                                        ___________
+     |                                   ____/
+  80%|                              ____/
+     |                         ____/
+  60%|                    ____/
+     |               ____/
+  40%|          ____/
+     |     ____/
+  20%| ___/
+     |/
+   0%+---|---|---|---|---|---|---|---|---|---|---|--->
+     0   3   6   9  12  15  18  21  24  27  30  36
+                        MONTHS
+
+  Key milestones:
+    Month 0-3:  Emergency rations only (0% self-sufficient)
+    Month 4-6:  Fast crops yield first harvest (~15-20%)
+    Month 7-12: First full growing season completes (~40-50%)
+    Month 13-24: Second season + soil improvement (~60-80%)
+    Month 25-36: Mature polyculture + perennials (~90-100%)
+```
 
 ### Crop Selection Matrix
 

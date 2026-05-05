@@ -56,6 +56,29 @@ The minimum number of plants from which to save seed depends on the pollination 
 
 Corn is exceptionally sensitive. A population of fewer than 200 plants for seed saving will show measurable inbreeding depression — reduced ear size, poor tip fill, decreased disease resistance — within 3-5 generations. This is because corn is an obligate outcrosser with strong inbreeding depression genetics. If the settlement cannot plant 200+ corn plants, it must exchange seed with allied settlements every 3-5 years to refresh genetic diversity.
 
+```text
+    GENETIC DIVERSITY BOTTLENECK — FOUNDER EFFECT IN SEED POPULATIONS
+
+    Original Population          Bottleneck            Subsequent Generations
+    (high diversity)             (too few plants)      (reduced fitness)
+
+    Alleles: A B C D E F G H    Saved from only       Alleles: A C F
+             I J K L M N O P    12 plants             (lost: B D E G H I J K
+                                      |                L M N O P)
+    [########################]        |
+    [########################]   [########]---->  [########]---->  [######]
+    [########################]   [########]       [########]       [######]
+                                      |                |               |
+    Vigor: HIGH                  Vigor: OK        Vigor: DECLINING  Vigor: LOW
+    Disease resist: BROAD        (looks fine)     Subtle losses     Visible
+    Adaptability: WIDE                           appearing         collapse
+
+    MINIMUM VIABLE POPULATIONS:
+    Self-pollinating:   5-25 plants   (tolerant of small populations)
+    Insect-pollinated: 50-100 plants  (moderate sensitivity)
+    Wind-pollinated:  200+ plants     (CRITICAL — especially corn)
+```
+
 ### Seed Viability and Storage Science
 
 Seeds are living embryos in a state of metabolic suspension. They respire, consume stored energy, and slowly die. The rate of decline is governed by two primary variables: moisture content and temperature.
@@ -73,6 +96,29 @@ Seeds are living embryos in a state of metabolic suspension. They respire, consu
 | Long-lived (5-8 years) | Tomato, squash, cucumber, melon, beet, radish | Replace every 5 years |
 | Very long-lived (8-12 years) | Brassicas (cabbage, kale, broccoli, turnip), eggplant | Replace every 8 years |
 | Exceptional (15+ years) | Wheat, barley, some legumes under optimal conditions | Test annually after year 10 |
+
+```text
+    SEED VIABILITY DECAY CURVES — Germination % Over Years in Storage
+    (Conditions: ~8% moisture, 10-15°C, airtight container)
+
+    100%|*===*===*===*===*
+        |  \          \   *===*===*---        Long-lived (tomato,
+     80%|   \          \           ---*       squash, brassicas)
+        |    \          *---
+     70%|- - -\ - - - - - - ----*- - - - - - EMERGENCY THRESHOLD
+        |      \                    ---*
+     60%|       *---                       Medium-lived (bean,
+        |            ---*                   pea, carrot, pepper)
+     40%|       |         ---*---
+        |       |                 ---*
+     20%|       *---                         Short-lived (onion,
+        |            ---*---                  parsnip, parsley)
+      0%|______|______|______---*____|____
+        0      2      4      6      8     10   Years
+
+    ACTION: Replace seed stock BEFORE it crosses the 70% line.
+    Test annually. A 70% result means "grow out THIS season."
+```
 
 **Desiccant options for post-collapse conditions:**
 
@@ -176,6 +222,32 @@ The seed vault need not be elaborate, but it must satisfy four requirements:
 **Dark:** Light degrades some seed coats over time and can trigger premature metabolic activity. Store containers in opaque boxes or in a dark room.
 
 **Rodent-proof:** Mice and rats will find and consume unprotected seed stores with absolute reliability. Glass jars, metal tins, and heavy ceramic crocks are rodent-proof. Cloth bags, paper envelopes, and plastic bags are not. Assume any container that a rodent can chew through, a rodent will chew through.
+
+```text
+    SEED STORAGE ENVIRONMENT — Temperature x Humidity x Longevity
+
+    Relative           HARRINGTON'S RULE: Each 5°C cooler = 2x life
+    Humidity (%)       Each 1% less moisture = 2x life
+                       "100 Rule": Seed moisture% + Temp(°F) < 100
+    80% |  X   X   X   X   X        X = DANGER (months to failure)
+        |                            ! = MARGINAL (1-3 years)
+    60% |  X   X   !   !   !        * = ADEQUATE (3-8 years)
+        |                            @ = OPTIMAL (10-20+ years)
+    40% |  !   !   *   *   *
+        |
+    20% |  !   *   *   @   @     <=== Target zone: sealed jar
+        |                              + desiccant + cool storage
+    10% |  *   @   @   @   @
+        |____|____|____|____|____
+          35   25   15    5   -5   Temperature (°C)
+
+    PRACTICAL TARGETS FOR POST-COLLAPSE:
+    ┌─────────────────────────────────────────────────────┐
+    │  Root cellar (8-12°C) + sealed glass + desiccant    │
+    │  = approximately 15°C, <20% RH inside jar          │
+    │  = "OPTIMAL" zone — 5-15 year storage life         │
+    └─────────────────────────────────────────────────────┘
+```
 
 **Organization:** Label every container with: variety name, year saved, source location, number of plants seed was saved from, and most recent germination test result. An unlabeled jar of seed is useless — you cannot plan isolation distances, track viability, or make breeding decisions without records.
 

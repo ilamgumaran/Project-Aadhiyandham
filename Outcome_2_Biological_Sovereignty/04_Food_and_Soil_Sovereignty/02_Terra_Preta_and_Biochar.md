@@ -27,6 +27,29 @@ The temperature ranges and their products are as follows:
 
 The optimal temperature range for Terra Preta biochar is 400-600 C. This balances carbon stability (half-life of 1,000+ years) with retained surface functional groups that provide immediate cation exchange capacity. At these temperatures, approximately 20-35% of dry biomass weight is converted to biochar. The remaining 65-80% is released as combustible gases (CO, H2, CH4 — collectively called syngas) and condensable vapours. In a well-managed flame-cap kiln, these gases burn above the char bed, providing the heat to drive continued pyrolysis — the process is partially self-sustaining.
 
+```text
+    PYROLYSIS TEMPERATURE vs PRODUCT YIELD
+    (percentage of dry biomass by weight)
+
+    Yield %
+    100 |.........................................
+        |####  Biochar (solid carbon)
+     80 |####
+        |####~~~~
+     60 |####~~~~~~  Syngas (CO, H2, CH4)
+        |####~~~~~~~~
+     40 |###~~~~~~~~~~
+        |##~~~~~~~~~~~~
+     20 |#~~~~~~~~~~~~~~~  Bio-oil / tars
+        |~~~~~~~~~~~~~~~~~~
+      0 +----+----+----+----+----+----+----+---> Temp (C)
+       200  300  400  500  600  700  800  900
+
+    KEY:  # = Biochar   ~ = Syngas   . = Bio-oil
+    OPTIMAL ZONE for Terra Preta: 400-600 C
+    (20-35% char yield, max stability + CEC)
+```
+
 ### The Physics of Biochar's Soil Benefits
 
 Biochar improves soil through five distinct physical and chemical mechanisms:
@@ -34,6 +57,28 @@ Biochar improves soil through five distinct physical and chemical mechanisms:
 **Surface area.** Biochar produced at 400-600 C has an internal surface area of 200-400 m2/g, comparable to commercial activated carbon. One kilogram of biochar provides the total surface area of 50 to 100 football fields (25-50 hectares). This surface is colonised by bacteria, archaea, and fungi. A single gram of biochar-amended soil can harbour 10 billion microbial cells — roughly double the population density of unamended soil. The micropores (less than 2 micrometres) provide refuge where bacteria are protected from predation by protozoa and nematodes, allowing populations to stabilise.
 
 **Cation exchange capacity (CEC).** CEC measures a material's ability to adsorb and release positively charged nutrient ions (ammonium NH4+, potassium K+, calcium Ca2+, magnesium Mg2+). Fresh biochar has a CEC of 5-20 cmol(+)/kg — modest but not negligible. Over 6 to 12 months in soil, oxidation of the biochar surface creates carboxyl and phenolic groups that dramatically increase CEC to 40-150 cmol(+)/kg. For reference: sandy soil has a CEC of 3-5, clay soil 15-40, and humus 100-300 cmol(+)/kg. Biochar permanently elevates the nutrient-holding capacity of any soil it is added to.
+
+```text
+    CATION EXCHANGE CAPACITY COMPARISON
+    cmol(+)/kg
+    300 |                                      |###|
+        |                                      |###| Humus
+    200 |                                      |###|
+        |                              |===|   |###|
+    150 |                              |===|   |###|
+        |                              |===|   |###|
+    100 |                              |===|   |###|
+        |                              |===|   |###|
+     50 |              |:::|   |///|   |===|   |###|
+        |      |   |   |:::|   |///|   |===|   |###|
+      0 +------+---+---+---+---+---+---+---+---+---+--
+              Sand   Clay   Fresh    Aged    Humus
+             (3-5) (15-40) Biochar  Biochar (100-300)
+                            (5-20)  (40-150)
+
+    Aged biochar (6-12 months) rivals humus in CEC.
+    This is the mechanism of permanent fertility.
+```
 
 **Water retention.** The microporous structure of biochar holds water against gravitational drainage. Sandy soils amended with 10% biochar by volume retain 18-25% more plant-available water than unamended controls (Glaser et al., 2002). In practical terms, this can extend the interval between required irrigation or rainfall events by 2-4 days during the growing season — a significant margin in dryland agriculture.
 
@@ -50,6 +95,31 @@ The resulting soils are 1-2 metres deep with up to 70 times the carbon content o
 These soils remain fertile after 500 years of zero maintenance. The biochar is still functional, the microbial communities still diverse, the CEC still elevated. Terra Preta supports 2-3 times the crop yield of adjacent non-amended soils in controlled trials (Glaser, 2007). Population density estimates based on Terra Preta extent suggest 5-10 million people were supported by intensive agriculture on what was previously assumed to be "virgin" rainforest.
 
 The lesson is unambiguous: biochar-based soil amendment is the only proven technology for creating permanently fertile soil from infertile substrates using locally available materials and no external inputs.
+
+```text
+    TERRA PRETA SOIL PROFILE vs NATIVE OXISOL
+
+    Depth    Terra Preta (Anthrosol)       Native Oxisol
+    (cm)
+      0  +--------------------------+  +--------------------------+
+         | Mulch / leaf litter      |  | Thin leaf litter         |
+     10  +--------------------------+  +--------------------------+
+         | A horizon: DEEP BLACK    |  | A horizon: thin, brown   |
+         | Dense biochar fragments  |  | Low organic matter       |
+     30  | Pottery shards, bone     |  +--------------------------+
+         | CEC: 150+ cmol(+)/kg    |  | B horizon: red-orange    |
+     50  | Carbon: 5-14%            |  | Iron/aluminium oxides    |
+         | pH: 5.5-6.5 (near       |  | CEC: 3-5 cmol(+)/kg     |
+     70  |   neutral)               |  | Carbon: 0.2-0.5%         |
+         +--------------------------+  | pH: 4.0-4.5 (very acid) |
+    100  | Transition zone: char    |  |                          |
+         | fragments diminishing    |  |                          |
+    150  +--------------------------+  +--------------------------+
+         | C horizon: native clay   |  | C horizon: native clay   |
+    200  +--------------------------+  +--------------------------+
+
+    Terra Preta: 70x more carbon, 30-50x higher CEC
+```
 
 ### Biochar Feedstock Selection
 
