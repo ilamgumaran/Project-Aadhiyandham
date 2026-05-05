@@ -32,6 +32,24 @@ This is the minimum storage target for a single gap season. A settlement that ha
 
 For smaller planning units, the same formula scales linearly. A family of four over 180 days at 2,500 kcal/day requires 1,800,000 kcal raw, or 2,250,000 kcal with the safety margin.
 
+```text
+CALORIC BUDGET BREAKDOWN: 50-Person Settlement, 180-Day Gap Season
+====================================================================
+
+  50 persons x 2,500 kcal/day x 180 days = 22.5M kcal (raw need)
+                                       x 1.25 safety margin
+                                       ─────────────────────
+                                       = 28.0M kcal (storage target)
+
+  ┌─────────────────────────────────────────────────────────────┐
+  │  GRAINS & LEGUMES (70%) ████████████████████  19.6M kcal    │
+  │  FATS & OILS     (20%) ██████                  5.6M kcal    │
+  │  ROOT/PRESERVED  (10%) ███                     2.8M kcal    │
+  ├─────────────────────────────────────────────────────────────┤
+  │  Two-year reserve target: 56M kcal (doubles all above)      │
+  └─────────────────────────────────────────────────────────────┘
+```
+
 ### Caloric Density of Staple Foods
 
 The caloric budget tells us how many kilocalories to store. Translating that into physical infrastructure — the actual rooms and containers the settlement must build — requires two additional numbers for each food: its caloric density (kcal per kilogram) and its bulk density (kilograms per cubic meter when stored in bulk). Multiplying these gives the volumetric caloric density (kcal per cubic meter), which is the critical design parameter.
@@ -73,6 +91,28 @@ For a 28 million kcal target under the 70-20-10 rule, the approximate quantities
 
 Total minimum storage volume: 15-25 m3 for the dry pantry, plus 15-30 m3 for the root cellar. Add 20% overhead for air gaps, container walls, access aisles, and shelving structure. The settlement must therefore construct approximately 35-65 m3 of dedicated storage space — the equivalent of a room roughly 4 m x 5 m x 2.5 m for each chamber.
 
+```text
+THE 70-20-10 STORAGE MIX (28M kcal target)
+═══════════════════════════════════════════
+
+  BY CALORIES:                    BY VOLUME (net storage):
+
+  ┌──────────────────────┐        ┌──────────────────────────┐
+  │                      │        │ Root crops &   │  5-15 m3 │
+  │  GRAINS & LEGUMES    │        │ preserved      │          │
+  │       70%            │        ├────────────────┤          │
+  │   19.6M kcal         │        │                │          │
+  │   5,800 kg           │        │  Grains &      │  7.5 m3  │
+  │                      │        │  legumes       │          │
+  ├──────────────────────┤        ├────────────────┤          │
+  │  FATS & OILS  20%    │        │  Fats & oils   │  0.7 m3  │
+  │  5.6M kcal | 620 kg  │        └────────────────┴──────────┘
+  ├──────────────────────┤
+  │ ROOT/PRESERV 10%     │        Note: Fats are 3x more volume-
+  │ 2.8M kcal | 3,600 kg │        efficient than grain per kcal,
+  └──────────────────────┘        but root crops need 5x more space.
+```
+
 ### The Thermodynamics of Earth-Cooled Storage
 
 The fundamental principle of earth-cooled storage is that below the frost line — typically 1 to 2 meters depth depending on latitude and soil type — the soil temperature is approximately constant throughout the year. This equilibrium temperature closely approximates the annual mean air temperature of the region.
@@ -86,6 +126,23 @@ The thermal buffering capacity of the earth roof is enormous. The heat capacity 
     10 m2 x 1.0 m x 1,800 kJ/m3/C = 18,000 kJ per degree C
 
 This means that to raise the cellar temperature by 1 degree C, 18,000 kJ of heat energy must pass through the roof — an enormous buffer that dampens day-to-night temperature swings to near zero and slows seasonal temperature drift to a rate measured in fractions of a degree per week.
+
+```text
+EARTH-COOLED THERMODYNAMICS: Temperature Gradient by Depth
+═══════════════════════════════════════════════════════════
+
+  Surface:  -10°C (winter) to +35°C (summer) — swings 45°C
+        │
+  0.0m ─┼─ ░░░░░░░░░░░░░░  surface soil (high variability)
+  0.5m ─┼─ ▒▒▒▒▒▒▒▒▒▒▒▒▒▒  seasonal variation: ±8°C
+  1.0m ─┼─ ▓▓▓▓▓▓▓▓▓▓▓▓▓▓  seasonal variation: ±4°C (earth cover)
+  1.5m ─┼─ ████████████████  seasonal variation: ±2°C
+  2.0m ─┼─ ████████████████  CELLAR ZONE: 10-14°C year-round
+  2.5m ─┼─ ████████████████  seasonal variation: <±1°C
+        │
+        └──── Thermal mass: 1,800 kJ/m³/°C (packed earth)
+              Night-ventilation charging lowers cellar to 1-5°C
+```
 
 ### Vegetable Respiration and Atmospheric Management
 
@@ -112,6 +169,27 @@ For every 10 degree Celsius increase in storage temperature, the rate of biochem
 The practical consequence is that small temperature differences produce large differences in storage life. Potatoes stored at 5 degrees C may remain firm and edible for 6-8 months. The same potatoes stored at 15 degrees C — only 10 degrees warmer — will sprout, soften, and begin to rot in 2-3 months. Grain stored at 10 degrees C will maintain quality for years; at 30 degrees C, insect infestations accelerate and mold growth becomes aggressive within weeks.
 
 This is why root cellar temperature control is not a convenience — it is the single most important factor in storage life. A cellar that is "close enough" to the target temperature is not close enough. Every degree matters, and the difference between 5 degrees C and 12 degrees C is the difference between a pantry that lasts through April and one that fails in January.
+
+```text
+Q10 DEGRADATION CURVE: Storage Temperature vs. Spoilage Rate
+═════════════════════════════════════════════════════════════
+
+  Spoilage
+  Rate (x)
+    8x │                                              *
+    6x │                                    *
+    4x │ ─ ─ ─ ─ ─ ─ ─ ─ ─ ─ ─ ─*─ ─ ─  (rate doubles every 10°C)
+    2x │ ─ ─ ─ ─ ─ ─ ─ *─ ─ ─ ─ ─ ─ ─ ─
+    1x │ ─ ─ ─ ─ *
+   0.5x│    *
+       └───┬────┬────┬────┬────┬────┬────┬──
+           0    5   10   15   20   25   30  °C
+
+  EXAMPLE (potatoes):
+    5°C  = 6-8 months storage life  (baseline)
+   15°C  = 2-3 months              (2x spoilage rate)
+   25°C  = 3-4 weeks              (4x spoilage rate)
+```
 
 ---
 

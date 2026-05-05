@@ -29,6 +29,19 @@ Modern populations frequently misunderstand pre-industrial health. The commonly 
   6. **Malnutrition and deficiency disease** — scurvy (vitamin C), pellagra (niacin), rickets (vitamin D), beriberi (thiamine). These are entirely preventable through dietary diversity (addressed by Section 04: Food and Soil Sovereignty).
 
 - **Modern chronic diseases** (cancer, cardiovascular disease, Type 2 diabetes, autoimmune disorders, neurodegenerative disease) are largely diseases of industrialization. A settlement practicing traditional agriculture, sustained physical labor, whole-food diet, natural circadian rhythms, and low exposure to environmental toxins will have dramatically lower rates of these conditions. The settlement health system does not need to address them as primary threats.
+```text
+    PRE-INDUSTRIAL DISEASE BURDEN: TOP 5 CAUSES & PREVENTION
+    ═════════════════════════════════════════════════════════════
+    CAUSE                % DEATHS   PREVENTION METHOD
+    ──────────────────── ────────── ─────────────────────────────
+    1. Infectious        40-60%     Clean water + sanitation
+    2. Childhood mort.   25-35%     Nutrition + midwifery
+    3. Dental→sepsis      5-10%     Miswak + early extraction
+    4. Trauma             5-10%     Splinting + wound care
+    5. Childbirth         3-5%      Trained midwifery
+    ──────────────────── ────────── ─────────────────────────────
+    TOTAL PREVENTABLE:   ~80-90%    via Modules in this Section
+```
 
 ### The Prevention Hierarchy
 
@@ -40,6 +53,25 @@ Prevention is 10-100x more effective than treatment in a resource-limited settin
 4. **Procedural intervention** — wound closure (suturing, steri-strips), splinting and traction, tooth extraction, abscess drainage, childbirth assistance, tourniquet application. This is the last resort for acute emergencies that cannot be managed by pharmacy alone.
 
 The settlement should invest the vast majority of its health resources in levels 1 and 2, with 3 and 4 as backup. Inverting this ratio — treating sickness instead of preventing it — will overwhelm the settlement's limited medical capacity within months.
+
+```text
+         THE PREVENTION HIERARCHY PYRAMID
+              /\
+             /  \       4. PROCEDURAL (5%)
+            / ER \      Suturing, extraction, splinting
+           /______\
+          /        \    3. BOTANICAL (15%)
+         / PHARMACY \   Garlic, willow bark, berberine
+        /____________\
+       /  BEHAVIORAL  \    2. BEHAVIORAL (15%)
+      / Hand hygiene,  \   Sleep, dental care, safety
+     /_________________ \
+    /   ENVIRONMENTAL    \    1. ENVIRONMENTAL (65%)
+   / Clean water, sanit., \   Nutrition, vector control
+  /_________________________\
+  BASE = highest leverage, protects ALL
+  APEX = last resort, treats ONE
+```
 
 ### The Body's Healing Systems
 
@@ -64,6 +96,29 @@ Key hormonal cycles governed by the circadian rhythm:
 
 In a post-collapse settlement without artificial light, the community naturally returns to ancestral sleep patterns: 10-12 hours of darkness per night in winter, 8-9 hours in summer. Research on pre-industrial sleep (Yetish et al., 2015, studying Hadza, San, and Tsimane populations) shows that humans in natural light environments sleep 6.9-8.5 hours per night with high sleep efficiency. This is beneficial, not a limitation.
 
+```text
+    THE CIRCADIAN-ENDOCRINE AXIS
+    ═══════════════════════════════════════════════════════
+    LIGHT (dawn)                    DARKNESS (dusk)
+       │                                │
+       ▼                                ▼
+    [ EYES: melanopsin receptors ]──►[ EYES ]
+       │                                │
+       └──────────► SCN ◄──────────────┘
+                (Master Clock)
+           ┌────────┴────────┐
+           ▼                 ▼
+    ┌─────────────┐   ┌─────────────┐
+    │ CORTISOL ↑  │   │ MELATONIN ↑ │
+    │ (adrenals)  │   │  (pineal)   │
+    └──────┬──────┘   └──────┬──────┘
+           ▼                 ▼
+    • Alertness        • Sleep onset
+    • Immune deploy    • Growth hormone
+    • Glucose avail.   • Glymphatic flush
+    • Cognition        • Tissue repair
+```
+
 ### The Botanical Pharmacy Concept
 
 For the vast majority of human history, medicine meant plants. The World Health Organization estimates that 80% of the global population still relies on traditional plant-based medicine as their primary healthcare system. This is not folk superstition — it is applied pharmacology, refined by millennia of empirical observation and increasingly validated by modern phytochemical research.
@@ -78,6 +133,21 @@ Key pharmacologically active plant compounds available in temperate zones:
 - **Eugenol** (clove, *Syzygium aromaticum*): Dental analgesic that numbs pain by blocking voltage-gated sodium channels in nerve tissue. Applied directly to a painful tooth or cavity via clove oil or crushed clove. This is the single most important dental emergency compound the settlement can stockpile.
 
 These are not folk remedies. They are pharmacologically active compounds with peer-reviewed evidence of efficacy. The settlement's botanical pharmacy provides a real, if limited, alternative to pharmaceutical antibiotics and analgesics — one that can be cultivated, harvested, and replenished indefinitely.
+
+```text
+    THE BOTANICAL PHARMACY SHELF
+    ════════════════════════════════════════════════════════════
+    COMPOUND     PLANT SOURCE            MECHANISM OF ACTION
+    ──────────── ─────────────────────── ──────────────────────
+    Allicin      Garlic (A. sativum)     Disrupts cell membranes
+    Salicin      Willow bark (Salix)     Inhibits COX → pain block
+    Berberine    Oregon grape/Barberry   Inhibits FtsZ (division)
+    Thymol       Thyme (T. vulgaris)     Membrane disruption
+    Tannins      Oak bark/Witch hazel    Protein precipitation
+    Eugenol      Clove (S. aromaticum)   Blocks Na+ channels
+    ──────────── ─────────────────────── ──────────────────────
+    All cultivable in temperate zones. Indefinitely renewable.
+```
 
 ---
 

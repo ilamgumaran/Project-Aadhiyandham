@@ -26,6 +26,27 @@ Biomass is composed of three primary structural polymers, each of which decompos
 
 **Lignin decomposition (280-500 degrees C):** The slowest and most thermally resistant component, constituting 15-30% of dry wood mass. Lignin decomposition produces phenolic compounds and, critically, forms the stable polycyclic aromatic carbon structure that makes biochar resistant to microbial decomposition for centuries to millennia. Lignin is why biochar is permanent — it is the molecular scaffold that survives.
 
+```text
+  BIOMASS DECOMPOSITION STAGES BY TEMPERATURE
+  =============================================
+
+  Temperature    Stage              Primary Products
+  ---------    --------           ------------------
+   100 C       DRYING             Water vapor expelled
+               |                  (mass loss: 10-20%)
+   200 C  ----+--- TORREFACTION   Acetic acid, CO2, furfural
+               |   (Hemicellulose) (mass loss: 20-30%)
+   300 C  ----+--- PYROLYSIS       CO, H2, CH4, tars, bio-oil
+               |   (Cellulose)     (mass loss: 40-50%)
+   400 C       |
+               |   (Lignin)        Phenols, stable carbon rings
+   500 C  ----+--- CARBONIZATION   Biochar residue solidifies
+               |                   (final yield: 20-35% as char)
+  ---------    --------           ------------------
+  PRODUCT:     CHAR (solid)  +  SYNGAS (gas)  +  BIO-OIL (liquid)
+  YIELD:        20-35%            25-40%           15-25%
+```
+
 The products of pyrolysis, by mass fraction of dry feedstock, are approximately:
 - Biochar (solid): 20-35% by weight, containing 60-80% of the original fixed carbon
 - Syngas (gaseous): CO + H2 + CH4 + CO2 + trace gases, 25-40% by weight
@@ -144,6 +165,31 @@ Step 5 — Fashion pot support. Bend three metal tabs inward from the top rim of
 
 Step 6 — Install grate (optional). If available, place a wire mesh or perforated metal circle inside the inner drum, resting 2-3 cm above the bottom plate. This grate supports the fuel column and allows fine ash to fall away from the primary air holes, preventing blockage during operation.
 
+```text
+  TWO-DRUM TLUD CONSTRUCTION (Exploded View)
+  ===========================================
+
+         ___pot support tabs (3x, bent inward)___
+        /                                        \
+       [  INNER DRUM (20L pail, 25-30cm dia)      ]
+       [  o o o o  <-- secondary air holes (top)  ]
+       [                                          ]
+       [  ~~~~~~~~ fuel loading space ~~~~~~~~    ]
+       [                                          ]
+       [  o o o o  <-- primary air holes (bottom) ]
+       [==========GRATE (wire mesh)=============== ]
+       [__________________________________________]
+            |   3-5 cm gap all around   |
+       [  OUTER DRUM (35-40cm dia)                ]
+       [                                          ]
+       [  <-- ASH / SAND insulation fill -->      ]
+       [                                          ]
+       [  o   o   o  <-- ventilation holes        ]
+       [__________________________________________]
+            |  spacers (stones/metal tabs)  |
+       ====================================ground====
+```
+
 **Cross-Section Diagram:**
 
 ```
@@ -235,6 +281,29 @@ Laboratory analysis of biochar (surface area, cation exchange capacity, carbon c
 **Float test:** Drop a small piece of biochar into a container of water. Correct result: the piece initially floats (micropores are filled with air, providing buoyancy), then slowly sinks over 30-120 seconds as water infiltrates the pore network. Ash sinks immediately. Undercooked char may not float at all (pores are filled with residual tars).
 
 **Crush test:** Crush a piece between thumb and forefinger. Correct result: the piece fractures into angular fragments with sharp edges. If the piece crumbles to fine powder, ash contamination is high — the quench was too slow or primary air was excessive.
+
+```text
+  BIOCHAR QUALITY ASSESSMENT FLOWCHART
+  =====================================
+
+  SAMPLE PIECE
+      |
+      v
+  [CRUSH TEST] ---> crumbles to powder? --> FAIL: over-oxidized (ash)
+      | fractures to angular pieces            action: quench faster
+      v
+  [RING TEST] ----> dull thud? -----------> FAIL: under-pyrolyzed
+      | sharp ceramic "clink"                  action: increase burn time
+      v
+  [COLOR TEST] ---> brown interior? -------> FAIL: incomplete pyrolysis
+      | uniform deep black                     action: reduce piece size
+      v
+  [FLOAT TEST] ---> sinks immediately? ----> FAIL: ash or tar-filled
+      | floats, then sinks in 30-120s          action: check air ratio
+      v
+  PASS: High-quality biochar
+  Ready for charging and soil incorporation
+```
 
 ### Production Schedule for a 50-Person Settlement
 
