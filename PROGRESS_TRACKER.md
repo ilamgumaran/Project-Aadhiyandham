@@ -62,9 +62,9 @@
 - [I] `01_Rationale_and_Importance.md`
 - [I] `02_Terra_Preta_and_Biochar.md`
 - [I] `03_Heirloom_Seed_Banking.md`
-- [T] `04_Long_Term_Food_Preservation.md`
-- [T] `05_Thermal_Mass_Cooking.md`
-- [T] `06_Emergency_Nutrition.md`
+- [I] `04_Long_Term_Food_Preservation.md`
+- [I] `05_Thermal_Mass_Cooking.md`
+- [I] `06_Emergency_Nutrition.md`
 - [T] `07_Pyrolysis_Engineering_and_TLUD_Gasifiers.md`
 - [T] `08_Refugia_Pantry_Physics.md`
 
@@ -259,3 +259,4 @@
 | P2-11 | 2026-05-04 | 03.01, 03.02, 03.03 | **BEGIN OUTCOME 2: Biological Sovereignty.** Water & Sanitation Rationale (3 new ASCII: F-diagram 6 fecal-oral pathways with barriers, water demand 5-tier pyramid 2.5-50 L/p/d, sanitation-disease-nutrition cycle with interventions; 185→249 lines), Bio-Sand Filtration (3 new + 1 existing: Darcy's Law sand column, Schmutzdecke biofilm ecology, four pathogen removal barriers; 292→364 lines), Immediate Sanitation (3 new: F-diagram transmission, groundwater plume cross-section 30m rule, latrine progression trench→pit→VIP; 363→435 lines). |
 | P2-12 | 2026-05-04 | 03.04, 03.05, 03.06 | Humanure Composting (3 new ASCII: four decomposition phases temperature timeline with 55°C kill zone, dry toilet cross-section layering pattern, three-bin rotation 24-month cycle; 266→330 lines), Humanure Integration (3 new: phosphorus closed vs open loop cycle, CEC enhancement bar chart soil→Terra Preta, nutrient budget I/O balance worksheet; 280→351 lines), Thermophilic Sanitation Math (3 new: D-value log₁₀ staircase decline, thermal death curves at 55°C Ascaris indicator, zero-tech temp monitoring 3 methods compost cross-section; 316→385 lines). **SECTION 03 COMPLETE — 6/6 at [I].** |
 | P2-13 | 2026-05-04 | 04.01, 04.02, 04.03 | **BEGIN SECTION 04: Food & Soil Sovereignty.** Food Sovereignty Rationale (3 new ASCII: food sovereignty pyramid soil→nutrition layers, closed-loop nutrient cycling soil→plant→human→compost→soil, caloric self-sufficiency timeline months-to-percentage; 225→296 lines), Terra Preta & Biochar (3 new: temperature vs product yield 200-900°C optimal zone, CEC comparison bar chart sand→humus, Terra Preta soil profile anthrosol vs oxisol side-by-side; 280→350 lines), Heirloom Seed Banking (3 new + 2 existing: genetic diversity bottleneck allele loss diagram, seed viability decay curves by crop family, seed storage environment temp×humidity matrix with Harrington's Rule; 348→420 lines). |
+| P2-14 | 2026-05-04 | 04.04, 04.05, 04.06 | Long-Term Food Preservation (4 new ASCII: water activity spectrum bacteria/mold/yeast thresholds, root cellar cross-section thermal mass + ventilation, lacto-fermentation vessel anaerobic/brine/pH, solar dryer airflow cross-section; 309→391 lines), Thermal Mass Cooking (3 new: combustion efficiency open fire vs rocket vs earth oven, hay box retained-heat cooker cross-section with temp decay, fuel demand vs coppice supply bar chart; 281→360 lines), Emergency Nutrition (4 new: caloric bridge timeline stored→foraged→garden ramp, Universal Edibility Test 8-hr sequential flowchart, wild food caloric density horizontal bar chart, fish weir V-funnel top-down cross-section; 281→365 lines). |

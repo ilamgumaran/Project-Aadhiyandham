@@ -24,6 +24,21 @@ Over a 100-day establishment period, the total caloric demand is approximately 1
 
 The "caloric gap" --- the period between ration exhaustion and first harvest --- typically spans days 45 through 100 or beyond. During this window, the settlement must source approximately 55 days of food, or roughly 8.25 million kcal, from a combination of foraging, fishing, trapping, and fast-maturing crops.
 
+```text
+CALORIC BRIDGE TIMELINE (50-person settlement)
+
+Day:  0    10    20    30    40    50    60    70    80    90   100
+      |-----|-----|-----|-----|-----|-----|-----|-----|-----|-----|
+
+STORED RATIONS:  [################=========].......................
+FORAGING/FISH:   ......[==########===================================]
+FAST CROPS:      ..........................[====########=============]
+
+                          |--- DANGER ZONE ---|
+                          Day 35-65: rations gone, crops not ready
+                          Foraging must cover the gap
+```
+
 A foraging reality check is essential for planning: an experienced forager working a temperate deciduous forest during peak season (late summer through autumn) can gather approximately 2,000-5,000 kcal/day of mixed wild foods. A novice forager, even with training, can expect only 500-1,500 kcal/day. Assigning 10 foragers from a 50-person group yields 5,000-50,000 kcal/day from foraging alone --- far short of the 150,000 kcal/day requirement. Foraging alone CANNOT feed a 50-person settlement. It must be combined with fishing, trapping, fast-maturing crops, and disciplined ration management to close the gap.
 
 ### Macronutrient Requirements Under Stress
@@ -58,6 +73,37 @@ When confronting a completely unknown plant species and no other food is availab
 
 WARNING: This test requires 24+ hours per plant part and does NOT detect all toxins. Some plant toxins are cumulative (safe in small doses but toxic over repeated exposure). Some toxins have delayed onset of days or weeks. The Universal Edibility Test is a calculated risk, not a guarantee. It should be used only when starvation is the alternative and no known-safe species are available.
 
+```text
+UNIVERSAL EDIBILITY TEST FLOWCHART (FM 21-76)
+
+[SEPARATE into parts: leaf, stem, root, flower, seed]
+              |  (test ONE part at a time)
+              v
+STEP 1: SKIN --- rub inner wrist, wait 8 HOURS
+         Reaction? --YES--> DISCARD
+              |NO
+              v
+STEP 2: LIP --- touch outer lip, wait 15 min
+         Reaction? --YES--> DISCARD
+              |NO
+              v
+STEP 3: TONGUE --- place on tongue, wait 15 min
+         Reaction? --YES--> DISCARD
+              |NO
+              v
+STEP 4: CHEW --- chew 15 min, do NOT swallow
+         Reaction? --YES--> SPIT, RINSE, DISCARD
+              |NO
+              v
+STEP 5: SWALLOW --- eat 1 tsp, wait 8 HOURS
+         Illness? --YES--> INDUCE VOMITING, DISCARD
+              |NO
+              v
+[LIKELY SAFE --- increase quantity gradually]
+
+TOTAL TIME: 24+ hours per plant part (minimum)
+```
+
 ### Caloric Density of Wild Foods (Temperate Zone Reference Table)
 
 The following table provides caloric and macronutrient data for the primary wild food sources available in temperate deciduous and mixed forests. All values are approximate and vary by region, season, and preparation method.
@@ -79,6 +125,26 @@ The following table provides caloric and macronutrient data for the primary wild
 | Wild berries (various) | 400-600 | 85% carb, 5% fat, 5% protein + vitamins | Summer-Autumn | Eat raw or cook; ONLY eat berries positively identified | MODERATE to HIGH depending on species |
 | Walnuts (black walnut) | 6,500-7,000 | 10% carb, 65% fat, 15% protein | Autumn | Crack hard shell, eat raw or roasted | HIGH --- distinctive compound leaf and nut |
 | Clover (red/white) | 300-400 | 70% carb, 5% fat, 20% protein | Spring-Autumn | Flowers and young leaves edible raw or cooked | HIGH --- extremely common, distinctive trifoliate leaf |
+
+```text
+WILD FOOD CALORIC DENSITY (kcal per kg, raw/processed)
+
+         0     1000    2000    3000    4000    5000    6000    7000
+         |-------|-------|-------|-------|-------|-------|-------|
+Walnuts  [##################################################] 6,750
+Pine nut [################################################]   6,500
+Acorns   [###########################]                         3,750
+Grass sd [##########################]                          3,250
+Cat.poll [###################]                                 2,750
+Insects  [############]                                        1,750
+Fish     [########]                                            1,150
+Cat.rhiz [########]                                            1,250
+Cambium  [####]                                                  650
+Dandelin [###]                                                   475
+Clover   [##]                                                    350
+
+HIGH-FAT (nuts) = greatest density | STARCH = best bulk | ANIMAL = amino acids
+```
 
 ---
 
@@ -169,6 +235,24 @@ For feeding a group, passive fishing methods (traps and weirs) are vastly more e
 2. Build a V-shaped barrier of stacked stones and interwoven branches, with the open end facing upstream and the narrow point facing downstream.
 3. At the narrow downstream point, place a basket trap or woven enclosure. Fish swimming downstream are funneled by the V-shape into the trap and cannot escape.
 4. Check the trap at least twice daily (morning and evening). Remove caught fish and repair any damage from water flow or debris.
+
+```text
+FISH WEIR (top-down view)       --> water flow -->
+
+  ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ bank
+       \                           /
+        \   stone + branch wall  /
+         \     (V-FUNNEL)       /    Fish cannot pass
+          \                    /     barrier walls ---
+           \                 /       funneled to point
+            \              /
+             \           /
+              \        /
+              [BASKET TRAP]  <-- woven enclosure, one-way entry
+  ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ bank
+
+  Barrier: stacked stones + woven branches, 60-80cm high
+```
 
 **Set Lines**: A long line strung across a waterway with multiple baited hooks (a "trotline") catches fish passively overnight. Set 10-20 hooks baited with earthworms, insects, or small pieces of meat.
 

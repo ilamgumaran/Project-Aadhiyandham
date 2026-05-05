@@ -49,6 +49,23 @@ Critical aw thresholds:
 
 Salt and sugar reduce aw through osmotic pressure — binding free water molecules. Drying reduces aw through physical evaporation. Both achieve the same result: a substrate too dry for microbial colonization.
 
+```text
+Water Activity (aw) Spectrum — Food Stability Zones
+=================================================================
+aw:  1.0    0.95    0.90    0.85    0.80    0.70    0.60
+     |-------|-------|-------|-------|-------|-------|
+     | HIGH MOISTURE | INTERMEDIATE  |    DRY      |
+     |<-- ALL microbes active        |             |
+     |      |<-- Botulism stops 0.94 |             |
+     |      | |<-- Bacteria stop     |             |
+     |      | |       |<-- Yeasts    |             |
+     |      | |       |    |<-- Molds stop         |
+     |      | |       |    |         |<-- No growth|
+     |-------|-------|-------|-------|-------|-------|
+ZONE: DANGER | CAUTION | MARGINAL  |  SAFE | INERT
+Examples: Meat(0.99) Cheese(0.85) Jerky(0.65) Crackers(0.30)
+```
+
 ### The pH Safety Threshold
 
 The pH scale runs from 0 (strongly acidic) to 14 (strongly alkaline), with 7 as neutral. The critical number for food preservation is **pH 4.6** — below this value, *Clostridium botulinum* spores cannot germinate and therefore cannot produce their lethal neurotoxin.
@@ -128,6 +145,25 @@ The root cellar is the foundational preservation infrastructure for any settleme
 
 **Humidity Management.** Root crops require 85-95% relative humidity to prevent shriveling. Dried goods require 60-70% to prevent rehydration. If both are stored in the same cellar, seal dried goods in lidded ceramic crocks or waxed containers. Raise humidity by wetting the gravel floor. Lower humidity by increasing ventilation.
 
+```text
+Root Cellar Cross-Section (North-South Axis)
+============================================================
+  SOUTH          ~~ 1m packed earth (crowned) ~~       NORTH
+      _________///////////////////////////////////________
+     | EXHAUST ^ |                            | INTAKE  |
+     | VENT    | |   earth roof / log beams   | VENT    |
+     | (ceil)  | |____________________________| (floor) |
+     | warm +  |                              |   |     |
+     | ethylene|  [Shelf] dried goods         |   v     |
+     | rises   |  [Shelf] cabbages/beets      | cool    |
+     | out     |  [Shelf] potatoes/onions     | air in  |
+     |         |  [Shelf] carrots in sand     |         |
+     |_________|______________________________|_________|
+     |/////////// COMPACTED GRAVEL (150mm) //////////|
+     Temp: ceiling 5-7C | mid 3-5C | floor 1-3C
+     Humidity: 85-95% (wet gravel floor regulates)
+```
+
 **Storage Life Reference Table:**
 
 | Crop | Optimal Temp (C) | Optimal Humidity (%) | Expected Storage Life |
@@ -172,6 +208,27 @@ Use coarse, non-iodized salt only. Iodine inhibits *Lactobacillus* and will caus
 
 **Storage Life.** Properly fermented vegetables stored in a root cellar at 1-5 degrees Celsius will remain safe and palatable for 1-2 years, potentially longer. The acid environment is self-sustaining — as long as the vegetables remain submerged under brine, no pathogen can establish.
 
+```text
+Lacto-Fermentation Vessel (Cross-Section)
+============================================
+       cloth cover (allows CO2 escape)
+       _____|_____
+      /     |     \       CO2 ^  ^  ^
+     /   ___|___   \          |  |  |
+    |   | WEIGHT |  |   ~~~~~~|~~|~~|~~~~~~
+    |   |_(stone)_| |   brine level
+    |   : : : : : : |
+    |   : vegetable : <-- submerged = anaerobic
+    |   : matter    : |
+    |___________________|
+    |   ceramic crock   |
+
+    pH over time:
+    Day 0:  pH 6.0 ||||||||||||||||| (neutral — unsafe)
+    Day 7:  pH 4.2 ||||||||          (SAFE — below 4.6)
+    Day 14: pH 3.5 ||||||           (stable, preserved)
+```
+
 ### Method 3: Drying (Solar and Smoke)
 
 Drying is the most ancient preservation method, predating all others. It works by removing water from food to the point where microbial life cannot sustain itself — reducing water activity below 0.60 for long-term storage.
@@ -187,6 +244,27 @@ Drying is the most ancient preservation method, predating all others. It works b
 - Bring racks indoors at night (dew will rehydrate partially dried food).
 - Drying time: 1-3 days for most vegetables, 2-5 days for fruit, depending on humidity and slice thickness.
 - Test for completion: vegetables should be brittle and snap when bent. Fruit should be leathery with no visible moisture when torn.
+
+```text
+Solar Dryer Cross-Section (Cabinet Type)
+===============================================
+              SUN            glazing: 30-45 deg
+    _________/ \__________
+   | GLASS/PLASTIC GLAZING |  <-- traps heat
+   |  / [Tray 3]  /       |  55-65C (finish)
+   | /  mesh rack /        |
+   |/ [Tray 2]  /         |  45-55C (main)
+   / [Tray 1]  /          |  35-45C (preheat)
+  /____________/           |   MOIST AIR OUT ^
+ |  BLACK-PAINTED BACK     |=========|=======
+ |  WALL (heat absorber)   |
+ |_________________________|
+      ^          ^
+   COOL DRY AIR IN (screened bottom vents)
+
+Airflow: intake --> heated --> rises through trays
+    (evaporates moisture) --> exits top vent
+```
 
 **Building a Smokehouse.** Smoke drying combines three preservation mechanisms simultaneously: heat accelerates water evaporation, smoke deposits antimicrobial phenolic compounds on the food surface, and the dehydrated, phenol-coated product resists microbial colonization for months to years.
 

@@ -30,6 +30,29 @@ Heat transfer occurs by three mechanisms, and understanding which mechanism domi
 - Rocket stove with insulated riser: 35-55% (Aprovecho Research Center)
 - Insulated earth oven in retained-heat mode: 70-80% (empirical testing, multiple sources)
 
+```text
+    COMBUSTION EFFICIENCY COMPARISON: HEAT TRANSFER PATHS
+
+    OPEN FIRE (10-15%)         ROCKET STOVE (35-55%)      EARTH OVEN (70-80%)
+    ~~~~~~~~~~~~~~~~~~         ~~~~~~~~~~~~~~~~~~~~       ~~~~~~~~~~~~~~~~~~~
+
+         ~ ~ ~ ~                     [POT]                 _____________
+        ~ lost ~ ~                  __|__|__              |  ///food///  |
+       ~  to   ~ ~                 | hot gas|             | ///////////  |
+      ~  air  ~ ~ ~                | forced |             |  radiant     |
+         ~ ~ ~                     | across |             |  heat from   |
+       /flames\                    | pot    |             |  ALL walls   |
+      / ~ ~ ~  \  <-- radiation    |________|             |  inward -->  |
+     /  ~ ~ ~ ~ \     in all       |insulated             |_____________ |
+    /  ~ ~ ~ ~ ~  \   directions   | riser  |             sealed cavity
+    ____[pot]____                   | (540C+)|             no fuel needed
+    |   | ^ |   |                   |________|             after firing
+    stones  stones                  |fuel|air|
+                                    |____|___|
+
+    5-10 kg wood/meal          1-2 kg wood/meal         0 kg (retained heat)
+```
+
 **Specific heat capacity** is the amount of energy required to raise the temperature of 1 kg of a substance by 1 degree C. This determines how much fuel is needed and how much heat a thermal mass can store:
 
 - Water: 4,186 J/kg per degree C (very high — this is why boiling water consumes so much fuel)
@@ -198,6 +221,32 @@ The hay box is a zero-fuel cooking method that extends the output of a rocket st
 
 **Construction:** Any box, basket, or pit large enough to hold the cooking pot, packed with minimum 15 cm of insulation on all sides. Effective materials: hay, straw, wool, crumpled newspaper, old clothing, dry leaves, or wood shavings. The pot must be surrounded completely — heat escapes through any gap.
 
+```text
+        HAY BOX / RETAINED-HEAT COOKER (cross-section)
+
+     _______________________________________________
+    |  LID (insulated, 15 cm hay/straw/wool)        |
+    |_______________________________________________|
+    |           |                   |               |
+    |           |    ___________    |               |
+    |  15 cm    |   |  TIGHT   |   |    15 cm      |
+    | insulation|   |  FITTING |   |  insulation   |
+    |  (hay,    |   |   LID    |   |   (hay,       |
+    |  straw,   |   |__________|   |   straw,      |
+    |  wool,    |   |          |   |   wool,       |
+    |  cloth)   |   |   POT    |   |   cloth)      |
+    |           |   | (food at |   |               |
+    |           |   | 100 deg C)|  |               |
+    |           |   |__________|   |               |
+    |           |                   |               |
+    |___________|___________________|_______________|
+    |  BASE INSULATION (15 cm minimum)              |
+    |_______________________________________________|
+
+    Temperature decay: 100C -> 85C (1hr) -> 72C (2hr) -> 63C (4hr)
+    Food-safe zone (above 60C) maintained for 4-6 hours
+```
+
 **Operation:** Bring food to a full, vigorous, rolling boil. Maintain the boil for 2-5 minutes to ensure the entire contents reach 100 degrees C. Transfer immediately to the hay box — do not let the pot cool even slightly. Pack insulation tightly around the pot. Do not open for minimum 4 hours (longer is better for beans and tough grains).
 
 **Ideal applications:** Stews, soups, beans (require 4-8 hours in hay box after boiling), whole grains (rice, wheat berries, barley — 2-4 hours), tough root vegetables, porridge, bone broth.
@@ -215,6 +264,36 @@ The hay box is a zero-fuel cooking method that extends the output of a rocket st
 **Sustainable harvest rate from managed woodland:** A properly managed coppice rotation (cutting trees at ground level and allowing regrowth from the stump) yields 2-5 tonnes of dry wood per hectare per year, indefinitely, without killing the trees. Species such as willow, hazel, alder, and ash coppice especially well.
 
 **Therefore:** 1-2 hectares of managed coppice woodland can provide all cooking fuel for 50 people in perpetuity. This is a manageable land allocation that simultaneously provides wildlife habitat, windbreak, and construction material.
+
+```text
+    FUEL DEMAND vs. SUPPLY: 50-PERSON SETTLEMENT
+
+    ANNUAL WOOD CONSUMPTION (tonnes/year)
+    |
+ 40 |  ##
+    |  ##  Open fire
+ 35 |  ##  (36 tonnes)
+    |  ##
+ 30 |  ##
+    |  ##
+ 25 |  ##
+    |  ##
+ 20 |  ##                          Coppice yield:
+    |  ##                          2-5 t/ha/year
+ 15 |  ##                          (sustainable,
+    |  ##                          indefinite)
+ 10 |  ##
+    |  ##
+  5 |  ##      ++                    ||
+    |  ##      ++  Rocket stove      ||  Rocket + hay box
+  3 |  ##      ++  (4 tonnes)        ||  (2-3 tonnes)
+    |__|_______|_|___________________|_|______________
+         OPEN     ROCKET             ROCKET + HAY BOX
+         FIRE     STOVE              (best practice)
+
+    1 ha coppice = 2-5 t/yr --> SUFFICIENT for rocket + hay box
+    7-18 ha needed for open fire --> UNSUSTAINABLE
+```
 
 **Fuel wood species ranking by energy density (MJ per kg, air-dried):** Oak: 20. Hickory: 20. Ash: 19. Maple: 18. Birch: 17. Pine: 16 (avoid for cooking — resin produces creosote and off-flavors). Willow: 15 (low density but coppices vigorously). Prioritize dense hardwoods for cooking and fast-growing species for coppice rotation.
 
