@@ -45,6 +45,26 @@ Practical R-values for common wall assemblies:
 
 **Thermal mass** is the capacity of a dense material (stone, earth, water) to absorb heat slowly and release it slowly. A stone wall heated by afternoon sun releases that stored heat into the interior through the night — functioning as a thermal battery.
 
+```text
+    WALL ASSEMBLY CROSS-SECTION (Thermal Mass + Insulation)
+    
+    EXTERIOR              -->              INTERIOR
+    ___________________________________________
+    |         |              |        |       |
+    | Lime    | Straw Bale   | Cob    | Lime  |
+    | Render  | Insulation   | Mass   | Plaster|
+    | 2cm     | 35cm         | 30cm   | 2cm   |
+    |         |              |        |       |
+    | k=0.8   | k=0.06       | k=0.7  | k=0.8 |
+    | R=0.025 | R=5.83       | R=0.43 | R=0.025|
+    |_________|______________|________|_______|
+    
+    <-- Heat Loss    Total R = 6.3 m2-K/W    Heat Storage -->
+    
+    COLD air  ←←←←  SLOWED  ←←←←  STORED  ←←←←  WARM interior
+              conduction      by insulation    in thermal mass
+```
+
 The key metric is volumetric heat capacity: stone stores approximately 2.0 MJ/m3-K, earth about 1.5 MJ/m3-K, wood about 1.0 MJ/m3-K, and straw about 0.15 MJ/m3-K. Dense materials store vastly more heat per unit volume.
 
 **The diurnal temperature cycle** is the daily swing between daytime highs and nighttime lows. In most temperate climates, this swing ranges from 10-25C. A building with sufficient thermal mass can average these extremes, maintaining a more stable interior temperature than the exterior.
@@ -59,7 +79,49 @@ Solar gain through south-facing openings (in the Northern Hemisphere) is the sim
 
 **The thermal mass floor** — dark-colored stone, compacted earth, or clay tile — placed where winter sunlight falls through south-facing openings absorbs solar energy during daylight and re-radiates it as infrared heat through the evening and night. A well-designed thermal mass floor provides 4-8 hours of passive heating after sunset, bridging the gap between the last daylight and the coldest pre-dawn hours.
 
+```text
+    PASSIVE SOLAR DESIGN — Winter Sun Penetration
+    
+              Winter Sun (altitude ~25 deg)
+                 \
+                  \  0.6m overhang (no blocking in winter)
+         __________\\_________
+        |  ROOF     \\  thatch |
+        |____________\\________|
+                      \\
+        SOUTH WALL --> ||  glazing (1.0m tall)
+                  \    ||    /
+                   \   ||   /   sunlight penetrates deep
+                    \  ||  /
+    ______.___________\||/________________________________
+    |     :            \/         INTERIOR               |
+    |     : DARK STONE/EARTH THERMAL MASS FLOOR          |
+    |     :  absorbs solar energy --> re-radiates at night|
+    |     2.5m penetration depth at winter solstice      |
+    |____________________________________________________|
+```
+
 **Cross-ventilation** is the summer counterpart to passive solar heating. Openings on opposite walls create a pressure differential when wind blows against the building, driving air through the interior.
+
+```text
+    NATURAL VENTILATION — Stack Effect (Summer Cooling)
+    
+                    WARM AIR OUT (35C)
+                        ^  ^  ^
+                   _____|__|__|_____
+                  | HIGH VENT (open)|
+         _________|_________________|_________
+        |         |   ^    ^    ^   |         |
+        |  WALL   |   warm air     |  WALL   |  Temp Gradient:
+        |         |   rises by     |         |   ceiling: 34C
+        |         |   buoyancy     |         |   mid:     30C
+        |         |   |    |    |  |         |   floor:   26C
+        |_________|___|____|____|__|_________|
+                  | LOW VENT (open) |
+                        ^  ^  ^
+                    COOL AIR IN (26C)
+                  (shaded north side)
+```
 
 The Venturi effect enhances this cooling: where the airflow path constricts — through a narrow window, between two buildings, or through a gap between geological features like two hills or a break in a dense tree line — air velocity increases and pressure drops. Building just behind such a topographic funnel compresses and accelerates the summer breeze, creating a passive cooling system. The velocity increase is proportional to the ratio of the wider opening to the narrower passage.
 
@@ -181,6 +243,27 @@ Essential measures:
 - Ventilation system maintaining slight air movement to prevent condensation, even in winter. A low intake vent on the south-facing open wall and a high exhaust vent near the back of the shelter creates a gentle convective loop that carries moisture-laden air out.
 
 The south-facing front wall should be fully open to solar gain, with a generous window area and thermal mass floor to capture winter sun. The remaining three sides and the roof are earth-bermed, providing R-values of 3-6 depending on soil type and depth. The combination of earth coupling (stable 10-15C base temperature) and passive solar gain through the south wall can maintain interior temperatures of 15-20C even when exterior temperatures drop to -20C — with only modest supplemental heating from a rocket mass heater or small wood stove.
+
+```text
+    EARTH-SHELTERED STRUCTURE — Cross-Section (looking East)
+    
+         grass/wildflower       NORTH
+        ,,,,,,,,,,,,,,,,,,,,
+       /  GREEN ROOF (sod)  \       ground surface
+    ~~/ 20cm soil + roots    \~~~~~~~~~~~~~~~~~~~~~~~~~
+     /========================\
+    | birch bark membrane      |  <-- waterproof layer
+    |==========================|
+    |    EARTH BERM (1.5m)     |  EARTH BERM (1.5m)
+    |    R = 4.0               |  R = 4.0
+    |    Ground temp: 12C      |         Exterior: -20C
+    |    (stable year-round)   |
+    |      INTERIOR: 16-20C    |====== SOUTH WALL
+    |    thermal lag: 3 months | ||  glazing + door
+    |__________________________| ====== (open to sun)
+    /////// SUBSOIL 12C ///////////  <-- earth coupling
+    ////// (drainage gravel below) ////
+```
 
 ### The Rocket Mass Heater (Cross-Reference Module 04.05)
 

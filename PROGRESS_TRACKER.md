@@ -81,9 +81,9 @@
 ### 06 Ecological Harmony
 - [I] `01_Rationale_and_Importance.md`
 - [I] `02_Livestock_and_Mechanical_Animals.md`
-- [T] `03_Ecological_Harmony_and_Wildlife.md`
-- [T] `04_Shelter_and_Thermal_Grounding.md`
-- [T] `05_Psychological_Grounding.md`
+- [I] `03_Ecological_Harmony_and_Wildlife.md`
+- [I] `04_Shelter_and_Thermal_Grounding.md`
+- [I] `05_Psychological_Grounding.md`
 
 ---
 
@@ -264,3 +264,4 @@
 | P2-16 | 2026-05-05 | 05.02, 05.03, 05.04 | Endocrine Regulation (3 new + 2 existing: sleep architecture N1-N2-N3-REM 5-cycle distribution, cortisol-melatonin 24hr crossover graph, seasonal sleep opportunity darkness window; 261→324 lines), Temperate Antibiotic Kit (3 new + 1 existing: bacterial membrane disruption allicin/thymol mechanism, tincture preparation 7-step flowchart with ratios, wound care 7-step decision tree with escalation; 308→378 lines), Advanced Trauma Care (4 new: hemorrhagic shock 4-class table blood loss/HR/BP/mental, Rule of Nines burn body chart with percentages, MARCH protocol sequential flowchart with kill timeframes, windlass tourniquet placement diagram; 350→430 lines). |
 | P2-17 | 2026-05-05 | 05.05, 05.06, 05.07 | Zero-Tech Dentistry (3 new: Stephan Curve pH drop/recovery with 5.5 threshold, tooth cross-section decay→abscess progression, abscess I&D procedure intraoral view; 280→355 lines), Ancient Medicine (4 new: pharmacognosy 4-class compound diagram alkaloids/terpenoids/phenolics/glycosides, 4×8m medicinal garden layout by sun/shade zones, hydrotherapy contrast cycle timing, therapeutic fasting autophagy timeline 12-72hr; 332→413 lines), Midwifery & Childbirth (4 new: 3-stage labor timeline latent→active→pushing→placenta, cardinal movements 7-step sequence, neonatal heat loss 4 pathways with prevention, PPH 5-level escalation flowchart; 335→416 lines). **SECTION 05 COMPLETE — 7/7 at [I].** |
 | P2-18 | 2026-05-05 | 05.08, 06.01, 06.02 | Natural Burial (4 new: decomposition 5-stage timeline with nutrient release, grave cross-section depth/shroud/vadose zone, memorial grove plan view tree/grave spacing, pathogen die-off viability over months/years; 267→348 lines). **SECTION 05 FULLY COMPLETE — 8/8 at [I].** Ecological Harmony Rationale (4 new: trophic cascade wolves→elk→vegetation, ecosystem services 4-category diagram, biodiversity-resilience logarithmic curve, successional stages with management interventions; 253→340 lines), Livestock & Mechanical Animals (3 new + 1 existing: draft animal force×distance calculations, feed conversion bar chart 5 species, rotational grazing 8-paddock layout; 305→374 lines). **BEGIN SECTION 06.** |
+| P2-19 | 2026-05-05 | 06.03, 06.04, 06.05 | Ecological Harmony & Wildlife (4 new: habitat zonation concentric rings settlement→wilderness, Lotka-Volterra predator-prey oscillation, wildlife monitoring transect layout, wildlife corridor with buffer zones; 283→375 lines), Shelter & Thermal Grounding (4 new: wall assembly cross-section with R-values, passive solar winter angle + thermal mass, stack effect ventilation, earth-sheltered structure; 303→390 lines), Psychological Grounding (3 new + 1 existing: grief/adaptation 6-stage timeline, Yerkes-Dodson stress-performance curve, community rhythm wheel daily/weekly/seasonal; 305→379 lines). **SECTION 06 COMPLETE — 5/5 at [I]. OUTCOME 2 COMPLETE — 36/36 at [I].** |

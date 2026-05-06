@@ -6,6 +6,25 @@ The most dangerous threat to a new settlement after collapse has nothing to do w
 
 ஒரு புதிய குடியேற்றத்திற்கு வரும் மிக ஆபத்தான அச்சுறுத்தல் பசி, நோய் அல்லது கொள்ளையர்களால் வருவதல்ல. மிக ஆபத்தான அச்சுறுத்தல் குடியேற்றவாசிகளின் உள்ளுக்குள் கண்ணுக்குத் தெரியாமல் செயல்படுகிறது: **உளவியல் சிதைவு**. இடம்பெயர்வின் மன அழுத்தம் — வீடு, தொழில், வாழ்க்கை முறை அனைத்தையும் இழப்பது — உயிர்வாழ்வதற்கான இடைவிடாத உடல் உழைப்பு, நெருக்கமான இடங்களில் நபர்களுக்கிடையிலான உராய்வு, இறந்தவர்களுக்கும் இழந்த உலகிற்குமான துக்கம், எதிர்காலம் பற்றிய நிச்சயமின்மையின் நசுக்கும் பாரம் ஆகியவற்றுடன் இணைகிறது. இவை அனைத்தும் சேர்ந்து நீண்டகால மன அழுத்த நிலைகளை உருவாக்குகின்றன, அவை முடிவெடுக்கும் திறனைக் குறைக்கின்றன, குழு ஒற்றுமையைச் சிதறடிக்கின்றன, விரக்தி, மோதல் அல்லது செயலற்ற நிலைக்கு இட்டுச் செல்கின்றன.
 
+```text
+  Grief/Adaptation Stages of Displacement — இடம்பெயர்வின் துக்க/தகவமைப்பு நிலைகள்
+
+  TIME ──────────────────────────────────────────────────────►
+
+  ┌──────┐  ┌──────┐  ┌──────────┐  ┌──────────┐  ┌──────────┐  ┌────────┐
+  │DENIAL│→ │ANGER │→ │BARGAINING│→ │DEPRESSION│→ │ACCEPTANCE│→ │PURPOSE │
+  │மறுப்பு │  │கோபம்  │  │பேரம்      │  │மனச்சோர்வு  │  │ஏற்றுக்கொள்│  │நோக்கம்  │
+  └──────┘  └──────┘  └──────────┘  └──────────┘  └──────────┘  └────────┘
+  Week 1-2   Week 2-4   Week 4-8      Week 6-16     Week 12-24    Week 20+
+
+  ▲ Intensity peaks early              ▲ Longest phase;         ▲ Integration:
+    ("This cannot have                   requires communal        grief transforms
+     happened to us")                    support + ritual         into commitment
+
+  NOTE: Phases overlap and recur. Settlers may cycle back through earlier
+  stages during anniversaries, seasonal changes, or new losses.
+```
+
 This module provides a psychological grounding framework — the **Centered Null** (மையப்படுத்தப்பட்ட சூனியம்) — rooted in three evidence-based traditions: (1) **mindfulness meditation**, which reduces stress through parasympathetic nervous system activation (Kabat-Zinn, 1990); (2) **E-Prime linguistic discipline**, which reduces cognitive distortion by eliminating "to be" verbs from critical discourse (Bourland, 1965); and (3) **Stoic philosophy**, which focuses attention only on what falls within one's control (Epictetus, *Discourses*). This framework does not require belief in any spiritual system, any deity, or any metaphysical claim. It functions as a **cognitive technology** — as practical and testable as a water filter or a fire bow. It works because it leverages well-documented neurological mechanisms, not because it demands faith.
 
 இந்த தொகுதி ஒரு உளவியல் அடிப்படை கட்டமைப்பை வழங்குகிறது — **மையப்படுத்தப்பட்ட சூனியம்** (Centered Null) — மூன்று சான்றுகள் சார்ந்த மரபுகளை அடிப்படையாகக் கொண்டது: (1) **நிதானிப்பு தியானம்**, இது துணை-பரிவுணர்வு நரம்பு மண்டல செயல்பாட்டின் மூலம் மன அழுத்தத்தைக் குறைக்கிறது; (2) **E-Prime மொழி ஒழுக்கம்**, இது "to be" வினைச்சொற்களை நீக்குவதன் மூலம் அறிவாற்றல் திரிபைக் குறைக்கிறது; மற்றும் (3) **ஸ்டோயிக் தத்துவம்**, இது ஒருவரின் கட்டுப்பாட்டில் உள்ளவற்றில் மட்டுமே கவனத்தை செலுத்துகிறது. இந்த கட்டமைப்பு எந்த ஆன்மீக அமைப்பிலும் நம்பிக்கை தேவையில்லை. இது ஒரு **அறிவாற்றல் தொழில்நுட்பம்** — நீர் வடிகட்டி அல்லது தீக்குச்சி போல நடைமுறையானது மற்றும் சோதிக்கக்கூடியது.
@@ -35,6 +54,31 @@ The body's stress response operates through the **HPA axis**: the hypothalamus d
 In a settlement context, chronic stress arrives from every direction: uncertainty about food supply, physical exhaustion from manual labor, interpersonal friction in shared living spaces, grief for the dead and the lost world, and sensory deprivation — no music, no media, no familiar comforts. If unmanaged, chronic stress degrades every other system in the settlement. Sick people work less, make worse decisions, and create more conflict. Psychological maintenance functions as a **force multiplier** for all other settlement activities.
 
 குடியேற்ற சூழலில், நீண்டகால மன அழுத்தம் எல்லா திசைகளிலிருந்தும் வருகிறது: உணவு விநியோகம் பற்றிய நிச்சயமின்மை, உடல் உழைப்பினால் ஏற்படும் சோர்வு, பகிரப்பட்ட வாழ்விடங்களில் நபர்களுக்கிடையிலான உராய்வு, இறந்தவர்களுக்கான துக்கம், மற்றும் புலன் பற்றாக்குறை. மன அழுத்தம் நிர்வகிக்கப்படாவிட்டால், குடியேற்றத்தின் ஒவ்வொரு அமைப்பும் சீரழிகிறது.
+
+```text
+  Yerkes-Dodson Stress Response Curve — மன அழுத்த பதில் வளைவு
+
+  PERFORMANCE
+  செயல்திறன்
+       │
+  High │              ╭───────╮
+       │            ╱│OPTIMAL│╲          ← Peak function: clear thinking,
+       │          ╱  │ ZONE  │  ╲          effective cooperation, learning
+       │        ╱    │உகந்த   │    ╲
+       │      ╱      ╰───────╯      ╲
+       │    ╱                          ╲
+  Low  │  ╱                              ╲
+       │╱                                  ╲
+       └────────────────────────────────────────►  AROUSAL / தூண்டுதல்
+        Under-          Moderate           Over-
+        stimulation     arousal            stimulation
+        (boredom,       (engaged,          (panic, chronic
+         apathy)         alert)             stress, burnout)
+
+  Settlement danger zone: chronic post-collapse stress pushes settlers
+  permanently into the RIGHT side — degraded cognition, reactive conflict.
+  Grounding practices pull them back toward the optimal center.
+```
 
 *Cross-reference: Module 05.02 (Endocrine Regulation) for cortisol/circadian details.*
 
@@ -153,6 +197,36 @@ Individual psychological health provides a necessary but insufficient foundation
 2. Stoic evening review: each person shares one thing they handled well, one thing they would change, and one thing that fell outside their control — ஸ்டோயிக் மாலை மதிப்பாய்வு
 3. Communal silence (3 minutes) — சமூக அமைதி (3 நிமிடம்)
 4. Close with a shared phrase or song — each settlement develops its own tradition — பகிரப்பட்ட சொற்றொடர் அல்லது பாடலுடன் முடிக்கவும்
+
+```text
+  Community Rhythm Wheel — சமூக சீர்மை சக்கரம்
+  (Daily / Weekly / Seasonal ritual cycles anchoring psychological stability)
+
+                        DAWN · விடியல்
+                     Morning Protocol
+                    (breathing + silence)
+                           │
+        ╭──────────────────┼──────────────────╮
+       │                   │                   │
+  WINTER ·               DAILY                SUMMER ·
+  குளிர்காலம்              CYCLE                கோடைகாலம்
+  Storytelling,     ╭──────┼──────╮      Shade rest,
+  firelight,       │       │       │     solo time,
+  craft circles   WORK   MIDDAY   WORK   cold-water
+       │          │    (rest +     │     reset
+       │          │    water)      │        │
+        ╲          ╰──────┼──────╯         ╱
+         ╲                │               ╱
+          ╰───────────────┼──────────────╯
+                          │
+                       DUSK · அந்தி
+                    Evening Protocol
+                 (Stoic review + fire +
+                   communal silence)
+
+  WEEKLY: Rotate facilitation │ Rest day │ Group celebration
+  SEASONAL: Grief rituals at solstice │ Harvest gratitude │ Renewal at equinox
+```
 
 ### E-Prime Practice Guide — E-Prime பயிற்சி வழிகாட்டி
 

@@ -112,6 +112,28 @@ Large herbivores and apex predators pose the most visible conflicts and receive 
 
 **The trophic cascade lesson — Yellowstone, 1995:** When wolves were reintroduced after a 70-year absence, effects cascaded through eight levels. (1) Wolves reduced the elk population. (2) Reduced elk allowed willow, aspen, and cottonwood saplings to recover along riverbanks. (3) Restored vegetation stabilized banks, reducing erosion. (4) Stabilized banks narrowed channels, deepening pools. (5) Deeper pools provided habitat for fish and amphibians. (6) Restored willows fed beavers, who returned and built dams. (7) Beaver dams raised the local water table. (8) Higher water tables supported meadow grasses, ground-nesting birds, and small mammals. The removal of a single species had collapsed this entire cascade. Their return rebuilt it within two decades — demonstrating both the power and the fragility of trophic relationships.
 
+```text
+  Predator-Prey Population Cycles (Lotka-Volterra Dynamics)
+  ==========================================================
+  Population
+  Size
+    |
+  H |        **             **             **
+  i |      *    *         *    *         *    *      <- Prey (elk/deer)
+  g |    *        *     *        *     *        *
+  h |   *          *   *          *   *
+    |  *            * *            * *
+  L | *         ~~~ *~~         ~~~ *~~              <- Predator (wolves)
+  o |*       ~~       ~~     ~~       ~~
+  w |     ~~            ~~ ~~            ~~
+    |  ~~                ~                 ~~
+    +---|---------|---------|---------|---------|---> Time (years)
+        0         5        10        15        20
+
+  Key: Predator peaks FOLLOW prey peaks (lag of 1-3 years)
+       Remove predators -> prey explodes -> habitat collapses
+```
+
 ---
 
 ## Core Principles
@@ -131,6 +153,26 @@ Large herbivores and apex predators pose the most visible conflicts and receive 
 - Zone 5 (wilderness): no human intervention beyond monitoring
 
 This gradient gives wildlife space to exist without conflicting with human activity, and provides ecosystem services (pollination, pest control, water filtration) that flow from wilderness toward the settlement center.
+
+```text
+  Habitat Zonation: Settlement to Wilderness Gradient
+  ====================================================
+
+         Zone 1          Zone 2         Zone 3          Zone 4         Zone 5
+      [Home Garden]    [Orchard]     [Pasture]    [Managed Forest] [Wilderness]
+      |           |   |         |   |          |   |            |   |          |
+      | pollinators|   | bats    |   | raptors  |   | woodpeckers|   | wolves   |
+      | ground     |   | mason   |   | guardian |   | owls       |   | bears    |
+      | beetles    |   | bees    |   | dogs     |   | deer       |   | elk      |
+      | spiders    |   | birds   |   | voles    |   | foxes      |   | lions    |
+      |           |   |         |   |          |   |            |   |          |
+  <---|-----------+---+---------+---+----------+---+------------+---+----------|-->
+  HUMAN                                                                    WILD
+  INTENSIVE              Ecosystem services flow inward <<<              UNDISTURBED
+
+  Species diversity and wildness increase --->
+  Human management intensity decreases --->
+```
 
 **5. The Indicator Species Principle.** The settlement must monitor specific indicator species whose population health reflects overall ecosystem health, providing early warning of degradation before it becomes visible in crop yields or water quality:
 
@@ -152,6 +194,30 @@ An annual protocol for documenting species presence and tracking ecosystem healt
 **Dawn and dusk observation sessions.** Designate a notebook as the settlement's ecological ledger. Conduct one-hour observation sessions at dawn and dusk, seated quietly at fixed points across the settlement's zones. Document every insect, bird, mammal, amphibian, and reptile observed — behavior, location, approximate numbers. Rotate observation points weekly for comprehensive coverage.
 
 **Track and sign identification.** Train at least two members in wildlife track identification. Mud patches, dust trails, and snow serve as tracking substrates. Regular surveys along zone boundaries reveal which species move through each area. Scat analysis provides dietary information — coyote scat full of rodent fur confirms active rodent predation; bear scat full of fruit indicates orchard vulnerability.
+
+```text
+  Wildlife Monitoring Transect Layout
+  ====================================
+
+  Zone 5 boundary                                    Zone 3 boundary
+  |                                                            |
+  v                                                            v
+  [TS]-----(100m)-----[CP]-----(100m)-----[TS]-----(100m)-----[CP]
+   |                    |                    |                    |
+   |   [OB]            |        [OB]       |                   |
+   |    ^              |         ^          |    [OB]           |
+   |    |              |         |          |     ^             |
+  [TS]-----(100m)-----[CP]-----(100m)-----[TS]-----(100m)-----[CP]
+
+  KEY:
+  [CP] = Camera trap post (infrared, motion-activated)
+  [TS] = Track station (1m x 1m smoothed sand/mud pad)
+  [OB] = Observation point (seated blind, dawn/dusk surveys)
+  ----- = Transect line (marked with discrete flagging tape)
+
+  Spacing: 100m between stations along transect
+  Transects run perpendicular to zone boundaries
+```
 
 **Seasonal activity calendar.** Compile observations into a 12-month calendar showing when each key species is active, breeding, migrating, or denning. This drives management timing — bear-proof stores before spring emergence; install pollinator nesting structures before nesting season; schedule loud construction away from bird nesting periods.
 
@@ -199,6 +265,32 @@ Guardian animals are the primary non-lethal defense against predator-livestock c
 - **Donkeys:** Similar to llamas in temperament. Aggressive toward canids, will kick and stomp. Low maintenance. One standard-sized donkey per flock.
 
 The guardian animal's scent alone deters many predators from approaching. Their presence converts the livestock area from an easy food source to a defended territory, redirecting predator attention to wild prey in Zone 5.
+
+```text
+  Wildlife Corridor Layout: Connecting Habitat Patches
+  =====================================================
+
+  +============+                                      +============+
+  |  HABITAT   |          MOVEMENT CORRIDOR           |  HABITAT   |
+  |  PATCH A   |     (min 50m wide, native veg)       |  PATCH B   |
+  |            |                                      |            |
+  | (forest    |  +---------+----------+---------+   | (forest    |
+  | fragment,  |  | BUFFER  | CORRIDOR | BUFFER  |   | fragment,  |
+  | 5+ ha)     |  | 20m     | 50-100m  | 20m     |   | 5+ ha)     |
+  |            |==| dense   | shrub +  | dense   |===|            |
+  |            |  | hedge   | canopy   | hedge   |   |            |
+  |            |  | no human| trees    | no human|   |            |
+  |            |  | access  | + ground | access  |   |            |
+  +============+  +---------+  cover   +---------+   +============+
+                              +--------+
+                              | CROSSING|
+                              | (under  |
+                              |  road)  |
+                              +--------+
+
+  Corridor allows gene flow, seasonal migration, and predator movement
+  Buffer zones reduce edge effects and human disturbance
+```
 
 ### The Barn Owl Program
 

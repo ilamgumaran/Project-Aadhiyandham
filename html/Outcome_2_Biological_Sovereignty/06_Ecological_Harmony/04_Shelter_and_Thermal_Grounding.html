@@ -48,6 +48,25 @@
 <li>45 cm straw bale wall: R = 0.45 / 0.06 = 7.5 m2-K/W (comparable to modern insulated wall)</li>
 </ul>
 <p><strong>Thermal mass</strong> is the capacity of a dense material (stone, earth, water) to absorb heat slowly and release it slowly. A stone wall heated by afternoon sun releases that stored heat into the interior through the night — functioning as a thermal battery.</p>
+<pre><code class="language-text">
+    WALL ASSEMBLY CROSS-SECTION (Thermal Mass + Insulation)
+
+    EXTERIOR              --&gt;              INTERIOR
+    ___________________________________________
+    |         |              |        |       |
+    | Lime    | Straw Bale   | Cob    | Lime  |
+    | Render  | Insulation   | Mass   | Plaster|
+    | 2cm     | 35cm         | 30cm   | 2cm   |
+    |         |              |        |       |
+    | k=0.8   | k=0.06       | k=0.7  | k=0.8 |
+    | R=0.025 | R=5.83       | R=0.43 | R=0.025|
+    |_________|______________|________|_______|
+
+    &lt;-- Heat Loss    Total R = 6.3 m2-K/W    Heat Storage --&gt;
+
+    COLD air  ←←←←  SLOWED  ←←←←  STORED  ←←←←  WARM interior
+              conduction      by insulation    in thermal mass
+</code></pre>
 <p>The key metric is volumetric heat capacity: stone stores approximately 2.0 MJ/m3-K, earth about 1.5 MJ/m3-K, wood about 1.0 MJ/m3-K, and straw about 0.15 MJ/m3-K. Dense materials store vastly more heat per unit volume.</p>
 <p><strong>The diurnal temperature cycle</strong> is the daily swing between daytime highs and nighttime lows. In most temperate climates, this swing ranges from 10-25C. A building with sufficient thermal mass can average these extremes, maintaining a more stable interior temperature than the exterior.</p>
 <p>A 40 cm rammed earth wall has a thermal lag of approximately 10-12 hours — meaning the heat absorbed from afternoon sun reaches the interior surface around midnight, precisely when heating is most needed.</p>
@@ -55,7 +74,47 @@
 <p>Solar gain through south-facing openings (in the Northern Hemisphere) is the simplest and most powerful passive heating strategy available. In winter, the sun travels a low arc across the southern sky, with a noon altitude of only 20-30 degrees at the solstice (at 40 degrees North latitude). In summer, the same sun passes nearly overhead at 60-70 degrees altitude. This seasonal variation allows a south-facing window with a properly sized roof overhang to admit maximum solar energy in winter while blocking it in summer.</p>
 <p><strong>The overhang calculation:</strong> overhang depth = window height multiplied by tan(90 degrees minus summer solar altitude). For 40 degrees North latitude, where summer noon solar altitude reaches approximately 73 degrees, the overhang depth should be roughly 0.6 times the window height. A window 1.0 m tall requires an overhang of 0.6 m to achieve full summer shading.</p>
 <p><strong>The thermal mass floor</strong> — dark-colored stone, compacted earth, or clay tile — placed where winter sunlight falls through south-facing openings absorbs solar energy during daylight and re-radiates it as infrared heat through the evening and night. A well-designed thermal mass floor provides 4-8 hours of passive heating after sunset, bridging the gap between the last daylight and the coldest pre-dawn hours.</p>
+<pre><code class="language-text">
+    PASSIVE SOLAR DESIGN — Winter Sun Penetration
+
+              Winter Sun (altitude ~25 deg)
+                 \
+                  \  0.6m overhang (no blocking in winter)
+         __________\\_________
+        |  ROOF     \\  thatch |
+        |____________\\________|
+                      \\
+        SOUTH WALL --&gt; ||  glazing (1.0m tall)
+                  \    ||    /
+                   \   ||   /   sunlight penetrates deep
+                    \  ||  /
+    ______.___________\||/________________________________
+    |     :            \/         INTERIOR               |
+    |     : DARK STONE/EARTH THERMAL MASS FLOOR          |
+    |     :  absorbs solar energy --&gt; re-radiates at night|
+    |     2.5m penetration depth at winter solstice      |
+    |____________________________________________________|
+</code></pre>
 <p><strong>Cross-ventilation</strong> is the summer counterpart to passive solar heating. Openings on opposite walls create a pressure differential when wind blows against the building, driving air through the interior.</p>
+<pre><code class="language-text">
+    NATURAL VENTILATION — Stack Effect (Summer Cooling)
+
+                    WARM AIR OUT (35C)
+                        ^  ^  ^
+                   _____|__|__|_____
+                  | HIGH VENT (open)|
+         _________|_________________|_________
+        |         |   ^    ^    ^   |         |
+        |  WALL   |   warm air     |  WALL   |  Temp Gradient:
+        |         |   rises by     |         |   ceiling: 34C
+        |         |   buoyancy     |         |   mid:     30C
+        |         |   |    |    |  |         |   floor:   26C
+        |_________|___|____|____|__|_________|
+                  | LOW VENT (open) |
+                        ^  ^  ^
+                    COOL AIR IN (26C)
+                  (shaded north side)
+</code></pre>
 <p>The Venturi effect enhances this cooling: where the airflow path constricts — through a narrow window, between two buildings, or through a gap between geological features like two hills or a break in a dense tree line — air velocity increases and pressure drops. Building just behind such a topographic funnel compresses and accelerates the summer breeze, creating a passive cooling system. The velocity increase is proportional to the ratio of the wider opening to the narrower passage.</p>
 <h3 id="the-thermal-belt">The Thermal Belt</h3>
 <p>Cold air drainage is a nightly phenomenon driven by radiational cooling. After sunset, exposed ground surfaces radiate infrared energy to the sky and cool rapidly. The air in contact with these surfaces cools, becomes denser, and flows downhill under gravity — a katabatic wind. This cold air pools in valley floors, topographic bowls, and depressions, creating temperature inversions.</p>
@@ -167,6 +226,26 @@
 <li>Ventilation system maintaining slight air movement to prevent condensation, even in winter. A low intake vent on the south-facing open wall and a high exhaust vent near the back of the shelter creates a gentle convective loop that carries moisture-laden air out.</li>
 </ul>
 <p>The south-facing front wall should be fully open to solar gain, with a generous window area and thermal mass floor to capture winter sun. The remaining three sides and the roof are earth-bermed, providing R-values of 3-6 depending on soil type and depth. The combination of earth coupling (stable 10-15C base temperature) and passive solar gain through the south wall can maintain interior temperatures of 15-20C even when exterior temperatures drop to -20C — with only modest supplemental heating from a rocket mass heater or small wood stove.</p>
+<pre><code class="language-text">
+    EARTH-SHELTERED STRUCTURE — Cross-Section (looking East)
+
+         grass/wildflower       NORTH
+        ,,,,,,,,,,,,,,,,,,,,
+       /  GREEN ROOF (sod)  \       ground surface
+    ~~/ 20cm soil + roots    \~~~~~~~~~~~~~~~~~~~~~~~~~
+     /========================\
+    | birch bark membrane      |  &lt;-- waterproof layer
+    |==========================|
+    |    EARTH BERM (1.5m)     |  EARTH BERM (1.5m)
+    |    R = 4.0               |  R = 4.0
+    |    Ground temp: 12C      |         Exterior: -20C
+    |    (stable year-round)   |
+    |      INTERIOR: 16-20C    |====== SOUTH WALL
+    |    thermal lag: 3 months | ||  glazing + door
+    |__________________________| ====== (open to sun)
+    /////// SUBSOIL 12C ///////////  &lt;-- earth coupling
+    ////// (drainage gravel below) ////
+</code></pre>
 <h3 id="the-rocket-mass-heater-cross-reference-module-04-05">The Rocket Mass Heater (Cross-Reference Module 04.05)</h3>
 <p>The rocket mass heater is the most efficient zero-technology space heating system. It burns small-diameter wood (sticks of 2-5 cm diameter, not split logs) at very high temperature — exceeding 600C in the insulated combustion chamber — achieving near-complete combustion of wood gases that would escape as wasted smoke in an open fire.</p>
 <p>Hot exhaust is routed through a long horizontal duct buried inside a massive thermal mass bench (cob-covered stone or earth), extracting more than 90% of heat energy before the cool exhaust exits through a short chimney.</p>
