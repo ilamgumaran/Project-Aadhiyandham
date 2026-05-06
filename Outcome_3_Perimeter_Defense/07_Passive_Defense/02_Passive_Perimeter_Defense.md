@@ -86,6 +86,23 @@ Additional benefits: nesting habitat for insectivorous birds, shelter for hedgeh
 
 2. **The Delay-Time Calculation**: For each approach route to the settlement, calculate the total time from the outermost detection point to the settlement center. This is the settlement's total response window. If the outermost tripwire is triggered and the intruder must then cross a dry brush zone (2 minutes), a ditch (3 minutes), and a dead hedge (5 minutes), the total delay is 10 minutes. The target minimum: 15 minutes of delay on ALL approach routes. If any route offers less than 10 minutes, it is a critical vulnerability requiring immediate barrier investment.
 
+```text
+    PERIMETER LAYOUT — PLAN VIEW (not to scale)
+    ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~  Outer Warning Zone
+    ~  Dry brush / leaf litter (5-10 m)  tripwires     ~  (acoustic detection)
+    ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+    ######################################################  Entanglement Zone
+    #  Abatis / dead hedge / thorny thicket (3-5 m)    #  (slow + noisy)
+    ######################################################
+    [[[[[[[[[[[[[[[[[[[[[[[[[[[[[[[[[[[[[[[[[[[[[[[[[[[[[[  Main Barrier
+    [  Ditch + living hedge on berm (3-4 m width)      [  (primary delay)
+    [[[[[[[[[[[[[[[[[[[[[[[[[[[[[[[[[[[[[[[[[[[[[[[[[[[[[[
+    .............................G........................  Inner Clear Zone
+    .  Open ground, mowed/grazed (10-15 m)  G=gate     .  (fire break + LoS)
+    .....................................................
+    |  SETTLEMENT STRUCTURES  |  livestock  |  gardens  |  Interior
+```
+
 3. **The Channeling Principle**: It is neither practical nor necessary to surround the entire settlement with continuous barriers. The material requirements and maintenance burden would be unsustainable. Instead, use barriers to CHANNEL approaching movement toward one or two monitored entry points. Close off the easy approaches (gentle slopes, wide trails, flat ground) with barriers. Leave one controlled approach — a narrow path that passes through the full depth of the detection zone, flanked by barriers on both sides. Any visitor, friendly or hostile, is funneled through this controlled corridor where they can be observed and assessed before reaching the settlement interior.
 
 4. **The Living-Over-Dead Principle**: Dead hedges, ditches, and tripwires require ongoing maintenance and degrade over time. Stakes rot, brush compresses, paracord frays, ditch walls slump. Living barriers — thorny hedges, dense tree plantings, established thickets — grow STRONGER with each passing year. Their root systems stabilize slopes, their canopy provides concealment, and their thorny growth fills gaps. The strategic priority: plant living hedges in Year 1. Use dead hedges as the interim barrier while living hedges establish. By Year 5, the living hedges should be the primary barrier, with dead hedges relegated to gap-filling and supplementary roles.
@@ -167,6 +184,25 @@ Planting method (double-stagger row):
 - Offset the plants in the second row so they fall between the plants in the first row (staggered pattern).
 - This produces a zigzag arrangement that fills in to a solid wall more quickly than a single row.
 - Plant bare-root whips (1-2 year old seedlings) in autumn or early spring when dormant.
+
+```text
+    THORN HEDGE CROSS-SECTION — Double-Stagger (Year 5 mature)
+         Mature canopy: 1.5-2.0 m wide
+    |<------------ 1.5-2.0 m ------------>|
+    |    ___///|||||\\\___                 |
+    |  //|| interlocking  ||\\\           |  Height:
+    | /|||  thorny branches|||\ \         |  2.0-3.0 m
+    |/||||  fill all gaps |||||\ \        |
+    ||||||  Row A    Row B ||||||  |       |
+    | |||      |  |        ||| |          |
+    --|--X-----+--+---X----+--+---X-- Ground level
+      |  A1   30-50cm  B1     A2  |
+      |<-50-80cm->|<-50-80cm->|   |
+          (within-row spacing)
+
+    X = plant position    A/B = alternating rows
+    Stagger offset ensures no straight-line gaps
+```
 
 Timeline to barrier function:
 
@@ -262,6 +298,26 @@ Minimum requirement for passive defense integration: one elevated observation po
 
 The observation point does not need full surround visibility if terrain and barriers channel approach traffic toward one or two routes. A clear view of the controlled approach corridor and tripwire zone is sufficient.
 
+```text
+    CONCEALED OBSERVATION POST (OP) — Plan View
+                  Primary sightline (approach corridor)
+                <======================================>
+                         120-150 m range
+    [Hedge] |||                              ||| [Hedge]
+            |||     Tripwire zone            |||
+            |||       . . . . . .            |||
+    Flank <-|||          OP                  |||--> Flank
+    sight   |||    .---[####]---.            |||    sight
+            |||   / camouflage   \           |||
+            |||  | netting/brush  |          |||
+            |||   \   ____       /           |||
+            |||    '-|    |----'             |||
+    [Hedge] |||      | comm line to settle. ||| [Hedge]
+                     |
+              Escape route (covered trench
+              or hedged path to interior)
+```
+
 ### The Deterrence System
 
 Deterrence is the psychological pillar. Its purpose: make the settlement appear to be a poor target — high risk, low reward, too much effort. Most post-collapse threats come from opportunistic groups seeking easy resources. A settlement that appears alert, populated, and organized will be bypassed in favor of softer targets.
@@ -269,6 +325,27 @@ Deterrence is the psychological pillar. Its purpose: make the settlement appear 
 Signs of occupation and alertness: well-maintained paths, visible fire smoke, cleared approach zones with no concealment, audible settlement sounds (voices, livestock, dogs, tool use) carrying 200-500 m through forest. A settlement that looks and sounds alive is a settlement that will resist.
 
 The hardened approach: the controlled entry path should be narrow (single-file), include direction changes that prevent a running approach, and be flanked by barriers on both sides. Position the guinea fowl roost adjacent so any visitor triggers an alarm before reaching the settlement. The message: "we know you are here, and you are on our terms."
+
+```text
+    GATE / CHECKPOINT — Chicane Approach (Plan View)
+    OUTER PERIMETER                         INNER SETTLEMENT
+
+    |||||||||||||||  Guinea fowl  |||||||||||||||
+    ||| Hedge  |||   roost [GF]  ||| Hedge  |||
+    |||   .--->|  |              |||        |||
+    |||   |    |  | Overhead     |||        |||
+    |||   |    |  | cover        |||        |||
+    |||   |    |  |===[=====]===||||        |||
+    |||   |    |  |  [GATE]     ||||---->   |||
+    |||   |    |  |===[=====]===||||  exit  |||
+    |||   |    |  | [OP] obs.   |||        |||
+    |||   '----|  |  position   |||        |||
+    |||||||||||||||              |||||||||||||||
+
+    Path: 1.0-1.2 m wide (single file only)
+    Two 90-deg turns prevent running approach
+    OP has full view of chicane length
+```
 
 Boundary markers: cairns, tree blazes, or wooden posts at the perimeter communicate "this area is claimed and monitored" without provocation — a social signal of organization and intentionality.
 

@@ -47,6 +47,28 @@ The solution is environmental defense:
 
 The initial labor investment is front-loaded and finite; the defensive return is continuous and compounding.
 
+```text
+     PASSIVE DEFENSE INVESTMENT vs ACTIVE DEFENSE BURDEN
+
+  Active
+  Defense
+  Burden    |\.
+  (hours/   | '\.
+   week)    |   ''\..
+     40     |       '''\...
+     30     |            ''''....
+     20     |                   '''''......
+     10     |                              '''''''------
+      5     |                                          ''''---
+            |___|____|____|____|____|____|____|____|____|____|___
+            0   10   20   30   40   50   60   70   80   90  100
+                  Passive Defense Investment (% of optimal)
+
+  KEY: Each unit of passive investment yields EXPONENTIAL reduction
+       in active defense labor. A mature hedge system (80%+)
+       reduces standing guard duty from 40+ hrs/week to <5 hrs/week.
+```
+
 ### Defense in Depth: The Concentric Ring Model
 
 Defense in depth is a military doctrine concept with origins in ancient warfare and formal articulation in modern strategic theory. The core principle: no single defensive line is reliable. Multiple layers of defense, each slowing and degrading an attacker, provide cumulative protection. If the outer layer is bypassed, the second layer engages. If the second falls, the third absorbs the impact. The attacker must overcome every layer in sequence; the defender needs only one layer to hold.
@@ -72,6 +94,24 @@ Each ring provides three critical resources:
 - **Response time:** how long the community has to organize an appropriate reaction.
 
 The combined goal of all four rings is 15 to 30 minutes of warning before any threat reaches the settlement interior — enough time to wake, assemble, assess the situation, and respond proportionally.
+
+```text
+            DEFENSE-IN-DEPTH: CONCENTRIC RING MODEL
+
+              .-------- Ring 1: DETECT (500-1000m) --------.
+             /     .---- Ring 2: DETER (100-500m) ----.     \
+            /     /    .-- Ring 3: DENY (10-100m) --.  \     \
+           /     /    /     .-- Ring 4: CORE --.     \  \     \
+          |     |    |     |    SETTLEMENT    |     |   |     |
+          |     |    |     |      REFUGE      |     |   |     |
+           \     \    \     '---- 0-10m ----'     /  /     /
+            \     \    '---- Barriers & Hedges ---'  /     /
+             \     '---- Open Ground & Sightlines --'     /
+              '---- Acoustic Zones & Animal Sentinels ---'
+
+   ATTACKER MUST BREACH ALL LAYERS  |  DEFENDER NEEDS ONE TO HOLD
+   Time gained per ring: 5-10 min   |  Total warning: 15-30 min
+```
 
 ### Historical Models of Passive Defense
 
@@ -144,6 +184,25 @@ Response must match the threat. A deer in the garden requires a different respon
 
 Most encounters in a functional settlement will never pass the second step. The escalation ladder must be understood and practiced by all adults so that fear does not drive disproportionate reactions.
 
+```text
+         THREAT PROBABILITY vs IMPACT MATRIX
+
+  IMPACT   |
+  (high)   |  Wildlife      Armed group     Organized
+     5     |  damage [A]    (2-5 ppl) [C]   raid [D]
+     4     |
+     3     |  Curious         Hostile
+     2     |  traveler [B]    individual [C]
+     1     |_____|_____|_____|_____|_____|____
+           1     2     3     4     5
+                PROBABILITY (high) -->
+
+  PRIORITY: [A] High freq, moderate impact = passive barriers
+            [B] High freq, low impact     = observation only
+            [C] Low freq, high impact     = layered defense
+            [D] Very low freq, extreme    = refuge protocol
+```
+
 ---
 
 ## Practical Implementation
@@ -210,6 +269,30 @@ The settlement builds one impressive wall or hedge but neglects detection and ea
 The settlement begins perceiving threats in every unfamiliar sound, every animal movement, every stranger on the horizon. Constant anxiety degrades sleep quality, reduces work productivity, and erodes the psychological well-being that the settlement exists to protect. Members begin to leave, preferring uncertain freedom to certain misery.
 
 *Prevention:* Regular threat assessment based on evidence — actual observations logged and reviewed — not speculation or rumor. The evening review process provides a structured space for processing security concerns and distinguishing real observations from anxiety-driven interpretation.
+
+```text
+          OODA LOOP: SECURITY RESPONSE DECISION CYCLE
+
+               .-----------> OBSERVE <-----------.
+              |      (Detect: sound, movement,     |
+              |        alarm call, visual)          |
+              |                 |                   |
+              |                 v                   |
+              |             ORIENT                  |
+              |    (Assess: type, distance, intent) |
+              |                 |                   |
+              |                 v                   |
+              |             DECIDE                  |
+              |   (Escalation ladder: observe /     |
+              |     challenge / deter / retreat)    |
+              |                 |                   |
+              |                 v                   |
+              '-------------- ACT -----------------'
+                  (Execute, return to OBSERVE)
+
+  GOAL: Complete loop FASTER than approaching threat.
+  Passive defense BUYS TIME for deliberate OODA cycling.
+```
 
 **5. Neglect of Maintenance.**
 Living hedges left unmanaged develop gaps as branches die or are damaged by weather. Acoustic tripwires degrade — strings break, suspended materials fall, gravel paths erode. False alarms increase until the warning system is ignored entirely, rendering it useless precisely when a real threat arrives.

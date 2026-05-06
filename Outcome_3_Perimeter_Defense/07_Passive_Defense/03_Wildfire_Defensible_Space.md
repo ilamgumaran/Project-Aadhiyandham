@@ -20,6 +20,24 @@ Every fire requires three elements simultaneously: fuel, heat, and oxygen. This 
 
 The fire triangle explains whether fire CAN exist. The fire behavior triangle explains how fire ACTS — how fast it spreads, how intense it burns, how high the flames reach. The three factors of fire behavior are fuel, weather, and topography.
 
+```text
+     Fire Behavior Triangle with Slope Effect
+
+              FUEL
+             /    \
+            /      \          Slope doubles spread
+           /  FIRE  \         rate per 10 degrees:
+          / BEHAVIOR \
+         /            \        0 deg:  ~1 km/h
+        /______________\      10 deg:  ~2 km/h
+    WEATHER          TOPOGRAPHY  20 deg:  ~4 km/h
+                                 30 deg:  ~8 km/h
+    (wind, humidity,   (slope, aspect,
+     temperature)       terrain channels)
+
+    Wind + Upslope = worst case (additive effects)
+```
+
 **Fuel** is defined by four properties:
 
 - Quantity: measured in tonnes per hectare. A mature temperate forest floor may carry 10 to 30 tonnes/ha of dead fuel. A recently burned area may carry less than 2 tonnes/ha. More fuel means more energy release, longer flames, and greater intensity.
@@ -86,11 +104,49 @@ The transition from surface fire to crown fire requires THREE conditions simulta
 
 REMOVING ANY ONE of these three conditions prevents crown fire. This principle is the entire scientific basis of defensible space design. Zone 2 removes ladder fuels and opens crown spacing. Zone 3 reduces surface fuel loads through prescribed burning and thinning. Zone 1 ensures that even if fire reaches the settlement perimeter, there is nothing left to burn.
 
+```text
+  Crown Fire vs Surface Fire Cross-Section
+
+  CROWN FIRE (lethal)            SURFACE FIRE (survivable)
+  ~~~~~~~~~~~~~~~~~~~~
+  {{{CANOPY BURNING}}}            ___tree crown___
+  ~~~/~~~~~~~~~~\~~~~            /   (unburned)   \
+    /            \              /                   \
+   | LADDER FUELS|             |   3m gap - no     |
+   | (shrubs,    |             |   ladder fuels    |
+   | low branches|             |                   |
+   |  carry fire |             |    bare trunk     |
+   |  upward)    |             |                   |
+  _|_____________|__         __|___________________|__
+  ^^SURFACE FIRE^^^^         ^^low surface fire^^
+  flame length >1m           flame length <1m
+
+  FIX: remove ladder fuels, open crown spacing >3m
+```
+
 ### Ember Attack: The Primary Ignition Mechanism
 
 Research by Jack Cohen at the US Forest Service Fire Sciences Laboratory demonstrated that 60 to 90 percent of structures destroyed in wildfires are ignited NOT by direct flame contact but by EMBERS — small pieces of burning material (bark, twigs, leaves) lofted into the air by the convective column of the fire and carried downwind. Embers from a large fire can travel 1 to 3 kilometers ahead of the fire front, driven by convective winds that reach 50 to 80 km/h near a large fire.
 
 Embers land on and ignite the most vulnerable points of a structure:
+
+```text
+  Ember Attack: Travel Distance and Ignition Points
+
+  WIND DIRECTION =====>         1-3 km ahead of front
+                                        |
+  {FIRE FRONT}    *  *     *        *   v    [STRUCTURE]
+  |||||||||||   *   *  *      *       *  /----------\
+  |||||||||||  embers lofted       *    /   gutters  \<--ember
+  |||||||||||  by convective      *    |   landing    |
+  |||FLAMES||  column (50-80    *     =|=  points:   =|
+  |||||||||||   km/h updraft)        | |  -roof gaps  | |
+  ___ground___                       | |  -vents      | |
+                                     |_|  -deck       |_|
+                                     dry grass/litter against wall
+
+  60-90% of structure losses are from EMBERS, not direct flame
+```
 
 - Dry leaves accumulated in gutters.
 - Wooden deck surfaces.
@@ -128,6 +184,26 @@ Stephen Pyne summarized in *Fire: A Brief History* (2001): "For most of history,
 - Zone 1 (0 to 10 meters from structures): the ignition-free zone. No combustible material can exist here. This zone ensures that even if embers land near structures, there is nothing to ignite.
 - Zone 2 (10 to 30 meters): the fuel reduction zone. Crown spacing is opened, ladder fuels are removed, and ground fuel is managed. This zone forces any approaching crown fire to transition down to surface fire by eliminating the vertical fuel continuity that sustains canopy burning.
 - Zone 3 (30 to 100+ meters): the managed forest. Tree density is reduced through thinning, and surface fuel loads are managed through prescribed burning. This zone reduces the intensity of an approaching fire so that by the time it reaches Zone 2, it is already weakening.
+
+```text
+         Defensible Space Zones (Plan View)
+
+    . . . . . . . . . . . . . . . . . . . . . .
+    .  ZONE 3: Managed Forest (30-100+ m)      .
+    .    - - - - - - - - - - - - - - - - -     .
+    .    | ZONE 2: Fuel Reduction (10-30m)|     .
+    .    |   . . . . . . . . . . . . .   |     .
+    .    |   : ZONE 1: Ignition-Free :   |     .
+    .    |   :    (0-10 m)           :   |     .
+    .    |   :      [STRUCTURE]      :   |     .
+    .    |   :       no fuel here    :   |     .
+    .    |   :.......................:   |     .
+    .    |  crowns spaced 3-6 m apart   |     .
+    .    |  ladder fuels removed        |     .
+    .    |_ _ _ _ _ _ _ _ _ _ _ _ _ _ _ |     .
+    .   thinned trees, prescribed burns        .
+    . . . . . . . . . . . . . . . . . . . . . .
+```
 
 **Principle 3 — The Ember Defense Priority.** Because embers — not direct flame — cause the majority of structure ignitions, Zone 1 defense against ember attack is MORE important than Zone 2 or Zone 3 fuel reduction. A structure with a rigorously maintained Zone 1 and an ember-resistant roof can survive even if Zones 2 and 3 are imperfect. Conversely, excellent Zone 2-3 management with a neglected Zone 1 (leaf litter in gutters, firewood against the wall, dry grass at the foundation) leaves the structure highly vulnerable.
 
