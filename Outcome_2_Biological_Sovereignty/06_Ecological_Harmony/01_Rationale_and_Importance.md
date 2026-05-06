@@ -34,6 +34,30 @@ The settlement occupies a unique position in this web. It is simultaneously:
 
 No other organism in a typical temperate or tropical ecosystem occupies all three roles simultaneously. This triple role gives the settlement extraordinary leverage over ecosystem function — and extraordinary capacity for damage if that leverage is applied without understanding.
 
+```text
+    ECOSYSTEM SERVICES — Four Categories for Settlement Planning
+
+    ┌─────────────────┐   ┌─────────────────┐
+    │   PROVISIONING  │   │   REGULATING    │
+    │                 │   │                 │
+    │ • Food & water  │   │ • Climate mod.  │
+    │ • Timber & fuel │   │ • Flood control │
+    │ • Fibre & herbs │   │ • Pest regulation│
+    │ • Genetic stock │   │ • Water purific.│
+    └────────┬────────┘   └────────┬────────┘
+             │     SETTLEMENT      │
+             └──────────┬──────────┘
+             ┌──────────┴──────────┐
+    ┌────────┴────────┐   ┌────────┴────────┐
+    │   SUPPORTING    │   │    CULTURAL     │
+    │                 │   │                 │
+    │ • Soil formation│   │ • Education     │
+    │ • Nutrient cycle│   │ • Spiritual     │
+    │ • Pollination   │   │ • Aesthetic     │
+    │ • Photosynthesis│   │ • Sense of place│
+    └─────────────────┘   └─────────────────┘
+```
+
 The central concept governing this leverage is **carrying capacity**, denoted K in ecological modeling. Carrying capacity is the maximum population that an ecosystem can sustain indefinitely — not for one season, not for one decade, but in perpetuity, through droughts, floods, pest outbreaks, and climatic variation. For a 50-person settlement on 20 hectares, carrying capacity depends on four primary variables:
 
 - **Soil fertility** — nutrient availability and soil biome health
@@ -71,6 +95,26 @@ In 1995, 31 grey wolves were reintroduced. Within a decade, the cascade reversed
 
 A single species reintroduction physically reshaped the watershed.
 
+```text
+    TROPHIC CASCADE: Apex Predator Presence → Ecosystem Recovery
+
+    Level 4  [WOLVES reintroduced]
+               │
+               ▼  (predation + landscape of fear)
+    Level 2  [ELK driven from riparian zones]
+               │
+               ▼  (reduced browsing pressure)
+    Level 1  [WILLOWS & ASPENS regenerate along streams]
+               │
+               ├──► Bank erosion decreases (root stabilization)
+               ├──► BEAVER return (dam construction → wetlands)
+               ├──► Aquatic insect diversity increases
+               ├──► Songbird populations recover
+               └──► Stream channels narrow and deepen
+
+    ONE SPECIES ──────────► ENTIRE WATERSHED RESHAPED
+```
+
 The lesson for settlement management is direct: every species in an ecosystem has cascading effects, and these effects are often non-obvious and delayed. When the settlement removes or adds species — clearing forest, introducing livestock, hunting predators, planting non-native crops — it triggers cascading effects that may take years or decades to fully manifest. As the de facto apex predator and the most powerful ecosystem engineer in its landscape, the settlement must manage its predation (hunting, harvesting) and engineering (land clearing, water management, fire use) with full awareness of cascading consequences. The precautionary approach is to change slowly, observe carefully, and reverse course at the first sign of unintended cascade.
 
 ### Historical Examples of Ecological Integration
@@ -82,6 +126,29 @@ Satoyama, literally "mountain-village," describes the landscape management syste
 Each element of the mosaic supported the others through material and energy flows. Forested hillsides prevented erosion and filtered rainfall, delivering clean water to the paddies below. Rice straw and paddy weeds were composted and returned to the forest floor, accelerating nutrient cycling in the coppiced woodlands. Leaf litter from the forest was collected as green manure for paddy fields. Pond water, enriched by fish waste, fertilized adjacent gardens. Coppiced trees regrew from their root systems, eliminating the need for replanting and preventing the soil disturbance of clear-cutting.
 
 The ecological outcome was striking: satoyama landscapes supported higher biodiversity than either intensively farmed monoculture or unmanaged climax forest. The habitat mosaic created edge effects — transition zones between habitat types where species from adjacent habitats overlap — and provided niches for species adapted to open woodland, grassland, wetland, and forest-edge conditions. Surveys of satoyama landscapes consistently document more plant, insect, bird, and amphibian species than equivalent areas of either farmland or unbroken forest. The key principle is that managed diversity exceeds both monoculture and complete wilderness in ecological productivity and resilience.
+
+```text
+    BIODIVERSITY-RESILIENCE RELATIONSHIP
+
+    Ecosystem  │
+    Stability  │                         ●───●───●── (plateau)
+    & Output   │                    ●
+               │                ●
+               │            ●
+               │         ●
+               │       ●
+               │     ●
+               │   ●
+               │ ●
+               │●
+               └──────────────────────────────────────
+                Low            Species           High
+                             Diversity
+
+    Key: Below ~15 species → fragile, collapse-prone
+         15-40 species → rapid stability gains (functional redundancy)
+         40+ species  → diminishing returns but maximum resilience
+```
 
 **Balinese Subak (1000 CE — present)**
 
@@ -161,6 +228,26 @@ Recommended land allocation for a 20-hectare settlement supporting 40-60 people:
 | Wetland / pond | 0.5-1 | Water storage, aquatic food production, water filtration, wildlife habitat | Maintain water levels; manage invasive species; harvest aquatic plants sustainably |
 
 The critical ratio is at least 50% of total land area maintained as forest (managed + unmanaged) and wetland. Below this threshold, watershed function degrades, erosion accelerates, and microclimate regulation (humidity, temperature moderation, wind reduction) is lost.
+
+```text
+    SUCCESSIONAL STAGES with Human Management Interventions
+
+    Time ──────────────────────────────────────────────────────►
+
+    Bare       Pioneer       Early          Mid-         Climax
+    Ground     Species       Successional   Successional Forest
+    ·····      ·····         ·····          ·····        ·····
+    |          | grasses     | shrubs &     | young      | mature
+    | rock/    | herbs       | saplings     | canopy     | canopy
+    | soil     | mosses      | perennials   | understory | old growth
+    |          |             |              |            |
+    Yr 0       Yr 1-3        Yr 3-10       Yr 10-50    Yr 50-200+
+
+    HUMAN INTERVENTIONS:
+    ├─ seed ──┤├─ coppice ──┤├─ thin/prune─┤├─ observe ─┤
+    ├─ mulch ─┤├─ plant food ┤├─ harvest ──┤├─ protect ─┤
+              ├─ burn patches┤             ├─ sel. cut ─┤
+```
 
 ### The Indicator Species Dashboard
 

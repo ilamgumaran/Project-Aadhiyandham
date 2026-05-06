@@ -128,6 +128,25 @@
 <li><strong>Working life</strong>: An ox can work productively from age 2-3 to age 10-12, providing 8-10 years of draft service. At retirement, the animal provides 200-350 kg of meat and a valuable hide. This dual-purpose lifecycle — years of labor followed by a final harvest of meat and leather — is a key economic advantage over horses.</li>
 <li><strong>Daily work schedule</strong>: 4-6 hours of draft work per day maximum, divided into two sessions (morning and late afternoon) with a midday rest of 2-3 hours. Provide water every 2 hours during work. Never work oxen in extreme heat (above 35 degrees C). Rest one full day per week.</li>
 </ul>
+<pre><code class="language-text">
+        DRAFT ANIMAL WORK CAPACITY — Force x Distance Calculations
+  ═══════════════════════════════════════════════════════════════════════
+  Task         │ Draft Force │ Speed    │ Distance/Day │ Work Output
+  ─────────────┼─────────────┼──────────┼──────────────┼─────────────
+  PLOWING      │ 600-900 N   │ 2.5 km/h │ 15-20 km     │ 12-16 MJ
+  (pair, yoke) │ (deep sod)  │          │ (furrow-km)  │
+  ─────────────┼─────────────┼──────────┼──────────────┼─────────────
+  HAULING      │ 400-600 N   │ 3-4 km/h │ 20-30 km     │ 10-14 MJ
+  (cart, road) │ (1000 kg)   │          │ (round trip) │
+  ─────────────┼─────────────┼──────────┼──────────────┼─────────────
+  WATER PUMP   │ 200-300 N   │ 3 km/h   │ circular     │ 8-10 MJ
+  (sweep/well) │ (lever arm) │          │ (6-8 hrs)    │ ~4000 L/day
+  ═══════════════════════════════════════════════════════════════════════
+  YOKE MECHANICS: Force transmits through neck → yoke → chain/beam
+  Optimal draft angle: 15-20 degrees below horizontal
+  Yoke width: 1.0-1.2 m (matched to animal shoulder span)
+  Pair synchronization adds 80-90% of second animal&#x27;s force (not 100%)
+</code></pre>
 <p><strong>The Mule (logistics and mountain terrain):</strong></p>
 <ul>
 <li><strong>Hybrid vigor</strong>: The mule (male donkey x female horse) exhibits hybrid vigor — greater disease resistance, harder hooves, superior endurance, and longer working life (25-35 years vs. 15-20 for horses) than either parent species. Mules are also more heat-tolerant than horses, continuing to work efficiently at temperatures that would prostrate a horse.</li>
@@ -160,8 +179,55 @@
 <li>Chickens require some grain supplementation (50-100 g per bird per day) for maximum egg production, but can free-range for 50-70% of their diet if given access to diverse pasture and garden areas.</li>
 <li>A flock of 20 hens provides approximately 10-15 eggs per day during peak production — enough protein supplementation for 10-15 people.</li>
 </ul>
+<pre><code class="language-text">
+  FEED CONVERSION EFFICIENCY — kg Feed Input per kg Edible Output
+  ════════════════════════════════════════════════════════════════
+  Animal    │ Feed:Output │ Bar (each █ = 1 kg feed per kg output)
+  ──────────┼─────────────┼──────────────────────────────────────
+  Chicken   │  2.0:1      │ ██ (eggs)
+  (eggs)    │             │
+  ──────────┼─────────────┼──────────────────────────────────────
+  Rabbit    │  3.5:1      │ ███▌ (meat, forage-fed)
+  (meat)    │             │
+  ──────────┼─────────────┼──────────────────────────────────────
+  Goat      │  5.0:1      │ █████ (milk, browse-fed)
+  (milk)    │             │
+  ──────────┼─────────────┼──────────────────────────────────────
+  Chicken   │  4.5:1      │ ████▌ (meat)
+  (meat)    │             │
+  ──────────┼─────────────┼──────────────────────────────────────
+  Cattle    │  8.0:1      │ ████████ (meat, pasture-only)
+  (meat)    │             │
+  ════════════════════════════════════════════════════════════════
+  NOTE: Ruminants (goat, cattle) convert INEDIBLE forage/browse.
+  Chickens require GRAIN (human-edible). True efficiency favors
+  animals that eat what humans cannot.
+</code></pre>
 <h3 id="rotational-grazing-implementation">Rotational Grazing Implementation</h3>
 <p><strong>Paddock design</strong>: Divide total pasture area into a minimum of 6 paddocks (8-12 paddocks is optimal). For a 10-hectare pasture supporting 10 cattle-equivalents, each paddock would be approximately 0.8-1.2 hectares. Use permanent living fences for perimeter boundaries and lighter internal divisions (movable hurdles, electric fence if available, or tethering).</p>
+<pre><code class="language-text">
+  ROTATIONAL GRAZING — 8-Paddock Layout (10 ha total)
+  ═════════════════════════════════════════════════════
+       WATER                Movement Pattern
+       POINT     ┌───────┬───────┐    (arrows show
+         ●───────│  P1   │  P2   │     rotation)
+         │       │ 1.2ha │ 1.2ha │
+         │       │DAY1-2 │DAY3-4 │   P1 → P2 → P3
+         │       ├───────┼───────┤        → P4 → P5
+         │       │  P8   │  P3   │        → P6 → P7
+         │       │ 1.2ha │ 1.2ha │        → P8 → P1
+         │       │DAY15-16 DAY5-6│
+         │       ├───────┼───────┤   Rest per paddock:
+         ●───────│  P7   │  P4   │     14 days (summer)
+         │       │ 1.2ha │ 1.2ha │     28 days (spring)
+         │       │DAY13-14 DAY7-8│     56 days (winter)
+         │       ├───────┼───────┤
+         ●───────│  P6   │  P5   │   ══ Living fence
+         │       │ 1.2ha │ 1.2ha │   -- Movable hurdles
+         │       │DAY11-12 DAY9-10    ● Water access
+  ═══════╧═══════╧═══════╧═══════╧═══════════════════
+  Central lane provides access + water to all paddocks
+</code></pre>
 <p><strong>Rotation calendar</strong> (temperate climate, adjust for local conditions):</p>
 <table><thead><tr>
 <th>Season</th>

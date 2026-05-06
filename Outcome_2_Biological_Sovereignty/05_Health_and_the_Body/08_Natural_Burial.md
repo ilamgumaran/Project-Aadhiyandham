@@ -36,6 +36,25 @@ This is the critical stage. Aerobic conditions produce rapid, clean decompositio
 
 Bone persists for decades to centuries depending on soil pH and moisture — acidic, wet soils dissolve bone mineral (hydroxyapatite) faster than alkaline, dry soils. The bone mineral itself is primarily calcium phosphate, which slowly releases calcium and phosphorus to the surrounding soil as it weathers.
 
+```text
+DECOMPOSITION TIMELINE AND NUTRIENT RELEASE
+============================================================
+Stage:    FRESH     BLOAT    ACTIVE DECAY   ADV. DECAY   DRY/SKELETON
+Days:     0---4     4---10   10--------25   25------90   90------365+
+          |         |        |              |            |
+Temp:     ambient   rising   40-55 C peak   cooling      ambient
+          |         |        ^^^^^^^^^^^^   |            |
+Nutrients:|         |        N,K,S flush    P release    Ca slow-release
+released  minimal   fluids   ============   =========    from bone mineral
+          |         |        (80% of N,K)  (phosphorus)  over decades
+          |         |        |              |            |
+Pathogen  LOW       HIGH     DECLINING      MINIMAL      SAFE
+risk:                        (thermophilic               (safe to plant
+                              kill phase)                 food trees)
+------------------------------------------------------------
+Soil:     none      none     humus forming  humus stable  ite enrichment
+```
+
 ### The Nutrient Budget of a Human Body
 
 An average 70 kg adult body contains the following elements relevant to soil fertility:
@@ -78,6 +97,27 @@ The primary risk of burial is pathogen leaching into groundwater. A decomposing 
 - Tuberculosis (*Mycobacterium tuberculosis*): up to 2 years in cool, moist, acidic soils
 - Helminth eggs (roundworm, hookworm): up to 2 years
 - Prion diseases (Creutzfeldt-Jakob disease, kuru): indefinite — prions are misfolded proteins that are not destroyed by biological decomposition, heat, or chemical treatment at field-achievable levels. Bodies of individuals with suspected prion disease should be buried at maximum depth (1.5 m) with a thick layer of quicklime, and the grave site should never be used for food production.
+
+```text
+PATHOGEN DIE-OFF IN BURIAL SOIL (aerobic, loam, 0.9-1.2m depth)
+============================================================
+Organism          | Months after burial
+                  | 1   3   6   12   18   24   36   60
+------------------+----------------------------------
+E. coli           | ### .   .    .    .    .    .    .
+Salmonella spp.   | ### ##  .    .    .    .    .    .
+Hepatitis A virus | ### ##  .    .    .    .    .    .
+Clostridium spores| ### ### ### ###  ###  ##   .    .
+Mycobacterium TB  | ### ### ### ###  ###  ##   .    .
+Helminth eggs     | ### ### ### ###  ###  ##   .    .
+Prions (CJD)      | ### ### ### ###  ###  ### ###  ### INDEFINITE
+------------------+----------------------------------
+ ### = viable/detectable    . = below infectious threshold
+
+Depth effect: at 1.5m (epidemic burial), survival extends
+~30% longer due to lower O2 and cooler temperature.
+Quicklime reduces survival of all non-prion pathogens by 60-80%.
+```
 
 ---
 
@@ -150,6 +190,29 @@ Do not use synthetic fabric — polyester, nylon, and acrylic will persist in th
 
 **Step 9 — Memorial tree planting.** Plant a sapling at the head of the grave, directly into the mounded soil. The tree's roots will grow downward into the nutrient-rich decomposition zone within 1-2 growing seasons. Species selection is discussed below.
 
+```text
+GRAVE CROSS-SECTION (not to scale)
+============================================================
+ Ground level         <-- mound 15-20 cm above grade
+ _____|_____
+/  Memorial  \        <-- sapling planted at head end
+|    Tree     |
+|______|______|
+       |  roots grow down
+=======|============= surface (0.0 m)
+  backfill soil       <-- excavated soil returned
+- - - - - - - - - -   0.3 m  (optional stone cap / scavenger barrier)
+  CARBON COVER        <-- 30 cm wood chips/straw over body
+  ==================
+  | SHROUDED BODY |   <-- 0.9 m depth (center of body)
+  ==================
+  CARBON BED          <-- 20 cm wood chips beneath body
+- - - - - - - - - -   1.2 m  (grave floor)
+  undisturbed subsoil
+  ..................   vadose zone (biological filter)
+~ ~ ~ ~ ~ ~ ~ ~ ~ ~   2.5 m+ WATER TABLE (minimum)
+```
+
 **Step 10 — Grave marking.** Place a wooden stake with the deceased's name and date of death at the grave site. Over years, the growing memorial tree replaces the stake as the permanent marker. Some settlements may choose to carve the name into the tree's trunk once it is large enough, or to maintain a written registry of burials and their corresponding trees.
 
 ### The Memorial Forest
@@ -175,6 +238,24 @@ The choice of species may be made by the family of the deceased, lending persona
 - A place of contemplation and remembrance
 
 It is the settlement's most tangible expression of the idea that death feeds life.
+
+```text
+MEMORIAL GROVE LAYOUT (plan view, 30m x 30m plot)
+============================================================
+     3m     3m     3m     3m     3m
+  |------|------|------|------|------|
+  |  T1  |  T2  |  T3  |  T4  |  T5  |  Row A
+  | [==] | [==] | [==] | [==] | [==] |
+  |------|------|------|------|------|
+  |  T6  |  T7  |  T8  |  T9  | T10  |  Row B
+  | [==] | [==] | [==] | [==] | [==] |
+  |------|------|------|------|------|
+
+  T = memorial tree (canopy expands to fill 3m spacing)
+  [==] = grave (2m x 0.8m), oriented head uphill
+  Nutrient cycle: body -> soil -> roots -> trunk -> leaf litter -> soil
+  Path (1.5m wide) runs between rows for mourner access
+```
 
 **The emotional architecture of the memorial forest.** The forest serves a psychological function as profound as its ecological one. Grief needs a place. The memorial forest gives mourners a living, growing, fruiting entity to visit, tend, and speak to.
 
