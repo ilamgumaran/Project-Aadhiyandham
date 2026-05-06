@@ -70,9 +70,9 @@
 
 ### 05 Health and the Body
 - [I] `01_Rationale_and_Importance.md`
-- [T] `02_Endocrine_Regulation.md`
-- [T] `03_Temperate_Antibiotic_Kit.md`
-- [T] `04_Advanced_Trauma_Care.md`
+- [I] `02_Endocrine_Regulation.md`
+- [I] `03_Temperate_Antibiotic_Kit.md`
+- [I] `04_Advanced_Trauma_Care.md`
 - [T] `05_Zero_Tech_Dentistry.md`
 - [T] `06_Ancient_Medicine.md`
 - [T] `07_Midwifery_and_Childbirth.md`
@@ -261,3 +261,4 @@
 | P2-13 | 2026-05-04 | 04.01, 04.02, 04.03 | **BEGIN SECTION 04: Food & Soil Sovereignty.** Food Sovereignty Rationale (3 new ASCII: food sovereignty pyramid soil→nutrition layers, closed-loop nutrient cycling soil→plant→human→compost→soil, caloric self-sufficiency timeline months-to-percentage; 225→296 lines), Terra Preta & Biochar (3 new: temperature vs product yield 200-900°C optimal zone, CEC comparison bar chart sand→humus, Terra Preta soil profile anthrosol vs oxisol side-by-side; 280→350 lines), Heirloom Seed Banking (3 new + 2 existing: genetic diversity bottleneck allele loss diagram, seed viability decay curves by crop family, seed storage environment temp×humidity matrix with Harrington's Rule; 348→420 lines). |
 | P2-14 | 2026-05-04 | 04.04, 04.05, 04.06 | Long-Term Food Preservation (4 new ASCII: water activity spectrum bacteria/mold/yeast thresholds, root cellar cross-section thermal mass + ventilation, lacto-fermentation vessel anaerobic/brine/pH, solar dryer airflow cross-section; 309→391 lines), Thermal Mass Cooking (3 new: combustion efficiency open fire vs rocket vs earth oven, hay box retained-heat cooker cross-section with temp decay, fuel demand vs coppice supply bar chart; 281→360 lines), Emergency Nutrition (4 new: caloric bridge timeline stored→foraged→garden ramp, Universal Edibility Test 8-hr sequential flowchart, wild food caloric density horizontal bar chart, fish weir V-funnel top-down cross-section; 281→365 lines). |
 | P2-15 | 2026-05-04 | 04.07, 04.08, 05.01 | Pyrolysis Engineering (3 new ASCII + 1 existing: biomass decomposition 3-stage temperature chart 100-500°C, two-drum TLUD exploded construction view, biochar quality 4-test flowchart; 330→399 lines), Refugia Pantry Physics (4 new: caloric budget 28M kcal 50-person breakdown, 70-20-10 storage mix calories vs volume, earth-cooled depth-temperature gradient, Q₁₀ degradation curve with potato example; 327→405 lines). **SECTION 04 COMPLETE — 8/8 at [I].** Health Rationale (4 new: prevention hierarchy 4-tier pyramid, pre-industrial disease burden top-5 chart, circadian-endocrine axis SCN→cortisol/melatonin, botanical pharmacy 6-compound shelf; 224→294 lines). **BEGIN SECTION 05.** |
+| P2-16 | 2026-05-05 | 05.02, 05.03, 05.04 | Endocrine Regulation (3 new + 2 existing: sleep architecture N1-N2-N3-REM 5-cycle distribution, cortisol-melatonin 24hr crossover graph, seasonal sleep opportunity darkness window; 261→324 lines), Temperate Antibiotic Kit (3 new + 1 existing: bacterial membrane disruption allicin/thymol mechanism, tincture preparation 7-step flowchart with ratios, wound care 7-step decision tree with escalation; 308→378 lines), Advanced Trauma Care (4 new: hemorrhagic shock 4-class table blood loss/HR/BP/mental, Rule of Nines burn body chart with percentages, MARCH protocol sequential flowchart with kill timeframes, windlass tourniquet placement diagram; 350→430 lines). |

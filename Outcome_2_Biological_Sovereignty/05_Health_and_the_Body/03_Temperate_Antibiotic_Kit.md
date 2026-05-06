@@ -33,6 +33,27 @@ Allicin (diallyl thiosulfinate) is produced when garlic cells are crushed — th
 Thymol and carvacrol are monoterpene phenols — the primary antimicrobials in thyme and oregano. Oregano essential oil contains 60-80% carvacrol and thymol combined, making it the most concentrated botanical antimicrobial in temperate zones. Thymol is the active ingredient in Listerine mouthwash, first formulated in 1879 as a surgical antiseptic.
 
 - **Mechanism:** Thymol inserts into bacterial cell membranes, increasing permeability and causing cell lysis. It also denatures bacterial proteins. Carvacrol operates identically.
+
+```text
+    ALLICIN & THYMOL: MECHANISMS OF MEMBRANE DISRUPTION
+    ====================================================
+
+    INTACT BACTERIAL CELL         AFTER EXPOSURE TO THYMOL/ALLICIN
+    ~~~~~~~~~~~~~~~~~~~~~~        ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+    Outer membrane                Outer membrane (compromised)
+    |  |  |  |  |  |  |          |  |  /  |  \  |  /  |
+    ==================            ===/====\====/====\===
+    Lipid   Lipid   Lipid         Lipid [THY] Lipid [THY]
+    Bilayer Bilayer Bilayer        Bilayer MOL  Bilayer MOL
+    ==================            ===\====\===/====/====
+    |  |  |  |  |  |  |          |  |  \  |  /  |  \  |
+                                       LYSIS --> cell contents leak out
+    Enzyme-SH + Allicin -->
+    Enzyme-S-S-Allyl (INACTIVATED)    Thymol inserts between
+    [Thiol group disruption]          phospholipids, rupturing
+                                      membrane integrity
+```
+
 - **Spectrum:** Broad-spectrum — S. aureus, E. coli, Pseudomonas aeruginosa, Candida, Listeria, Helicobacter pylori. One of the few botanical antimicrobials effective against Pseudomonas.
 - **Preparation:** Infusion — 20g dried thyme in 200 mL boiling water, steep 10 minutes, strain. Decoction (stronger) — boil 10 minutes. Oregano oil (steam-distilled): dilute 1 drop in 10 mL carrier oil for topical use. Never apply undiluted essential oil to skin.
 
@@ -219,6 +240,30 @@ Crush or chew fresh plant material to a paste. Apply directly to wound. For garl
 **Tincture (long-term preservation):**
 1:5 ratio dried herb to alcohol by weight (e.g., 100g dried thyme to 500 mL vodka). Submerge herb in clean glass jar, seal tightly, store in dark location. Shake daily for 4-6 weeks. Strain, pressing to extract all liquid. Store in dark glass bottles labeled with contents, ratio, and date.
 
+```text
+    TINCTURE PREPARATION PROCESS (1:5 ratio, dried herb)
+    =====================================================
+
+    HARVEST        DRY            MEASURE         MACERATE
+    [Gather at  -> [Press or   -> [100g dried  -> [Submerge in
+     peak bloom]    hang-dry       herb weighed]   500mL 40-60%
+                    5-10 days]                     ethanol in
+                                                   glass jar]
+         |              |              |               |
+         v              v              v               v
+    Timing:         Crumble test:  Use scale or   Seal tightly.
+    morning after   snaps, does    known volume   Shake daily
+    dew dries       not bend       equivalents    for 4-6 WEEKS
+                                                       |
+                                                       v
+    PRESS           FILTER          BOTTLE
+    [Squeeze herb-> [Strain      -> [Dark glass bottles,
+     through cloth   through fine    label: plant, ratio,
+     to extract      muslin or       date, alcohol %]
+     all liquid]     coffee filter]
+                                    SHELF LIFE: 3-5 YEARS
+```
+
 **Honey Infusion:**
 Fill jar one-third with dried herbs. Pour raw honey to fill. Stir out air pockets, seal, invert daily for 2-4 weeks. Use on wounds, for sore throat, or diluted for irrigation.
 
@@ -228,6 +273,31 @@ Jar half-full of dried herbs, covered with olive or sunflower oil. Warm location
 ### Wound Care Protocol
 
 This is the complete wound care protocol integrating botanical antimicrobials. Memorize it. Practice it. Every adult in the settlement should be able to execute these seven steps.
+
+```text
+    WOUND CARE PROTOCOL: 7-STEP DECISION TREE
+    ===========================================
+
+    [1. STOP BLEEDING] ---> [2. IRRIGATE] ---> [3. DEBRIDE]
+     Direct pressure          500mL+ boiled      Remove dead/
+     10 min minimum           water, with         foreign tissue
+     Tourniquet if            pressure            (grey/black)
+     arterial                      |                   |
+                                   v                   v
+    [7. MONITOR]  <---  [6. CHANGE DRESSING] <--- [4. APPLY
+     Check every             Every 24-48 hrs     ANTIMICROBIAL]
+     dressing change:        Re-irrigate +        1st: honey 3mm
+     - Redness >2cm?         reapply honey        2nd: garlic 15min
+     - Red streaks?               ^                    + honey
+     - Fever >38.5C?             |               3rd: berberine
+     - Confusion?          [5. DRESS WOUND]           + honey
+     - Pulse >100?          Clean boiled cloth         |
+           |                secured (not tight)        v
+           v                                    If NO improvement
+    ESCALATE if ANY:                            in 48 hrs -->
+    Pharmaceutical ABx                          ESCALATE to next
+    Surgical drainage                           level immediately
+```
 
 1. **Stop bleeding.** Apply direct pressure with the cleanest available cloth. Maintain pressure for a minimum of 10 minutes without lifting the cloth to check. For arterial bleeding (bright red, pulsing), apply a tourniquet proximal to the wound if direct pressure fails (see Module 04, Advanced Trauma Care).
 

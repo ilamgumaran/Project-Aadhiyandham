@@ -42,6 +42,29 @@ The morning cortisol peak mobilizes glucose from glycogen stores, suppresses non
 
 **Growth hormone (GH)** is secreted in pulsatile fashion by the anterior pituitary, with the largest pulse occurring during the first bout of Stage 3/4 slow-wave sleep (typically within 60-90 minutes of sleep onset). GH drives tissue repair, muscle protein synthesis, bone maintenance, lipolysis (fat mobilization), and immune cell proliferation. In a settlement context where physical labor is intense and injuries are common, GH-mediated recovery during sleep is not a luxury but a survival requirement. Disrupted slow-wave sleep --- from noise, pain, anxiety, or circadian misalignment --- directly reduces GH secretion and slows recovery.
 
+```text
+ CORTISOL-MELATONIN CROSSOVER: 24-HOUR HORMONAL RHYTHM
+
+ Concentration
+   high |         C                                        M
+        |        /|\                                      /|\
+        |       / | \                                    / | \
+        |      /  |  \                                  /  |  \
+        |     /   |   \                                /   |  |
+        |    /    |    \_____                     ____/    |  |
+        |   /     |          \_____         ____/         |  |
+        |  /      |                \___M___/              |  |
+        | /    M  |                    |                   |  |
+   low  |/___/  \_|____________________|___________________|__\___
+        +----+----+----+----+----+----+----+----+----+----+----+--
+        2AM  4AM  6AM  8AM  10AM 12PM 2PM  4PM  6PM  8PM  10PM 12AM
+
+             |<-- WAKE PHASE (cortisol dominant) -->|<- SLEEP PHASE ->|
+                  C = Cortisol peak (CAR)              M = Melatonin peak
+                  Crossover points: ~6AM (rising C, falling M)
+                                    ~9PM (falling C, rising M)
+```
+
 **Testosterone and estrogen** follow circadian-dependent secretion patterns. Testosterone peaks in the early morning (contributing to the morning alertness signal) and declines through the day. Chronic sleep restriction to 5 hours per night for one week reduces testosterone levels in young men by 10-15%, an effect equivalent to 10-15 years of aging (Leproult & Van Cauter, 2011). Estrogen and progesterone cycling in women is also circadian-sensitive; disrupted sleep affects menstrual regularity, fertility, and premenstrual symptoms. In a settlement where reproductive health and physical performance are critical, these hormonal effects of sleep deprivation cannot be dismissed.
 
 ### The Glymphatic System: The Brain's Self-Cleaning Mechanism
@@ -73,6 +96,26 @@ Normal adult sleep cycles through four stages in approximately 90-minute ultradi
 - **REM (Rapid Eye Movement)**: Characterized by brain activity patterns resembling wakefulness, muscle atonia (paralysis preventing motor enactment of dreams), and vivid dreaming. REM sleep is critical for emotional processing, procedural memory consolidation, and creative problem-solving. Accounts for approximately 25% of total sleep time. This is the stage most critical for cognitive and emotional recovery.
 
 The distribution of these stages across the night is not uniform. The first half of the night is dominated by slow-wave sleep --- the physical recovery phase. The second half is dominated by REM sleep --- the cognitive and emotional recovery phase. This has a critical practical implication: cutting sleep short (going to bed late or waking early) preferentially eliminates REM sleep, producing emotional dysregulation, impaired learning, poor decision-making, and interpersonal conflict --- even if the individual "feels fine."
+
+```text
+ SLEEP ARCHITECTURE: STAGE CYCLING ACROSS A TYPICAL 8-HOUR NIGHT
+
+ Stage    Cycle 1     Cycle 2     Cycle 3     Cycle 4     Cycle 5
+         (90 min)    (90 min)    (90 min)    (90 min)    (90 min)
+ ------  ----------  ----------  ----------  ----------  ----------
+ REM     [==]        [====]      [======]    [========]  [==========]
+ N1      [=]         [=]         [=]         [=]         [=]
+ N2      [========]  [========]  [=========] [=========] [==========]
+ N3      [=========] [=======]   [====]      [==]        [=]
+
+ Time:   22:00       23:30       01:00       02:30       04:00-05:30
+
+ KEY: Each [=] represents relative time spent in that stage per cycle
+      N3 (slow-wave) dominates early night --> physical recovery
+      REM dominates late night            --> cognitive/emotional recovery
+
+ Stage proportions (whole night):  N1: 5%  |  N2: 45%  |  N3: 25%  |  REM: 25%
+```
 
 ---
 
@@ -159,6 +202,26 @@ Season          Darkness Hours    Recommended Sleep    Pattern
 Summer          8-9 hours         7-8 hours            Consolidated
 Spring/Autumn   11-12 hours       8-9 hours            Consolidated
 Winter          14-16 hours       9-10 hours            Segmented (4+4)
+```
+
+```text
+ SEASONAL SLEEP OPPORTUNITY: DAY LENGTH AND OPTIMAL SLEEP TIMING
+
+ Season      Sunset   Sleep Onset  Wake Time  Sunrise  Sleep Hrs  Pattern
+ ----------  ------   -----------  ---------  -------  ---------  -----------
+ Summer      21:00    22:00        05:30      05:00    7.5 hrs    Consolidated
+ (Jun)       (late)   (DLMO+2hr)   (with sun)          single block
+
+ Equinox     18:30    20:30        06:00      06:30    9.5 hrs    Consolidated
+ (Mar/Sep)            (DLMO+2hr)   (with sun)          single block
+
+ Winter      16:30    18:30        07:00      08:00    9-10 hrs   Segmented
+ (Dec)       (early)  (DLMO+2hr)   (with sun)          4+1-2+4
+
+ DARKNESS WINDOW:
+ Summer:   ||||||||  (21:00-05:00 = 8 hrs)
+ Equinox:  ||||||||||||  (18:30-06:30 = 12 hrs)
+ Winter:   ||||||||||||||||  (16:30-08:00 = 15.5 hrs)
 ```
 
 The inter-sleep waking period during winter segmented sleep (1-2 hours between first and second sleep) should not be counted as insomnia or treated as a problem. It is a natural adaptation to long darkness. Activities during this period: quiet conversation, meditation, journaling, prayer, gentle stretching, or unhurried craft work. Lighting remains strictly orange/red, below 50 lux.

@@ -27,6 +27,22 @@ The American College of Surgeons classifies blood loss into four stages:
 
 A severed femoral artery (inner thigh) or brachial artery (inner upper arm) can progress from Class I to Class IV in two to five minutes. This is why hemorrhage control is the FIRST priority in trauma care — before airway, before breathing, before anything else.
 
+```text
+HEMORRHAGIC SHOCK — 4 CLASSES
+
+             Class I      Class II     Class III      Class IV
+            ─────────    ─────────    ──────────     ─────────
+Blood Loss: < 750 mL     750-1500 mL  1500-2000 mL   > 2000 mL
+  (% vol):  < 15%        15-30%       30-40%         > 40%
+Heart Rate: < 100 bpm    100-120 bpm  120-140 bpm    > 140 bpm
+BP:         Normal       Normal       Decreased      Absent
+Mental:     Slight anxty Anxious      Confused       Unconscious
+Skin:       Normal       Pale         Cold/clammy    Grey/mottled
+Urine:      > 30 mL/hr  20-30 mL/hr  5-15 mL/hr    Negligible
+
+Urgency:    Observe ──>  Control ──>  EMERGENCY ──>  FATAL
+```
+
 The "Platinum 10 Minutes" refers to the first ten minutes after a major hemorrhage. Within this window, hemorrhagic shock is usually reversible if bleeding is controlled. After this window, even if bleeding stops, the cascade of organ damage — particularly to the kidneys and gut lining — becomes increasingly irreversible. Cellular death releases toxins that cause further clotting dysfunction, creating a vicious cycle. The lesson is absolute: stop the bleeding NOW, not after you have assessed the scene, not after you have found the trauma kit, not after you have calmed down. NOW.
 
 ### The Pathophysiology of Fractures
@@ -70,6 +86,25 @@ The Rule of Nines provides a rapid method to estimate burn surface area:
 | Each leg           | 18%                                   |
 | Groin/perineum     | 1%                                    |
 
+```text
+RULE OF NINES — BURN SURFACE AREA ESTIMATION
+
+              ┌─────┐
+              │HEAD │ 9%
+              └──┬──┘
+         9%  /   │   \  9%
+       (arm)/  ┌─┴─┐  \(arm)
+          │    │   │    │       Front trunk = 18%
+          │    │18%│    │       Back trunk  = 18%
+          │    │   │    │
+               └─┬─┘
+        18% /    │    \ 18%
+      (leg)/     │     \(leg)
+          │      │      │
+         Groin/perineum = 1%
+              TOTAL = 100%
+```
+
 Burns exceeding 20% of total body surface area cause systemic inflammatory response and massive fluid shifts from the bloodstream into the burned tissue. Without aggressive fluid replacement (which requires intravenous access not available in zero-tech settings), burns of this magnitude carry very high mortality. Prevention of burn infection — the primary delayed cause of death — is critical: apply honey or clean dressings to ALL burn wounds regardless of size.
 
 ---
@@ -85,6 +120,32 @@ The following five principles govern all trauma care decisions. Memorize them. T
 - **R** — Respiration (chest seal for penetrating chest wounds)
 - **C** — Circulation (assess for shock, position patient, prevent further fluid loss)
 - **H** — Hypothermia prevention (insulate from ground, cover, warm the core)
+
+```text
+MARCH PROTOCOL — TREATMENT PRIORITY FLOWCHART
+
+  TRAUMA PATIENT ──► Address fastest killer FIRST
+            │
+            v
+  [ M - MASSIVE HEMORRHAGE ]        Kills in: 2-5 min
+       Tourniquets, wound packing
+            │
+            v
+  [ A - AIRWAY ]                    Kills in: 3-5 min
+       Position, clear obstructions
+            │
+            v
+  [ R - RESPIRATION ]               Kills in: min-hrs
+       Chest seal, breathing support
+            │
+            v
+  [ C - CIRCULATION ]               Kills in: hours
+       Shock assessment, positioning
+            │
+            v
+  [ H - HYPOTHERMIA ]               Kills in: hours
+       Insulate, warm, prevent lethal triad
+```
 
 This order reflects the speed at which each condition kills. Hemorrhage kills in minutes. Airway obstruction kills in minutes. Respiratory failure kills in minutes to hours. Circulatory shock kills in hours. Hypothermia kills in hours. Always address the fastest killer first. Do NOT skip ahead to splint a fracture while arterial blood is spurting from another wound.
 
@@ -119,6 +180,25 @@ Research from the Committee on Tactical Combat Casualty Care (CoTCCC) validates 
 7. **Twist.** Rotate the stick. Each half-turn mechanically shortens the fabric band, compressing the underlying muscle tissue against the bone and progressively occluding the artery. Twist until bleeding stops COMPLETELY. Not "slows down." STOPS.
 8. **Lock the windlass.** Secure the ends of the stick to the limb with another strip of cloth, a loop of cordage, or by tucking the stick under the tourniquet band itself, preventing it from unwinding.
 9. **Mark the time.** Write the time of tourniquet application on the patient's forehead or on a visible area of skin using any available marking material — blood, charcoal, ink, mud. Use the format "TQ" followed by the time (e.g., "TQ 14:30"). This information is critical for anyone who subsequently manages the patient.
+
+```text
+WINDLASS TOURNIQUET — PLACEMENT (Side View of Limb)
+
+    TOWARD TORSO                      TOWARD EXTREMITY
+  ◄───────────────────────────────────────────────────►
+
+  ══════╬══════════════════════════════╬══════════
+        ║   ┌──────────┐              ║ ~~~~ WOUND
+        ║   │TOURNIQUET│              ║ ~~~~
+        ║   │ (>5cm    │              ║ ~~~~ (bleeding
+        ║   │  wide)   │              ║ ~~~~  source)
+  ══════╬══════════════════════════════╬══════════
+            │◄──5-8cm──►│
+            2-3 inches ABOVE wound
+
+  Windlass rod placed ON TOP, twisted until
+  bleeding STOPS. Mark forehead: "TQ 14:30"
+```
 
 ```
 WINDLASS TOURNIQUET — CROSS-SECTION VIEW
