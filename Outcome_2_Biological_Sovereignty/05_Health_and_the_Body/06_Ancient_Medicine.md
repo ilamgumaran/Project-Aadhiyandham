@@ -30,6 +30,28 @@ Why do plants produce compounds that affect human physiology? The answer lies in
 
 **Glycosides** are compounds in which a sugar molecule is bound to a pharmacologically active aglycone group. Digoxin (foxglove) inhibits the sodium-potassium ATPase pump --- still used for heart failure but has an extremely narrow therapeutic window. Amygdalin (stone fruit pits) releases hydrogen cyanide upon hydrolysis. Glycosides demand particular caution because the sugar component can mask potency.
 
+```text
+┌─────────────────────────────────────────────────────────────────────┐
+│           PLANT PHARMACOLOGICAL COMPOUND CLASSES                     │
+├─────────────────┬──────────────────┬────────────────┬───────────────┤
+│   ALKALOIDS     │   TERPENOIDS     │   PHENOLICS    │  GLYCOSIDES   │
+│  (N-containing) │ (isoprene units) │ (aromatic -OH) │ (sugar+aglyc) │
+├─────────────────┼──────────────────┼────────────────┼───────────────┤
+│ Berberine       │ Thymol           │ Salicin        │ Digoxin       │
+│  (Oregon grape) │  (thyme)         │  (willow)      │  (foxglove)   │
+│ Caffeine        │ Menthol          │ Curcumin       │ Amygdalin     │
+│  (tea/coffee)   │  (peppermint)    │  (turmeric)    │  (stone fruit)│
+│ Morphine        │ Eugenol          │ Tannins        │ Aucubin       │
+│  (opium poppy)  │  (clove/tulsi)   │  (many plants) │  (plantain)   │
+├─────────────────┼──────────────────┼────────────────┼───────────────┤
+│ Mechanism:      │ Mechanism:       │ Mechanism:     │ Mechanism:    │
+│ DNA/enzyme      │ Membrane         │ COX/NF-kB      │ Varies by     │
+│ interference    │ disruption       │ inhibition     │ aglycone      │
+├─────────────────┼──────────────────┼────────────────┼───────────────┤
+│ Window: NARROW  │ Window: MODERATE │ Window: BROAD  │ Window: NARROW│
+└─────────────────┴──────────────────┴────────────────┴───────────────┘
+```
+
 **The dose-response relationship** is the single most important pharmacological concept for field medicine. Paracelsus stated it in the sixteenth century: "the dose makes the poison." Every medicinal plant has a therapeutic window --- a range of doses within which the desired effect is achieved. Below this range, the plant has no clinical effect. Above it, the plant becomes toxic. Willow bark at 20g per 500mL decoction reduces fever and pain. At three times that dose taken repeatedly, it can cause gastric hemorrhage. Understanding and respecting the therapeutic window is what separates medicine from poisoning.
 
 ### The Fifteen-Plant Temperate Pharmacy
@@ -175,6 +197,22 @@ Water, at varying temperatures, is a powerful therapeutic tool that requires no 
 
 **Contrast therapy** (alternating hot and cold application) creates a vascular pumping action. Hot application causes vasodilation; cold causes vasoconstriction. Alternating between the two (3 minutes hot, 1 minute cold, repeated 3-4 times, always ending on cold) pumps blood and lymph through tissues, accelerating delivery of immune cells and removal of metabolic waste. This is particularly useful for localized injuries and infections.
 
+```text
+    HYDROTHERAPY CONTRAST CYCLE (3-4 rounds, always end COLD)
+    ──────────────────────────────────────────────────────────
+    HOT (38-42°C)         COLD (10-15°C)        HOT           COLD
+    ┌───────────┐         ┌─────┐         ┌───────────┐    ┌─────┐
+    │ 3 minutes │         │1 min│         │ 3 minutes │    │1 min│
+    │VASODILATE │──────▶  │CONST│──────▶  │VASODILATE │──▶ │CONST│
+    │blood OUT  │         │blood│         │blood OUT  │    │blood│
+    │to tissue  │         │ IN  │         │to tissue  │    │ IN  │
+    └───────────┘         └─────┘         └───────────┘    └─────┘
+    Vessel state:   OPEN ──▶ CLOSED ──▶ OPEN ──▶ CLOSED
+    Effect:         Deliver    Flush      Deliver    Flush
+                    nutrients  waste      nutrients  waste
+    Total cycle: ~16 minutes | Net effect: Vascular PUMP action
+```
+
 **Fever management:** The critical mistake in fever management is applying ice or very cold water to a febrile patient. Extreme cold triggers shivering, which is the body's thermogenesis response --- it raises core temperature, which is the opposite of the intended effect. The correct approach is tepid sponging: apply cloths soaked in lukewarm water (not cold, not hot) to the forehead, neck, axillae (armpits), and groin. These areas have major blood vessels close to the surface, and tepid water promotes evaporative cooling without triggering the shivering reflex. Note: mild to moderate fever (below 39.5C / 103F) is itself an immune mechanism --- elevated body temperature inhibits microbial replication and accelerates immune cell activity. Do not aggressively treat fever unless it exceeds 39.5C or the patient is in significant distress.
 
 #### Therapeutic Fasting
@@ -182,6 +220,26 @@ Water, at varying temperatures, is a powerful therapeutic tool that requires no 
 Digestion is metabolically expensive, consuming approximately 20% of the body's basal metabolic rate. When the body is fighting an acute infection, redirecting that metabolic energy from digestion to immune function can accelerate recovery. This is the biological basis of the universal observation that sick animals (and sick humans) lose their appetite --- it is an evolved response, not a pathology.
 
 Autophagy, the process by which cells break down and recycle damaged components, is significantly upregulated during fasting. Yoshinori Ohsumi received the 2016 Nobel Prize in Physiology or Medicine for elucidating the mechanisms of autophagy. During fasting, cells clear damaged organelles, misfolded proteins, and intracellular pathogens. This "cellular housekeeping" supports immune function and recovery.
+
+```text
+    THERAPEUTIC FASTING TIMELINE: Metabolic Shifts & Autophagy
+    ═══════════════════════════════════════════════════════════════
+    0hr          12hr           24hr           48hr           72hr
+    ├────────────┼──────────────┼──────────────┼──────────────┤
+    │  FED STATE │  GLYCOGEN    │  KETOSIS     │  DEEP        │
+    │            │  DEPLETION   │  ONSET       │  AUTOPHAGY   │
+    ├────────────┼──────────────┼──────────────┼──────────────┤
+    │ Fuel:      │ Fuel:        │ Fuel:        │ Fuel:        │
+    │ Glucose    │ Liver glyco- │ Free fatty   │ Ketones      │
+    │ from meal  │ gen → glucose│ acids→ketones│ dominant     │
+    ├────────────┼──────────────┼──────────────┼──────────────┤
+    │ Autophagy: │ Autophagy:   │ Autophagy:   │ Autophagy:   │
+    │ Baseline   │ INITIATING   │ ACTIVE       │ PEAK         │
+    │ (minimal)  │ (mTOR drops) │ (clearing    │ (immune cell │
+    │            │              │  organelles) │  regeneration)
+    ═══════════════════════════════════════════════════════════════
+    Clinical use: 24-48hr fast for acute febrile illness (healthy adults)
+```
 
 Protocol: for an acute febrile illness in an otherwise healthy adult, a 24-48 hour water-only fast (with adequate hydration maintained) followed by gradual reintroduction starting with bone broth or vegetable broth, then soft foods, then normal diet over 2-3 days.
 
@@ -222,6 +280,29 @@ Oregon grape (1m spacing, evergreen shrub, partial shade), elderberry (2m spacin
 Ginger and turmeric are tropical rhizomes that require warm soil (above 15C) and will not survive frost. In temperate climates, grow in containers that can be brought indoors or in the warmest, most sheltered microclimate available. Holy basil (tulsi) is also frost-sensitive and should be treated as an annual or overwintered indoors. Garlic is hardy and can be planted in any open ground in autumn for summer harvest.
 
 **Perennial vs. annual planning:** Thyme, oregano, lemon balm, valerian, Oregon grape, elderberry, willow, meadowsweet, peppermint, and plantain are perennial in temperate climates --- plant once and maintain. Chamomile self-seeds readily and behaves as a perennial. Garlic is planted annually (autumn) but requires minimal effort. Ginger, turmeric, and tulsi require annual replanting or indoor overwintering.
+
+```text
+    MEDICINAL GARDEN LAYOUT (4m × 8m = 32 sq meters)
+    ══════════════════════════════════════════════════
+                         NORTH
+    ┌──────────────────────────────────────────────┐
+    │ SHRUBS/TREES (4m×2m) — edges                 │
+    │ [Oregon Grape]  [Elderberry]  [Willow+Meadow]│
+    │  partial shade    full sun     near water     │
+    ├──────────────────────────────────────────────┤
+    │ PARTIAL SHADE / MOIST (4m×3m) — N/E exposure │
+    │ [Peppermint] [Valerian] [Plantain] [L.Balm]  │
+    │  CONTAINED    tall/back  self-seed   overflow │
+    ├──────────────────────────────────────────────┤
+    │ FULL SUN / WELL-DRAINED (4m×3m) — S exposure │
+    │ [Thyme 30cm] [Oregano 30cm] [Chamomile 25cm] │
+    │ [Lemon Balm 40cm — CONTAIN]                  │
+    ├──────────────────────────────────────────────┤
+    │ CONTAINERS (warm microclimate / overwinter)   │
+    │ [Ginger] [Turmeric] [Holy Basil] [Garlic]    │
+    └──────────────────────────────────────────────┘
+                         SOUTH (sun)
+```
 
 ### Preparation Methods
 

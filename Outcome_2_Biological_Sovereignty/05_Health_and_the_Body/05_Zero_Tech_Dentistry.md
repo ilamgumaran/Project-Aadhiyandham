@@ -30,6 +30,31 @@ This dynamic is captured by the Stephan Curve, one of the most important concept
 
 The key insight is counterintuitive but essential: it is the FREQUENCY of sugar exposure, not the total amount consumed, that determines caries risk. One large sugar exposure per day (followed by 23 hours of remineralization) is far less damaging than ten small sugar exposures spread throughout the day. This has direct implications for settlement policy regarding honey, dried fruit, and other natural sweeteners.
 
+```text
+    THE STEPHAN CURVE — Plaque pH After Sugar Exposure
+
+    pH
+    7.0 |____                                    ______.....
+        |    \                                  /
+    6.5 |     \                                /
+        |      \                              /
+    6.0 |       \                            /
+        |        \                          /
+  * 5.5 |─ ─ ─ ─ ─\─ ─ ─ ─ ─ ─ ─ ─ ─ ─ ─/─ ─ ─ CRITICAL pH
+        |           \                      /    (enamel dissolves
+    5.0 |            \                    /      below this line)
+        |             \                  /
+    4.5 |              \________________/
+        |
+    4.0 |________________________________________________
+        0     5    10    15    20    25    30    35   40 min
+              ^                                      ^
+         Sugar eaten                         pH recovered
+              |<--- DEMINERALIZATION ZONE --->|
+              Calcium leaves enamel during this entire window.
+              10 snacks/day = 10 overlapping curves = no recovery.
+```
+
 The refugia advantage is significant. A settlement diet based on complex carbohydrates (potatoes, whole grains, beans), meat, foraged greens, and vegetables produces minimal fermentable sugar at the tooth surface. Complex starches are broken down slowly by salivary amylase and do not produce the rapid pH crash that refined sugars cause. Caries rates in pre-agricultural hunter-gatherer populations were 1-5% of teeth affected. In modern sugar-consuming populations, 60-90% of teeth are affected. A refugia settlement eating whole foods is, by default, living in the low-caries category.
 
 ### The Pathophysiology of Dental Abscess
@@ -41,6 +66,30 @@ When prevention fails and a cavity is not managed, the progression is predictabl
 3. **Pulpitis**: Bacteria invade the dental pulp (the nerve and blood vessel chamber inside the tooth). Reversible pulpitis causes sharp pain with stimuli that resolves quickly. Irreversible pulpitis causes spontaneous, throbbing pain that wakes the patient at night and does not resolve — this means the nerve is dying.
 4. **Pulp necrosis**: The nerve dies completely. Paradoxically, pain may temporarily decrease as the nerve can no longer signal. The patient may believe the problem has resolved. It has not.
 5. **Periapical abscess**: Bacteria proliferate in the dead pulp tissue and exit through the root apex into the surrounding bone. The body mounts an inflammatory response — pus accumulates at the root tip, causing swelling, intense pain on biting, and eventually a visible facial swelling.
+
+```text
+    TOOTH CROSS-SECTION — Progression of Decay to Abscess
+
+         enamel (1.5-2mm)         Stage 1: Surface caries
+        /                         Stage 2: Dentin invaded
+       [ ^^^^^^^^^^^^^^^^ ]       Stage 3: Pulp infected
+       [  :::::::::::::::  ]      Stage 4: Pulp necrosis
+       [  ::  DENTIN  :::  ] <--- Stage 2: sensitivity begins
+       [  ::..........:::  ]
+       [  ::|  PULP  |:::  ] <--- Stage 3: throbbing pain
+       [  ::|  nerve |:::  ]      (irreversible pulpitis)
+    ---|  ::|  blood |:::  |---  gum line
+    ===|    | vessels|     |===  alveolar bone
+    ===|    |________|     |===
+    ===|        |          |===
+    ===|        | root     |===
+    ===|        | canal    |===
+    ===|________|__________|===
+                |
+          (((ABSCESS))) <-------- Stage 5: pus collection
+           at root apex           at root apex; spreads
+                                  into bone and fascial spaces
+```
 
 The abscess can spread through the fascial planes of the head and neck along paths of least resistance:
 
@@ -161,6 +210,32 @@ If zinc oxide is unavailable: soften clean beeswax over a flame until pliable, r
 7. Instruct the patient to rinse with warm saltwater every 2 hours for the first 24 hours, then 4 times daily for 3-5 days.
 
 This is a temporizing procedure. It relieves the acute pressure and reduces the bacterial load, but it does NOT cure the underlying infected tooth. The source tooth will eventually require extraction or will re-abscess.
+
+```text
+    ABSCESS INCISION & DRAINAGE (I&D) — Intraoral View
+
+         Upper lip / cheek
+    =========================================
+                                    Swelling
+         Gum tissue              .--'''''--.
+         (mucosa)               /  FLUCTUANT \
+                               |   ABSCESS    |
+    - - - - - - - - - - - - - -|× - - - - - -|- - -
+                               |  ^ incision  |
+                                \ | (1 cm)   /
+                                 '--._____.--'
+                                    |
+                                    v  pus drains by gravity
+                                       and gentle pressure
+
+    TECHNIQUE:
+    1. Incise at point of maximum fluctuance (×)
+    2. Single decisive 1 cm cut through mucosa
+    3. Express pus with gentle external pressure
+    4. Irrigate with warm saltwater (syringe or rinse)
+    5. DO NOT pack — allow continued drainage
+    6. Patient rinses q2h x 24hr, then QID x 5 days
+```
 
 **DANGER:** Do NOT incise Ludwig's angina — bilateral floor-of-mouth swelling with elevation of the tongue, inability to swallow, and drooling. This is not a simple abscess that can be drained. It is a diffuse cellulitis (spreading infection without a discrete pus collection) of the submandibular space that requires surgical airway management beyond zero-tech capability. Ludwig's angina is a terminal condition without advanced surgical intervention. Provide supportive care and botanical antibiotics (see Module 03) but understand the prognosis.
 

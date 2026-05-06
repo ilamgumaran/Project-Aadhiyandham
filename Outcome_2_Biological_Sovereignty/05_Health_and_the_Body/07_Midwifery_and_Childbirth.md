@@ -34,6 +34,21 @@ From full cervical dilation to the birth of the infant. The mother will feel an 
 
 From the birth of the baby to the delivery of the placenta. This stage typically takes 5 to 30 minutes. Active management — gentle, steady traction on the umbilical cord during a uterine contraction, combined with counter-pressure on the uterus above the pubic bone (the Brandt-Andrews maneuver) and immediate uterine massage — reduces the risk of postpartum hemorrhage by approximately 60% compared to passive management (simply waiting). The placenta should be examined after delivery to confirm it is complete. A retained fragment of placenta is a common cause of continued bleeding and late postpartum hemorrhage.
 
+```text
+THREE-STAGE LABOR TIMELINE
+=====================================================================
+ FIRST STAGE: Cervical Dilation      SECOND STAGE    THIRD STAGE
+ Latent Phase    Active Phase        Pushing         Placenta
+ (0-6 cm)        (6-10 cm)          (baby)          delivery
+|<- 6-20 hrs ->|<- 1-3 hrs ->|<-- 0.5-2 hrs -->|<- 5-30 min ->|
+
+ q 5-15 min      q 2-3 min       Ferguson reflex    Contraction
+ 30-45 sec       60-90 sec       involuntary push   expels placenta
+ mild            intense         Upright position    Examine for
+ Eat/drink/move  Cannot talk     Push with urge     completeness
+=====================================================================
+```
+
 **The Role of Oxytocin**
 
 Endogenous oxytocin is the master hormone of labor. Released from the posterior pituitary gland, it drives uterine contractions in a positive feedback loop: contractions push the baby's head against the cervix, cervical stretching triggers more oxytocin release (the Ferguson reflex), which drives stronger contractions. This loop is exquisitely sensitive to the mother's emotional state. Stress hormones — adrenaline and cortisol — directly inhibit oxytocin release. A frightened, cold, or observed mother will have weaker, less frequent contractions and a longer, more difficult labor. This is not a psychological nicety. It is endocrinology. Privacy, warmth, dim lighting, quiet voices, and the presence of only trusted, familiar people are physiological necessities for normal labor progression. Every additional observer, every bright light, every loud conversation slows labor.
@@ -41,6 +56,27 @@ Endogenous oxytocin is the master hormone of labor. Released from the posterior 
 **The Pelvis and Cardinal Movements**
 
 The fetal head must navigate through the bony pelvis, which presents three planes of different shape and diameter: the pelvic inlet (widest transversely), the midpelvis (widest anteroposteriorly), and the pelvic outlet (widest anteroposteriorly). To pass through these changing diameters, the baby performs a series of rotations known as the cardinal movements: engagement (the head enters the pelvic inlet), descent, flexion (the chin tucks to the chest, presenting the smallest diameter of the head), internal rotation (the head rotates 90 degrees to align with the anteroposterior diameter of the midpelvis), extension (the head extends as it passes under the pubic bone — this is crowning), external rotation (the head rotates back to align with the shoulders), and expulsion (delivery of the body). These rotations happen automatically when the mother is upright and mobile — squatting, kneeling, walking, swaying. They are impeded when she is lying flat on her back, which also compresses the vena cava (reducing blood flow to the uterus) and narrows the pelvic outlet by up to 30%.
+
+```text
+CARDINAL MOVEMENTS OF LABOR
+===================================================
+ Pelvic Inlet (wide L-R) -> Midpelvis (wide A-P) -> Outlet
+
+ 1. ENGAGEMENT --> 2. DESCENT --> 3. FLEXION
+    Head enters       Moves down      Chin tucks (smallest
+    pelvic brim                       head diameter)
+         |
+         v
+ 4. INTERNAL ROTATION --> 5. EXTENSION --> 6. EXTERNAL ROTATION
+    90 deg turn to        Crowning under     Head realigns
+    align A-P             pubic bone         with shoulders
+         |
+         v
+ 7. EXPULSION: anterior shoulder -> posterior -> body
+
+ Upright + mobile = automatic | Supine = impedes, -30% outlet
+===================================================
+```
 
 ### The Three Obstetric Emergencies
 
@@ -80,6 +116,25 @@ The "Golden Minute" protocol: the newborn must be stimulated to breathe within 6
 **Thermoregulation**
 
 Neonates lose heat four times faster than adults. Their surface-area-to-mass ratio is enormous, their subcutaneous fat layer is thin, and their thermoregulatory mechanisms are immature. A wet newborn in a room at 22 degrees Celsius will lose core temperature at approximately 0.1 degrees per minute — enough to become hypothermic within 10 to 15 minutes. Hypothermia (core temperature below 36.5 degrees Celsius) causes peripheral vasoconstriction, metabolic acidosis, hypoglycemia, and respiratory distress. It is the leading preventable cause of neonatal death in low-resource settings. The defense against hypothermia is the thermal chain — an unbroken sequence of warm interventions from the moment of birth (described in Core Principles below).
+
+```text
+NEONATAL HEAT LOSS AND PREVENTION
+==========================================================
+  CONVECTION           +---------+          RADIATION
+  (air currents)  <--- | NEONATE | --->  (cold surfaces)
+  PREVENT: warm room   | high    |       PREVENT: blankets
+  25-28C, no drafts    | SA/mass |       warm room walls
+                       +---------+
+  EVAPORATION              |            CONDUCTION
+  (wet skin)               v            (cold contact)
+  PREVENT: dry         Heat loss:       PREVENT: skin-to-
+  immediately,         0.1C/min         skin on mother,
+  remove wet cloths    if wet+cold      warm surface below
+----------------------------------------------------------
+THERMAL CHAIN: Dry -> Skin-to-skin -> Cover -> Warm room
+Break ANY link = hypothermia within 10-15 minutes
+==========================================================
+```
 
 **The Immune System and Microbiome Transfer**
 
@@ -211,6 +266,32 @@ Level 4. If bleeding is from a retained placental fragment, manual removal may b
 Level 5. Aortic compression. If all other measures fail and the mother is losing consciousness, locate the aorta (the pulsating vessel in the midline of the abdomen, above the navel) and compress it firmly against the spine with a closed fist. This reduces blood flow to the uterus and may buy time. This is a last resort.
 
 Throughout the entire protocol: keep the mother warm (hypothermia worsens coagulopathy), elevate her legs, give fluids by mouth if she is conscious, and do not leave her unattended.
+
+```text
+PPH MANAGEMENT: 5-LEVEL ESCALATION
+=============================================================
+  LEVEL 1: FUNDAL MASSAGE + NIPPLE STIMULATION
+  Cup uterus, knead firmly 15+ sec; baby to breast
+           | bleeding continues (2-3 min)
+           v
+  LEVEL 2: EMPTY BLADDER
+  Mother urinates or suprapubic pressure
+           | bleeding continues (2-3 min)
+           v
+  LEVEL 3: BIMANUAL UTERINE COMPRESSION
+  Fist in vagina + hand on fundus; compress 5 min
+           | bleeding continues
+           v
+  LEVEL 4: MANUAL REMOVAL OF RETAINED FRAGMENTS
+  Follow cord through cervix, sweep fragment free
+           | all else fails
+           v
+  LEVEL 5: AORTIC COMPRESSION (last resort)
+  Fist compresses aorta against spine above navel
+=============================================================
+THROUGHOUT: Warm mother | Elevate legs | Fluids | Never leave
+=============================================================
+```
 
 **Breech Birth Protocol**
 
