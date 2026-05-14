@@ -13,6 +13,24 @@ without error in judgment, and without the risk of a panicked decision at three 
 morning. Passive defense is the foundation, and it must remain the foundation. But
 passive systems cannot think.
 
+```text
+  HOW PASSIVE MEASURES BUY TIME FOR ACTIVE RESPONSE
+  ===================================================
+
+  Threat         Passive Layer              Active Layer
+  Detected       (Automated, No Fatigue)    (Human Decision)
+  ─────────>  ┌──────────────────────┐   ┌───────────────────┐
+              │ Hedgerow slows entry │   │ Watcher wakes     │
+              │ Tripwire triggers    │──>│ Assesses threat   │
+              │ Sound trap alerts    │   │ Contact team      │
+              │ Channeled path       │   │ deploys to        │
+              │ forces detour        │   │ Contact Point     │
+              └──────────────────────┘   └───────────────────┘
+              |<--- 5-15 min delay --->|<--- Decision --->|
+              Passive = automatic time   Human judgment with
+              buffer, no fatigue         adequate warning
+```
+
 A thorny hedgerow does not know the difference between a lost child stumbling through
 the brush and a scout probing the perimeter for weaknesses before a raid at dawn. A
 tripwire alarm sounds the same whether triggered by a deer, a refugee seeking shelter, or
@@ -89,6 +107,28 @@ That spectrum, ordered from lowest to highest threat, looks approximately like t
 6. **Organized raiding parties** — seven or more individuals, coordinated movement,
    clear hostile intent. The rarest contact type but the most dangerous. Requires
    immediate escalation to deterrence posture or emergency lockdown.
+
+```text
+  THREAT ASSESSMENT DECISION TREE — CLASSIFYING APPROACHING CONTACTS
+  ===================================================================
+  Contact detected
+       │
+       ├── How many? ──> 1-2 persons ──> Armed? ──> No ──> LEVEL 1-2
+       │                                         └─> Yes ─> LEVEL 4-5
+       │
+       ├── How many? ──> 3-6 persons ──> Women/children present?
+       │                                  ├── Yes ──> Refugee family ──> LEVEL 2
+       │                                  └── No ───> Armed? ──> No ──> LEVEL 3-4
+       │                                                     └─> Yes ─> LEVEL 5
+       │
+       └── How many? ──> 7+ persons ──> Coordinated movement?
+                                         ├── No ──> Displaced group ──> LEVEL 2-3
+                                         └── Yes ─> Weapons visible?
+                                                    ├── No ──> LEVEL 4
+                                                    └── Yes ─> LEVEL 6
+  LEVEL 1-2: Welcome protocol    LEVEL 3-4: Cautious engagement
+  LEVEL 5:   Enhanced overwatch  LEVEL 6:   Deterrence / lockdown
+```
 
 The settlement's response must be proportional to the threat level. Overreaction —
 treating every contact as a potential raid — wastes resources, exhausts the community
@@ -237,6 +277,26 @@ primary tool for building it.
    wastes resources and creates enemies; underresponse creates victims. The threat
    assessment matrix (below) provides the quantitative tool for calibrating response.
 
+```text
+  FORCE ESCALATION LADDER — GRADUATED RESPONSE LEVELS
+  =====================================================
+  LEVEL 5 │ LETHAL FORCE         ── Last resort, active attack only
+          │    ▲ Gate: Life in immediate danger, no alternative
+  LEVEL 4 │ NON-LETHAL FORCE     ── Physical deterrence (barriers, warning shots)
+          │    ▲ Gate: Verbal warnings ignored, threat advancing
+  LEVEL 3 │ SHOW OF FORCE        ── Display numbers, light fires, sound horns
+          │    ▲ Gate: Contact non-compliant, refuses to halt
+  LEVEL 2 │ VERBAL CHALLENGE     ── Speaker hails from Contact Point
+          │    ▲ Gate: Contact identified, intent unclear
+  LEVEL 1 │ AWARENESS & OBSERVE  ── Nightwatch detects, observes silently
+          │
+          └─────────────────────────────────────────────────
+          Each gate requires POSITIVE DECISION to escalate.
+          De-escalation (stepping DOWN) always preferred.
+          Skipping levels NEVER authorized except under
+          direct armed assault on the settlement.
+```
+
 2. **The De-escalation First Principle.** Every contact begins with communication, not
    force. The goal of first contact is to understand, not to dominate. The de-escalation
    protocol (Module 03) is the default response for all human contacts, regardless of
@@ -256,6 +316,27 @@ primary tool for building it.
    the trained community will make better decisions. The monthly drill calendar ensures
    that training remains current, and the post-drill debrief identifies gaps in capability
    before a real contact exposes them.
+
+```text
+  RULES OF ENGAGEMENT — WHEN FORCE IS / IS NOT AUTHORIZED
+  =========================================================
+  FORCE IS AUTHORIZED when:             FORCE IS NOT AUTHORIZED when:
+  ┌────────────────────────────┐        ┌────────────────────────────┐
+  │ • Active attack on persons │        │ • Contact is merely        │
+  │ • Breach of inner perimeter│        │   present near perimeter   │
+  │ • Direct threat to life    │        │ • Contact is armed but     │
+  │   (weapon raised/aimed)    │        │   has not threatened       │
+  │ • Kidnapping or seizure    │        │ • Contact refuses to trade │
+  │   of community member      │        │   or share information     │
+  │ • Confirmed hostile action │        │ • Contact is rude, angry,  │
+  │   after all de-escalation  │        │   or verbally hostile      │
+  │   phases exhausted         │        │ • "Bad feeling" without    │
+  └────────────────────────────┘        │   observable evidence      │
+                                        └────────────────────────────┘
+  ALL force decisions are reviewed in post-event debrief.
+  The community — not the contact team — judges whether
+  force was justified. Accountability prevents abuse.
+```
 
 5. **The Intelligence Principle.** Information is more valuable than force. Every
    contact — friendly, neutral, or hostile — is an intelligence-gathering opportunity.

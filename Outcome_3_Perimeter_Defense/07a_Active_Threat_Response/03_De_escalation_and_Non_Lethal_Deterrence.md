@@ -69,6 +69,31 @@ Body language science reinforces the protocol's design. Albert Mehrabian's resea
 
 The Speaker's own body language is equally critical. The Speaker must PROJECT non-threat to de-activate the contact's amygdala response: approach with open hands clearly visible at waist height, move slowly and predictably, maintain a steady and moderate vocal tone, avoid sudden gestures. The Speaker's body language must say "I am not a threat and I am not afraid" before a single word is spoken.
 
+```text
+  DE-ESCALATION BODY LANGUAGE MODEL — Speaker Positioning
+
+        CONTACT (unknown)
+            O
+           /|\            Faces Speaker at distance
+           / \
+
+     <--- 3-5 m gap --->
+
+              O   <-- Speaker: angled 45° stance
+             /|        (reduces profile, non-confrontational)
+            / |
+           /   \
+      [open hand]  [open hand]
+       at waist     at waist
+
+  KEY POSTURE ELEMENTS:
+    * Feet shoulder-width, weight balanced (not leaning forward)
+    * Torso angled 45° to contact (NOT squared/facing directly)
+    * Both palms visible, open, at waist height
+    * No items in hands (cone set down after announcement)
+    * Slow, predictable movements — no sudden gestures
+```
+
 ### Force Multiplication Through Deception
 
 US Army FM 90-2, *Battlefield Deception*, establishes that making a force appear larger and more capable than it actually is can deter engagement without any actual combat capability. This principle is central to Phase 4 (Deter) of the protocol. A settlement of 15 people that presents the APPEARANCE of a settlement of 50-100 people gains an enormous deterrence advantage at zero material cost.
@@ -137,6 +162,40 @@ The contact team consists of four roles, each with distinct responsibilities:
 **Backup** (2 people): positioned 20-30 meters behind the Contact Point, behind solid cover, out of the contact's line of sight. They do NOT speak, do NOT show themselves, and do NOT engage unless the Speaker signals distress using a specific code word (a pre-arranged innocuous phrase such as "I think we should go back inside") or a hand signal. Their role is to provide withdrawal support: if the contact team retreats, the Backup covers the retreat route and ensures the team reaches the settlement safely.
 
 **Overwatch**: the watcher at the observation post who initially detected the contact and alerted the team. The overwatch maintains watch throughout the entire interaction, scanning for additional contacts approaching from other directions (a common predatory tactic: one group engages attention while a second flanks). The overwatch provides the escalation signal (horn blast) if the Speaker or Observer cannot.
+
+```text
+  CONTACT TEAM LAYOUT — Positions at Contact Point
+
+                    CONTACT (unknown)
+                         O
+                        /|\
+                        / \
+                         |
+           ~~~~~~~~~~~~ | ~~~~~~~~~~~~  <-- approach path (open, cleared)
+                         |
+                    30 m gap
+                         |
+     ___________________________________________________
+    |                CONTACT POINT                      |
+    |   [trade surface]                                 |
+    |         |                                         |
+    |    O Speaker         O Observer                   |
+    |   (3-5 m from   (3-5 m offset,                   |
+    |    trade surface) silent, watching)               |
+    |___________________________________________________|
+                         |
+                    20-30 m gap
+                         |
+              O Backup-1       O Backup-2
+           (behind cover,    (behind cover,
+            concealed)        concealed)
+                         |
+                    30-50 m behind
+                         |
+                    O Overwatch
+               (elevated, concealed,
+                with signal horn)
+```
 
 ### The Five-Phase De-escalation Protocol
 
@@ -243,6 +302,31 @@ If deterrence fails — the contact continues to advance, charges, or deploys we
 | Torch array (moved between positions) | 0.5-2 km | Implies large, alert, active population | Night |
 | Drum beat (coordinated, 2+ positions) | 1-3 km | Implies disciplined, organized, numerous community | Both |
 | Voice amplification (megaphone cone) | 100-300 m | Authoritative command presence, clear verbal warnings | Both |
+
+```text
+  NON-LETHAL DETERRENCE — Layered Response by Range and Escalation
+
+  Range        Method              Escalation Level
+  ─────────────────────────────────────────────────────────
+  5-15 km      Smoke columns       ░░  LOW
+               (visible signal)        (passive, no contact needed)
+  ─────────────────────────────────────────────────────────
+  1-5 km       Mirror flash /      ▒▒  MODERATE
+               Horn blast              (signals detection + numbers)
+  ─────────────────────────────────────────────────────────
+  0.5-3 km     Drum coordination   ▓▓  ELEVATED
+               + torch array           (implies discipline + force)
+  ─────────────────────────────────────────────────────────
+  100-300 m    Voice amplification  ██  HIGH
+               (final warning)         (direct verbal command)
+  ─────────────────────────────────────────────────────────
+  < 100 m      WITHDRAW            ██  MAXIMUM
+               (retreat + lockdown)    (disengage, do NOT engage)
+  ─────────────────────────────────────────────────────────
+
+  PRINCIPLE: Exhaust each layer before escalating to the next.
+             Every layer reinforces the impression of scale.
+```
 
 ### Post-Contact Debrief
 

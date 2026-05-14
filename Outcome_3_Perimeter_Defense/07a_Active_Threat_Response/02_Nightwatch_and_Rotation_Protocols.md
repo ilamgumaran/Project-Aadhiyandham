@@ -106,6 +106,36 @@ Divide the perimeter into watch zones based on approach probability, not equal a
 
 Total watch posts for a typical 50-person settlement: 2-3. Each additional post doubles the personnel requirement per shift (due to the pair principle), so posts should be added only when terrain genuinely prevents a single post from covering multiple approach vectors.
 
+```text
+ RANDOMIZED PATROL ROUTE WITH CHECK-IN POINTS
+ (Roving patrol covers medium-threat approaches between fixed posts)
+
+        [Post A]                          N
+           |                              |
+     (1)---+----(2)----..                W-+-E
+      |                  '.               |
+   {dead                   '.(3)          S
+   ground}---(1a)---+        |
+      |             |     [check-in:
+   tripwire zone    |      horn tap]
+      |             |        |
+     (4)----(5)----+(6)------+
+              '.             |
+                '..     {dead ground
+                   '.   coverage loop}
+                    (7)----(8)
+                             |
+                          [Post B]
+
+ LEGEND:
+  (1)-(8)  = waypoints, visited in varied order each patrol
+  {dead ground} = terrain hidden from fixed posts, requires
+                  physical patrol to clear
+  [check-in: horn tap] = single muted tap to confirm patrol
+                         is active (not full blast)
+  ...'...  = randomized route variation (never same path twice)
+```
+
 ### Watch Post Specifications
 
 ```text
@@ -163,6 +193,28 @@ Construction requirements for each post:
 - For 12 adults (minimum viable): 1 post, 4-hour shifts, pair principle maintained = 12 person-shifts/day. At 0.5 shifts/person/day, requires exactly 24 adults — so 12 adults must accept a 24-hour rotation (one shift per day) or reduce to single-watcher daytime shifts
 - Practical minimum for full pair-principle compliance: **16 adults** for 1 post at 48-hour rotation
 
+```text
+ 24-HOUR WATCH CYCLE WITH SLEEP DEBT MANAGEMENT (16 adults, 1 post)
+ Hour: 00  02  04  06  08  10  12  14  16  18  20  22  00
+       |---|---|---|---|---|---|---|---|---|---|---|---|
+ Pair1 [WATCH]                                 [SLEEP>>>>>>>>
+ Pair2         [WATCH]                                 [SLEEP
+ Pair3                 [WATCH]                         >>>>>>>
+ Pair4                         [WATCH]
+ Pair5                                 [WATCH]
+ Pair6                                         [WATCH]
+
+ SLEEP DEBT TRACKING (per individual, 7-day window):
+ +-----------+-----+-----+-----+-----+-----+-----+-----+
+ | Person    | D1  | D2  | D3  | D4  | D5  | D6  | D7  |
+ +-----------+-----+-----+-----+-----+-----+-----+-----+
+ | Watcher A | -3h | +1h | +1h | -3h | +1h | +1h | +1h |
+ | Net debt  | -3h | -2h | -1h | -4h | -3h | -2h | -1h |
+ +-----------+-----+-----+-----+-----+-----+-----+-----+
+ Target: net sleep debt never exceeds -4h over rolling 7 days.
+ If exceeded: skip next rotation, substitute reserve watcher.
+```
+
 **Seasonal adjustment.** The schedule is a living document, adjusted quarterly:
 
 - **Summer (short nights, ~6 hours dark):** reduce night shifts to 2 x 3-hour blocks. Shorter nights mean less total nightwatch burden and more available daylight labor hours.
@@ -194,6 +246,30 @@ Each watcher, upon arriving at the post, executes the following five-step protoc
 - No fire, lamp, or white light at the observation post during active scanning. Use the shielded lamp only for logbook entries, and shield it from the observation side. Red-filtered light (if available) preserves dark adaptation better than white light.
 - Use peripheral vision for detection. Rod cells — the photoreceptors responsible for low-light vision — are concentrated in the peripheral retina, not the fovea. To detect movement in darkness, look slightly to the side of the area being scanned (approximately 15-20 degrees off-center).
 - Night logbook entries can be written by practiced feel (large block letters with charcoal on ruled paper) or dictated to the paired watcher for recording at dawn.
+
+```text
+ NIGHT VISION ADAPTATION TIMELINE (Rhodopsin Recovery)
+ Minutes in darkness:
+ 0        5       10       15       20       25       30
+ |--------|--------|--------|--------|--------|--------|
+ [CONE ADAPTATION ]                                      
+          [--------- ROD ADAPTATION (rhodopsin rebuild) ----------]
+ Vision:  Blind    Poor     Fair     Good     Full scotopic
+ Ability: ~0%      ~20%     ~50%     ~75%     ~95% sensitivity
+
+ DARK ADAPTATION PRESERVATION TECHNIQUES:
+ +---------------------------+----------------------------+
+ | THREAT TO ADAPTATION      | COUNTERMEASURE             |
+ +---------------------------+----------------------------+
+ | White light exposure      | Red-filtered lamp only     |
+ | Direct fire / flame view  | Shield eyes, look away     |
+ | Logbook writing           | Use shielded lamp, 1 eye   |
+ | Incoming watcher's lamp   | Arrive 20 min early, unlit |
+ | Lightning / flare         | Close one eye to preserve  |
+ +---------------------------+----------------------------+
+ NOTE: Closing ONE eye during brief light exposure preserves
+ dark adaptation in that eye. Use alternating-eye technique.
+```
 
 ### Alert Escalation Ladder
 
