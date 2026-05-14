@@ -145,6 +145,30 @@ From each observation post, the observer conducts a field survey on first occupa
 
 Blind spots are the primary vulnerability. Position observation posts to minimize overlapping blind spots: the second post should cover the first post's dead ground wherever the terrain permits. Where blind spots persist despite optimal post placement, they must be covered by passive detection systems: tripwires (Module 02), animal sentinels (Module 02), or acoustic detection (Module 04).
 
+```text
+    OVERLAPPING OBSERVATION POST SIGHTLINES (TOP-DOWN VIEW)
+
+                         N
+                         |
+                  OP-A  *............
+                 .  / \  .          .
+               .  /   \ .    OP-A   .
+             .  /  BLIND \ . field   .
+    W ------. / . SPOT . \ .------------ E
+             .\ . (dead  /  .       .
+               .\ ground)/    OP-B  .
+                 .\   / .   field  .
+                  OP-B *..........
+                         |
+                         S
+
+    OP-A field of view:  NW through NE (approx 200 degrees)
+    OP-B field of view:  SW through SE (approx 200 degrees)
+    Overlap zone:        E and W flanks (redundant coverage)
+    Blind spot:          Covered by tripwires / animal sentinels
+    Design rule:         Every approach seen by at least 2 OPs
+```
+
 ### The Alert Signaling System
 
 **The Four-Signal Acoustic System**
@@ -159,6 +183,20 @@ This system expands the original Three-Call System to four distinct signals cove
 | All Clear | One short blast (1 second) | Threat resolved or identified as non-threatening | Resume normal activity. Logbook entry with resolution. |
 
 The patterns are designed for maximum distinctiveness under degraded conditions. A single long tone is unmistakable. Two separated blasts cannot be confused with either one blast or three rapid blasts. Three rapid blasts are rhythmically distinct from all other signals. The short "all clear" blast differs from the long "awareness" blast in duration by a factor of three to four.
+
+```text
+    SIGNAL FLAG / PANEL VISUAL CODE SYSTEM
+    (Cloth panels at OP for silent daytime signaling)
+
+    MESSAGE          DISPLAY                COLOR
+    -------          -------                -----
+    ALL CLEAR        [  GREEN  ]            Single green, vertical
+    AWARENESS        [  YELLOW ]            Single yellow, horizontal
+    CONFIRMED        [ RED ][ RED ]         Two red, side by side
+    IMMEDIATE        [ RED ][ RED ][ RED ]  Three red in triangle:
+    THREAT              [ RED ]                two above, one below
+    RALLY            [WHITE] X [WHITE]      Two white crossed in X
+```
 
 **Horn Construction**
 
@@ -184,6 +222,30 @@ The heliograph signal code mirrors the acoustic system:
 - Acknowledged by single return flash from the settlement center
 
 Effective heliograph range in direct sunlight: 5 to 15 km with a polished metal mirror of 8 to 10 cm diameter. Technique: hold the mirror near the face, sight the target through a small hole in the mirror center or past the mirror edge, and tilt the mirror to direct the reflected sunlight onto the target. The flash is visible only along the narrow reflection axis, providing directional security. See Outcome 1 Module 05.02 (Zero-Power Communication Protocols) for the full heliograph technique.
+
+```text
+    MIRROR HELIOGRAPH SIGNALING GEOMETRY
+
+         SUN
+          \  angle of         reflected flash
+           \ incidence        (aimed at target)
+            \    |           /
+             \   |  angle   /
+              \  | of refl /
+               \ |  ection/
+                \|      /
+    OBSERVER --> [MIRROR] ----> sighting hole
+       eye       /    \         or V-notch
+                /      \
+    Hold mirror near face.
+    Sight target through center hole.
+    Tilt mirror until reflected spot hits target.
+
+    KEY: angle of incidence = angle of reflection
+         Flash visible ONLY along reflection axis
+         (invisible to parties off-axis = directional security)
+         Range: 5-15 km (8-10 cm mirror), up to 50 km (15 cm)
+```
 
 **Visual Signaling (Nighttime)**
 
@@ -224,6 +286,23 @@ For communication between allied settlements separated by distances of 10 to 80 
 **Heliograph.** The primary long-range method in clear weather. A polished mirror of 10 to 15 cm diameter can produce a flash visible at 30 to 50 km under ideal conditions. Pre-arranged signal codes (beyond the simple 1-2-3 flash alert system) can convey specific messages. See Outcome 1 Module 05.02 for the complete heliograph protocol.
 
 **Signal fire and smoke.** For emergency use when heliograph is not possible (overcast weather, nighttime). A pre-positioned fire beacon at the highest accessible point near the settlement, kept stocked with dry fuel and ignition materials at all times. By day, add green vegetation or damp material to produce dense white smoke visible at 10 to 30 km. By night, the fire itself is visible at similar range from elevated terrain. Three fires in a triangle = distress/emergency.
+
+```text
+    SMOKE SIGNAL PROTOCOL — FUEL TYPE AND TIMING
+
+    SMOKE COLOR    FUEL SOURCE                    VISIBILITY
+    WHITE          Green leaves, grass, damp moss  10-30 km (dark sky)
+    BLACK          Oil-soaked rags, rubber, pitch  10-30 km (light sky)
+
+    MESSAGE ENCODING BY TIMING PATTERN:
+    AWARENESS:     1 long column (steady 30s, then smother)
+    THREAT:        3 short puffs (5s burn, cover, repeat x3)
+    DISTRESS:      3 fires in triangle (international signal)
+    ACKNOWLEDGE:   1 short puff in reply (5s, then smother)
+
+    Technique: hot base fire + smoke fuel on top.
+    Cover with wet hide/tarp to choke, uncover to release.
+```
 
 **Relay runners.** For detailed messages that exceed the information capacity of optical signals. A runner carrying a written or memorized message can cover 15 to 25 km per day on forest trails. For urgent messages, a relay system with pre-positioned runners at intermediate points can achieve 50 to 80 km per day. See Outcome 1 Module 05.01 (Networking and Trade) for inter-settlement communication protocols.
 

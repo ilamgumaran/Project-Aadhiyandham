@@ -121,6 +121,29 @@
 <h3 id="observation-fields-and-blind-spot-analysis">Observation Fields and Blind Spot Analysis</h3>
 <p>From each observation post, the observer conducts a field survey on first occupation: a systematic 360-degree scan identifying what can be seen and, more importantly, what cannot. Blind spots — terrain dips, dense vegetation patches, ravine bottoms, dead angles behind ridges — are recorded in the logbook and marked on the settlement map.</p>
 <p>Blind spots are the primary vulnerability. Position observation posts to minimize overlapping blind spots: the second post should cover the first post's dead ground wherever the terrain permits. Where blind spots persist despite optimal post placement, they must be covered by passive detection systems: tripwires (Module 02), animal sentinels (Module 02), or acoustic detection (Module 04).</p>
+<pre><code class="language-text">
+    OVERLAPPING OBSERVATION POST SIGHTLINES (TOP-DOWN VIEW)
+
+                         N
+                         |
+                  OP-A  *............
+                 .  / \  .          .
+               .  /   \ .    OP-A   .
+             .  /  BLIND \ . field   .
+    W ------. / . SPOT . \ .------------ E
+             .\ . (dead  /  .       .
+               .\ ground)/    OP-B  .
+                 .\   / .   field  .
+                  OP-B *..........
+                         |
+                         S
+
+    OP-A field of view:  NW through NE (approx 200 degrees)
+    OP-B field of view:  SW through SE (approx 200 degrees)
+    Overlap zone:        E and W flanks (redundant coverage)
+    Blind spot:          Covered by tripwires / animal sentinels
+    Design rule:         Every approach seen by at least 2 OPs
+</code></pre>
 <h3 id="the-alert-signaling-system">The Alert Signaling System</h3>
 <p><strong>The Four-Signal Acoustic System</strong></p>
 <p>This system expands the original Three-Call System to four distinct signals covering all operational states. The signals use a deep-resonance horn producing a low-frequency tone (100 to 200 Hz fundamental) that carries 1 to 3 km and penetrates wind and vegetation noise.</p>
@@ -156,6 +179,19 @@
 </tr>
 </tbody></table>
 <p>The patterns are designed for maximum distinctiveness under degraded conditions. A single long tone is unmistakable. Two separated blasts cannot be confused with either one blast or three rapid blasts. Three rapid blasts are rhythmically distinct from all other signals. The short "all clear" blast differs from the long "awareness" blast in duration by a factor of three to four.</p>
+<pre><code class="language-text">
+    SIGNAL FLAG / PANEL VISUAL CODE SYSTEM
+    (Cloth panels at OP for silent daytime signaling)
+
+    MESSAGE          DISPLAY                COLOR
+    -------          -------                -----
+    ALL CLEAR        [  GREEN  ]            Single green, vertical
+    AWARENESS        [  YELLOW ]            Single yellow, horizontal
+    CONFIRMED        [ RED ][ RED ]         Two red, side by side
+    IMMEDIATE        [ RED ][ RED ][ RED ]  Three red in triangle:
+    THREAT              [ RED ]                two above, one below
+    RALLY            [WHITE] X [WHITE]      Two white crossed in X
+</code></pre>
 <p><strong>Horn Construction</strong></p>
 <p>The signal horn must produce a low-frequency tone that travels far and penetrates ambient noise. Construction options:</p>
 <ul>
@@ -175,6 +211,29 @@
 <li>Acknowledged by single return flash from the settlement center</li>
 </ul>
 <p>Effective heliograph range in direct sunlight: 5 to 15 km with a polished metal mirror of 8 to 10 cm diameter. Technique: hold the mirror near the face, sight the target through a small hole in the mirror center or past the mirror edge, and tilt the mirror to direct the reflected sunlight onto the target. The flash is visible only along the narrow reflection axis, providing directional security. See Outcome 1 Module 05.02 (Zero-Power Communication Protocols) for the full heliograph technique.</p>
+<pre><code class="language-text">
+    MIRROR HELIOGRAPH SIGNALING GEOMETRY
+
+         SUN
+          \  angle of         reflected flash
+           \ incidence        (aimed at target)
+            \    |           /
+             \   |  angle   /
+              \  | of refl /
+               \ |  ection/
+                \|      /
+    OBSERVER --&gt; [MIRROR] ----&gt; sighting hole
+       eye       /    \         or V-notch
+                /      \
+    Hold mirror near face.
+    Sight target through center hole.
+    Tilt mirror until reflected spot hits target.
+
+    KEY: angle of incidence = angle of reflection
+         Flash visible ONLY along reflection axis
+         (invisible to parties off-axis = directional security)
+         Range: 5-15 km (8-10 cm mirror), up to 50 km (15 cm)
+</code></pre>
 <p><strong>Visual Signaling (Nighttime)</strong></p>
 <p>A shielded directional lantern provides silent nighttime communication between the observation post and the settlement center. The lantern is constructed with an opaque housing open only on the side facing the settlement, so the light is invisible to anyone approaching from outside the perimeter. Signal code matches the acoustic system: 1 flash, 2 flashes, or 3 flashes.</p>
 <p>For maximum-urgency alerts or inter-settlement signaling, a pre-positioned fire beacon at the highest accessible point near the settlement serves as the emergency signal. Three separate fires arranged in a triangle (spacing of 3 to 5 m) constitute the international distress signal, recognizable across cultures and traditions.</p>
@@ -202,6 +261,22 @@
 <p>For communication between allied settlements separated by distances of 10 to 80 km, three methods are available in order of preference:</p>
 <p><strong>Heliograph.</strong> The primary long-range method in clear weather. A polished mirror of 10 to 15 cm diameter can produce a flash visible at 30 to 50 km under ideal conditions. Pre-arranged signal codes (beyond the simple 1-2-3 flash alert system) can convey specific messages. See Outcome 1 Module 05.02 for the complete heliograph protocol.</p>
 <p><strong>Signal fire and smoke.</strong> For emergency use when heliograph is not possible (overcast weather, nighttime). A pre-positioned fire beacon at the highest accessible point near the settlement, kept stocked with dry fuel and ignition materials at all times. By day, add green vegetation or damp material to produce dense white smoke visible at 10 to 30 km. By night, the fire itself is visible at similar range from elevated terrain. Three fires in a triangle = distress/emergency.</p>
+<pre><code class="language-text">
+    SMOKE SIGNAL PROTOCOL — FUEL TYPE AND TIMING
+
+    SMOKE COLOR    FUEL SOURCE                    VISIBILITY
+    WHITE          Green leaves, grass, damp moss  10-30 km (dark sky)
+    BLACK          Oil-soaked rags, rubber, pitch  10-30 km (light sky)
+
+    MESSAGE ENCODING BY TIMING PATTERN:
+    AWARENESS:     1 long column (steady 30s, then smother)
+    THREAT:        3 short puffs (5s burn, cover, repeat x3)
+    DISTRESS:      3 fires in triangle (international signal)
+    ACKNOWLEDGE:   1 short puff in reply (5s, then smother)
+
+    Technique: hot base fire + smoke fuel on top.
+    Cover with wet hide/tarp to choke, uncover to release.
+</code></pre>
 <p><strong>Relay runners.</strong> For detailed messages that exceed the information capacity of optical signals. A runner carrying a written or memorized message can cover 15 to 25 km per day on forest trails. For urgent messages, a relay system with pre-positioned runners at intermediate points can achieve 50 to 80 km per day. See Outcome 1 Module 05.01 (Networking and Trade) for inter-settlement communication protocols.</p>
 <hr>
 </div>

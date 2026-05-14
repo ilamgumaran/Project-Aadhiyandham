@@ -34,6 +34,22 @@
 <li>Dense understory (shrubs, brambles) adds further attenuation at mid and high frequencies</li>
 <li>The practical result is that a broadband sound source in dense deciduous forest loses roughly 12-18 dB per 100 meters — far more than in open air</li>
 </ul>
+<pre><code class="language-text">
+  Sound Propagation: Inverse Square Law + Forest Attenuation
+
+  SOURCE (80 dB)
+    |--- 1 m ----&gt; 80 dB  (reference)
+    |--- 2 m ----&gt; 74 dB  (-6 dB, inverse square law)
+    |--- 8 m ----&gt; 62 dB  (-18 dB)
+    |--- 32 m ---&gt; 50 dB  (-30 dB)
+    |--- 100 m --&gt; 40 dB  (-40 dB, open air only)
+
+  Additional forest attenuation per 100 m (frequencies &gt;1 kHz):
+    Open air ........  0 dB    Coniferous .....  2-4 dB
+    Broadleaf .......  3-6 dB  Dense understory  6-10 dB
+
+  Result at 200 m in dense deciduous forest: 80 dB --&gt; ~26 dB
+</code></pre>
 <p>Low frequencies (below 500 Hz) propagate much further than high frequencies because their longer wavelengths diffract around obstacles more effectively. A tree trunk 30 cm in diameter is essentially invisible to a 100 Hz sound wave (wavelength 3.4 m) but scatters a 3 kHz wave (wavelength 11 cm) efficiently.</p>
 <p>This frequency-dependent attenuation has direct practical implications:</p>
 <ul>
@@ -44,6 +60,23 @@
 <p><strong>Nocturnal temperature inversions</strong> bend sound waves downward, increasing propagation range by 50-100 percent. During the day, the sun-warmed ground heats the air near the surface, creating a temperature gradient that bends sound waves upward and away from listeners. At night, radiative cooling reverses this gradient — the ground cools faster than the air above, creating an inversion layer that acts as a waveguide, channeling sound along the surface.</p>
 <p>Night is therefore when sound travels furthest AND when acoustic detection matters most. This convergence is not coincidental; it is the physical basis for the Silent Hours protocol.</p>
 <p><strong>Ground effect</strong> further modifies propagation. Sound reflects off hard ground (rock, compacted earth, frozen soil), creating interference patterns that can either amplify or cancel certain frequencies. Soft ground — leaf litter, grass, mossy forest floor — absorbs sound energy and reduces reflection. The leaf belt exploits both sides of this effect: dry leaves produce sharp high-frequency sound on contact (2-8 kHz, 40-50 dB at 5 meters) that is immediately detectable, while the surrounding forest floor absorbs the settlement's own low-frequency sounds that might otherwise propagate outward.</p>
+<pre><code class="language-text">
+  Sound Masking by Water Features: Acoustic Cover Zones
+
+              ~~~ stream (40 dB continuous) ~~~
+             /                                  \
+    . . . . / . . MASKED ZONE (30-50 m) . . . . \. . .
+   .       /   approach sounds &lt;45 dB hidden      \   .
+  .   [===waterfall===]                             .  .
+  .       (55 dB)      +-----------+                   .
+   .      MASKED ZONE  | SETTLEMENT|  QUIET SECTOR    .
+    . . . (50-80 m)    |   CORE    |  (detection OK) .
+             \         +-----------+             /
+              \ . . . MASKED ZONE . . . . . .  /
+
+  Site water on LOW-THREAT flanks only.
+  Keep HIGH-THREAT approaches in quiet sectors.
+</code></pre>
 <p><strong>Wind</strong> creates both masking noise and directional effects. Sound propagating downwind travels further; sound propagating upwind is attenuated and may be refracted upward.</p>
 <ul>
 <li>At wind speeds above 15 km/h, turbulence-generated noise (40-50 dB broadband) begins to mask quiet sounds</li>
@@ -85,6 +118,30 @@
 <ol>
 <li><strong>The Signal-to-Noise Principle</strong>: The detection range of acoustic anomalies is inversely proportional to background noise. Every 10 dB reduction in settlement noise approximately doubles the effective detection range. The single most impactful security measure the settlement can implement — more effective than tripwires, sentries, or barriers — is quieting the settlement itself.</li>
 <li><strong>The Zoned Soundscape Principle</strong>: The settlement must be divided into acoustic zones with distinct noise targets. The Silent Zone encompasses sleeping quarters, meditation areas, and the Centered Null space, with a target ambient level below 35 dB. The Living Zone encompasses communal areas, cooking spaces, and conversation areas, with a target below 50 dB. The Work Zone encompasses crafts, animal processing, and construction, with no absolute noise limit but with mandatory acoustic isolation from the perimeter and the Silent Zone.</li>
+</ol>
+<pre><code class="language-text">
+  Noise Discipline Zones: Concentric Acoustic Rings
+
+                    ZONE 4: WILDERNESS (ambient 15-25 dB)
+           . . . . . . . . . . . . . . . . . . . . . .
+          .    ZONE 3: PERIMETER — SILENCE (&lt;30 dB)     .
+         .   - - - - - - - - - - - - - - - - - - - -    .
+        .   |  ZONE 2: LIVING — QUIET WORK (&lt;50 dB) |    .
+        .   |   ________________________________     |    .
+        .   |  | ZONE 1: SILENT — SLEEP (&lt;35 dB)|    |    .
+        .   |  |   whisper only, no tools,       |    |    .
+        .   |  |   no animals, insulated walls   |    |    .
+        .   |  |________________________________|    |    .
+        .   |                                        |    .
+        .   |  conversation OK, cooking, soft tools  |    .
+        .   |_ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ |    .
+         .   sentry patrol, leaf belt, bio sentinels      .
+          .                                              .
+           . . ZONE 5: WORK (no limit, but isolated). . .
+                 [smithy] [sawpit] [construction]
+                 (behind berm, 100 m+ from Zone 1)
+</code></pre>
+<ol>
 <li><strong>The Nocturnal Amplification Principle</strong>: Sound propagates further at night due to temperature inversions, reduced wind, and the absence of masking biological sounds. Nighttime acoustic detection is two to three times more effective than daytime detection — but only if the settlement is quiet. The Silent Hours protocol (dusk to dawn) is a security measure that also serves comfort and health, not the reverse.</li>
 <li><strong>The Biological Sentinel Principle</strong>: Local wildlife constitutes the outer acoustic detection perimeter. Bird alarm calls, deer snorts, fox barks, and the sudden cessation of insect sound all indicate human or large predator approach at distances of 50-200 meters. This biological detection system operates continuously and automatically — but only if the settlement's acoustic footprint does not drive wildlife away from the perimeter zone. A noisy settlement creates a wildlife exclusion zone that is also a detection dead zone.</li>
 <li><strong>The Masking Avoidance Principle</strong>: The settlement's own sounds must never occupy the same frequency bands as detection signals. Industrial metalworking (2-5 kHz), sawing (1-3 kHz), and grinding (broadband, 500 Hz-8 kHz) overlap directly with bird alarm calls (1-8 kHz) and leaf-belt tripwire sounds (2-8 kHz). When industrial activity is concurrent with the detection requirement, the detection system is blinded. Therefore, industrial activities must be physically separated from the detection perimeter by distance and terrain, and temporally separated by the Silent Hours protocol.</li>
@@ -201,6 +258,23 @@
 </ul>
 <p>Where possible, encourage oak and beech through selective management of the leaf belt zone. In autumn, leaves can be redistributed to ensure even coverage, but the belt must never be raked clear — this is a maintained detection zone, not a path.</p>
 <p>The leaf belt functions because of frequency contrast. Footsteps on dry leaves produce high-frequency broadband sound (2-8 kHz) that is spectrally distinct from the natural background keynotes (wind: primarily below 500 Hz; water: broadband but continuous; insects: narrow-band, typically 3-6 kHz but sustained, not transient). The transient, impulsive character of a footstep is immediately distinguishable from the continuous character of natural sounds, even when the overall levels are similar.</p>
+<pre><code class="language-text">
+  Acoustic Early Warning System: Layered Detection Zones
+
+  200 m    150 m    100 m     50 m      30 m       0 m
+    |        |        |        |         |          |
+  ~~~~~~  ~~~~~~~~  ======  xxxxxxxx  ########  [SETTLEMENT]
+  LAYER 5  LAYER 4  LAYER 3  LAYER 2   LAYER 1
+
+  ~~~~~~   L5: Biological sentinels — jays, crows (60-90 dB)
+  ~~~~~~~~ L4: Geese/guinea fowl pen (70-90 dB alarm)
+  ======   L3: Gravel paths at trail junctions (50-60 dB)
+  xxxxxxxx L2: Leaf belt, oak/beech litter (40-50 dB, 2-8 kHz)
+  ######## L1: Tripwire noisemakers, chimes (50-70 dB clatter)
+
+  Intruder must cross all 5 layers; each triggers distinct
+  sound signature at different range and frequency band.
+</code></pre>
 <p>Supplement the leaf belt with mechanical chimes and rattle systems on trails and gates, as specified in Module 02 (Passive Perimeter Defense). These systems provide redundant acoustic detection on the highest-probability approach vectors.</p>
 <h3 id="biological-sentinel-management">Biological Sentinel Management</h3>
 <p>The settlement's outer acoustic detection perimeter is not a constructed system — it is the resident wildlife population. Birds in particular produce alarm calls that encode detailed information about threats: the type of predator (aerial vs. ground), the direction of approach, and the urgency of the threat. These calls cascade through the forest as neighboring birds relay the alarm, creating a wave of sound that propagates outward from the disturbance point at roughly the speed of bird-to-bird transmission — much faster than a human can walk.</p>

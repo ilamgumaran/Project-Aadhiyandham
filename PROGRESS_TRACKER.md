@@ -93,9 +93,9 @@
 - [I] `01_Rationale_and_Importance.md`
 - [I] `02_Passive_Perimeter_Defense.md`
 - [I] `03_Wildfire_Defensible_Space.md`
-- [T] `04_Acoustic_Sovereignty.md`
-- [T] `05_Defensive_Landscaping.md`
-- [T] `06_Observation_and_Signaling.md`
+- [I] `04_Acoustic_Sovereignty.md`
+- [I] `05_Defensive_Landscaping.md`
+- [I] `06_Observation_and_Signaling.md`
 
 ### 07a Active Threat Response
 - [T] `01_Rationale_and_Importance.md`
@@ -266,3 +266,4 @@
 | P2-18 | 2026-05-05 | 05.08, 06.01, 06.02 | Natural Burial (4 new: decomposition 5-stage timeline with nutrient release, grave cross-section depth/shroud/vadose zone, memorial grove plan view tree/grave spacing, pathogen die-off viability over months/years; 267→348 lines). **SECTION 05 FULLY COMPLETE — 8/8 at [I].** Ecological Harmony Rationale (4 new: trophic cascade wolves→elk→vegetation, ecosystem services 4-category diagram, biodiversity-resilience logarithmic curve, successional stages with management interventions; 253→340 lines), Livestock & Mechanical Animals (3 new + 1 existing: draft animal force×distance calculations, feed conversion bar chart 5 species, rotational grazing 8-paddock layout; 305→374 lines). **BEGIN SECTION 06.** |
 | P2-19 | 2026-05-05 | 06.03, 06.04, 06.05 | Ecological Harmony & Wildlife (4 new: habitat zonation concentric rings settlement→wilderness, Lotka-Volterra predator-prey oscillation, wildlife monitoring transect layout, wildlife corridor with buffer zones; 283→375 lines), Shelter & Thermal Grounding (4 new: wall assembly cross-section with R-values, passive solar winter angle + thermal mass, stack effect ventilation, earth-sheltered structure; 303→390 lines), Psychological Grounding (3 new + 1 existing: grief/adaptation 6-stage timeline, Yerkes-Dodson stress-performance curve, community rhythm wheel daily/weekly/seasonal; 305→379 lines). **SECTION 06 COMPLETE — 5/5 at [I]. OUTCOME 2 COMPLETE — 36/36 at [I].** |
 | P2-20 | 2026-05-05 | 07.01, 07.02, 07.03 | **BEGIN OUTCOME 3: Perimeter Defense.** Defense Rationale (4 new: defense-in-depth concentric rings detect→delay→deny→respond→core, deterrence cost curve passive vs active, threat probability×impact matrix, OODA loop decision cycle; 277→360 lines), Passive Perimeter Defense (4 new: perimeter layered zones plan view, thorn hedge double-stagger cross-section, concealed observation post with sightlines/escape, gate chicane 90° turns with OP; 338→415 lines), Wildfire Defensible Space (4 new: 3-zone concentric rings 5-200ft, fire behavior triangle with slope multipliers, crown vs surface fire ladder fuels, ember attack 1-3km travel diagram; 303→379 lines). |
+| P2-21 | 2026-05-13 | 07.04, 07.05, 07.06 | Acoustic Sovereignty (4 new: inverse square law dB propagation with attenuation factors, sound masking water feature layout, noise discipline 5-zone concentric map 35-75dB, acoustic early warning 5-layer detection 30-200m; 285→361 lines), Defensive Landscaping (4 new: defensive hedge 3-layer cross-section with species/dimensions, channelized approach funnel to gate, visual screening berm-hedge-canopy from attacker view, seasonal concealment calendar evergreen vs deciduous; 281→360 lines), Observation & Signaling (4 new: overlapping OP sightlines 360° coverage, signal flag/panel 5-message code chart, mirror heliograph geometry incidence/reflection, smoke signal protocol white/black with timing patterns; 291→370 lines). **SECTION 07 COMPLETE — 6/6 at [I].** |

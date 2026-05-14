@@ -73,6 +73,21 @@ The trade-off: allelopathic zones cannot support most food crops. Position black
 
 2. **The Layered Canopy Principle.** An effective defensive hedge has THREE vertical layers: (a) ground layer — low thorny shrubs or brambles covering 0-1 m height, (b) mid-layer — hedgelaid thorny trees covering 1-3 m height, (c) canopy layer — standard trees providing overhead screening at 3-10 m height. An intruder cannot go under, through, or over a three-layer hedge. Each layer is composed of different species optimized for that height zone.
 
+```text
+  Defensive Hedge Cross-Section (Multi-Layer Planting)
+  10m  .  . *  * .  . *  .       CANOPY LAYER (3-10m)
+   8m   * .  *  . * .  *         Black locust, honey locust
+   5m  __|__|__|__|__|__|__
+   4m  |//|//|//|//|//|//|       MID-LAYER (1-3m)
+   3m  |//|HEDGELAID THORNY|     Osage orange, hawthorn, blackthorn
+   2m  |//|INTERLOCKING ///|     Laid stems + vertical regrowth
+   1m  |//|STEMS///////////|     Primary barrier zone
+       |==|===============|      GROUND LAYER (0-1m)
+   0m  |##|BRAMBLE/ROSE/##|      Wild rose, prickly ash, bramble
+  -----+--+---------------+---- Ground level
+       |<--- 1.5-2m wide --->|
+```
+
 3. **The Species Diversity Principle.** Plant at least 3-4 thorny species in every hedge. Monoculture is vulnerable to species-specific disease — a single pathogen can destroy the entire barrier in one season. A diverse hedge maintains integrity even if one species is affected. Alternate species so no continuous section longer than 10 m is single-species.
 
 4. **The Maintenance Imperative.** A neglected hedge grows tall and thin, losing density at the base. Annual pruning of top growth forces lateral branching; removing dead material prevents fire risk. A hedge laid every 10-15 years remains impenetrable indefinitely. Neglect is the single most common cause of hedge failure.
@@ -191,6 +206,27 @@ An approaching intruder must descend into the ditch, climb the berm, and then fa
 
 The ditch also serves as a drainage channel, directing water away from the settlement interior and preventing waterlogging at the hedge base.
 
+```text
+  Channelized Approach: Landscaping Funnels Traffic to Observable Points
+
+               OUTER PERIMETER
+  ============[HEDGE]============[HEDGE]============
+        |                              |
+        | Dense thorny         Dense thorny
+        | hedge blocks         hedge blocks
+        | free passage         free passage
+        |                              |
+        |     +----- GATE -----+       |
+        |     |   (chokepoint) |       |
+        |     | Observable from|       |
+        |     +-------+--------+       |
+        |             |                |
+  ======|=============|================|======
+        HEDGE    Open path       HEDGE
+                 (only viable approach)
+  [X] = Watch/observation position overlooking gate
+```
+
 ### Allelopathic Buffer Zones
 
 Plant 3-5 black walnut trees at each major approach route, positioned 30-50 m from the outer perimeter hedge. Space individual trees 10-15 m apart so that their juglone zones overlap, creating a continuous suppression band.
@@ -200,6 +236,26 @@ Within the juglone radius (15-20 m from each trunk), undergrowth is chemically s
 Do NOT plant food crops within the juglone zone. Do not position the walnut trees uphill from garden areas, as juglone leaches downslope with groundwater. The allelopathic zone is exclusively a defensive sightline feature and should be mapped during site planning with stakes or paint marks at the estimated juglone boundary.
 
 Black walnut trees also produce edible nuts (a valuable calorie and fat source) and extremely durable timber, ensuring that the allelopathic trees serve multiple functions beyond sightline maintenance.
+
+```text
+  Visual Screening Layout: Berms, Hedges, and Trees Block Line-of-Sight
+
+  APPROACH DIRECTION --->
+
+  Observer                                        Settlement
+  (threat)                                        Interior
+     @                                             [HOUSE]
+     |                                                |
+     |   Walnut trees       Berm+Hedge    Canopy      |
+     |   (clear zone)       (obstacle)    trees       |
+     |                                                |
+     @-----> o  o  o --|####|=HEDGE=|-- T   T   T  [HOUSE]
+     |    juglone zone  ditch  berm      screening    |
+     |    (no brush,    1.5m   +1m       blocks       |
+     |     clear LOS    deep   high      aerial view  |
+     @-----> o  o  o --|####|=HEDGE=|-- T   T   T  [HOUSE]
+  30-50m from hedge   hedge line        10-20m inside
+```
 
 ### Annual Maintenance Calendar
 
@@ -212,6 +268,29 @@ Proper timing of hedge maintenance follows the seasonal cycle of dormancy and gr
 - **November-December (pre-dormancy).** Final inspection before winter. Ensure temporary fencing around young sections is intact. Plan the winter work schedule for January-March.
 
 A hedge that receives this annual cycle of attention will remain in peak defensive condition indefinitely. The total annual labor investment for a 200 m hedge perimeter is approximately 20-30 hours — a small fraction of the labor required to build and maintain an equivalent fence.
+
+```text
+  Seasonal Concealment Calendar: Deciduous vs Evergreen Coverage
+
+  Species Type     J  F  M  A  M  J  J  A  S  O  N  D
+  ---------------------------------------------------------------
+  EVERGREEN
+   Holly           ## ## ## ## ## ## ## ## ## ## ## ##  100% cover
+   Pyracantha      ## ## ## ## ## ## ## ## ## ## ## ##  100% cover
+
+  DECIDUOUS
+   Osage orange    .. .. ** ## ## ## ## ## ## ** .. ..  buds Apr
+   Hawthorn        .. .. ** ## ## ## ## ## ## ** .. ..  buds Apr
+   Blackthorn      .. ** ## ## ## ## ## ## ## ** .. ..  buds Mar
+   Black locust    .. .. .. ** ## ## ## ## ** .. .. ..  buds May
+
+  GROUND LAYER
+   Wild rose       .. ** ## ## ## ## ## ## ## ** .. ..  buds Mar
+   Bramble         .. .. ** ## ## ## ## ## ## ## ** ..  semi-evgn
+
+  ## = full leaf/screening   ** = partial   .. = bare/dormant
+  KEY: Mix evergreen + deciduous for year-round coverage.
+```
 
 ---
 
