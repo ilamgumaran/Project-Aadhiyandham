@@ -124,6 +124,35 @@ The Safe Core is the single most defensible structure in the settlement, designa
 - **Medical:** Basic first aid kit — bandages, antiseptic, tourniquet, splint materials (see Module 05.04 for full kit specifications).
 - **Observation:** The Safe Core must have a concealed observation point — a peephole in the door, an elevated vent with a sightline to the settlement exterior, or both. Situational awareness during lockdown is critical for timing the all-clear.
 
+```text
+   [Hardened Safe Core — Cross-Section View]
+
+       ventilation shaft (15×15 cm, mesh-screened)
+              ╱  angled 30-45° upward
+   ~~ground~~╱~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+             │         EARTH BERM / SOIL
+   ┌─────────┴──────────────────────────────────┐
+   │  observation       │                       │
+   │  slit (concealed)  │   SAFE CORE INTERIOR  │
+   │  ◄─────            │                       │
+   │                    │  [water vessels]  [food│
+   │  ┌──────┐          │   cache]         store]│
+   │  │firing│          │                       │
+   │  │port  │◄─        │  [medical kit]  [sand │
+   │  └──────┘          │                 bckts]│
+   │                    │  [sanitation buckets]  │
+   ├────────────────────┘                       │
+   │ heavy timber door (8 cm, crossbar inside)  │
+   ├════════════╗                               │
+   │  80-100 cm ║  ◄── single narrow entry      │
+   ├════════════╝                               │
+   │  RAMMED EARTH / COB WALLS (40+ cm thick)   │
+   └───────────────────┬────────────────────────┘
+                       │
+              escape tunnel (concealed exit,
+              used by Rear Guard for all-clear)
+```
+
 ### Barricade System
 
 Every entry point to the settlement (trails, gates, gaps in the living wall) must have pre-positioned barricade materials that can be deployed in under 30 seconds by a single person:
@@ -140,6 +169,30 @@ The lockdown signal must satisfy two requirements absolutely: it must be audible
 **Standard signal:** Continuous horn blast of 10 or more seconds, repeated three times with 5-second gaps between blasts. Total duration: approximately 40 seconds. This is the only signal in the settlement's alert system that uses a continuous blast — all other signals (wake-up, meal call, weather warning) use short, distinct patterns. The continuous blast is viscerally different and triggers the trained response without conscious interpretation.
 
 Horn positions: minimum 3 horns distributed at watchpoints around the settlement. Any watchperson can initiate lockdown. Once one horn sounds, all other horn positions repeat the signal to ensure full settlement coverage. The signal propagates across the settlement in under 15 seconds.
+
+```text
+   [Lockdown Alert Cascade — Signal Propagation]
+
+   DETECTION POINT (watchperson spots threat)
+        │
+        ▼
+   HORN BLAST ×3 (continuous, 10+ sec each)
+        │
+        ├──────────────────┬──────────────────┐
+        ▼                  ▼                  ▼
+   Horn Post A         Horn Post B        Horn Post C
+   (repeats signal)    (repeats signal)   (repeats signal)
+        │                  │                  │
+        ▼                  ▼                  ▼
+   Sector A leader     Sector B leader    Sector C leader
+   rouses occupants    rouses occupants   rouses occupants
+        │                  │                  │
+        └──────────────────┴──────────────────┘
+                           │
+                           ▼
+              ALL PERSONNEL MOVING TO SAFE CORE
+                     (T+0:00 to T+0:30)
+```
 
 ### Lockdown Roles
 
@@ -218,6 +271,29 @@ The lockdown does not end when the threat appears to have departed. It ends when
 - **Damage assessment:** Systematic check of all structures for fire damage, barrier integrity, and stolen or damaged supplies. Inventory the seed bank, medical stores, water reserves, and archive. Document everything.
 - **Debrief:** Community discussion within 24 hours while memory is fresh. What triggered the lockdown? Was the threat real or perceived? What worked in the sequence? What failed? Which role had the most difficulty? Adjust assignments, routes, and procedures based on findings.
 - **Psychological recovery:** Lockdowns — especially real ones — are traumatic events. Even drills can trigger anxiety in trauma survivors. Outcome 4, Module 08 (The Mind) protocols apply. Allow emotional processing time. Do not dismiss fear or distress. Acknowledge that the lockdown was frightening and that the community survived it together.
+
+```text
+   [Lockdown Zone Map — Settlement Overview]
+
+                   CLEARED FIELD OF FIRE (50m)
+        - - - - - - - - - - - - - - - - - - - - -
+       :   Entry A                    Entry B     :
+       :   [BARRICADE]                [BARRICADE]  :
+       :       │  RESTRICTED CORRIDOR  │           :
+       :       ▼ ─ ─ ─ ─ ─ ─ ─ ─ ─ ─ ▼           :
+       :  Rally ──►┌──────────────┐◄── Rally      :
+       :  Pt. 1    │  SAFE CORE   │    Pt. 2      :
+       :  Rally ──►│  [shelter]   │◄── Rally      :
+       :  Pt. 3    └──────────────┘    Pt. 4      :
+       :       ▲ ─ ─ ─ ─ ─ ─ ─ ─ ─ ─ ▲           :
+       :   [BARRICADE]                [BARRICADE]  :
+       :   Entry C                    Entry D     :
+        - - - - - - - - - - - - - - - - - - - - -
+                   CLEARED FIELD OF FIRE (50m)
+   Rally Points: pre-assigned mustering spots by sector
+   Corridors: direct routes to Safe Core (no deviation)
+   Cleared Fields: no concealment for approaching threats
+```
 
 ---
 

@@ -58,6 +58,25 @@ The sustainable position is structured coexistence: a deliberate, protocol-drive
 
 The settlement's operational goal is to reduce human-wildlife conflict to a manageable level — not to eliminate it. A well-managed settlement in wolf country might lose 1-3% of livestock annually to predation. That same settlement, if it eliminates its wolves, might lose 15-25% of its crop harvest to the resulting deer overpopulation within a decade. Ecological accounting — tracking both wildlife-caused losses AND wildlife-provided services — reveals that coexistence is not charity toward animals. It is the settlement's best economic strategy.
 
+```text
+  HUMAN-WILDLIFE CONFLICT SPECTRUM
+  =================================
+  COEXISTENCE       TOLERANCE        CONFLICT         ELIMINATION
+  [Shared habitat]  [Managed loss]   [Active clash]   [Extermination]
+       |                 |                |                |
+       v                 v                v                v
+  Full ecosystem    Minor crop/       Retaliatory      Trophic cascade
+  services intact   livestock loss    killing begins   triggered
+       |            (1-3% annually)        |                |
+       v                 v                v                v
+  Predators regulate Acceptable cost  Predator decline  Herbivore explosion
+  herbivore numbers  of coexistence   accelerates       crop loss 15-25%
+       |                 |                |                |
+       v                 v                v                v
+  SUSTAINABLE        OPTIMAL          UNSTABLE          CATASTROPHIC
+  Long-term balance  Target zone      Escalating loss   Ecosystem collapse
+```
+
 ---
 
 ## Core Principles
@@ -78,9 +97,54 @@ No single non-aversive deterrent method works forever. Habituation degrades the 
 
 Wildlife defense uses the same concentric-ring approach as human defense (Module 07.01), with different interventions appropriate to each zone. Zone 1 (0-10 m from structures): sealed structures, bear-proof doors and windows, rodent-proof foundations, no food waste. Zone 2 (10-50 m): physical barriers (fences, hedges), guardian animals, motion-activated deterrents. Zone 3 (50-200 m): deterrence systems (fladry, scent lines), cleared brush to remove cover, wildlife cameras for monitoring. Zone 4 (200+ m): attractant separation — butchering sites, compost operations, and any high-odor activities are located at maximum distance from the settlement core to draw wildlife attention away from living and storage areas.
 
+```text
+  SETTLEMENT-WILDLIFE INTERACTION ZONES (Top-Down View)
+  =====================================================
+
+          ZONE 4: WILDERNESS (200+ m)
+      ~~~~~~ wolves, bears, cats roam freely ~~~~~~
+     |                                              |
+     |    ZONE 3: MANAGED WILDLAND (50-200 m)       |
+     |   +-- fladry, scent lines, cameras --+       |
+     |   |                                  |       |
+     |   |  ZONE 2: AGRI BUFFER (10-50 m)  |       |
+     |   |  +- fences, guardian dogs ----+  |       |
+     |   |  |                            |  |       |
+     |   |  | ZONE 1: CORE (0-10 m)      |  |       |
+     |   |  | [Sealed structures]        |  |       |
+     |   |  | [Bear-proof storage]       |  |       |
+     |   |  | [Zero attractants]         |  |       |
+     |   |  +----------------------------+  |       |
+     |   +----------------------------------+       |
+     +----------------------------------------------+
+  Species movement: deer/boar ---> stopped at Zone 2
+                    wolves ------> deterred at Zone 3
+                    bears -------> no attractant, bypass
+```
+
 ### 5. The Ecological Accounting Principle
 
 Every wildlife species causes measurable losses and provides measurable services. The settlement must account for both columns before making management decisions. A garden without pest-eating birds and predatory insects loses more biomass to aphids, caterpillars, and beetles than it would ever lose to the deer that the same ecosystem supports. An orchard without pollinators produces nothing, regardless of how well it is fenced against browsers. A grain store without the owls, hawks, and snakes that suppress local rodent populations will require constant mechanical trapping at a labor cost that may exceed the cost of occasional predator-caused livestock losses. Ecological accounting forces honest assessment: the settlement is a participant in an ecosystem, not the owner of one.
+
+```text
+  COST-BENEFIT: LETHAL vs NON-LETHAL WILDLIFE MANAGEMENT
+  ======================================================
+  LETHAL CONTROL                    NON-LETHAL COEXISTENCE
+  ---------------                   ----------------------
+  Year 1: Predator removed          Year 1: Barriers + deterrents built
+          Livestock loss stops               Livestock loss drops to 1-3%
+
+  Year 3: Herbivore numbers rise    Year 3: Predators regulate prey
+          Crop browsing increases            Crop loss stable at 2-5%
+          Rodent populations grow            Rodent control by raptors/snakes
+
+  Year 5: Deer/elk doubled          Year 5: Ecosystem equilibrium holds
+          Crop loss 10-15%                   Pollinators service orchards
+
+  Year 10: Prey at 3-4x baseline   Year 10: Full ecosystem services
+           Crop loss 15-25%                  Net loss 3-5% (all causes)
+           NET COST: CATASTROPHIC            NET COST: MINIMAL
+```
 
 ---
 
@@ -115,6 +179,25 @@ Wildlife conflict follows predictable seasonal patterns driven by animal physiol
 | Summer | Crop raiders at annual peak activity (deer, boar, rabbits, ground squirrels), snake encounters near structures and garden beds, insect pest populations building | Full garden barrier maintenance on weekly inspection cycle, companion planting strategies active, guardian animals on daily patrol rotation, snake exclusion barriers around high-traffic areas |
 | Autumn | Bears in hyperphagia (pre-hibernation feeding frenzy — a black bear may consume 20,000 calories per day, investigating every possible food source with reduced caution), deer rut behavior (bucks become unpredictable and aggressive), rodent migration into grain stores as temperatures drop | Maximum food security posture, harvest all crops immediately upon maturity (do not leave ripe food in the field), rodent-proof all grain and seed storage, inspect all structure foundations for rodent entry points |
 | Winter | Wolves more active and closer to settlement (reduced wild prey availability pushes pack ranges toward human zones), rodent damage to stored food at peak, small predators (weasels, martens, foxes) targeting poultry as wild prey becomes scarce | Livestock guardian reinforcement (guardian dogs most critical in winter), snap-trap lines for rodents (NEVER use poison — secondary poisoning kills raptors and predators that provide rodent control), secure all poultry enclosures against small-predator entry |
+
+```text
+  SEASONAL WILDLIFE CONFLICT CALENDAR
+  ====================================
+  Month:  J   F   M   A   M   J   J   A   S   O   N   D
+          |   |   |   |   |   |   |   |   |   |   |   |
+  BEARS   .   .   . [EMERGE===]   .   .   . [HYPERPHAGIA] .
+                    hungry, bold              20k cal/day
+  DEER    .   .   .   . [FAWNING]   . [BROWSE PEAK] [RUT===]
+                        new cover       garden raids  aggressive
+  WOLVES  [WINTER HUNGER===]  .   . [DENNING]  .   . [CLOSE-IN==]
+          close to settlement     pup-rearing       prey scarce
+  BOAR    .   .   . [ROOTING===================] .   .   .
+                    soil soft, gardens vulnerable all season
+  RODENTS .   .   .   .   .   .   .   . [MIGRATION INTO STORES=]
+                                        grain cache invasion peak
+  RAPTORS [CRITICAL RODENT CONTROL===========================]
+          do NOT disturb — suppress rodent damage year-round
+```
 
 ---
 

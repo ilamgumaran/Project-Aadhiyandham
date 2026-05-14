@@ -119,6 +119,29 @@ The critical distinction: passive deterrents (fladry, noise, scarecrows) habitua
 
 **The Rotation Principle.** Non-aversive deterrents habituate within 60 to 90 days. Aversive deterrents do not habituate. Use aversive methods (capsaicin barriers, electric fencing, guardian animals) as the permanent base layer. Use non-aversive methods (fladry, noise devices, scarecrows, night lighting) as supplementary layers rotated on a 60-day cycle. Maintain at least three different non-aversive deterrent types per species so that each rotation introduces a genuinely novel stimulus.
 
+```text
+   Layered Deterrent Perimeter (Plan View — Not to Scale)
+
+   250m   200m       100m        50m     25m    0m
+    |      |          |          |       |      |
+    |      |    FLADRY LINES     |  CAPSAICIN   |
+    |      |   (wolves, 60-day  |   ROPE FENCE  |
+    |  BUTCHER  rotation)       | NOISE STATIONS|
+    |  SITE     SCENT POSTS     |  (bears)      |
+    | (downwind) (ammonia/tar)  |               |
+    |      |          |     NIGHT LIGHTING      |
+    |      |    CLEARED BRUSH   | (wolves/cats) |
+    |      |    (cats, 50m      |               |
+    |      |     radius)    ELECTRIC FENCE ┐    |
+    |      |          |     (bears, 2-wire)│    |
+    |      |          |          |    GUARDIAN   |
+    |      |          |          |    ANIMALS    |
+    |      |          |          |   LIVESTOCK   |
+    |      |          |          |   ENCLOSURE   |
+    ·······◄─ Zone 1 ─►← Zone 2 →←Zone3→←Z4→
+     Outer               Middle    Inner  Core
+```
+
 **The Nighttime Priority.** Most large predator attacks on livestock and most dangerous encounters with humans occur between dusk and dawn. Nighttime livestock security — roofed enclosures with latched doors, guardian animals inside the enclosure, exterior lighting — is the single highest-impact intervention. A settlement that secures its livestock every night from dusk to dawn will prevent the majority of predator-caused losses regardless of what other measures it does or does not take.
 
 **The Escape Route Principle.** Never corner a large predator. Always leave it an escape route. A predator that can flee will flee. A predator that is trapped will fight, and a trapped bear or large cat fighting for its life is capable of killing multiple armed humans. Every element of the Predator Response Protocol is built on this principle. When a predator enters a structure, you open exits and withdraw. When a predator is in contact with livestock, you open the enclosure. The livestock loss is regrettable. The human death that results from cornering a panicked bear is catastrophic.
@@ -200,6 +223,31 @@ Most predator encounters are caused by the settlement, not the predator. Before 
 
 **Livestock enclosure:** Roofed structure with solid walls or heavy-gauge wire mesh, door latched with metal hardware at night. No livestock left unenclosed from dusk to dawn. This is the non-negotiable baseline for wolf country. The enclosure must have no gaps greater than 10 centimeters (wolves can squeeze through surprisingly narrow spaces) and the door must latch securely against being pushed open. Quarterly inspection of all enclosure integrity.
 
+```text
+   Livestock Night Enclosure (Top-Down View)
+
+        LIGHT───────────────LIGHT
+          │    Cleared Zone    │
+          │  (no brush, 15m)   │
+   LIGHT──┼────────────────────┼──LIGHT
+          │ ┌────────────────┐ │
+          │ │  ROOFED ENCL.  │ │
+          │ │                │ │
+          │ │ [Livestock]    │ │
+          │ │    area        │ │
+          │ │           [G]  │ │  G = Guardian animal
+          │ │                │ │      (inside at night)
+          │ │  ══════════    │ │
+          │ │  METAL-LATCHED │ │
+          │ └──── DOOR ──────┘ │
+          │   Solid walls / heavy  │
+          │   wire mesh, no gaps   │
+          │   >10cm, roof required │
+   LIGHT──┼── in cat territory ────┼──LIGHT
+          │    Cleared Zone    │
+        LIGHT───────────────LIGHT
+```
+
 #### Large Cats (Mountain Lion, Leopard, Tiger)
 
 **Ambush cover elimination:** Clear all dense brush, tall grass, and low-hanging vegetation within 50 meters of livestock areas, walking paths, children's play areas, and water collection points. This is the primary intervention for large cats. A cat that cannot conceal itself within stalking distance cannot execute an ambush. Maintain cleared zones through regular cutting on a monthly cycle during growing season.
@@ -227,6 +275,37 @@ When a large predator is spotted within or approaching the settlement perimeter:
 **Cubs and pups:** If you encounter a bear with cubs, a wolf den with pups, or a large cat with kittens, back away immediately. Do not pass between the mother and offspring. Maternal aggression is the number one cause of bear attacks on humans. The mother is not deciding whether you are a threat — she has already decided you are. Your only option is to increase distance.
 
 **Eye contact rules by species:** Maintain eye contact with large cats and wolves. Direct eye contact signals awareness, and awareness is the primary deterrent for ambush predators and social predators that assess threat before attacking. Do NOT maintain direct eye contact with bears. Bears interpret sustained direct eye contact as a challenge or threat display. Look at the bear, but avert your gaze slightly — do not stare.
+
+```text
+   Predator Encounter Decision Tree
+
+   PREDATOR SPOTTED
+        │
+        ▼
+   ASSESS DISTANCE ──── 100m+, moving away ──► LOG & MONITOR
+        │                                       (no action)
+        ▼
+   IDENTIFY SPECIES
+        │
+   ┌────┼────────────┐
+   ▼    ▼            ▼
+  BEAR  WOLF/DOG   LARGE CAT
+   │    │            │
+   ▼    ▼            ▼
+  Avert  Maintain    Maintain
+  gaze   eye contact eye contact
+   │    │            │
+   ▼    ▼            ▼
+   DETERMINE BEHAVIOR
+   ├─ Calm/unaware ────► Group up, make noise, back away slowly
+   ├─ Approaching ─────► Loud noise, throw rocks NEAR it, retreat
+   ├─ With young ──────► BACK AWAY IMMEDIATELY, do not pass between
+   ├─ Attacking livestock► Open enclosure, let predator escape
+   └─ Cornered/trapped ► EVACUATE, open exits, wait at distance
+        │
+        ▼
+   NEVER: run, corner, pursue, separate mother from young
+```
 
 ### Deterrence Zone Map
 
