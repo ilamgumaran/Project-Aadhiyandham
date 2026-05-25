@@ -25,6 +25,26 @@ Jean Piaget (1952) identified four stages of cognitive development, each buildin
 
 Key insight for the community: the SEQUENCE is universal and biological; the AGES are approximate and culturally modulated. Do not expect formal operational thinking without formal instruction. Do not mistake its absence for intellectual deficit.
 
+```text
+    DEVELOPMENTAL TRACKS: MOTOR / LANGUAGE / COGNITIVE / SOCIAL (0-12 yrs)
+
+    Age:    0-1      1-2       2-4        4-7         7-11       11+
+            |        |         |          |           |          |
+    MOTOR:  grasp    walk      run/climb  balance     endurance  adult-level
+            sit      stack     throw/cut  tool use    craft      coordination
+            |        |         |          |           |          |
+    LANG:   babble   words     sentences  narrative   argument   abstract
+            gesture  2-word    questions  explanation persuade   rhetoric
+            |        |         |          |           |          |
+    COGN:   object   cause &   symbolic   conserve    classify   hypothetical
+            perm.    effect    pretend    perspective serialize  systematic
+            |        |         |          |           |          |
+    SOCIAL: attach   imitate   cooperate  negotiate   mentor     identity
+            smile    parallel  share      empathize   loyalty    leadership
+
+    Sequence is FIXED (left to right). Timing is VARIABLE (widths flex).
+```
+
 ### Vygotsky's Social Construction of Mind
 
 Lev Vygotsky (1978) argued that cognitive development is fundamentally social — children internalize capacities first practiced in interaction with more capable others:
@@ -33,6 +53,28 @@ Lev Vygotsky (1978) argued that cognitive development is fundamentally social �
 - **Scaffolding** (Wood, Bruner & Ross 1976): The adult adjusts support to keep the child at the edge of their competence. As the child masters each step, the support is withdrawn. This is the theoretical basis for why communal child-rearing, done well, can exceed nuclear family outcomes.
 - **The more capable peer:** Children learn as much from slightly older children as from adults. Mixed-age grouping is not a compromise forced by small community size — it is Vygotsky's mechanism in action. A five-year-old teaching a three-year-old consolidates their own knowledge while providing the younger child with a relatable model.
 - **Private speech becoming inner speech:** Children ages 3-7 talk to themselves while working through problems. This is not a sign of disorder — it is the internalization of social guidance, the child replaying adult instructions in their own voice. Allow and encourage it.
+
+```text
+    VYGOTSKY'S ZONE OF PROXIMAL DEVELOPMENT (ZPD)
+
+    +-----------------------------------------------------------+
+    |   CANNOT DO YET (even with help)                         |
+    |   - too far beyond current neural wiring                 |
+    |                                                           |
+    |   +---------------------------------------------------+   |
+    |   |   ZPD: CAN DO WITH GUIDANCE  <-- TARGET THIS     |   |
+    |   |   - adult scaffolding / more capable peer         |   |
+    |   |                                                   |   |
+    |   |   +---------------------------------------+       |   |
+    |   |   |   CAN DO INDEPENDENTLY               |       |   |
+    |   |   |   - mastered skills, no support needed|       |   |
+    |   |   +---------------------------------------+       |   |
+    |   +---------------------------------------------------+   |
+    +-----------------------------------------------------------+
+
+    Teaching too LOW = boredom.  Teaching too HIGH = overwhelm.
+    The ZPD expands outward as each layer is mastered.
+```
 
 ### The WHO Motor Development Study (2006)
 
@@ -167,6 +209,25 @@ When a milestone falls outside the concern threshold:
 
 **Step 3: Monitor weekly instead of monthly for 8 weeks**
 
+```text
+    SKILL ACQUISITION PROGRESSION (Natural Learning Sequence)
+
+    STAGE 1         STAGE 2          STAGE 3           STAGE 4         STAGE 5
+    OBSERVE         ASSISTED         INDEPENDENT       MASTERY         TEACH
+                    PRACTICE         PRACTICE                          OTHERS
+    +--------+     +--------+       +--------+        +--------+     +--------+
+    | Watch  |---->| Try w/ |------>| Try    |------->| Fluent |---->| Guide  |
+    | others |     | help   |       | alone  |        | & easy |     | younger|
+    | do it  |     | nearby |       | fail & |        | auto-  |     | child  |
+    +--------+     +--------+       | retry  |        | matic  |     +--------+
+                                    +--------+        +--------+
+    passive but    scaffolding      do not rescue     embed in        consolidates
+    absorbing      from peer or     too quickly —     daily work      mastery &
+    the pattern    adult            errors teach                      serves group
+
+    Duration varies by complexity: days (simple motor) to years (craft mastery)
+```
+
 **Step 4: If no progress after 8 weeks of increased stimulation, convene a community discussion.** The delay may reflect a condition that cannot be remediated without resources the community does not have. The goal shifts to adaptation — finding ways the child can contribute and thrive within their capabilities.
 
 ### When to Shift from Remediation to Adaptation
@@ -235,6 +296,25 @@ In a small community, every child is visible. Caregivers will inevitably compare
 8. Review all charts quarterly as a community — look for patterns, not just individual concerns
 9. Adjust expectations based on actual community data as it accumulates. After 5-10 children, the community will have its own local norms.
 10. Share knowledge with any new community members who take on caregiving roles
+
+```text
+    SEASONAL CURRICULUM WHEEL: Learning by Agricultural Cycle
+
+                        SPRING (planting)
+                   germination / counting / life cycles
+                 /                                      \
+    WINTER (rest)                                        SUMMER (tending)
+    storytelling /            THE CHILD                  water systems /
+    craft mastery /           LEARNS IN                 measurement /
+    number games /            SEASON                    animal care /
+    fire-tending                                        swimming
+                \                                      /
+                   harvest math / preservation / chemistry
+                        AUTUMN (harvest)
+
+    Each season provides NATURAL context for developmental skills.
+    The curriculum emerges from the work at hand — not imposed.
+```
 
 ---
 

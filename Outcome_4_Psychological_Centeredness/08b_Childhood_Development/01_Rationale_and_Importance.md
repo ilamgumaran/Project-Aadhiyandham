@@ -65,6 +65,24 @@ The infant brain is the most metabolically active organ in the human body, consu
 
 The community cannot afford to treat early childhood as a holding period. The first years are when the most consequential neural architecture is being laid down. Every interaction, every pattern of care or neglect is writing code into the developing brain. The code written during this period runs for a lifetime.
 
+```text
+CRITICAL DEVELOPMENTAL WINDOWS (0-12 YEARS)
+===================================================================
+Domain         0   1   2   3   4   5   6   7   8   9  10  11  12
+-------------------------------------------------------------------
+Vision         [===]       <- critical period (hard close)
+Hearing        [=====]
+Attachment     [=========]
+Language           [=============]  <- sensitive period (optimal)
+Motor/Balance      [=========]
+Social Cognit.         [=============]
+Emotional Reg.         [=================]
+Executive Fn.              [===========================] -> age 25
+===================================================================
+ [===] = window of peak plasticity for that domain
+ Investment during these windows yields highest return
+```
+
 The stress neuroscience framework developed by the National Scientific Council on the Developing Child and synthesized by Shonkoff in 2012 identifies three categories of stress response:
 
 - **Positive stress** is brief and mild — the nervousness of meeting a new person, the frustration of a difficult task — and promotes growth when a supportive caregiver is present.
@@ -74,6 +92,25 @@ The stress neuroscience framework developed by the National Scientific Council o
 - **Toxic stress** is prolonged activation of the stress response system without buffering by a responsive adult. Toxic stress floods the developing brain with cortisol, physically damaging the hippocampus (memory and learning) and prefrontal cortex (regulation and planning). The damage is measurable on brain scans and visible in lifelong outcomes.
 
 The single most important variable determining whether stress becomes toxic is not the severity of the stressor but the presence or absence of a responsive caregiver.
+
+```text
+ACEs DOSE-RESPONSE: CUMULATIVE ADVERSITY vs. ADULT OUTCOMES
+=============================================================
+  Risk of harm  |                              ..**
+  (disease,     |                          ..**
+   mental       |                      ..**
+   health)      |                  ..**
+                |              ..*
+                |          ..*
+                |      ..*
+                |  ..*
+                |.*_________________________________
+                0   1   2   3   4   5   6   7   8+
+                    Number of ACEs (abuse, neglect, dysfunction)
+  WITH responsive caregiver buffering: curve flattens
+  WITHOUT buffering: exponential increase in harm
+=============================================================
+```
 
 ### Attachment as Biological Infrastructure
 
@@ -89,6 +126,27 @@ Mary Ainsworth's Strange Situation paradigm, developed in 1978, identified the m
 - **Disorganized**: caregiver experienced as frightening; child has no coherent strategy
 
 Longitudinal research has tracked these patterns into adulthood, demonstrating their influence on romantic relationships, parenting behavior, stress regulation, and physical health outcomes. Securely attached children become adults capable of stable partnerships and responsive parenting. Avoidantly attached children become adults who suppress emotional needs. Resistantly attached children become hypervigilant in relationships. Disorganized children — the most concerning pattern — become adults who oscillate between approach and withdrawal, often replicating chaotic dynamics with their own children. In a small community where every adult relationship affects cohesion, attachment patterns formed in childhood are community infrastructure, not private developmental outcomes.
+
+```text
+BRONFENBRENNER ECOLOGICAL SYSTEMS MODEL
+=============================================================
+      +------------ MACROSYSTEM -------------+
+      | cultural values, post-collapse norms  |
+      |   +--------- EXOSYSTEM ---------+    |
+      |   | community labor, food, gov.  |    |
+      |   |   +----- MESOSYSTEM -----+   |    |
+      |   |   | links between micros |   |    |
+      |   |   |   +--- MICRO ---+    |   |    |
+      |   |   |   |   [CHILD]   |    |   |    |
+      |   |   |   | family,peers|    |   |    |
+      |   |   |   | caregivers  |    |   |    |
+      |   |   |   +-------------+    |   |    |
+      |   |   +----------------------+   |    |
+      |   +------------------------------+    |
+      +---------------------------------------+
+  Disruption at ANY layer propagates inward
+=============================================================
+```
 
 Critically for post-collapse community design, communal caregiving is not a compromise or an emergency measure. Sarah Blaffer Hrdy's 2009 work *Mothers and Others* presents extensive evidence that cooperative breeding — allomothering, or care by non-biological-mother adults — is the ancestral human norm. Across more than two hundred cultures studied, human infants are routinely cared for by grandmothers, aunts, older siblings, and other community members. The nuclear family with exclusive maternal care is the historical anomaly, a product of industrialization and geographic mobility, not of human nature.
 
@@ -270,6 +328,32 @@ The following failure modes are not hypothetical. Each has been documented in po
 5. **The Labor-Childhood Conflict** — The community needs labor. Every adult assigned to caregiving is an adult not farming, building, or securing resources. Pressure builds to return caregivers to productive work before the critical developmental windows have closed. Prevention: frame the first one thousand days as infrastructure investment with the highest return rate in the community's portfolio. Formalize caregiver labor reduction in community agreements made before the pressure arises.
 
 6. **The Resilience Myth** — "Children are resilient, they'll be fine." This statement is simultaneously true and dangerous. Children are remarkably resilient — when they have responsive caregivers and stable environments. Resilience is not an innate property that functions regardless of conditions; it is a capacity that develops within supportive relationships. Without responsive care, "resilience" is just a word adults use to justify neglect and redirect resources elsewhere. Prevention: treat childhood development as critical infrastructure with the same priority as water, food, and shelter. It is not optional enrichment to be funded after survival needs are met. It is a survival need.
+
+```text
+PROTECTIVE FACTORS BUFFER MODEL
+=============================================================
+  ADVERSITY / STRESSORS (from environment)
+       |         |         |         |
+       v         v         v         v
+  +-----------------------------------------------------+
+  | COMMUNITY: governance, resource security, routines  |
+  +-----------------------------------------------------+
+       |         |         |
+       v         v         v
+  +-----------------------------------------------------+
+  | ATTACHMENT: responsive caregivers, secure base      |
+  +-----------------------------------------------------+
+       |         |
+       v         v
+  +-----------------------------------------------------+
+  | PURPOSE: contribution, narrative, belonging, roles  |
+  +-----------------------------------------------------+
+       |
+       v  (reduced, manageable stress reaches child)
+     [CHILD] — resilience develops THROUGH buffering
+  All three layers convert toxic stress into tolerable
+=============================================================
+```
 
 ---
 

@@ -22,7 +22,46 @@ The lesson is unambiguous: daytime allomothering enhances development; nighttime
 
 Attachment is an evolved behavioral system, not a learned behavior or a secondary drive derived from feeding. The attachment system activates under threat — separation, illness, fatigue, fear, unfamiliar environments — and deactivates when the attachment figure is accessible and responsive. This is a survival mechanism: infants who maintained proximity to a protective adult in ancestral environments survived; those who did not were taken by predators, exposure, or starvation.
 
+```text
+    SECURE BASE / SAFE HAVEN MODEL
+
+                      EXPLORATION (curiosity, play)
+                             ^
+                      +-----------+
+          Ventures    |           |  Returns when
+          outward --> |   CHILD   | <-- stressed
+                      +-----------+
+                             |
+                    +------------------+
+                    |    CAREGIVER     |
+                    +------------------+
+                     /                \
+            SAFE HAVEN              SECURE BASE
+        (comfort when              (launch pad for
+         distressed)                exploration)
+    Cycle: Explore --> Stress --> Return --> Comfort --> Explore again
+```
+
 The concept of internal working models is central. The child's first relationships create a mental template for all future relationships. A child whose caregiver responds consistently and warmly develops a secure model: "I am worthy of care, and others are reliable." A child whose caregiver is unpredictable or rejecting develops an insecure model: "I must rely only on myself" or "I cannot predict whether care will come." These models, formed in the first two years, are remarkably resistant to change thereafter — though not immutable (see earned security in Vocabulary). The practical implication is profound: the caregiving a child receives in their first two years shapes every relationship they will have for the rest of their life — as friend, partner, parent, and community member.
+
+```text
+    INTERNAL WORKING MODEL: Early Attachment --> Adult Relationships
+    EXPERIENCE              INTERNAL MODEL              ADULT OUTCOME
+    +---------------+    +---------------------+    +------------------+
+    | Responsive,   | -> | "I am worthy, others| -> | Stable bonds,    |
+    | consistent    |    |  are reliable"      |    | seeks support    |
+    +---------------+    +---------------------+    +------------------+
+    | Rejecting,    | -> | "I must not show    | -> | Avoids intimacy, |
+    | dismissive    |    |  need"              |    | over-self-reliant|
+    +---------------+    +---------------------+    +------------------+
+    | Inconsistent, | -> | "I cannot predict   | -> | Fears abandon,   |
+    | unpredictable |    |  care"              |    | hypervigilant    |
+    +---------------+    +---------------------+    +------------------+
+    | Frightening   | -> | "Safety = danger,   | -> | Dissociation,    |
+    | AND comforting|    |  no strategy works" |    | chaotic relating |
+    +---------------+    +---------------------+    +------------------+
+    Models form by age 2, resist change, shape every relationship thereafter.
+```
 
 Bowlby initially proposed monotropy, the idea of one primary bond. Modern research (Cassidy & Shaver 2016) supports a more nuanced view: children form a hierarchy of multiple attachment figures, with one typically preferred under stress. This hierarchy is the foundation of communal caregiving — the child can bond with several adults, but the hierarchy must be respected, not flattened. When a child is mildly distressed, any attachment figure will do. When a child is severely distressed — illness, injury, terror — they want the one at the top of the hierarchy, and no substitute will fully suffice.
 
@@ -38,6 +77,27 @@ The Strange Situation paradigm is a 20-minute laboratory procedure with two sepa
 
 **Disorganized** (10-15% in normative samples, up to 80% in maltreated populations): The child shows contradictory approach-avoidance behaviors, freezing, dissociative stilling, or bizarre movements upon reunion. This pattern emerges when the caregiver is simultaneously the source of comfort and the source of fear — the child needs to approach for safety but needs to flee from danger, and the same person is both. These children face the highest risk of psychopathology, relationship dysfunction, and dissociation in adulthood. In a post-collapse community, disorganized attachment is the pattern most likely to emerge if caregiving is chaotic, and it is the pattern with the most destructive long-term consequences for community cohesion.
 
+```text
+    ATTACHMENT STYLES QUADRANT
+              High Anxiety (about abandonment)
+                         |
+         ANXIOUS-        |        DISORGANIZED
+         AMBIVALENT      |        - Approach-avoidance
+         - Clingy        |        - Freezing, confusion
+         - Caregiver:    |        - Caregiver: frightening
+           inconsistent  |          AND comforting
+                         |
+    Low Avoidance -------+----------------------- High Avoidance
+                         |
+         SECURE          |        AVOIDANT
+         - Explores      |        - Suppresses needs
+         - Seeks comfort |        - Ignores caregiver
+         - Caregiver:    |        - Caregiver:
+           responsive    |          rejecting/dismissive
+                         |
+              Low Anxiety
+```
+
 The key finding across decades of research: it is the quality of caregiving — sensitivity, responsiveness, predictability — that determines attachment classification, not the quantity of time spent. A caregiver who is present for four hours a day and consistently responsive produces more secure attachment than a caregiver who is present for twelve hours but distracted, irritable, or unpredictable. This finding is the empirical foundation for communal caregiving: it means that distributing care across multiple sensitive, responsive adults does not harm attachment — it can enhance it, provided the hierarchy principle is maintained.
 
 ### The Cooperative Breeding Hypothesis
@@ -47,6 +107,26 @@ Hrdy (2009) established that humans are cooperative breeders — the only great 
 The evolutionary logic is straightforward: human infants are extraordinarily costly, with brains that consume 60% of their metabolic energy in the first year and a dependency period stretching years beyond weaning. No single mother can provision an infant alone in ancestral conditions. The species evolved for shared care, and infants are neurologically prepared to form attachments with multiple figures. Cross-cultural research (Konner, 2010) confirms that in foraging societies — the closest analogue to ancestral conditions — infants are held by non-mothers for 40-60% of daylight hours, beginning in the first weeks of life.
 
 But allomothering works only when alloparents are consistent, familiar, and responsive. A grandmother who holds the infant daily for months becomes an attachment figure. A rotating stranger who appears once and disappears triggers the attachment system's alarm, not its security function. The distinction between structured allomothering and haphazard group care is the distinction between secure and disorganized attachment.
+
+```text
+    COMMUNAL CAREGIVING NETWORK IN A SETTLEMENT (15-50 people)
+    ┌──────────────────────────────────────────────────────────┐
+    │ TERTIARY: Community adults (known faces, low contact)     │
+    │                                                          │
+    │  ┌────────────────────────────────────────────────────┐  │
+    │  │ SECONDARY: 2-4 alloparents (daily, can solo-care)  │  │
+    │  │  (grandmother, aunt, experienced neighbor)         │  │
+    │  │                                                    │  │
+    │  │    ┌────────────────────────────────────────┐      │  │
+    │  │    │ PRIMARY: One caregiver (bio mother)    │      │  │
+    │  │    │  - Nighttime care (non-negotiable)     │      │  │
+    │  │    │  - Default under severe distress       │      │  │
+    │  │    │          [ CHILD ]                     │      │  │
+    │  │    └────────────────────────────────────────┘      │  │
+    │  └────────────────────────────────────────────────────┘  │
+    └──────────────────────────────────────────────────────────┘
+    Key: Only inner two rings are true attachment figures.
+```
 
 ### The Kibbutz Evidence
 
