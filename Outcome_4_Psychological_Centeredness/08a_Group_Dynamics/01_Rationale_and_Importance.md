@@ -24,6 +24,27 @@ In a settlement context, this means that a group worried about an external threa
 
 Group decision-making structures, specifically the Three-Voice Rule (Module 02), counter this by structurally inserting dissent into every decision process. When someone is *assigned* the role of arguing the opposing case, the informational influence channel is disrupted: the group hears arguments against the favored position, and the social comparison dynamic shifts because disagreement has been legitimized.
 
+```text
+  Group Polarization: How Moderate Views Become Extreme
+  ═════════════════════════════════════════════════════════
+  BEFORE GROUP DISCUSSION         AFTER GROUP DISCUSSION
+  (individual positions)          (group position shifts)
+
+  Cautious ◄──────────► Risky    Cautious ◄──────────► Risky
+           │                              │
+     A ──► ·  ·                           │
+     B ──► ·  ·  ·                        │
+     C ──► ·  ·  ·                        │
+     D ──► ·  ·  ·  ·                     │          GROUP
+     E ──► ·  ·  ·  ·                     │         DECISION
+           │     ▲                         │            ▲
+           │     │                         │            │
+           │  Average                      │     ·  ·  ·  ·  ·  ·
+           │                               │
+  ─────────────────────────────────────────────────────────────────
+  Mechanism: shared arguments + social comparison = extremity shift
+```
+
 **Asch conformity experiments** (1951): In one of the most famous experimental designs in psychology, Solomon Asch asked subjects to match the length of a line to one of three comparison lines — an objectively easy perceptual task. When confederates (actors posing as fellow subjects) unanimously chose an obviously incorrect answer, approximately 75% of real subjects conformed to the incorrect group answer at least once across trials. About one-third conformed on the majority of trials.
 
 The subjects were not confused — post-experiment interviews revealed they *knew* the answer was wrong but chose to go along rather than stand alone against a unanimous group. A critical follow-up finding: when even one confederate broke ranks and gave the correct answer, conformity dropped dramatically. A single voice of dissent was sufficient to restore individual judgment.
@@ -47,6 +68,35 @@ Counter-measures: small work teams of five to eight people where individual cont
 The result: terrible decisions made by intelligent, well-meaning people who reinforced each other's errors. Janis identified eight symptoms, any three of which should trigger alarm: illusion of invulnerability, collective rationalization, belief in inherent morality, stereotyping of out-groups, pressure on dissenters, self-censorship, illusion of unanimity, and self-appointed mind-guards who shield the group from dissenting information.
 
 A post-collapse settlement under resource stress, led by a charismatic founder, insulated from other communities, is *exactly* the profile Janis described. The counter-measures are structural: mandatory devil's advocacy (Dissent Voice), exposure to outside perspectives (inter-settlement contact, Outcome 1 networking), and leadership rotation that prevents directive-leader entrenchment.
+
+```text
+  Groupthink Prevention Flowchart
+  ════════════════════════════════
+  PROPOSAL INTRODUCED
+       │
+       ▼
+  ┌────────────────────────┐
+  │ Assign DISSENT VOICE   │ ◄── Rotating role, duty to oppose
+  │ (devil's advocate)     │
+  └──────────┬─────────────┘
+             ▼
+  ┌────────────────────────┐
+  │ Anonymous pre-vote     │ ◄── Written opinions before discussion
+  │ (reveal private views) │     prevents social comparison bias
+  └──────────┬─────────────┘
+             ▼
+  ┌────────────────────────┐
+  │ External consultation  │ ◄── Contact neighboring settlement
+  │ (outside perspective)  │     or consult stored reference
+  └──────────┬─────────────┘
+             ▼
+  ┌────────────────────────┐
+  │ Three-Voice debate     │ ◄── Proposer + Responder + Dissenter
+  │ (structured dialogue)  │
+  └──────────┬─────────────┘
+             ▼
+  FINAL DECISION (genuine consensus, not conformity)
+```
 
 ### The Iron Law of Oligarchy
 
@@ -86,6 +136,22 @@ Principles one through six are directly implemented across Sections 08 and 08a:
 
 Ostrom's work provides empirical validation that these are not arbitrary governance choices: they are the features that *distinguish* communities that survive from communities that collapse.
 
+```text
+  Ostrom's 8 Principles ──► Settlement Implementation
+  ═══════════════════════════════════════════════════════
+  1. Clear boundaries ─────────► Community Charter (membership rules)
+  2. Local congruence ─────────► Seasonal adaptation of protocols
+  3. Collective choice ────────► Three-Voice Rule (all voices heard)
+  4. Monitoring ───────────────► Social Health Index (monthly)
+  5. Graduated sanctions ──────► Recall Protocol (warn → review → remove)
+  6. Conflict resolution ──────► Section 08 Module 04 (structured dialogue)
+  7. Right to organize ────────► Inter-settlement autonomy respect
+  8. Nested enterprises ───────► Domain separation + inter-settlement council
+  ═══════════════════════════════════════════════════════
+  Principles 1-6: directly implemented in Sections 08/08a
+  Principles 7-8: addressed via Outcome 1 networking
+```
+
 ### Dunbar's Number and Social Scaling
 
 Robin Dunbar (1992) demonstrated a correlation between neocortex size in primates and social group size. Extrapolating to the human neocortex, he predicted a maximum group size of approximately 150 — the number of stable social relationships a single person can maintain through personal knowledge and regular interaction. This number has since been observed across a remarkable range of human organizations: Neolithic farming villages, Roman army units (the century = ~80, the maniple = ~160), Hutterite colony fission thresholds, average personal network sizes in modern surveys, and the size at which businesses begin requiring formal management hierarchies.
@@ -98,6 +164,28 @@ Dunbar further identified a layered structure of social investment:
 - ~150 in the extended social group (people whose death would distress you)
 
 Each layer represents a decrease in emotional closeness and an increase in the number of relationships.
+
+```text
+         Dunbar's Layered Social Structure
+    ┌─────────────────────────────────────────────┐
+    │              ~150 Community                  │
+    │   (people whose death would distress you)   │
+    │    ┌───────────────────────────────────┐    │
+    │    │         ~50 Close Group            │    │
+    │    │   (large dinner invitation list)   │    │
+    │    │    ┌─────────────────────────┐     │    │
+    │    │    │    ~15 Sympathy Group    │     │    │
+    │    │    │   (close friends/kin)    │     │    │
+    │    │    │    ┌───────────────┐     │     │    │
+    │    │    │    │  ~5 Intimate  │     │     │    │
+    │    │    │    │  (innermost)  │     │     │    │
+    │    │    │    └───────────────┘     │     │    │
+    │    │    └─────────────────────────┘     │    │
+    │    └───────────────────────────────────┘    │
+    └─────────────────────────────────────────────┘
+  Emotional investment: HIGH ──────────────► LOW
+  Relationship count:   FEW ──────────────► MANY
+```
 
 The settlement target of 50 to 150 people is determined by this biology. This is the range where the protocols in Section 08a work — where personal knowledge of all members enables informal social monitoring, face-to-face governance, and trust-based cooperation.
 

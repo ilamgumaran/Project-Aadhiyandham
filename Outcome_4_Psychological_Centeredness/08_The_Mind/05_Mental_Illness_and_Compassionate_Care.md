@@ -79,6 +79,27 @@ Modern psychiatric evaluation of the Geel system (Roosens, 1979; Goldstein & God
 
 The mechanism: normalization and social role preservation reduce the chronic stress that exacerbates psychiatric symptoms. When the community treats mental illness as a manageable condition rather than a terrifying aberration, the afflicted person's stress response diminishes, and with it, symptom severity.
 
+```text
+    COMMUNITY INTEGRATION MODEL (Geel, Belgium — 700+ years)
+
+    ┌───────────────────────────────────────────┐
+    │        ORDINARY FAMILY HOUSEHOLD          │
+    │  Meals together │ Shared sleeping │ Tasks │
+    │         └───────────┬───────────────┘     │
+    │                     ▼                     │
+    │          ┌─────────────────────┐          │
+    │          │  BOARDER (person w/ │          │
+    │          │  mental illness)    │          │
+    │          └─────────┬───────────┘          │
+    └────────────────────┼──────────────────────┘
+         ┌───────────────┼───────────────┐
+         ▼               ▼               ▼
+    WORK ROLE     SOCIAL GATHERINGS   COMMUNITY
+    (farm, craft)  (market, feast)    IDENTITY
+
+    Result: Social role → reduced stress → lower symptoms
+```
+
 **Soteria House (Loren Mosher, 1971-1983).**
 A residential treatment program for acute schizophrenia that used minimal or no antipsychotic medication and relied instead on interpersonal support, a calm non-institutional environment, and staff trained to "be with" rather than "treat" residents.
 
@@ -155,6 +176,27 @@ Additional training includes:
 - De-escalation through voice modulation (slow, low, steady)
 - Physical positioning (never blocking the exit, maintaining arm's-length distance, keeping hands visible and open)
 
+```text
+    CRISIS DE-ESCALATION PROTOCOL
+
+    ┌────────────────────────────────┐
+    │ ASSESS: Physically dangerous?  │
+    ├────────────┬───────────────────┘
+    │ NO         │ YES → CONTAINMENT (Calm Room)
+    ▼            │
+    ENVIRONMENT: Remove stimuli, dim light
+        │
+        ▼
+    COMMUNICATE: Low/slow voice, validate emotion
+    "I can see you feel frightened"
+        │
+        ▼
+    MONITOR: Is person calming?
+    ├─── YES → Continue Anchor presence
+    └─── NO  → Botanical sedative, cold water
+               Re-assess every 15 min
+```
+
 **Duration.**
 An Anchor shift lasts 4 hours maximum. At shift change, the outgoing Anchor briefs the incoming Anchor on the person's current state, what has helped, and what has escalated distress. The handoff occurs in the person's presence with a calm introduction: "This is [name], they will be sitting with you now. I have told them that you feel [emotion]."
 
@@ -177,6 +219,23 @@ This log builds the community's understanding of the individual's pattern over t
 | **Skullcap** (*Scutellaria lateriflora*) | Tincture or tea | Tincture: 1-2 mL, up to 3x daily. Tea: 1-2g dried herb | GABA-A modulation, flavonoid-mediated anxiolysis | Specifically useful for nervous tension and restlessness. Mild enough for daily use during non-crisis periods |
 | **Chamomile** (*Matricaria chamomilla*) | Tea | 2-4g dried flowers per cup, up to 4 cups daily | Apigenin binds GABA-A benzodiazepine site — mild anxiolytic | Mildest option. Suitable for children, elderly, or ongoing mild anxiety. Not sufficient alone for acute mania |
 | **Lemon balm** (*Melissa officinalis*) | Tea or tincture | Tea: 1.5-4.5g. Tincture: 2-6 mL | Inhibits GABA transaminase — increases GABA availability | Combines well with valerian for sleep. Also has mild antiviral properties |
+
+```text
+    NEUROTRANSMITTER PATHWAYS & BOTANICAL TARGETS
+
+    DOPAMINE            SEROTONIN            GABA
+    (excess→psychosis)  (deficit→depression) (inhibitory tone)
+         │                   │                    │
+         ▼                   ▼                    ▼
+    ┌──────────┐     ┌───────────┐    ┌───────────────────────┐
+    │ Sleep    │     │Tryptophan │    │ VALERIAN  → GABA-A    │
+    │ enforce- │     │(dietary   │    │ PASSIONFLOWER → GABA-A│
+    │ ment ↓   │     │ protein)→ │    │ SKULLCAP  → GABA-A    │
+    │ DA tone  │     │ Serotonin │    │ LEMON BALM → ↑ GABA   │
+    └──────────┘     └───────────┘    │ CHAMOMILE → benzo site│
+                                      └───────────────────────┘
+    All botanicals converge on GABA → ↑ inhibition → calming
+```
 
 > **CAUTION**: These preparations are SEDATIVES. They reduce neural excitability and induce drowsiness. Do not administer to persons who need to remain alert for safety reasons (e.g., nightwatch). Do not combine multiple high-dose preparations simultaneously without prior experience with each individually. Monitor for oversedation (unrousable sleep, shallow breathing). Passionflower and valerian may potentiate each other — begin combination dosing at half the individual doses listed above.
 
@@ -239,6 +298,27 @@ Requirements:
 - A door that can be secured from outside but is not airtight
 
 The room should feel like a quiet bedroom, not a cell. Ideally located near the center of the settlement rather than at the periphery — proximity to community life reduces the isolation effect even during containment.
+
+```text
+    CALM ROOM LAYOUT (plan view, approx. 3m x 4m)
+
+    ┌─────────────────────────────────────────┐
+    │ ╔═══════════╗       OBSERVATION WINDOW  │
+    │ ║  STRAW    ║       (interior-facing)   │
+    │ ║  MATTRESS ║            ┌──┐           │
+    │ ║  (no frame)║           │OW│           │
+    │ ╚═══════════╝            └──┘           │
+    │                   VENTILATION [////]     │
+    │   BLANKETS        (15x15cm, high wall)  │
+    │   ○ Water jug     ┌──────────────┐      │
+    │   (ceramic)       │ NATURAL LIGHT│      │
+    ═══╗                │ WINDOW       │      │
+    DOOR║               └──────────────┘      │
+    ═══╝  (securable from outside)            │
+    └─────────────────────────────────────────┘
+    ALL corners rounded. No hooks/nails/protrusions.
+    15-min check protocol posted outside door.
+```
 
 **Trigger for containment.**
 The person has become a physical danger to themselves or others:

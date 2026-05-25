@@ -26,6 +26,25 @@ Robert Michels published *Political Parties* in 1911 after studying European soc
 
 **(d) Power is self-reinforcing.** The person with decision-making authority controls the processes that might redistribute it. Maria decides who assists with water system maintenance (selecting loyal supporters). Maria determines what information about the water system is shared with the community (controlling the narrative). Maria's expertise grows while others' knowledge atrophies from disuse. Replacing Maria becomes increasingly costly and risky, which makes the community increasingly reluctant to do so.
 
+```text
+    MICHELS' IRON LAW — 4-STAGE CYCLE
+    ===================================
+
+    (a) Specialization ──────► (b) Information Asymmetry
+          ▲                              │
+          │   [INTERVENTION POINTS]      ▼
+          │   * Apprenticeship Mandate   │
+          │   * Mandatory Rotation       │
+          │   * Knowledge Sharing Norms  │
+          │                              │
+    (d) Self-Reinforcement ◄──── (c) Power Concentration
+          │                              ▲
+          │    ┌─────────────────────┐   │
+          └───►│ WITHOUT SAFEGUARDS: │───┘
+               │ Cycle accelerates   │
+               └─────────────────────┘
+```
+
 The Iron Law operates with particular speed in small groups under stress. When resources are scarce and decisions are urgent, the group naturally defers to whoever appears most competent. This deference, repeated over weeks, crystallizes into permanent authority. The community stops consulting the Steward and starts obeying the leader. Michels observed this pattern in organizations of thousands; in a group of 30, the cycle can complete in a single season.
 
 Historical examples confirm the pattern with painful regularity. The French Revolution's Committee of Public Safety began as a collective body of twelve men exercising emergency authority on behalf of the National Convention; within 18 months, Robespierre had consolidated personal control and was executing rivals. The Russian Revolution replaced the Tsar with a Bolshevik Central Committee committed to collective leadership; within ten years, Stalin held absolute power. Sargisson and Sargent (2004) documented the collapse of dozens of intentional communes in the 20th century, finding that the most common failure mode was not resource scarcity or external threat but internal power consolidation by a single charismatic founder or manager.
@@ -99,6 +118,24 @@ Identify the critical domains of community operation. A standard set for a 30-50
 
 Each domain is led by a **Steward**, not a chief. A Steward facilitates decisions within that domain but cannot unilaterally allocate resources. No individual may serve as Steward of more than one domain simultaneously.
 
+```text
+    DOMAIN SEPARATION — 6 GOVERNANCE DOMAINS
+    ==========================================
+
+    ┌──────────┐  ┌──────────┐  ┌──────────┐
+    │  1.FOOD  │  │ 2.WATER  │  │3.SHELTER │
+    │(Person A)│  │(Person B)│  │(Person C)│
+    └──────────┘  └──────────┘  └──────────┘
+
+    ┌──────────┐  ┌──────────┐  ┌──────────┐
+    │ 4.HEALTH │  │5.SECURITY│  │6.EDUCATE │
+    │(Person D)│  │(Person E)│  │(Person F)│
+    └──────────┘  └──────────┘  └──────────┘
+
+    RULE: Each person occupies MAX 1 box at a time.
+          No cross-domain authority concentration.
+```
+
 The community may adjust the number of domains based on settlement size. A 15-person group may combine domains (Food+Water under one Steward, Shelter+Security under another) to avoid spreading too thin. A group exceeding 80 people may subdivide domains (separating Agriculture from Food Storage, or Construction from Maintenance). The principle remains constant regardless of scale: no person holds authority over more than one domain.
 
 ### Step 2: Implement Mandatory Rotation
@@ -117,6 +154,26 @@ The final two weeks of each 90-day term constitute the **handover period**. This
 - Lessons learned during the outgoing Steward's term
 
 The handover document is filed in the Decision Log and becomes part of the community's institutional memory.
+
+```text
+    MANDATORY ROTATION — 90-DAY STAGGERED TERMS
+    =============================================
+
+    Day:  1        30        60        90       120       150       180
+          │         │         │         │         │         │         │
+    FOOD: ├─── Alice (Term 1) ──┤─── Bob (Term 2) ───┤─── Cara ────┤
+          │                 ▓▓▓▓│                 ▓▓▓▓│             │
+    WATER:├──────── Bob ────────┤───── Cara ─────────┤──── Dev ────┤
+          │              ▓▓▓▓▓▓▓│                ▓▓▓▓│             │
+    SHELT:├──────── Cara ───────┤────── Dev ─────────┤── Alice ────┤
+          │                 ▓▓▓▓│                ▓▓▓▓│             │
+
+    ▓▓▓▓ = 14-day HANDOVER PERIOD (overlap of outgoing + incoming)
+    
+    KEY: Staggered starts ensure at least 2 of 3 Stewards are
+         mid-term at any moment — institutional knowledge never
+         drops below 66% continuity.
+```
 
 ### Step 3: Institute the Three-Voice Rule
 
@@ -143,6 +200,32 @@ The separation of knowledge from authority is the most counter-intuitive element
 ### Step 5: Establish the Recall Protocol
 
 If any three community members (minimum) formally raise concern that a Steward is accumulating disproportionate influence, a community circle is convened within 48 hours. The Steward in question must step down from the role during the review period. The circle uses the same E-Prime and Active Mirroring protocols from Module 04 (Conflict Resolution). If the circle reaches consensus that the concern is valid, the Steward is replaced immediately and barred from that domain for two full rotation cycles.
+
+```text
+    RECALL PROTOCOL — FLOWCHART
+    =============================
+
+    ┌────────────┐     ┌──────────────┐     ┌───────────────┐
+    │ 3-MEMBER   │────►│  48-HOUR     │────►│  COMMUNITY    │
+    │ PETITION   │     │  COOLING     │     │  CIRCLE VOTE  │
+    │ (written,  │     │  Steward     │     │  (E-Prime +   │
+    │  signed)   │     │  steps down  │     │  Mirroring)   │
+    └────────────┘     └──────────────┘     └───────┬───────┘
+                                                    │
+                                       ┌────────────┴───────────┐
+                                       ▼                        ▼
+                              ┌──────────────┐       ┌──────────────┐
+                              │CONCERN VALID │       │   INVALID    │
+                              │Removed +     │       │  Reinstated  │
+                              │barred 2 cycles│       │  immediately │
+                              └──────┬───────┘       └──────────────┘
+                                     ▼
+                              ┌──────────────┐
+                              │ 2-CYCLE      │
+                              │ TRANSITION:  │
+                              │ Next in seq. │
+                              └──────────────┘
+```
 
 The low trigger threshold — only three members — is deliberate. A high threshold (e.g., majority petition) means consolidation can proceed for too long before reaching the recall threshold. By the time a majority is concerned, the consolidating Steward may already control enough domain resources to resist removal. Three people is enough to signal a potential problem without being so low that frivolous recalls waste community time. If three people independently identify the same concern, it warrants investigation.
 
