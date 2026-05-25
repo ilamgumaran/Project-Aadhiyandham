@@ -28,9 +28,50 @@ Cortisol dynamics in grief follow a characteristic pattern: acute loss produces 
 
 Communal grief rituals provide exactly the social contact and emotional expression pathway that regulates the cortisol response, guiding the system back toward baseline rather than allowing it to settle into a chronically elevated state. This is why the 24-hour activation window matters: the cortisol response is most amenable to social regulation during the acute phase. A Mourning Circle held within 24 hours intervenes at the neurochemical level before chronic patterns can consolidate.
 
+```text
+  CORTISOL STRESS RESPONSE: HEALTHY vs PROLONGED RECOVERY
+
+  Cortisol
+    |
+  H |        *                          * * * * * * * * * * *
+    |      *   *                      *   Prolonged / Chronic
+    |     *     *                   *     (no communal processing)
+    |    *       *               *
+  M |   *         *   . . . . *
+    |  *           * .        Healthy Recovery
+    | *          .   *        (with Mourning Circle)
+    |*        .       *
+  L |------.-----------*-*-*------------------------------
+    +---|------|------|------|------|------|------|------> Time
+       0h    24h    72h    1wk    2wk    1mo    3mo
+    . = divergence point (~24-72h)  |  Intervention: 0-24h optimal
+```
+
 The vagal tone hypothesis, articulated by Stephen Porges in polyvagal theory (2011), provides the autonomic mechanism. The ventral vagal complex, which mediates social engagement --- eye contact, facial expression, prosodic speech, synchronized breathing --- is activated during structured group ritual. This ventral vagal activation directly counteracts the dorsal vagal shutdown (freeze, withdrawal, dissociation, emotional numbing) that characterizes suppressed grief.
 
 When a person sits in a circle, hears the bell, sees others' faces, and listens to spoken words in a rhythmic sequence, their ventral vagal system engages automatically. The ritual structure does the neurological work even when the participant feels unable to engage emotionally. Presence is sufficient. This is why attendance matters more than participation --- a person who sits silently through the entire Mourning Circle still receives the ventral vagal benefit of structured social proximity.
+
+```text
+  POLYVAGAL THEORY: THREE AUTONOMIC STATES IN GRIEF
+
+  +--------------------------------------------------+
+  |  VENTRAL VAGAL  (Social Engagement)              |
+  |  Safe, connected --- tears, sharing, comfort     |
+  |  >>> TARGET STATE for Mourning Circle <<<        |
+  +----------------------|---------------------------+
+        Ritual, bell,     |  ^ Co-regulation,
+        circle bring UP   v  | eye contact, breath
+  +--------------------------------------------------+
+  |  SYMPATHETIC  (Fight / Flight)                   |
+  |  Agitated --- anger, blame, restlessness         |
+  +----------------------|---------------------------+
+        Overwhelm         |  ^ Gentle movement,
+        pushes DOWN       v  | naming, grounding
+  +--------------------------------------------------+
+  |  DORSAL VAGAL  (Shutdown / Freeze)               |
+  |  Collapsed --- numbness, withdrawal, silence     |
+  +--------------------------------------------------+
+```
 
 ### Continuing Bonds Theory
 
@@ -61,6 +102,27 @@ Witnessing IS the intervention. The group's silent, attentive presence provides 
 Tedeschi and Calhoun (2004) documented that communities which deliberately process trauma together are more likely to experience post-traumatic growth --- not merely return to baseline functioning, but develop increased resilience, deeper social bonds, revised life priorities, enhanced appreciation for present experience, and a more complex understanding of human vulnerability and strength.
 
 Post-traumatic growth is not the absence of suffering. It is the transformation of suffering into expanded capacity. The key finding is that growth does not replace grief --- it coexists with it. A community can simultaneously mourn its losses and recognize its increased strength. The two processes are not contradictory; they are complementary aspects of healthy adaptation.
+
+```text
+  POST-TRAUMATIC GROWTH TIMELINE
+  Capacity
+    |                                        ** GROWTH **
+  G |                                      **  (new bonds,
+    |                                   ***    deeper empathy)
+    |                              ****
+  B |--*                      ****----------------------
+    |   **               *****   INTEGRATION
+    |     **          ****       (loss into identity)
+    |      **      ***
+    |       **  ***  MEANING-MAKING
+    |        ***     (narrative, ritual)
+    |       * PROCESSING (Mourning Circles)
+  C |     *  ACUTE CRISIS
+    +---|------|------|------|------|------|-------->
+       0     1mo    3mo    6mo    12mo   18mo
+
+  B = pre-loss baseline   C = crisis nadir   G = growth
+```
 
 The Seasonal Remembrance's "World That Is" segment implements this directly. After mourning what was lost (The World That Was), the community deliberately identifies what has emerged, grown, strengthened, or been built since the last gathering. This is not forced positivity or toxic optimism. It is structured cognitive reframing that clinical research shows reduces rumination and increases adaptive coping.
 
@@ -124,6 +186,24 @@ The entire protocol takes approximately 45 minutes to 2 hours, depending on comm
 6. **The Witness Round:** Moving clockwise, each person who wishes to speak may share one memory, one feeling, or one acknowledgment. There is no obligation to speak. There is no commenting on what another person says. Each contribution is received in silence.
 7. **The Stone Placement:** Each person who wishes places a stone near the center candle. The stones remain until the next morning, when they are moved to the memorial site.
 8. **The Closing:** The Convener extinguishes the candle and says: "We carry this together." The group responds: "Together." The circle disperses.
+
+```text
+  MOURNING CIRCLE: SEATING, SPEAKING STONE FLOW, FACILITATOR
+
+                    X --- X
+                 X    bell    X
+               /   speaking     \        C = Convener (IN the
+             X   stone ---->     X           circle, not outside)
+            /                     \      O = candle + cloth
+           X                      X     X = seated members
+           |        O             |   ---> = clockwise flow
+           X                      X
+            \                    /    Speaking stone passes
+             X                  X     clockwise. Each holder
+               \              /       may speak or pass in
+                X   X   C   X        silence. Stone returns
+                                      to center after round.
+```
 
 ### The Seasonal Remembrance (Cumulative Grief)
 

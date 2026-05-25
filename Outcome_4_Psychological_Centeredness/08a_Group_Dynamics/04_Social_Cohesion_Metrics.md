@@ -20,6 +20,28 @@ Robert Putnam, in *Bowling Alone* (2000), defined social capital as the networks
 
 Two forms of social capital are relevant to settlement life. BONDING capital refers to within-group ties — the trust and reciprocity that develop among people who share meals, work teams, rituals, and daily proximity. Bonding capital produces solidarity, mutual aid, and emotional support. Indicators 1 and 2 of the SHI (Communal Meal Attendance and Voluntary Labor Participation) measure bonding capital. BRIDGING capital refers to between-group ties — the connections that form across different sub-groups within the community (family units, age cohorts, skill teams, temperament clusters). Bridging capital prevents insularity, distributes information across the community, and generates the broad-based trust that allows collective decision-making. Indicator 4 (Cross-Group Interaction) measures bridging capital. A healthy settlement needs BOTH forms. Strong bonding capital without bridging capital produces cliques that cannot cooperate with each other. Strong bridging capital without bonding capital produces shallow acquaintanceship without the depth needed for mutual aid during crisis.
 
+```text
+    BONDING vs BRIDGING CAPITAL
+
+    Group A          Group B          Group C
+    +------+         +------+         +------+
+    | a--b |         | e--f |         | i--j |
+    | |\/| |         | |\/| |         | |\/| |
+    | c--d |         | g--h |         | k--l |
+    +------+         +------+         +------+
+       \__ BONDING __/  dense          \_ BONDING _/
+           ties within                    ties within
+
+           |              |              |
+           +----BRIDGING--+--BRIDGING----+
+                 sparse ties BETWEEN groups
+
+    HEALTHY = strong bonding (dense intra-group)
+            + strong bridging (cross-group links)
+    FRAGILE = strong bonding, weak bridging --> cliques
+    SHALLOW = weak bonding, strong bridging --> no depth
+```
+
 Putnam's key finding, and the one most relevant to this module, is that social capital is self-reinforcing when present and self-destroying when absent. Trust begets trust: when people experience reliable reciprocity, they extend more trust, which produces more reciprocity. Distrust begets distrust: when people experience betrayal or withdrawal, they withdraw their own participation, which produces further withdrawal in others. This positive feedback loop is why early detection matters so critically. Catching a decline at the Caution level (SHI 15-19) allows recovery through relatively modest interventions — a community discussion, increased communal activities, attention to the weakening indicator. Waiting until the Crisis level (SHI 5-9) means the self-reinforcing distrust cycle has been running for weeks or months, and recovery may require the full Trust Rebuilding Protocol described below.
 
 ### Psychological Safety
@@ -35,6 +57,26 @@ The anonymity of the sentiment check is essential to its validity. If members mu
 Goldstein and Brooks (2007), in their research on community resilience, demonstrated that objective behavioral indicators — attendance rates, participation levels, conflict frequency — detect social deterioration four to eight weeks before subjective perception catches up. This lag is not a failure of perception; it is a fundamental feature of how humans process gradual change. The "boiling frog" metaphor applies directly: a community experiencing slow social cooling does not notice the temperature dropping because each day is only marginally different from the day before. Only measurement, tracked over time, reveals the trend.
 
 This is why the SHI uses primarily BEHAVIORAL indicators (attendance, labor participation, conflict rates) rather than relying solely on attitudinal ones like the sentiment check. Behavior changes first; attitude follows. A person who has stopped attending communal meals may not yet report feeling unsafe or disconnected — they may not even be consciously aware that their behavior has changed. They simply "didn't feel like it" one evening, then another, then several more. By the time they articulate dissatisfaction, the behavioral withdrawal has been ongoing for weeks. The SHI catches the behavioral change while the attitudinal shift is still below conscious awareness.
+
+```text
+    EARLY WARNING DASHBOARD: Behavioral Signals That Predict Fracture
+
+    Signal                    Weeks Before     Detection
+                              Visible Crisis   Method
+    +-----------------------+----------------+------------------+
+    | Meal attendance drops  |   6-8 weeks    | Attendance grid  |
+    | Voluntary labor drops  |   4-6 weeks    | Labor log        |
+    | Seating patterns fix   |   4-6 weeks    | Cross-group obs  |
+    | Jokes/laughter decline |   3-5 weeks    | SHO observation  |
+    | Conflict frequency up  |   2-4 weeks    | Conflict log     |
+    | Sentiment scores drop  |   1-2 weeks    | Anonymous check  |
+    | Open grievance voiced  |   0 weeks      | <-- TOO LATE     |
+    +-----------------------+----------------+------------------+
+         EARLY <-------- detection window --------> LATE
+
+    The SHI catches signals at the TOP of this table.
+    Waiting for signals at the BOTTOM means the crisis is here.
+```
 
 Research on confined communities — Antarctic research stations, submarine crews, space mission simulations (Palinkas et al., 2004; Sandal et al., 2006) — reveals predictable seasonal patterns in social health. Cohesion typically peaks during shared-purpose periods (harvest, building projects, community celebrations) and dips during confinement or scarcity periods (winter, drought, resource shortages). The dip is not a crisis; it is a predictable seasonal pattern. But a community that does not MEASURE its social health cannot distinguish a normal seasonal dip from the beginning of a genuine crisis. The 12-month SHI trend line allows the community to see its own seasonal pattern and respond proactively — increasing communal activities before the predictable winter dip rather than reacting to the crisis after it arrives.
 
@@ -81,6 +123,31 @@ The following sections detail the operational specifics of the SHI system: the f
 ### The Five Core Indicators
 
 The Social Health Index is built from five observable metrics. Each is scored 1-5 monthly, yielding a composite score of 5-25.
+
+```text
+    SHI RADAR CHART: Five Indicator Axes with Threshold Zones
+
+                        Meals (Ind 1)
+                            5
+                           /|\
+                          / | \
+                    4---/--+--\---4
+                   /  /  GREEN \  \        ZONES:
+          Labor   3--+----+----+--3  Cross   GREEN  (4-5) Healthy
+         (Ind 2)  |  | YELLOW  |  | Group    YELLOW (3)   Caution
+                  2--+----+----+--2 (Ind 4)  RED    (1-2) Crisis
+                   \  \  RED  /  /
+                    1---\--+--/---1
+                          \|/
+                           1
+                      Sentiment         Conflict
+                       (Ind 5)          (Ind 3)
+
+    Plot each indicator's monthly score on its axis.
+    Connect the five points to form the community's shape.
+    A large, even pentagon = healthy community.
+    A collapsed or lopsided shape = targeted intervention needed.
+```
 
 **Indicator 1: Communal Meal Attendance Rate**
 
@@ -167,6 +234,27 @@ When the SHI drops to Crisis level (5-9), the community activates the following 
 3. **Identify the two most degraded indicators** and design targeted interventions specific to those indicators. For example: if Communal Meal Attendance and Cross-Group Interaction are both low, institute a "cooking pairs" system where two people from different sub-groups are paired to prepare each communal meal together. If Conflict Frequency is the primary driver, increase the frequency of mediation circles and review the conflict resolution protocols from Module 08.04.
 
 4. **Re-measure after 30 days.** If the SHI has not risen above 9, engage the Conflict Resolution protocols from Module 08.04 at the community level, treating the social health crisis as a systemic conflict requiring structured mediation. At this point the community is dealing with entrenched distrust, and the intervention must match the severity.
+
+```text
+    TRUST REBUILDING PROTOCOL TIMELINE
+
+    RUPTURE         ACKNOWLEDGE       REPAIR           MONITOR        RESTORED
+    (Day 0)         (Days 1-2)        (Days 3-30)      (Days 31-60)   (Day 60+)
+       |                |                 |                 |              |
+    ---X================|=================|=================|==============|-->
+       |                |                 |                 |              |
+       |  Emergency     |  Daily circles  |  Re-measure     |  SHI above   |
+       |  assembly      |  (20 min/day    |  SHI at day 30  |  threshold   |
+       |  within 48hr   |  for 7 days)    |                 |  for 2       |
+       |                |                 |  Targeted       |  consecutive |
+       |  Suspend role  |  "What do you   |  interventions  |  months?     |
+       |  rotations     |  need from this |  on weakest     |              |
+       |                |  community?"    |  indicators     |  YES: resume |
+       |                |                 |                 |  rotations   |
+       |                |                 |  If SHI < 10:   |              |
+       |                |                 |  escalate to    |  NO: repeat  |
+       |                |                 |  Module 08.04   |  from REPAIR |
+```
 
 ### Materials Needed
 

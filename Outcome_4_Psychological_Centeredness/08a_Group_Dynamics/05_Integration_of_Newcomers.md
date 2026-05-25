@@ -10,6 +10,25 @@ The three-phase integration process described in this module (Arrival, Probation
 
 > **SAFE**: All integration protocols are voluntary for the newcomer -- they may leave at any point during any phase. The community does not detain anyone under any circumstances. For situations involving newcomers who pose a physical threat, see Outcome 3 Module 07a.03 (De-escalation and Non-Lethal Deterrence).
 
+```text
+  THREE-PHASE INTEGRATION PATHWAY
+  ================================
+
+  CONTACT PROTOCOL         PROBATION               FULL MEMBERSHIP
+    Days 1-7               Days 8-60                 Day 61+
+  +-----------------+   +---------------------+   +-------------------+
+  | - 3-person meet |   | - Skill assessment  |   | - Consensus vote  |
+  | - Food & water  |-->| - Work team assign  |-->| - Welcome meal    |
+  | - Guest shelter |   | - Charter walkthru  |   | - Rotation roles  |
+  | - Mentor assign |   | - Observer at mtgs  |   | - Memory stone    |
+  | - No obligations|   | - Bi-weekly reports |   | - Steward eligible|
+  +-----------------+   +---------------------+   +-------------------+
+        |                       |                        |
+   Community vote          Can extend               30-day Mentor
+   at Day 7 to             2x (30 days each)        taper period
+   proceed                 Max 120 days total
+```
+
 ---
 
 ## Theoretical Foundation
@@ -20,9 +39,49 @@ The three-phase integration process described in this module (Arrival, Probation
 
 If either dimension is missing, integration fails along predictable lines. Inclusion without distinctiveness produces conformity pressure -- the newcomer feels they must erase their prior identity, generating resentment and identity loss. Distinctiveness without inclusion produces isolation -- the newcomer is valued for their skills but never socially incorporated, remaining a useful stranger indefinitely. The protocol guards against both by deliberately engineering situations that provide both belonging and recognition.
 
+```text
+  BREWER OPTIMAL DISTINCTIVENESS MODEL
+  =====================================
+
+  High  |                         /
+  NEED  |    CONFORMITY          / OPTIMAL
+  FOR   |    PRESSURE           /  ZONE        * <-- Target
+  INCL- |   (identity          /               |
+  USION |    erased)      ____/................|.....
+        |               /     |                |
+  Low   |_____________/       |                |
+        +---------------------+----------------+----->
+        Low                                    High
+                     NEED FOR DISTINCTIVENESS
+
+  Inclusion without distinctiveness = conformity pressure
+  Distinctiveness without inclusion = valued but isolated
+  Protocol provides BOTH via Mentor + skill assessment
+```
+
 **Contact Hypothesis (Allport, 1954; Pettigrew & Tropp, 2006 meta-analysis).** Intergroup prejudice is reduced when contact occurs under four specific conditions: (1) equal status between groups, (2) common goals requiring collaboration, (3) intergroup cooperation rather than competition, and (4) institutional support from authorities or established norms.
 
 The Probation work team creates all four simultaneously. The newcomer works alongside existing members at the same tasks (equal status), toward shared production goals (common goals), as part of a coordinated team (cooperation), with the Mentor and Charter providing structural legitimacy (institutional support). Critically, contact WITHOUT these conditions can actually INCREASE prejudice. Mere proximity -- housing a newcomer near existing members without structured cooperative interaction -- is insufficient and can be counterproductive. The protocol's insistence on structured work team assignment is grounded in this finding.
+
+```text
+  ALLPORT CONTACT HYPOTHESIS: FOUR PILLARS
+  ==========================================
+
+      |  EQUAL    |  COMMON   | COOPER-  | AUTHORITY |
+      |  STATUS   |  GOALS    | ATION    | SUPPORT   |
+      |           |           |          |           |
+      | Newcomer  | Shared    | Work     | Mentor &  |
+      | works     | harvest & | team     | Charter   |
+      | same      | survival  | coordi-  | provide   |
+      | tasks as  | targets   | nation   | legitimacy|
+      | members   |           |          |           |
+      |___________|___________|__________|___________|
+      |                                              |
+      |    ALL FOUR must be present simultaneously   |
+      |    Contact WITHOUT these conditions can      |
+      |    INCREASE prejudice (Pettigrew, 2006)      |
+      |______________________________________________|
+```
 
 **Realistic Group Conflict Theory (Sherif, 1966).** Muzafer Sherif's Robbers Cave experiments demonstrated that competition for scarce resources drives intergroup hostility rapidly and reliably, even between groups with no prior antagonism.
 
@@ -104,6 +163,32 @@ This situation is analogous to integrating a newcomer who shares some but not al
 6. A **Mentor** is assigned. The Mentor is a community member who volunteers or is selected by lot. Selection criteria: patient, socially warm, and not currently serving as a Steward (to avoid conflating integration with governance). The Mentor's role: answer questions, explain routines, accompany the newcomer to meals, and serve as a social bridge. The Mentor is not a guard or a supervisor.
 
 7. At the end of Day 7, the community holds a brief assembly (without the newcomer present) to decide whether to proceed to Phase 2. The decision requires no objection from any member (consensus, not majority vote). If any member has a specific, articulable safety concern, the Guest Period extends by 7 days while the concern is addressed. Vague discomfort is acknowledged but does not block advancement; specific articulable concerns do.
+
+```text
+  NEWCOMER ASSESSMENT DECISION TREE (Day 7 Assembly)
+  ====================================================
+
+  NEWCOMER ARRIVES
+       |
+       v
+  Immediate safety threat? --YES--> De-escalation (07a.03)
+       |NO
+       v
+  7-day Guest Period observed
+       |
+       v
+  Specific safety concern? --YES--> Extend +7 days
+       |                                 |
+       NO                          Resolved? --NO--> REDIRECT
+       |                                |      (dignity + provisions)
+       v                               YES --> Return to consensus
+  Consensus to proceed?
+       |
+       NO (vague discomfort)        YES
+       |                             |
+       v                             v
+  Discuss openly, name fears --> WELCOME to Phase 2
+```
 
 ### Phase 2: Probation (Days 8-60)
 
