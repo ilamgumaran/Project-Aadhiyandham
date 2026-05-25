@@ -37,6 +37,27 @@ The key insight: these patterns work because they match evolved human neurologic
 
 **#179 Alcoves.** Small, partially enclosed spaces within larger rooms. The human need for "prospect and refuge" (Jay Appleton, *The Experience of Landscape*, 1975): the ability to SEE outward (prospect) while being PROTECTED from behind (refuge). Appleton's theory identifies this preference as an evolved survival mechanism — ancestral hominids who could monitor their environment while remaining hidden from predators survived at higher rates. The alcove satisfies this need: it provides enclosure and protection while maintaining visual access to the larger room. When a person sits in a well-designed alcove, their amygdala reduces threat-scanning activity, and parasympathetic tone increases. They can read, think, or rest without the low-level vigilance that open-room seating produces.
 
+```text
+PROSPECT-REFUGE SPACE DESIGN — SECTION VIEW
+
+    REFUGE ZONE                    PROSPECT ZONE
+    ___________
+   |  lower    |     main room       window to
+   |  ceiling  |     ceiling         landscape
+   |  (2.5m)   |     (3.0m)    ___  _________
+   |     ___   |         ___  |   ||         |
+   |    | P |  |        |   | |   || ~trees~ |
+   |    | E |  |  open  |   | |   || ^hills^ |
+   |    | R |  |  to    |   | |   ||         |
+   |    | S |  |  room  |   | |   || VIEW TO |
+   |    | O |  |<------>|   | |   || NATURE  |
+   |____|_N_|__|        |___| |___||_________|
+   solid wall   1.2m    bench sill   deep
+   on 3 sides   opening       0.6m   reveal
+       ^            ^                    ^
+   REFUGE        TRANSITION          PROSPECT
+```
+
 **#128 Indoor Sunlight.** Direct sunlight should enter every habitable room for at least one hour per day. Sunlight is the primary zeitgeber (time-giver) for the circadian clock. The suprachiasmatic nucleus (SCN) in the hypothalamus uses light information — particularly the blue wavelengths abundant in direct sunlight — to synchronize the body's 24-hour cycle. Without direct sunlight exposure, the SCN drifts from the solar cycle, disrupting sleep onset, hormone regulation (melatonin, cortisol, growth hormone), and mood. No artificial light source replicates the intensity and spectral content of direct sunlight. A room that never receives direct sun is a room that undermines its occupant's circadian rhythm regardless of how well lit it appears.
 
 **#134 Zen View.** Not every window should frame a view. Some windows should reveal a view only when the occupant moves to a specific position — creating a moment of visual surprise that activates the brain's novelty and reward circuitry. A constant panoramic view habituates within days, becoming neurologically invisible. A Zen View — a small window that reveals a garden, a distant hill, or a patch of sky only when you stand at a particular spot — retains its capacity to produce a dopaminergic reward response because it requires voluntary action and delivers intermittent novelty. Place at least one such window in every building.
@@ -55,11 +76,51 @@ Richard Taylor at the University of Oregon discovered "fractal fluency" in the 2
 
 The practical implication is direct: settlement buildings should use NATURAL materials with their inherent texture variation — rough-sawn wood, split stone, rammed earth, woven thatch, hand-thrown plaster — rather than processed uniform materials. The natural texture variation IS the therapeutic element. Do not sand it smooth. Do not paint it uniform. The fractal complexity of a hand-adzed timber beam is a neurological resource that a machined beam does not provide.
 
+```text
+BIOPHILIC DESIGN ELEMENTS IN A DWELLING — FLOOR PLAN
+              NORTH
+  ~~~~~~~~~~~~~~~~~~~~~~~~~~    <-- LIVING ROOF (moss, sedum)
+  |  COURTYARD GARDEN      |
+  |  +~~~+ water  +~~~+    |   plt = potted plants / raised beds
+  |  |plt| channel |plt|   |   ~ ~ = gravity-fed water channel
+  +====+===============+===+
+  |    |               |   |
+  | W  |  MAIN ROOM    | W |   W = window (deep reveal, views
+  | I  |               | I |       to courtyard garden)
+  | N  | [timber beam] | N |
+  | D  | [stone floor] | D |   Natural materials throughout:
+  | O  | [earth walls] | O |     rough-sawn timber ceiling
+  | W  |  ~hearth~     | W |     split stone floor zones
+  +====+==+========+===+===+     rammed earth walls (0.4m)
+          | ~ENTRY~|
+          +--------+
+             SOUTH
+```
+
 ---
 
 ## Core Principles
 
 1. **The Light Principle.** Every habitable room receives natural light from at least two directions. Direct sunlight enters for a minimum of one hour per day. Artificial lighting (oil lamps, candles, firelight) supplements but never replaces daylight. Windows are sized and positioned for the building's latitude and orientation. No habitable room relies on a single light source or a single direction of illumination.
+
+```text
+CIRCADIAN LIGHTING — DAILY LIGHT PATH THROUGH A ROOM
+
+  DAWN (6-8am)          MIDDAY (11am-1pm)       EVENING (5-7pm)
+  East window           South clerestory         Firelight only
+
+  E window    S wall    E wall    S window    E wall    S wall
+  |==|___     __|__     __|__     |==|        __|__     __|__
+  |//|   |   |     |   |     |   |//|   |   |     |   |     |
+  |//| . |   |     |   |     |   |//| . |   |     |   |  *  |
+  |//|. .|   |     |   |  .  |   |  |. .|   |     |   | *~* |
+  |//|. . |  |     |   | . . |   |  | . |   |     |   |*~F~*|
+  |__|____|  |_____|   |_____|   |__|___|   |_____|   |_____|
+
+  // = sunbeam          // = overhead beam   *~F~* = hearth
+  Blue-rich (6500K)     Full-spectrum         Warm amber (1800K)
+  Resets SCN clock      Supports alertness    Permits melatonin
+```
 
 2. **The Prospect-Refuge Principle.** Every gathering space includes alcoves or partially enclosed niches where individuals can observe the room while feeling protected. Every workspace has a view to the outside. No one sits with their back to an open doorway — this position activates low-level threat vigilance that degrades concentration and raises baseline cortisol. Arrange seating so that every occupant can see the room's entrance from their position.
 
@@ -114,6 +175,27 @@ The practical implication is direct: settlement buildings should use NATURAL mat
 - For sleeping quarters adjacent to any social space, add a 0.1m air gap between double-wall construction to achieve STC 50+
 - Dense hedgerow plantings (hawthorn, holly, mixed native species) at 3-5m width provide both acoustic buffering and biophilic benefit between building zones
 - Water features (gravity-fed channels, small cascades) positioned near living spaces provide acoustic masking of residual low-frequency noise while adding direct biophilic elements
+
+```text
+THERAPEUTIC GARDEN LAYOUT — SENSORY ZONES
+                  NORTH (shaded, cool)
+       +------------------------------------+
+       |          TEXTURE ZONE              |
+       |  [moss] [bark] [smooth stone]      |
+       |  barefoot path, varied surfaces    |
+  +----+------+------------------+----------+----+
+  |  COLOR    |  CENTRAL         |  FRAGRANCE    |
+  |  ZONE     |  CLEARING        |  ZONE         |
+  | marigold  |                  |  lavender     |
+  | foxglove  |  bench (prospect |  rosemary     |
+  | echinacea |  position)       |  chamomile    |
+  +----+------+--------+---------+----------+----+
+       |        SOUND ZONE                  |
+       |  ~ ~ ~ water channel ~ ~ ~        |
+       |  [rustling grasses] [wind chime]   |
+       +------------------------------------+
+                  SOUTH (sun-facing entry)
+```
 
 ### The Sensory Audit Protocol
 

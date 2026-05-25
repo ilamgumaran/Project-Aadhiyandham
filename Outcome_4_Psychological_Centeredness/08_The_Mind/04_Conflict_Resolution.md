@@ -12,6 +12,18 @@ more than 100 intentional communities (*Living in Utopia*, 2004) found that inte
 conflict, not resource scarcity, caused more than 70% of community failures. The settlements
 that survived were not conflict-free. They had BETTER CONFLICT RESOLUTION PROTOCOLS.
 
+```text
+  CONFLICT ESCALATION STAIRCASE (with intervention points)
+
+  Level 5 ──► RUPTURE        ◄── Council intervention (structural)
+  Level 4 ──► CRISIS         ◄── Extended cooling-off (48h+)
+  Level 3 ──► HOSTILITY      ◄── Mandatory cooling-off (24h)
+  Level 2 ──► ARGUMENT       ◄── Active mirroring + E-Prime
+  Level 1 ──► DISAGREEMENT   ◄── Weekly check-in surfaces it
+  ─────────── BASELINE ───────── Preventive infrastructure
+              (shared meals, role rotation, celebration)
+```
+
 The distinction matters enormously. A community that views conflict as failure will suppress
 it, driving grievances underground where they ferment into resentment, passive aggression,
 and eventual rupture. A community that views conflict as signal — as useful information about
@@ -152,6 +164,26 @@ The protocols in this module directly counter each horseman:
   scheduled resumption, converting withdrawal from abandonment into a defined process with a
   clear return date.
 
+```text
+  THOMAS-KILMANN CONFLICT MODES
+
+  High  │ COMPETING         │      COLLABORATING
+  A     │ (I win, you lose) │      (We both win)
+  s     │  Win-Lose         │       Win-Win
+  s     ├───────────────────┼──────────────────
+  e     │        COMPROMISING
+  r     │      (Split the difference)
+  t     ├───────────────────┼──────────────────
+  i     │ AVOIDING          │      ACCOMMODATING
+  v     │ (I withdraw)      │      (You win, I yield)
+  e     │  Lose-Lose        │       Lose-Win
+  n     └───────────────────┴──────────────────
+  e     Low         Cooperativeness         High
+  s
+  s  Settlement optimal: Collaborating → Compromising
+     (time-pressured) → Accommodating (low-stakes)
+```
+
 ### Game Theory: Cooperation Under Repeated Interaction
 
 Robert Axelrod's *The Evolution of Cooperation* (1984) demonstrated through tournament
@@ -265,6 +297,30 @@ No one sits at a "head" position. All participants remain equidistant from cente
 light enters from two sides. No audience beyond the participants listed above. The space must
 feel contained and private — the knowledge that others can overhear inhibits honesty.
 
+```text
+  RESTORATIVE JUSTICE CIRCLE — Seating Layout
+
+                  Facilitator 1
+                 (lead, opens/closes)
+                      [F1]
+                     /    \
+              [CM2]        [CM1]
+           Community      Community
+            Member         Member
+              |                |
+           [PARTY B]      [PARTY A]
+          Responsible       Harmed
+            Party           Party
+              \              /
+               [F3] ── [F2]
+            Facilitator  Facilitator
+                3            2
+
+  Speaking order: F1 opens → Party A speaks →
+  Party B mirrors → Party B speaks → Party A mirrors
+  → Community input → F1/F2/F3 summarize harms
+```
+
 **The Seven-Step Process**:
 
 1. **Opening**: The lead facilitator states the purpose: "We gather to understand what
@@ -329,6 +385,27 @@ If the repair has not been fulfilled at either check-in, the facilitators conven
 follow-up mediation to understand why and adjust the agreement. Upon closure, the
 facilitators destroy their notes — no permanent record of resolved disputes exists, because
 a permanent record transforms mediation from a healing process into a surveillance mechanism.
+
+```text
+  MEDIATION PROCESS FLOWCHART
+
+  CONFLICT ──► COOLING-OFF ──► INTAKE (separate contact)
+  TRIGGER      (24-48h)              │
+                          ┌──────────┴──────────┐
+                          ▼                     ▼
+                    SEPARATE SESSION A    SEPARATE SESSION B
+                    (confirm readiness)   (confirm readiness)
+                          └──────────┬──────────┘
+                                     ▼
+                           JOINT SESSION (7-step mediation)
+                                     │
+                                     ▼
+                    REPAIR AGREEMENT (specific, bounded,
+                                  observable, agreed)
+                                     │
+                          7-DAY ──► 30-DAY ──► CLOSURE
+                         CHECK-IN  CHECK-IN  (notes destroyed)
+```
 
 ### Dismantling Hierarchy: The Apprenticeship Mandate
 

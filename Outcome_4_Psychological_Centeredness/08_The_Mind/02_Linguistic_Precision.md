@@ -38,6 +38,27 @@ S.I. Hayakawa extended Korzybski's work into practical communication theory in *
 
 E-Prime forces language DOWN the ladder toward sensory experience, where statements can be verified, discussed, and refined through observation rather than argued about as matters of abstract principle. In a settlement context, this ladder has practical significance: a logbook entry at the bottom of the ladder ("the pump handle required 15 additional strokes to fill one bucket this morning") provides actionable maintenance information, while an entry at the top ("the pump is failing") provides only anxiety.
 
+```text
+  COMMUNICATION CLARITY SPECTRUM (Abstraction Ladder Applied)
+
+  AMBIGUOUS          IMPRECISE          PRECISE            ACTIONABLE
+  ─────────────────────────────────────────────────────────────────►
+  High abstraction                                    Low abstraction
+
+  "Things look       "The water          "The filter flow   "Replace the
+   bad."              system has          rate dropped to    charcoal layer
+                      problems."          1.8 L/hr from      in filter #3
+                                          the normal 6       and flush with
+                                          L/hr this          10 L clean
+                                          morning."          water before
+                                                             next use."
+
+  ◄── Generates       ◄── Generates      ── Enables ──►    ── Enables ──►
+      anxiety              confusion         discussion        resolution
+
+  E-Prime drives language rightward along this spectrum.
+```
+
 ### The Neurolinguistic Mechanism
 
 When someone says "You ARE lazy," the listener's Default Mode Network (DMN) activates self-referential processing. The brain processes the statement as an attack on IDENTITY — not as information about behavior, not as a practical concern, but as a threat to the listener's fundamental sense of self.
@@ -51,6 +72,29 @@ E-Prime reformulations keep communication in the TPN domain. "I noticed the fire
 Benjamin Lee Whorf and Edward Sapir proposed the linguistic relativity hypothesis (1929-1941): the structure of a language influences the habitual thought patterns of its speakers. While the "strong" version of this hypothesis — that language rigidly determines thought — lacks robust empirical support, the "weak" version — that language INFLUENCES habitual thought patterns — has accumulated substantial evidence across decades of cognitive science research.
 
 E-Prime functions as a practical application of weak linguistic relativity: by changing habitual language patterns, you change habitual thought patterns. A person who spends eight weeks reformulating "I AM a failure" into "I did not succeed at that task today" begins to THINK about setbacks differently — as specific, temporary, and actionable rather than as permanent identity verdicts.
+
+```text
+  SAPIR-WHORF FEEDBACK LOOP (Weak Linguistic Relativity)
+
+       ┌─────────────┐
+       │  LANGUAGE    │──── shapes ────►┌──────────────┐
+       │  STRUCTURE   │                 │   HABITUAL   │
+       │              │◄── reinforces ──│   THOUGHT    │
+       └──────┬───────┘                 └──────┬───────┘
+              │                                │
+         constrains                        filters
+              │                                │
+       ┌──────▼───────┐                 ┌──────▼───────┐
+       │ EXPRESSION   │                 │  PERCEPTION  │
+       │              │◄── selects ─────│  of events   │
+       └──────────────┘                 └──────────────┘
+
+  "to be" loop:  "He IS lazy" ► fixed-trait thinking ►
+                 sees only laziness ► "He IS STILL lazy"
+
+  E-Prime loop:  "He rested today" ► situational thinking ►
+                 sees context and change ► "He worked today"
+```
 
 ### The Conflict Escalation Mechanism
 
@@ -151,6 +195,28 @@ Technical E-Prime produces more useful information because it forces the reporte
 **3. Conflict Mediation**: All formal mediation (see Module 04) requires strict E-Prime. The mediator enforces E-Prime by pausing any speaker who uses "to be" and asking them to reformulate.
 
 This practice does not serve pedantic purposes — it functions as neurological intervention. Every "to be" construction in a conflict setting risks triggering the DMN defensive cascade that prevents resolution. The mediator's role includes maintaining the linguistic environment that keeps both parties' TPNs active and available for problem-solving. When a mediator hears "He IS a liar," the mediator pauses the speaker and asks: "Can you describe the specific situation where you observed a discrepancy between what he said and what happened?" This redirects the speaker from identity attack to factual narration.
+
+```text
+  DECISION-MAKING LANGUAGE PROTOCOL (Emergency Disambiguation)
+
+  Ambiguous term      Precise alternatives (context-tagged)
+  ──────────────────────────────────────────────────────────
+  "Fire!"         ──► "COOKING FIRE needs fuel"       [routine]
+                  ──► "STRUCTURE FIRE at south wall"   [emergency]
+                  ──► "FIRE the kiln now"              [instruction]
+
+  "The water      ──► "Creek level dropped 10 cm"     [observation]
+   problem"       ──► "Filter #2 output halved"       [maintenance]
+                  ──► "Contamination detected at well" [health alert]
+
+  "It broke"      ──► "Axle cracked on the cart"      [repair task]
+                  ──► "Levy wall breached at NE"       [flood risk]
+
+  PROTOCOL: Speaker states OBJECT + VERB + MEASUREMENT + URGENCY
+            Listener confirms by restating in E-Prime
+            Ambiguous calls trigger immediate clarification request
+            Mediator logs the precise term used for the record
+```
 
 **4. Self-Talk**: The most powerful and most difficult application. Internal monologue — "I AM a failure," "Everything IS terrible," "I AM not good enough" — drives anxiety and depression through the same DMN mechanism as interpersonal identity attacks, except the attacker and defender occupy the same brain.
 

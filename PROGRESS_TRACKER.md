@@ -115,9 +115,9 @@
 
 ### 08 The Mind
 - [I] `01_Rationale_and_Importance.md`
-- [T] `02_Linguistic_Precision.md`
-- [T] `03_Restorative_Architecture.md`
-- [T] `04_Conflict_Resolution.md`
+- [I] `02_Linguistic_Precision.md`
+- [I] `03_Restorative_Architecture.md`
+- [I] `04_Conflict_Resolution.md`
 - [T] `05_Mental_Illness_and_Compassionate_Care.md`
 
 ### 08a Group Dynamics
@@ -270,3 +270,4 @@
 | P2-22 | 2026-05-13 | 07a.01, 07a.02, 07a.03 | **BEGIN SECTION 07a: Active Threat Response.** Threat Rationale (4 new: response time passive buffer 5-15min, threat assessment decision tree 6 contact types, force escalation 5-level ladder with decision gates, ROE authorized/not-authorized flowchart; 434→515 lines), Nightwatch & Rotation (3 new + 2 existing: 24hr watch cycle with sleep debt tracking, night vision rhodopsin 0-30min adaptation, randomized patrol route with dead-ground loops; 285→361 lines), De-escalation & Non-Lethal (3 new + 1 existing: body language 45° stance open palms 3-5m gap, contact team 5-position spatial layout, non-lethal deterrence layered by range 5km-100m; 324→408 lines). |
 | P2-23 | 2026-05-13 | 07a.04, 07b.01, 07b.02 | Emergency Lockdown (3 new + 2 existing: alert cascade horn→runner→sector leaders, hardened Safe Core cross-section with escape tunnel, lockdown zone map rally points + fields of fire; 282→358 lines). **SECTION 07a COMPLETE — 4/4 at [I]. BEGIN SECTION 07b: Animal Coexistence.** Animal Coexistence Rationale (4 new: human-wildlife conflict spectrum coexistence→elimination, settlement-wildlife interaction 4-zone concentric, lethal vs non-lethal 10-year cost-benefit, seasonal conflict calendar 6 species; 190→273 lines), Large Predator Management (3 new + 2 existing: layered deterrent perimeter fladry→guardian, livestock night enclosure top-down with lighting, predator encounter decision tree species-specific; 325→404 lines). |
 | P2-24 | 2026-05-25 | 07b.03, 07b.04, 08.01 | Crop Raider Defense (3 new + 1 existing: multi-layer crop protection perimeter concentric zones, deer exclusion fence 2.4m cross-section with angled outrigger, trap crop/buffer strip spatial layout; 305→372 lines), Livestock Guardian Systems (4 new: guardian deployment map LGD/donkey/llama positions, LGD bonding timeline birth→12mo critical windows, multi-species sequential response chain, night vs day positioning shift; 289→392 lines). **SECTION 07b COMPLETE — 4/4 at [I]. OUTCOME 3 COMPLETE — 14/14 at [I]. BEGIN OUTCOME 4: Psychological Centeredness.** The Mind Rationale (4 new: post-collapse Maslow hierarchy simultaneous needs, stress-resilience buffer model community/purpose/routine, cognitive load decision fatigue vs routine, psychological first aid 3-phase timeline; 298→394 lines). |
+| P2-25 | 2026-05-25 | 08.02, 08.03, 08.04 | Linguistic Precision (3 new + 1 existing: communication clarity spectrum ambiguous→actionable, Sapir-Whorf feedback loop language→thought→perception, decision-making language protocol emergency disambiguation; 290→356 lines), Restorative Architecture (4 new: prospect-refuge space section view alcove/window, biophilic design floor plan courtyard/living roof, circadian lighting 3-stage dawn→midday→evening, therapeutic garden 4-zone sensory layout; 328→410 lines), Conflict Resolution (4 new: conflict escalation 5-level staircase with de-escalation points, Thomas-Kilmann 5-mode assertiveness×cooperativeness, restorative justice circle seating/speaking order, mediation process 8-step flowchart; 512→589 lines). |
