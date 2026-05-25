@@ -111,6 +111,33 @@ Different predators respond to guardian animals through different behavioral mec
 | Large cats | MODERATE (breaks ambush) | LOW | LOW | NONE |
 | Raptors (poultry) | LOW | NONE | NONE | ALARM |
 
+```text
+           GUARDIAN DEPLOYMENT MAP — Positioning by Species
+    ================================================================
+
+         Predator Approach Vectors
+         ~~~~~~~~~~~~~~~~~~~~~~~~
+    WOLF PACK -->  [N]                    COUGAR -->  [E]
+                    |                                  |
+         +----------+----------------------------------+----------+
+         |  LGD #1  |        PASTURE (3 ha)           |  LGD #2  |
+         | (patrol) |                                  | (patrol) |
+         |  route   |     +---------------------+     |  route   |
+         |    |     |     |   FLOCK CENTER      |     |    |     |
+         |    v     |     |   ~60 sheep/goats   |     |    v     |
+         |          |     +---------------------+     |          |
+         |          |            DONKEY                |          |
+         |          |         (static edge,           |          |
+         |          |          facing south)           |          |
+         +----------+----------------------------------+----------+
+                                  |
+    COYOTE -->  [S]         LLAMA (alert post, south edge)
+
+    KEY: LGDs = mobile patrol (full perimeter circuit every 20-40 min)
+         Donkey = static sentinel (flock edge, anti-canid aggression)
+         Llama  = alert post (vocal alarm, chase small predators)
+```
+
 ### The LGD Bonding Protocol
 
 Guardian animals must bond to the livestock they protect, not to humans. This is the most critical and time-consuming step in the entire guardian system. There are no shortcuts.
@@ -136,6 +163,31 @@ Guardian animals must bond to the livestock they protect, not to humans. This is
 - **Weeks 8-16:** Puppy establishes a preferred resting territory within the enclosure. Begins vocalizing (barking) at disturbances — passing wildlife, unusual sounds, unfamiliar humans approaching the fence.
 - **Months 4-6:** Adolescent begins patrol behavior — walking the enclosure perimeter, particularly at dusk and dawn. May begin sleeping at the enclosure edge rather than the center.
 - **Months 6-12:** Full guardian behavior emerges. The dog positions between flock and disturbances, barks directionally at perceived threats, and moves the flock away from the threat by circling to the far side.
+
+```text
+     LGD BONDING TIMELINE — Critical Developmental Windows
+    =========================================================
+
+    Birth         8 wks        16 wks       6 mo        12 mo
+      |_____________|______________|__________|___________|
+      |             |              |          |           |
+      | With dam &  | CRITICAL     | Adolescent| Adult    |
+      | littermates | BONDING      | Testing   | Reliable |
+      |             | WINDOW       | Phase     | Guardian |
+      |             |              |          |           |
+      | (breeder's  | Place with   | First    | Full     |
+      |  facility)  | livestock    | patrols, | position-|
+      |             | IMMEDIATELY  | barking, | ing and  |
+      |             |              | perimeter| confront-|
+      |             |              | walking  | ation    |
+      |_____________|______________|__________|___________|
+                    ^                         ^
+              ACQUIRE HERE            EVALUATE HERE
+              (do not delay)          (pass/fail decision)
+
+    RISK: Each week past 12 wks without livestock = 15% drop in
+          bonding success probability. By 20 wks = near zero.
+```
 
 **Human Interaction Guidelines During Bonding:**
 
@@ -171,6 +223,30 @@ If these behaviors persist past month 8, the individual is not guardian material
 - It positions itself between the flock and unknown sounds or approaching animals.
 - It moves when the flock moves, maintaining its edge position rather than staying in a preferred grazing spot.
 
+```text
+     MULTI-SPECIES GUARDIAN TEAM — Complementary Roles
+    =====================================================
+
+    THREAT DETECTED (coyote pair approaching from east)
+         |
+         v
+    [LLAMA] -----> ALARM (loud vocalization, head high, ears forward)
+         |              alerts flock + other guardians + humans
+         v
+    [DONKEY] ----> CHARGE (sprints toward canids, ears flat, teeth bared)
+         |              kicks, bites, stomps — lethal to coyote-sized
+         v
+    [LGD #1] ---> PATROL/CHASE (pursues fleeing predators to perimeter)
+         |              ensures predators leave the entire zone
+         v
+    [LGD #2] ---> FLOCK GUARD (stays WITH flock during incident)
+                        prevents secondary attack from opposite side
+
+    COVERAGE: Llama = early warning (300m detection radius)
+              Donkey = close defense (aggressive within 50m)
+              LGD   = full spectrum (detect, deter, pursue, confront)
+```
+
 **Donkey-Specific Hazards:** Donkeys will attack and kill small dogs, foxes, and cats that enter their enclosure. This is the same instinctive anti-canine aggression that makes them effective guardian animals — they do not distinguish between a coyote and a border collie. If the settlement uses working dogs for herding, the donkey enclosure must be completely separated from the dogs' working area. Introduce herding dogs to the donkey under controlled conditions (handler present, dog on lead) if the two must share any space. Cats should not enter donkey enclosures.
 
 ### Integration with Passive Defense
@@ -200,6 +276,33 @@ The guardian animal extends the passive perimeter into the livestock enclosure i
 ```
 
 The guardian animal provides the immediate response layer: detection within seconds, deterrence within the enclosure boundary, confrontation at the point of attack. The human nightwatch provides the cognitive assessment layer: evaluating the threat, deciding whether to intervene, deploying tools (fire, noise, weapons) if the guardian is overwhelmed. The passive perimeter reduces the frequency of encounters by making approach difficult and costly for predators. Together, these three layers — passive barrier, guardian animal, human response — cover the full spectrum from deterrence to detection to confrontation.
+
+```text
+     NIGHT vs DAY GUARDIAN POSITIONING SHIFT
+    ============================================
+
+    DAYTIME (06:00 - 18:00)              NIGHTTIME (18:00 - 06:00)
+    Low predator risk                    High predator risk
+
+    +------------------+                 +------------------+
+    |                  |                 |  LGD             |
+    |   Flock grazing  |                 |  (perimeter      |
+    |   (spread out)   |                 |   continuous     |
+    |                  |                 |   patrol) -----> |
+    |      LGD         |                 |                  |
+    |   (resting near  |                 |   Flock (tight   |
+    |    flock center) |                 |   cluster, night |
+    |                  |                 |   bedding area)  |
+    |   Donkey         |                 |                  |
+    |   (grazing with  |                 |   Donkey (awake, |
+    |    flock)        |                 |   edge position, |
+    |                  |                 |   facing out)    |
+    +------------------+                 +------------------+
+
+    SHIFT TRIGGER: LGD activity increases at dusk (18:00)
+    as flock tightens. Patrol frequency: every 20-40 min.
+    Barking intensity peaks 22:00-04:00 (predator prime time).
+```
 
 ### Guardian Health and Maintenance
 

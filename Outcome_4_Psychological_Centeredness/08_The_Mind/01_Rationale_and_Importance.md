@@ -6,6 +6,29 @@ A civilization's sustainability is ultimately determined not by its physical inf
 
 It addresses this by establishing psychological centeredness — the Centered Null — as a foundational infrastructure component, as essential as water filtration or food preservation.
 
+```text
+    POST-COLLAPSE HIERARCHY OF NEEDS (Adapted Maslow)
+    ===================================================
+         /\
+        /  \        SELF-TRANSCENDENCE
+       / 5  \       Purpose, legacy, teaching
+      /------\
+     /   4    \     PSYCHOLOGICAL CENTEREDNESS
+    /  Centered \   (Centered Null, E-Prime, community)
+   /----Null-----\
+  /      3        \  BELONGING & SOCIAL TRUST
+ / Shared meals,   \ Conflict resolution, Dunbar group
+/-------------------\
+|        2          | SAFETY & PREDICTABILITY
+| Perimeter, routine| Daily rhythm, acoustic sovereignty
+|-------------------|
+|        1          | BIOLOGICAL SURVIVAL
+| Water, food, air  | Shelter, sanitation, warmth
++-------------------+
+  NOTE: Levels 1-4 must be addressed SIMULTANEOUSLY
+  in post-collapse — not sequentially as Maslow implied.
+```
+
 The Centered Null is not passive contentment, nor is it the suppression of ambition or the denial of difficulty. It is an ACTIVE cognitive state characterized by four interlocking capacities:
 
 - **(a)** Present-moment awareness, which reduces anxiety about the future by anchoring attention in the current task and sensory environment.
@@ -89,6 +112,29 @@ Temporal sovereignty means reclaiming the subjective experience of time by restr
 **Second, the alignment of activity rhythms with natural cycles.** The solar day structures waking and sleeping. The lunar month provides a natural unit for longer projects. The seasonal year organizes planting, harvesting, building, and rest. These cycles are non-arbitrary — they emerge from the physical world rather than from institutional requirements — and they provide temporal structure without temporal pressure.
 
 **Third, the practice of the "Eternal Present."** This is not a metaphysical concept but a cognitive practice: attending to the current task rather than the next one. When splitting firewood, attend to the wood, the axe, the grain, the strike. When cooking, attend to the heat, the smell, the texture, the timing. This practice directly engages the TPN and suppresses the DMN's future-simulation function, producing the neurological state in which time pressure dissolves — not because the future does not exist, but because attention is allocated to the present.
+
+```text
+    COGNITIVE LOAD & DECISION FATIGUE IN SURVIVAL
+    ================================================
+    Without routine:            With ritual/routine:
+
+    DAWN                        DAWN
+    |-- What to eat?            |-- [auto] dawn observation
+    |-- Who works where?        |-- [auto] morning work teams
+    |-- Check water? Food?      |-- [auto] task rotation
+    |-- Resolve yesterday's     |
+    |   argument?               MIDDAY
+    |-- Plan for weather?       |-- [auto] communal meal
+    |-- ...                     |-- [auto] afternoon variety
+    |                           |
+    v  DECISION FATIGUE         DUSK
+    [Depleted by midday]        |-- [auto] E-Prime circle
+    [Poor choices follow]       |-- [auto] evening community
+    [Conflict escalates]        |
+                                v  COGNITIVE LOAD: LOW
+                                [Capacity preserved for
+                                 genuine novel decisions]
+```
 
 **Historical models** demonstrate that temporal sovereignty is not utopian fantasy.
 
@@ -229,6 +275,35 @@ The most common underlying cause is unmet basic needs — food scarcity, water p
 
    *Prevention:* Outcome 4 practices are maintained DURING crises, not suspended for them. Even 10 minutes of structured practice per day (a shortened dawn observation, a brief E-Prime check-in at dusk) prevents complete psychological degradation and preserves the cooperative capacity the community needs to survive the crisis.
 
+```text
+    STRESS-RESILIENCE BUFFER MODEL
+    ===============================
+    TRAUMA / STRESSOR INPUT
+           |
+           v
+    +------+------+     Without buffers:
+    | RAW STRESS  |     stress -> PTSD, collapse
+    +------+------+
+           |
+     ======|====== BUFFER LAYER =================
+     |     v                                    |
+     | +---------+  +---------+  +-----------+ |
+     | |COMMUNITY|  | PURPOSE |  |  ROUTINE  | |
+     | | shared  |  | meaning |  | daily     | |
+     | | meals,  |  | skilled |  | rhythm,   | |
+     | | trust,  |  | labor,  |  | dawn obs, | |
+     | | grief   |  | legacy  |  | dusk      | |
+     | | circles |  | tasks   |  | circle    | |
+     | +---------+  +---------+  +-----------+ |
+     ============================================
+           |
+           v
+    +------+------+
+    | MANAGEABLE  |  Centered Null preserved
+    | EXPERIENCE  |  Cooperative capacity intact
+    +-------------+
+```
+
 2. **Intellectual Without Practice**: The community reads this module, understands the neuroscience, agrees with the principles, and then does not practice daily. Understanding the DMN-TPN balance intellectually does not produce the DMN-TPN balance neurologically, any more than understanding nutrition intellectually produces a healthy body. Without daily practice, the psychological state degrades to the default anxiety and competition that industrial socialization installed.
 
    *Prevention:* Practice is built into the daily schedule as ROUTINE — the dawn observation, the dusk reflection circle, the communal meal — not as optional enrichment that individuals pursue when motivated.
@@ -240,6 +315,27 @@ The most common underlying cause is unmet basic needs — food scarcity, water p
 4. **Grief and Trauma Accumulation**: Over years and decades, deaths, injuries, losses, and failures accumulate. If each loss is met with stoicism rather than processing — if the community culture equates emotional expression with weakness — unprocessed grief deposits like sediment, gradually raising the baseline anxiety level and reducing the community's capacity for joy, trust, and cooperation.
 
    *Prevention:* Module 05 provides structured grief processing protocols. Every death, every major injury, every significant loss receives community acknowledgment and structured processing time. Grief expressed and shared is grief that heals. Grief suppressed and isolated is grief that corrodes.
+
+```text
+    PSYCHOLOGICAL FIRST AID TIMELINE
+    ==================================
+    ACUTE (0-48 hrs)       SHORT-TERM (2-4 wks)    LONG-TERM (months)
+    ----------------       --------------------    ------------------
+    | Safety first   |     | Grief circles     |  | Narrative       |
+    | Physical needs |     | Daily check-ins   |  |   integration   |
+    | Reduce chaos   |     | Restore routine   |  | Role adaptation |
+    | Human contact  |     | E-Prime processing|  | Memorial ritual |
+    | Silent presence|     | Workload reduction|  | New meaning-    |
+    | No forced talk |     | Peer support pairs|  |   making        |
+    |________________|     |____________________|  |_________________|
+          |                        |                       |
+          v                        v                       v
+    GOAL: Stabilize         GOAL: Process &         GOAL: Integrate
+    nervous system          prevent avoidance       loss into identity
+    
+    Refer to Module 05 if: dissociation persists, self-harm risk,
+    inability to function after 4 weeks, or psychotic symptoms emerge.
+```
 
 5. **Nostalgia Trap**: Community members fixate on "how things were before" — the comforts, technologies, social structures, and opportunities of the pre-settlement world. This chronic comparison between an idealized past and a difficult present produces dissatisfaction that the Centered Null cannot overcome, because the Centered Null requires engagement with the present, and nostalgia is by definition a refusal of the present.
 

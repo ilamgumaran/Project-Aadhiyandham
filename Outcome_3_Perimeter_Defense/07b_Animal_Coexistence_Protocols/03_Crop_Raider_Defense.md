@@ -31,6 +31,24 @@ Crop raiding causes more cumulative food loss in a rural settlement than any pre
 
 Defense against crop raiders must be LAYERED. Physical barriers form the foundation — a fence is always a fence, and it does not lose effectiveness over time. Sensory deterrents (chemical, visual, acoustic) form the second line, exploiting the animal's caution around unfamiliar stimuli. Strategic planting forms the third line, redirecting raider attention away from the core garden and toward sacrificial alternatives. No single method is sufficient on its own, because every non-physical deterrent habituates. Scarecrows stop working in a week. Reflective tape loses its novelty in a month. Chili paste washes off in rain. The layered approach ensures that when one method weakens through habituation or weather, the others continue to protect. The rotation of deterrent types and positions across the growing season keeps the system unpredictable.
 
+```text
+   [Multi-Layer Crop Protection Perimeter — Concentric Zones]
+
+   Distance from garden center:
+
+   0-15m    ║ CORE GARDEN ║  Physical fence + bird lines
+            ║             ║  (never habituates)
+   15-20m   ├─────────────┤  Aromatic herb belt (scent masking)
+   20-25m   │ SCARECROW   │  Visual/acoustic deterrent zone
+            │ ZONE        │  (rotated every 2-3 weeks)
+   25-35m   │─ ─ ─ ─ ─ ─ │  Noise deterrents (tin cans, shishi-odoshi)
+            │             │  Chemical deterrents (blood meal, urine)
+   35-45m   │ ░░░░░░░░░░░ │  Sacrificial buffer strip
+            │ ░ TRAP CROP ░│  (draws raiders before they reach fence)
+   45m+     └─────────────┘  Wild landscape / forest edge
+            ← raiders approach from here
+```
+
 The goal of this module is to reduce annual crop loss to wildlife to under 10% without lethal methods. Zero percent loss is neither achievable nor desirable — it requires poisons and traps that damage the broader food web, killing the pollinators, pest-eating birds, and soil organisms that the garden depends on. A 5-10% loss to wildlife is the cost of coexisting with the ecosystem that sustains the settlement's food production.
 
 > **SAFE**: All crop defense techniques in this module are non-lethal and environmentally benign. Chili-fat paste may cause temporary skin and eye irritation during preparation — wear gloves and avoid touching face. Wash hands thoroughly after handling capsaicin materials.
@@ -131,6 +149,30 @@ Physical barriers are the only defenses that never habituate. Build them first, 
 - **Angled fence:** A single fence angled outward at 45 degrees from the garden side. Deer cannot accurately judge the jump height of an angled surface and refuse to attempt it. Effective at only 1.5 m height when angled — significantly less material than a vertical 2.2 m fence.
 - **Maintenance:** Inspect weekly. Deer test fences by pushing with their chest before jumping. Repair any loose panel or leaning post immediately.
 
+```text
+   [Deer Exclusion Fence — Cross-Section Detail]
+
+        ←── 45° angled outrigger (smooth material)
+       /
+      / 30cm overhang prevents climbing species
+     /
+   ┌┘─────────────────── top rail (2.4m height)
+   │  ╔═══════════════╗
+   │  ║ Wattle panel  ║  woven willow/hazel
+   │  ║ or wire mesh  ║  (no gaps > 10cm)
+   │  ║               ║
+   │  ║  2.4m total   ║  minimum height for deer
+   │  ║  height       ║  exclusion (white-tail: 2.2m)
+   │  ║               ║
+   │  ╚═══════════════╝
+   └──────────────────── ground level ────────────
+        │▓▓▓▓▓▓▓▓▓▓▓▓│  packed earth / stone apron
+        │             │
+        └─────┐       │  buried mesh 30cm deep
+              └───────┘  L-bend outward 15-20cm
+                         (stops rabbits + groundhogs)
+```
+
 **Against Boar / Wild Pigs:**
 - **Underground barrier:** Bury stone slabs, wire mesh, or heavy-gauge fencing 30 cm deep along the entire fence line. The barrier should extend outward 15-20 cm in an L-shape at the bottom (same principle as the rabbit barrier) — boar root directly at the fence base and hit the horizontal extension.
 - **Post strength:** Hardwood stakes minimum 8 cm diameter, driven 40 cm into the ground, spaced at 1-1.5 m. Boar weigh 50-150 kg and push with considerable force. Thin stakes snap.
@@ -179,6 +221,31 @@ Sensory deterrents exploit the animal's caution around unfamiliar stimuli. They 
 - Species selection by target raider: clover and ryegrass (deer), root vegetables and fallen fruit (boar), lettuce and tender greens (rabbits), sunflower heads (birds).
 - The buffer provides an easy, undefended food source that satisfies the raider before it reaches the defended garden. African Wildlife Foundation studies documented a 60-70% reduction in raiding incidents with buffer strip deployment.
 - Maintain the buffer strip throughout the growing season. Replant as it is consumed.
+
+```text
+   [Trap Crop & Buffer Strip Layout — Plan View]
+
+   FOREST EDGE / WILD LANDSCAPE
+   ─────────────────────────────────────────────────
+   │  TRAP CROP PATCH        │  TRAP CROP PATCH    │
+   │  (sunflowers, sweet     │  (turnips, fallen   │
+   │   corn — bird + deer)   │   fruit — boar)     │
+   ─────────────────────────────────────────────────
+   │░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░│
+   │░ SACRIFICIAL BUFFER (2-3m wide) ░░░░░░░░░░░░░│
+   │░ clover + ryegrass (deer) / lettuce (rabbit) ░│
+   │░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░│
+   ─────────────── 5-10m gap ──────────────────────
+   ╔═══════════════════════════════════════════════╗
+   ║           MAIN GARDEN FENCE                   ║
+   ║  ┌───────────────────────────────────────┐    ║
+   ║  │  Protected food crops (inside fence)  │    ║
+   ║  └───────────────────────────────────────┘    ║
+   ╚═══════════════════════════════════════════════╝
+
+   Raider path: Forest → Trap crop (consumed) → Buffer (consumed)
+                → most raiders STOP here, never reach main fence
+```
 
 **Companion planting:**
 - **Aromatic border:** Plant garlic, lavender, mint, and marigold in a continuous 1 m belt inside the garden fence. These strongly scented species mask the smell of food crops from approaching herbivores and repel many insect pests (aphids, cabbage moths, whiteflies). Replace dead plants immediately to maintain a continuous scent barrier.

@@ -106,15 +106,15 @@
 ### 07b Animal Coexistence Protocols
 - [I] `01_Rationale_and_Importance.md`
 - [I] `02_Large_Predator_Management.md`
-- [T] `03_Crop_Raider_Defense.md`
-- [T] `04_Livestock_Guardian_Systems.md`
+- [I] `03_Crop_Raider_Defense.md`
+- [I] `04_Livestock_Guardian_Systems.md`
 
 ---
 
 ## Outcome 4 -- Psychological Centeredness
 
 ### 08 The Mind
-- [T] `01_Rationale_and_Importance.md`
+- [I] `01_Rationale_and_Importance.md`
 - [T] `02_Linguistic_Precision.md`
 - [T] `03_Restorative_Architecture.md`
 - [T] `04_Conflict_Resolution.md`
@@ -269,3 +269,4 @@
 | P2-21 | 2026-05-13 | 07.04, 07.05, 07.06 | Acoustic Sovereignty (4 new: inverse square law dB propagation with attenuation factors, sound masking water feature layout, noise discipline 5-zone concentric map 35-75dB, acoustic early warning 5-layer detection 30-200m; 285→361 lines), Defensive Landscaping (4 new: defensive hedge 3-layer cross-section with species/dimensions, channelized approach funnel to gate, visual screening berm-hedge-canopy from attacker view, seasonal concealment calendar evergreen vs deciduous; 281→360 lines), Observation & Signaling (4 new: overlapping OP sightlines 360° coverage, signal flag/panel 5-message code chart, mirror heliograph geometry incidence/reflection, smoke signal protocol white/black with timing patterns; 291→370 lines). **SECTION 07 COMPLETE — 6/6 at [I].** |
 | P2-22 | 2026-05-13 | 07a.01, 07a.02, 07a.03 | **BEGIN SECTION 07a: Active Threat Response.** Threat Rationale (4 new: response time passive buffer 5-15min, threat assessment decision tree 6 contact types, force escalation 5-level ladder with decision gates, ROE authorized/not-authorized flowchart; 434→515 lines), Nightwatch & Rotation (3 new + 2 existing: 24hr watch cycle with sleep debt tracking, night vision rhodopsin 0-30min adaptation, randomized patrol route with dead-ground loops; 285→361 lines), De-escalation & Non-Lethal (3 new + 1 existing: body language 45° stance open palms 3-5m gap, contact team 5-position spatial layout, non-lethal deterrence layered by range 5km-100m; 324→408 lines). |
 | P2-23 | 2026-05-13 | 07a.04, 07b.01, 07b.02 | Emergency Lockdown (3 new + 2 existing: alert cascade horn→runner→sector leaders, hardened Safe Core cross-section with escape tunnel, lockdown zone map rally points + fields of fire; 282→358 lines). **SECTION 07a COMPLETE — 4/4 at [I]. BEGIN SECTION 07b: Animal Coexistence.** Animal Coexistence Rationale (4 new: human-wildlife conflict spectrum coexistence→elimination, settlement-wildlife interaction 4-zone concentric, lethal vs non-lethal 10-year cost-benefit, seasonal conflict calendar 6 species; 190→273 lines), Large Predator Management (3 new + 2 existing: layered deterrent perimeter fladry→guardian, livestock night enclosure top-down with lighting, predator encounter decision tree species-specific; 325→404 lines). |
+| P2-24 | 2026-05-25 | 07b.03, 07b.04, 08.01 | Crop Raider Defense (3 new + 1 existing: multi-layer crop protection perimeter concentric zones, deer exclusion fence 2.4m cross-section with angled outrigger, trap crop/buffer strip spatial layout; 305→372 lines), Livestock Guardian Systems (4 new: guardian deployment map LGD/donkey/llama positions, LGD bonding timeline birth→12mo critical windows, multi-species sequential response chain, night vs day positioning shift; 289→392 lines). **SECTION 07b COMPLETE — 4/4 at [I]. OUTCOME 3 COMPLETE — 14/14 at [I]. BEGIN OUTCOME 4: Psychological Centeredness.** The Mind Rationale (4 new: post-collapse Maslow hierarchy simultaneous needs, stress-resilience buffer model community/purpose/routine, cognitive load decision fatigue vs routine, psychological first aid 3-phase timeline; 298→394 lines). |
