@@ -84,6 +84,31 @@ Forge welding allows two pieces of steel to be permanently joined by heating to 
 
 A systematic salvage effort in the early years can extend the community's tool supply by 10-30 years while bloomery capability develops. Prioritize collecting and sorting steel by type during the first year. Metal rusting in the open can be preserved by storing under cover with a light coating of grease or oil.
 
+```text
+MATERIAL RECYCLING CLOSED LOOP
+
+    +----------+        +----------+
+    | COLLECT  |------->|  SORT &  |  (spark test to
+    | raw steel|        | IDENTIFY |   identify type)
+    +----------+        +----------+
+         ^                    |
+         |                    v
+    +----------+        +----------+
+    | MAINTAIN |        |  FORGE   |
+    | oil/store|        |  HEAT    |
+    | restock  |        | 800-1000C|
+    +----------+        +----------+
+         ^                    |
+         |                    v
+    +----------+        +----------+
+    |  USE IN  |<-------|  RESHAPE |
+    |  FIELD   |        |  & WELD  |
+    +----------+        +----------+
+
+    Goal: extend scavenged steel 10-30 years
+    while bloomery capability matures
+```
+
 ### Historical Smelting Traditions
 
 **African iron smelting** represents the oldest confirmed iron smelting tradition in the world. The Nok culture of central Nigeria was producing iron by approximately 900 BCE, and some Central African sites may be older still. African bloomeries achieved temperatures sufficient for steel production, and some traditions used natural draft from tall furnace shafts (up to 2 meters or more) rather than bellows, demonstrating that forced air is not strictly necessary if the furnace design compensates with height and chimney effect.
@@ -105,6 +130,27 @@ A systematic salvage effort in the early years can extend the community's tool s
 3. **The Quality Progression Principle** — the first bloom will be poor quality: small, full of slag inclusions, difficult to forge. This is normal and expected. Quality improves with experience as the smelters learn to read the furnace — adjusting air blast, charge ratios, and timing. Expect 5-10 smelts before producing consistent, workable iron. DO NOT abandon bloomery development because early results are disappointing.
 
 4. **The Tool Steel Priority Principle** — not all iron is equal. Wrought iron from the bloomery is suitable for structural use but too soft for cutting tools. The community must also produce STEEL through carburization for axes, knives, saws, and chisels. Carburization capability should be developed within the first year of successful bloomery operation. Without steel, the settlement cannot maintain its woodworking, agricultural, or construction tool inventory.
+
+```text
+MATERIAL DEGRADATION TIMELINE — WHEN SCAVENGED MATERIALS FAIL
+
+Year 0        5         10        15        20        30        50+
+  |-----------|---------|---------|---------|---------|---------|-->
+  |           |         |         |         |         |         |
+  | Rubber [XXXXX]      |         |         |         |         |
+  |  (tires, hoses)     |         |         |         |         |
+  |      Plastics [XXXXXXXXX]     |         |         |         |
+  |       (UV brittle)  |         |         |         |         |
+  |              Mild steel [XXXXXXXXXX]    |         |         |
+  |               (rust, fatigue)  |        |         |         |
+  |                     Tool steel [XXXXXXXXXXXXXX]   |         |
+  |                      (with maintenance) |         |         |
+  |                          Glass, ceramics [INDEFINITE-----]-->
+  |                                Stone tools [INDEFINITE---]-->
+  |           |         |         |         |
+  |     CRITICAL WINDOW: bloomery must be   |
+  |     operational BEFORE steel fails (yr 10-20)
+```
 
 5. **The Safety Discipline Principle** — iron smelting is the most dangerous manufacturing process in the settlement. Strict safety protocols — eye protection, leather aprons, buddy system, CO monitoring, no-go zones around the furnace during operation — must be established BEFORE the first smelt and enforced without exception. A single serious burn or CO poisoning incident can disable a critical community member for weeks or permanently.
 
@@ -138,6 +184,25 @@ After roasting, quench the hot ore in water to induce fracturing, then crush to 
 
 Add fresh charges of charcoal and ore from the top as the burden descends. The furnace should never be allowed to cool during charging. Tap liquid slag from the base every 45-60 minutes by clearing the tap hole with a long wooden rod. The slag should flow freely as a glowing orange-yellow liquid — if it is viscous and dark, the temperature is too low.
 
+```text
+BLOOMERY OPERATION SEQUENCE — 6-10 HOUR SMELT
+
+  HOUR 0       1        2    3    4    5    6    7    8   9-10
+    |----------|--------|----|----|----|----|----|----|----|--->
+    |          |        |                                 |
+    PREHEAT    FIRST    CONTINUOUS CHARGING & TAPPING     EXTRACT
+    charcoal   ORE      +-- Add charcoal+ore as burden descends
+    only       CHARGE   +-- Tap slag every 45-60 min
+                        +-- Rotate bellows operators every 30 min
+
+  BELLOWS SHIFTS (2 operators minimum):
+  Op.A: [==work==][--rest--][==work==][--rest--]...
+  Op.B: [--rest--][==work==][--rest--][==work==]...
+
+  SLAG CHECK: orange-yellow, free-flowing = good
+              dark, viscous = increase air blast
+```
+
 **Extraction:** When the smelt is complete, allow the furnace to cool to dark red heat. Break open the front wall or lift the bloom from the top using heavy tongs. Immediately shingle the bloom: hammer it vigorously on a flat stone or iron anvil to squeeze out trapped slag while the iron is still at welding heat. This consolidation step is critical — an unshingled bloom is porous and weak. Work quickly: once the bloom cools below orange heat, it can no longer be effectively shingled and must be reheated in the forge.
 
 ### Phase 4: Carburization — Making Steel (Month 12+)
@@ -155,6 +220,24 @@ For uniform steel throughout the cross-section, fold and forge-weld the bar repe
 - Repeat: each fold doubles the number of layers
 
 Four to six folds (producing 16-64 layers) is sufficient for usable tool steel. Each fold requires heating to welding temperature and applying flux before hammering, so this process consumes significant charcoal and time. The result is steel of consistent quality suitable for the settlement's most demanding cutting tools.
+
+```text
+CARBURIZATION & FOLD-WELDING — WROUGHT IRON TO TOOL STEEL
+
+  STEP 1: PACK CARBURIZATION        STEP 2: FOLD-WELDING
+  (4-12 hrs at 900-1000°C)          (repeated heating + hammering)
+
+  +------------------------+        Fold 1: [===========] 1 layer
+  |  charcoal   charcoal   |        Fold 2: [=====|=====] 2 layers
+  |  powder ############## |        Fold 3: [==|==|==|==] 4 layers
+  |  ##### IRON BAR ###### |        Fold 4: [||||||||||| ] 8 layers
+  |  ##### (0.02% C) ##### |        Fold 5: 16 layers
+  |  powder   powder       |        Fold 6: 32 layers --> uniform
+  +---SEALED WITH CLAY-----+
+                                    Each fold: heat to 1200°C+,
+  Carbon diffuses inward -->        flux with borax, fold, hammer
+  surface becomes 0.3-0.8% C       Result: tool steel for edges
+```
 
 ```text
 BLOOMERY FURNACE — CROSS SECTION

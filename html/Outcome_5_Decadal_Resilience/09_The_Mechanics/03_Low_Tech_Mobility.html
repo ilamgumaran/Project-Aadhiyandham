@@ -36,6 +36,23 @@
 <li>Soft sand or deep mud: 0.10-0.30</li>
 </ul>
 <p>The difference between a packed gravel road (Crr = 0.03) and a soft dirt path (Crr = 0.08) more than doubles the pulling force required. This is why road maintenance and surface preparation yield outsized returns on labor investment.</p>
+<pre><code class="language-text">
+ROAD SURFACE CROSS-SECTION — ENGINEERED LOW-TECH ROAD
+
+       &lt;-- 3.0-4.0 m road width --&gt;
+  ____________________________________
+ / COMPACTED GRAVEL  (5-8 cm)         \   Crowned 2-3%
+/   Crr = 0.02-0.04                    \  slope for drainage
+|  COARSE SAND / FINE GRAVEL (8-10 cm)  |
+|  (drainage + load distribution)       |
+|  RUBBLE BASE / BROKEN STONE (15-20cm) |
+|  (structural foundation)              |
+|  COMPACTED NATIVE EARTH (subgrade)    |
+\______________________________________/
+  \__ DRAINAGE DITCH __/  \__ DITCH __/
+      30 cm deep              30 cm
+Total depth: 30-40 cm.  Roman method for 400,000 km.
+</code></pre>
 <p>Bearing friction governs axle performance. A wooden axle turning in a wooden hub has a friction coefficient of 0.2-0.5 when dry, dropping to 0.04-0.08 when greased with animal fat or vegetable oil. Lubrication is not optional maintenance — it is an operational necessity. A greased axle requires 4-5x less pulling force than a dry one. For a 200 kg cart, the difference between greased and ungreased bearings is the difference between 60 N and 250 N of pulling force — the difference between easy work and exhausting labor.</p>
 <p>Suitable lubricants in order of effectiveness:</p>
 <ul>
@@ -48,6 +65,28 @@
 <p>Wheel diameter determines obstacle-crossing ability. A wheel can climb an obstacle up to approximately one-quarter of its diameter without requiring additional force. For rough terrain with ruts, roots, and stones of 10-15 cm, wheel diameter should be at least 50 cm. For cargo vehicles operating on unimproved roads, 70-100 cm is optimal. Larger wheels also reduce rolling resistance slightly because the contact patch deformation is proportionally smaller relative to wheel radius.</p>
 <p>Load distribution follows a simple equation: the force required to pull a loaded cart equals payload multiplied by Crr multiplied by gravitational acceleration. For a 200 kg payload on packed earth (Crr = 0.03): F = 200 x 0.03 x 9.81 = 59 N, approximately 6 kgf. This is easily within sustained human pulling capacity on flat ground.</p>
 <p>Grade resistance adds a gravitational component. On a 5% grade with 200 kg: additional force = 200 x 9.81 x 0.05 = 98 N. Total pulling force nearly triples compared to flat ground. On a 10% grade, it increases fivefold. The practical implication is that route selection to avoid steep grades is as important as vehicle design — a longer flat route may require less total energy than a shorter hilly one.</p>
+<pre><code class="language-text">
+WHEEL AND AXLE FORCES — SIDE VIEW
+
+            LOAD (W = m x g)
+                 |
+                 v
+       ____________________
+      |    CARGO BED       |
+      |____________________|
+      -----+----------+-----  AXLE
+  Bearing  |          |  Bearing friction
+  (F_b) &lt;--+   HUB    +--&gt;  (F_b)
+         /  ||      ||  \
+        | SPOKES  SPOKES  |   Wheel dia. 50-100 cm
+         \  ||      ||  /
+    ______\-||------||_/_______ GROUND SURFACE
+    &lt;-- Rolling resistance (F_r = W x Crr) --&gt;
+
+    F_pull = F_r + F_b + F_grade
+    Greased bearing: F_b = 0.04-0.08 x W
+    Dry bearing:     F_b = 0.20-0.50 x W  (4-5x worse!)
+</code></pre>
 <h3 id="the-biomechanics-of-human-powered-transport">The Biomechanics of Human-Powered Transport</h3>
 <p>The energy cost of walking increases approximately linearly with carried load up to roughly 60% of body weight, then escalates sharply as the musculoskeletal system approaches structural limits. A 70 kg person carrying 40 kg (57% body weight) expends roughly twice the energy of unloaded walking. At 50 kg (71% body weight), energy expenditure more than triples as gait efficiency collapses. Wheeled transport eliminates this exponential penalty by transferring the load to the axle.</p>
 <p>Pushing versus pulling matters for human-powered carts. Humans can sustain greater pushing force — using body weight leaned forward against the handles — than pulling force, which relies on arm and back muscles alone. Carts designed for pushing from behind are more efficient for human operators than carts designed for forward pulling.</p>
@@ -134,6 +173,25 @@
 <p><strong>Dimensions:</strong> Overall length 2.0-2.5 m, width 0.8-1.0 m, cargo bed 1.0 x 0.8 m. The twin-boom bamboo chassis provides torsional rigidity through triangulation — the two booms diverging from the head tube to the rear axle form a natural triangle that resists twisting forces under uneven loading.</p>
 <p><strong>Structural properties of bamboo:</strong> Compressive strength 40-80 MPa, tensile strength 100-230 MPa. By weight, bamboo is comparable to structural steel in tensile strength. Fire-hardening — lightly charring the bamboo surface over controlled flame — drives out residual moisture and increases compressive strength by 20-30%. All structural bamboo members should be fire-hardened before assembly.</p>
 <p><strong>Assembly — The Composite Lug Method:</strong> Miter the ends of bamboo culms to fit precisely against the curvature of the steel lugs (head tube, bottom bracket, rear dropouts). Clean all steel surfaces thoroughly. Soak natural fiber (hemp or flax rope) in hot pine resin or hide glue. Wrap the soaked fiber tightly around each bamboo-to-steel joint in a cross-hatch pattern, building up a thickness of at least 1 cm. Allow 48 hours for curing. The resulting composite lug transfers load through shear in the resin-fiber matrix — it is stronger than either the bamboo or the steel connection alone. Apply a protective coating of linseed oil mixed with powdered charcoal to all composite lugs for UV and moisture resistance.</p>
+<pre><code class="language-text">
+BICYCLE DRIVETRAIN — CHAIN/SPROCKET POWER TRANSMISSION
+
+  PEDAL FORCE        CHAIN TENSION (T)
+      |         ============================
+      v        //                           \\
+   ,--+--.    //                             \\
+  / FRONT \--//-------- CHAIN -----------\\---+--.
+ | SPROCKET | \\                           \/ REAR \
+ |  44-48T  |  ============================| SPRCKT|
+  \       /         (roller chain)          | 16-20T|
+   `--+--&#x27;                                   `--+--&#x27;
+   CRANK ARM (170 mm)                        REAR AXLE
+
+  GEAR RATIO = Front teeth / Rear teeth = 44/16 = 2.75:1
+  One pedal turn = 2.75 wheel turns = 5.7 m (with 26&quot; wheel)
+  At 60 RPM cadence: 20.5 km/hr (unloaded)
+  Cargo trike: lower ratio (36T/20T = 1.8:1) for more torque
+</code></pre>
 <p><strong>Wheel options:</strong> Salvaged bicycle wheels (20" for maneuverability in tight spaces, 26" for rough terrain and better obstacle clearance), solid wood disc wheels (60-80 cm diameter, heaviest but simplest to fabricate), or spoked wooden wheels with iron tire shrink-fit (best performance, requires blacksmithing capability).</p>
 <pre><code class="language-text">
 CARGO TRIKE — TOP VIEW
@@ -198,6 +256,25 @@ CARGO TRIKE — SIDE VIEW
 <li>Emergency evacuation of injured persons on rough terrain</li>
 <li>Situations where no manufactured vehicle is available</li>
 </ul>
+<pre><code class="language-text">
+TRAVOIS vs CART — SIDE VIEW COMPARISON
+
+  TRAVOIS (drag sled)              TWO-WHEEL CART
+    PULLER     LOAD                  PULLER      LOAD
+     \\       |30-150kg|              ||       |50-500kg|
+      \\======|_______|               ||=======|_______|
+       \\       //                    ||        [AXLE]
+        \\     //  &lt;-- drags          ||        /    \
+         \\   //    on ground        [HITCH]  (o)    (o)
+          \\_//                               WHEELS
+
+  Crr: ~0.30                      Crr: 0.02-0.05
+  Force: ~10x more per kg         Force: baseline
+  Speed: 2-3 km/hr                Speed: 3-6 km/hr
+  ANY terrain: mud, snow, rock    Needs: cleared path or road
+  Build time: 15-30 minutes       Build time: 2-6 weeks
+  Materials: 2 poles + cord       Materials: wood, iron, grease
+</code></pre>
 <hr>
 </div>
 <div class="section-practical" id="common-failure-modes">

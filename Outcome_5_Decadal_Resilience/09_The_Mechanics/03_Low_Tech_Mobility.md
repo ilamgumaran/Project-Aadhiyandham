@@ -28,6 +28,24 @@ Surface type dramatically affects rolling resistance. Approximate Crr values for
 
 The difference between a packed gravel road (Crr = 0.03) and a soft dirt path (Crr = 0.08) more than doubles the pulling force required. This is why road maintenance and surface preparation yield outsized returns on labor investment.
 
+```text
+ROAD SURFACE CROSS-SECTION — ENGINEERED LOW-TECH ROAD
+
+       <-- 3.0-4.0 m road width -->
+  ____________________________________
+ / COMPACTED GRAVEL  (5-8 cm)         \   Crowned 2-3%
+/   Crr = 0.02-0.04                    \  slope for drainage
+|  COARSE SAND / FINE GRAVEL (8-10 cm)  |
+|  (drainage + load distribution)       |
+|  RUBBLE BASE / BROKEN STONE (15-20cm) |
+|  (structural foundation)              |
+|  COMPACTED NATIVE EARTH (subgrade)    |
+\______________________________________/
+  \__ DRAINAGE DITCH __/  \__ DITCH __/
+      30 cm deep              30 cm
+Total depth: 30-40 cm.  Roman method for 400,000 km.
+```
+
 Bearing friction governs axle performance. A wooden axle turning in a wooden hub has a friction coefficient of 0.2-0.5 when dry, dropping to 0.04-0.08 when greased with animal fat or vegetable oil. Lubrication is not optional maintenance — it is an operational necessity. A greased axle requires 4-5x less pulling force than a dry one. For a 200 kg cart, the difference between greased and ungreased bearings is the difference between 60 N and 250 N of pulling force — the difference between easy work and exhausting labor.
 
 Suitable lubricants in order of effectiveness:
@@ -43,6 +61,29 @@ Wheel diameter determines obstacle-crossing ability. A wheel can climb an obstac
 Load distribution follows a simple equation: the force required to pull a loaded cart equals payload multiplied by Crr multiplied by gravitational acceleration. For a 200 kg payload on packed earth (Crr = 0.03): F = 200 x 0.03 x 9.81 = 59 N, approximately 6 kgf. This is easily within sustained human pulling capacity on flat ground.
 
 Grade resistance adds a gravitational component. On a 5% grade with 200 kg: additional force = 200 x 9.81 x 0.05 = 98 N. Total pulling force nearly triples compared to flat ground. On a 10% grade, it increases fivefold. The practical implication is that route selection to avoid steep grades is as important as vehicle design — a longer flat route may require less total energy than a shorter hilly one.
+
+```text
+WHEEL AND AXLE FORCES — SIDE VIEW
+
+            LOAD (W = m x g)
+                 |
+                 v
+       ____________________
+      |    CARGO BED       |
+      |____________________|
+      -----+----------+-----  AXLE
+  Bearing  |          |  Bearing friction
+  (F_b) <--+   HUB    +-->  (F_b)
+         /  ||      ||  \
+        | SPOKES  SPOKES  |   Wheel dia. 50-100 cm
+         \  ||      ||  /
+    ______\-||------||_/_______ GROUND SURFACE
+    <-- Rolling resistance (F_r = W x Crr) -->
+
+    F_pull = F_r + F_b + F_grade
+    Greased bearing: F_b = 0.04-0.08 x W
+    Dry bearing:     F_b = 0.20-0.50 x W  (4-5x worse!)
+```
 
 ### The Biomechanics of Human-Powered Transport
 
@@ -134,6 +175,26 @@ The cargo trike extends the settlement's hauling range to 5-20 km with payloads 
 
 **Assembly — The Composite Lug Method:** Miter the ends of bamboo culms to fit precisely against the curvature of the steel lugs (head tube, bottom bracket, rear dropouts). Clean all steel surfaces thoroughly. Soak natural fiber (hemp or flax rope) in hot pine resin or hide glue. Wrap the soaked fiber tightly around each bamboo-to-steel joint in a cross-hatch pattern, building up a thickness of at least 1 cm. Allow 48 hours for curing. The resulting composite lug transfers load through shear in the resin-fiber matrix — it is stronger than either the bamboo or the steel connection alone. Apply a protective coating of linseed oil mixed with powdered charcoal to all composite lugs for UV and moisture resistance.
 
+```text
+BICYCLE DRIVETRAIN — CHAIN/SPROCKET POWER TRANSMISSION
+
+  PEDAL FORCE        CHAIN TENSION (T)
+      |         ============================
+      v        //                           \\
+   ,--+--.    //                             \\
+  / FRONT \--//-------- CHAIN -----------\\---+--.
+ | SPROCKET | \\                           \/ REAR \
+ |  44-48T  |  ============================| SPRCKT|
+  \       /         (roller chain)          | 16-20T|
+   `--+--'                                   `--+--'
+   CRANK ARM (170 mm)                        REAR AXLE
+
+  GEAR RATIO = Front teeth / Rear teeth = 44/16 = 2.75:1
+  One pedal turn = 2.75 wheel turns = 5.7 m (with 26" wheel)
+  At 60 RPM cadence: 20.5 km/hr (unloaded)
+  Cargo trike: lower ratio (36T/20T = 1.8:1) for more torque
+```
+
 **Wheel options:** Salvaged bicycle wheels (20" for maneuverability in tight spaces, 26" for rough terrain and better obstacle clearance), solid wood disc wheels (60-80 cm diameter, heaviest but simplest to fabricate), or spoked wooden wheels with iron tire shrink-fit (best performance, requires blacksmithing capability).
 
 ```text
@@ -208,6 +269,26 @@ Use cases where the travois is superior to wheeled vehicles:
 - Snow cover exceeding 15 cm depth
 - Emergency evacuation of injured persons on rough terrain
 - Situations where no manufactured vehicle is available
+
+```text
+TRAVOIS vs CART — SIDE VIEW COMPARISON
+
+  TRAVOIS (drag sled)              TWO-WHEEL CART
+    PULLER     LOAD                  PULLER      LOAD
+     \\       |30-150kg|              ||       |50-500kg|
+      \\======|_______|               ||=======|_______|
+       \\       //                    ||        [AXLE]
+        \\     //  <-- drags          ||        /    \
+         \\   //    on ground        [HITCH]  (o)    (o)
+          \\_//                               WHEELS
+
+  Crr: ~0.30                      Crr: 0.02-0.05
+  Force: ~10x more per kg         Force: baseline
+  Speed: 2-3 km/hr                Speed: 3-6 km/hr
+  ANY terrain: mud, snow, rock    Needs: cleared path or road
+  Build time: 15-30 minutes       Build time: 2-6 weeks
+  Materials: 2 poles + cord       Materials: wood, iron, grease
+```
 
 ---
 

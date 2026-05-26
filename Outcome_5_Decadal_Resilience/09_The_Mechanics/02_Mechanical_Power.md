@@ -50,6 +50,23 @@ The historical depth of this technology is worth noting. Vitruvius described wat
 
 By the medieval period, water wheels powered virtually every manufacturing process in Europe: grain milling, cloth fulling, iron smelting, tanning, paper production, and sawmilling. The Domesday Book of 1086 recorded 5,624 water mills in England alone. The technology is not speculative. It is the most thoroughly proven mechanical power system in human history, with a track record spanning two millennia across every climate that had flowing water.
 
+```text
+WATERWHEEL TYPES COMPARISON -- SIDE VIEW
+
+  OVERSHOT (60-90%)       BREASTSHOT (35-65%)      UNDERSHOT (20-40%)
+    FLUME -->              FLUME -->
+        V                      V
+     +--+--+               +--+--+               +--+--+
+    / * * * \             /   |   \              /       \
+   |*   +   *|           | * + * |              |   +   |
+    \ * * * /             \  *  /                \       /
+     +--+--+               +--+--+               +--+--+
+    ~~~~~~~~~~            ~~+~~~~~           =====>=======>
+   Gravity fills         Water acts at       Paddles in stream
+   buckets at TOP.       MID-HEIGHT.         flow at BOTTOM.
+   Head > 3m.            Head: 1.5-3m.       Head < 1.5m.
+```
+
 ### Flywheel Energy Storage
 
 A flywheel stores energy in the form of rotational kinetic energy, described by the equation E = one-half times I times omega squared, where I is the moment of inertia of the wheel and omega is the angular velocity in radians per second. For a rim-weighted wheel (the most practical design, where most mass is concentrated at the outer edge), the moment of inertia simplifies to I approximately equals m times r squared, where m is the mass of the rim and r is the radius.
@@ -96,6 +113,28 @@ The Lowell textile mills (1820s-1890s) powered entire factory floors from single
 
 Power losses come from three sources: bearing friction (3 to 10 percent, the largest component), belt slippage (1 to 3 percent for properly tensioned leather), and windage (negligible at workshop speeds). A well-maintained system delivers 85 to 95 percent of the water wheel's output to the working machines.
 
+```text
+MECHANICAL ADVANTAGE -- PULLEY SPEED/TORQUE TRANSMISSION
+
+  LINE-SHAFT (60 RPM)
+  ============================
+        |                |
+   D1=30cm          D1=20cm
+    (~~)              (~)
+     ||  belt          ||  belt
+    (~)              (~)
+   D2=10cm          D2=20cm
+     |                |
+  GRINDER         TRIP HAMMER
+  180 RPM          60 RPM
+  3:1 speed-up    1:1 ratio
+  Low torque      High torque
+
+  RULE: N1 x D1 = N2 x D2
+  Smaller driven pulley = faster, less torque
+  Larger driven pulley  = slower, more torque
+```
+
 ### Machine Applications
 
 Each workstation connects to the line-shaft to perform a specific function. The connection type depends on whether the machine requires rotary or reciprocating motion.
@@ -114,6 +153,27 @@ Typical machine connections include:
 Power budgeting is essential. The total available power from the water wheel must exceed the sum of all simultaneously operating machines. Heavy machines such as the trip hammer and saw each consume 200 to 400 watts and should be run one at a time. Light machines such as the grinder and bellows consume 50 to 150 watts each and can operate concurrently.
 
 A workshop schedule alternating heavy and light tasks throughout the day maximizes the utility of a single water wheel. For example, with a 600-watt wheel: morning hours run the trip hammer (350W) with bellows (100W) for 450W total. Afternoon hours run the saw (300W) alone. The grinder (80W) and lathe (120W) can operate concurrently at any time, as their combined 200W leaves ample capacity. Post this schedule visibly so operators do not inadvertently overload the system.
+
+```text
+CRANK MECHANISM -- ROTARY TO RECIPROCATING CONVERSION
+
+  MACHINE SHAFT
+  ======+======
+        |
+        +--+  CRANK ARM (radius r)
+        |  | /
+        +--+           CONNECTING
+       /              ROD
+      /              /
+     /              /
+    +----------+  <-- stroke = 2r
+    | HAMMER   |
+    +----------+
+    ////|//////  ANVIL
+  Stroke = 2 x crank radius
+  40-80 strokes/min at 40-80 RPM
+  One full revolution = one stroke
+```
 
 ---
 
@@ -144,6 +204,29 @@ Calculate available power using P = 1000 x 9.81 x Q x h x 0.7 for initial estima
 Crucially, measure flow in both wet and dry seasons. Design the system for the dry-season minimum flow, as surplus water during the wet season can be wasted over a spillway or stored in a millpond. A system designed for average flow will fail during the dry months precisely when manufacturing continuity matters most.
 
 Record all measurements in a site assessment log with dates, weather conditions, and recent rainfall. A twelve-month flow record is far more valuable than a single measurement. If evaluating multiple stream sites, compare them using the product of head times dry-season flow: the highest value delivers the most reliable power year-round.
+
+```text
+POWER BUDGET -- SOURCE TO END-USE
+
+  Stream: Q=0.02 m3/s, h=4m
+  Gross = 785 W (100%)
+       |
+       V                        LOSSES
+  [FLUME]----------->  seepage ~5%        --> 746 W
+       |
+  [OVERSHOT WHEEL]--->  spillage ~20%     --> 597 W
+       |
+  [FLYWHEEL]--------->  bearing ~3%       --> 579 W
+       |
+  [LINE-SHAFT]------->  belt+bearing ~8%  --> 533 W
+       |
+       V  DELIVERED
+  +--------+--------+---------+
+  |Bellows |Grinder | Hammer  |
+  | 100W   |  80W   |  350W   |
+  +--------+--------+---------+
+  Schedule loads to stay under 533W total
+```
 
 ### Water Wheel Construction (Overshot Design)
 

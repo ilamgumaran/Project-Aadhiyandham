@@ -43,6 +43,22 @@
 <p>The <strong>undershot wheel</strong> sits in the stream with water flowing beneath it, using kinetic energy alone. Efficiencies are low, typically 20 to 40 percent, but construction is the simplest and no elevated flume is required. It suits sites with low head (less than 1.5 meters) and high flow volume. The undershot wheel spins faster than the overshot design, which can be advantageous for machines requiring higher RPM but increases bearing wear proportionally.</p>
 <p>The historical depth of this technology is worth noting. Vitruvius described water wheels in <em>De Architectura</em> around 25 BCE. The Barbegal aqueduct mill complex near Arles, dating to the second century CE, operated sixteen overshot wheels arranged in two parallel cascades, each wheel feeding its tailrace into the headrace of the wheel below. The complex produced flour for an estimated 12,000 people. This was industrial-scale manufacturing nearly two millennia before the steam engine.</p>
 <p>By the medieval period, water wheels powered virtually every manufacturing process in Europe: grain milling, cloth fulling, iron smelting, tanning, paper production, and sawmilling. The Domesday Book of 1086 recorded 5,624 water mills in England alone. The technology is not speculative. It is the most thoroughly proven mechanical power system in human history, with a track record spanning two millennia across every climate that had flowing water.</p>
+<pre><code class="language-text">
+WATERWHEEL TYPES COMPARISON -- SIDE VIEW
+
+  OVERSHOT (60-90%)       BREASTSHOT (35-65%)      UNDERSHOT (20-40%)
+    FLUME --&gt;              FLUME --&gt;
+        V                      V
+     +--+--+               +--+--+               +--+--+
+    / * * * \             /   |   \              /       \
+   |*   +   *|           | * + * |              |   +   |
+    \ * * * /             \  *  /                \       /
+     +--+--+               +--+--+               +--+--+
+    ~~~~~~~~~~            ~~+~~~~~           =====&gt;=======&gt;
+   Gravity fills         Water acts at       Paddles in stream
+   buckets at TOP.       MID-HEIGHT.         flow at BOTTOM.
+   Head &gt; 3m.            Head: 1.5-3m.       Head &lt; 1.5m.
+</code></pre>
 <h3 id="flywheel-energy-storage">Flywheel Energy Storage</h3>
 <p>A flywheel stores energy in the form of rotational kinetic energy, described by the equation E = one-half times I times omega squared, where I is the moment of inertia of the wheel and omega is the angular velocity in radians per second. For a rim-weighted wheel (the most practical design, where most mass is concentrated at the outer edge), the moment of inertia simplifies to I approximately equals m times r squared, where m is the mass of the rim and r is the radius.</p>
 <p>The flywheel serves a critical smoothing function. Water flow is never perfectly constant. Debris passes through the flume, seasonal variation changes the available head and flow, and even moment-to-moment turbulence causes fluctuations. Without a flywheel, these variations translate directly into speed changes at the working machines, causing tool chatter on lathes, uneven grinding, inconsistent hammer blows, and accelerated wear on bearings and belts.</p>
@@ -67,6 +83,27 @@
 <p>The friction coefficient of greased wood on wood is approximately 0.04 to 0.08, compared with 0.2 to 0.5 for dry contact -- a reduction in friction losses of 80 to 90 percent. Bearing life under regular lubrication is one to five years, making bearings a planned replacement item.</p>
 <p>The Lowell textile mills (1820s-1890s) powered entire factory floors from single water wheels via line-shafts spanning 10 to 50 meters, with measured transmission efficiencies of 80 to 95 percent.</p>
 <p>Power losses come from three sources: bearing friction (3 to 10 percent, the largest component), belt slippage (1 to 3 percent for properly tensioned leather), and windage (negligible at workshop speeds). A well-maintained system delivers 85 to 95 percent of the water wheel's output to the working machines.</p>
+<pre><code class="language-text">
+MECHANICAL ADVANTAGE -- PULLEY SPEED/TORQUE TRANSMISSION
+
+  LINE-SHAFT (60 RPM)
+  ============================
+        |                |
+   D1=30cm          D1=20cm
+    (~~)              (~)
+     ||  belt          ||  belt
+    (~)              (~)
+   D2=10cm          D2=20cm
+     |                |
+  GRINDER         TRIP HAMMER
+  180 RPM          60 RPM
+  3:1 speed-up    1:1 ratio
+  Low torque      High torque
+
+  RULE: N1 x D1 = N2 x D2
+  Smaller driven pulley = faster, less torque
+  Larger driven pulley  = slower, more torque
+</code></pre>
 <h3 id="machine-applications">Machine Applications</h3>
 <p>Each workstation connects to the line-shaft to perform a specific function. The connection type depends on whether the machine requires rotary or reciprocating motion.</p>
 <p>Rotary machines (grinders, lathes, mills) connect directly through pulleys with appropriate diameter ratios. Reciprocating machines (bellows, saws, trip hammers) require a crank mechanism to convert rotary to linear motion. The crank throw length determines the stroke distance.</p>
@@ -81,6 +118,26 @@
 </ul>
 <p>Power budgeting is essential. The total available power from the water wheel must exceed the sum of all simultaneously operating machines. Heavy machines such as the trip hammer and saw each consume 200 to 400 watts and should be run one at a time. Light machines such as the grinder and bellows consume 50 to 150 watts each and can operate concurrently.</p>
 <p>A workshop schedule alternating heavy and light tasks throughout the day maximizes the utility of a single water wheel. For example, with a 600-watt wheel: morning hours run the trip hammer (350W) with bellows (100W) for 450W total. Afternoon hours run the saw (300W) alone. The grinder (80W) and lathe (120W) can operate concurrently at any time, as their combined 200W leaves ample capacity. Post this schedule visibly so operators do not inadvertently overload the system.</p>
+<pre><code class="language-text">
+CRANK MECHANISM -- ROTARY TO RECIPROCATING CONVERSION
+
+  MACHINE SHAFT
+  ======+======
+        |
+        +--+  CRANK ARM (radius r)
+        |  | /
+        +--+           CONNECTING
+       /              ROD
+      /              /
+     /              /
+    +----------+  &lt;-- stroke = 2r
+    | HAMMER   |
+    +----------+
+    ////|//////  ANVIL
+  Stroke = 2 x crank radius
+  40-80 strokes/min at 40-80 RPM
+  One full revolution = one stroke
+</code></pre>
 <hr>
 <h2 id="core-principles">Core Principles</h2>
 <ol>
@@ -99,6 +156,28 @@
 <p>Calculate available power using P = 1000 x 9.81 x Q x h x 0.7 for initial estimates, using the conservative efficiency factor of 0.7. The minimum viable installation delivers 150 watts sustained, enough for a single grinder or small bellows. The target for a full workshop is 500 watts or more.</p>
 <p>Crucially, measure flow in both wet and dry seasons. Design the system for the dry-season minimum flow, as surplus water during the wet season can be wasted over a spillway or stored in a millpond. A system designed for average flow will fail during the dry months precisely when manufacturing continuity matters most.</p>
 <p>Record all measurements in a site assessment log with dates, weather conditions, and recent rainfall. A twelve-month flow record is far more valuable than a single measurement. If evaluating multiple stream sites, compare them using the product of head times dry-season flow: the highest value delivers the most reliable power year-round.</p>
+<pre><code class="language-text">
+POWER BUDGET -- SOURCE TO END-USE
+
+  Stream: Q=0.02 m3/s, h=4m
+  Gross = 785 W (100%)
+       |
+       V                        LOSSES
+  [FLUME]-----------&gt;  seepage ~5%        --&gt; 746 W
+       |
+  [OVERSHOT WHEEL]---&gt;  spillage ~20%     --&gt; 597 W
+       |
+  [FLYWHEEL]---------&gt;  bearing ~3%       --&gt; 579 W
+       |
+  [LINE-SHAFT]-------&gt;  belt+bearing ~8%  --&gt; 533 W
+       |
+       V  DELIVERED
+  +--------+--------+---------+
+  |Bellows |Grinder | Hammer  |
+  | 100W   |  80W   |  350W   |
+  +--------+--------+---------+
+  Schedule loads to stay under 533W total
+</code></pre>
 <h3 id="water-wheel-construction-overshot-design">Water Wheel Construction (Overshot Design)</h3>
 <p>The wheel diameter should be 80 to 90 percent of the available head height. For a 3-meter head, the wheel should be 2.5 to 2.7 meters in diameter. The width of the wheel, measured along the axle, should be 30 to 60 centimeters depending on the volume of flow to be captured.</p>
 <p>The wheel carries 24 to 36 buckets around its rim, each holding 2 to 5 liters. Buckets are constructed from split and shaped timber planks or bent sheet metal if available.</p>
