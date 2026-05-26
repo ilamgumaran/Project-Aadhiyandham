@@ -48,6 +48,28 @@ True glazes are glass coatings fused to the ceramic surface during firing. All g
 
 This is the glaze chemistry triangle, and understanding it allows you to formulate glazes from natural materials without any manufactured chemicals.
 
+```text
+              SiO2 (Silica)
+             /  Glass Former  \
+            /                  \
+           /    GLAZE SWEET     \
+          /      SPOT (zone      \
+         /     of balanced        \
+        /       melting &          \
+       /       durability)          \
+      /                              \
+     /________________________________\
+ Al2O3                              Flux
+ (Alumina)                    (CaO, K2O, Na2O)
+ Stiffener                    Melting Agent
+
+  Too much Al2O3 → matte,       Too much Flux →
+  rough, dry surface             glaze runs off pot
+
+  Too much SiO2 → glaze won't melt at available temps
+  Balanced mix  → smooth, glassy, food-safe coating
+```
+
 Wood ash is the most accessible glaze flux in a post-collapse setting. Hardwood ash contains 30-40% calcium oxide (CaO) and potassium oxide (K2O) by weight — both powerful fluxes. A simple wood ash glaze can be formulated from ash and clay alone.
 
 Salt glazing, used historically in Europe and America, involves throwing common salt (NaCl) into a kiln at 1200 degrees Celsius or above; the sodium vapor reacts with the silica in the clay body itself to form a thin, orange-peel-textured glass coating directly on the vessel surface. This technique requires kiln temperatures beyond basic pit firing.
@@ -85,6 +107,26 @@ This history carries a practical lesson. A single individual with access to clay
 
 4. **Form Follows Function.** A water storage jar needs thick walls, a narrow mouth to reduce evaporation, and a rounded base for strength. A cooking pot needs thin walls for heat transfer, wide mouth for access, temper for thermal shock resistance, and a flat base for stability on a hearth. Design each vessel for its intended use.
 
+```text
+  STORAGE JAR        COOKING POT         WATER VESSEL
+  (grain/dry)        (direct flame)      (evaporative cool)
+
+   ___________        ___________         ____  ____
+  /           \      |           |       /    \/    \
+ /  narrow     \     |  wide     |      |  narrow    |
+|   mouth 8cm   |    |  mouth    |      |  mouth 6cm |
+|               |    |  20cm+    |       \__________/
+|  THICK WALLS  |    |           |       |          |
+|  10mm, light  |    | THIN WALLS|       | MED WALLS|
+|  temper       |    | 6mm, 30%  |       | 8mm      |
+|               |    | grog      |       | unglazed |
+|   rounded     |    | flat base |       | porous   |
+ \  base for   /     | for hearth|        \        /
+  \___________/      |___________|         \______/
+  Vermin-proof       Thermal shock        Cools water
+  Max capacity       resistant            5-10 C
+```
+
 5. **Fire Together.** Firing is the most fuel-intensive step. A single pit firing consumes roughly 15 kg of hardwood regardless of whether it contains one pot or ten. Always accumulate enough bone-dry ware to fill a firing — batch processing saves fuel, labor, and time.
 
 ## Practical Implementation
@@ -116,6 +158,20 @@ Once you have identified a good deposit, process the raw clay:
 5. **Wedging.** This is the most critical preparation step. Wedging removes trapped air bubbles that will expand explosively during firing. Use the spiral kneading method: push the clay forward with the heel of your palm, fold it back over itself, rotate 45 degrees, and repeat. A minimum of 100 spiral kneads is required. When you slice the clay mass in half with a wire and see no bubbles or voids in the cross-section, wedging is complete.
 
 6. **Tempering.** Add grog (crushed fired pottery ground to sand-grain size) or clean sand at 20-30% by volume. Wedge the temper evenly throughout the body with an additional 30-50 kneads.
+
+```text
+  CLAY PREPARATION PIPELINE
+
+  RAW CLAY → SLAKING → FILTERING → SETTLING → DEWATERING → WEDGING → TEMPERING
+  (dig from   (soak in   (screen    (48-72h,   (dry on      (100+      (add 20-30%
+   bank/cut)   water      out        clay       canvas to    spiral      grog/sand,
+               24-48h,    stones,    sinks,     stiff        kneads,     wedge
+               stir)      roots)     pour off   dough)       check       30-50x)
+                                     water)                  for voids)
+                  ↓           ↓          ↓           ↓           ↓           ↓
+              [muddy      [pure      [thick     [workable   [air-free   [READY
+               slip]       slip]      slurry]    clay]        body]      CLAY]
+```
 
 ### Forming Methods
 
@@ -169,6 +225,26 @@ Surround and cover the pots with more dung cakes, filling all gaps so that no ve
 | Quartz inversion zone  | 500-600 C     | 2-3 hrs   | 50 C/hr (SLOW)    |
 | Peak firing            | 700-900 C     | 1-2 hrs   | Hold at peak      |
 | Smothering and cooling | 900 to ambient| 24 hrs    | Natural cool       |
+
+```text
+  FIRING TEMPERATURE CURVE (Pit Fire)
+
+  Temp °C
+  900 |                        ****
+      |                      **    **  ← Peak: sintering
+  700 |                   **          **
+      |                **               **
+  600 |        ------**-- DANGER ZONE ----**--------
+      |      ** 573°C Quartz Inversion      **
+  400 |    **  (SLOW to 50°C/hr here)         **
+      |   *  ← Water smoking below 300°C        *
+  200 |  *                                        *
+      | *                                          *
+    0 +*____________________________________________*__→
+      0  1  2  3  4  5  6  7  8  9 10  14  18  22  26 hrs
+      |←  Heating (6-10h)  →|hold|← Cooling 24h+ →|
+                                   DO NOT OPEN EARLY
+```
 
 **Smothering.** Once the heavy wood has burned to a bed of red-hot coals — visible as a uniform orange-red glow across the pit — bury the entire pit in loose earth, sand, or ash to smother the fire and trap the heat. Do not disturb for a full 24 hours. The slow cooling is as critical as the slow heating: the reverse quartz inversion during cooling at 573 degrees Celsius will crack any vessel that cools too fast.
 

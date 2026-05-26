@@ -22,6 +22,27 @@
 <p>Technical competence has never, by itself, saved a civilization from collapse. The Roman Empire possessed aqueducts, concrete, and centralized logistics that would not be matched for a thousand years — and it fell. The Norse Greenlanders were skilled shipbuilders, metalworkers, and animal husbandmen — and they starved. The Maya built astronomical observatories and road networks spanning hundreds of kilometers — and their cities emptied. In every case, the technical base was sufficient to sustain the population. What failed was the social structure: the decision-making processes, the distribution of power, the willingness to adapt when conditions changed. A post-collapse settlement that masters water purification, food production, and mechanical engineering but neglects its governance, its demographics, and its cultural flexibility will follow the same path.</p>
 <p>Social structures determine whether a group of 150 people survives a bad harvest or fractures into hostile factions. They determine whether a settlement's best blacksmith can pass her skills to three apprentices or takes them to the grave. They determine whether a leader who hoards grain is corrected by institutional process or must be removed by violence. Every failure mode cataloged in this module — elite capture, resource overshoot, cultural rigidity, knowledge loss, demographic collapse — has destroyed real communities, often communities with superior technical capabilities to what a post-collapse settlement will possess. The question is never whether these pressures will arise. They will. The question is whether the settlement's social architecture can absorb them.</p>
 <p>This section synthesizes historical failure analysis into actionable governance and demographic principles. It draws on the work of Jared Diamond, Joseph Tainter, Peter Turchin, Elinor Ostrom, and James C. Scott — not as academic exercise, but as engineering specifications for social systems. The three modules that follow this rationale (the Recycling Cliff, Consensus Models, and Demographic Harmony) are the implementation layer. This document is the why. It explains the specific threats each module is designed to counter, the historical evidence for those threats, and the principles that connect individual modules into a coherent social architecture.</p>
+<pre><code class="language-text">
+    Social Contract Layers — Nested Obligations
+
+              +-------------------------------+
+              |        CONFEDERATION          |
+              |   +-------------------------+ |
+              |   |      SETTLEMENT         | |
+              |   |   +-------------------+ | |
+              |   |   |    WORK GROUP     | | |
+              |   |   |  +--------------+ | | |
+              |   |   |  |  HOUSEHOLD   | | | |
+              |   |   |  | +----------+ | | | |
+              |   |   |  | |INDIVIDUAL| | | | |
+              |   |   |  | +----------+ | | | |
+              |   |   |  +--------------+ | | |
+              |   |   +-------------------+ | |
+              |   +-------------------------+ |
+              +-------------------------------+
+    Each ring carries obligations inward (protection, resources)
+    and outward (labor, compliance, knowledge-sharing).
+</code></pre>
 <p>> <strong>SAFE</strong>: This module contains historical analysis and social planning frameworks. All content is safe to discuss and implement. The governance models described here have been tested by real communities over centuries.</p>
 <h2 id="theoretical-foundation">Theoretical Foundation</h2>
 <h3 id="why-civilizations-collapse-the-evidence">Why Civilizations Collapse — The Evidence</h3>
@@ -64,11 +85,49 @@
 <p>In pre-industrial societies, this was mitigated by guild systems and multi-year apprenticeships. A post-collapse settlement lacks the population to support full guild structures, but the underlying principle — redundancy of critical knowledge — is non-negotiable. Countermeasure: Principle 2 (Distributed Knowledge) — no critical skill held by fewer than 3 people.</p>
 <p><strong>Failure Mode 5: Demographic Collapse.</strong> The settlement's population drops below the minimum viable threshold for maintaining its critical systems. This can occur through disease, out-migration, low birth rates, or conflict.</p>
 <p>A settlement of 150 that loses 30 members to a single epidemic may find itself unable to maintain its water system, staff its governance councils, and farm its fields simultaneously. Unlike the other failure modes, demographic collapse can occur suddenly — a single disease event, a single violent conflict — with no gradual warning signs. Countermeasure: the Demographic Harmony module (04), which establishes minimum population thresholds for each critical system and triggers graduated emergency responses when thresholds are approached.</p>
+<pre><code class="language-text">
+    Population Threshold Chart — Viable Social Structures
+
+    People   Structure Unlocked
+    ------   --------------------------------------------------
+      25 +   |████████|  Single work team, basic task rotation
+      50 +   |████████████████|  Skill specialization, 2 work
+             |                |  teams, informal council
+     100 +   |████████████████████████|  Apprenticeships, formal
+             |                        |  governance, dedicated healers
+     150 +   |████████████████████████████████|  Full consensus
+             |                                |  governance, trade
+             |                                |  delegation, 3-deep
+             |                                |  skill redundancy
+    ------   --------------------------------------------------
+             Below 25: survival band only — no institutional depth
+</code></pre>
 <h3 id="the-recycling-cliff-as-social-pressure">The Recycling Cliff as Social Pressure</h3>
 <p>The Recycling Cliff — the point at which scavenged pre-collapse materials degrade beyond usefulness — is typically framed as a materials engineering problem. Steel corrodes. Copper oxidizes. Rubber perishes. Depending on climate and storage conditions, most scavenged metals become unreliable within 15-30 years, and plastics and rubber within 5-15 years. The settlement's initial infrastructure, tools, and mechanical systems will be built largely from salvage. When that salvage fails, the settlement must replace it with locally manufactured alternatives or lose the capability entirely.</p>
 <p>But the Recycling Cliff is equally a social problem. Scavenging and manufacturing require fundamentally different social organizations. Scavenging rewards small, mobile teams with broad practical knowledge — generalists who can identify useful materials across a wide debris field. Manufacturing rewards settled specialists with deep expertise in specific processes — a blacksmith who has spent years mastering the forge, a potter who understands local clay chemistry, a charcoal-burner who can produce consistent fuel. The transition from scavenging to manufacturing therefore requires a transition in social structure: from generalist teams to specialist workshops, from short-term expeditions to long-term apprenticeships, from immediate returns to deferred investment.</p>
 <p>This transition must be planned and initiated before the cliff arrives. If the settlement waits until its scavenged steel is failing before training blacksmiths, it is already too late — training a competent blacksmith requires years of practice under an experienced mentor. The Recycling Cliff module (02) addresses the material timelines. This rationale document frames the governance challenge: the settlement's decision-making processes must be capable of allocating resources to long-term capability development (apprenticeships, ore prospecting, furnace construction) even when short-term needs (this season's harvest, this month's water system repair) feel more urgent.</p>
 <p>This is exactly the kind of decision that consensus governance handles poorly without explicit structural support — which is why the Consensus Models module (03) includes protocols for long-horizon resource allocation.</p>
+<pre><code class="language-text">
+    Labor Specialization Web — Role Interdependencies
+
+          FARMER                    BUILDER
+        /   |   \                 /    |    \
+   seeds  food   fodder      timber  shelter  repairs
+       \    |      /             \     |     /
+        v   v     v               v    v    v
+      HEALER-----herbs/salves-----POTTER
+        |    \                    /   |
+     medicine \    charcoal     / vessels
+        |      v      |       v      |
+      TANNER--hides--BLACKSMITH--tools--&gt;ALL
+                      |      ^
+                 implements  ore/fuel
+                      v      |
+                   CHARCOAL-BURNER
+
+    Each arrow = a dependency. Losing any node degrades
+    ALL connected roles. Min. 3 practitioners per node.
+</code></pre>
 <p>The Recycling Cliff also creates a psychological pressure that interacts with Failure Mode 4 (Knowledge Loss). During the scavenging phase, the settlement's most valued members are the scouts and salvagers who bring back usable materials. During the manufacturing phase, the most valued members are the smiths, potters, and weavers who transform raw materials into finished goods. If the settlement has not begun training manufacturers before the cliff arrives, it faces a double crisis: the materials are failing and the people who could replace them do not yet exist. The social pressure to maintain the status quo — to keep sending out scavenging teams even as returns diminish — can be intense. Overcoming that pressure requires governance systems designed to make long-term investments against short-term resistance.</p>
 <h2 id="core-principles">Core Principles</h2>
 <p>The following five principles are not philosophical abstractions. They are engineering specifications for social systems, derived from the failure mode analysis above. Each principle directly counters one or more identified failure modes.</p>
@@ -76,6 +135,25 @@
 <p><strong>Principle 1: Adaptation Over Identity.</strong> The settlement must cultivate a culture where changing practices in response to evidence is valued rather than stigmatized. "We tried that and it didn't work, so we changed" must be a statement of pride, not shame. This directly counters Failure Mode 3 (Cultural Rigidity). Practical expression: when any community member proposes a change to established practice and presents evidence for it, the proposal must receive a formal hearing in council. It may be rejected — but it may never be dismissed on the grounds that "we have always done it this way."</p>
 <p><strong>Principle 2: Distributed Knowledge.</strong> No critical skill may be held by fewer than 3 people at any time. "Critical skill" is defined as any competency whose loss would degrade the settlement's ability to maintain water, food, shelter, energy, medical care, or governance. This directly counters Failure Mode 4 (Knowledge Loss). The settlement must maintain a skills matrix — a living document listing every critical skill and the people who hold it. When any skill drops to 2 holders, an apprenticeship must be initiated within 30 days. When it drops to 1 holder, it becomes a community emergency.</p>
 <p><strong>Principle 3: Governance as Infrastructure.</strong> Social systems — councils, conflict resolution processes, resource allocation protocols, apprenticeship programs — require the same regular maintenance as physical infrastructure. A water pipe that is not inspected will eventually leak. A governance process that is not reviewed will eventually be captured by a faction or rendered obsolete by changed conditions. The settlement must schedule regular governance reviews with the same discipline it schedules structural inspections. This directly counters Failure Mode 1 (Elite Capture) and Failure Mode 5 (Complexity Creep from the Common Failure Modes below).</p>
+<pre><code class="language-text">
+    Governance Evolution Timeline — Stages and Triggers
+
+    PHASE 1              PHASE 2              PHASE 3
+    Emergency            Council              Constitutional
+    Authority            Formation            Governance
+    ---------.-----------.-----------.-----------.--------&gt;
+    ● 1-3 leaders by     ● Elected/rotated    ● Written charter
+      necessity            council of 5-9     ● Formal amendment
+    ● Survival focus     ● Regular meetings     process
+    ● No formal rules    ● Oral agreements    ● Scheduled audits
+    ● Ad-hoc decisions   ● Role definitions   ● Leader removal
+                                                protocol
+         |                    |                    |
+    TRIGGER:             TRIGGER:             TRIGGER:
+    Crisis subsides;     Pop. &gt; 25, stable    Pop. &gt; 75, 2+ yrs
+    basic shelter and    food, recurring      stable governance,
+    water secured        disputes             long-horizon needs
+</code></pre>
 <p><strong>Principle 4: Demographic Awareness.</strong> The settlement must continuously monitor the relationship between its population and its carrying capacity. Too many people relative to food production leads to resource overshoot (Failure Mode 2). Too few people relative to critical system requirements leads to demographic collapse (Failure Mode 5). The settlement needs both a ceiling and a floor. The Demographic Harmony module (04) provides the tools for calculating both. Diplomatic engagement with neighboring groups — what the original module called the "Gray Hole" strategy, maintaining defensive anonymity while selectively exchanging knowledge and resources — provides a pressure valve when demographics trend toward either extreme.</p>
 <p><strong>Principle 5: Historical Humility.</strong> The settlement must study historical failures without assuming immunity to them. Every collapsed civilization believed it was exceptional. The Norse Greenlanders had the backing of the Church and the King of Norway. The Roman Empire had engineering, law, and military organization unmatched in the ancient world. The Maya had sophisticated mathematics and astronomy. None of it was sufficient. The settlement's study of history is not academic enrichment — it is threat intelligence. The Historical Reading Circle described below operationalizes this principle.</p>
 <div class="section-practical" id="practical-implementation">

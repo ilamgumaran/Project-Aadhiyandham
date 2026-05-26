@@ -8,6 +8,28 @@ Social structures determine whether a group of 150 people survives a bad harvest
 
 This section synthesizes historical failure analysis into actionable governance and demographic principles. It draws on the work of Jared Diamond, Joseph Tainter, Peter Turchin, Elinor Ostrom, and James C. Scott — not as academic exercise, but as engineering specifications for social systems. The three modules that follow this rationale (the Recycling Cliff, Consensus Models, and Demographic Harmony) are the implementation layer. This document is the why. It explains the specific threats each module is designed to counter, the historical evidence for those threats, and the principles that connect individual modules into a coherent social architecture.
 
+```text
+    Social Contract Layers — Nested Obligations
+
+              +-------------------------------+
+              |        CONFEDERATION          |
+              |   +-------------------------+ |
+              |   |      SETTLEMENT         | |
+              |   |   +-------------------+ | |
+              |   |   |    WORK GROUP     | | |
+              |   |   |  +--------------+ | | |
+              |   |   |  |  HOUSEHOLD   | | | |
+              |   |   |  | +----------+ | | | |
+              |   |   |  | |INDIVIDUAL| | | | |
+              |   |   |  | +----------+ | | | |
+              |   |   |  +--------------+ | | |
+              |   |   +-------------------+ | |
+              |   +-------------------------+ |
+              +-------------------------------+
+    Each ring carries obligations inward (protection, resources)
+    and outward (labor, compliance, knowledge-sharing).
+```
+
 > **SAFE**: This module contains historical analysis and social planning frameworks. All content is safe to discuss and implement. The governance models described here have been tested by real communities over centuries.
 
 ## Theoretical Foundation
@@ -92,6 +114,24 @@ In pre-industrial societies, this was mitigated by guild systems and multi-year 
 
 A settlement of 150 that loses 30 members to a single epidemic may find itself unable to maintain its water system, staff its governance councils, and farm its fields simultaneously. Unlike the other failure modes, demographic collapse can occur suddenly — a single disease event, a single violent conflict — with no gradual warning signs. Countermeasure: the Demographic Harmony module (04), which establishes minimum population thresholds for each critical system and triggers graduated emergency responses when thresholds are approached.
 
+```text
+    Population Threshold Chart — Viable Social Structures
+
+    People   Structure Unlocked
+    ------   --------------------------------------------------
+      25 +   |████████|  Single work team, basic task rotation
+      50 +   |████████████████|  Skill specialization, 2 work
+             |                |  teams, informal council
+     100 +   |████████████████████████|  Apprenticeships, formal
+             |                        |  governance, dedicated healers
+     150 +   |████████████████████████████████|  Full consensus
+             |                                |  governance, trade
+             |                                |  delegation, 3-deep
+             |                                |  skill redundancy
+    ------   --------------------------------------------------
+             Below 25: survival band only — no institutional depth
+```
+
 ### The Recycling Cliff as Social Pressure
 
 The Recycling Cliff — the point at which scavenged pre-collapse materials degrade beyond usefulness — is typically framed as a materials engineering problem. Steel corrodes. Copper oxidizes. Rubber perishes. Depending on climate and storage conditions, most scavenged metals become unreliable within 15-30 years, and plastics and rubber within 5-15 years. The settlement's initial infrastructure, tools, and mechanical systems will be built largely from salvage. When that salvage fails, the settlement must replace it with locally manufactured alternatives or lose the capability entirely.
@@ -101,6 +141,28 @@ But the Recycling Cliff is equally a social problem. Scavenging and manufacturin
 This transition must be planned and initiated before the cliff arrives. If the settlement waits until its scavenged steel is failing before training blacksmiths, it is already too late — training a competent blacksmith requires years of practice under an experienced mentor. The Recycling Cliff module (02) addresses the material timelines. This rationale document frames the governance challenge: the settlement's decision-making processes must be capable of allocating resources to long-term capability development (apprenticeships, ore prospecting, furnace construction) even when short-term needs (this season's harvest, this month's water system repair) feel more urgent.
 
 This is exactly the kind of decision that consensus governance handles poorly without explicit structural support — which is why the Consensus Models module (03) includes protocols for long-horizon resource allocation.
+
+```text
+    Labor Specialization Web — Role Interdependencies
+
+          FARMER                    BUILDER
+        /   |   \                 /    |    \
+   seeds  food   fodder      timber  shelter  repairs
+       \    |      /             \     |     /
+        v   v     v               v    v    v
+      HEALER-----herbs/salves-----POTTER
+        |    \                    /   |
+     medicine \    charcoal     / vessels
+        |      v      |       v      |
+      TANNER--hides--BLACKSMITH--tools-->ALL
+                      |      ^
+                 implements  ore/fuel
+                      v      |
+                   CHARCOAL-BURNER
+
+    Each arrow = a dependency. Losing any node degrades
+    ALL connected roles. Min. 3 practitioners per node.
+```
 
 The Recycling Cliff also creates a psychological pressure that interacts with Failure Mode 4 (Knowledge Loss). During the scavenging phase, the settlement's most valued members are the scouts and salvagers who bring back usable materials. During the manufacturing phase, the most valued members are the smiths, potters, and weavers who transform raw materials into finished goods. If the settlement has not begun training manufacturers before the cliff arrives, it faces a double crisis: the materials are failing and the people who could replace them do not yet exist. The social pressure to maintain the status quo — to keep sending out scavenging teams even as returns diminish — can be intense. Overcoming that pressure requires governance systems designed to make long-term investments against short-term resistance.
 
@@ -115,6 +177,26 @@ These principles should be understood by every community member, not just those 
 **Principle 2: Distributed Knowledge.** No critical skill may be held by fewer than 3 people at any time. "Critical skill" is defined as any competency whose loss would degrade the settlement's ability to maintain water, food, shelter, energy, medical care, or governance. This directly counters Failure Mode 4 (Knowledge Loss). The settlement must maintain a skills matrix — a living document listing every critical skill and the people who hold it. When any skill drops to 2 holders, an apprenticeship must be initiated within 30 days. When it drops to 1 holder, it becomes a community emergency.
 
 **Principle 3: Governance as Infrastructure.** Social systems — councils, conflict resolution processes, resource allocation protocols, apprenticeship programs — require the same regular maintenance as physical infrastructure. A water pipe that is not inspected will eventually leak. A governance process that is not reviewed will eventually be captured by a faction or rendered obsolete by changed conditions. The settlement must schedule regular governance reviews with the same discipline it schedules structural inspections. This directly counters Failure Mode 1 (Elite Capture) and Failure Mode 5 (Complexity Creep from the Common Failure Modes below).
+
+```text
+    Governance Evolution Timeline — Stages and Triggers
+
+    PHASE 1              PHASE 2              PHASE 3
+    Emergency            Council              Constitutional
+    Authority            Formation            Governance
+    ---------.-----------.-----------.-----------.-------->
+    ● 1-3 leaders by     ● Elected/rotated    ● Written charter
+      necessity            council of 5-9     ● Formal amendment
+    ● Survival focus     ● Regular meetings     process
+    ● No formal rules    ● Oral agreements    ● Scheduled audits
+    ● Ad-hoc decisions   ● Role definitions   ● Leader removal
+                                                protocol
+         |                    |                    |
+    TRIGGER:             TRIGGER:             TRIGGER:
+    Crisis subsides;     Pop. > 25, stable    Pop. > 75, 2+ yrs
+    basic shelter and    food, recurring      stable governance,
+    water secured        disputes             long-horizon needs
+```
 
 **Principle 4: Demographic Awareness.** The settlement must continuously monitor the relationship between its population and its carrying capacity. Too many people relative to food production leads to resource overshoot (Failure Mode 2). Too few people relative to critical system requirements leads to demographic collapse (Failure Mode 5). The settlement needs both a ceiling and a floor. The Demographic Harmony module (04) provides the tools for calculating both. Diplomatic engagement with neighboring groups — what the original module called the "Gray Hole" strategy, maintaining defensive anonymity while selectively exchanging knowledge and resources — provides a pressure valve when demographics trend toward either extreme.
 

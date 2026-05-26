@@ -146,11 +146,11 @@
 - [I] `05_Textiles_and_Leather.md`
 - [I] `06_Advanced_Structural_Engineering.md`
 - [I] `07_Foundational_Chemistry.md`
-- [T] `08_Ceramic_Synthesis.md`
-- [T] `09_Cordage_and_Rope.md`
+- [I] `08_Ceramic_Synthesis.md`
+- [I] `09_Cordage_and_Rope.md`
 
 ### 10 The Society
-- [T] `01_Rationale_and_Importance.md`
+- [I] `01_Rationale_and_Importance.md`
 - [T] `02_Recycling_Cliff.md`
 - [T] `03_Consensus_Models.md`
 - [T] `04_Demographic_Harmony.md`
@@ -277,3 +277,4 @@
 | P2-29 | 2026-05-04 | 08b.04, 08b.05, 09.01 | Play as Development (4 new: play types spectrum structured→unstructured, risk-benefit assessment decision framework, play environment design zones, cognitive development play→skill pathway; 311→413 lines), Intergenerational Identity (4 new: knowledge transmission chain elder→youth, narrative identity construction layers, rites of passage 3-phase sequence, continuity vs adaptation balance; 290→379 lines). **SECTION 08b COMPLETE — 5/5 at [I]. OUTCOME 4 COMPLETE — 15/15 at [I]. BEGIN OUTCOME 5: Decadal Resilience.** Mechanics Rationale (4 new: technology dependency ladder electronics→stone lifespan, 6 simple machines with MA formulas, material lifecycle closed loop, industrial regression by population tiers; 290→379 lines). |
 | P2-30 | 2026-05-25 | 09.02, 09.03, 09.04 | Mechanical Power (4 new: waterwheel types overshot/breastshot/undershot with efficiency %, mechanical advantage pulley ratios, crank mechanism rotary→reciprocating, power budget cascading losses 785W→533W; 290→373 lines), Low-Tech Mobility (4 new: road surface cross-section crowned/layered, wheel and axle force equations, bicycle drivetrain gear ratio, travois vs cart comparison geometry/terrain; 291→372 lines), Material Synthesis & Recycling (4 new: material recycling closed loop, material degradation timeline, bloomery operation sequence, carburization & fold-welding; 291→374 lines). |
 | P2-31 | 2026-05-25 | 09.05, 09.06, 09.07 | Textiles & Leather (4 new: fiber processing pipeline harvest→spinning→loom, loom schematic side-view warp/weft/heddle/shuttle, weave patterns plain/twill/satin O/U grid, leather tanning 3-branch brain/vegetable/alum; 291→376 lines), Advanced Structural Engineering (4 new: arch mechanics semicircular thrust lines, foundation rubble trench cross-section, load path roof→foundation force chain, truss types king/queen/Howe with C/T labels; 290→372 lines), Foundational Chemistry (4 new: lime kiln cross-section 3 temperature zones, pH scale 0-14 with settlement substances, lye leaching barrel apparatus, saponification process pot→mold→cure; 291→374 lines). |
+| P2-32 | 2026-05-25 | 09.08, 09.09, 10.01 | Ceramic Synthesis (4 new: glaze chemistry SiO₂/Al₂O₃/flux triangle, pottery forms cross-sections storage/cooking/water, clay preparation pipeline 7-step, firing temperature curve with 573°C quartz inversion; 290→366 lines), Cordage & Rope (4 new: rope construction hierarchy fibers→yarn→strand→rope Z/S twist, bast fiber extraction 4-step, knot strength bar chart splice→overhand, rope walk layout top-down 3-strand rig; 291→375 lines). **SECTION 09 COMPLETE — 9/9 at [I]. BEGIN SECTION 10.** The Society Rationale (4 new: social contract concentric rings individual→confederation, population threshold bars 25/50/100/150, labor specialization web 7 roles, governance evolution 3-phase timeline; 290→372 lines). |

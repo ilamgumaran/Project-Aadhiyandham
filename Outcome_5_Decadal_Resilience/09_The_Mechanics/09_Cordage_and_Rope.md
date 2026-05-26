@@ -27,6 +27,26 @@ The hierarchy of rope construction follows a strict progression:
 - **Strands** are laid together (opposite direction again) to form **rope**
 - **Ropes** can be laid together to form **cable** (for the heaviest applications)
 
+```text
+  ROPE CONSTRUCTION HIERARCHY (Cross-Section View)
+
+  Single Fiber        Yarn (Z-twist)       Strand (S-twist)       Rope (Z-twist)
+  ~~~~~~~~~~~~        ///////////////      \\\\\\\\\\\\\\\\\      ///////////////
+                      /// fiber ////       \\\ yarn  \\\\\\\      \\\ strand ///
+       ~              /// fiber ////       \\\ yarn  \\\\\\\      \\\ strand ///
+                      /// fiber ////       \\\ yarn  \\\\\\\      \\\ strand ///
+                      ///////////////      \\\\\\\\\\\\\\\\\      ///////////////
+
+       |                   |                     |                      |
+       v                   v                     v                      v
+   Raw fiber       Fibers twisted        Yarns twisted           Strands laid
+   (cellulose)     together (Z)          together (S)            together (Z)
+
+  KEY: Each level REVERSES twist direction of the level below.
+       Z-twist = spirals up-right  (like center of letter Z)
+       S-twist = spirals up-left   (like center of letter S)
+```
+
 The most common construction is three-strand hawser-laid rope, used universally for general-purpose work. Four-strand rope (shroud-laid) is rounder and more resistant to crushing but slightly weaker per unit weight. Braided construction, where strands are interwoven rather than twisted, does not rotate under load (useful for pulleys) but is far more difficult to produce by hand and nearly impossible to splice in the field.
 
 For load calculations, you must distinguish breaking strength from working load. The breaking strength is the force at which the rope catastrophically fails. The working load is the maximum force you should routinely apply, and it must include a safety factor:
@@ -129,6 +149,30 @@ The processing sequence after retting follows a standard progression. **Breaking
 
 Vigorously rub the dry bast fibers over a smooth log to further separate individual threads and make them soft and pliable. This buffing step is essential for producing uniform cordage.
 
+```text
+  BAST FIBER EXTRACTION — Plant Stem Cross-Section and Processing
+
+  CROSS-SECTION (e.g., hemp, nettle, dogbane)
+          _______________
+         /   outer bark   \          1. RETTING (5-14 days water / 3-6 wks dew)
+        |  +-----------+   |            Pectin dissolves, loosening fiber
+        |  | BAST FIBER |   |           from woody core
+        |  | (harvest   |   |
+        |  |  this)     |   |        2. BREAKING
+        |  +-----------+   |            Snap stalks over board to fracture
+        |  |  woody     |   |           the inner pith into short pieces
+        |  |  core      |   |
+        |  |  (pith)    |   |        3. SCUTCHING
+        |  +-----------+   |            Scrape shives (woody bits) away
+         \ _____________ /              with wooden blade
+                                     4. HACKLING
+  HACKLE COMB (side view)               Draw fibers through combs
+    fiber bundle --->                    to align and clean
+    |||||||||||||||||||
+    |↓|↓|↓|↓|↓|↓|↓|↓|              Result: clean, aligned bast fibers
+    nails in wooden block            ready for twisting into cordage
+```
+
 **Fiber storage:** Store processed fibers dry, bundled loosely, and out of direct sunlight. A dry attic or covered shelf is ideal. Well-stored bast fibers remain usable for years.
 
 ### The Reverse Wrap
@@ -175,6 +219,23 @@ When you reach the end of your fiber bundle, you must splice in new material.
 
 Any knot weakens a rope by creating a sharp bend where fibers on the outside of the curve bear disproportionate load. Splices are always preferred over knots for permanent connections.
 
+```text
+  KNOT STRENGTH COMPARISON — % of Rope Breaking Strength Retained
+
+  Eye splice     |████████████████████████████████████████████████| 90-95%
+  Short splice   |█████████████████████████████████████████████   | 85%
+  Figure-eight   |████████████████████████████████████████        | 75-80%
+  Bowline        |████████████████████████████████                | 60-75%
+  Clove hitch    |██████████████████████████████                  | 60-65%
+  Sheet bend     |████████████████████████████                    | 55-60%
+  Overhand knot  |██████████████████████████                      | 45-50%
+                 0%    20%    40%    60%    80%   100%
+
+  NOTE: Splices interweave strands — no sharp bends.
+        Knots create bends where outer fibers bear excess load.
+        Always prefer splices for permanent, load-bearing joints.
+```
+
 ### Three-Strand Rope Laying
 
 Graduating from two-ply cordage to three-strand rope requires coordination between multiple people and a longer working space.
@@ -182,6 +243,29 @@ Graduating from two-ply cordage to three-strand rope requires coordination betwe
 The concept of the rope walk: three people each twist a single strand simultaneously using a hand crank or simple spinning hook. A fourth person, the "top man," stands at the opposite end holding a conical wooden separator (the "top") with three grooves. As the three strand-twisters apply Z-twist to their individual strands, the top man allows the strands to come together, applying S-twist as they converge. The opposing twist directions lock the three strands into a stable hawser-laid rope.
 
 **Makeshift rope walk:** Drive a sturdy post into the ground and attach three iron hooks (bent nails, or three-pronged wooden forks) to a rotating handle. Tie one end of each strand to a hook. Three people walk backward, each paying out and twisting a single strand. The person at the post controls the rate of lay by adjusting how quickly they allow the handle to rotate. A minimum clear lane of 50 meters is needed for practical rope production; historical rope walks were 300+ meters long to produce ship-length cordage.
+
+```text
+  ROPE WALK — Top-Down View of Three-Strand Laying Rig
+
+  CRANK END                                              TOP END
+  =========                                              =======
+      Hook A ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~\
+                                                      \
+      Hook B ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~+--[TOP]---> Finished
+                                                      /           Rope
+      Hook C ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~/
+  =========                                              =======
+  [Crank handle                                      [Conical wooden
+   with 3 hooks]         <--- 50-300+ meters --->     separator with
+                                                      3 grooves]
+
+  OPERATION:
+  1. Three twisters at crank end apply Z-twist to individual strands
+  2. Top man at far end holds the "top" (conical separator)
+  3. As strands converge through the top, they naturally S-twist together
+  4. Top man walks slowly toward crank end as rope shortens during laying
+  5. Finished rope emerges behind the top, balanced and locked
+```
 
 **Lay length:** Approximately 3 turns per 30 cm (per foot) produces an optimal balance of flexibility and strength for general-purpose hawser-laid rope. Too few turns per unit length and the rope is loose, spongy, and weak. Too many turns and the rope becomes stiff, prone to kinking, and difficult to splice. You can check lay tightness by feel: a properly laid rope should have a firm, round cross-section with no gaps between strands, but should still flex smoothly around a post without kinking.
 
