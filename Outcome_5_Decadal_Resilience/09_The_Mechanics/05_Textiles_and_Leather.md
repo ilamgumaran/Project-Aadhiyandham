@@ -50,6 +50,31 @@ The purpose of tanning is to cross-link the collagen fibers, rendering them resi
 
 Each method has distinct advantages, and a settlement should practice all three to match tanning technique to end use.
 
+```text
+  LEATHER TANNING PROCESS: Raw Hide to Finished Leather
+
+  FRESH HIDE
+      |
+      v
+  [1] FLESHING -------> scrape off fat, membrane, vessels
+      v
+  [2] DEHAIRING ------> lye soak (pH 12-13), 3-7 days
+      v
+  [3] RINSING --------> wash out residual lye
+      |
+      +----------------+----------------+
+      |                |                |
+      v                v                v
+   BRAIN TAN        VEG TAN          ALUM TAN
+   lipids+smoke     bark tannins     aluminum salts
+   24hr + working   1-12 months      2-7 days
+      |                |                |
+      v                v                v
+   BUCKSKIN         FIRM LEATHER     TAWED LEATHER
+   soft, golden     rigid, brown     stiff, white
+   clothing/gloves  soles/belts      linings/light use
+```
+
 The historical scale of these processes should not be underestimated. The Roman leather industry supplied sandals, body armor, tents, water skins, and equipment for over 400,000 soldiers simultaneously. Medieval European towns had entire quarters dedicated to tanning, invariably located downwind and downstream due to the overwhelming smell of retting hides and liming vats.
 
 The processes described in this module are not primitive crafts; they are the same techniques that scaled to civilizational output for millennia.
@@ -106,6 +131,20 @@ Expected yield: approximately 15-20% of original stem weight remains as usable f
 
 Hackling aligns fibers parallel to each other and separates quality grades. Long fibers that pass through all combs are "line" fiber, suitable for fine thread. Short fibers that are combed out are "tow," used for coarse cord, stuffing, caulking, or tinder. A well-processed hectare of flax yields approximately 25-40 kg of line fiber, enough for roughly 50-80 square meters of linen cloth.
 
+```text
+  FIBER PROCESSING PIPELINE: Raw Plant Stem to Finished Thread
+
+  Harvest       Retting         Breaking       Scutching       Hackling
+  (pull by   -> (soak 7-14d) -> (crush      -> (beat off    -> (comb thru
+   roots)        bacteria        stems on       shive with      fine nails)
+                 dissolves       flax brake)    scutch knife)       |
+                 pectin)                                            v
+       |                                                     line fiber
+       v                                                     (fine) -> SPINNING -> LOOM
+  ~150-250 kg/ha dried stems                                 tow (coarse) -> cordage
+                                                             yield: 15-20% of stem wt.
+```
+
 ### Fiber Processing: Wool
 
 **Shearing:** Sheep are shorn once per year in late spring, after the last frost risk has passed. A single adult sheep yields 2-5 kg of raw fleece (greasy wool) depending on breed. The fleece is removed in one piece by cutting close to the skin with hand shears or spring shears.
@@ -139,6 +178,52 @@ Construction requires competent woodworking skills, a leather or cord drive belt
 A floor loom for producing 60 cm wide cloth requires a frame approximately 1.0 meters wide by 1.5 meters deep, constructed from heavy hardwood to resist the tension of hundreds of warp threads.
 
 A minimum of 2 harnesses produces plain weave (the simplest over-under pattern). Adding a third and fourth harness enables twill weave patterns, which produce denser, more durable, and more water-resistant fabric. Twill is the preferred weave for work clothing and outerwear due to its superior wind resistance and drape.
+
+```text
+  FLOOR LOOM SCHEMATIC (side view)
+
+         warp beam (rear)
+              ||
+    +---------||----------+
+    |    warp threads      |   heddles hang from harnesses
+    |    ||||||||||||       |   (raise/lower warp groups)
+    |    ||||||||||||       |
+    |  ==+===+===+===+==   |  <-- harness frame 1
+    |    | / | / | / |     |
+    |  ==+===+===+===+==   |  <-- harness frame 2
+    |    ||||||||||||       |
+    |    ||||||||||||       |
+    |    |  SHED    |      |  <-- shuttle passes through here
+    |    ||||||||||||       |       carrying weft thread
+    |    ====REED====      |  <-- beater (swings forward to
+    |    ||||||||||||       |      pack weft against cloth)
+    |    [finished cloth]  |
+    |         ||           |
+    +---------||----------+
+         cloth beam (front)
+              ||
+         foot treadles
+         [  1  ] [  2  ]
+```
+
+```text
+  WEAVE PATTERNS COMPARISON (top view, O = over, U = under)
+
+  PLAIN WEAVE (2 harness)   TWILL WEAVE (3-4 harness)   SATIN (5+)
+  balanced, simple           diagonal, dense, durable    smooth/lustrous
+
+  warp: 1 2 3 4 5 6         warp: 1 2 3 4 5 6          warp: 1 2 3 4 5
+   A:   O U O U O U          A:   O O U O O U           A:   O U U U U
+   B:   U O U O U O          B:   U O O U O O           B:   U U O U U
+   C:   O U O U O U          C:   O U O O U O           C:   U U U U O
+   D:   U O U O U O          D:   O O U O O U           D:   U O U U U
+
+  +-+-+-+-+-+-+              +--+-+--+-+                 long floats =
+  |X| |X| |X| |             |XX| |XX| |                 sheen but
+  | |X| |X| |X|             | |XX| |XX|                 weaker fabric
+  |X| |X| |X| |             |X| |XX| |X|
+  +-+-+-+-+-+-+              +--+-+--+-+
+```
 
 **Warp setup:** Calculate the total warp thread count by multiplying the desired ends per centimeter by the fabric width. For sturdy linen cloth, 8-12 ends per centimeter is standard. For a 60 cm width at 10 ends per centimeter, the loom requires 600 individual warp threads.
 

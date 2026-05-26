@@ -46,6 +46,24 @@ Bonding patterns determine wall integrity. English bond alternates courses of st
 
 The arch is the fundamental masonry spanning element. A semicircular arch converts vertical load into compressive forces flowing along the curve and down into the piers. No brick in the arch is in tension. Masonry arches can span 3 to 6 meters while a flat brick lintel cannot safely span more than about 1 meter. Building an arch requires a temporary wooden form (centering) to support the bricks until the keystone is placed and mortar has set.
 
+```text
+ARCH MECHANICS — SEMICIRCULAR ARCH
+
+           LOAD (W)
+             v
+        ___[KEY]___          KEY = Keystone
+       / C   |   C \         C = Compression along
+      /   \  |  /   \            the thrust line
+     / C   \ | /  C  \
+    /     \  \|/  /    \     Thrust follows arch curve
+   |=======\==*==/======|    — all forces compressive
+   | PIER   \   /  PIER |
+   |   H <--| |-->  H   |   H = Horizontal thrust
+   |========| |=========|   Abutments must resist
+   //////////   //////////   outward push or collapse
+      R ^             ^ R    R = Vertical reaction
+```
+
 ### The Lime Cycle: Chemistry of Permanence
 
 The complete lime cycle: CaCO3 (limestone) is heated to 900 degrees Celsius, driving off CO2 to produce CaO (quicklime). Quicklime reacts violently with water to produce Ca(OH)2 (slaked lime). Slaked lime is mixed with sand and applied as mortar. Over months, the mortar absorbs CO2 from the atmosphere, reverting to CaCO3 — limestone. The mortar literally becomes stone by re-absorbing the CO2 driven off during calcination. This is a closed cycle.
@@ -79,6 +97,25 @@ Wattle-and-daub consists of a woven stick framework (the wattle) plastered with 
 
 All three earthen methods share a critical vulnerability: water. Protection requires three measures: a good roof with wide overhangs (minimum 45 centimeters), a raised foundation to prevent rising damp, and lime render on the exterior. With these protections, earthen buildings survive for centuries — cob farmhouses in Devon, England, dating to the 15th century are still inhabited. Without them, an earthen wall may not survive a single harsh winter.
 
+```text
+FOUNDATION CROSS-SECTION — RUBBLE TRENCH WITH STEM WALL
+
+      WALL (cob, brick, or timber frame)
+  |==========================================|
+  |  STEM WALL — stone/brick, 30cm+ above grade |
+  |==========================================|
+  |  MOISTURE BARRIER (lime plaster / stone) |
+  ~~~~GRADE~~~~~\              /~~~~GRADE~~~~
+                 \ SLOPE AWAY /  <- drain water away
+  - - - - - - - -\----------/- - - - - - - -
+  |  RUBBLE TRENCH (gravel/broken stone)    |
+  |  Water percolates DOWN, not UP          |
+  |  DRAIN TILE at base (clay pipe)         |
+  |=========================================|
+  /////////// UNDISTURBED SUBSOIL ////////////
+       Bearing pressure spread across width
+```
+
 ---
 
 ## Core Principles
@@ -92,6 +129,30 @@ All three earthen methods share a critical vulnerability: water. Protection requ
 4. **The Seasonal Building Cycle** — Fell trees in winter (lowest sap), cut joints in spring, raise frames in summer, finish walls before freeze. Mold bricks in spring/summer, air-dry through summer, fire in autumn. Never mortar when temperatures will drop below 5 degrees Celsius within 48 hours — frozen mortar never achieves full strength.
 
 5. **The Foundation-First Principle** — Every permanent structure requires a foundation separating it from ground moisture. Stone footings raised minimum 30 centimeters above grade, or a compacted gravel pad with drainage, are the minimum. Without this, timber rots from the base and earthen walls erode from rising damp. The foundation is the least visible and most critical element of any building.
+
+```text
+LOAD PATH DIAGRAM — FORCES FROM ROOF TO FOUNDATION
+
+       SNOW/WIND LOAD
+       vvvvvvvvvvvv
+  ========[ROOF]========     C = Compression (down)
+       \    C    /
+        \   |   /
+  -------[TIE BEAM]------    Collects rafter thrust
+          | C |
+  ========[WALL PLATE]===    Transfers to posts
+          | C |
+     [POST]   [POST]         Vertical members
+          | C |
+  ========[SILL BEAM]=====   Spreads load to foundation
+          | C |
+  ///[STONE FOUNDATION]///   Bears on subsoil
+          | C |
+  ====[BEARING SOIL]======   Ultimate support
+
+  Every element in this chain is in COMPRESSION.
+  Wind loads resisted by diagonal bracing.
+```
 
 ---
 
@@ -114,6 +175,27 @@ The scarf joint splices two timbers end-to-end when available lengths (typically
 Raising: assemble each frame flat on the ground with all joints pegged. Raise with ropes and pike poles, pivoting on the sill. Minimum crew: 6 to 8 adults plus a leader. Brace each frame immediately upon reaching vertical. Connect frames with tie beams before releasing braces. Never stand in the plane of a frame being raised.
 
 Roof structure: the king post truss (single central vertical) is simplest, suitable for spans up to 6 meters. The queen post truss (two verticals) spans wider bays. The critical principle is triangulation — a triangle cannot deform without changing member lengths. Every roof structure must be resolved into triangles.
+
+```text
+TRUSS TYPES — MEMBER FORCES (C = Compression, T = Tension)
+
+KING POST (up to 6m)       QUEEN POST (6-10m)
+
+       /\                        /\
+    C /  \ C                  C /  \ C
+     / T| \                    / T| T| \
+    /   |   \                 / __|__| \
+   /====|====\               /==|=QP=|==\
+   <-- T --> T               <-T->   <-T->
+   KP in tension (T)        QPs in compression (C)
+   Tie beam in tension       Wider span capability
+
+HOWE TRUSS (8-15m)          Verticals: T
+     /|\  /|\  /\            Diagonals: C
+  C / T| \C| \/ T\ C        For barns and
+   /===|===*===|===\         community halls
+   <------ T ------->
+```
 
 Roofing materials: thatch (rye straw or water reed) provides excellent insulation at a steep pitch (45 degrees minimum), lasting 25 to 30 years for water reed and 15 to 20 years for straw. Wood shingles (cedar or oak, split not sawn) last 20 to 40 years. Fired clay tiles have an indefinite lifespan but require stronger framing to support their weight (50 to 70 kilograms per square meter versus 25 to 35 for thatch).
 

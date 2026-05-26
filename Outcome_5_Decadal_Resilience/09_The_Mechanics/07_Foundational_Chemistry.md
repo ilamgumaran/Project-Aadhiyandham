@@ -58,6 +58,24 @@ The lime cycle is a closed chemical loop that has been exploited by builders for
 
 - **Carbonation:** Ca(OH)2 + CO2 yields CaCO3 + H2O — slaked lime absorbs carbon dioxide from the air over days, weeks, and months, slowly reverting to calcium carbonate — limestone. This final stage is why lime mortar hardens over time: it is literally turning back into stone. The process is called "curing" and continues for years, with mortar growing stronger the longer it is exposed to air.
 
+```text
+        LIME KILN CROSS-SECTION (Earth-Mound Type)
+        ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+                    chimney opening
+                       |||
+         /====================================\
+        /   LIMESTONE  CHARGE  (CaCO3)         \     ZONE 3: 900+ C
+       |    stacked blocks with air gaps        |    calcination
+       |========================================|
+       |  /\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\  |    ZONE 2: 600-900 C
+       | /  FIRE BED  (hardwood fuel)         \ |    active burning
+       |========================================|
+       |   :  :  draft  channels  :  :  :  :   |    ZONE 1: preheating
+       \======[AIR]======[AIR]======[AIR]=====./
+        ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+            earth mound insulation layer
+```
+
 Lime applications extend well beyond mortar:
 
 - **Water purification:** adding slaked lime raises pH, killing waterborne pathogens
@@ -107,6 +125,25 @@ These pigments are ground to fine powder and mixed with a binder (egg, oil, or l
 
 2. **The pH Discipline Principle** — Every chemical process in this module revolves around pH control. Lye operates at high pH (13-14): it dissolves fats, removes hair from hides, and breaks down plant fibers. Vinegar operates at low pH (2-3): it preserves food, neutralizes lye spills, and cleans mineral deposits. Lime operates at high pH (12-13): it kills pathogens, processes corn, and hardens into mortar. Understanding pH as a single continuum from acid (0) to base (14) with neutral water at 7 is the most important chemistry concept the settlement can internalize. Every chemical problem is, at its root, a pH problem.
 
+```text
+    pH SCALE WITH SETTLEMENT-RELEVANT SUBSTANCES
+    =============================================
+    ACID                    NEUTRAL                    BASE
+    0     2     4     6     7     8    10    12    14
+    |-----|-----|-----|-----|-----|-----|-----|-----|
+    :  vinegar  :     :   water   :     :     :   lye (KOH)
+    :  (2-3)    :     :   (7.0)   :     :     :   (13-14)
+    :     : pickled   :     :     :     : slaked    :
+    :     : foods     :     :     :     : lime      :
+    :     : (3-4)     :     :     :     : (12-13)   :
+    :     :     : tannin   :   wood     :     :     :
+    :     :     : bath     :   ash      :     :     :
+    :     :     : (4-5)    :  water     :     :     :
+    :     :     :     :     : (9-10)    :     :     :
+    |-----|-----|-----|-----|-----|-----|-----|-----|
+    CORROSIVE         SAFE RANGE          CAUSTIC
+```
+
 3. **The Safety-First Principle** — Lye, quicklime, and concentrated acids cause chemical injury that can permanently disable within seconds of contact. Establish a dedicated chemistry workspace AWAY from living quarters, food preparation, and children's areas. Stock neutralizers: vinegar for lye/lime exposure, lime water for acid exposure. Eye protection is MANDATORY — a single splash of lye to an unprotected eye causes permanent blindness. Train every adult in chemical safety and first-response procedures.
 
 4. **The Stockpile Principle** — Chemical production is seasonal and batch-dependent. Soap requires rendered fat (available after autumn slaughter) and concentrated lye (requires dry-stored ash). Vinegar requires fruit (available at harvest). Tannin bark is best harvested in spring when sap loosens the bark. Produce in quantity during the appropriate season and stockpile for year-round use. A settlement of 50 people requires approximately 50-100 kg of soap per year (1-2 kg per person) — roughly one batch every two weeks.
@@ -126,6 +163,33 @@ These pigments are ground to fine powder and mixed with a binder (egg, oil, or l
 **The leaching barrel:** Construct the apparatus by drilling a small drainage hole in the bottom of a wooden barrel or large bucket. Place a layer of clean gravel at the bottom, covered by a 5-centimeter layer of dry straw acting as a filter to prevent ash from clogging the drain. Pack the barrel tightly with hardwood ash to within a few inches of the top.
 
 **The wash:** Slowly pour rainwater (naturally soft and mineral-free) over the ash. Do not flood it; pour in batches over 3-5 days, allowing each addition to percolate through before adding more. First runnings are the strongest; later runnings are progressively weaker. Collect all runnings in a single container, then boil down to concentrate if the combined solution is too weak.
+
+```text
+    LYE LEACHING APPARATUS (Side View)
+    ====================================
+          rainwater
+            | | |
+            v v v
+       +-----------+
+       |  HARDWOOD  |  <-- wooden barrel
+       |    ASH     |      packed tight
+       |  (100-120  |
+       |   liters)  |
+       |............|  <-- straw filter layer
+       |::::::::::::|  <-- gravel layer
+       +-----+------+
+             |  drain hole
+             v
+       [===========]   <-- collection vessel
+       [ raw lye   ]       (brown liquid)
+       [===========]
+             |
+        EGG FLOAT TEST:
+        sinks = too weak    floats high = too strong
+            O                     O
+           ~~~                 ~~O~~
+        [     ]               [     ]
+```
 
 **Testing:** The brown liquid that drips from the bottom of the barrel is raw lye. Test its strength with the egg float test: float a fresh, raw egg in its shell in the lye water. If the egg sinks, the lye is too weak — pour it back through a fresh batch of ash or boil it down further. If the egg floats with an area of shell roughly the size of a small coin exposed above the surface, the concentration is correct for soap-making.
 
@@ -151,6 +215,25 @@ These pigments are ground to fine powder and mixed with a binder (egg, oil, or l
 **Additives:** At trace, aromatic additives may be stirred in: crushed lavender, dried mint leaves, pine needles, or other fragrant plant material. These provide pleasant scent and mild antimicrobial properties.
 
 **Molding and curing:** Pour the traced mixture into wooden molds lined with cloth for easy removal. Let it sit for 48 hours to harden, then cut into bars using a taut wire or thin knife. Bars MUST cure in a well-ventilated area for 4-6 weeks, turned occasionally to ensure even drying on all sides. The curing process ensures all remaining caustic lye reacts completely with the fat, producing a mild and safe finished bar.
+
+```text
+    SAPONIFICATION PROCESS (Equipment Cross-Section)
+    =================================================
+    FAT + LYE  ------->  SOAP + GLYCERIN
+
+         lye solution                wooden mold
+            \ /                     +----------+
+             v                      | /cloth / |
+    +================+              |/  lined /|
+    ||  cast-iron   ||  stir       /|  ______  |
+    ||    pot       ||  ===>      / | |      | |
+    || melted fat   ||  at       /  | | SOAP | |
+    || + lye water  ||  trace   /   | | BARS | |
+    || (40-50 C)    ||         /    | |______| |
+    +================+        /     +----------+
+    [=====FIRE======]        v
+                      CUT INTO BARS --> CURE 4-6 WEEKS
+```
 
 Do not use soap before full curing — it will cause skin irritation or chemical burns from residual unreacted lye.
 

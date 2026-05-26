@@ -143,9 +143,9 @@
 - [I] `02_Mechanical_Power.md`
 - [I] `03_Low_Tech_Mobility.md`
 - [I] `04_Material_Synthesis_and_Recycling.md`
-- [T] `05_Textiles_and_Leather.md`
-- [T] `06_Advanced_Structural_Engineering.md`
-- [T] `07_Foundational_Chemistry.md`
+- [I] `05_Textiles_and_Leather.md`
+- [I] `06_Advanced_Structural_Engineering.md`
+- [I] `07_Foundational_Chemistry.md`
 - [T] `08_Ceramic_Synthesis.md`
 - [T] `09_Cordage_and_Rope.md`
 
@@ -276,3 +276,4 @@
 | P2-28 | 2026-05-25 | 08b.01, 08b.02, 08b.03 | **BEGIN SECTION 08b: Childhood Development.** Childhood Dev Rationale (4 new: critical developmental windows 0-12yr timeline 8 domains, ACEs dose-response with/without buffering, Bronfenbrenner ecological systems nested layers, protective factors 3-shield buffer model; 341→425 lines), Attachment & Security (4 new: secure base/safe haven exploration-return model, internal working model early→template→adult, attachment styles quadrant anxiety×avoidance axes, communal caregiving network 3-tier rings; 290→370 lines), Developmental Milestones (4 new: motor/language/cognitive/social tracks 0-12yr chart, Vygotsky ZPD nested zones independent/guided/unreachable, skill acquisition 5-stage observation→teaching, seasonal curriculum wheel agricultural alignment; 306→386 lines). |
 | P2-29 | 2026-05-04 | 08b.04, 08b.05, 09.01 | Play as Development (4 new: play types spectrum structured→unstructured, risk-benefit assessment decision framework, play environment design zones, cognitive development play→skill pathway; 311→413 lines), Intergenerational Identity (4 new: knowledge transmission chain elder→youth, narrative identity construction layers, rites of passage 3-phase sequence, continuity vs adaptation balance; 290→379 lines). **SECTION 08b COMPLETE — 5/5 at [I]. OUTCOME 4 COMPLETE — 15/15 at [I]. BEGIN OUTCOME 5: Decadal Resilience.** Mechanics Rationale (4 new: technology dependency ladder electronics→stone lifespan, 6 simple machines with MA formulas, material lifecycle closed loop, industrial regression by population tiers; 290→379 lines). |
 | P2-30 | 2026-05-25 | 09.02, 09.03, 09.04 | Mechanical Power (4 new: waterwheel types overshot/breastshot/undershot with efficiency %, mechanical advantage pulley ratios, crank mechanism rotary→reciprocating, power budget cascading losses 785W→533W; 290→373 lines), Low-Tech Mobility (4 new: road surface cross-section crowned/layered, wheel and axle force equations, bicycle drivetrain gear ratio, travois vs cart comparison geometry/terrain; 291→372 lines), Material Synthesis & Recycling (4 new: material recycling closed loop, material degradation timeline, bloomery operation sequence, carburization & fold-welding; 291→374 lines). |
+| P2-31 | 2026-05-25 | 09.05, 09.06, 09.07 | Textiles & Leather (4 new: fiber processing pipeline harvest→spinning→loom, loom schematic side-view warp/weft/heddle/shuttle, weave patterns plain/twill/satin O/U grid, leather tanning 3-branch brain/vegetable/alum; 291→376 lines), Advanced Structural Engineering (4 new: arch mechanics semicircular thrust lines, foundation rubble trench cross-section, load path roof→foundation force chain, truss types king/queen/Howe with C/T labels; 290→372 lines), Foundational Chemistry (4 new: lime kiln cross-section 3 temperature zones, pH scale 0-14 with settlement substances, lye leaching barrel apparatus, saponification process pot→mold→cure; 291→374 lines). |
