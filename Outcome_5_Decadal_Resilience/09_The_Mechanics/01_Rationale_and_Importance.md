@@ -52,6 +52,30 @@ The Roman formula is reproducible with local materials: quicklime, crushed fired
 
 The implication is stark: a community founded today has approximately ten to twenty years before scavenged industrial goods begin failing faster than they can be replaced. Manufacturing capability must be established before this deadline, not in reaction to it.
 
+```text
+  TECHNOLOGY DEPENDENCY LADDER — What Fails First
+  ════════════════════════════════════════════════════
+  YEAR:  0───────5────────10────────20────────50+
+         │       │         │         │         │
+         ▼       ▼         ▼         ▼         ▼
+  ┌──────────────┐
+  │ ELECTRONICS  │  Batteries die, circuits corrode
+  └──────┬───────┘
+         └──┌──────────────────┐
+            │ RUBBER / PLASTIC │  UV + ozone cracking
+            └──┬───────────────┘
+               └──┌────────────────────────┐
+                  │ CARBON STEEL (unmaint.) │  Rust-through
+                  └──┬─────────────────────┘
+                     └──┌─────────────────────────────┐
+                        │ GLASS / STAINLESS / CERAMICS│  Slow decay
+                        └──┬──────────────────────────┘
+                           └──┌─────────────────────┐
+                              │ STONE / WOOD (renew)│  Indefinite
+                              └─────────────────────┘
+  Plan replacements from the TOP of the ladder downward.
+```
+
 ### The Physics of Mechanical Power
 
 Power equals force multiplied by velocity. A healthy adult human produces sustained mechanical power of fifty to seventy-five watts, with short bursts of three hundred to four hundred watts lasting only seconds before exhaustion. A draft horse sustains five hundred to seven hundred fifty watts over a working day. These figures define the baseline — and the ceiling — of unmechanized labor.
@@ -79,6 +103,26 @@ Key characteristics of line-shaft systems:
 The key insight is this: mechanical power transmission via shafts, belts, and gears is repairable with wood, leather, and iron — all producible locally and indefinitely. Electrical power transmission requires copper wire, rubber or plastic insulation, generators with precisely wound coils, and motors with permanent magnets or field windings. Every component of an electrical system requires an industrial supply chain to manufacture. Mechanical systems do not.
 
 This is why the modules in this section focus on mechanical, not electrical, power infrastructure.
+
+```text
+  THE 6 SIMPLE MACHINES — Mechanical Advantage (MA)
+  ═════════════════════════════════════════════════════
+    LEVER            WHEEL & AXLE       PULLEY
+   ┌───▲───┐          R╱╲r           ╭──○──╮
+   │effort │          ╱  ╲          F▼╱   ╲▼F/n
+  ─┴───┼───┴─        ○────○          ║     ║
+  load fulcrum       MA = R/r       MA = n (ropes)
+  MA = d1/d2
+                INCLINED PLANE    WEDGE       SCREW
+                   ╱│              ╱╲      ┌────────┐
+                 ╱  │h          F→╱  ╲     │///╱╱╱  │
+               ╱────┘ L          ╱────╲    │ pitch p│
+               MA = L/h        MA = L/t   MA = 2πr/p
+  ─────────────────────────────────────────────────────
+  All 6 convert small force over large distance into
+  large force over small distance. Every workshop
+  machine is a combination of these fundamentals.
+```
 
 ### The Metallurgy Imperative
 
@@ -136,6 +180,31 @@ Indian wootz steel production, centered in South India from approximately 300 BC
 
    Iron tools require iron smelting, which requires charcoal, which requires kilns, which require clay or stone. Leather requires tanning, which requires tannin-rich bark, which requires woodland management. The production chain must be complete from raw material to finished product, with no link dependent on external supply.
 
+```text
+  MATERIAL LIFECYCLE — Closed Settlement Loop
+  ═══════════════════════════════════════════════
+       ┌───────────┐        ╭─────────╮
+       │EXTRACTION │◄───────│ RETURN  │
+       │ore, clay, │        │slag→road│
+       │fiber, wood│        │ash→field│
+       └─────┬─────┘        ╰────┬────╯
+             ▼                    ▲
+       ┌───────────┐        ┌────┴────┐
+       │PROCESSING │        │ RECYCLE │
+       │smelt, tan │        │re-smelt │
+       │fire, spin │        │re-fire  │
+       └─────┬─────┘        └────┬────┘
+             ▼                    ▲
+       ┌───────────┐              │
+       │    USE    ├──► wear ─────┘
+       └─────┬─────┘  (if not repairable)
+             ▼
+       ┌───────────┐
+       │  REPAIR   │──► back to USE
+       └───────────┘
+  Nothing leaves the system. Every output feeds another input.
+```
+
 3. **The Apprenticeship Imperative** — no critical manufacturing skill should be held by a single person. Every master must train at least one apprentice.
 
    The loss of the community's sole blacksmith is a civilizational emergency equivalent to losing the water supply. Knowledge redundancy is as critical as material stockpiling. Every procedure must be documented in physical journals alongside person-to-person training.
@@ -178,6 +247,26 @@ Mechanical power (Module 02) drives the workshop tools used in material synthesi
 | 2-5 | Water power and primary materials | Build water wheel and line-shaft system. Establish bloomery furnace for primary iron smelting. Begin textile production from bast fibers. Produce lime and soap at scale |
 | 5-10 | Full vertical integration | All workshop systems operational and producing reliably. Apprentices trained in every critical skill. Replacement parts manufactured locally. Steel production via carburization of bloomery iron |
 | 10-20 | Independence from scavenging | Community manufactures all essential tools, vessels, textiles, and structural materials from local raw materials. Scavenged industrial goods are supplements, not necessities |
+
+```text
+  INDUSTRIAL REGRESSION — Capabilities by Population
+  ═══════════════════════════════════════════════════════════
+  POP.       MAINTAINABLE MANUFACTURING
+  ─────────  ─────────────────────────────────────────────
+  500+       bloomery iron → steel │ glass │ lime/cement
+             water mill │ textiles │ ceramics │ tanning
+  ─────────  ─────────────────────────────────────────────
+  100-500    forge (recycled steel) │ pottery │ leather
+             cordage │ lime mortar │ charcoal │ soap
+  ─────────  ─────────────────────────────────────────────
+  25-100     pit-fired clay │ hide scraping │ cord
+             fire-hardened wood │ flint │ bone tools
+  ─────────  ─────────────────────────────────────────────
+  <25        stone/bone tools │ fire │ shelter only
+  ═══════════════════════════════════════════════════════════
+  Below ~100 people with documented knowledge,
+  iron-working is lost within one generation.
+```
 
 ### Community Workshop Design Principles
 

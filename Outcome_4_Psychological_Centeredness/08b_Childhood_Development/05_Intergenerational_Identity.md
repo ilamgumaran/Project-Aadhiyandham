@@ -34,6 +34,30 @@ McAdams' key finding is that adults with coherent narrative identities — even 
 
 The implication for a post-collapse community is direct: the community MUST provide children with a coherent communal narrative, because without it, children cannot construct coherent personal narratives of their own. The community's origin story is not optional cultural decoration — it is psychological infrastructure.
 
+```text
+    NARRATIVE IDENTITY FORMATION
+    How coherent identity emerges from layered sources
+
+    +-------------------+     +--------------------+
+    | PERSONAL STORIES  |     | COMMUNITY          |
+    | "I helped build   |     | MYTHOLOGY          |
+    | the south wall"   |     | "We crossed the    |
+    |                   |     |  mountains together"|
+    +--------+----------+     +---------+----------+
+             |                          |
+             v                          v
+         +--------------------------------------+
+         |        COHERENT IDENTITY             |
+         |  "I know who I am, where I come     |
+         |   from, and what I am building"      |
+         +------------------+-------------------+
+                            ^
+    +-----------------------+-----------------------+
+    | ANCESTRAL MEMORY: "Our grandparents chose    |
+    | courage over comfort"                         |
+    +-----------------------------------------------+
+```
+
 ### Historical Trauma and Intergenerational Transmission
 
 Brave Heart (1998) documented how historical trauma in Native American populations transmits across generations through parenting behavior, emotional regulation, and community dysfunction — even when the original traumatic events are generations past. Danieli (1998) found parallel patterns in Holocaust survivors' children, who showed specific psychological signatures including guilt, identity confusion, and hypervigilance, transmitted through parental behavior rather than direct experience.
@@ -49,6 +73,27 @@ Rogoff (2003), in *The Cultural Nature of Human Development*, demonstrated that 
 Van Gennep (1909) showed that all human cultures mark life transitions with structured rituals in three phases: separation (from old status), liminality (the in-between state of ambiguity and openness), and incorporation (into new status). The absence of transition rituals produces identity ambiguity — the person is changed but the change is unmarked and unwitnessed. In the old world, many transition rituals had eroded (graduation ceremonies, religious confirmations persisted in attenuated form), and the psychological consequences were visible in adolescent confusion and extended identity diffusion.
 
 Hobsbawm and Ranger (1983), in *The Invention of Tradition*, documented that many supposedly ancient traditions — Scottish clan tartans, national anthems, royal ceremonies — were deliberately invented to create group cohesion, often within living memory. Invented traditions are not psychologically inferior to organic ones; what matters is communal investment, not antiquity. Anderson (1983), in *Imagined Communities*, extended this insight: all communities larger than face-to-face groups require shared narratives, symbols, and rituals to create belonging. This is not manipulation — it is how human social identity functions at every scale, from the village to the nation.
+
+```text
+    KNOWLEDGE TRANSMISSION CHAIN
+    Teaching modes shift at each generational link
+
+    ELDER (70+)              ADULT (30-60)           YOUTH (13-18)          CHILD (3-12)
+    +-----------+            +-----------+           +-----------+          +-----------+
+    | Keeper of |            | Bridge    |           | Questioner|          | Absorber  |
+    | deep      |            | between   |           | and fresh |          | through   |
+    | memory    |            | worlds    |           | eyes      |          | play and  |
+    |           |            |           |           |           |          | wonder    |
+    +-----+-----+           +-----+-----+           +-----+-----+         +-----+-----+
+          |                        |                       |                      |
+          |  WITNESS &             |  NARRATIVE &          |  MODELING &          |
+          |  ORAL HISTORY          |  STRUCTURED STORY     |  GUIDED DOING        |
+          +----------------------->+---------------------->+--------------------->+
+                                   |                       |
+                                   |  Processes grief      |  Tests and
+                                   |  before transmitting  |  challenges
+                                   |  to next link         |  received story
+```
 
 ---
 
@@ -108,6 +153,28 @@ Rituals create shared identity through embodied, repeated experience. They do no
 2. **Seasonal Transitions:** Mark solstices or equinoxes, or the planting/harvest cycle. These connect children to natural rhythms and create temporal structure that replaces the calendar of the old world (school years, holidays).
 
 3. **Coming-of-Age Marking:** When a child transitions to adolescence (around age 12-13), a community ceremony acknowledges this transition. The specifics should be developed by the community, but core elements include: the adolescent shares what they have learned and what they want to contribute; adults formally welcome them as an emerging member with growing responsibilities; a symbolic marker (a crafted item, a new name-addition, a specific task) signifies the change.
+
+```text
+    RITES OF PASSAGE STRUCTURE (Van Gennep)
+
+    SEPARATION            LIMINAL PERIOD           INCORPORATION
+    (Leaving childhood)   (The in-between)         (Entering new role)
+    ==================    ====================     ====================
+
+    The youth steps       Neither child nor        Community receives
+    apart from daily      adult; open to           the youth as a
+    routine               transformation           contributing member
+
+    COMMUNITY ROLES:      COMMUNITY ROLES:         COMMUNITY ROLES:
+    - Parents release     - Mentors guide          - Elders witness
+    - Peers acknowledge   - Elders share wisdom    - Peers welcome
+      the departure       - Youth faces a task     - Adults name the
+    - Ritual marks the      or reflection alone      new responsibilities
+      threshold                                    - Feast celebrates
+
+    --------->            ----------------->        --------->
+                  TIME FLOWS FORWARD
+```
 
 4. **Remembrance Practice:** A periodic (seasonal or annual) time when the community honors those who have died and those who are absent. This includes people lost before and during the collapse. Children participate by listening and, as they grow, by contributing their own memories of community members they have lost.
 
@@ -218,6 +285,28 @@ When adolescents challenge or reject the community narrative — questioning the
 6. **Children of new arrivals feel excluded from the origin story.** Likely cause: the narrative centers only on the founding group. Prevention: amend the origin story to include chapters — "First we came, then they arrived." Every family's journey is part of the communal story.
 
 7. **The Frozen Culture Trap.** The founding generation treats their origin story, rituals, and symbols as sacred and unchangeable. The second generation performs rituals without feeling them. The third generation abandons them entirely. Prevention: build evolution INTO the tradition — each generation adds their chapter, their symbols, their ritual elements. The Founding Day ceremony in Year 20 should look different from Year 1.
+
+```text
+    CULTURAL CONTINUITY vs. ADAPTATION
+
+    PRESERVE (Core)                    EVOLVE (Expression)
+    ================================   ================================
+    |  VALUES                      |   |  PRACTICES                   |
+    |  - Honesty in narrative      |   |  - How rituals are performed |
+    |  - Care for each other       |   |  - What songs are sung       |
+    |  - Respect for the land      |   |  - How tasks are divided     |
+    |                              |   |                              |
+    |  STORIES                     |   |  TECHNOLOGY                  |
+    |  - Origin narrative (core)   |   |  - Tools and methods         |
+    |  - Founding members' names   |   |  - Building techniques       |
+    |                              |   |                              |
+    |  COMMITMENTS                 |   |  SYMBOLS                     |
+    |  - Every child belongs       |   |  - New art added each year   |
+    |  - Dissent is welcomed       |   |  - Each generation adds to   |
+    |  - No one is disposable      |   |    the timeline wall         |
+    ================================   ================================
+         UNCHANGING FOUNDATION              LIVING GROWTH
+```
 
 8. **The Comparative Identity Crisis.** Children who encounter travelers, other settlements, or remnants of the old world (books, ruins) develop a sense that their community is inferior or backward. Prevention: the community narrative must include pride in present capabilities, not just grief for past losses. "We can do things they never could" is as true as "they could do things we cannot."
 

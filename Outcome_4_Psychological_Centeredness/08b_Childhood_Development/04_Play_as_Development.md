@@ -24,6 +24,29 @@ The neurochemistry of play reinforces its developmental centrality. Play activat
 
 Play also triggers brain-derived neurotrophic factor (BDNF) in the prefrontal cortex and amygdala, literally growing new neural connections. Play is not a break from development. It is development.
 
+```text
+COGNITIVE DEVELOPMENT THROUGH PLAY
+===================================
+Play Type              Neural/Cognitive Capacity Built
+-----------------      ------------------------------------------
+Rough-and-tumble  -->  Prefrontal cortex: impulse control,
+                       social judgment, emotional regulation
+Locomotor play    -->  Vestibular system, proprioception,
+                       cardiovascular fitness
+Object play       -->  Fine motor skills, spatial reasoning,
+                       tool-use competence
+Pretend/symbolic  -->  Theory of mind, language, abstract
+                       thinking, narrative construction
+Games with rules  -->  Executive function, working memory,
+                       self-regulation, fairness reasoning
+Construction play -->  Planning, sequencing, physics intuition,
+                       persistence and frustration tolerance
+
+     [All types] --+--> Dopamine + Opioids + Endocannabinoids
+                   +--> BDNF (new neural connections)
+                   +--> Flow states (sustained attention)
+```
+
 ### The Evolutionary Logic of Play
 
 Fagen (1981) documented that play consumes 2-15% of the daily energy budget in juvenile mammals and increases exposure to predation through distraction and conspicuousness. Natural selection only preserves such costly behavior if the developmental return exceeds the survival cost. The persistence of play across virtually all mammalian species — and many bird species — for tens of millions of years is proof of its fitness value.
@@ -51,6 +74,32 @@ Gray (2013) documented that since 1955, free play time for American children has
 Sandseter and Kennair (2011) argued that risky play is an evolved anti-phobia mechanism. By voluntarily confronting fear in a play context — heights, speed, rough-housing, disappearance and getting lost — children build anxiety tolerance. Overprotection produces anxious children, not safe ones. Suppressing risky play does not eliminate fear; it eliminates the child's opportunity to master fear.
 
 Brown (2009) found that play deprivation in early life correlates with rigid thinking, poor stress adaptation, and reduced creativity in adulthood. His case studies of violent criminals revealed significantly reduced play histories — not as the sole cause, but as a contributing factor in developmental trajectories toward inflexibility and poor impulse control.
+
+```text
+RISK-BENEFIT ASSESSMENT: ADVENTURE PLAY
+=========================================
+
+MANAGED RISK (allow)          EXCESSIVE RESTRICTION (avoid)
+─────────────────────         ────────────────────────────
+Child climbs tree             Child told "get down"
+  --> assesses height           --> learns: world is dangerous
+  --> judges own ability        --> learns: I am incompetent
+  --> succeeds or retreats      --> anxiety increases
+  --> BUILDS: competence,       --> BUILDS: fragility, fear,
+      risk calibration,             learned helplessness,
+      confidence, courage           risk-blindness
+
+         OUTCOME SPECTRUM
+         ================
+[Hazard]----[Risk]----[Challenge]----[Comfort]----[Restriction]
+ remove      allow      encourage     accept        AVOID
+  |            |            |            |              |
+rotting     height      new skill    familiar      bubble-wrap
+branch      climbing    attempt       play          parenting
+
+Key insight: Children who never practice risk assessment
+             cannot assess risk as adults.
+```
 
 ---
 
@@ -122,6 +171,34 @@ The ideal play area has three zones:
     (Adult observation position: visible but not central)
 ```
 
+```text
+SETTLEMENT PLAY AREA: MATERIAL & FEATURE MAP
+==============================================
+
+         [CANOPY TREES]          N
+              |  |               ^
+    .---------+--+---------.    |
+    |  HEIGHT: rope swing, |
+    |  hanging vines, tree  |
+    |  platforms (2-3m)     |
+    +------+----------------+--------.
+    | WATER |  LOOSE PARTS           |
+    | creek |  - stick pile          |
+    | splash|  - stone collection    |
+    | pool  |  - seed pods, shells   |
+    | (10cm)|  - fabric scraps       |
+    +-------+----------+-------------+
+    | RETREAT SPACES   | OPEN GROUND |
+    | - willow dome    | - flat for  |
+    | - log hollow     |   running   |
+    | - bush tunnel    | - mounds    |
+    |   (child-only)   |   for hills |
+    '------------------+-------------'
+         [ADULT BENCH: 15m away, line of sight]
+
+Materials cycle: gather weekly, rotate monthly
+```
+
 ### Materials
 
 | Material | Quantity | How to Find / Source |
@@ -162,6 +239,31 @@ The ideal play area has three zones:
 - Allow graduated risk-taking: climbing higher, jumping farther, using simple tools (knives for whittling by age 8-10 with instruction)
 - Adult role: peripheral supervision. Present but not hovering. Intervene only for clear bullying or genuine injury risk
 - Duration: 4+ hours daily; by this age, play and productive work should begin to merge (play-hunting, play-building, play-cooking that produces real results)
+
+```text
+PLAY TYPES SPECTRUM: DEVELOPMENTAL PROGRESSION
+================================================
+
+Age:  0-1      1-2       2-4        3-6        6-9       9-12+
+      |         |         |          |          |          |
+      v         v         v          v          v          v
+  Sensory   Locomotor  Object    Dramatic   Games w/   Complex
+  Explor.    Play      Manip.    /Pretend    Rules     Strategy
+  ------    --------   ------    --------   --------   --------
+  touch,    run, jump  stack,    roles,     tag,       team
+  mouth,    spin,      pour,     stories,   capture,   games,
+  grasp     climb      build     costumes   contests   sports
+
+  |<-- Solitary -->|<-- Parallel -->|<-- Cooperative ------->|
+
+  SOCIAL COMPLEXITY INCREASES =============================>
+  RULE COMPLEXITY INCREASES  =============================>
+  ADULT INVOLVEMENT DECREASES ============================>
+
+  Note: Stages OVERLAP — a 7-year-old still does locomotor
+  play; a 4-year-old still does object manipulation.
+  Earlier stages are NOT replaced, only supplemented.
+```
 
 ### Play Time Protection
 

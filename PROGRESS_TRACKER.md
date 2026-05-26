@@ -131,15 +131,15 @@
 - [I] `01_Rationale_and_Importance.md`
 - [I] `02_Attachment_and_Security_in_Communal_Living.md`
 - [I] `03_Developmental_Milestones_Without_Modern_Scaffolding.md`
-- [T] `04_Play_as_Development.md`
-- [T] `05_Intergenerational_Identity.md`
+- [I] `04_Play_as_Development.md`
+- [I] `05_Intergenerational_Identity.md`
 
 ---
 
 ## Outcome 5 -- Decadal Resilience
 
 ### 09 The Mechanics
-- [T] `01_Rationale_and_Importance.md`
+- [I] `01_Rationale_and_Importance.md`
 - [T] `02_Mechanical_Power.md`
 - [T] `03_Low_Tech_Mobility.md`
 - [T] `04_Material_Synthesis_and_Recycling.md`
@@ -274,3 +274,4 @@
 | P2-26 | 2026-05-25 | 08.05, 08a.01, 08a.02 | Mental Illness & Compassionate Care (4 new: Geel community integration household→community pathway, crisis de-escalation assess/environment/communicate decision tree, neurotransmitter pathways dopamine/serotonin/GABA with botanical targets, Calm Room floor plan layout; 389→469 lines). **SECTION 08 COMPLETE — 5/5 at [I]. BEGIN SECTION 08a: Group Dynamics.** Group Dynamics Rationale (4 new: group polarization moderate→extreme shift, groupthink prevention sequential flowchart, Ostrom's 8 principles mapped to settlement, Dunbar's Number 5→15→50→150 concentric layers; 344→432 lines), Power Vacuum Prevention (4 new + 2 existing: Michels' Iron Law 4-stage cycle with interventions, domain separation 6 governance boxes, mandatory rotation staggered 90-day timeline, recall protocol petition→cooling→vote flowchart; 300→383 lines). |
 | P2-27 | 2026-05-25 | 08a.03, 08a.04, 08a.05 | Collective Grief & Trauma (4 new: cortisol stress response acute spike with healthy vs chronic trajectories, polyvagal theory 3 autonomic states with interventions, post-traumatic growth 18-month timeline crisis→integration→growth, mourning circle seating layout clockwise speaking stone; 290→370 lines), Social Cohesion Metrics (4 new: bonding vs bridging capital intra/inter-group ties, early warning dashboard 6-8 week behavioral signals, SHI 5-axis radar chart green/yellow/red thresholds, trust rebuilding protocol rupture→restored timeline; 290→378 lines), Integration of Newcomers (4 new: 3-phase integration pathway contact→probation→membership, Brewer optimal distinctiveness inclusion×identity axes, Allport contact hypothesis 4 pillars with examples, newcomer assessment decision tree welcome/extend/redirect; 290→375 lines). **SECTION 08a COMPLETE — 5/5 at [I].** |
 | P2-28 | 2026-05-25 | 08b.01, 08b.02, 08b.03 | **BEGIN SECTION 08b: Childhood Development.** Childhood Dev Rationale (4 new: critical developmental windows 0-12yr timeline 8 domains, ACEs dose-response with/without buffering, Bronfenbrenner ecological systems nested layers, protective factors 3-shield buffer model; 341→425 lines), Attachment & Security (4 new: secure base/safe haven exploration-return model, internal working model early→template→adult, attachment styles quadrant anxiety×avoidance axes, communal caregiving network 3-tier rings; 290→370 lines), Developmental Milestones (4 new: motor/language/cognitive/social tracks 0-12yr chart, Vygotsky ZPD nested zones independent/guided/unreachable, skill acquisition 5-stage observation→teaching, seasonal curriculum wheel agricultural alignment; 306→386 lines). |
+| P2-29 | 2026-05-04 | 08b.04, 08b.05, 09.01 | Play as Development (4 new: play types spectrum structured→unstructured, risk-benefit assessment decision framework, play environment design zones, cognitive development play→skill pathway; 311→413 lines), Intergenerational Identity (4 new: knowledge transmission chain elder→youth, narrative identity construction layers, rites of passage 3-phase sequence, continuity vs adaptation balance; 290→379 lines). **SECTION 08b COMPLETE — 5/5 at [I]. OUTCOME 4 COMPLETE — 15/15 at [I]. BEGIN OUTCOME 5: Decadal Resilience.** Mechanics Rationale (4 new: technology dependency ladder electronics→stone lifespan, 6 simple machines with MA formulas, material lifecycle closed loop, industrial regression by population tiers; 290→379 lines). |
