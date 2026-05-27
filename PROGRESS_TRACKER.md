@@ -151,9 +151,9 @@
 
 ### 10 The Society
 - [I] `01_Rationale_and_Importance.md`
-- [T] `02_Recycling_Cliff.md`
-- [T] `03_Consensus_Models.md`
-- [T] `04_Demographic_Harmony.md`
+- [I] `02_Recycling_Cliff.md`
+- [I] `03_Consensus_Models.md`
+- [I] `04_Demographic_Harmony.md`
 
 ### 11 The Next Generation
 - [T] `01_Rationale_and_Importance.md`
@@ -278,3 +278,4 @@
 | P2-30 | 2026-05-25 | 09.02, 09.03, 09.04 | Mechanical Power (4 new: waterwheel types overshot/breastshot/undershot with efficiency %, mechanical advantage pulley ratios, crank mechanism rotary→reciprocating, power budget cascading losses 785W→533W; 290→373 lines), Low-Tech Mobility (4 new: road surface cross-section crowned/layered, wheel and axle force equations, bicycle drivetrain gear ratio, travois vs cart comparison geometry/terrain; 291→372 lines), Material Synthesis & Recycling (4 new: material recycling closed loop, material degradation timeline, bloomery operation sequence, carburization & fold-welding; 291→374 lines). |
 | P2-31 | 2026-05-25 | 09.05, 09.06, 09.07 | Textiles & Leather (4 new: fiber processing pipeline harvest→spinning→loom, loom schematic side-view warp/weft/heddle/shuttle, weave patterns plain/twill/satin O/U grid, leather tanning 3-branch brain/vegetable/alum; 291→376 lines), Advanced Structural Engineering (4 new: arch mechanics semicircular thrust lines, foundation rubble trench cross-section, load path roof→foundation force chain, truss types king/queen/Howe with C/T labels; 290→372 lines), Foundational Chemistry (4 new: lime kiln cross-section 3 temperature zones, pH scale 0-14 with settlement substances, lye leaching barrel apparatus, saponification process pot→mold→cure; 291→374 lines). |
 | P2-32 | 2026-05-25 | 09.08, 09.09, 10.01 | Ceramic Synthesis (4 new: glaze chemistry SiO₂/Al₂O₃/flux triangle, pottery forms cross-sections storage/cooking/water, clay preparation pipeline 7-step, firing temperature curve with 573°C quartz inversion; 290→366 lines), Cordage & Rope (4 new: rope construction hierarchy fibers→yarn→strand→rope Z/S twist, bast fiber extraction 4-step, knot strength bar chart splice→overhand, rope walk layout top-down 3-strand rig; 291→375 lines). **SECTION 09 COMPLETE — 9/9 at [I]. BEGIN SECTION 10.** The Society Rationale (4 new: social contract concentric rings individual→confederation, population threshold bars 25/50/100/150, labor specialization web 7 roles, governance evolution 3-phase timeline; 290→372 lines). |
+| P2-33 | 2026-05-26 | 10.02, 10.03, 10.04 | Recycling Cliff (4 new: cascade timeline plastics 2-10yr→glass/stone indefinite, material substitution ladder 10 modern→low-tech pairs, salvage triage decision tree repair/cannibalize/process/discard, stockpile inventory layout 6-zone warehouse; 290→375 lines), Consensus Models (4 new: decision-making spectrum autocratic→unanimous with speed/buy-in, council circle rotating roles facilitator/timekeeper/scribe/advocate, consensus process 8-step flowchart, quorum & voting thresholds 50%/75%/80% bar chart; 295→375 lines), Demographic Harmony (4 new: carrying capacity overshoot vs managed growth at 75% K, demographic transition 4-stage birth/death rate curves, population pyramid 50-person age/sex, dependency ratio 3-column sustainable/strained/critical; 291→375 lines). **SECTION 10 COMPLETE — 4/4 at [I].** |

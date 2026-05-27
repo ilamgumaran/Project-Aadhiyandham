@@ -33,7 +33,50 @@ The Club of Rome's 1972 study, *The Limits to Growth* (Meadows et al.), modeled 
 
 The demographic transition model describes a pattern observed across industrializing societies: pre-industrial populations have high birth AND high death rates, producing near-equilibrium. As societies develop medicine and sanitation, death rates fall first — but birth rates lag behind by decades. This lag produces explosive growth. A successful refugia faces exactly this danger. If the settlement lowers infant mortality through clean water and basic medicine without simultaneously establishing cultural mechanisms to lower birth rates, population will surge beyond carrying capacity within a generation. The refugia must achieve its own demographic transition deliberately, rather than waiting for the slow cultural shift that took industrialized nations 50-100 years.
 
+```text
+      Demographic Transition Stages for a Post-Collapse Settlement
+
+  Rate
+  (per 1000)
+   45 |  ___________
+      | /           \  Birth Rate
+   40 |/             \
+   35 |  ___________  \
+      | / Death Rate \ \
+   30 |/              \ \                      STAGE 4
+      |     STAGE 1    \ \               Low birth / Low death
+   25 |  High birth /   \ \_________          Equilibrium
+   20 |  High death      \          \___
+   15 |   Equilibrium     \___          \___________
+      |    STAGE 2            \___________
+   10 |  Death falls,                       Birth Rate
+      |  births stay high   STAGE 3         Death Rate
+    5 |                  Births falling
+      |_______________________________________________> Time
+       Founded    Year 5   Year 10  Year 15   Year 20+
+                          DANGER ZONE (growth surge)
+```
+
 ### Carrying Capacity and Liebig's Law
+
+```text
+           Carrying Capacity Curve: Overshoot vs Managed Growth
+  Population
+       |
+   K ──|─ ─ ─ ─ ─ ─ ─ ─ ─ ─ ─ ─ ─ ─ ─ ─ ─ ─ ─ ─ ─ ─ ─ ─ ─
+       |                   /\  OVERSHOOT         Collapse
+       |                  /  \                  /
+       |                /     \___            /
+  75%K |─ ─ ─ ─ ─ ─ ─/─ ─ ─ ─ ─ ─ ─ \./─ ─  degraded K*
+       |           ./  ~~~~~~~~~~~~~~~~~~~~~~~~~~~~  MANAGED
+       |         ./      Managed growth plateau      GROWTH
+       |       ./        at 75% of K (buffered)
+       |     ./
+       |   ./
+       | ./
+       |/___________________________________________> Time
+         Year 1    Year 10    Year 20    Year 30
+```
 
 Carrying capacity (K) is the maximum population a given land area can support indefinitely without degrading the resource base. The critical word is "indefinitely." Short-term overshoot is possible — a community can temporarily exceed K by drawing down grain stores, depleting soil fertility, or clear-cutting forest. But overshoot borrows against the future. Resource degradation lowers K itself, deepening the overshoot and accelerating degradation — a positive feedback loop that ends in collapse. This pattern destroyed Easter Island's agricultural base, Lebanon's cedar forests, and the American Dust Bowl's topsoil.
 
@@ -215,7 +258,48 @@ The census is conducted each year at a fixed date — midwinter is traditional, 
 
 **Count every person by age and sex.** Record the name, age, and sex of every community member. Record births, deaths, arrivals, and departures since the last census. This produces the age-sex pyramid — the fundamental tool of demographic analysis.
 
+```text
+     Population Pyramid: 50-Person Settlement (Example)
+
+          Male                              Female
+     ◄── count ──►                     ◄── count ──►
+                        Age Group
+   |          ■  |     65+  (3)    |  ■■         |   Elderly
+   |         ■■  |     55-64 (4)   |  ■■         |   dependents
+   |        ■■■  |     45-54 (5)   |  ■■         |      ↑
+   |       ■■■■  |     35-44 (6)   |  ■■■■       |   -------
+   |      ■■■■■  |     25-34 (7)   |  ■■■■       |   Working
+   |     ■■■■■■  |     15-24 (7)   |  ■■■■■      |   age
+   |        ■■■  |      5-14 (5)   |  ■■■        |   -------
+   |         ■■  |      0-4  (3)   |  ■■         |   Child
+   +─────────────+─────────────────+─────────────+   dependents
+         Male: 24       Total: 50     Female: 26
+
+   Workers (15-64): 33    Dependents (0-14 + 65+): 17
+   Dependency Ratio: 17/33 = 0.52  [below 0.7 threshold]
+```
+
 **Calculate the dependency ratio.** Dependents (children under 15 plus adults over 65) divided by working-age adults (15-64). A ratio above 0.7 indicates significant strain on productive capacity.
+
+```text
+         Dependency Ratio Balance: Workers vs Dependents
+
+    Sustainable         Strained          Critical
+    Ratio < 0.5         Ratio 0.5-0.7     Ratio > 0.7
+  ┌─────────────┐     ┌─────────────┐   ┌─────────────┐
+  │ ☻ ☻ ☻ ☻ ☻ ☻ │     │ ☻ ☻ ☻ ☻ ☻ ☻ │   │ ☻ ☻ ☻ ☻ ☻ ☻ │
+  │ ☻ ☻ ☻ ☻ ☻ ☻ │     │ ☻ ☻ ☻ ☻ ☻ ☻ │   │ ☻ ☻ ☻ ☻ ☻ ☻ │
+  │  34 workers  │     │  29 workers  │   │  24 workers  │
+  ├─────────────┤     ├─────────────┤   ├─────────────┤
+  │ ○ ○ ○ ○ ○ ○ │     │ ○ ○ ○ ○ ○ ○ │   │ ○ ○ ○ ○ ○ ○ │
+  │ ○ ○ ○ ○     │     │ ○ ○ ○ ○ ○ ○ │   │ ○ ○ ○ ○ ○ ○ │
+  │ 16 dependents│     │ 21 dependents│   │ 26 dependents│
+  └─────────────┘     └─────────────┘   └─────────────┘
+    ratio = 0.47        ratio = 0.72      ratio = 1.08
+
+  ☻ = working-age adult (15-64)    ○ = dependent (<15 or 65+)
+  Threshold: ratio > 0.7 signals strain on production capacity
+```
 
 **Project population forward.** Using current birth and death rates, project population 10 and 20 years forward. If projected population exceeds 75% of K within 10 years, intensify fertility education. If it exceeds K within 20 years, bring the issue before the community assembly for consensus decision-making (cross-reference Consensus Models).
 

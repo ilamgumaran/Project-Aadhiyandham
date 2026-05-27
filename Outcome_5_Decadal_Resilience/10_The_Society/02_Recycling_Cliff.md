@@ -51,6 +51,24 @@ The cliff curve is best modeled as a sigmoid: a long plateau of slow degradation
 
 The strategic implication is clear: you do not have a single cliff. You have a cascade of cliffs, with plastics and rubber falling first, uncoated steel next, galvanized steel and aluminum later, and copper last. Your transition plan must account for this cascade.
 
+```text
+RECYCLING CLIFF CASCADE TIMELINE
+=================================
+Material         |  0yr    5yr    10yr    15yr    20yr    30yr    50yr   100yr+
+-----------------+----------------------------------------------------------------
+Plastics (UV)    |  ██████░░                                              
+Rubber (outdoor) |  ██████████████░░                                      
+Carbon steel     |  ██████████████████████░░                              
+Treated lumber   |  █████████████████████████████░░                       
+Galvanized steel |  ██████████████████████████████████████████░░          
+Aluminum         |  █████████████████████████████████████████████████░░   
+Copper           |  ████████████████████████████████████████████████████████████
+Glass / Stone    |  ████████████████████████████████████████████████████████████
+                 |     URGENT    CRITICAL    FORGE     BLOOMERY  MATERIAL
+                 |     SALVAGE   WINDOW     ONLINE    ONLINE    SOVEREIGNTY
+  ██ = Usable lifespan    ░░ = Cliff zone (rapid failure)
+```
+
 ### The Scavenger's Dilemma
 
 The economics of scavenging follow a predictable curve of diminishing returns. In the first years after collapse, the nearest buildings and vehicles yield abundant, high-quality materials with minimal effort. But each successive scavenging trip must travel farther, search harder, and accept lower-quality finds. Meanwhile, the buildings themselves become more dangerous as roofs sag, floors weaken, and chemical containers corrode.
@@ -66,6 +84,25 @@ Post-Roman Britain (5th-6th century CE) provides the most thoroughly documented 
 The lesson is precise: using inherited infrastructure without understanding how to reproduce it leads to inevitable regression. The regression is not gradual — it follows a cliff curve as accumulated failures reach critical mass.
 
 A more recent parallel exists in post-Soviet rural Russia during the 1990s. When centralized supply chains collapsed, rural communities dependent on factory-produced tools, fertilizers, and equipment experienced severe material shortages. However, communities that had maintained traditional workshop skills — blacksmithing, woodworking, basic metalworking — adapted within 2-3 years. Those entirely dependent on factory supply chains suffered a decade or more of material poverty. The variable was not resources but manufacturing knowledge.
+
+```text
+MATERIAL SUBSTITUTION LADDER
+==============================
+  MODERN MATERIAL          TRANSITION SUBSTITUTE
+  ──────────────────       ──────────────────────────
+  Plastic containers  -->  Fired ceramic / wooden casks
+  Rubber hoses        -->  Rawhide tubing / wooden pipes
+  Rubber gaskets      -->  Leather washers / waxed fiber
+  Insulated wire      -->  Bare copper + ceramic insulators
+  Synthetic rope      -->  Plant cordage (hemp / linden bast)
+  Steel nails         -->  Wooden pegs / forged iron nails
+  Ball bearings       -->  Greased wooden bushings / bronze
+  PVC pipe            -->  Fired clay pipe / hollowed logs
+  Bolt fasteners      -->  Mortise-tenon / wedge joints
+
+  Each step DOWN loses efficiency but gains
+  reproducibility from local materials and skills.
+```
 
 ## Core Principles
 
@@ -151,6 +188,33 @@ Think of scavenging as building material "batteries" — concentrated reserves o
 
 **Prioritization logic:** Harvest what you cannot manufacture first (bearings, alloy steels, copper, glass). Harvest what degrades fastest second (uncoated carbon steel, rubber components). Harvest what you can eventually manufacture last (mild steel, simple iron).
 
+```text
+SALVAGE TRIAGE DECISION TREE
+==============================
+          Found a salvaged item
+                  |
+          Is it repairable?
+         /                  \
+       YES                   NO
+        |                     |
+    REPAIR it            Can parts be
+    Return to use        cannibalized?
+                        /            \
+                      YES              NO
+                       |                |
+                 CANNIBALIZE       Is raw material
+                 Strip useful      reclaimable?
+                 components       /            \
+                 into parts     YES              NO
+                 inventory       |                |
+                            PROCESS IT       COMPOST if
+                            Melt / forge     organic, else
+                            into raw stock   DISCARD
+
+  RULE: Nothing leaves triage without classification.
+        Every item enters the inventory ledger.
+```
+
 ### Preservation Techniques
 
 Every preservation technique buys time on the cliff curve. The goal is not permanent protection — it is extending the window long enough for your manufacturing capability to mature.
@@ -164,6 +228,27 @@ Every preservation technique buys time on the cliff curve. The goal is not perma
 **Desiccant Storage:** Place tools in sealed containers (clay pots with wax-sealed lids, or intact plastic tubs) with a desiccant to absorb residual moisture. Effective desiccants: charcoal (dried at 200+ degrees C to activate), quicklime (CaO — highly hygroscopic, produces heat when wet, handle with care), or wood ash (less effective but readily available). Replace desiccant annually. This method is especially important for spring steel and tool steel, which are highly sensitive to pitting corrosion. Cross-reference lime production in the Foundational Chemistry module.
 
 **Sheltered Storage:** The single most cost-effective preservation measure is a roof. Metal tools stored under a simple open-sided shelter last 3-5x longer than identical tools left outdoors. Rain is the primary corrosion accelerant for atmospheric exposure. A shelter eliminates direct rainfall and reduces dew formation. Build dedicated tool storage as early infrastructure — before you build a smithy, before you build a kiln. The storage shed protects the materials you need to build everything else.
+
+```text
+STOCKPILE INVENTORY LAYOUT (Top-Down View)
+=============================================
+          ENTRANCE
+     ========[]========
+     |  [A] CRITICAL   |   [A] Daily-use edge tools (oil-coated)
+     |  Edge tools     |   [B] Alloy steel forge stock
+     |----- aisle -----|   [C] Copper + zinc sealed reserves
+     | [B]    |  [C]   |   [D] Glass (vertical, sand-lined)
+     | Alloy  | Copper |   [E] Fasteners (sorted by size)
+     | steel  | + Zinc |   [F] Bulk mild steel on pallets
+     |----- aisle -----|
+     | [D]    |  [E]   |   RULES:
+     | Glass  | Fasten |   - Roof overhead, open sides
+     | vert.  | -ers   |   - Raised off damp ground
+     |----- aisle -----|   - Dissimilar metals SEPARATED
+     |  [F] BULK STEEL |   - Desiccant in sealed bins
+     |  Oiled, stacked |   - Annual audit tag on each item
+     ===================
+```
 
 **Sacrificial Anode Protection:** When zinc is available, attach a piece of zinc to iron structures (fences, water tanks, buried pipe) using direct metal contact or a wire. The zinc corrodes preferentially, sacrificing itself to protect the iron. This is the same electrochemical principle used in marine and pipeline corrosion protection worldwide. A 1 kg zinc anode can protect approximately 5-10 square meters of iron surface for 2-5 years depending on environment. Replace the zinc anode when it is consumed to approximately 20% of original mass.
 

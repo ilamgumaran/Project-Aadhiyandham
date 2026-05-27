@@ -22,6 +22,24 @@ Majority rule creates winners and losers. The losing minority accumulates resent
 
 In small communities below Dunbar's Number (approximately 150 people), every departure is a critical loss. If the outvoted minority includes the only person who can tan leather or set a broken bone, the community has not just lost a vote -- it has lost a survival capacity. The cost of a bad process is measured in people lost.
 
+```text
+  AUTOCRATIC    CONSULTATIVE    MAJORITY     CONSENSUS    UNANIMOUS
+      |              |              |             |             |
+  ====*==============*==============*=============*=============*====
+      |              |              |             |             |
+  1 person       Leader asks,   51% wins,    No principled  Everyone
+  decides        then decides   49% loses    objections     must agree
+
+  SPEED:    Fastest ------>------>------>------>------> Slowest
+  BUY-IN:   Lowest  ------>------>------>------>------> Highest
+  RISK:     Tyrant     Rubber-stamp   Faction    Gridlock   Paralysis
+                                      warfare
+
+  TARGET ZONE FOR POST-COLLAPSE COMMUNITY
+                                     [===========]
+                              Consensus with supermajority safety valve
+```
+
 ### Why Not Hierarchy
 
 Robert Michels formulated the Iron Law of Oligarchy in 1911: every organization, no matter how democratic at its founding, tends toward concentration of power in the hands of a few. The German Social Democratic Party, which Michels studied, began as a radical workers' movement and within two decades was governed by an entrenched professional leadership class indistinguishable from the institutions it had set out to replace.
@@ -46,6 +64,25 @@ This is not the lowest common denominator. It is often a creative synthesis that
 The facilitator's role in consensus is that of a servant of the process, not a leader of the people. The facilitator ensures that everyone speaks, that no one dominates, that the discussion moves from exploration to proposal to decision in an orderly way. The facilitator has no more vote or influence than any other member.
 
 This role is rotated specifically to prevent the accumulation of procedural power. A permanent facilitator inevitably develops subtle influence over outcomes through agenda-setting, speaker recognition, and the framing of proposals.
+
+```text
+  COUNCIL CIRCLE: ROTATING ROLES IN CONSENSUS ASSEMBLY
+
+                       FACILITATOR (F)
+                    Guides process, no vote
+                           [F]
+                          /   \
+              [T]--------/     \--------[D]
+          TIMEKEEPER              DEVIL'S ADVOCATE
+        Enforces 2-hr max      Voices unspoken concerns
+              |    o  o  o  o  o  o    |
+              |   o  COMMUNITY MEMBERS o
+              [S]---------+-----------+
+                       SCRIBE
+               Records in Chronicle of Reason
+
+  ALL FOUR ROLES ROTATE --> No permanent procedural power
+```
 
 Blocking is the most powerful and most dangerous tool in consensus. A single block stops a decision. This power exists to protect minorities from being steamrolled, but it can also be weaponized by a single individual to impose their will on the group.
 
@@ -142,6 +179,33 @@ A member who does not block but wishes to register disagreement may "stand aside
 
 The entire eight-step process, for a single agenda item, typically takes 45 to 90 minutes. A well-facilitated meeting can address two to three Tier 1 items or four to five Tier 2 items within the 2-hour maximum.
 
+```text
+  CONSENSUS PROCESS FLOWCHART (8 STEPS)
+
+  [1. OPENING]-->[2. AGENDA REVIEW]-->[3. ISSUE PRESENTATION]
+       |                                       |
+    Silence                                Facts only
+    30-60s                                 No advocacy
+                                               |
+                                               v
+  [6. TEMP CHECK]<--[5. DISCUSSION]<--[4. CLARIFYING Q's]
+       |              Talking stick         Facts only
+       |              30-60 min             5-10 min
+       v
+   Thumbs Up? ----YES----> [7. MODIFY PROPOSAL]
+   Thumbs Down?                    |
+       |                           v
+       |                   [8. FINAL CALL]
+       +--Return to                |
+          Step 5          "Any principled objections?"
+                           /              \
+                      BLOCK              SILENCE
+                      |                  = CONSENT
+                  State objection        |
+                  Return to Step 5    DECISION PASSES
+                                     Recorded in Chronicle
+```
+
 ### The Role of the Scribe
 
 The Scribe records not merely the outcome of each decision but the reasoning behind it. The "Chronicle of Reason" is a physical document -- a leather-bound book or a bound sheaf of durable paper -- that serves as the institutional memory of the community.
@@ -188,6 +252,22 @@ Not all decisions require full consensus. Over-applying consensus leads to meeti
 **Tier 2** decisions are important but reversible. They affect how work is organized and resources are deployed in the short term. A simple majority suffices, but any member may still block on principled grounds.
 
 **Tier 3** decisions are made by individuals or small teams within their area of demonstrated expertise. The blacksmith decides how to run the forge. The herbalist decides which preparations to make. These decisions are subject to community override: any 5 members may escalate a Tier 3 decision to Tier 2, and any 10 members may escalate it to Tier 1. This preserves efficiency without sacrificing accountability.
+
+```text
+  QUORUM AND VOTING THRESHOLDS BY DECISION TIER
+
+  100% |##############################################################|
+   80% |=============== GREAT ASSEMBLY / SUPERMAJORITY OVERRIDE (80%) |
+   75% |=============== TIER 1 QUORUM (75%) ==========================|
+   50% |=============== TIER 2 QUORUM (50%) =====                     |
+       |  TIER 1  |  TIER 2  |  TIER 3  |  EMERGENCY  | GREAT ASSEM  |
+       |  Full    |  Simple  |  Domain  |  Override   | Annual Plan   |
+       | consensus| majority | authority|  80% super- | 80% quorum    |
+       | + blocks | + blocks | 1 expert |  majority   | Full consens. |
+       |__________|__________|__________|_____________|_______________|
+
+  ESCALATION:  Tier 3 --[5 members]--> Tier 2 --[10 members]--> Tier 1
+```
 
 ### Meeting Frequency and Duration
 
