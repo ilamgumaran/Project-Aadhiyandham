@@ -45,6 +45,29 @@ The standard English version invites no further inquiry. The E-Prime version spe
 
 Students learn standard English first and then transition to E-Prime as they develop fluency. Attempting E-Prime before achieving basic literacy creates confusion and frustration. The progression follows: decode words accurately, comprehend sentences, write simple sentences in standard English, then convert to E-Prime constructions.
 
+```text
+  SENTENCE STRUCTURE: Subject — Verb — Object (SVO)
+
+           [Sentence]
+           /    |    \
+      [Subject] [Verb] [Object]
+         |        |       |
+       "We"    "build"  "the wall"
+         |        |       |
+       "Rain"  "fills"  "the well"
+         |        |       |
+       "I"    "observe" "the water flow"
+
+  Standard:   "The wall is strong."
+                    |
+              [uses "to be"]
+                    |
+                    v
+  E-Prime:    "The wall supports a full load."
+                    |
+              [uses active verb]
+```
+
 ### Literacy Milestones
 
 - **Functional reading** (can decode and comprehend this manual): target age 8-10 with consistent daily practice.
@@ -121,6 +144,27 @@ English uses 26 letters to build every word in this manual.
 | ph | /f/ | phase | ஃப (pha) |
 
 **Common Blends** (two consonants, each retaining its sound): bl (blade), br (brick), cl (clay), cr (crop), dr (drain), fl (flame), fr (frame), gl (glass), gr (grain), pl (plant), pr (press), sc (scale), sk (skill), sl (slate), sm (smith), sn (snare), sp (spade), st (stone), sw (sweep), tr (trade).
+
+```text
+  PHONICS PROGRESSION STAIRCASE
+
+                                          _______________
+                                         | SENTENCES     |
+                                    _____|  "We plant    |
+                                   | WORDS  the seed."  |
+                              _____|  water             |
+                             | SYLLABLES  seed          |
+                        _____|  wa-ter                  |
+                       | BLENDS  gar-den                |
+                  _____|  bl, cr                        |
+                 | DIGRAPHS  st, tr                     |
+            _____|  sh, ch                              |
+           | LETTER SOUNDS  th, wh                      |
+      _____|  /b/ /d/ /k/                              |
+     | LETTER NAMES  /s/ /t/ /m/                        |
+     |  A B C D E                                       |
+     |__________________________________________________|
+```
 
 ### Foundation Vocabulary
 
@@ -235,6 +279,24 @@ The learner reads an entire module section and answers comprehension questions:
 - What failure modes does it warn about?
 - Can the learner explain the procedure to another person without re-reading?
 
+```text
+  READING READINESS STAGES
+
+  Stage 1         Stage 2         Stage 3         Stage 4
+  RECOGNITION     DECODING        FLUENCY         COMPREHENSION
+  +-----------+   +-----------+   +-----------+   +-----------+
+  | Knows     |   | Sounds    |   | Reads     |   | Reads and |
+  | letter    |-->| out words |-->| smoothly  |-->| explains  |
+  | shapes    |   | letter by |   | without   |   | meaning   |
+  | and names |   | letter    |   | halting   |   | in own    |
+  +-----------+   +-----------+   +-----------+   +-----------+
+   Age ~4-6        Age ~5-7        Age ~7-9        Age ~8-10
+   (adults:        (adults:        (adults:        (adults:
+    week 1-4)       month 1-3)      month 3-6)      month 6-12)
+
+  Target: Stage 4 = functional literacy to read this manual
+```
+
 ### Writing Practice
 
 **Materials**: charcoal-on-slate or charcoal-on-bark for beginners. Both surfaces allow erasing and reuse, conserving scarce paper for finished records. Sand trays (a flat box filled with fine sand) provide another reusable writing surface for letter formation practice.
@@ -246,6 +308,28 @@ The learner reads an entire module section and answers comprehension questions:
 3. **Sentence dictation**: The teacher reads a sentence aloud. The learner writes it from hearing alone. Compare against the original and correct errors.
 4. **Logbook entries**: The learner writes a brief daily record: date, weather, work performed, one observation.
 5. **Original composition**: The learner writes instructions, descriptions, or trade messages from their own understanding.
+
+```text
+  HANDWRITING GUIDE: LINE ZONES
+
+  --- ascender line -----------------------------------
+  |   b   d   h   k   l   t     (tall letters rise     |
+  |   |   |   |   |   |   |      to this line)         |
+  === TOP LINE (cap line) =============================
+  |   a c e m n o r s u v w x z  (short letters fill   |
+  |                                this zone only)      |
+  === BASELINE ========================================
+  |   g   j   p   q   y          (tails drop below     |
+  |   |   |   |   |   |           the baseline)        |
+  --- descender line ----------------------------------
+
+  Practice word:    b u i l d
+                    |_| | |_|
+                    ^  mid  ^
+                  tall     tall
+  Keep all letters touching the baseline.
+  Ascenders touch the top. Descenders drop below.
+```
 
 **The Daily Logbook**: Every literate community member maintains a brief daily record. A typical entry reads: "Day 142. Clear sky. Repaired the south wall section. Three stones cracked during placement -- mortar mix needs more clay." This practice serves three purposes simultaneously: writing practice, community record-keeping, and knowledge preservation. Logbooks survive their authors and transmit hard-won experience to future generations.
 

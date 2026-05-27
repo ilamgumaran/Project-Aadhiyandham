@@ -29,6 +29,25 @@ The concept of "knowledge half-life" quantifies this risk. Without deliberate tr
 
 Within a century of neglect, virtually all specialized knowledge disappears, leaving only the most basic survival skills that can be independently rediscovered.
 
+```text
+    KNOWLEDGE TRANSMISSION MODEL — Generational Flow
+
+    ELDER GENERATION          TEACHING PROCESS          NEXT GENERATION
+    ┌───────────────┐        ┌──────────────┐         ┌───────────────┐
+    │ Accumulated   │───────>│  Oral        │────────>│ Received      │
+    │ Knowledge     │        │  Apprentice  │         │ Knowledge     │
+    │ (100%)        │        │  Practice    │         │ (~50-80%)     │
+    └───────────────┘        │  Written     │         └───────┬───────┘
+                             └──────────────┘                 │
+          WHAT GETS LOST            ^      FEEDBACK LOOP      │
+          ┌─────────────────┐       └─────────────────────────┘
+          │ - Tacit skills  │         (teaching refines understanding)
+          │ - Context/nuance│
+          │ - Edge cases    │       WITHOUT FEEDBACK:  ~50% per gen
+          │ - Single-holder │       WITH FEEDBACK:     ~80-95% kept
+          └─────────────────┘
+```
+
 This is not hypothetical. The archaeological record provides stark evidence. Post-Roman Britain (roughly 410-600 CE) lost literacy, wheel-thrown pottery, concrete, glass-making, and central heating within 2-3 generations after the Roman administrative and economic networks collapsed. The population of Roman London dropped from an estimated 45,000-60,000 to effectively zero within a generation. The skills existed in living memory, but without the social structures to transmit them — apprenticeship networks, literate administrators, trade guilds — they vanished.
 
 The recovery timeline tells the story of how long knowledge loss persists:
@@ -85,6 +104,29 @@ These three pillars structure the hierarchy of knowledge needs that follows. Wha
 
 **5. Cultural Continuity.** Language (both English as a technical lingua franca and Tamil as a cultural root language), history (both world history and settlement history), identity, ritual, music, and storytelling. These are the binding elements that transform a collection of individuals into a community with shared purpose and mutual obligation.
 
+```text
+    CURRICULUM PRIORITY PYRAMID — What the Next Generation Must Know
+
+                        /\
+                       /  \          Ages 16+
+                      / 5. \         Cultural Continuity
+                     / CULT \        (language, history, ritual)
+                    /────────\
+                   /    4.    \      Ages 12+
+                  /   ETHICS   \     Ethical Reasoning
+                 /──────────────\
+                /      3.       \   Ages 10+
+               /    SCIENCE      \  Scientific Reasoning
+              /──────────────────-\
+             /        2.          \  Ages 5+
+            /   PRACTICAL SKILLS   \ Agriculture, Construction
+           /────────────────────────\
+          /          1.              \  Ages 5+
+         /    SURVIVAL LITERACY       \ Reading, Writing, Arithmetic
+        /──────────────────────────────\     (NON-NEGOTIABLE)
+        ================================
+```
+
 The curriculum described in this section is NOT a school curriculum. It is a framework for community-embedded learning. There is no school building, no school day, no separation between "education time" and "real life." Learning happens everywhere, all the time, through participation in the community's work and life.
 
 ### The Anti-Schooling Argument
@@ -126,6 +168,24 @@ Learning activities are organized around five developmental stages, mapped to th
 | 3 | 8-12 | Concrete operations (mature) | Structured apprenticeship, systematic study | Measurement and geometry, science observation and recording, skilled apprenticeship begins in earnest, reading fluency, written composition |
 | 4 | 12-16 | Formal operations (emerging) | Abstract reasoning, journeyman development | Algebra, scientific method (formal experimentation), philosophy and ethics, journeyman-level skill development in chosen apprenticeship, teaching younger children |
 | 5 | 16+ | Formal operations (mature) | Mastery, specialization, teaching | Deep specialization in at least one critical domain, regular teaching of apprentices, contribution to the knowledge archive, participation in settlement governance |
+
+```text
+    LEARNING STAGES BY AGE — Developmental Timeline (0-18)
+
+    Age:  0   2   4   5   6   8  10  12  14  16  18
+          |---|---|---|---|---|---|---|---|---|---|---|
+    PLAY  |███████████|·····|                          Sensory, motor, social
+    LANG  |████████████████████|·····|                 Spoken fluency (both)
+    READ  |       |██████████████████████|·····|       Phonics → fluency
+    MATH  |       |████████████████████████████████|   Counting → algebra
+    SKILL |           |·····|██████████████████████|   Observe → apprentice → journeyman
+    SCI   |               |·····|██████████████████|   Nature obs → formal method
+    PHIL  |                       |████████████████|   Ethics → abstract reasoning
+    TEACH |                           |·····|█████|   Peer tutoring → mentorship
+
+    Legend: ███ = primary learning period
+            ··· = introductory / transitional phase
+```
 
 ### The Daily Learning Rhythm
 
@@ -227,6 +287,30 @@ Creating educational materials from local resources requires creativity but not 
 **Prevention:** The daily 1-2 hour literacy/numeracy practice period is mandatory and protected. It is not cancelled for harvest, not postponed for construction projects, not abandoned when things get busy. It is as non-negotiable as eating and sleeping. Universal literacy is the single most important educational outcome, and it requires deliberate, sustained effort.
 
 A useful benchmark: most children require approximately 100 hours of structured reading practice to achieve basic fluency. At 1 hour per day, this means roughly 4-5 months of daily practice before a child can read simple texts independently.
+
+```text
+    LITERACY PRESERVATION CYCLE — Continuous Knowledge Loop
+
+                    ┌──────────────┐
+                    │   READING    │
+                    │ (decode,     │
+                    │  comprehend) │
+                    └──────┬───────┘
+                           v
+    ┌──────────────┐               ┌──────────────┐
+    │  ARCHIVING   │<─────────────>│   WRITING    │
+    │ (Chronicle & │               │ (compose,    │
+    │  knowledge   │               │  record,     │
+    │  archive)    │               │  document)   │
+    └──────┬───────┘               └──────┬───────┘
+           │       ┌──────────────┐       │
+           └──────>│   TEACHING   │<──────┘
+                   │ (instruct    │
+                   │  next cohort)│
+                   └──────────────┘
+         If ANY link breaks, literacy decays
+         within one generation (~25 years)
+```
 
 ## Vocabulary of the Foundation
 

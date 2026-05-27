@@ -8,6 +8,31 @@ The settlement operates bilingually. English serves as the technical and scienti
 
 Research in developmental psychology and cognitive science consistently demonstrates that bilingualism confers measurable cognitive advantages. Bilingual children develop enhanced executive function, greater cognitive flexibility, and stronger metalinguistic awareness --- the ability to think about language itself as a system. In a post-collapse settlement, these cognitive advantages translate directly into practical resilience: people who can think flexibly, switch between frameworks, and analyze systems abstractly are better equipped to solve novel problems. Preserving Tamil is not a sentimental luxury. It is a strategic investment in the cognitive and cultural infrastructure of the community.
 
+```text
+             BILINGUAL BRIDGE: Tamil <---> English
+
+   TAMIL (Heritage)              ENGLISH (Technical)
+  +------------------+          +------------------+
+  | Ethics & Values  |          | Science & Data   |
+  | Poetry & Meter   |          | Engineering      |
+  | Oral History     |          | Trade & Commerce |
+  | Ceremony & Rite  |          | Technical Manuals|
+  +--------+---------+          +---------+--------+
+           |                              |
+           +-------> SHARED <-------------+
+                  +-----------+
+                  | Phonemic  |
+                  | Awareness |
+                  | Executive |
+                  | Function  |
+                  | Metalang. |
+                  | Analysis  |
+                  +-----------+
+                       |
+              COGNITIVE MULTIPLIER
+       Flexible thinking, dual frameworks
+```
+
 > **SAFE**: This module contains language instruction materials. All content is safe to teach and practice. Tamil's logical phonetic structure makes it one of the most systematic languages to learn.
 
 ## Theoretical Foundation
@@ -19,6 +44,23 @@ Tamil is one of only six languages worldwide recognized as classical languages o
 The Sangam literature (300 BCE to 300 CE) constitutes the foundational corpus. Over two thousand poems survive, organized into anthologies covering akam (interior, love) and puram (exterior, war and public life). These poems encode a complete philosophical worldview through the tinai system, which maps human emotional states onto specific landscapes: kurinji (mountains, union), mullai (forests, patience), marutam (farmland, domestic life), neytal (seashore, separation), and palai (wasteland, hardship). This is not merely literary classification --- it is an ecological philosophy that connects human psychology to geography, a framework directly relevant to a settlement rebuilding its relationship with land.
 
 The Tolkappiyam, attributed to Tolkappiyar and dated to approximately 200 BCE, is one of the oldest surviving works of grammar in any language. It covers three domains: ezhuttu (phonology and orthography), sol (morphology and word formation), and porul (poetics and semantics). The Tolkappiyam does not merely describe Tamil --- it provides a systematic theory of how language works, making it a foundational text in linguistics.
+
+```text
+    TAMIL SCRIPT EVOLUTION TIMELINE
+
+    ~300 BCE          ~3rd c. CE         ~7th c. CE         Modern
+   BRAHMI ----------> TAMIL-BRAHMI -----> GRANTHA ---------> MODERN TAMIL
+   (pan-Indian       (regional           (Pallava &          (standardized
+    script)           adaptation)         Chola eras)         247 chars)
+
+   +-----------+      +-----------+      +-----------+      +-----------+
+   | Angular   |      | Rounded   |      | Cursive   |      | Circular  |
+   | strokes   | ---> | forms     | ---> | flowing   | ---> | loops &   |
+   | on stone  |      | emerge    |      | on palm   |      | curves    |
+   +-----------+      +-----------+      +-----------+      +-----------+
+     Sangam poets      Tolkappiyam       Devotional poetry   Thirukkural
+     compose here      codifies grammar  blooms              in print
+```
 
 The Thirukkural by Thiruvalluvar, composed between approximately 200 BCE and 500 CE, consists of exactly 1,330 couplets organized into 133 chapters of 10 couplets each, covering three books: aram (virtue, chapters 1-38), porul (wealth and statecraft, chapters 39-108), and inbam (love, chapters 109-133). The Thirukkural is remarkable for its complete secularity --- it belongs to no single religious tradition and provides a universal ethical framework. For the settlement, this text serves as an ethical curriculum independent of any theological commitment, a shared moral vocabulary that every member of the community can reference regardless of personal belief.
 
@@ -132,6 +174,30 @@ The uyirmei letters are formed by combining a consonant (mei) with a vowel (uyir
 | க் + ஔ | கௌ | kau |
 
 This same pattern applies identically to all 18 consonants. Learning the 12 vowel forms for one consonant teaches you the rule for all 216 combined letters. The system is not 247 arbitrary symbols --- it is 30 elements and one rule.
+
+```text
+    TAMIL VOWEL-CONSONANT COMBINATION GRID (simplified)
+
+              Vowels (Uyir) --->
+              அ    ஆ    இ    ஈ    உ    ஊ   ...  (12 total)
+            +----+----+----+----+----+----+------+
+    க் (k)  | க  | கா | கி | கீ | கு | கூ | ...  |
+            +----+----+----+----+----+----+------+
+    ச் (ch) | ச  | சா | சி | சீ | சு | சூ | ...  |
+  C         +----+----+----+----+----+----+------+
+  o  ட் (t) | ட  | டா | டி | டீ | டு | டூ | ...  |
+  n         +----+----+----+----+----+----+------+
+  s  த் (th)| த  | தா | தி | தீ | து | தூ | ...  |
+  o         +----+----+----+----+----+----+------+
+  n  ப் (p) | ப  | பா | பி | பீ | பு | பூ | ...  |
+  a         +----+----+----+----+----+----+------+
+  n  ம் (m) | ம  | மா | மி | மீ | மு | மூ | ...  |
+  t         +----+----+----+----+----+----+------+
+  s  ...    | .. | .. | .. | .. | .. | .. | ...  |
+    (18)    +----+----+----+----+----+----+------+
+
+    ONE RULE: Consonant + Vowel = Combined Letter (18 x 12 = 216)
+```
 
 ### Foundation Vocabulary
 
@@ -262,6 +328,23 @@ Tamil letters follow specific stroke orders. Begin with the simplest vowels (அ
 4. Sentences: read the writing practice sentences above.
 5. Thirukkural: read and memorize assigned couplets.
 6. Original composition: write simple sentences, then short passages, in Tamil.
+
+```text
+    LESSON PROGRESSION STAIRCASE
+
+                                         _________________
+                                    ____|  6. COMPOSE     |
+                               ____|  5. RECITE Thirukkural
+                          ____|  4. READ SENTENCES        |
+                     ____|  3. READ WORDS (vocabulary)    |
+                ____|  2. READ SYLLABLES (combos)         |
+           ____|  1. LETTERS (12 vowels + 18 consonants)  |
+      ____|  0. SAND TRAY (motor patterns)                |
+     |START_______________________________________________|
+
+    Each step builds on the one below.
+    Thirukkural couplets begin at step 5 (age 5-8).
+```
 
 ## Common Failure Modes
 
