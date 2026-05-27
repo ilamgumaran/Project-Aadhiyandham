@@ -40,6 +40,28 @@ The coherence principle ties these units together. One liter equals exactly 1,00
 
 **Time:** Time is the one non-metric unit. It uses base-60 (60 seconds per minute, 60 minutes per hour) and base-24 (24 hours per day). This system, inherited from the Babylonians, is preserved because of its astronomical basis — the Earth's rotation and orbit — and its universal familiarity across all cultures. Do not attempt to decimalize time. Use seconds, minutes, hours, and days as they are.
 
+```text
+  Unit Conversion Ladder — Length
+  ================================
+
+  1 km ─────────────────────── 1,000 m
+    |                              |
+    |   (divide by 1,000)          |
+    v                              v
+  1 m  ─────────────────────── 100 cm
+    |                              |
+    |   (divide by 100)            |
+    v                              v
+  1 cm ─────────────────────── 10 mm
+    |                              |
+    |   (divide by 10)             |
+    v                              v
+  1 mm                        base unit
+
+  Rule: move DOWN = multiply, move UP = divide
+  All conversions are powers of 10.
+```
+
 ### Body-Based Measurement
 
 உங்கள் அளவிடும் கருவிகளை இழந்தால், உங்கள் உடலை ஒரு குறிப்பாகப் பயன்படுத்தவும்.
@@ -121,6 +143,30 @@ Assign a custodian — one person responsible for the security and maintenance o
 
 Re-calibrate annually, as children grow and adults may change over time. Keep measurement cards with the community records. When someone reports a body-based estimate, always ask: "What is your calibrated pace length?" so the estimate can be converted to a reliable metric value.
 
+```text
+  Body-Referenced Measurement System
+
+        <--- arm span (~170 cm) --->
+  finger                          finger
+   tips  o----------*----------o  tips
+         |      ____|____      |
+         |     |  head  |     |
+         |     |________|     |
+         |    |-cubit-|       |
+         |    |~45 cm |       |
+         |    E=======H       |   E = elbow
+         |    |       |--span-+   H = hand
+         |    |       |~20 cm |   span = thumb to pinky
+         |    |       |       |
+         |    |  foot |~25 cm |
+         |    |  |====|       |
+              |--pace--|
+               ~75 cm
+
+  Calibrate each person against the master
+  meter rod. Record on a personal card.
+```
+
 ### Temperature Reference Points
 
 வெப்பநிலை
@@ -156,6 +202,29 @@ Note: boiling point decreases with altitude. At 1,000 m elevation, water boils a
 **Mass — the balance scale:** Construct a simple balance from a rigid beam (a straight stick or plank) balanced on a fulcrum at its exact center. Hang identical pans or bags from each end at equal distances from the fulcrum. Place the object to be weighed on one side and the master kilogram (or calibrated subdivisions — stones verified to weigh 500 g, 200 g, 100 g) on the other. When the beam is level, the masses are equal.
 
 Create a set of counterweights in useful subdivisions: 1 kg, 500 g, 200 g, 100 g, 50 g, 20 g, and 10 g. With these seven weights, you can measure any mass from 10 g to 1,880 g by combination. Verify each counterweight against the master kilogram using water displacement and the coherence principle.
+
+```text
+  Balance Scale Schematic
+
+            fulcrum
+              /\
+  ___________/  \___________
+  |         /    \         |
+  | equal  /      \ equal  |
+  | dist. /        \ dist. |
+  +--+   |          |  +--+
+  |  |   |          |  |  |
+  |??|   |          | +--+|
+  |  |   |          | |1k||
+  +--+   |          | +--+|
+   pan               pan
+  unknown          known weights
+  quantity         (calibrated)
+
+  Level beam = equal mass.
+  Combine: 1kg+500g+200g+100g+50g+20g+10g
+         = measure up to 1,880 g
+```
 
 **Temperature — observation:** Without a thermometer, use the reference points above and observable material behavior. Water too hot for a hand: above 50 degrees Celsius. Water at full boil: 100 degrees Celsius. Wax melting: approximately 60 degrees Celsius. Lead melting: approximately 327 degrees Celsius. Visible dull red glow in darkness: approximately 600 degrees Celsius. Bright cherry red: approximately 800 degrees Celsius. Orange glow: approximately 1,000 degrees Celsius. Train yourself to recognize these visual cues consistently — they are your thermometer when glass and mercury are unavailable.
 
@@ -198,6 +267,20 @@ Create a set of counterweights in useful subdivisions: 1 kg, 500 g, 200 g, 100 g
 **Grain storage capacity:**
 
 *Example:* A rectangular grain bin measuring 1.5 m x 1.0 m x 1.2 m has an internal volume of 1.5 x 1.0 x 1.2 = **1.8 m³ = 1,800 liters**. Dry grain has a bulk density of approximately 750 kg/m³, so this bin holds roughly 1,800 x 0.75 = **1,350 kg** of grain. This calculation determines how many bins the settlement needs to store an annual harvest.
+
+```text
+  Volume Measurement Vessels
+
+   Cup(250mL)  Pot(1 L)    Pail(5 L)     Bushel(36 L)
+   ___          _____       _______        ___________
+  |   |        |     |     |       |      |           |
+  |   | 6cm    |     |11cm |       |22cm  |           |33cm
+  |___|        |_____|     |_______|      |___________|
+  7cm dia.     11cm dia.   18cm dia.      37cm dia.
+
+  Ratios: 4 Cups=1 Pot, 5 Pots=1 Pail, ~7 Pails=1 Bushel
+  Calibrate all by pouring from master liter container.
+```
 
 ### The 3-4-5 Triangle
 

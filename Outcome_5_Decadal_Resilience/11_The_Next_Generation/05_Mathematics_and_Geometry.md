@@ -64,6 +64,24 @@ The triangle is the strongest structural shape. A triangle cannot deform without
     *   *Example:* 3 rows of 5 plants = 15 plants.
 *   **Division (/):** Sharing equally. (பகிர்ந்தளித்தல்)
 
+```text
+  Place Value with Physical Manipulatives
+
+  ONES (stones)    TENS (sticks)     HUNDREDS (bundles)
+    o o o           |||               {|||}
+    o o             |||               {|||}
+                    ||
+   5 ones          8 tens            2 hundreds
+   = 5             = 80              = 200
+
+  Number line:  The number 285
+  |----+----|----+----|----+----|
+  0        100       200       300
+                          ^
+                         285 = 200 + 80 + 5
+                             = 2 bundles + 8 sticks + 5 stones
+```
+
 **Multiplication Tables**: Memorize through 12x12. These are non-negotiable — a student who must calculate 7x8 from scratch every time will be painfully slow at all higher mathematics. Practice daily until recall is instant.
 
 |  x  |  1 |  2 |  3 |  4 |  5 |  6 |  7 |  8 |  9 | 10 | 11 | 12 |
@@ -155,6 +173,29 @@ Three-dimensional shapes have volume — the amount of space they enclose.
 | Cylinder         | V = pi x r² x h           | Water tank r=0.5m, h=1m = 0.785 m³ = 785 L    |
 | Cone             | V = 1/3 x pi x r² x h    | Grain pile r=1m, h=0.8m = 0.838 m³            |
 
+```text
+  Area and Volume Formulas — Visual Reference
+
+  RECTANGLE           TRIANGLE            CIRCLE
+  +----------+           /\              .--'''--.
+  |          | h       /    \  h       /    r      \
+  |  A=L x W |      /______\        |------o       |
+  +----------+        b               \            /
+       L          A = 1/2 x b x h      '--...--'
+                                      A = pi x r²
+
+  3D BOX (Rectangular Solid)
+       +----------+
+      /|         /|
+     / |   H    / |       Volume = L x W x H
+    +----------+  |       Example: 2m x 1m x 1.5m
+    |  +-------|--+                = 3 m³
+    | /    W   | /                 = 3,000 liters
+    |/         |/
+    +----------+
+         L
+```
+
 **Settlement Applications**:
 - *Water tank capacity*: A cylindrical tank 1m diameter (radius 0.5m) and 1m height holds pi x 0.5² x 1 = 3.14159 x 0.25 = 0.785 m³. Since 1 m³ = 1,000 liters, this tank holds 785 liters. A family of 5 using 20 liters/person/day needs 100 liters/day, so this tank provides roughly 8 days of water.
 - *Grain storage bin*: A rectangular bin 1.5m x 1m x 1m = 1.5 m³. Wheat weighs approximately 750 kg/m³ when bulk-stored, so this bin holds roughly 1,125 kg of wheat.
@@ -168,6 +209,24 @@ Three-dimensional shapes have volume — the amount of space they enclose.
 In a right-angle triangle, the square of the longest side (hypotenuse) equals the sum of the squares of the other two sides:
 
 **a² + b² = c²**
+
+```text
+  Pythagorean Theorem — Visual Proof with Squares
+
+       +-------+
+       |       |  c² = 25
+       | 25    |  (5 x 5)
+       |       |
+  +----+--+    |        The area of the square on the
+  |    | /|    |        hypotenuse (c) equals the sum
+  |  9 |/ |----+        of the areas of the squares
+  |    /  |             on the other two sides (a, b).
+  +--/+---+
+    / | 16 |            a = 3  -->  a² =  9
+   /  |    |            b = 4  -->  b² = 16
+      +----+            c = 5  -->  c² = 25
+                        9 + 16 = 25  ✓
+```
 
 ```text
         /|

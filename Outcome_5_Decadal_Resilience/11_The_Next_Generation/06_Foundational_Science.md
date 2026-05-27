@@ -63,6 +63,27 @@ This is why a heavy flywheel, once spinning, stores useful mechanical energy: it
 
 **Newton's Third Law (Action-Reaction):** For every action, there is an equal and opposite reaction. When you push against the ground with a shovel, the ground pushes back on the shovel — this reaction force is what lifts the soil. When a boat paddle pushes water backward, the water pushes the boat forward. When a blacksmith's hammer strikes hot iron on an anvil, the anvil pushes back with equal force — which is why the anvil must be heavy and firmly mounted.
 
+A **simple machine** multiplies force or changes its direction. The lever is the most fundamental simple machine, and all three classes appear in settlement work:
+
+```text
+  THREE CLASSES OF LEVERS
+
+  1st Class (crowbar, seesaw):     E         L
+    Fulcrum between E and L       ─┴────△────┴─
+
+  2nd Class (wheelbarrow):              L    E
+    Load between fulcrum and E    ─┬────┴────┴─
+                                   △
+
+  3rd Class (tongs, forearm):      E         L
+    Effort between fulcrum and L  ─┬────┴────┴─
+                                   △
+
+  E = Effort (force you apply)
+  L = Load  (force you overcome)
+  △ = Fulcrum (pivot point)
+```
+
 **Gravity:** The force of gravitational attraction near Earth's surface is F = mg, where g is approximately 9.8 m/s². All objects fall at the same rate regardless of mass — a stone and a wooden ball dropped simultaneously hit the ground at the same time (Galileo's insight, contradicting centuries of Aristotelian error). Air resistance complicates this for light objects like feathers, but the underlying gravitational acceleration is identical.
 
 Practical applications of gravity in the settlement: water flows downhill (hydraulic systems), a taller water wheel produces more power (more potential energy per unit of water), and buildings must have foundations strong enough to bear their own weight. Rope under tension pulls equally on both ends — this is Newton's Third Law applied along a line.
@@ -75,7 +96,27 @@ Practical applications of gravity in the settlement: water flows downhill (hydra
 
 ### Chemistry of Daily Life
 
-All matter is composed of atoms, which combine into molecules. The elements most critical to settlement life are:
+All matter is composed of atoms, which combine into molecules. Matter exists in three states — solid, liquid, and gas — depending on how much energy (heat) the particles contain:
+
+```text
+  STATES OF MATTER — Particle Arrangement vs. Temperature
+
+  LOW ENERGY (Cold) ◄──────────────────► HIGH ENERGY (Hot)
+
+  ┌─────────────┐    ┌─────────────┐    ┌─────────────┐
+  │ · · · · · · │    │  ·  ·   ·   │    │ ·        ·  │
+  │ · · · · · · │    │    ·  ·     │    │    ·  ·     │
+  │ · · · · · · │    │  ·    · ·   │    │  ·          │
+  │ · · · · · · │    │   · ·   ·   │    │      ·    · │
+  └─────────────┘    └─────────────┘    └─────────────┘
+     SOLID              LIQUID               GAS
+  Fixed in lattice   Slide past each    Fly freely apart
+                     other
+
+  ICE ──(melting 0°C)──► WATER ──(boiling 100°C)──► STEAM
+```
+
+The elements most critical to settlement life are:
 
 | Element | Symbol | Role in Settlement |
 |---|---|---|
@@ -131,9 +172,50 @@ Key reactions for the settlement:
 
 **Connection to settlement water systems:** Springs flow year-round because groundwater is stored precipitation — rain that infiltrated the soil months or years ago, filtered through rock layers, and emerges where the water table intersects the surface. Hilltop sites have less groundwater than valley sites because water flows downhill through soil just as it does on the surface. A **watershed** is the entire land area that drains into a single stream or river — the settlement's water supply depends on the health of its entire watershed, not just the immediate area around the spring or well.
 
+```text
+  COMPLETE WATER CYCLE — With Groundwater
+
+       ☀ SUN ──► Evaporation
+            |
+       ~~~CLOUDS~~~ (condensation)
+       | | | | | |
+       V V V V V V  PRECIPITATION
+      /     |      \
+     /  Infiltration \──► RUNOFF ──► RIVER/LAKE
+    /       |         \                  |
+   · · Soil moisture · ·                |
+   ·  · Percolation ·  ·                |
+   ═══════════════════════               |
+   ░░░ GROUNDWATER ░░░░░░───► Spring ───┘
+   ░░░░ (Aquifer) ░░░░░░░░        |
+   ═══════════════════════        V
+                           Evaporation (cycle repeats)
+```
+
 **The Carbon Cycle:** Plants absorb CO₂ from the atmosphere during photosynthesis. Animals eat plants, using the carbon compounds for energy and body-building. When animals and plants die, decomposer organisms (bacteria, fungi, insects) break down the carbon compounds, releasing CO₂ back to the atmosphere. Burning wood or charcoal also releases stored carbon as CO₂. The carbon cycle is a closed loop: the carbon in your food was in the atmosphere months ago, and will return to the atmosphere after you exhale or after your waste decomposes.
 
 **Photosynthesis:** 6CO₂ + 6H₂O + sunlight --> C₆H₁₂O₆ + 6O₂. Plants literally build their bodies from air (CO₂), water, and sunlight. The glucose (C₆H₁₂O₆) produced is used for energy and converted into cellulose (wood), starch (stored energy), and other organic compounds. Photosynthesis captures roughly 1-2% of incoming solar energy — a low efficiency, but applied across billions of leaves, it powers all life on Earth. Every calorie of food the settlement produces traces back to this single reaction.
+
+```text
+  PLANT ANATOMY — Transport Systems
+
+        ☀ SUNLIGHT + CO₂ in
+          |
+     ┌────┴────┐
+    /   LEAF    \   Photosynthesis: CO₂+H₂O+light → sugar+O₂
+    \_____│_____/   O₂ out through stomata (pores)
+          |
+     ╔════╧════╗
+     ║  STEM   ║   ↑ XYLEM:  water + minerals UP
+     ║ │X│ │P│ ║   ↓ PHLOEM: sugars DOWN to roots
+     ╚═╧═══╧═╧╝
+     ──┬─────┬──   Ground level
+      /  ROOT  \
+     / ┌──┴──┐  \  Absorb water + minerals (N, P, K)
+    ───┤     ├───   through root hairs
+       └──┬──┘
+      ~~~~|~~~~    SOIL WATER + NUTRIENTS
+```
 
 **Soil biology:** One teaspoon of healthy soil contains approximately 1 billion bacteria, several meters of fungal hyphae, and thousands of protozoa and nematodes. These organisms decompose organic matter, cycle nutrients, fix atmospheric nitrogen, and create soil structure. Healthy soil is alive. Dead soil (compacted, depleted, sterilized) grows nothing. This is why composting, mulching, and minimal tillage matter — they feed the soil biology that feeds the crops.
 
