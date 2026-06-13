@@ -94,6 +94,33 @@ disrupting perception -- spinning, swinging, climbing, dancing. A healthy
 society requires all four. A settlement permitting only agon breeds aggression
 without the softening of chance, imagination, and physical abandon.
 
+```text
+       CAILLOIS — THE FOUR CATEGORIES OF PLAY (all four required)
+
+                        WILL  ◄──────────────►  SURRENDER
+                      (skill/intent)        (give up control)
+              ┌──────────────────────┬───────────────────────┐
+              │  AGON                │  ALEA                 │
+              │  competition         │  chance               │
+              │  contests of skill   │  outside player's     │
+              │  under equality      │  control              │
+              │                      │                       │
+              │  races · wrestling · │  dice · lots ·        │
+              │  chess               │  knucklebones         │
+              ├──────────────────────┼───────────────────────┤
+              │  MIMICRY             │  ILINX                │
+              │  simulation          │  vertigo              │
+              │  becoming someone    │  disrupting           │
+              │  else                │  perception           │
+              │                      │                       │
+              │  theater · story-    │  spinning · swinging ·│
+              │  telling · masks     │  climbing · dancing   │
+              └──────────────────────┴───────────────────────┘
+
+   RULE: a settlement permitting ONLY agon breeds aggression
+         without the softening of chance, imagination, abandon.
+```
+
 ### The Carnival Tradition
 
 Mikhail Bakhtin's *Rabelais and His World* (1965) provides the framework for
@@ -157,6 +184,32 @@ postponed because times are hard -- hard times are precisely when it is most
 needed. It cannot be cancelled because leadership finds satire uncomfortable --
 discomfort is precisely its function.
 
+```text
+       THE FIVE CORE PRINCIPLES OF PLAY — LOAD-BEARING STACK
+
+   ┌────────────────────────────────────────────────────────────┐
+   │ 1  PLAY MUST BE VOLUNTARY                                  │
+   │    forced play is exercise, drill, or punishment in a mask │
+   ├────────────────────────────────────────────────────────────┤
+   │ 2  THE MANDATE OF REST IS LAW                              │
+   │    one full day in every seven — no non-essential labor    │
+   ├────────────────────────────────────────────────────────────┤
+   │ 3  COMPETITION MUST REMAIN PLAY                            │
+   │    no material stakes · team rotation · gracious loser >   │
+   │    sore winner                                             │
+   ├────────────────────────────────────────────────────────────┤
+   │ 4  EVERY AGE MUST PLAY                                     │
+   │    children · adolescents · adults · elders all play       │
+   ├────────────────────────────────────────────────────────────┤
+   │ 5  THE FESTIVAL OF FOOLS IS SACRED                         │
+   │    cannot be postponed for hard times — nor cancelled for  │
+   │    leadership discomfort                                   │
+   └────────────────────────────────────────────────────────────┘
+
+   RULE: a society where only children play has failed to
+         understand play.
+```
+
 ## Practical Implementation
 
 ### The Play Space
@@ -172,6 +225,31 @@ The play space should be central enough to be accessible but separated from
 sleeping quarters so noise is not a problem. Proximity to the communal kitchen
 is ideal -- play naturally flows from shared meals. Cross-reference shelter and
 thermal comfort modules for shade structure construction.
+
+```text
+       THE PLAY SPACE — TOP-DOWN PLAN (minimum ~20 m × 30 m)
+
+        ◄────────────────── ~30 m ──────────────────►
+      ╔══════════════════════════════════════════════╗  ▲
+      ║ ░shade░  [logs/benches — spectators, elders, ║  │
+      ║ ░thatch░  nursing parents]                   ║  │
+      ║ ┌──────────────────────────────────────────┐ ║  │
+      ║ │                                          │ ║  │
+      ║ │     FLAT, CLEARED GROUND                 │ ║ ~20 m
+      ║ │     grass · packed earth · sand          │ ║  │
+      ║ │     (NOT stone or gravel)                │ ║  │
+      ║ │                                          │ ║  │
+      ║ └──────────────────────────────────────────┘ ║  │
+      ║ ░shade░  [storage chest / covered rack —     ║  │
+      ║ ░thatch░  communal game equipment]           ║  ▼
+      ╚══════════════════════════════════════════════╝
+         distinct from work zones and ritual spaces
+         ↕ separated from sleeping quarters (noise)
+         → ideal: adjacent to the communal kitchen
+
+   RULE: designate in the founding charter; mark boundaries
+         with permanent posts so it is never annexed.
+```
 
 ### Zero-Resource Game Catalog
 
@@ -254,6 +332,29 @@ shared breakfast or brief statement by the eldest marks the return to order.
 **The festival cannot be cancelled.** Hard years, shortages, threats, leadership
 discomfort -- none are grounds. The festival exists precisely for hard times.
 
+```text
+       FESTIVAL OF FOOLS — THE ARC OF SANCTIONED INVERSION
+
+   MIDWINTER          24–48 h, sunset → sunrise          SUNRISE
+   shortest days   (min 24 h, decided annually)       return to order
+        │                                                     │
+        ▼                                                     ▼
+   ┌─────────┐   ┌─────────┐   ┌─────────┐   ┌─────────┐  ┌────────┐
+   │ REVERSAL│──►│ SATIRE  │──►│  FEAST  │──►│ TOASTS  │─►│MORNING │
+   │ roles   │   │ short   │   │preserved│   │ music · │  │ AFTER  │
+   │ invert; │   │ pieces  │   │ foods · │   │ story-  │  │ titles │
+   │ titles  │   │ mock    │   │ honey · │   │ telling │  │ resume;│
+   │ suspend │   │ leaders │   │ dried   │   │         │  │ inside │
+   │ youngest│   │ — funny │   │ fruit · │   │         │  │ magic  │
+   │ direct  │   │ NOT     │   │ spiced  │   │         │  │ circle,│
+   │ council │   │ cruel   │   │ drink   │   │         │  │ nothing│
+   │         │   │         │   │         │   │         │  │ held   │
+   └─────────┘   └─────────┘   └─────────┘   └─────────┘  └────────┘
+
+   RULE: the return to order matters as much as the inversion —
+         the festival MUST end, and it cannot be cancelled.
+```
+
 ### Seasonal Play Calendar
 
 **Summer:** Outdoor physical play -- swimming, water games, team sports, foot
@@ -271,6 +372,26 @@ of alea and mimicry.
 **Spring:** Nature exploration, tracking animals, temporary shelter-building for
 fun, kite-making, return to outdoor physical games. The season of ilinx and
 renewed agon.
+
+```text
+       SEASONAL PLAY CALENDAR — CATEGORY EMPHASIS ROUND THE YEAR
+
+   SUMMER  │ swimming · water games · team sports · foot
+           │ races · capture the flag                     ► AGON + ILINX
+   ────────┼──────────────────────────────────────────────────────────
+   AUTUMN  │ harvest competitions · feasts with games ·
+           │ carving sets · stitching balls · making dice ► AGON → MIMICRY
+   ────────┼──────────────────────────────────────────────────────────
+   WINTER  │ chess · checkers · mancala · dice · riddles ·
+           │ storytelling · theater · FESTIVAL OF FOOLS   ► ALEA + MIMICRY
+   ────────┼──────────────────────────────────────────────────────────
+   SPRING  │ nature exploration · tracking · shelter-
+           │ building for fun · kite-making · outdoor play ► ILINX + AGON
+   ────────┴──────────────────────────────────────────────────────────
+
+   RULE: the wheel of the year cycles all four Caillois
+         categories — no single mode dominates the calendar.
+```
 
 ## Common Failure Modes
 

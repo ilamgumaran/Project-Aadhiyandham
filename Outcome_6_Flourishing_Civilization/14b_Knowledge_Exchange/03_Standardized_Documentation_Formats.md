@@ -10,6 +10,27 @@ Small post-collapse settlements cannot impose a single language. They can, howev
 
 > **SAFE**: Documentation practices carry no physical risk. All activities involve writing, drawing, committee discussion, and document review. No hazardous materials or procedures are described in this module.
 
+```text
+       ADOPTION ARC — FROM BURDEN TO TECHNICAL ENCYCLOPEDIA
+
+   Year 1  ▓                  format feels BURDENSOME — an extra
+                              layer on demanding settlement life
+   ────────│
+   Year 3  ▓▓▓▓               new documents written in the standard
+                              from the start; template internalized
+   ────────│
+   Year 5  ▓▓▓▓▓▓▓            a local farmer follows a distant
+                              scholar's doc — no shared language
+   ────────│
+   Year 10 ▓▓▓▓▓▓▓▓▓▓▓▓       network library = a genuine technical
+                              encyclopedia: decentralized, redundant
+   ──────────────────────────────────────────────────────────────
+            cost felt early                value compounds over time
+
+   RULE: a civilization that learns faster than it forgets —
+         the fundamental requirement for long-term flourishing.
+```
+
 
 ## Theoretical Foundation
 
@@ -70,6 +91,26 @@ Every inter-settlement document begins with a standardized header block that con
 - **Difficulty indicator**: One to four filled circles, where one means any community member can execute the procedure and four means specialist training is required.
 - **Version mark**: A simple tally indicating how many times the document has been revised.
 
+```text
+       THE UNIVERSAL DOCUMENT HEADER — SIX METADATA ELEMENTS
+
+   ┌──────────────────────────────────────────────────────────┐
+   │ [Origin mark]        TITLE LINE                           │
+   │  settlement sigil    local script + pictographic title    │
+   │  (upper-left)                                             │
+   ├──────────────────────────────────────────────────────────┤
+   │ [Domain marker]   [Difficulty]      [Date]      [Version] │
+   │  1 of 7 icons     ●○○○ → ●●●●     season+year    tally    │
+   │  ▲ seed/sprout    1=any member    △=spring ▽=autm  |||     │
+   │  ≋ 3 wavy lines   4=specialist    ○=summer □=wintr        │
+   └──────────────────────────────────────────────────────────┘
+     SEVEN DOMAIN ICONS: agriculture · water · construction ·
+     medicine · metallurgy · governance · energy
+
+   RULE: the header conveys six facts BEFORE a word is read —
+         metadata legible without any language fluency.
+```
+
 ### The Standard Section Sequence
 
 After the header, every technical document follows a fixed section order. A reader who knows the sequence can navigate any document even without reading the text:
@@ -81,6 +122,27 @@ After the header, every technical document follows a fixed section order. A read
 5. **Cautions** (marked with a triangle-exclamation symbol): What can go wrong and how to prevent it.
 6. **Verification** (marked with a checkmark symbol): How to test that the procedure was performed correctly.
 7. **Source Attribution** (marked with a chain-link symbol): Which settlement originated this knowledge and when.
+
+```text
+       THE STANDARD SECTION SEQUENCE — FIXED NAVIGATION ORDER
+
+   1.PURPOSE  →  2.MATERIALS →  3.PROCEDURE →  4.DIAGRAM
+   ──────────    ──────────     ──────────     ─────────
+    line above    table grid    numbered       box border
+    & below       2 columns     steps, bold    visual
+    1-3 sentcs    item+qty      action verbs   illustration
+                                                   │
+       ┌───────────────────────────────────────────┘
+       ▼
+   5.CAUTIONS →  6.VERIFICATION →  7.SOURCE ATTRIBUTION
+   ──────────    ─────────────     ───────────────────
+    /!\ triangle  ✓ checkmark       ⛓ chain-link
+    what goes     how to test       which settlement
+    wrong         it worked         originated + when
+
+   RULE: a trained reader locates any section without reading
+         the text — materials is ALWAYS 2nd, cautions ALWAYS 5th.
+```
 
 ### The Pictographic Supplement System
 
@@ -122,6 +184,26 @@ Settlements will inevitably develop local measurement habits. For inter-settleme
 
 **Length**: The hand-span (tip of thumb to tip of little finger, spread wide) as the base unit at approximately 20 cm. Subdivided into finger-widths at approximately 2 cm. Larger distances measured in paces (one full stride, approximately 75 cm) and bowshots (approximately 200 paces, roughly 150 m).
 
+```text
+       BODY-REFERENCED LENGTH LADDER — REPRODUCIBLE WITHOUT TOOLS
+
+   bowshot       ████████████████████████████████  ~150 m (≈200 paces)
+   pace          ▌                                   ~75 cm (one stride)
+   hand-span     ▏                                   ~20 cm (base unit)
+   finger-width  ▏                                    ~2 cm (subdivision)
+
+   chain of reproduction:
+     finger-width  ──×10──►  hand-span  ──►  pace  ──×200──►  bowshot
+        ~2 cm                  ~20 cm        ~75 cm            ~150 m
+
+   varies between individuals by roughly 10-15 percent —
+   acceptable for settlement-scale construction & agriculture.
+   For tighter work, the CALIBRATION ROD is the legal standard.
+
+   RULE: any human can spread a hand to verify a measurement —
+         no manufactured ruler, no chain of definitions required.
+```
+
 **Volume**: The cupped-hand at approximately 100 mL as the base unit. The head-pot (the volume of a clay vessel that fits comfortably on a human head) as the standard large unit at approximately 10 liters.
 
 **Weight**: The stone (a specific type of river-smoothed stone of standardized size, approximately 1 kg, kept as a reference at each settlement) with subdivisions by halving.
@@ -138,6 +220,25 @@ The workflow for producing a standardized document has four stages:
 2. The settlement's documentation committee translates the draft into the standardized format: adds the header, restructures into the standard section sequence, replaces local units with network standard units, adds pictographic supplements, and draws diagrams per the conventions.
 3. A second reviewer (ideally someone less expert in the topic) attempts to follow the document without additional explanation. Any point of confusion is flagged and revised.
 4. The finalized document is copied onto durable paper in clean handwriting and added to the settlement's archive and the next scholar's payload. If a document describes a procedure that multiple settlements are likely to need, additional copies should be prepared in advance so that traveling scholars can distribute them without delay.
+
+```text
+       DOCUMENT PRODUCTION WORKFLOW — FOUR STAGES
+
+   ┌──────────┐   ┌──────────┐   ┌──────────┐   ┌──────────┐
+   │ STAGE 1  │──►│ STAGE 2  │──►│ STAGE 3  │──►│ STAGE 4  │
+   │ DRAFT    │   │ FORMAT   │   │ REVIEW   │   │ FINALIZE │
+   └──────────┘   └──────────┘   └──────────┘   └──────────┘
+   specialist     committee:      2nd reviewer    copy onto
+   writes in      header +        (less expert)   durable paper,
+   own language   section seq +   follows doc      add to archive
+   & format       std units +     with NO extra    + next scholar's
+                  pictographs +   explanation;     payload; extra
+                  diagrams        confusion        copies in
+                                  flagged+revised  advance
+
+   RULE: the document is proven legible by an outsider BEFORE it
+         ships — confusion is caught at stage 3, not in the field.
+```
 
 ### ASCII Document Template
 

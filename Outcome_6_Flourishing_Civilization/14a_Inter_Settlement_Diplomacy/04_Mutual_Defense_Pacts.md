@@ -24,6 +24,28 @@ The balance of power, a concept formalized in European diplomacy but practiced b
 
 Mutual defense pacts are "assurance games" (also called "stag hunts") in game theory. In the stag hunt, two hunters can cooperate to catch a stag (large reward) or individually hunt hares (small but guaranteed reward). Cooperation is the optimal outcome, but only if both parties are confident the other will cooperate. If one hunter suspects the other will defect, the rational choice is to hunt hares alone. This maps precisely onto the defense pact problem: responding to an ally's alarm is costly (you send away 5 adults, weakening your own settlement), and the benefit only materializes if the ally would do the same for you. The joint training exercises, observer rotations, and annual reviews specified in this module exist to maintain the mutual assurance that converts a risky stag hunt into a reliable cooperative equilibrium. Without these trust-building mechanisms, the pact degrades into a paper agreement that no one honors under pressure.
 
+```text
+       THE STAG HUNT — DEFENSE PACT PAYOFF MATRIX
+                              SETTLEMENT B
+                     RESPONDS            DEFECTS
+                  ┌────────────────┬────────────────┐
+                  │  STAG          │  you send 5,    │
+        RESPONDS  │  both honour   │  B sends none → │
+   SETTLEMENT     │  the pact →    │  you are weak-  │
+        A         │  large reward  │  ened for noth- │
+                  │  (deterrence)  │  ing (worst)    │
+                  ├────────────────┼────────────────┤
+                  │  B sends 5,    │  HARE           │
+        DEFECTS   │  you send none │  each hunts     │
+                  │  → B weakened  │  alone → small  │
+                  │  for nothing   │  but guaranteed │
+                  └────────────────┴────────────────┘
+
+   STAG = cooperative optimum, but only if BOTH are confident.
+   RULE: training, observer rotation, annual review keep both
+         in the STAG cell — they manufacture mutual assurance.
+```
+
 ### Historical Confederations
 
 The Iroquois Confederacy (Haudenosaunee), formed circa 1450 CE, maintained mutual defense without centralized command for over 300 years. Each of the five (later six) nations retained full sovereignty; the Great Law of Peace specified defense obligations, prohibited offensive wars of aggression by individual nations, and required consensus for joint action. The Defense Charter in this module is modeled on these principles.
@@ -39,6 +61,31 @@ The Greek historian Polybius (2nd century BCE) documented a fire-signal relay sy
 Robin Dunbar's research suggests that functional military alliances require personal relationships between leaders. The cognitive limit for maintaining stable social relationships is approximately 150 individuals. For settlements of 15-50 people, this means the defense pact should involve no more than 5-7 settlements, as the inter-personal trust network degrades beyond that scale without institutional scaffolding. Attempting to build a defense pact among 10 or more settlements without first developing shared governance institutions will produce an alliance that exists on paper but fails under stress.
 
 The practical implication is that alliance expansion must be slow and relationship-driven. Each new signatory must be personally known to the leadership of every existing member. When alliance members can name the security coordinator, the primary healer, and at least five other adults in each allied settlement, the trust network is strong enough to sustain the pact under crisis. When members are abstractions — "that settlement to the north" — the pact will fail the first time it is tested.
+
+```text
+       ALLIANCE SCALING LADDER — DUNBAR LIMIT (~150)
+
+   settlements   trust network                    verdict
+   ───────────   ──────────────────────────────   ──────────
+     3-5         ██████████████████████████████   ROBUST
+                 personal trust holds; ideal band
+     ──────────────────────────────────────────────────────
+     5-7         ████████████████████             MAXIMUM
+                 upper limit before scaffolding needed
+     ──────────────────────────────────────────────────────
+     8-9         ██████████                       FRAGILE
+                 network degrades w/o institutions
+     ──────────────────────────────────────────────────────
+     10+         ███                              PAPER ONLY
+                 fails under stress w/o shared
+                 governance built FIRST
+
+   Cognitive ceiling: ~150 stable relationships per person.
+   Expansion cap: 1 new signatory per year + full year of
+   observer exchange and joint training before membership.
+   RULE: keep the pact at 5-7 settlements; grow only as fast
+         as every leader can personally know every signatory.
+```
 
 ---
 
@@ -74,6 +121,26 @@ The charter is the foundational document. It must be negotiated face-to-face at 
 
 6. **Rules of Engagement.** Graduated response is mandatory. The sequence is: (a) verbal warning, (b) non-lethal deterrence (Section 07a, Module 03), (c) physical interdiction, (d) lethal force as last resort. Any use of lethal force triggers an automatic joint review within 14 days.
 
+```text
+       GRADUATED RESPONSE LADDER — MANDATORY SEQUENCE
+
+   (d) LETHAL FORCE ........................... ┌──────────┐ ▲
+        last resort only                       │ auto      │ │
+        ──────────────────────────────────────│ joint     │ │
+   (c) PHYSICAL INTERDICTION ..............    │ review    │ │ escalate
+        if raiders persist               │    │ within    │ │ only when
+        ─────────────────────────────────│    │ 14 days   │ │ lower rung
+   (b) NON-LETHAL DETERRENCE ........  │  │    └──────────┘ │ fails
+        Section 07a, Module 03         │  │                 │
+        ───────────────────────────│  │  │                 │
+   (a) VERBAL WARNING ...........   │  │  │                 │
+        always step one         │   │  │  │                 │
+
+   Climb ONE rung at a time; never skip a lower rung.
+   RULE: any use of lethal force (rung d) triggers an
+         automatic joint review within 14 days.
+```
+
 7. **Compensation for Losses.** If a settlement member is injured or killed while fulfilling pact obligations on another settlement's territory, the requesting settlement provides compensation: medical care for injuries, and long-term support (food, shelter, apprenticeship for dependents) for fatalities. This is recorded in the trade ledger as a debt with no expiration.
 
 ### Building the Rapid-Alert Communication System
@@ -103,6 +170,38 @@ The charter is the foundational document. It must be negotiated face-to-face at 
 ### Joint Response Protocol
 
 Three standardized scenarios cover the range of threats that allied settlements are likely to face. Each scenario has been designed so that any literate settlement member can read the protocol and understand both their role and the overall sequence. Settlements should post a summary of all three scenarios at the nightwatch station, at each signal relay point, and in the community meeting area.
+
+```text
+       JOINT RESPONSE PROTOCOL — THREE-SCENARIO MATRIX
+
+                 SCENARIO 1     SCENARIO 2      SCENARIO 3
+                 RAIDING PARTY  SUSTAINED SIEGE NATURAL DISASTER
+   ─────────────┼──────────────┼───────────────┼───────────────
+   threat size  │ 10-30        │ 30+ hostiles, │ wildfire,
+                │ hostiles     │ multi-day     │ flood, epidemic
+   ─────────────┼──────────────┼───────────────┼───────────────
+   alarm        │ triple-      │ triple-beacon │ double OR
+                │ beacon       │ + runner/token│ triple-beacon
+   ─────────────┼──────────────┼───────────────┼───────────────
+   ally sends   │ relief force │ MAXIMUM force │ labour +
+                │ 5 in 6 hrs   │ (keep 5 home) │ supplies, not
+                │              │               │ fighters
+   ─────────────┼──────────────┼───────────────┼───────────────
+   key move     │ graduated    │ secondary     │ aid to neutral
+                │ response,    │ perimeter →   │ zone; healers
+                │ token arrival│ two-front     │ for epidemic
+   ─────────────┼──────────────┼───────────────┼───────────────
+   escalation   │ —            │ evacuate non- │ quarantine
+                │              │ combatants if │ overrides pact
+                │              │ siege > 7 days│ (epidemic)
+   ─────────────┼──────────────┼───────────────┼───────────────
+   review       │ after-action │ shared resup- │ debt = long-
+                │ within 72 hrs│ ply, ledger   │ term ledger
+                │              │ debt          │ obligation
+
+   RULE: match the relief team to the threat — fighters for
+         raid/siege, labour and healers for disaster.
+```
 
 **Scenario 1: Raiding Party (10-30 hostile individuals)**
 
@@ -209,6 +308,31 @@ Three standardized scenarios cover the range of threats that allied settlements 
 **Month 4: First Joint Training.** Run the first simulated emergency response. Expect failures — they are the point of the exercise. Document every failure and fix it. Common first-exercise failures include: relief force gets lost en route, token verification takes too long, patrol schedules do not align with alarm timing, and the defending settlement's lockdown procedure interferes with receiving the relief force.
 
 **Month 5-6: Refinement and Second Exercise.** Adjust the charter, signal protocols, and patrol routes based on lessons learned from the first exercise. Conduct a second full-chain exercise. By the end of month 6, the system should function at 80% reliability. Perfection is not achievable with volunteer forces and improvised infrastructure, but 80% reliability saves lives. Document remaining weaknesses and assign responsibility for fixing each one before the next biannual exercise.
+
+```text
+       IMPLEMENTATION TIMELINE — SIX MONTHS TO 80% RELIABILITY
+
+              M1     M2     M3     M4     M5     M6
+              │      │      │      │      │      │
+   Readiness  ████                                   internal: can
+   assessment                                        you spare 5?
+   ─────────────────────────────────────────────────────────────
+   Charter           ██████                          7 elements,
+   negotiation                                       2-3 sessions
+   ─────────────────────────────────────────────────────────────
+   Signal                   ██████                   build + test
+   infrastructure                                    relay chain
+   ─────────────────────────────────────────────────────────────
+   First joint                     ██████            simulate;
+   training                                          expect fails
+   ─────────────────────────────────────────────────────────────
+   Refinement +                           ████████   2nd exercise
+   2nd exercise                                      → 80% reliable
+
+   End of M6 target: 80% reliability (not perfection).
+   RULE: build your own capacity FIRST — a broken promise of
+         military aid is worse than no promise at all.
+```
 
 ---
 

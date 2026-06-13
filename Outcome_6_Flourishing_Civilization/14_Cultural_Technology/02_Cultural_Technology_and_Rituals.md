@@ -32,6 +32,31 @@ William McNeill's 1995 "Keeping Together in Time" documented a phenomenon that m
 
 Robin Dunbar's endorphin theory of social bonding extends this further. Dunbar argued that language evolved as a replacement for primate grooming, which releases endorphins but is limited to pairs. Singing, dancing, and communal laughter achieve the same endorphin release but scale to groups of dozens or hundreds. A settlement that sings together weekly is not merely entertaining itself; it is running a neurochemical bonding protocol that reduces the likelihood of internal conflict.
 
+```text
+       THE ENTRAINMENT CASCADE — WHY SINGING TOGETHER WORKS
+
+   move in synchrony            HRV patterns
+   (sing · drum · march)  ───►  synchronize    ───►   ┌──────────┐
+                                within minutes        │ OXYTOCIN │ ▲ up
+                                                      │ (trust)  │
+                                                      ├──────────┤
+                                                      │ ENDORPHIN│ ▲ up
+                                                      │ (bonding)│
+                                                      ├──────────┤
+                                                      │ CORTISOL │ ▼ down
+                                                      └──────────┘
+                                                            │
+                                                            ▼
+                                                  collective identity:
+                                                  "muscular bonding"
+                                                  → less internal conflict
+
+   grooming (endorphin) = pairs only · song/dance = scales to hundreds
+
+   RULE: this is measurable physiology, not metaphor.
+         Music is medicine; sing together weekly.
+```
+
 Mirror neurons, first identified in macaque monkeys in the 1990s, fire both when an individual performs an action and when that individual observes another performing the same action. In ritual contexts, this means that watching a dance or hearing a familiar chant produces neural patterns nearly identical to performing those acts oneself. This is why ritual is participatory even for observers and why the boundary between performer and audience should be minimized. Roy Rappaport's 1999 "Ritual and Religion in the Making of Humanity" argued that ritual is not a social nicety but the foundational mechanism by which human communities establish shared meaning, encode moral commitments, and create binding social contracts without written law.
 
 ### Rites of Passage Theory
@@ -39,6 +64,24 @@ Mirror neurons, first identified in macaque monkeys in the 1990s, fire both when
 Arnold van Gennep's 1909 "Les Rites de Passage" identified a three-phase structure common to transition rituals across all documented cultures: separation (the individual is removed from their current social role), liminality (they exist in an ambiguous state where normal rules are suspended), and incorporation (they are formally re-admitted to the community in their new role).
 
 Victor Turner's elaboration of van Gennep's model introduced the concept of communitas: the intense, egalitarian fellowship experienced by individuals undergoing liminal transition together. Communitas transcends normal social hierarchy. The son of a chief and the son of a farmer, sharing the same ordeal, form bonds that persist throughout their adult lives and serve as connective tissue across social divisions. This is why rites of passage must involve genuine challenge. A symbolic ceremony without real difficulty produces no liminality and no communitas.
+
+```text
+       VAN GENNEP'S THREE-PHASE RITE OF PASSAGE STRUCTURE
+
+   ┌───────────────┐      ┌───────────────┐      ┌───────────────┐
+   │  SEPARATION   │ ───► │  LIMINALITY   │ ───► │ INCORPORATION │
+   │               │      │               │      │               │
+   │ removed from  │      │ ambiguous     │      │ re-admitted   │
+   │ current role  │      │ state; normal │      │ in NEW role   │
+   │               │      │ rules suspend │      │               │
+   └───────────────┘      └───────────────┘      └───────────────┘
+     comfort left          genuine ordeal          full adult:
+     behind, no            → communitas             equal burden,
+     looking back          forms here               equal voice
+
+   RULE: no real difficulty → no liminality → no communitas.
+         A symbolic ceremony without ordeal transforms no one.
+```
 
 Cross-cultural evidence for the universality of structured transition is extensive. Aboriginal Australian walkabout sent adolescents into the desert for up to six months to retrace ancestral songlines. Maasai warriors proved readiness through cattle-herding endurance and, historically, lion hunts. The Spartan agoge subjected boys to years of intensifying physical and social trials. Medieval European guild systems required journeymen to travel for years under foreign masters before returning to produce a masterwork. In every case, the pattern is identical: separation from comfort, genuine ordeal, and formal reintegration with new status.
 
@@ -132,6 +175,37 @@ The suggested names are placeholders. Each settlement should develop its own nom
 
 The cross-quarter days are approximations, falling roughly 45 days after the preceding solstice or equinox. A settlement may adjust these dates based on local ecological signals: when a particular tree flowers, when a migratory species returns, when the river reaches a certain level.
 
+```text
+       THE WHEEL OF THE YEAR — 8 STATIONS (~45 days apart)
+
+                       Dec 21  WINTER SOLSTICE
+                       The Long Night · rest, reflection
+                              │
+              Nov 1           │           Feb 2
+            Samhain           │         Imbolc
+         The Remembering  ────┼────  Quickening
+         ancestors, death     │      preparation
+                              │
+        Sep 22 ───────────────┼─────────────── Mar 20
+        AUTUMN EQUINOX        │        SPRING EQUINOX
+        The Gathering         │        The Planting
+        harvest, balance      │        renewal, beginnings
+                              │
+              Aug 1           │           May 1
+          Lughnasadh          │         Beltane
+         First Harvest    ────┼────   The Greening
+         gratitude, skill     │       fertility, growth
+                              │
+                       Jun 21  SUMMER SOLSTICE
+                       The Long Day · abundance, labor
+
+   solstices/equinoxes = fixed by physics (non-negotiable)
+   cross-quarter days   = ~45 days between, tune to local ecology
+
+   RULE: the calendar IS the curriculum — each station teaches
+         its season's work (plant, water, harvest, rest).
+```
+
 ### The Hearth Ritual
 
 The Hearth Ritual is a mandatory weekly communal fire, held on the eve of the community rest day. Its purpose is not cooking but the oral transmission of shared meaning. The format should be consistent enough to feel like ritual but flexible enough to avoid sterility.
@@ -155,6 +229,25 @@ Communal singing, drumming, or instrumental music. The emphasis is on participat
 **Closing (5 minutes).**
 The fire-keeper speaks a closing phrase. The fire is allowed to burn down naturally. People disperse at their own pace. No formal dismissal; the ritual ends when the last person leaves.
 
+```text
+       THE HEARTH RITUAL — WEEKLY FORMAT (Gantt of segments)
+
+   OPENING      ▌                                    5 min
+                │ fire lit · circle · silence · phrase
+   STORYTELLING ██████████████████████              30-45 min
+                │ rotating teller; story rotates by season
+   MUSIC        ████████                            15-20 min
+                │ communal song/drum — participation
+                │ over performance
+   CLOSING      ▌                                    5 min
+                │ closing phrase · fire burns down · disperse
+                └────────────────────────────────────────────►
+                 held on the eve of the community rest day
+
+   RULE: consistent enough to feel like ritual, flexible
+         enough to avoid sterility. Begin with silence + meal.
+```
+
 ### Rites of Passage Protocol
 
 **Preparation period (3-6 months before the rite).**
@@ -166,6 +259,24 @@ The challenge must be genuinely difficult but not reckless. Three standard forms
 - **Wilderness solo.** Three to seven days alone in a designated area within communication range (signal fire or runner distance) of the settlement. The candidate must shelter, feed, and orient themselves using skills learned during preparation. The mentor checks boundaries daily without making contact unless a distress signal is observed.
 - **Craft mastery.** Design and complete a substantial project that serves the community: a piece of furniture, a water system component, a set of tools. The project must be completed to the mentor's standard within a fixed time limit and must be functional, not decorative.
 - **Service trek.** A multi-day journey to a neighboring settlement carrying trade goods or messages, navigating independently, and returning with a report. This form also builds inter-settlement relationships.
+
+```text
+       RITE OF PASSAGE PROTOCOL — TIMELINE & CHALLENGE CHOICE
+
+   [1] PREPARATION ─► [2] SEPARATION ─► [3] CHALLENGE ─► [4] INTEGRATION
+   3-6 months         ceremony         ┌───────────┐   ceremony
+   mentor assigned;   states it,       │ pick 1of3 │   recount honestly;
+   skill training;    walks out,       └───────────┘   council recognizes;
+   discipline built   no looking back                  FIRST VOTE; feast
+
+              three challenge forms (choose with mentor):
+              ├─ Wilderness solo  3-7 days, in signal/runner range
+              ├─ Craft mastery    functional project, fixed time limit
+              └─ Service trek     multi-day trip to neighbor + report
+
+   RULE: difficult but not reckless. The first vote is real and
+         consequential — equal burden, equal voice from this moment.
+```
 
 **The separation ceremony.**
 The community gathers. The candidate states their chosen challenge aloud. The mentor confirms readiness. The candidate walks out of the settlement's gate or boundary marker without looking back. No one follows. The departure should be witnessed by the entire community; it is as much a ritual for those who remain as for the one who leaves.

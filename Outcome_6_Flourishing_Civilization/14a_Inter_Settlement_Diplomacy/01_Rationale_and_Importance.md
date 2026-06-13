@@ -33,6 +33,29 @@ The fundamental constraint on isolated populations is genetic. Franklin (1980) e
 
 For a post-collapse settlement of, say, 150 people, the effective breeding population may be as low as 60 to 80, placing the community in the danger zone within three to five generations unless outbreeding with external populations occurs. Subsequent research by Frankham et al. (2014) has argued that the 500 figure may itself be too conservative, suggesting that effective populations of 1,000 or more are needed to retain evolutionary potential across centuries, which only strengthens the case for inter-settlement genetic exchange.
 
+```text
+       THE 50/500 RULE — EFFECTIVE BREEDING POPULATION (Ne)
+
+   Ne = 50      ┃ floor: avoid IMMEDIATE inbreeding depression
+                ┃ short-term survival only
+   ─────────────╂──────────────────────────────────────────────
+   Ne 60–80     ▓▓ ◄ settlement of 150 — DANGER ZONE
+                ┃   inbreeding depression in 3–5 generations
+                ┃   unless outbreeding occurs
+   ─────────────╂──────────────────────────────────────────────
+   Ne = 500     ████████ long-term evolutionary adaptability
+                ┃        (Franklin 1980)
+   ─────────────╂──────────────────────────────────────────────
+   Ne ≥ 1,000   ████████████████ retain evolutionary potential
+                ┃                 across centuries (Frankham 2014)
+
+   Ne/N ratio runs 0.25–0.75 — social structure sets it:
+     rigid patriarchy → low Ne/N    egalitarian → high Ne/N
+
+   RULE: a single settlement cannot clear these thresholds alone;
+         only inter-settlement exchange lifts Ne above the floor.
+```
+
 The ratio of effective breeding population to census population (Ne/N) is typically between 0.25 and 0.75, depending on mating system, sex ratio, and variance in reproductive success. A settlement with rigid patriarchal norms that concentrate reproduction among a few high-status males will have a far lower Ne/N ratio than one with egalitarian mating customs, meaning that social structure directly affects genetic viability. Diplomatic protocols for genetic exchange must therefore be sensitive to the internal social arrangements of each settlement.
 
 Beyond genetics, isolation creates single points of failure in every knowledge domain. If only one person understands kiln chemistry, that knowledge dies with them. If only one copy of a medicinal plant identification guide exists, a fire destroys it permanently. Redundancy, which in a networked civilization is provided by libraries, universities, and professional guilds spread across many cities, must in a post-collapse context be provided by deliberate inter-settlement knowledge sharing.
@@ -61,6 +84,29 @@ Diplomatic protocols should embody all four properties:
 - **Clarity** means that all expectations, rewards, and penalties are stated explicitly in advance, leaving no room for ambiguity about what constitutes cooperation or defection.
 
 The absence of any one property destabilizes the system. A protocol that is nice but not retaliatory invites exploitation. One that is retaliatory but not forgiving locks parties into permanent conflict after a single mistake. One that lacks clarity generates misunderstandings that are perceived as defections even when none was intended.
+
+```text
+       TIT-FOR-TAT — FOUR PROPERTIES AND THE COST OF LOSING ANY ONE
+
+   ┌─────────────┬──────────────────────────┬─────────────────────┐
+   │ PROPERTY    │ IN PROTOCOL TERMS         │ IF MISSING          │
+   ├─────────────┼──────────────────────────┼─────────────────────┤
+   │ ✓ NICE      │ contact opens with a gift │ — (must be present)  │
+   │             │ offered, no preconditions │                     │
+   ├─────────────┼──────────────────────────┼─────────────────────┤
+   │ ✓ RETALI-   │ broken deal → proportional│ ✗ invites           │
+   │   ATORY     │ loss of trade privileges  │   exploitation      │
+   ├─────────────┼──────────────────────────┼─────────────────────┤
+   │ ✓ FORGIVING │ amends made → reset to    │ ✗ permanent conflict│
+   │             │ cooperation               │   after one mistake │
+   ├─────────────┼──────────────────────────┼─────────────────────┤
+   │ ✓ CLEAR     │ rewards + penalties stated│ ✗ misunderstandings │
+   │             │ explicitly in advance     │   read as defection │
+   └─────────────┴──────────────────────────┴─────────────────────┘
+
+   RULE: all four or none — each missing property breaks the system
+         in its own way; the protocol must embody every one at once.
+```
 
 The critical variable is the shadow of the future, the degree to which both parties expect the relationship to continue. When settlements anticipate repeated interaction over years and decades, the rational incentive shifts strongly toward cooperation, because the short-term gain from betrayal is outweighed by the long-term loss of a cooperative partner.
 
@@ -92,6 +138,34 @@ ASEAN's modern non-interference principle shows that explicit respect for sovere
 
 The lesson from all five models is consistent: successful confederations preserve internal sovereignty, build trust through repeated interaction, start with limited cooperation (defense or trade) before expanding scope, and provide explicit mechanisms for dispute resolution that do not require one party to submit to another's authority. A post-collapse confederation should study these precedents carefully and adapt their structural features to local conditions.
 
+```text
+       FIVE HISTORICAL CONFEDERATIONS — STARTING SCOPE & SCALE
+
+   MODEL            FIRST BOND          SCALE / SPAN
+   ──────────────── ─────────────────── ─────────────────────────
+   Haudenosaunee    consensus +         5 nations → 6 (Tuscarora),
+   Confederacy      mutual peace        500+ years; 5–10 communities
+                    (Great Law)         ▓▓▓▓▓▓▓▓▓▓ hundreds–low 1000s
+
+   Swiss            mutual DEFENSE      3 cantons (1291) → grew
+   Confederation    pact                incrementally ▓▓▓▓▓▓
+                    (3 cantons)         multilingual, multi-faith
+
+   Hanseatic        TRADE network       200+ cities, 12th–17th c.
+   League           (standard           ▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓ no
+                    weights/law)        central government
+
+   Greek            shared SACRED site  oaths: do not destroy cities
+   amphictyony      (Delphi/Delos)      or cut water ▓▓ limited war
+
+   ASEAN            non-interference    radically different internal
+   (modern)         + mutual economic   systems held together ▓▓▓▓
+                    benefit             by respect for sovereignty
+
+   RULE: start narrow (defense, trade, or a sacred site), preserve
+         sovereignty, then let scope deepen across generations.
+```
+
 ### Anthropological Models of Inter-Group Exchange
 
 Malinowski's 1922 study of the kula ring in the Trobriand Islands revealed that ceremonial exchange of symbolically valuable but practically useless objects (necklaces and armbands circulating in opposite directions around a ring of island communities) sustained political alliances, created predictable social obligations, and provided a trust framework within which practical trade in food, tools, and canoes could occur.
@@ -107,6 +181,29 @@ The goal of diplomacy is to move relationships from negative toward balanced rec
 - **Formal Agreement** codifies balanced reciprocity into durable institutional form.
 - **Mutual Defense** introduces elements of generalized reciprocity, where one party aids another without immediate expectation of equivalent return.
 - **Genetic Exchange** represents the deepest form of generalized reciprocity, where communities share their most valuable biological assets for the collective good.
+
+```text
+       THE RECIPROCITY SPECTRUM — DIRECTION OF DIPLOMACY (Sahlins)
+
+   NEGATIVE ──────────► BALANCED ──────────► GENERALIZED
+   each takes more      equivalent value     sharing with no
+   than they give       exchanged            expectation of return
+   (strangers,          (friendly            (close kin; deep
+    enemies)             settlements)         alliances)
+
+   ◄──────────────── increasing social distance ────────────────►
+   (generalized = closest kin · negative = strangers/enemies)
+
+   Stage maps onto the spectrum:
+     First Contact   → negative ▸ cautious balanced
+     Trial Trade     → deepens balanced (repeated exchange)
+     Formal Agreement→ balanced codified into institution
+     Mutual Defense  → balanced ▸ generalized (aid w/o return)
+     Genetic Exchange→ deepest generalized (share biological assets)
+
+   RULE: diplomacy moves a relationship FROM negative TOWARD balanced,
+         and eventually toward generalized aid for emergencies.
+```
 
 Graeber's analysis of debt as a social technology shows that credit relationships (where one party owes the other an unspecified future obligation) are more socially binding than spot trades (where both parties walk away even). Deliberate creation of mutual indebtedness through gift exchange, labor sharing, and feast hosting creates a web of obligation that makes conflict costly for both sides.
 
@@ -163,6 +260,29 @@ Inter-settlement relations follow a staged progression in which each stage build
 **Stage 4: Mutual Defense.** Coordinated security arrangements including alert relay chains, joint patrol routes, and graduated response protocols. Entered only after formal trade agreement has been stable for at least two years. Duration: indefinite, with annual joint exercises. Success criterion: successful coordination during at least one real or simulated threat.
 
 **Stage 5: Genetic Exchange.** Structured exchange of seeds, livestock genetics, and (with cultural protocols) human marriage customs. Entered only after mutual defense pact demonstrates deep trust. Duration: ongoing, with annual exchange calendar. Success criterion: measurable increase in genetic diversity indices across both settlements.
+
+```text
+       THE DIPLOMATIC PROGRESSION — FIVE STAGES, NO SKIPPING
+
+   ┌─────────┐  ┌─────────┐  ┌─────────┐  ┌─────────┐  ┌─────────┐
+   │ 1 FIRST │─►│ 2 TRIAL │─►│ 3 FORMAL│─►│ 4 MUTUAL│─►│5 GENETIC│
+   │ CONTACT │  │  TRADE  │  │ AGREEMT │  │ DEFENSE │  │EXCHANGE │
+   └─────────┘  └─────────┘  └─────────┘  └─────────┘  └─────────┘
+   signal,meet  small low-   written      alert       seeds,
+   gift,assess  stakes swap  terms +      relays,     stock,
+                             Famine       patrols,    marriage
+                             Clause       grad. resp  customs
+   ───────────  ───────────  ───────────  ───────────  ───────────
+   1–3 mtgs     1–4 trade    indefinite,  indefinite, ongoing,
+   over wk/mo   cycles       annl review  annl exers  annl cal.
+   ───────────  ───────────  ───────────  ───────────  ───────────
+   GATE: 2nd    GATE: oblig  GATE:        GATE: trade GATE: rise
+   meeting      met, no      survives ≥1  stable ≥2   in divers-
+   agreed       dispute      dispute      yrs first   ity index
+
+   RULE: each stage builds on the trust of the last — skipping a
+         stage reads as suspicious and yields fragile deals.
+```
 
 ### Module Index
 

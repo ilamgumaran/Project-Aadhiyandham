@@ -131,6 +131,30 @@ ratifies through its governance body at an inter-settlement meeting (see Section
    enforcement, is the mechanism. This expectation is a norm, not a rule — it shapes
    behavior through visibility rather than punishment.
 
+```text
+       THE FIVE CHARTER PRINCIPLES — KNOWLEDGE FREE, CREDIT CLEAR
+
+   ┌─────────────────────────────────────────────────────────────┐
+   │ 1  COMMONS         shared knowledge becomes commons          │
+   │                    · cannot be retracted once shared         │
+   ├─────────────────────────────────────────────────────────────┤
+   │ 2  ATTRIBUTION     name(s) + settlement + date, permanent    │
+   │                    · the price of admission to the commons   │
+   ├─────────────────────────────────────────────────────────────┤
+   │ 3  MODIFICATION    any settlement may modify / adapt         │
+   │                    · builds a chain of attribution           │
+   ├─────────────────────────────────────────────────────────────┤
+   │ 4  NON-ENCLOSURE   no exclusive ownership, no tribute        │
+   │                    · Emergency Sharing Obligation overrides  │
+   ├─────────────────────────────────────────────────────────────┤
+   │ 5  RECIPROCITY     contribute proportionally (a norm)        │
+   │                    · enforced by visibility, not punishment  │
+   └─────────────────────────────────────────────────────────────┘
+
+   RULE: every participating settlement ratifies all five through
+         its governance body at an inter-settlement meeting.
+```
+
 ## Practical Implementation
 
 ### Drafting and Ratifying the Charter
@@ -159,6 +183,28 @@ attribution):
    one other settlement? Mark as "reported" (shared but not yet independently tested),
    "verified" (tested and confirmed), or "disputed" (tested and found to not work as
    described).
+
+```text
+       THE ATTRIBUTION RECORD — SEVEN-FIELD BLOCK
+
+   ┌──────────────────────────────────────────────────────────┐
+   │ 1 TITLE        ▸ short descriptive name                   │
+   │ 2 ORIGINATOR(S)▸ personal name(s) of developer(s)         │
+   │ 3 SETTLEMENT   ▸ originating settlement name + sigil      │
+   │ 4 DATE         ▸ season + year in network calendar        │
+   │ 5 DOMAIN       ▸ standard domain markers (Module 03)      │
+   │ 6 DERIVATION   ▸ prior attribution records, if any  ──┐   │
+   │ 7 VERIFICATION ▸ reported │ verified │ disputed       │   │
+   └──────────────────────────────────────────────────────│───┘
+                                                          │
+   DERIVATION builds the lineage:                          │
+        A-023  ◀── original ◀────────────────────────────┘
+          └─► E-011  (modified, references A-023)
+                └─► C-...  (modified, references A-023, E-011)
+
+   RULE: copied into every version of the document and every
+         archive that stores it — attribution is non-negotiable.
+```
 
 ### The Attribution Ledger
 
@@ -217,6 +263,26 @@ settlements are credited as co-originators. Fourth, neutral mediation: if the di
 cannot be resolved by evidence, a settlement not party to the dispute mediates, with the
 goal of preserving the network relationship above all else. No attribution dispute is
 worth fracturing the network.
+
+```text
+       DISPUTE RESOLUTION — FOUR STAGES, ESCALATING
+
+   ┌────────────┐   ┌────────────┐   ┌────────────┐   ┌────────────┐
+   │ 1 DOCUMENT │──▶│ 2 SCHOLAR  │──▶│ 3 PARALLEL │──▶│ 4 NEUTRAL  │
+   │   REVIEW   │   │ TESTIMONY  │   │ DEVELOPMENT│   │ MEDIATION  │
+   └─────┬──────┘   └─────┬──────┘   └─────┬──────┘   └─────┬──────┘
+         │                │                │                │
+   compare ledgers,  travelers who    if genuinely     a settlement
+   dates, journey    visited both     independent →    NOT party to
+   logs, documents   settlements      credit BOTH as   dispute mediates
+                     testify          co-originators
+
+         ▼ resolved?  ▼ resolved?  ▼ resolved?  ▼
+        yes/no ──────▶ yes/no ─────▶ yes/no ─────▶ settle here
+
+   RULE: preserve the network relationship above all else —
+         no attribution dispute is worth fracturing the network.
+```
 
 ### Protecting Against External Enclosure
 
@@ -307,6 +373,22 @@ incoming innovations in the ledger.
 meeting. Compile and present the top contributors publicly. This sets the cultural tone
 for the entire system.
 
+```text
+       IMPLEMENTATION TIMELINE — CHARTER TO FIRST HONOR ROLL
+
+   Month   1   2   3   4   5   6  ...        Yr1 end
+           │   │   │   │   │   │             │
+   Stewards▕███▏appoint 1-2; begin ledger inventory (baseline)
+   Draft       ▕███▏draft charter from 5 principles; circulate
+   Ratify          ▕███████▏negotiate + ratify (Months 3-4)
+   Apply               ▕███████████████████████▏Month 4 onward:
+                         attribution on all outgoing documents
+   Honor Roll                                  ▕█▏first ceremony
+
+   RULE: the first Honor Roll sets the cultural tone for the
+         entire system — make it public and celebratory.
+```
+
 **Decade-long trajectory.** In the first year, the commons system is a promise — a
 charter on vellum and a half-empty ledger. Some will be skeptical that other settlements
 will actually share, or that attribution will be respected. By the third year, the ledger
@@ -319,6 +401,31 @@ single settlement could have developed alone. The attribution chains tell a stor
 collaborative innovation — an idea born in Settlement A, refined in C, combined with a
 technique from D, and now used in all twelve settlements. The Knowledge Commons is not a
 constraint on innovation but an accelerant.
+
+```text
+       DECADE TRAJECTORY — FROM PROMISE TO ACCELERANT
+
+   collective
+   knowledge
+      ▲
+      │                                              ● Yr 10
+      │                                         exceeds any
+      │                                    ◢    single settlement
+      │                              ● Yr 5
+      │                         sharing = prestige,
+      │                    ◢    not sacrifice
+      │              ● Yr 3
+      │         ◢    ledger has substance;
+      │    ◢         Honor Roll heroes known
+      │ ● Yr 1
+      │   a promise: charter on vellum,
+      │   half-empty ledger, skeptics
+      └────────────────────────────────────────────────────────▶
+        Yr 1          Yr 3          Yr 5              Yr 10   time
+
+   RULE: the Knowledge Commons is not a constraint on innovation
+         but an accelerant — give it a decade to compound.
+```
 
 ## Common Failure Modes
 

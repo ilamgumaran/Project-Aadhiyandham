@@ -62,6 +62,30 @@ correct misunderstandings, and adapt explanations to local context. This is why 
 traveling scholar system (Module 02) forms the backbone of the knowledge exchange
 network.
 
+```text
+       ORAL TRANSMISSION DECAY — ERROR PER GENERATION
+
+   content
+   distorted
+   or lost
+     40%+ ┤                                          ●  >40% lost
+          │                                      ╱
+          │                                  ╱
+     30%  ┤                              ╱
+          │                          ╱
+          │                      ╱
+     20%  ┤                  ╱
+          │              ●  ~+10% per generational transfer
+     10%  ┤          ╱
+          │      ╱
+      0%  ┤  ●
+          └──┬────┬────┬────┬────┬──────────────────
+            gen1 gen2 gen3 gen4 gen5
+
+   RULE: oral relay loses ~10% per hop — after 5 generations
+         more than 40% is gone. Written + carried wins.
+```
+
 The Shannon model also suggests that redundancy is the primary defense against noise. A
 discovery recorded in five settlement archives is five times more resilient than one
 recorded in a single archive. Knowledge exchange is therefore not merely about spreading
@@ -191,6 +215,32 @@ Attribution and Commons) adapts these principles to post-collapse conditions.
    use). Defense of the commons is a shared responsibility of all settlements in the
    network.
 
+```text
+       FIVE CORE PRINCIPLES — THE EXCHANGE STACK
+
+   ┌────────────────────────────────────────────────────┐
+   │ 5  THE COMMONS MUST BE DEFENDED                      │
+   │      guard against hoarding · monopoly · decay       │
+   ├────────────────────────────────────────────────────┤
+   │ 4  EVERY SETTLEMENT TEACHES AND LEARNS               │
+   │      no knowledge capitals, no peripheries           │
+   ├────────────────────────────────────────────────────┤
+   │ 3  STANDARDIZATION ENABLES TRANSFER                  │
+   │      shared formats · units · pictographs (Mod 03)   │
+   ├────────────────────────────────────────────────────┤
+   │ 2  ATTRIBUTION WITHOUT RESTRICTION                   │
+   │      credit flows back; knowledge flows forward      │
+   ├────────────────────────────────────────────────────┤
+   │ 1  KNOWLEDGE MUST TRAVEL PHYSICALLY                  │
+   │      trained human carrier = the gold standard       │
+   └────────────────────────────────────────────────────┘
+
+   RULE: each layer rests on the one below — a carrier (1)
+         carries credited (2), standardized (3) knowledge
+         between equal partners (4) who defend the whole (5).
+```
+
+
 ## Practical Implementation
 
 ### Knowledge Exchange Readiness
@@ -230,6 +280,27 @@ A courier might follow within days carrying the full written protocol. A traveli
 scholar might arrive weeks later to train local farmers in the technique and verify
 successful implementation. The channels form a cascade from speed to depth, and all
 three are necessary for a functioning knowledge network.
+
+```text
+       THE THREE-CHANNEL CASCADE — SPEED TO DEPTH
+
+   ┌──────────────┐      ┌──────────────┐      ┌──────────────┐
+   │  HELIOGRAPH  │ ───► │   COURIER    │ ───► │   SCHOLAR    │
+   │   SIGNAL     │      │  + DOCUMENT  │      │  IN PERSON   │
+   └──────────────┘      └──────────────┘      └──────────────┘
+    "blight found,        "here is the          "train farmers,
+     treatment exists"     full protocol"        verify result"
+
+    minutes–hours         within days           weeks later
+    fidelity: LOWEST      fidelity: MEDIUM      fidelity: HIGHEST
+    capacity: very low    capacity: high        capacity: unlimited
+
+    FASTEST ──────────────────────────────────────► DEEPEST
+
+   RULE: speed alerts, the document instructs, the scholar
+         demonstrates — all three serve one knowledge network.
+```
+
 
 ### Module Index
 
@@ -278,6 +349,31 @@ understanding.
 collections, updating indices and cross-references. The annual inter-settlement knowledge
 audit is conducted. Plans for the following year's scholar circuits, apprenticeship
 placements, and exchange priorities are finalized based on audit results.
+
+```text
+       THE KNOWLEDGE EXCHANGE CALENDAR — ANNUAL RHYTHM
+
+   SPRING  │██████████│ DEPARTURE
+           │          │ scholars depart · packets dispatched ·
+           │          │ steward compiles year's discoveries
+   ────────┼──────────┼──────────────────────────────────────
+   SUMMER  │██████████│ APPRENTICESHIP   ◄ exchange at peak
+           │          │ teaching residencies · hands-on transfer ·
+           │          │ apprentices travel for intensive study
+   ────────┼──────────┼──────────────────────────────────────
+   AUTUMN  │██████████│ DOCUMENTATION
+           │          │ returning scholars compile reports ·
+           │          │ scribes record new techniques
+   ────────┼──────────┼──────────────────────────────────────
+   WINTER  │██████████│ COMPILATION
+           │          │ archive integrates · annual audit ·
+           │          │ next year's circuits planned
+   ────────┴──────────┴──────────────────────────────────────
+
+   RULE: the cycle closes — winter's audit sets spring's
+         circuits, so knowledge flows on an unbroken loop.
+```
+
 
 ### Inter-Settlement Knowledge Audit
 

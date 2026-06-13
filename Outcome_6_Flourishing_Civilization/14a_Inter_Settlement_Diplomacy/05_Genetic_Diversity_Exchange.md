@@ -22,6 +22,26 @@ The mechanism is straightforward: in each generation, the next generation's gene
 
 For a network of 3-5 settlements totaling 100-250 people, active genetic exchange is the only mechanism to approximate the effective population size needed to prevent drift from eroding the gene pool. Conservation biologist Ian Franklin proposed the 50/500 Rule (1980): a minimum of 50 individuals prevents inbreeding depression in the short term, while 500 prevents long-term genetic drift. The short-term threshold of 50 keeps deleterious recessive alleles from becoming homozygous at dangerous rates. The long-term threshold of 500 maintains sufficient heterozygosity for the population to adapt to changing environmental pressures — new diseases, shifting climate, evolving pathogens. No single settlement in this project approaches either threshold on its own. Only the network, functioning as a connected metapopulation through deliberate exchange, can achieve functional genetic viability.
 
+```text
+       THE 50/500 RULE — TWO THRESHOLDS OF VIABILITY
+
+   Population        drift / inbreeding rate (relative)
+   ──────────────────────────────────────────────────────────
+   50    ████████████████████████████████████████  10x faster
+         │ short-term floor: blocks inbreeding depression
+         │ keeps recessive alleles from going homozygous
+   ──────────────────────────────────────────────────────────
+   500   ████                                       1x baseline
+         │ long-term floor: holds heterozygosity for
+         │ adaptation to new disease, climate, pathogens
+   ──────────────────────────────────────────────────────────
+   single settlement 15-50 ........... below BOTH thresholds
+   network 100-250 (metapopulation) .. only path to viability
+
+   RULE: a population of 50 loses diversity 10x faster than 500;
+         no lone settlement clears either line — only the network.
+```
+
 ### The Founder Effect: Lessons from Isolated Populations
 
 When a small group establishes an isolated population, it carries only a fraction of the genetic diversity of the parent population. This is the Founder Effect, and its consequences are well documented.
@@ -45,6 +65,25 @@ The catastrophic consequence of failing to maintain crop diversity is demonstrat
 Inbreeding depression in livestock follows predictable mathematics. As the inbreeding coefficient F rises, fertility declines, immune function weakens, and congenital defects increase. In cattle, an F increase of 0.10 reduces milk yield by approximately 5-10% and increases calf mortality by a measurable margin. In poultry, elevated F produces reduced hatch rates, smaller body size, and increased susceptibility to respiratory disease. In goats and sheep, inbreeding manifests as declining litter sizes, increased kid and lamb mortality, and reduced disease resistance.
 
 These effects are cumulative and accelerating. A herd that has drifted to F = 0.05 has lost measurable fitness. At F = 0.10, the decline is visible to any experienced stockkeeper — smaller animals, fewer offspring per breeding cycle, more animals lost to common infections. At F = 0.25 — equivalent to full-sibling mating sustained for two generations — the herd is in reproductive collapse. In a settlement where livestock provide milk, eggs, meat, wool, leather, and draft power, the loss of any species to inbreeding depression is a survival-level crisis that unfolds slowly enough to be ignored until it is too late to reverse.
+
+```text
+       INBREEDING COEFFICIENT (F) LADDER — LIVESTOCK HEALTH
+
+   F = 0.25 ┤▲ REPRODUCTIVE COLLAPSE
+            │  full-sibling mating sustained two generations
+            │
+   F = 0.10 ┤● VISIBLE DECLINE
+            │  smaller animals, fewer offspring, more infections
+            │  (cattle: milk yield -5-10%, calf mortality up)
+   F = 0.0625┤◆ MATING CEILING — avoid any mating above this
+            │  first-cousin level (n = 4); exchange required
+   F = 0.05 ┤○ MEASURABLE FITNESS LOSS already underway
+            │
+   F = 0.00 ┴─ no inbreeding — fully unrelated mating
+
+   RULE: never mate above F = 0.0625; if every in-settlement
+         mate exceeds it, an inter-settlement swap is mandatory.
+```
 
 ### Human Exogamy: The Anthropological Constant
 
@@ -89,6 +128,35 @@ Annually, in early spring before planting, representatives from all allied settl
 
 A germination test is then conducted: plant 10 seeds from each incoming batch in isolated test pots using clean soil. Water and observe for 7 days. If the germination rate falls below 60% (fewer than 6 of 10 seeds sprouting), the batch is rejected. This threshold accounts for the natural variability of open-pollinated seed while screening out batches that have lost viability through age, improper storage, or disease.
 
+```text
+       INCOMING SEED QUARANTINE — DECISION FLOW
+
+        ┌──────────────────────────────┐
+        │  incoming seed batch arrives  │
+        └───────────────┬──────────────┘
+                        ▼
+        ┌──────────────────────────────┐
+        │ visual inspect: mold? bore    │
+        │ holes? webbing? abnormality?  │
+        └───────┬───────────────┬───────┘
+          clean │               │ contamination seen
+                ▼               ▼
+   ┌────────────────────┐   ┌────────────────────┐
+   │ germination test:  │   │  REJECT whole batch │
+   │ 10 seeds, 7 days   │   │  (do NOT sort —     │
+   └────────┬───────────┘   │  spores spread)     │
+            ▼               └────────────────────┘
+     ≥ 6 of 10 sprout? ── no ──► REJECT (< 60%, lost viability)
+            │ yes
+            ▼
+   ┌──────────────────────────────────────────┐
+   │ ACCEPT → ceramic jar + wood-ash desiccant │
+   │ cool, dark, dry seed bank                 │
+   └──────────────────────────────────────────┘
+
+   RULE: two gates, both pass or the batch never enters the bank.
+```
+
 Seeds that pass quarantine are stored in ceramic jars with desiccant (wood ash absorbs moisture, preventing mold) in a cool, dark, dry location. The Royal Botanic Gardens, Kew, and the Svalbard Global Seed Vault have established that properly dried seeds (6-8% moisture content) stored in sealed containers at cool temperatures remain viable for 5-50+ years depending on species. The ceramic jar and desiccant protocol approximates these conditions with zero-technology materials.
 
 **Seed saving discipline.** Every settlement must save seed from at least 20 individual plants per variety per year to maintain within-variety genetic diversity. Saving seed from fewer than 20 plants causes a genetic bottleneck within the variety itself, gradually reducing the variety's adaptability and vigor even if the variety continues to germinate reliably.
@@ -120,6 +188,29 @@ where n is the number of generations back to the common ancestor. For example: i
 - **Quarantine period: 30 days.** The quarantine pen is a fenced enclosure of at least 10m by 10m, positioned a minimum of 200 meters from the main herd. During quarantine, the incoming animal is observed daily for signs of disease: respiratory symptoms (coughing, nasal discharge), diarrhea, skin lesions, lethargy, and foot rot. If healthy after 30 days, the animal is introduced to Settlement A's herd.
 - The buck is returned to Settlement B after the breeding season (60-90 days) or permanently exchanged, as negotiated.
 - All offspring are recorded in both settlements' pedigree ledgers with full parentage, including the sire's settlement of origin.
+
+```text
+       LIVESTOCK BREEDING EXCHANGE — PROTOCOL PIPELINE
+
+   [1] IDENTIFY ──►[2] REQUEST ──►[3] TRANSPORT ──►[4] QUARANTINE
+   A's bucks all   A asks B for   B's healthy      30-day pen,
+   related to does a breeding      unrelated buck   10m x 10m,
+   within 2 gens   buck at next    to A's           min 200m from
+                   trade meeting   quarantine pen   the main herd
+                                                    daily disease
+                                                    watch
+                                                       │
+        ┌──────────────────────────────────────────────┘
+        ▼
+   [5] INTRODUCE ──►[6] BREED ──────►[7] RECORD
+   healthy after    breeding season  all offspring in
+   30 days → join   60-90 days; buck BOTH ledgers with
+   A's herd         returned to B    full parentage +
+                    or kept (negot.) sire's origin
+
+   RULE: no animal joins the herd until it clears 30 clean days
+         in the isolation pen, 200 m from the main herd.
+```
 
 **Minimum effective population per species.** To maintain genetic health, the combined network should maintain at least:
 
@@ -168,6 +259,27 @@ The GDI is a simple, trackable metric that tells the settlement network whether 
 **Livestock GDI.** Calculate the average inbreeding coefficient across all breeding animals of each species. An average F below 0.03 is healthy. Above 0.05 requires immediate inter-settlement breeding exchange.
 
 **Human GDI.** Calculate the average relatedness coefficient within each settlement. Below 0.02 is healthy. Above 0.04 indicates the kinship threshold is approaching and inter-settlement social gatherings should increase in frequency.
+
+```text
+       GENETIC DIVERSITY INDEX (GDI) — THRESHOLD MATRIX
+
+   DOMAIN     METRIC                  HEALTHY      ACTION TRIGGER
+   ─────────┼───────────────────────┼──────────┼─────────────────
+   CROP     │ cultivars per species │ > 3.0  ✓  │ < 2.0  ⚠ seed
+            │                       │           │   exchange
+   ─────────┼───────────────────────┼──────────┼─────────────────
+   LIVESTOCK│ avg inbreeding F      │ < 0.03 ✓  │ > 0.05 ⚠ breed
+            │   per species         │           │   swap now
+   ─────────┼───────────────────────┼──────────┼─────────────────
+   HUMAN    │ avg relatedness       │ < 0.02 ✓  │ > 0.04 ⚠ more
+            │   per settlement      │           │   gatherings
+   ─────────┴───────────────────────┴──────────┴─────────────────
+
+   Reported one page, three trend arrows, at the solstice meeting.
+
+   RULE: any domain in the trigger column launches a coordinated
+         network response — makes the slow, invisible decline seen.
+```
 
 **Annual GDI Report.** At the solstice meeting, each settlement presents its GDI figures. The report is a single page summarizing all three domains with trend arrows indicating improvement, stability, or decline relative to the previous year. Declining diversity in any domain triggers a coordinated response — targeted seed exchange, livestock breeding swaps, or additional inter-settlement social gatherings.
 

@@ -52,6 +52,34 @@ node remains faithful to the knowledge sent. The scholar's role as a living inte
 of documents adds a third channel -- demonstration -- which further reduces ambiguity
 and transmission loss.
 
+```text
+       TRIPLE-REDUNDANT TRANSMISSION — ERROR CORRECTION BY CHANNEL
+
+   Knowledge sent ──────────────────────────────► Knowledge received
+                        (faithful at each node)
+
+   Channel 1  ORAL TEACHING        ░░░░░░░░░░  vulnerable alone:
+              spoken by scholar               "telephone game" errors
+                                              compound over relays
+              ──────────────────────────────────────────────────────
+   Channel 2  WRITTEN DOCUMENT     ▒▒▒▒▒▒▒▒▒▒  fixes drift; host also
+              copied + summary                produces written summary
+              reviewed pre-departure          scholar reviews before
+                                              departure
+              ──────────────────────────────────────────────────────
+   Channel 3  DEMONSTRATION        ████████████  hands-on; resolves the
+              scholar builds it               ambiguity a diagram alone
+                                              cannot ("a water filter")
+
+   ────────────────────────────────────────────────────────────────
+   1 channel  → high entropy, signal degrades node to node
+   2 channels → oral + written = error-correction (double-encoding)
+   3 channels → oral + written + demonstration = triple redundancy
+
+   RULE: never send oral alone. Pair it with the document, then
+         demonstrate it — three channels survive what one loses.
+```
+
 ### Historical Knowledge Networks
 
 The *rihla* tradition of the Islamic Golden Age (9th-14th century) required scholars to
@@ -100,6 +128,26 @@ becomes routine. By the tenth year, the network effect compounds: settlements th
 with radically different knowledge bases converge toward a shared, high-quality technical
 canon, while each retains local specializations that enrich the whole.
 
+```text
+       NETWORK MATURATION — VALUE COMPOUNDS OVER TIME
+
+   Year 1   ▓                    routes untested · protocols stiff ·
+            │                    host communities may be suspicious
+            │                    LOGISTICALLY AWKWARD
+   ─────────┼──────────────────────────────────────────────────────
+   Year 3   ▓▓▓▓▓▓▓              scholars are welcomed figures ·
+            │                    exchange becomes ROUTINE
+   ─────────┼──────────────────────────────────────────────────────
+   Year 10  ▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓   network effect compounds: settlements
+            │                    converge toward a shared technical
+            │                    canon, each keeping local specialties
+            ▼
+       NETWORK EFFECT: each new node increases value for all nodes
+
+   RULE: do not judge the system by Year 1. The payoff is the
+         compounding canon that no single node could build alone.
+```
+
 ## Core Principles
 
 1. **The scholar is a living interface, not a courier.** The critical difference between
@@ -145,6 +193,28 @@ Selection is made through the settlement's governance process. Scholars are not 
 permanent caste; individuals rotate in and out of the corps as skills and fitness
 dictate. A typical term of service is 3-5 years.
 
+```text
+       SCHOLAR CORPS — FIVE SELECTION CRITERIA (3-8 per settlement)
+
+   1  LITERACY            ▣ primary script + ideally standardized
+                            notation (Module 03)
+   2  PHYSICAL FITNESS    ▣ multi-day overland travel
+   3  TECHNICAL           ▣ competence in ≥ 2 domains
+      COMPETENCE            (e.g. agriculture + metallurgy)
+   4  DIPLOMATIC          ▣ represents the settlement; hostility or
+      TEMPERAMENT           arrogance will damage the network
+   5  MEMORY TRAINING     ▣ reconstruct key information orally if
+                            documents are lost or damaged
+
+   ────────────────────────────────────────────────────────────
+   Corps size:    3 ──────────── 8   individuals per settlement
+   Term:          3 ──────────── 5   years, then rotate out
+   NOT a permanent caste — skills and fitness dictate turnover.
+
+   RULE: all five criteria, not a subset. A fit illiterate or a
+         literate diplomat who cannot teach two domains is unfit.
+```
+
 ### Designing the Circuit
 
 The network of allied settlements is mapped, and a circuit (or set of circuits) is
@@ -175,6 +245,32 @@ or potential threat:
 4. **Signal pennant protocol**: when approaching a settlement, the scholar raises a
    pennant of a pre-agreed color at a distance of at least 500 meters, then waits at a
    designated approach point until acknowledged.
+
+```text
+       CREDENTIAL STACK — EXTENDING TRUST BEYOND DUNBAR'S NUMBER
+
+   Personal acquaintance caps at ~150 stable relationships (Dunbar).
+   Scholars arrive where no one knows them. Four layers vouch instead:
+
+   approach ┌──────────────────────────────────────────────┐
+   distance │  4. SIGNAL PENNANT   raised at ≥ 500 m,        │ seen
+            │     pre-agreed color, wait at approach point   │ first
+            ├──────────────────────────────────────────────┤
+            │  3. SEASONAL PASSPHRASE   verbal challenge-    │
+            │     response, changes each season, exchanged   │
+            │     during the previous scholar visit          │
+            ├──────────────────────────────────────────────┤
+            │  2. LETTER OF INTRODUCTION   durable material, │
+            │     sealed with settlement mark; name,         │
+            │     domains of expertise, authorization        │
+            ├──────────────────────────────────────────────┤
+   at the   │  1. CREDENTIAL TOKEN   carved/stamped sigil +  │ trust
+   gate     │     scholar's mark + year of issuance          │ anchor
+            └──────────────────────────────────────────────┘
+
+   RULE: trust the INSTITUTION, not the stranger. Each layer is a
+         settlement's reputation vouching for a person it sends.
+```
 
 ### The Knowledge Payload
 
@@ -208,6 +304,33 @@ When a scholar arrives at a host settlement:
    host's specialists to explain their methods.
 7. **Departure**: updated manifest, new documents, and any physical samples are packed.
    The host settlement provides trail provisions for the next leg.
+
+```text
+       ARRIVAL PROTOCOL — SEVEN STEPS FROM GATE TO DEPARTURE
+
+   [1]──►[2]──►[3]──►[4]──►[5]──────►[6]──►[7]
+    │     │     │     │     │          │     │
+  APPRO  WEL-  FORMAL DOC   TEACHING  LEARN  DEPAR-
+  ACH +  COME  RECEP- EX-   PERIOD    -ING   TURE
+  IDENT  +     TION   CHANGE                 pack
+         QUAR-                               manifest,
+         ANTINE                              docs,
+                                             samples
+    │     │     │     │     │          │     │
+  pennant 1-3   present new docs 3-10 days  observe host gives
+  token + days  manifest in/out  hands-on   + docu- trail
+  letter +obser to        & logged demos;   ment    provisions
+  pass-  vation arch-            answers,   local   for next
+  phrase health ivist            trouble-   inno-   leg
+                council          shoots     vations
+
+   ────────────────────────────────────────────────────────────
+   Step 5 (TEACHING) is the critical difference from courier work:
+   the scholar teaches, answers questions, and troubleshoots.
+
+   RULE: identity is verified BEFORE documents change hands; the
+         manifest is logged at exchange and re-checked at departure.
+```
 
 ### Record-Keeping and Accountability
 

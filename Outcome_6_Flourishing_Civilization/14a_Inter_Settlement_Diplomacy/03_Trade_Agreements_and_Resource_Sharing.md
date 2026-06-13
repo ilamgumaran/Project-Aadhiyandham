@@ -67,6 +67,27 @@ component (the Famine Clause, the Gift Economy Buffer) to survive crises. A
 system built entirely on strict accounting collapses at the first famine; one
 built entirely on generosity collapses when one party consistently takes more.
 
+```text
+       THREE MODES OF RECIPROCITY (Sahlins, 1972)
+
+   social distance:   CLOSE ──────────────────────────► FAR
+
+   GENERALIZED        BALANCED              NEGATIVE
+   ┌────────────┐     ┌────────────┐        ┌────────────┐
+   │ pure gift, │     │ fair trade,│        │ get more   │
+   │ no return  │ ──► │ roughly    │ ──►    │ for less / │
+   │ expected   │     │ equivalent │        │ nothing    │
+   └────────────┘     └────────────┘        └────────────┘
+   family / kin       allies / trading      strangers /
+                      partners              enemies
+
+   trade lives HERE:  ████████████ balanced zone (the core)
+   crisis safety net: ████ generalized (Famine Clause, Gift Buffer)
+
+   RULE: trade in the balanced zone, but keep a generalized
+         component or the alliance dies at the first famine.
+```
+
 ### Commons Governance and Ostrom's Design Principles
 
 Elinor Ostrom's Nobel Prize-winning research in *Governing the Commons* (1990)
@@ -176,6 +197,23 @@ If the running balance exceeds 20 units, the debtor settlement is expected to
 propose a repayment plan at the next solstice meeting. This is a conversation,
 not an ultimatum.
 
+```text
+       RUNNING BALANCE LADDER — THE 20-UNIT THRESHOLD
+
+   running imbalance (units)
+   30  ┤ ░░░░░░░░░░░░░░░░░░░░  REPAYMENT ZONE
+   25  ┤ ░░░░░░░░░░░░░░░░░░░░  debtor proposes a repayment
+       │                      plan at next solstice meeting
+   20  ┝══════════════════════  IMBALANCE THRESHOLD (20 units)
+   15  ┤ ████████████████████  GIFT ECONOMY BUFFER
+   10  ┤ ████████████████████  not called in, no repayment
+    5  ┤ ████████████████████  schedule — absorbs barter's
+    0  ┴────────────────────  natural unevenness
+
+   RULE: under 20 units = gift zone (rough balance is enough);
+         over 20 units = a conversation, never an ultimatum.
+```
+
 ### Courier and Transport Protocol
 
 Each settlement designates 2-3 couriers trained in the waystation system
@@ -192,6 +230,29 @@ reducing round-trip time for both parties. Trade in perishable goods (fresh
 meat, dairy, green herbs) is limited to settlements within 1 day's travel.
 For longer distances, only preserved goods (dried, smoked, salted, fermented)
 are traded.
+
+```text
+       TRAVEL DISTANCE → WHAT MAY BE TRADED
+
+   distance  │ goods allowed                  │ transport
+   ──────────┼────────────────────────────────┼──────────────
+   ≤ 1 day   │ ● perishable (fresh meat,      │ direct courier
+             │   dairy, green herbs)          │ pair carry
+             │ ● preserved goods too          │
+   ──────────┼────────────────────────────────┼──────────────
+   1–3 days  │ ✗ NO perishables               │ direct courier
+             │ ● preserved only (dried,       │ pair carry
+             │   smoked, salted, fermented)   │
+   ──────────┼────────────────────────────────┼──────────────
+   > 3 days  │ ✗ NO perishables               │ stage at way-
+             │ ● preserved only               │ stations; each
+             │                                │ side meets at
+             │                                │ the midpoint
+   ──────────┴────────────────────────────────┴──────────────
+
+   RULE: perishables travel ≤ 1 day; past 3 days, drop goods at
+         the waystation midpoint to halve each side's round trip.
+```
 
 ### Emergency Mutual Aid
 
@@ -227,6 +288,25 @@ punishment -- it is a circuit breaker. After 90 days, contact resumes at the
 First Contact Protocol level (Module 02) and trust is rebuilt from scratch.
 Knowing that either party can walk away without permanent consequences reduces
 the pressure that causes explosive ruptures.
+
+```text
+       GRADUATED RESPONSE TO CONFLICT — NO STEP SKIPPED
+
+   STEP 1            STEP 2            STEP 3            STEP 4
+   ┌──────────┐      ┌──────────┐      ┌──────────┐      ┌──────────┐
+   │ CONVER-  │ ──►  │ THIRD-   │ ──►  │ TRADE    │ ──►  │ FULL     │
+   │ SATION   │      │ PARTY    │      │ SUSPEN-  │      │ RESET    │
+   │          │      │ MEDIATION│      │ SION     │      │          │
+   └──────────┘      └──────────┘      └──────────┘      └──────────┘
+   talk it out       3rd settlement    90-day pause,     back to First
+   directly          mediates; else    a circuit         Contact Protocol
+                     joint council     breaker, not      (Module 02);
+                     of elders at      a punishment      trust rebuilt
+                     neutral zone                        from scratch
+
+   RULE: every conflict is repairable until proven otherwise —
+         escalate one rung at a time; skip no step.
+```
 
 ### The Trade Network
 
@@ -267,6 +347,28 @@ trades using the VET and ledger system.
 **Month 3** -- formally adopt the VET, ledger system, and Famine Clause. Mark
 formalization with a joint meal at the neutral zone. Train at least 2 people
 per settlement in ledger maintenance and VET negotiation.
+
+```text
+       THREE-MONTH IMPLEMENTATION TIMELINE (inventory → trade)
+
+            MONTH 1          MONTH 2          MONTH 3
+            ┌──────────┐     ┌──────────┐     ┌──────────┐
+   inventory│██████████│     │          │     │          │
+   measures │██████████│     │          │     │          │
+   negotiate│          │     │██████████│     │          │
+   VET      │          │     │          │     │          │
+   trial    │          │     │██████████│     │          │
+   trades   │          │     │ (3–5)    │     │          │
+   formalize│          │     │          │     │██████████│
+   + train  │          │     │          │     │ (≥2/side)│
+            └──────────┘     └──────────┘     └──────────┘
+   build bushel +     negotiate VET +    adopt VET, ledger,
+   weight stones      run 3–5 trial      Famine Clause; joint
+   on beam scale      trades on ledger   meal; train ≥2 people
+
+   RULE: first inventory to formalized trade is roughly 3 months —
+         measure first, trial second, formalize last.
+```
 
 | Material | Quantity | Source |
 |:---|:---|:---|

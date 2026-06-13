@@ -64,6 +64,31 @@ The practical consequence is that first contact should not be treated as a rare 
 
 5. **Institutionalize and rehearse.** A protocol that exists only on paper will fail under the stress of an actual encounter. Quarterly simulations, rotating team membership, and integration with the settlement's watch rotation ensure that first contact readiness is a living institutional capability rather than a dusty document. The Contact Team trains replacements continuously. Children participate in age-appropriate simulations as part of the settlement's educational curriculum. The protocol must be a living practice embedded in the settlement's culture, not a document filed away and forgotten until an emergency forces improvisation.
 
+```text
+       THE FIVE CORE PRINCIPLES — STACKED FROM FIRST MOVE UP
+
+   ┌────────────────────────────────────────────────────────┐
+   │ 5. INSTITUTIONALIZE & REHEARSE                          │
+   │    quarterly sims · rotating team · living practice     │
+   ├────────────────────────────────────────────────────────┤
+   │ 4. BUILD IN COOLING PERIODS                            │
+   │    no binding decision within 48 hours                  │
+   ├────────────────────────────────────────────────────────┤
+   │ 3. MAINTAIN INFORMATION DISCIPLINE                     │
+   │    round population to nearest 10 · hide caches         │
+   ├────────────────────────────────────────────────────────┤
+   │ 2. SIGNAL VULNERABILITY DELIBERATELY                  │
+   │    sitting posture · empty hands · no weapons           │
+   ├────────────────────────────────────────────────────────┤
+   │ 1. COOPERATE FIRST  (foundation)                      │
+   │    the gift precedes the request · open hand first      │
+   └────────────────────────────────────────────────────────┘
+        ▲ every principle above rests on cooperating first
+
+   RULE: the first gesture cooperative, the first posture
+         vulnerable, the first exchange material not verbal.
+```
+
 ## Practical Implementation
 
 ### Contact Team Selection and Training
@@ -91,6 +116,32 @@ The anthropological record (Malinowski's kula ring, Pacific Northwest potlatch, 
 - A medicinal herb bundle with a pictographic usage guide
 
 The gift bundle is not payment for goods received. It is an investment in relationship, offered without expectation of immediate return. The inclusion of seeds signals long-term thinking and agricultural competence. The crafted item signals productive capacity and technological sophistication. The preserved food signals surplus, meaning your settlement has enough to share. The medicinal herbs signal care for the other party's wellbeing and knowledge of local pharmacology. Together, these four components paint a portrait of a settlement that is productive, generous, knowledgeable, and oriented toward the future.
+
+```text
+       THE GIFT BUNDLE — FOUR COMPONENTS, FOUR SIGNALS
+
+   COMPONENT                     SIGNALS TO RECEIVING PARTY
+   ─────────────────────────────────────────────────────────
+   50g heirloom seeds       ──►  long-term thinking +
+   (common, not rarest)          agricultural competence
+   ─────────────────────────────────────────────────────────
+   preserved food sample    ──►  surplus — enough to share
+   (jerky · dried fruit ·
+    hardtack)
+   ─────────────────────────────────────────────────────────
+   one crafted item         ──►  productive capacity +
+   (pottery · woven cord ·       technological sophistication
+    carved tool)
+   ─────────────────────────────────────────────────────────
+   medicinal herb bundle    ──►  care for their wellbeing +
+   (+ pictographic guide)        knowledge of pharmacology
+   ─────────────────────────────────────────────────────────
+   EXCLUDE: metal blades, armor, signalling devices,
+            religious artifacts, decorative art.
+
+   RULE: prepare at least 3 standardized bundles — the gift
+         is investment in relationship, NOT payment for goods.
+```
 
 Assemble bundles during the second week of protocol development. Store them in weatherproof containers at a location accessible to the Contact Team on short notice. Rotate perishable contents (preserved food, medicinal herbs) every six months to ensure freshness.
 
@@ -134,6 +185,37 @@ When observation posts (Section 07a, Module 06) detect an unknown group, do not 
 
 Enter a passive observation period of 24 to 48 hours if possible. Determine whether they are transiting or settling, whether they display any recognizable peace signals, and whether they are foraging desperately (indicating potential desperation-driven aggression) or moving deliberately. A group that makes camp and begins improving a site is settling; a group that moves steadily along a route is transiting. Transiting groups may warrant a lighter contact approach -- leaving a gift bundle along their path rather than deploying the full protocol.
 
+```text
+       DETECTION DECISION LOGIC — TRANSITING vs SETTLING
+
+            Unknown group detected by observation posts
+                              │
+                  PASSIVE OBSERVATION 24-48 hrs
+                  (intelligence first, NOT response)
+                              │
+              ┌───────────────┴───────────────┐
+              ▼                                ▼
+        Makes camp,                      Moves steadily
+        improves a site                  along a route
+              │                                │
+          = SETTLING                      = TRANSITING
+              │                                │
+              ▼                                ▼
+     Better candidate for           Lighter approach: leave a
+     FULL first contact             gift bundle along their path
+     protocol (long shadow          rather than deploy the full
+     of the future)                 protocol (short shadow)
+              │
+              ▼
+     Council decides ──► YES ──► deploy green smoke + white banner
+                          │
+                          NO  ──► continue passive observation
+
+   RULE: a group with dependents (children/elderly) is a strong
+         indicator of non-hostile intent — violence rarely
+         travels with those it cannot protect.
+```
+
 If the council decides to initiate contact, deploy the green smoke signal from a pre-designated point. Green smoke, produced by burning damp green vegetation over a hot fire, is a widely recognized non-threat signal. Simultaneously display the white banner at the highest visible point near the neutral zone. These two signals -- smoke to attract attention from a distance and banner to mark the meeting location -- work in concert to communicate both presence and peaceful intent.
 
 If the other party does not respond to signals within 24 hours, do not escalate. Escalation at this stage -- louder signals, closer approach, larger delegations -- will be interpreted as aggression regardless of intent. Instead, leave the gift bundle at the neutral zone with the pictographic board and withdraw completely. Return in 48 hours to check if the bundle was taken and anything was left in return.
@@ -143,6 +225,25 @@ This is the Herodotean silent trade method, and it can serve as the foundation f
 ### The Approach Sequence
 
 **The Rule of Three.** Send exactly three people to the neutral zone. Three is large enough to demonstrate confidence, small enough to demonstrate non-aggression. Anthropological research on tribal contact (Firth, 1936; Lee, 1979) consistently shows that small, odd-numbered delegations are perceived as less threatening than even-numbered ones, which imply paired combat readiness. The three delegates should include the team lead (de-escalation specialist), the trade assessor, and the medical specialist.
+
+```text
+       THE RULE OF THREE — DELEGATION SIZE PERCEPTION
+
+   1 person   ▓                too easily dismissed or overpowered
+   2 person   ▓▓▓▓▓▓▓▓         even = paired combat readiness  ✗
+   3 person   ▓▓▓▓▓            seriousness + restraint         ✓
+   4 person   ▓▓▓▓▓▓▓▓         even = paired combat readiness  ✗
+   5 person   ▓▓▓▓▓▓▓▓▓▓       begins to resemble a patrol
+
+   bar length = perceived threat to the receiving party
+   ✓ = the chosen delegation     ✗ = even-numbered, avoid
+
+   The three: team lead (de-escalation) · trade assessor ·
+              medical specialist.
+
+   RULE: send exactly three — odd, small, and unmistakably
+         non-aggressive; weapons remain at the settlement.
+```
 
 **Visible Hands.** All three members approach with hands visible and empty, palms forward. Weapons remain at the settlement. The Contact Team carries only the gift bundle, the charter, a medical kit, and the pictographic board. No concealed items. No tools that could be mistaken for weapons. If a team member habitually carries a belt knife, it stays behind for this encounter.
 
@@ -216,6 +317,30 @@ The full protocol development process spans four weeks and should be completed b
 - **Week 4: Integration with Defense.** Coordinate with the settlement's watch rotation (Section 07a, Module 02) to ensure that first contact scenarios trigger the correct alert level -- elevated observation, not lockdown. A lockdown response to a potential ally is a catastrophic missed opportunity. Finalize standing orders so that observation post personnel know exactly when to escalate to the council and when to continue passive observation.
 
 After the initial four-week development period, run quarterly refresher simulations and annual full-protocol rehearsals with team rotation.
+
+```text
+       IMPLEMENTATION TIMELINE — FOUR-WEEK PROTOCOL BUILD
+
+   WEEK 1  ████                Team Selection
+           identify candidates · tabletop tests · assign roles
+
+   WEEK 2      ████            Materials Preparation
+           3 gift bundles · 2 boards · survey 2-3 neutral zones
+           (clear sightlines >= 200 m) · signals + charter
+
+   WEEK 3          ████        Rehearsal
+           full simulation, half settlement = unknown group
+           run at least two full iterations · iterate
+
+   WEEK 4              ████    Integration with Defense
+           coordinate watch rotation · alert = ELEVATED
+           OBSERVATION, not lockdown · finalize standing orders
+
+   then ──► quarterly refresher sims · annual rehearsal w/ rotation
+
+   RULE: complete the full four-week build BEFORE any actual
+         contact scenario arises — readiness cannot be improvised.
+```
 
 ## Common Failure Modes
 
