@@ -20,6 +20,40 @@ The original tool for making assumptions visible is the Socratic method, known f
 
 The Socratic method is the original debug tool. It finds logical errors in reasoning the same way that testing finds bugs in code or that stress-testing finds weaknesses in a bridge design. The process is identical: state what you believe, apply systematic pressure, observe where it breaks, and fix the flaw. A settlement that practices Socratic questioning in its governance meetings will catch bad policy before it becomes entrenched. A settlement that discourages questioning will accumulate errors until they become crises.
 
+```text
+         THE SOCRATIC METHOD — ELENCHUS LOOP
+
+        [ INITIAL CLAIM ]   "I believe X is true / right / fair"
+              │
+              ▼
+        ┌────────────────────┐
+        │  Q1: Define it     │   "What exactly do you mean by X?"
+        │  precisely         │
+        └─────────┬──────────┘
+                  │
+                  ▼
+        ┌────────────────────┐
+        │  Q2: Test the edges│   "Does X still hold in case Y?
+        │  and counter-cases │    What about case Z?"
+        └─────────┬──────────┘
+                  │
+                  ▼
+        ┌────────────────────┐
+        │  Contradiction      │
+        │  surfaced?          │
+        └─┬──────────────┬───┘
+          │ YES          │ NO
+          ▼              ▼
+   [ REFINE OR     ]  [ SURVIVES — provisional truth ]
+   [ ABANDON CLAIM ]    "hold lightly; re-test later"
+          │
+          └────► loop back to Q1 with the refined claim
+
+   Goal is NOT to win the argument.
+   Goal is to find where the reasoning breaks BEFORE
+   the settlement commits resources to a flawed plan.
+```
+
 ### The Tradition of Thought Experiments
 
 Thought experiments have driven some of the most important discoveries in human history, and none of them required laboratories or equipment.
@@ -135,11 +169,81 @@ Design the settlement's rules — who does which work, how food is distributed, 
 
 Under these conditions, what rules would you create? Rawls argued that rational people behind the veil of ignorance would create rules that protect the worst-off members, because any person might turn out to be the worst-off member. This experiment tests governance proposals for fairness: if you would not accept a rule when you might be on its losing end, the rule is not fair.
 
+```text
+        THE VEIL OF IGNORANCE — TESTING A RULE FOR FAIRNESS
+
+      ┌─────────────────────────────────────────┐
+      │         YOU — THE RULE DESIGNER         │
+      │   "What rules should we live under?"    │
+      └────────────────────┬────────────────────┘
+                           │
+       ════════════════════╪════════════════════
+                       THE VEIL
+            (you do not know your role)
+       ════════════════════╪════════════════════
+                           ▼
+   ┌───────────────────────────────────────────────┐
+   │   You may emerge as ANY of these positions:   │
+   │                                                │
+   │   [strongest worker]   ↔  [chronically ill]   │
+   │   [founding member]    ↔  [recent newcomer]   │
+   │   [eldest council]     ↔  [youngest child]    │
+   │   [skilled craftsman]  ↔  [unskilled laborer] │
+   │   [healthy adult]      ↔  [pregnant / nursing]│
+   └───────────────────────────────────────────────┘
+                           │
+                           ▼
+              ┌────────────────────────┐
+              │   THE FAIRNESS TEST:   │
+              │ Would you still accept │
+              │ this rule from EVERY   │
+              │ possible position?     │
+              └─────┬──────────────────┘
+                    │
+        ┌───────────┴───────────┐
+        ▼                       ▼
+   YES → adopt           NO → rule favors
+   (rule is fair)        a position; redesign
+                         until it survives the veil
+```
+
 **4. The Trader's Dilemma (adapted from the Prisoner's Dilemma)**
 
 Two settlements trade with each other. Each can cooperate (send honest goods) or defect (send inferior goods while demanding full value). If both cooperate, both benefit moderately. If one defects while the other cooperates, the defector benefits greatly and the cooperator loses. If both defect, both lose.
 
 In a single transaction, defection is rational. But settlements trade repeatedly. In repeated interactions, defection destroys trust and ends the trading relationship — both settlements lose the long-term benefits of trade. Cooperation is not just moral; it is the rational long-term strategy. This experiment teaches why trust and reciprocity are practical necessities, not sentimental luxuries.
+
+```text
+        THE TRADER'S DILEMMA — PAYOFF MATRIX
+
+                            SETTLEMENT B
+                  ┌──────────────────┬──────────────────┐
+                  │    COOPERATE     │      DEFECT      │
+                  │ (honest goods)   │ (inferior goods) │
+   ───────────────┼──────────────────┼──────────────────┤
+                  │                  │                  │
+    COOPERATE     │   A:  +3         │   A:  -5         │
+   (honest goods) │   B:  +3         │   B:  +5         │
+   SETTLEMENT     │   BOTH gain      │   A exploited    │
+       A          │   moderately     │   A's trust lost │
+                  │                  │                  │
+   ───────────────┼──────────────────┼──────────────────┤
+                  │                  │                  │
+     DEFECT       │   A:  +5         │   A:  -2         │
+   (inferior)     │   B:  -5         │   B:  -2         │
+                  │   B exploited    │   trade ends     │
+                  │   B's trust lost │   BOTH lose      │
+                  │                  │                  │
+   ───────────────┴──────────────────┴──────────────────┘
+
+   SINGLE ROUND  → defection looks rational (+5 beats +3)
+   REPEATED PLAY → defection ends the relationship,
+                   forfeiting all future +3 rounds
+   STABLE STRATEGY: tit-for-tat — cooperate first,
+                    then mirror whatever the other did last
+   LESSON: trust and reciprocity are NOT sentiment;
+           they are the rational long-run optimum.
+```
 
 **5. The Lifeboat Problem**
 
@@ -202,6 +306,36 @@ Philosophy is not a subject reserved for adults. Children are natural philosophe
 **Ages 10-14: Competing goods and ethical dilemmas.** The Field Dilemma (Trolley Problem adaptation). The Lifeboat Problem. Scenarios where there is no clean answer — every option involves a cost. The goal is comfort with moral complexity: not every problem has a solution that makes everyone happy, and pretending otherwise is dishonest.
 
 **Ages 14+: Abstract reasoning and governance design.** The Veil of Ignorance. The Trader's Dilemma. Epistemology: how do we know what we know? What counts as evidence? How do we distinguish between "I believe this because the evidence supports it" and "I believe this because I want it to be true"? At this age, adolescents can participate in the Philosophy Circle as facilitators, not just participants. They should also begin studying the Thirukkural systematically, examining how its ethical principles apply to current settlement decisions. Adolescents who have progressed through this full sequence will enter adulthood with a philosophical toolkit that most pre-collapse adults never acquired: the ability to reason carefully about ethics, governance, and resource management under genuine uncertainty.
+
+```text
+        PHILOSOPHY TEACHING PROGRESSION — AGE LADDER
+
+   AGE 14+    │ ABSTRACT REASONING · GOVERNANCE DESIGN
+              │ • Veil of Ignorance · Trader's Dilemma
+              │ • Epistemology: how do we know what we know?
+              │ • Thirukkural systematic study (aram/porul/inbam)
+              │ • Facilitates the Philosophy Circle
+   ───────────┼─────────────────────────────────────────────
+   AGES       │ COMPETING GOODS · ETHICAL DILEMMAS
+   10 – 14    │ • The Field Dilemma (Trolley) · Lifeboat
+              │ • Comfort with no-clean-answer scenarios
+              │ • Every option carries a cost; learn to weigh
+   ───────────┼─────────────────────────────────────────────
+   AGES       │ COMMONS · COOPERATION · DELAYED EFFECTS
+   7 – 10     │ • The Well thought experiment
+              │ • "Eat the seed corn?" planting-season chains
+              │ • Individual restraint → collective benefit
+   ───────────┼─────────────────────────────────────────────
+   AGES       │ FAIRNESS · SHARING · CONCRETE STAKES
+   5 – 7      │ • "Two children, one apple — what now?"
+              │ • "You found something — what should you do?"
+              │ • Habit of thinking BEFORE grabbing
+   ───────────┴─────────────────────────────────────────────
+
+      Natural childhood curiosity  ──►  trained reasoning
+      Each layer rests on the layer below
+      No layer is skipped; pace varies by child
+```
 
 ## Common Failure Modes
 

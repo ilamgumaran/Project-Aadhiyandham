@@ -28,6 +28,39 @@
 <p>Philosophy is the discipline of examining assumptions. Every decision your settlement makes rests on assumptions — that the river will continue flowing, that people will cooperate if asked nicely, that the current leadership structure is fair, that children should be educated in a particular way. Most of these assumptions are invisible. They operate in the background, unquestioned, until the day one of them turns out to be wrong and the consequences arrive all at once.</p>
 <p>The original tool for making assumptions visible is the Socratic method, known formally as elenchus. Socrates did not lecture. He asked questions. His method was simple and devastating: take a claim someone believes to be true, ask them to define it precisely, then show through further questions that their definition contains contradictions. The person either refines their belief or abandons it. Either outcome is progress.</p>
 <p>The Socratic method is the original debug tool. It finds logical errors in reasoning the same way that testing finds bugs in code or that stress-testing finds weaknesses in a bridge design. The process is identical: state what you believe, apply systematic pressure, observe where it breaks, and fix the flaw. A settlement that practices Socratic questioning in its governance meetings will catch bad policy before it becomes entrenched. A settlement that discourages questioning will accumulate errors until they become crises.</p>
+<pre><code class="language-text">
+         THE SOCRATIC METHOD — ELENCHUS LOOP
+
+        [ INITIAL CLAIM ]   &quot;I believe X is true / right / fair&quot;
+              │
+              ▼
+        ┌────────────────────┐
+        │  Q1: Define it     │   &quot;What exactly do you mean by X?&quot;
+        │  precisely         │
+        └─────────┬──────────┘
+                  │
+                  ▼
+        ┌────────────────────┐
+        │  Q2: Test the edges│   &quot;Does X still hold in case Y?
+        │  and counter-cases │    What about case Z?&quot;
+        └─────────┬──────────┘
+                  │
+                  ▼
+        ┌────────────────────┐
+        │  Contradiction      │
+        │  surfaced?          │
+        └─┬──────────────┬───┘
+          │ YES          │ NO
+          ▼              ▼
+   [ REFINE OR     ]  [ SURVIVES — provisional truth ]
+   [ ABANDON CLAIM ]    &quot;hold lightly; re-test later&quot;
+          │
+          └────► loop back to Q1 with the refined claim
+
+   Goal is NOT to win the argument.
+   Goal is to find where the reasoning breaks BEFORE
+   the settlement commits resources to a flawed plan.
+</code></pre>
 <h3 id="the-tradition-of-thought-experiments">The Tradition of Thought Experiments</h3>
 <p>Thought experiments have driven some of the most important discoveries in human history, and none of them required laboratories or equipment.</p>
 <p>Galileo's falling bodies experiment (circa 1590) proved that heavy and light objects fall at the same rate — without dropping anything. His reasoning: if a heavy object falls faster than a light one, then tying them together should produce an intermediate speed (the light one slows the heavy one down). But the tied-together object is heavier than either alone, so it should fall faster. Contradiction. Therefore the original assumption is wrong. Heavy and light objects must fall at the same rate. Pure thought. No tower of Pisa required.</p>
@@ -102,9 +135,77 @@
 <p><strong>3. The Veil of Ignorance (Rawls)</strong></p>
 <p>Design the settlement's rules — who does which work, how food is distributed, who makes decisions, how disputes are resolved — but you do not know which role you will hold. You might be the strongest worker or the weakest. You might be a founder or a newcomer. You might be healthy or chronically ill. You might be old or young.</p>
 <p>Under these conditions, what rules would you create? Rawls argued that rational people behind the veil of ignorance would create rules that protect the worst-off members, because any person might turn out to be the worst-off member. This experiment tests governance proposals for fairness: if you would not accept a rule when you might be on its losing end, the rule is not fair.</p>
+<pre><code class="language-text">
+        THE VEIL OF IGNORANCE — TESTING A RULE FOR FAIRNESS
+
+      ┌─────────────────────────────────────────┐
+      │         YOU — THE RULE DESIGNER         │
+      │   &quot;What rules should we live under?&quot;    │
+      └────────────────────┬────────────────────┘
+                           │
+       ════════════════════╪════════════════════
+                       THE VEIL
+            (you do not know your role)
+       ════════════════════╪════════════════════
+                           ▼
+   ┌───────────────────────────────────────────────┐
+   │   You may emerge as ANY of these positions:   │
+   │                                                │
+   │   [strongest worker]   ↔  [chronically ill]   │
+   │   [founding member]    ↔  [recent newcomer]   │
+   │   [eldest council]     ↔  [youngest child]    │
+   │   [skilled craftsman]  ↔  [unskilled laborer] │
+   │   [healthy adult]      ↔  [pregnant / nursing]│
+   └───────────────────────────────────────────────┘
+                           │
+                           ▼
+              ┌────────────────────────┐
+              │   THE FAIRNESS TEST:   │
+              │ Would you still accept │
+              │ this rule from EVERY   │
+              │ possible position?     │
+              └─────┬──────────────────┘
+                    │
+        ┌───────────┴───────────┐
+        ▼                       ▼
+   YES → adopt           NO → rule favors
+   (rule is fair)        a position; redesign
+                         until it survives the veil
+</code></pre>
 <p><strong>4. The Trader's Dilemma (adapted from the Prisoner's Dilemma)</strong></p>
 <p>Two settlements trade with each other. Each can cooperate (send honest goods) or defect (send inferior goods while demanding full value). If both cooperate, both benefit moderately. If one defects while the other cooperates, the defector benefits greatly and the cooperator loses. If both defect, both lose.</p>
 <p>In a single transaction, defection is rational. But settlements trade repeatedly. In repeated interactions, defection destroys trust and ends the trading relationship — both settlements lose the long-term benefits of trade. Cooperation is not just moral; it is the rational long-term strategy. This experiment teaches why trust and reciprocity are practical necessities, not sentimental luxuries.</p>
+<pre><code class="language-text">
+        THE TRADER&#x27;S DILEMMA — PAYOFF MATRIX
+
+                            SETTLEMENT B
+                  ┌──────────────────┬──────────────────┐
+                  │    COOPERATE     │      DEFECT      │
+                  │ (honest goods)   │ (inferior goods) │
+   ───────────────┼──────────────────┼──────────────────┤
+                  │                  │                  │
+    COOPERATE     │   A:  +3         │   A:  -5         │
+   (honest goods) │   B:  +3         │   B:  +5         │
+   SETTLEMENT     │   BOTH gain      │   A exploited    │
+       A          │   moderately     │   A&#x27;s trust lost │
+                  │                  │                  │
+   ───────────────┼──────────────────┼──────────────────┤
+                  │                  │                  │
+     DEFECT       │   A:  +5         │   A:  -2         │
+   (inferior)     │   B:  -5         │   B:  -2         │
+                  │   B exploited    │   trade ends     │
+                  │   B&#x27;s trust lost │   BOTH lose      │
+                  │                  │                  │
+   ───────────────┴──────────────────┴──────────────────┘
+
+   SINGLE ROUND  → defection looks rational (+5 beats +3)
+   REPEATED PLAY → defection ends the relationship,
+                   forfeiting all future +3 rounds
+   STABLE STRATEGY: tit-for-tat — cooperate first,
+                    then mirror whatever the other did last
+   LESSON: trust and reciprocity are NOT sentiment;
+           they are the rational long-run optimum.
+</code></pre>
 <p><strong>5. The Lifeboat Problem</strong></p>
 <p>Ten refugees arrive at the settlement. The settlement can physically house them. But current food production supports only five additional people through the coming winter. Accepting all ten means everyone eats less — possibly below survival thresholds. Accepting five means choosing who stays and who is turned away. Accepting none preserves current security but abandons people in need.</p>
 <p>Discussion questions: When is generosity sustainable and when does it become self-destruction? Who decides, and by what criteria? Is there a moral difference between turning people away and watching them starve? Could the settlement accept all ten if it immediately begins expanding food production — and what are the risks if the expansion fails? What information would change your answer — and does the fact that you need more information tell you something about the limits of abstract moral reasoning?</p>
@@ -142,6 +243,35 @@
 <p><strong>Ages 7-10: Commons and cooperation.</strong> The Well thought experiment. Sharing scenarios with delayed consequences: "If you eat all the seeds now, what happens next planting season?" Introduction to the idea that individual restraint produces collective benefit. Children at this age can grasp cause-and-effect chains and begin to think about the future consequences of present actions.</p>
 <p><strong>Ages 10-14: Competing goods and ethical dilemmas.</strong> The Field Dilemma (Trolley Problem adaptation). The Lifeboat Problem. Scenarios where there is no clean answer — every option involves a cost. The goal is comfort with moral complexity: not every problem has a solution that makes everyone happy, and pretending otherwise is dishonest.</p>
 <p><strong>Ages 14+: Abstract reasoning and governance design.</strong> The Veil of Ignorance. The Trader's Dilemma. Epistemology: how do we know what we know? What counts as evidence? How do we distinguish between "I believe this because the evidence supports it" and "I believe this because I want it to be true"? At this age, adolescents can participate in the Philosophy Circle as facilitators, not just participants. They should also begin studying the Thirukkural systematically, examining how its ethical principles apply to current settlement decisions. Adolescents who have progressed through this full sequence will enter adulthood with a philosophical toolkit that most pre-collapse adults never acquired: the ability to reason carefully about ethics, governance, and resource management under genuine uncertainty.</p>
+<pre><code class="language-text">
+        PHILOSOPHY TEACHING PROGRESSION — AGE LADDER
+
+   AGE 14+    │ ABSTRACT REASONING · GOVERNANCE DESIGN
+              │ • Veil of Ignorance · Trader&#x27;s Dilemma
+              │ • Epistemology: how do we know what we know?
+              │ • Thirukkural systematic study (aram/porul/inbam)
+              │ • Facilitates the Philosophy Circle
+   ───────────┼─────────────────────────────────────────────
+   AGES       │ COMPETING GOODS · ETHICAL DILEMMAS
+   10 – 14    │ • The Field Dilemma (Trolley) · Lifeboat
+              │ • Comfort with no-clean-answer scenarios
+              │ • Every option carries a cost; learn to weigh
+   ───────────┼─────────────────────────────────────────────
+   AGES       │ COMMONS · COOPERATION · DELAYED EFFECTS
+   7 – 10     │ • The Well thought experiment
+              │ • &quot;Eat the seed corn?&quot; planting-season chains
+              │ • Individual restraint → collective benefit
+   ───────────┼─────────────────────────────────────────────
+   AGES       │ FAIRNESS · SHARING · CONCRETE STAKES
+   5 – 7      │ • &quot;Two children, one apple — what now?&quot;
+              │ • &quot;You found something — what should you do?&quot;
+              │ • Habit of thinking BEFORE grabbing
+   ───────────┴─────────────────────────────────────────────
+
+      Natural childhood curiosity  ──►  trained reasoning
+      Each layer rests on the layer below
+      No layer is skipped; pace varies by child
+</code></pre>
 </div>
 <div class="section-practical" id="common-failure-modes">
 <h2>Common Failure Modes</h2>

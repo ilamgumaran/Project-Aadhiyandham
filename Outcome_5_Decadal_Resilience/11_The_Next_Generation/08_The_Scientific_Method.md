@@ -24,6 +24,32 @@ Knowledge becomes dogma through a predictable mechanism that operates in five st
 
 This cycle takes two to three generations, roughly fifty to seventy-five years. It is one of the most reliable patterns in human cultural transmission.
 
+```text
+        THE DOGMA CYCLE — HOW KNOWLEDGE FOSSILIZES IN 50–75 YEARS
+
+   GENERATION 1               GENERATION 2              GENERATION 3
+   (years 0–25)               (years 25–50)             (years 50–75)
+   ──────────────             ───────────────           ────────────────
+
+   [1] Technique WORKS  ───►  [3] Reasoning FORGOTTEN ──► [5] DEVIATION
+       clear benefit              (originators die;          PUNISHED
+       reason understood          "why" not transmitted)    "questioning
+            │                            │                  = heresy"
+            ▼                            ▼                       │
+   [2] Taught as           [4] Procedure becomes                 ▼
+       PROCEDURE               RITUAL — precision        [ CARGO-CULT ]
+       (steps without          feels sacred,             motions performed,
+        underlying logic)      reasons lost              no adaptation
+                                                        possible
+
+   ───────────────────────────────────────────────────────────────────────
+   ANTIDOTE (must be in place from GEN 1):
+       • teach every technique WITH its reasoning
+       • teach every technique WITH its falsification test
+       • invite each generation to challenge the reasoning openly
+   ───────────────────────────────────────────────────────────────────────
+```
+
 The historical record provides devastating examples. Medieval European medicine inherited Galen's anatomical descriptions from the second century, and for fourteen hundred years, physicians repeated his errors because the intellectual culture made questioning Galen equivalent to heresy. When Vesalius performed human dissections in 1543 and published corrections, he was attacked by the establishment. Fourteen centuries of degraded medical education — because procedure became scripture.
 
 Chinese maritime technology offers an equally stark warning. Admiral Zheng He commanded the largest wooden ships ever built and led seven expeditions across the Indian Ocean. Then the Ming court banned ocean-going vessels, destroyed the shipyard records, and made it a capital offense to build a ship with more than two masts. The knowledge was never recovered — erased not by disaster but by political decision.
@@ -66,6 +92,41 @@ The scientific method's structure — hypothesis, prediction, controlled test, r
 - The revision step demands that you update your belief based on evidence, regardless of what you wanted to be true.
 
 Without these structural safeguards, even well-intentioned people will reliably reach wrong conclusions. The scientific method is not a luxury or an academic exercise. It is the minimum viable protection against the brain's built-in errors.
+
+```text
+       COGNITIVE BIAS  →  STRUCTURAL SAFEGUARD
+
+   ┌────────────────────────────┬──────────────────────────────────┐
+   │  BIAS (brain's default)    │  METHOD'S COUNTERMEASURE         │
+   ├────────────────────────────┼──────────────────────────────────┤
+   │  CONFIRMATION              │  Pre-stated HYPOTHESIS:          │
+   │  notice supporting data,   │  write the belief down BEFORE    │
+   │  ignore contradicting data │  collecting any data.            │
+   ├────────────────────────────┼──────────────────────────────────┤
+   │  AVAILABILITY              │  Long-term DATA RECORDS:         │
+   │  overweight recent /       │  decisions reference seasons of  │
+   │  vivid events              │  records, not last week's storm. │
+   ├────────────────────────────┼──────────────────────────────────┤
+   │  ANCHORING                 │  RE-MEASURE every season:        │
+   │  first number sticks       │  current data overrides          │
+   │  through later judgment    │  inherited estimates.            │
+   ├────────────────────────────┼──────────────────────────────────┤
+   │  SUNK COST                 │  CURRENT-RESULT evaluation:      │
+   │  defend past investment    │  judge a technique by yield      │
+   │                            │  today, not effort already spent.│
+   ├────────────────────────────┼──────────────────────────────────┤
+   │  AUTHORITY                 │  EVIDENCE > STATUS rule:         │
+   │  believe the high-status   │  a 13-year-old with strong data  │
+   │  voice                     │  outranks an elder with opinion. │
+   ├────────────────────────────┼──────────────────────────────────┤
+   │  EXPERIMENTER EXPECTATION  │  DOUBLE-BLIND protocol:          │
+   │  measure toward your hope  │  measurer does not know which    │
+   │  without noticing          │  plot received the treatment.    │
+   └────────────────────────────┴──────────────────────────────────┘
+
+   The seven steps of the method are not arbitrary procedure.
+   Each step neutralizes a specific, predictable, neurological default.
+```
 
 ### The History of Scientific Thinking
 
@@ -129,6 +190,60 @@ If the hypothesis is refuted, this is not failure — it is a successful experim
 
 Document everything in the settlement's knowledge archive, regardless of outcome. A well-documented failed experiment is more valuable than an undocumented success.
 
+```text
+        THE SCIENTIFIC METHOD — 7-STEP LOOP
+
+   ┌─[1] OBSERVATION ──────────────┐
+   │  "Beans near the walnut tree  │
+   │   died; beans elsewhere grew."│
+   └───────────────┬───────────────┘
+                   ▼
+   ┌─[2] QUESTION ─────────────────┐
+   │  "Does walnut proximity kill  │
+   │   bean plants?"               │
+   └───────────────┬───────────────┘
+                   ▼
+   ┌─[3] HYPOTHESIS (falsifiable) ─┐
+   │  "Walnut-tree soil contains a │
+   │   bean-killing substance."    │
+   │  PREDICTION: beans in that    │
+   │  soil die even far from tree. │
+   └───────────────┬───────────────┘
+                   ▼
+   ┌─[4] EXPERIMENTAL DESIGN ──────┐
+   │  Variable: walnut-tree soil   │
+   │  Control:  non-walnut soil    │
+   │  Hold equal: water · sun ·    │
+   │   variety · planting depth    │
+   │  Replicate: ≥4 plots per group│
+   └───────────────┬───────────────┘
+                   ▼
+   ┌─[5] DATA COLLECTION ──────────┐
+   │  Quantitative, dated, blind   │
+   │  where possible. Record the   │
+   │  UNEXPECTED observations too. │
+   └───────────────┬───────────────┘
+                   ▼
+   ┌─[6] ANALYSIS ─────────────────┐
+   │  Is the between-group         │
+   │  difference larger than the   │
+   │  within-group variation?      │
+   └───────────────┬───────────────┘
+                   ▼
+   ┌─[7] CONCLUSION ───────────────┐
+   │  Supported / Refuted /        │
+   │  Inconclusive — record ALL    │
+   │  in the knowledge archive.    │
+   └────┬─────────────────┬────────┘
+        │                 │
+   refuted▼               ▼supported
+   revise hypothesis    replicate next season
+   loop back to [3]     under new conditions
+
+   A REFUTED hypothesis is a SUCCESSFUL experiment —
+   one wrong answer has been eliminated for good.
+```
+
 ### The Double-Blind Garden Trial
 
 The scientific method must be taught practically, not just theoretically. The following experiment serves as the foundational teaching exercise for every young person in the settlement.
@@ -150,6 +265,54 @@ Unconscious expectation affects measurement. The Hawthorne effect (people change
 5. Only after all measurements are recorded is the envelope opened and codes revealed.
 
 This procedure ensures that the data reflects reality rather than expectation.
+
+```text
+        DOUBLE-BLIND GARDEN TRIAL — LAYOUT AND ROLES
+
+   PLOT MAP — same soil, sun, water, variety, planting depth:
+
+      ┌──────────┬──────────┬──────────┬──────────┐
+      │   A      │   B      │   C      │   D      │
+      │ (coded)  │ (coded)  │ (coded)  │ (coded)  │
+      │  corn    │  corn    │  corn    │  corn    │
+      └──────────┴──────────┴──────────┴──────────┘
+        ↑          ↑          ↑          ↑
+        Treatment assignment is HIDDEN from the measurer.
+
+   ─────────────────────────────────────────────────────────────
+   THREE-ROLE SEPARATION — the blind is built from the roles:
+
+   ┌──────────────┐   ┌──────────────┐   ┌──────────────┐
+   │   TREATER    │   │   MEASURER   │   │  KEY-HOLDER  │
+   │ applies urine│   │ measures corn│   │ holds sealed │
+   │ fertilizer or│   │ height on    │   │ envelope     │
+   │ plain water  │   │ day 60       │   │ with A→urine,│
+   │ by plot code │   │ WITHOUT      │   │ B→water, ... │
+   │ only.        │   │ knowing      │   │ Opens only   │
+   │              │   │ which is     │   │ after all    │
+   │              │   │ which.       │   │ data locked. │
+   └──────┬───────┘   └──────┬───────┘   └──────┬───────┘
+          │                  │                  │
+          ▼                  ▼                  ▼
+
+   ─────────────────────────────────────────────────────────────
+   PROTOCOL TIMELINE:
+
+   Day 0    ►  Treater applies treatments by code,
+               writes "A=urine, B=water, C=urine, D=water"
+               into envelope, seals it, hands to Key-Holder.
+   Day 1–60 ►  Measurer records growth weekly — no peeking.
+   Day 60   ►  All measurements written down and locked.
+   Day 60+  ►  Envelope opened in front of full group;
+               codes revealed; group means computed ONLY THEN.
+
+   ─────────────────────────────────────────────────────────────
+   WHY THE BLIND MATTERS:
+   Knowing which plot is "yours" makes you measure to the
+   tallest leaf in the treatment plot and the average leaf in
+   the control — by reflex, without dishonesty. The three-role
+   blind defeats this reflex BY DESIGN, not by willpower.
+```
 
 This exercise teaches more than agricultural technique. It teaches the discipline of honest inquiry — the willingness to build structures that protect you from your own biases. A community that routinely practices double-blind testing will develop a culture in which "let us test it" becomes the natural response to any disagreement.
 

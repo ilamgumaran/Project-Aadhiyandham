@@ -37,6 +37,43 @@ The pattern is stark: the older and simpler the medium, the longer it endures. A
 
 The irony of the digital age is that it produced the most information in human history while storing it on the most ephemeral media ever devised.
 
+```text
+       MEDIA DURABILITY LADDER — STORAGE LIFESPAN BY MEDIUM
+
+   Oral tradition       ████████████████████████████████   65,000+ yrs*
+                        │ * if cultural transmission unbroken
+                        │   (Aboriginal songlines — oldest known)
+   ────────────────────│
+   Stone inscription    ████████████████████████             5,000+ yrs
+                        │ MINIMAL deps — survives fire,
+                        │   flood, neglect; Sumerian still readable
+   ────────────────────│
+   Fired clay tablet    ███████████████████                  4,000+ yrs
+                        │ FIRE STRENGTHENS it
+   ────────────────────│
+   Vellum / parchment   ████████                             1,000+ yrs
+                        │ dry storage, vermin protection
+   ────────────────────│
+   Acid-free paper      ████                                   500+ yrs
+                        │ dry, no UV, no acidic sizing
+   ────────────────────│
+   Optical disc CD/DVD  █                                     25–100 yrs
+                        │ laser reader + compatible drive
+   ────────────────────│
+   SSD / USB flash      ▌                                       5–10 yrs
+                        │ electricity, firmware, interface
+   ────────────────────│
+   Hard disk drive      ▌                                        3–5 yrs
+                        │ electricity, OS drivers, controller
+
+   ────────────────────────────────────────────────────────────────────
+       most fragile                                  most durable
+       highest information density          lowest information density
+
+   RULE: no Tier 1 knowledge may exist ONLY in digital form.
+         Every digital file is living on borrowed time.
+```
+
 The settlement must use the most durable media available and must never depend on any medium that requires electricity or specialized hardware to read. Digital media may serve as a convenience while functioning hardware remains, but the moment any piece of knowledge exists only in digital form, that knowledge is living on borrowed time.
 
 ### What Must Be Preserved
@@ -56,6 +93,46 @@ Several domains deserve special mention regarding their tier placement:
 Biological classification of the five animal phyla belongs to Tier 2. It enables ecosystem management, biosecurity, and the identification of threats and opportunities in local fauna. Classification provides a shared language for documenting the web of life without requiring complex genetic sequencing. A community that can identify whether a newly encountered creature is an arthropod, a chordate, or a mollusk can immediately draw on existing knowledge about that body plan's typical behaviors, vulnerabilities, and uses.
 
 Metrological sovereignty — the preservation of the SI (metric) system — also belongs to Tier 2. It provides a universal mathematical language through which the settlement can accurately interpret the archive's technical data, replicate experiments, and communicate meaningfully with other resilient communities. Without a shared measurement standard, technical documents become ambiguous and engineering tolerances become guesswork.
+
+```text
+       THREE-TIER KNOWLEDGE PRESERVATION PYRAMID
+
+                       ┌────────────────────┐
+                       │      TIER 3        │
+                       │  CIVILIZATION-     │
+                       │    ADVANCING       │
+                       │ science · math ·   │
+                       │ philosophy · arts ·│
+                       │ history            │
+                       │                    │
+                       │ ≥1 durable copy    │
+                    ┌──┴────────────────────┴──┐
+                    │        TIER 2            │
+                    │   CIVILIZATION-          │
+                    │    SUSTAINING            │
+                    │ metallurgy · governance ·│
+                    │ SI measurement · biology │
+                    │ classification · textiles│
+                    │ education methods        │
+                    │                          │
+                    │ ≥2 copies, durable media │
+                 ┌──┴──────────────────────────┴──┐
+                 │           TIER 1                │
+                 │      SURVIVAL-CRITICAL          │
+                 │                                 │
+                 │ water purification · food       │
+                 │ production · medical protocols ·│
+                 │ fire-making · shelter · sanitn. │
+                 │                                 │
+                 │ ≥3 copies, durable media,       │
+                 │ physically separate locations   │
+                 └─────────────────────────────────┘
+
+   Preservation resources flow BOTTOM UP — Tier 1 funded first.
+   When stone is scarce: inscribe Tier 1 on stone,
+   write Tier 2 on vellum, use paper for Tier 3 working copies.
+   No tier is unimportant — but the order of investment is fixed.
+```
 
 ### The Archive as Institution
 
@@ -138,6 +215,50 @@ The archive room should be located in the most structurally sound building in th
 
 Interior layout should include: sturdy shelving along three walls (stone, brick, or hardwood — not softwood, which off-gasses acids), a central work table for consultation and copying, and sealed storage containers (fired clay vessels or tight-lidded wooden chests) for the most critical materials. A wet-bulb/dry-bulb thermometer pair should be maintained to monitor humidity.
 
+```text
+       THE ARCHIVE ROOM — CROSS-SECTION (minimum 3 m × 4 m)
+
+     north-facing            fire-resistant vaulted roof
+     window — no             (stone or clay — NO exposed timber)
+     direct sunlight
+            │                       ┌──────────────┐
+            ▼                       │              │
+       ──────╗               ╔══════╧══════════════╧═════╗
+             ╠═══════════════╣                            ║
+             ║   ┌─────────┐ ║  ┌──────────┐  ┌────────┐  ║
+             ║   │  STONE  │ ║  │  FIRED   │  │ VELLUM │  ║  ← shelving
+             ║   │ TABLETS │ ║  │   CLAY   │  │ CHESTS │  ║    on stone,
+             ║   │  TIER 1 │ ║  │  TIER 2  │  │ sealed │  ║    brick, or
+             ║   └─────────┘ ║  └──────────┘  │ TIER 2 │  ║    hardwood
+             ║               ║                └────────┘  ║    (NO soft-
+             ║   ┌─────────────── WORK TABLE ─────────┐   ║    wood — it
+             ║   │  catalog · wet/dry-bulb hygrometer │   ║    off-gasses
+             ║   │  consultation · copying station   │   ║    acid)
+             ║   └───────────────────────────────────┘   ║
+             ║                                            ║
+             ║   ┌──────────┐    ┌──────────┐             ║
+             ║   │  PAPER   │    │  DAILY   │             ║
+             ║   │  TIER 3  │    │  JOURNAL │             ║
+             ║   │ working  │    │          │             ║
+             ║   └──────────┘    └──────────┘             ║
+             ║         15 cm clearance above floor        ║  ← raised
+             ║━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━║    shelving
+             ║░░░░░░░░░░░  stone or compacted earth  ░░░░░║    blocks
+             ║░░░░░░░░░░░░░░░░  floor  ░░░░░░░░░░░░░░░░░░░║    vermin
+   ══════════╩════════════════════════════════════════════╩══════
+        earth-berm / partial below-grade for thermal stability
+        ──────────────────────────────────────────────────────
+
+   PARAMETERS:
+     Relative humidity:   < 60 %   (above this → mold on paper/vellum)
+     Temperature:         10–20 °C, daily fluctuation minimised
+     Access:              SINGLE controlled, lockable entry
+     Adjacency rule:      NEVER shares a wall with kitchen, forge,
+                          or any other fire-intensive workspace.
+     Lighting:            north-facing windows + oil lamps with
+                          ventilation (UV degrades paper; soot stains)
+```
+
 ### The Master Ledger
 
 The Master Ledger is the settlement's primary knowledge document — this manual, hand-copied onto the most durable available medium. It is not a single book. The Master Ledger is organized by Outcome, matching this manual's structure, with each section bound as a separate volume.
@@ -189,6 +310,50 @@ This section of the archive is organized into the following sub-modules, each ad
 - **[04. Papermaking and Ink](04_Papermaking_and_Ink.md):** Producing durable information-storage media from locally available plant fibers and mineral pigments. This module covers the full production chain from raw fiber harvesting through pulp preparation, sheet forming, pressing, drying, and ink formulation, with emphasis on acid-free techniques that maximize document longevity.
 
 Together, these three sub-modules form the core of the archive: the laws governing reality, the diagnostic framework for identifying problems, and the physical medium on which all of it is recorded.
+
+```text
+        REDUNDANCY MAP — SURVIVING SINGLE-SITE LOSS
+
+                       ┌──────────────────────┐
+                       │    MAIN ARCHIVE      │
+                       │  (settlement core,   │
+                       │   the Archivist)     │
+                       │   T1 + T2 + T3       │
+                       └──────────┬───────────┘
+                                  │
+                   ┌──────────────┼──────────────┐
+                   │              │              │
+                   ▼              ▼              ▼
+          ┌──────────────┐ ┌──────────────┐ ┌──────────────┐
+          │  SECONDARY   │ │   DISTANT    │ │  HARDENED    │
+          │  outbuilding │ │  allied site │ │  fired-clay  │
+          │  ≥ 30 m from │ │  ≥ 1 km away │ │  vault OR    │
+          │  main archive│ │  (root cellar│ │  sealed cave │
+          │              │ │   or hamlet) │ │  upslope     │
+          │              │ │              │ │              │
+          │  T1: copy    │ │  T1: copy    │ │  T1: copy    │
+          │  T2: copy    │ │  T2: copy    │ │  (T1 only —  │
+          │  T3: optional│ │  T3: optional│ │   space tight│
+          └──────────────┘ └──────────────┘ └──────────────┘
+
+   ────────────────────────────────────────────────────────────
+   FAILURE-MODE COVERAGE:
+
+   Fire at main core      ──► secondary + distant + hardened survive
+   Flood at low ground    ──► distant + upslope hardened survive
+   Vermin in one chest    ──► catalog flags loss; refill from copies
+   Political seizure      ──► distant + hardened are out of reach
+   Generational neglect   ──► hardened survives unattended decades
+
+   ────────────────────────────────────────────────────────────
+   COPY POLICY (non-negotiable):
+
+   Tier 1 → ≥3 copies on stone or fired clay, separate sites
+   Tier 2 → ≥2 copies on vellum or fired clay, separate sites
+   Tier 3 → ≥1 durable copy + working paper copy in main archive
+
+   RULE: NO TWO COPIES IN THE SAME BUILDING — ever.
+```
 
 ## Common Failure Modes
 
