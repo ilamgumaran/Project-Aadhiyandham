@@ -33,6 +33,32 @@
 <p><strong>Second Law — Entropy Always Increases.</strong> In any energy conversion within an isolated system, the total entropy (disorder, randomness) of the system either increases or remains the same; it never decreases. The practical consequences are profound. First, every energy conversion produces waste heat — no machine can be 100% efficient. Second, heat flows spontaneously from hot bodies to cold bodies, but never from cold to hot without work input (this is why a cup of tea cools to room temperature but a cup of cold water never spontaneously heats itself). Third, perpetual motion machines of the second kind — devices that convert thermal energy entirely into work with no cold reservoir — are impossible. The Second Law is what makes time asymmetric: broken eggs do not reassemble, mixed paints do not unmix, and burned wood does not reconstitute. For a settlement, the Second Law means that every energy system will waste some fraction of its input as unusable heat, and engineering is the discipline of minimizing that fraction.</p>
 <p><strong>Third Law — Absolute Zero Is Unattainable.</strong> The entropy of a perfect crystal at absolute zero (0 K, or -273.15 degrees C) is exactly zero. No finite sequence of processes can reduce the temperature of a system to absolute zero. While this law has little direct practical application in a post-collapse settlement, it establishes the lower boundary of the temperature scale and confirms that there is a floor to how cold matter can get — and that floor cannot be reached.</p>
 <p>For settlement engineering, the First and Second Laws carry the greatest weight. The First Law tells you how much energy you need. The Second Law tells you how much you will inevitably lose.</p>
+<pre><code class="language-text">
+       THE TWO LAWS THAT GOVERN EVERY SETTLEMENT MACHINE
+
+   FIRST LAW — CONSERVATION          SECOND LAW — DIRECTION
+   &quot;you cannot win&quot;                  &quot;you cannot break even&quot;
+
+      ┌───────────┐                     HOT ████ 600 °C forge
+      │  ENERGY   │                          │
+      │    IN     │ 100 units               │  heat flows DOWNHILL
+      └─────┬─────┘                          ▼  spontaneously, free
+            │                           COLD ░░░░ 20 °C room
+      ┌─────▼─────┐
+      │  MACHINE  │                          ▲  heat flows UPHILL
+      └─────┬─────┘                          │  ONLY by paying
+            │                                │  WORK (a pump,
+   ┌────────┴────────┐                  COLD ░░░░ a heat engine)
+   ▼                 ▼                       │
+ useful work     waste heat            ════════════════════════
+  ≤ 100 units    (the balance)         A cup of tea cools to the
+                                       room every time. The room
+   IN  =  USEFUL  +  WASTE             never spontaneously heats
+   (nothing is created or lost)        the tea. Time runs one way.
+
+   CONSEQUENCE: no machine is 100% efficient. Every transformation
+   pays a mandatory tax in waste heat. Engineering = minimising it.
+</code></pre>
 <h3 id="energy-forms-and-conversions">Energy Forms and Conversions</h3>
 <p>Energy exists in several interconvertible forms, each relevant to settlement operations:</p>
 <ul>
@@ -53,6 +79,31 @@
 <p>An efficiency of 100% is thermodynamically impossible for any heat engine. The theoretical maximum efficiency for a heat engine operating between a hot source at temperature T_h and a cold sink at temperature T_c is the Carnot efficiency:</p>
 <p>η_Carnot = 1 - (T_c / T_h)</p>
 <p>where temperatures are in Kelvin. Real engines always fall below the Carnot limit due to friction, turbulence, and imperfect heat transfer.</p>
+<p>Not all energy is equally useful. A joule of mechanical shaft power can do anything a joule of low-grade warmth can do, and more besides — but the reverse is not true. Energy has <em>quality</em> as well as quantity, and every conversion flows downhill from high quality to low. The settlement must spend its high-quality energy only where nothing cheaper will serve:</p>
+<pre><code class="language-text">
+       THE ENERGY QUALITY LADDER — spend from the BOTTOM up
+
+   HIGH QUALITY  ┃ ELECTRICITY / SHAFT POWER                ┃  reserve for
+   (concentrated,┃   milling · sawing · forging · pumping   ┃  tasks that
+    can do any   ┃   ▲ can be converted to ANY lower form    ┃  REQUIRE it
+    task)        ┃   │                                       ┃
+                 ┃ ELEVATED WATER / WIND / DRAFT POWER       ┃
+                 ┃   lifting · grinding · threshing          ┃
+                 ┃   │ each step DOWN is easy and free       ┃
+                 ┃   │ each step UP costs work + waste heat   ┃
+                 ┃ HIGH-TEMPERATURE HEAT (forge, kiln)       ┃
+                 ┃   smelting · firing · lime burning        ┃
+                 ┃   │                                       ┃
+                 ┃ LOW-TEMPERATURE HEAT (warm water, sun)    ┃
+   LOW QUALITY   ┃   ▼ washing · drying · space warming      ┃  use the
+   (dispersed,   ┃ WASTE HEAT / AMBIENT (room temperature)   ┃  CHEAPEST
+    can only     ┃   ░░ no longer able to do useful work ░░  ┃  source that
+    warm things) ┃                                           ┃  works
+
+   RULE: never burn scarce firewood (high) to warm wash water (low)
+         when a black barrel in sunlight does the same job for free.
+         MATCH the quality of the source to the quality of the task.
+</code></pre>
 <h3 id="entropy-and-the-energy-tax">Entropy and the Energy Tax</h3>
 <p>Every energy conversion pays a tax. Friction becomes heat. Turbulence becomes heat. Sound becomes heat. Vibration becomes heat. Every intermediate step between the energy source and the useful work output degrades the total energy available. This is the "energy tax" — the Second Law's non-negotiable levy on every transformation.</p>
 <p>The mathematics of chained conversions are unforgiving. If a system has N conversion steps, each operating at efficiency eta, the overall system efficiency is:</p>
@@ -64,6 +115,33 @@
 <p>That single eliminated step recovers 9 percentage points of efficiency — in a settlement with limited energy, this could represent the difference between grinding enough grain for the community or falling short.</p>
 <p>This is why the "Direct Work" principle matters above almost all other engineering considerations. Fewer conversions mean less waste. The most efficient system is one that connects the energy source to the task with the fewest possible intermediate steps. A water wheel directly driving a millstone through a single shaft is vastly superior to a water wheel driving a generator, charging a battery, powering a motor, turning a belt, spinning a millstone — even if every individual component in the longer chain is well-engineered.</p>
 <p>The settlement's entire energy strategy must be organized around minimizing conversion chains. Every proposed system should be evaluated not just on whether it works, but on how many conversion steps it requires and whether any can be eliminated.</p>
+<pre><code class="language-text">
+       CONVERSION-CHAIN DECAY — why every extra step bleeds power
+       (each step a generous 85% efficient; total = 0.85^N)
+
+   N=1  ████████████████████████████████████████████  85%   direct drive
+   N=2  ██████████████████████████████████████        72%
+   N=3  ████████████████████████████████              61%
+   N=4  ███████████████████████████                   52%   ← half gone
+   N=5  ███████████████████████                       44%
+   N=6  ███████████████████                           38%
+   N=7  ████████████████                              32%
+        └────────────────────────────────────────────────►
+        0%                                              100%
+        delivered to the actual task (grain, timber, iron)
+
+   ┌─────────────────────────────────────────────────────────┐
+   │ LONG CHAIN (5 steps, 44% delivered):                    │
+   │   water→wheel→generator→battery→motor→belt→MILLSTONE     │
+   │                                                          │
+   │ SHORT CHAIN (2 steps, 72% delivered):                   │
+   │   water→wheel──shaft──►MILLSTONE                         │
+   └─────────────────────────────────────────────────────────┘
+
+   Even if EVERY component is &quot;well-engineered,&quot; the long chain
+   delivers 28 fewer units per 100. Eliminate steps before you
+   optimise the ones that remain.
+</code></pre>
 <h3 id="historical-energy-systems">Historical Energy Systems</h3>
 <p>Before the fossil fuel era, all human civilizations operated on solar income: energy delivered by the sun in real time through food, wood, water flow, and wind. No society drew on millions of years of stored solar energy in the form of coal, oil, or natural gas. The post-collapse settlement returns to this pre-industrial energy regime and must plan accordingly.</p>
 <p>Historical benchmarks provide essential context for realistic energy planning:</p>
@@ -74,6 +152,26 @@
 <li><strong>Medieval windmills</strong>: typical output of 5-15 kW of useful mechanical power in favorable winds. Unreliable due to wind variability but valuable where water power was unavailable.</li>
 </ul>
 <p>A settlement of 100 people has approximately 100 x 75 W = 7,500 W (7.5 kW) of total human mechanical power available during working hours. This is less than a single modern car engine (typically 75-150 kW). Even with draft animals and water power supplementing human labor, the total energy budget of a post-collapse settlement is extraordinarily small by modern standards. This scarcity makes efficiency not merely desirable but survival-critical. Every watt lost to friction, poor alignment, or unnecessary conversion steps is a watt stolen from food production, shelter maintenance, or tool manufacturing.</p>
+<pre><code class="language-text">
+       SUSTAINED MECHANICAL POWER — pre-industrial sources to scale
+       (each █ ≈ 75 W, one healthy human&#x27;s continuous output)
+
+   One human (75 W)        █
+   Draft horse (750 W)     ██████████                     = 10 humans
+   Medieval windmill       ██████████████████████ ~        5–15 kW, gusty
+   Small overshot wheel    ████████████████ ~              1.25 kW steady
+   ──────────────────────────────────────────────────────────────────
+   Whole settlement of     ████████████████████████████████████████████
+   100 people (7.5 kW)     ████████████████████████████████████████████
+                           ~ 100 humans at once, daylight hours only
+   ──────────────────────────────────────────────────────────────────
+   ONE modern car engine   ████████████████████████ ... ×40 off this page
+   (~100 kW)               (the entire industrial gift you no longer have)
+
+   Roman Barbegal mill complex (16 overshot wheels) fed a city of 12,500.
+   LESSON: the budget is tiny. Water + wind multiply scarce muscle —
+   build them first, and never waste a watt the body had to earn.
+</code></pre>
 <h2 id="core-principles">Core Principles</h2>
 <ol>
 <li><strong>Conservation Is Absolute.</strong> You cannot get more energy out of a system than you put in. This is the First Law, and it has no exceptions. Any claim to the contrary is either wrong or concealing an energy input. If a device appears to produce free energy, look for the hidden source: stored spring tension, a thermal gradient, chemical potential in a fuel, or simple measurement error. Perpetual motion machines do not exist and never will.</li>

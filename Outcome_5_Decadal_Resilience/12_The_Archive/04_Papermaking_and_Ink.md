@@ -39,6 +39,34 @@ The simplified reaction:
 
 The color change is diagnostic: fresh ink appears pale grey-purple on the page. Over the following hours, it darkens progressively to deep black as oxidation proceeds. A document written in the morning will be noticeably darker by evening. Full darkening takes 24-48 hours.
 
+```text
+       IRON GALL INK — two-stage reaction you can watch happen
+
+   OAK GALL                IRON in vinegar
+   (gallic acid, 50–70%)   (Fe²⁺ dissolved)
+        │                       │
+        ▼                       ▼
+   ┌─────────────────────────────────┐
+   │ STAGE 1 — CHELATION (instant)   │   on the page:
+   │  gallic acid + Fe²⁺  ──►         │   ┌─────────────┐
+   │  iron(II) gallotannate          │   │ pale grey-  │  written
+   │  (SOLUBLE, pale grey-purple)    │   │ purple ink  │  this morning
+   └────────────────┬────────────────┘   └─────────────┘
+                    │  + O₂ from the air (hours)
+                    ▼
+   ┌─────────────────────────────────┐   ┌─────────────┐
+   │ STAGE 2 — OXIDATION (24–48 h)   │   │ DEEP BLACK  │  same words
+   │  Fe²⁺ ──[O₂]──► Fe³⁺            │   │ ▓▓▓▓▓▓▓▓▓▓▓ │  by evening
+   │  iron(III) gallotannate         │   └─────────────┘
+   │  (INSOLUBLE, deep blue-black)   │
+   └─────────────────────────────────┘   WHY IT LASTS 800 YEARS:
+                                          the complex BURNS INTO the
+   BALANCE: gall : iron ≈ 2 : 1           cellulose — the ink IS the
+   too much iron → H₂SO₄ byproduct        paper at the molecular level,
+   eats LACE HOLES through the page;      not sitting on top like carbon.
+   target finished pH 2.5–3.5.            (Magna Carta · da Vinci · Bach)
+```
+
 The permanence mechanism is what makes iron gall ink irreplaceable for archival purposes. Unlike carbon ink, which sits as particles on the paper surface and can be rubbed or washed off, iron gall ink is a corrosive chemical complex. When applied to paper, the iron-tannin complex physically burns into the cellulose fibers — it penetrates the fiber structure and bonds chemically with the hydroxyl groups of cellulose. The ink IS the paper at the molecular level. This is why historical documents written in iron gall ink remain perfectly legible after centuries, while carbon-based inks on the same documents have faded or rubbed away.
 
 The acid danger is the other side of this coin. The reaction produces sulfuric acid (H2SO4) as a byproduct, and excess unreacted iron acts as a catalyst for further acid generation. If the iron-to-tannin ratio is too high, the excess acid will literally burn holes through the paper over years. The finished ink should have a pH of 2.5-3.5 — acidic enough to be reactive and permanent, but balanced enough that the acid load does not overwhelm the paper's buffering capacity. If your ink has a strong, sharp metallic smell and looks rusty brown instead of dark purple, it is too iron-heavy. Add more gall extract to bind the excess iron.
@@ -88,6 +116,42 @@ Not every writing task requires archival permanence. Iron gall ink is slow to pr
 
 ### Papermaking — Step by Step
 
+The full pipeline turns standing bark or worn rags into a sized writing sheet through eight stages. Each stage has one job; skipping or rushing any one shows up as a defect in the finished sheet:
+
+```text
+       FROM BARK TO PAGE — the papermaking pipeline
+
+   ① FIBRE          ② COOK (lye)       ③ BEAT
+   bark / rags      90–100 °C, 2–4 h   mallet 30–60 min
+   ┌──────┐  strip  ┌──────────┐ lignin┌──────────┐ fibres
+   │▒▒▒▒▒▒│ ──────► │ ≈≈ KOH ≈≈ │ ────► │  pound   │ ──────►
+   │ bast │         │  dissolves│ out   │ to slurry│ separate
+   └──────┘         └──────────┘        └──────────┘
+                                                      │
+        ┌─────────────────────────────────────────────┘
+        ▼
+   ④ VAT            ⑤ PULL (mould+    ⑥ COUCH
+   1–2% fibre +     deckle, shake)    flip onto felt
+   CaCO₃ buffer     ┌──────────┐      ┌──────────┐
+   ┌──────────┐     │ ░░░░░░░░ │mesh  │ wet sheet│
+   │ ~~~~~~~~ │ ──► │ ┌──────┐ │ ───► │ on felt  │ ──────►
+   │ cloudy   │     │ │sheet │ │ lift │ stack    │
+   │ "soup"   │     │ └──────┘ │      └──────────┘
+   └──────────┘     └──────────┘                  │
+        ┌──────────────────────────────────────────┘
+        ▼
+   ⑦ PRESS          ⑧ DRY              SIZE (starch/gelatin)
+   ≥50 kg, 2–4 h    24–48 h, no sun    seal surface vs. bleed
+   ┌──────────┐     ┌──────────┐       ┌──────────┐
+   │ ▼▼▼▼▼▼▼▼ │ ──► │ ║ ║ ║ ║  │ ────► │ dip+dry  │ ──► PAGE ✓
+   │ squeeze  │     │ hang/lay │       │ ink-ready│
+   └──────────┘     └──────────┘       └──────────┘
+
+   DEFECT MAP: under-cooked → yellows & cracks (lignin acid);
+   under-beaten → weak, tears; no buffer → acid death in decades;
+   no size → ink bleeds illegibly; damp storage → mould eats it.
+```
+
 #### 1. Fiber Sourcing
 
 Fiber quality is ranked by fiber length and cellulose purity:
@@ -101,6 +165,23 @@ Fiber quality is ranked by fiber length and cellulose purity:
 | Softwood bark | 1-3 mm | Poor | Short fibers; avoid if possible |
 
 For bast fibers: harvest inner bark from mulberry, basswood, or hemp stalks. Strip the outer bark, then peel the soft inner bark in long strips. For rag paper: collect worn-out 100% cotton or linen clothing. Cut into 2-3 cm squares. Both sources produce excellent paper.
+
+```text
+       FIBRE LENGTH = PAPER STRENGTH (longer fibres span more bonds)
+
+   Flax / linen rags  ████████████████████████████████  25–65 mm  ★ best
+   Cotton rags        ████████████████████              15–40 mm
+   Mulberry (kozo)    ████████████                      15–25 mm  ★ washi
+   Hemp               ████████████                      15–25 mm
+   Softwood pulp      █▌                                  1–3 mm   ✗ avoid
+                      └──────────────────────────────────────────►
+                      a long fibre crosses MANY junctions, locking
+                      into millions of hydrogen bonds; a 1 mm wood
+                      fibre barely bridges one — the sheet crumbles.
+
+   Newsprint (short, lignin-rich wood) yellows in YEARS.
+   Rag/bast paper lasts CENTURIES. Always prefer bast & rag over wood.
+```
 
 #### 2. Cooking and Retting
 
@@ -131,6 +212,28 @@ Add alkaline buffer at this stage: stir in ground limestone or chalk (calcium ca
 #### 5. Sheet Forming with the Mould and Deckle
 
 The mould is a wooden frame with a fine mesh stretched across it. The deckle is a matching empty frame that sits on top to contain the pulp and define the sheet edges. Together, these two frames are the most important tools in the papermaking workshop. Guard them carefully — a damaged mesh means no paper production until it is repaired.
+
+```text
+       THE MOULD & DECKLE — and the pull that forms a sheet
+
+   ASSEMBLED (side view)              THE PULL — one smooth motion
+   ┌─ DECKLE (open frame, ┐          ① dip at 45°   ② lift level
+   │  defines edges) ─────┐│             ╲              ┌────────┐
+   ┃══════════════════════┃│             ╲ ~~~~~~~~     │░ wet  ░│ shake
+   ┃  ░░░ pulp settles ░░░ ┃│  ╔════════╗ ╲~~vat~~~     │░ sheet░│ ↔ + ↕
+   ┃──────────────────────┃│  ║~~~~~~~~~║──╲~~~~~~~~     │░ on   ░│ to lock
+   ┃▓▓▓▓ MESH 20–30 ▓▓▓▓▓▓┃│  ║~~~~~~~~~║   ▼           │░ mesh ░│ fibres
+   ┃▓▓▓ threads/cm ▓▓▓▓▓▓▓┃│  ╚════════╝ submerge       └────────┘
+   └─ MOULD (mesh on frame)┘     fully, then lift        drain 15–30 s
+        │        │                horizontally           water falls
+        ▼ water drains through                            through mesh
+        the mesh; fibres stay on top = the sheet
+
+   COUCH: flip mould face-down onto a DAMP felt, press, lift away —
+          the wet sheet releases to the felt. Stack felt/sheet/felt.
+   THE SHAKE (↔ then ↕) cross-links fibres in all directions → paper
+   equally strong every way. Skip it and the sheet tears along one axis.
+```
 
 **Construction:** Build the frame from straight-grained hardwood strips, 25 x 35 cm (roughly A4 size). The wood must be smooth and flat — any warping produces uneven sheets. Join the corners with mortise-and-tenon or half-lap joints and seal with waterproof glue or tight lashing.
 
@@ -209,6 +312,25 @@ Carbon ink is the simplest permanent ink and requires no specialized materials.
 ### Writing Tools
 
 **The quill pen:** Select a large flight feather from the leading edge of the wing — goose, turkey, or crow feathers work well. The five outermost primary feathers are strongest. Strip the barbs from the lower 5-7 cm of the shaft. Cure the barrel by plunging it into hot sand (approximately 150 degrees C) for 10 seconds — this hardens the keratin and makes it easier to cut. Cut the nib: slice the tip at a 45-degree angle with a sharp knife. Make a 3-5 mm slit up the center of the cut face for ink flow. Shape the writing tip to desired width — broader for headings, narrower for text. A well-cut quill writes smoothly for 1-2 pages before the nib needs re-cutting.
+
+```text
+       CUTTING A QUILL NIB — four cuts turn a feather into a pen
+
+   ① strip barbs,        ② first cut:        ③ slit:           ④ shape tip:
+     cure in hot sand      45° scoop off       3–5 mm up the     trim each
+     (~150 °C, 10 s)       the underside       centre — this     corner square
+                                               carries the ink   to set width
+   ░░░╲ barbs                                   │                 │
+   ────┤▌▌▌▌▌▌▌█        ────────────▟         ────────────▟▏    ────────────◣
+       hollow shaft     hollow ┊ 45° scoop    slit ┊┊ channel   ┊┊ writing edge
+       (the ink         ┊ reservoir           ▲ capillary       ◄─►  broad=titles
+        reservoir)      ┊                      draws ink down     narrow=text
+
+   INK PATH: well → hollow barrel reservoir → down the slit by capillary
+   action → onto the page at the squared tip. Re-cut when the tip splits
+   past the slit or goes blunt; keep the "pen knife" razor-sharp for this.
+   Rinse the tip after writing — iron gall ink solidifies as it oxidises.
+```
 
 **The reed pen:** Cut a section of dry reed or bamboo, approximately 20 cm long and 8-12 mm in diameter. Shape the writing end identically to a quill: 45-degree cut, 3-5 mm center slit. Reed pens are stiffer than quills and produce bolder lines. They wear faster but are easier to replace.
 

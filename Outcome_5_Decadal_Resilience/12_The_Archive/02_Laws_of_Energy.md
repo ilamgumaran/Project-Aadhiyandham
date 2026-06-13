@@ -30,6 +30,33 @@ where ΔU is the change in internal energy, Q is heat added to the system, and W
 
 For settlement engineering, the First and Second Laws carry the greatest weight. The First Law tells you how much energy you need. The Second Law tells you how much you will inevitably lose.
 
+```text
+       THE TWO LAWS THAT GOVERN EVERY SETTLEMENT MACHINE
+
+   FIRST LAW — CONSERVATION          SECOND LAW — DIRECTION
+   "you cannot win"                  "you cannot break even"
+
+      ┌───────────┐                     HOT ████ 600 °C forge
+      │  ENERGY   │                          │
+      │    IN     │ 100 units               │  heat flows DOWNHILL
+      └─────┬─────┘                          ▼  spontaneously, free
+            │                           COLD ░░░░ 20 °C room
+      ┌─────▼─────┐
+      │  MACHINE  │                          ▲  heat flows UPHILL
+      └─────┬─────┘                          │  ONLY by paying
+            │                                │  WORK (a pump,
+   ┌────────┴────────┐                  COLD ░░░░ a heat engine)
+   ▼                 ▼                       │
+ useful work     waste heat            ════════════════════════
+  ≤ 100 units    (the balance)         A cup of tea cools to the
+                                       room every time. The room
+   IN  =  USEFUL  +  WASTE             never spontaneously heats
+   (nothing is created or lost)        the tea. Time runs one way.
+
+   CONSEQUENCE: no machine is 100% efficient. Every transformation
+   pays a mandatory tax in waste heat. Engineering = minimising it.
+```
+
 ### Energy Forms and Conversions
 
 Energy exists in several interconvertible forms, each relevant to settlement operations:
@@ -56,6 +83,33 @@ An efficiency of 100% is thermodynamically impossible for any heat engine. The t
 
 where temperatures are in Kelvin. Real engines always fall below the Carnot limit due to friction, turbulence, and imperfect heat transfer.
 
+Not all energy is equally useful. A joule of mechanical shaft power can do anything a joule of low-grade warmth can do, and more besides — but the reverse is not true. Energy has *quality* as well as quantity, and every conversion flows downhill from high quality to low. The settlement must spend its high-quality energy only where nothing cheaper will serve:
+
+```text
+       THE ENERGY QUALITY LADDER — spend from the BOTTOM up
+
+   HIGH QUALITY  ┃ ELECTRICITY / SHAFT POWER                ┃  reserve for
+   (concentrated,┃   milling · sawing · forging · pumping   ┃  tasks that
+    can do any   ┃   ▲ can be converted to ANY lower form    ┃  REQUIRE it
+    task)        ┃   │                                       ┃
+                 ┃ ELEVATED WATER / WIND / DRAFT POWER       ┃
+                 ┃   lifting · grinding · threshing          ┃
+                 ┃   │ each step DOWN is easy and free       ┃
+                 ┃   │ each step UP costs work + waste heat   ┃
+                 ┃ HIGH-TEMPERATURE HEAT (forge, kiln)       ┃
+                 ┃   smelting · firing · lime burning        ┃
+                 ┃   │                                       ┃
+                 ┃ LOW-TEMPERATURE HEAT (warm water, sun)    ┃
+   LOW QUALITY   ┃   ▼ washing · drying · space warming      ┃  use the
+   (dispersed,   ┃ WASTE HEAT / AMBIENT (room temperature)   ┃  CHEAPEST
+    can only     ┃   ░░ no longer able to do useful work ░░  ┃  source that
+    warm things) ┃                                           ┃  works
+
+   RULE: never burn scarce firewood (high) to warm wash water (low)
+         when a black barrel in sunlight does the same job for free.
+         MATCH the quality of the source to the quality of the task.
+```
+
 ### Entropy and the Energy Tax
 
 Every energy conversion pays a tax. Friction becomes heat. Turbulence becomes heat. Sound becomes heat. Vibration becomes heat. Every intermediate step between the energy source and the useful work output degrades the total energy available. This is the "energy tax" — the Second Law's non-negotiable levy on every transformation.
@@ -78,6 +132,34 @@ This is why the "Direct Work" principle matters above almost all other engineeri
 
 The settlement's entire energy strategy must be organized around minimizing conversion chains. Every proposed system should be evaluated not just on whether it works, but on how many conversion steps it requires and whether any can be eliminated.
 
+```text
+       CONVERSION-CHAIN DECAY — why every extra step bleeds power
+       (each step a generous 85% efficient; total = 0.85^N)
+
+   N=1  ████████████████████████████████████████████  85%   direct drive
+   N=2  ██████████████████████████████████████        72%
+   N=3  ████████████████████████████████              61%
+   N=4  ███████████████████████████                   52%   ← half gone
+   N=5  ███████████████████████                       44%
+   N=6  ███████████████████                           38%
+   N=7  ████████████████                              32%
+        └────────────────────────────────────────────────►
+        0%                                              100%
+        delivered to the actual task (grain, timber, iron)
+
+   ┌─────────────────────────────────────────────────────────┐
+   │ LONG CHAIN (5 steps, 44% delivered):                    │
+   │   water→wheel→generator→battery→motor→belt→MILLSTONE     │
+   │                                                          │
+   │ SHORT CHAIN (2 steps, 72% delivered):                   │
+   │   water→wheel──shaft──►MILLSTONE                         │
+   └─────────────────────────────────────────────────────────┘
+
+   Even if EVERY component is "well-engineered," the long chain
+   delivers 28 fewer units per 100. Eliminate steps before you
+   optimise the ones that remain.
+```
+
 ### Historical Energy Systems
 
 Before the fossil fuel era, all human civilizations operated on solar income: energy delivered by the sun in real time through food, wood, water flow, and wind. No society drew on millions of years of stored solar energy in the form of coal, oil, or natural gas. The post-collapse settlement returns to this pre-industrial energy regime and must plan accordingly.
@@ -90,6 +172,27 @@ Historical benchmarks provide essential context for realistic energy planning:
 - **Medieval windmills**: typical output of 5-15 kW of useful mechanical power in favorable winds. Unreliable due to wind variability but valuable where water power was unavailable.
 
 A settlement of 100 people has approximately 100 x 75 W = 7,500 W (7.5 kW) of total human mechanical power available during working hours. This is less than a single modern car engine (typically 75-150 kW). Even with draft animals and water power supplementing human labor, the total energy budget of a post-collapse settlement is extraordinarily small by modern standards. This scarcity makes efficiency not merely desirable but survival-critical. Every watt lost to friction, poor alignment, or unnecessary conversion steps is a watt stolen from food production, shelter maintenance, or tool manufacturing.
+
+```text
+       SUSTAINED MECHANICAL POWER — pre-industrial sources to scale
+       (each █ ≈ 75 W, one healthy human's continuous output)
+
+   One human (75 W)        █
+   Draft horse (750 W)     ██████████                     = 10 humans
+   Medieval windmill       ██████████████████████ ~        5–15 kW, gusty
+   Small overshot wheel    ████████████████ ~              1.25 kW steady
+   ──────────────────────────────────────────────────────────────────
+   Whole settlement of     ████████████████████████████████████████████
+   100 people (7.5 kW)     ████████████████████████████████████████████
+                           ~ 100 humans at once, daylight hours only
+   ──────────────────────────────────────────────────────────────────
+   ONE modern car engine   ████████████████████████ ... ×40 off this page
+   (~100 kW)               (the entire industrial gift you no longer have)
+
+   Roman Barbegal mill complex (16 overshot wheels) fed a city of 12,500.
+   LESSON: the budget is tiny. Water + wind multiply scarce muscle —
+   build them first, and never waste a watt the body had to earn.
+```
 
 ## Core Principles
 

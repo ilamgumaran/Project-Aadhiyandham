@@ -28,18 +28,23 @@
 <p>In 1840, the German chemist Justus von Liebig published <em>Organic Chemistry in Its Application to Agriculture and Physiology</em>, in which he demonstrated that plant growth is controlled not by the total amount of resources available, but by the scarcest resource — the limiting factor. A plant requires nitrogen, phosphorus, potassium, water, sunlight, and dozens of micronutrients. If all are abundant except phosphorus, the plant's growth will be limited by phosphorus alone, regardless of how much nitrogen or water is available. Adding more nitrogen to a phosphorus-deficient field produces no improvement whatsoever.</p>
 <p>This principle is best understood through the barrel analogy. Imagine a barrel made of staves of different heights. Each stave represents one required input. The water level inside the barrel represents system output — yield, quality, throughput, or whatever measure of performance matters.</p>
 <pre><code class="language-text">
-[ THE LIEBIG BARREL ]
+       THE LIEBIG BARREL — output is capped by the SHORTEST stave
 
-      |   | &lt;--- Sunlight (High stave)
-      |   |
-      |   | &lt;--- Nitrogen (Medium stave)
-      |   |
-      |---| &lt;--- WATER (THE LIMITING FACTOR / SHORT STAVE)
-      |   |
-      |   |
-      |___|
+      Sun  N    P    K  WATER  Lab            Sun  N    P    K  WATER Lab
+      ┃▓┃ ┃▓┃ ┃▓┃ ┃▓┃        ┃▓┃             ┃▓┃ ┃▓┃ ┃▓┃ ┃▓┃ ┃▓┃ ┃▓┃
+      ┃▓┃ ┃▓┃ ┃▓┃ ┃▓┃        ┃▓┃             ┃▓┃ ┃▓┃ ┃▓┃ ┃▓┃ ┃▓┃ ┃▓┃
+      ┃▓┠─┨▓┃ ┃▓┃ ┃▓┃        ┃▓┃             ┃▓┃ ┃▓┃ ┃▓┃ ┃▓┃ ┃▓┃ ┃▓┃
+      ┃≈≈≈≈≈≈≈≈≈≈≈┃ ◄level    ┃▓┃             ┃≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈┃ ◄level
+      ┃▓┃ ┃▓┃ ┃▓┃ ┃▓┃ ┌───┐  ┃▓┃             ┃▓┃ ┃▓┃ ┃▓┃ ┃▓┃ ┃▓┃ ┃▓┃ rose!
+      ┃▓┃ ┃▓┃ ┃▓┃ ┃▓┃ │ ◄─┼──┃▓┃             ┃▓┃ ┃▓┃ ┃▓┃ ┃▓┃ ┃▓┃ ┃▓┃
+      ┗━┻━┻━┻━┻━┻━┻━┷━━━┷━━┻━┛               ┗━┻━┻━┻━┻━┻━┻━┻━┻━┻━┻━┻━┛
+        WATER is the short stave.             Raise ONLY the short stave
+        Output cannot rise above it —         (build the irrigation
+        no matter how tall the rest.          channel) → whole barrel
+        Adding more sun/N/P/K = WASTED.       fills to the next-shortest.
 
-(The water level in the barrel can never rise above the shortest stave.)
+   The water level (= yield, throughput, quality) can never rise above
+   the shortest stave. Find the short stave. Raise it. Repeat.
 </code></pre>
 <p>The water level can never rise above the shortest stave. It does not matter how tall the other staves are. Adding more height to the tall staves (increasing abundant resources) does nothing to raise the water level. Only raising the shortest stave — the limiting factor — improves the system. This single image captures the entire principle: find the short stave, raise it, and the whole system improves.</p>
 <p>The implication for settlement management is direct. When crop yields decline, do not add more of everything. Find the short stave. When workshop output drops, do not buy new tools and train new apprentices and rebuild the furnace simultaneously. Find the short stave. When governance fails, do not rewrite the charter, extend meeting times, and restructure committees all at once. Find the short stave.</p>
@@ -67,6 +72,30 @@
 <li><strong>Season 3:</strong> With adequate water and nitrogen, phosphorus becomes limiting. Yields plateau at 65% of potential. The settlement begins processing bone meal and identifies a rock phosphate deposit. Phosphorus becomes sufficient.</li>
 <li><strong>Season 4:</strong> With adequate water, nitrogen, and phosphorus, labor becomes the limiting factor. There are not enough trained workers to manage the expanded fields during harvest. The constraint has shifted from a material input to a human one.</li>
 </ul>
+<pre><code class="language-text">
+       THE SHIFTING BOTTLENECK — yield climbs as each short stave is raised
+       (% of potential yield, season by season)
+
+   100% ┤                                    · · · · · ceiling
+        │                                ┌────┐ 80%
+    80% ┤                           ┌────┘ skill/labour now limits
+        │                      ┌────┘ 65%
+    60% ┤                 ┌────┘ phosphorus now limits
+        │            ┌────┘ 50%
+    40% ┤       ┌────┘ nitrogen now limits
+        │  ┌────┘ 30%
+    20% ┤──┘ water limits
+        └────┬─────────┬─────────┬─────────┬─────────►
+          SEASON 1  SEASON 2  SEASON 3  SEASON 4
+          dig the   sow cover  bone meal  train more
+          channel   crops +    + rock     harvest
+          (WATER)   compost    phosphate  hands
+                    (NITROGEN) (PHOSPH.)  (LABOUR)
+
+   Each fix reveals the NEXT constraint — this is the method working,
+   not failing. The constraint even jumps DOMAINS (material → human).
+   Solve one short stave per season; never spread effort across all four.
+</code></pre>
 <p>Each resolution reveals the next constraint. The settlement must cycle through Liebig's diagnostic regularly — not once, not annually, but as a continuous discipline of observation and testing. Progress is sequential, not simultaneous. The community that tries to solve all four of the above problems at once in Season 1 will spread its limited resources across four fronts and likely solve none of them adequately. The community that identifies water as the current short stave and directs all available labor toward the irrigation channel will solve that problem in one season and move on.</p>
 <h2 id="core-principles">Core Principles</h2>
 <ol>
@@ -150,6 +179,31 @@
 <li><strong>Interpretation:</strong> If the test area outperforms the control by a significant margin (more than 20% improvement), the suspected factor is confirmed as limiting. If performance is similar, reject the hypothesis and test the next suspect.</li>
 </ul>
 <p><strong>Step 4: Correct the Minimum.</strong> Once the limiting factor is confirmed by the pulse test, calculate the full-system requirement. If the test showed that tripling potassium input on 10% of the field increased yield by 40%, calculate how much potassium (wood ash) is needed for the remaining 90%. Develop a supply plan: source identification, labor allocation for collection and processing, application schedule. Focus 100% of the relevant labor budget on this single correction. Do not dilute effort by simultaneously addressing other inputs that are currently sufficient. After correction, return to Step 1 — the constraint has shifted, and a new inventory is needed.</p>
+<pre><code class="language-text">
+       THE DIAGNOSTIC LOOP — it never ends, and that is correct
+
+         ┌────────────────────────────────────────────────┐
+         │                                                 │
+         ▼                                                 │
+   ┌───────────┐    ┌───────────┐    ┌───────────┐    ┌─────┴─────┐
+   │ 1 INVENTORY│──►│ 2 RANK     │──►│ 3 PULSE    │──►│ 4 CORRECT  │
+   │ list EVERY │   │ scarce &amp;   │   │ TEST       │   │ the proven │
+   │ input;     │   │ unknown    │   │ treat 10%, │   │ minimum    │
+   │ mark each  │   │ inputs by  │   │ keep 90%   │   │ at full    │
+   │ abundant / │   │ essential- │   │ as control │   │ scale;     │
+   │ scarce /   │   │ ness +     │   │ → measure  │   │ 100% of    │
+   │ unknown    │   │ deficit    │   │ the result │   │ labour here│
+   └───────────┘    └───────────┘    └─────┬─────┘    └───────────┘
+                                           │
+                              ┌────────────┴────────────┐
+                              ▼                         ▼
+                        &gt;20% better?              no improvement?
+                        CONFIRMED — correct it    REJECT — test the
+                                                  next suspect (→ 2)
+
+   After every correction the constraint SHIFTS — so loop back to step 1.
+   &quot;Success is not permanent; it is sequential.&quot;
+</code></pre>
 <h3 id="agricultural-applications">Agricultural Applications</h3>
 <p>Agriculture is the most direct application of Liebig's Law, and the domain where the principle was discovered. The essential plant nutrients and their settlement-accessible sources are:</p>
 <table><thead><tr>
@@ -272,6 +326,26 @@
 <p>Cross-domain analysis often reveals root causes invisible to individual domains. If agriculture reports labor as the limiting factor and the workshop also reports labor as limiting, the root cause is not an agricultural problem or a workshop problem — it is a demographic or prioritization problem. The community may need to recruit, train young workers faster, or make hard choices about which domain receives labor priority this season.</p>
 <p>If agriculture reports water as limiting and the workshop reports fuel quality as limiting, these are independent constraints requiring separate solutions. The community can pursue both in parallel without conflict.</p>
 <p>If governance reports trust as limiting and education reports participation as limiting, these may share a common root: a segment of the community feels excluded from institutional processes. Addressing the trust deficit in governance may simultaneously resolve the participation deficit in education.</p>
+<pre><code class="language-text">
+       QUARTERLY CROSS-DOMAIN REVIEW — reading the pattern across domains
+
+   DOMAIN          CURRENT SHORT STAVE        ┌─ shared root? ─┐
+   ─────────────────────────────────────────────────────────────
+   Agriculture  →  LABOUR (harvest hands)  ──┐
+   Workshop     →  LABOUR (no bellows crew) ─┤── SAME factor in two
+   Health       →  Water quality             │   domains = NOT a farm
+   Education     →  Participation  ──────────┐│   or shop problem; it is
+   Governance   →  Trust  ───────────────────┘   a DEMOGRAPHIC / fairness
+                                              │   root → one fix, two cures
+   ─────────────────────────────────────────────────────────────
+   READING THE GRID:
+     • Same factor twice (Labour)  → one root cause; fix it once.
+     • Independent factors (Water vs Trust) → solve in parallel, no clash.
+     • Linked factors (Trust + Participation) → a shared exclusion root;
+       mending governance trust may also refill the classroom.
+
+   One domain&#x27;s diagnostic = a thermometer. The grid = the diagnosis.
+</code></pre>
 <p>The quarterly review transforms Liebig's Law from an individual diagnostic tool into a community-level strategic planning framework.</p>
 <p>Over several cycles, patterns emerge: recurring constraints reveal structural weaknesses that require long-term investment rather than seasonal fixes.</p>
 <p>Document each quarterly review in a permanent record. After two years (eight reviews), the record reveals seasonal patterns, persistent bottlenecks, and the trajectory of system improvement. This longitudinal data is among the most valuable planning tools the settlement possesses — it shows not just where the system is constrained today, but how the pattern of constraints has evolved over time and where it is likely to shift next.</p>
