@@ -36,11 +36,60 @@
 <p>Understanding the iron-carbon phase diagram is essential for any aspiring crucible steelmaker. This diagram maps the relationship between carbon content, temperature, and the resulting crystal structures --- it is the periodic table of steelmaking.</p>
 <p>Pure iron at room temperature exists as ferrite, a body-centered cubic (BCC) crystal structure that is soft, ductile, and nearly useless for cutting tools. Adding carbon transforms this soft metal through a series of phase changes that are the foundation of all steelmaking.</p>
 <p>Between 0.02% and 2.1% carbon by weight, the alloy is classified as steel. Below 0.02%, it remains wrought iron. Above 2.1%, the excess carbon forms graphite flakes or massive carbide networks, producing cast iron --- hard but brittle, unsuitable for edged tools. The critical transformation occurs at the eutectoid point: 0.76% carbon at 727 degrees C. At this composition, slow cooling from high temperature produces pearlite, a microscopic structure of alternating layers (lamellae) of soft ferrite and hard cementite (iron carbide, Fe3C). Pearlite is the workhorse structure of medium-carbon steel --- tough, reasonably hard, and forgeable.</p>
+<pre><code class="language-text">
+       SIMPLIFIED IRON–CARBON DIAGRAM — the map of steelmaking
+
+   T°C
+   1538┤●melt(pure Fe)                          LIQUID
+       │  ╲___                               ___╱
+   1450┤      ╲──── liquidus ────────────────╱ ◄ Wootz melts here (1.5% C)
+       │          ╲    γ AUSTENITE          ╱
+       │           ╲  (carbon dissolves)   ╱
+    912┤            ╲                      ╱
+       │   α+γ       ╲___                 ╱  γ + cementite
+    727┤━━━━━━━━━━━━━━━━━●━━━━━━━━━━━━━━━━━━━━━━━━  ◄ EUTECTOID LINE
+       │  FERRITE(α)    0.76%    PEARLITE forms below
+       │  soft, BCC      │       on slow cooling
+       │  + pearlite     │
+   room┤                 │
+       └───┬──────┬──────┼──────┬──────┬──────┬──────► carbon %
+          0.02   0.4   0.76    1.0   1.5    2.1
+          │wrought│ mild │  ▲    │ WOOTZ │  ▲   │cast iron
+          │ iron  │ steel│ eutec-│ 1–2%  │ hyper│(brittle)
+                          toid    hyper-eutectoid
+
+   WROUGHT IRON (&lt;0.08%): too soft for an edge.   CAST IRON (&gt;2.1%): brittle.
+   STEEL is the 0.02–2.1% window. WOOTZ sits deep in the HYPEREUTECTOID
+   zone — its excess carbon precipitates as the hard cementite bands that
+   become the visible Damascus pattern.
+</code></pre>
 <p>Steel with carbon content above 0.76% is termed hypereutectoid. As hypereutectoid steel cools slowly, cementite precipitates first along the grain boundaries, forming a network of extremely hard carbide before the remaining austenite transforms to pearlite. Wootz steel, at 1.0-2.0% carbon, is deeply hypereutectoid. The cementite bands that form during its extraordinarily slow cooling are what create the visible "Damascus" watered pattern on the finished surface. These bands are not decorative accidents --- they are aligned sheets of iron carbide, one of the hardest substances producible without modern industry, embedded in a softer pearlite matrix. The result is a composite material: hard enough to shave with, tough enough not to shatter.</p>
 <h3 id="the-crucible-method-physics">The Crucible Method Physics</h3>
 <p>The sealed crucible is, in essence, a miniature blast furnace turned inside out. Where a blast furnace forces air through the charge, the crucible excludes air entirely. The sealed vessel creates a reducing atmosphere --- an environment with no free oxygen. This is the fundamental advantage over every other pre-industrial steelmaking method. In an open forge, carbon burns away as carbon dioxide the moment it contacts air. Inside the sealed crucible, the organic carbon source decomposes into carbon monoxide and elemental carbon, both of which are absorbed by the iron rather than lost to the atmosphere. The internal gas pressure from CO generation is sufficient to cause explosive failure if the crucible wall is weakened by cracks or moisture.</p>
 <p>The high temperature, sustained at 1400-1500 degrees C, is necessary because the melting point of the charge must be exceeded for complete homogenization. Pure iron melts at 1538 degrees C, but the dissolution of carbon depresses the liquidus (the temperature above which the entire charge is liquid). At 1.5% carbon, the liquidus drops to approximately 1450 degrees C. The charge must be fully liquid so that carbon distributes evenly throughout the melt --- any solid iron remaining will produce a heterogeneous ingot with soft spots.</p>
 <p>The slow cooling phase is where the magic occurs. As the liquid cools past the liquidus, solidification begins at the crucible walls and progresses inward. Cementite dendrites (tree-like crystal structures) nucleate and grow along the solidification front, aligning into bands perpendicular to the thermal gradient. The cooling rate controls dendrite spacing: slower cooling produces coarser dendrite spacing, yielding a softer steel with a bold pattern; faster cooling produces finer spacing, yielding a harder steel with a subtle pattern. The 2-3 day cooling period inside the sealed furnace produces the classic coarse Wootz pattern optimal for bladed tools.</p>
+<pre><code class="language-text">
+       HOW THE DAMASCUS PATTERN IS BORN — solidification over 2–3 days
+
+   ① FULLY LIQUID        ② FREEZING INWARD       ③ ALIGNED BANDS
+      (1450°C, carbon       (walls cool first;       (cementite sheets
+       evenly dissolved)     dendrites grow in)       perpendicular to
+                                                       thermal gradient)
+   ┌───────────────┐     ┌───────────────┐       ┌───────────────┐
+   │~~~~~~~~~~~~~~~~│     │╲╲▒▒▒▒▒▒▒▒▒╱╱  │       │═══════════════│ ◄cementite
+   │~~ MELT ~~~~~~~│     │ ╲╲▒▒liquid▒╱   │       │───matrix──────│  (hard,light)
+   │~~ Fe + 1.5%C ~│     │  ╲▒▒core▒▒╱    │       │═══════════════│
+   │~~~~~~~~~~~~~~~~│     │ dendrites push │       │───────────────│ ◄pearlite
+   │~~~~~~~~~~~~~~~~│     │ from walls →←  │       │═══════════════│  (soft,dark)
+   └───────────────┘     └───────────────┘       └───────────────┘
+   heat flows OUT ──►     cooling front           SLOW cool = COARSE bold
+   through the walls      moves inward            bands; fast = fine/subtle
+
+   FORGING LATER compresses &amp; waves these straight bands into the flowing
+   &quot;watered&quot; Damascus grain. At the edge, hard cementite stands proud of
+   the soft matrix = a micro-serrated, self-sharpening cutting edge.
+   ✗ Open the furnace early → thermal shock cracks the ingot along the bands.
+</code></pre>
 <h3 id="historical-precedent">Historical Precedent</h3>
 <p>Wootz steel originated in South India and Sri Lanka no later than 300 BCE. Archaeological evidence from Kodumanal in Tamil Nadu includes crucible fragments with adhering steel residue, slag deposits consistent with high-temperature co-fusion, and finished steel artifacts. The Tamil term "urukku" (meaning "melting") is likely the origin of the word "Wootz" through successive transliteration. South Indian steel was traded across the Indian Ocean to the Middle East, where swordsmiths in Damascus, Syria, forged it into the legendary blades that gave the pattern its Western name.</p>
 <p>The 9th-century Arab scholar Al-Kindi classified sword steels by origin in his treatise "On Swords and Their Kinds," distinguishing Indian crucible steel (hinduwani) as the finest available. He described multiple grades based on pattern visibility and fineness. Wootz blades remained the gold standard of edged weapons throughout the medieval period, commanding prices many times higher than European equivalents.</p>
@@ -134,6 +183,34 @@
 </ol>
 <div class="section-practical" id="practical-implementation">
 <h2>Practical Implementation</h2>
+<p>The full journey from iron chunks to an etched blade spans roughly two weeks of drying plus a week of firing, cooling, and finishing. Each stage gates the next — a failure early is cheap, a failure late wastes 100+ kg of charcoal:</p>
+<pre><code class="language-text">
+       CRUCIBLE STEEL — the full production pipeline
+
+   ① CHARGE          ② SEAL            ③ FIRE             ④ SLOW COOL
+   iron + carbon     clay lid +        1450°C sustained   ✗DO NOT OPEN✗
+   + flux into pot   daub, water-      4–6 h, max blast,  seal furnace,
+   ┌────────┐        test the seal     jiggle test        2–3 DAYS undisturbed
+   │ Fe·C·▒ │ ─────► ┌────────┐ ─────► ┌────────┐ ───────►┌────────┐
+   └────────┘        │▓sealed▓│        │ ((●)) │         │ cooling│
+   98.5% Fe          └────────┘        │ molten │         │ banding│
+   1.5% C            CO can&#x27;t escape   100–150 kg charcoal forms now
+                     O₂ can&#x27;t enter                            │
+        ┌─────────────────────────────────────────────────────┘
+        ▼
+   ⑤ BREAK OUT       ⑥ FORGE           ⑦ HEAT-TREAT       ⑧ ETCH
+   crack wall,       BLOOD RED ONLY    quench (oil) →     vinegar/ferric
+   inspect ingot     650–750°C,        temper to oxide    chloride reveals
+   ┌────────┐        15–25 cycles      colour             the watered pattern
+   │ ◖ingot◗│ ─────► ┌────────┐ ─────► ┌────────┐ ───────►┌────────┐
+   └────────┘        │═blade═►│        │hard+tough        │≈≈grain≈≈│
+   ring=good         ✗never orange/    martensite,        unique to each
+   thud=void          yellow! kills     not brittle        ingot ✓
+                      the pattern
+
+   GATE LOGIC: ③ before ④ (heat first, THEN the patient cool); ⑥ stays
+   BELOW 727°C or the bands dissolve; ⑦ temper IMMEDIATELY after quench.
+</code></pre>
 <h3 id="crucible-construction">Crucible Construction</h3>
 <p>The crucible must withstand 1450 degrees C for 4-6 hours without cracking, softening, or reacting with the molten steel. Use high-alumina clay (kaolinite-rich) tempered with fine silica sand at a ratio of approximately 3:1 clay to sand by volume. Wedge the clay thoroughly to remove all air pockets. Form the crucible on a wooden mandrel or by coiling, targeting a wall thickness of 2-3 cm, an internal diameter of 8-10 cm, and a height of 15-20 cm. This yields a capacity of approximately 1-2 kg of charge.</p>
 <p>Dry the crucible slowly in shade for 2-4 weeks, turning it daily to ensure even drying. Any residual moisture will cause catastrophic failure during firing.</p>
@@ -287,6 +364,25 @@
 </tr>
 </tbody></table>
 <p>Heat the piece gently over a bed of coals or in hot sand, watching the polished surface. When the desired color appears, quench immediately in water to arrest the tempering.</p>
+<pre><code class="language-text">
+       HEAT TREATMENT — two steps that set hardness vs. toughness
+
+   STEP 1: HARDEN (quench)            STEP 2: TEMPER (relax brittleness)
+   T°C                                read the OXIDE COLOUR on bright steel:
+   760 ┤●─ heat to &gt;727°C (cherry)
+       │ │  hold → all austenite      220°C ░pale straw ░ razors, scalpels
+       │ │                            240°C ▒dark straw ▒ knives, plane irons
+       │ ▼ PLUNGE into warm OIL       260°C ▓bronze/brown▓ scissors, chisels
+       │ ║  (40–60°C) — NOT water     280°C █purple      █ springs, saw blades
+       │ ║  for &gt;0.8% C (cracks!)     300°C █blue        █ saws, screwdrivers
+    60 ┤ ●━━━━━━━━━━━━━━━━ martensite  ──────────────────────────────────
+       │   glass-hard but BRITTLE     when target colour appears →
+   room┤   (shatters if dropped)      QUENCH AGAIN to freeze it there
+       └──────────────►time
+                                      hotter temper = softer + TOUGHER
+   ✗ never leave an as-quenched piece overnight: trapped stress can crack
+     it hours later. Temper IMMEDIATELY after the quench.
+</code></pre>
 <h3 id="acid-etching">Acid Etching</h3>
 <p>To reveal the Damascus pattern on a finished and polished piece, apply a mild acid etch. The acid attacks the softer ferrite/pearlite matrix more aggressively than the hard cementite bands, creating a contrast visible to the naked eye.</p>
 <ul>

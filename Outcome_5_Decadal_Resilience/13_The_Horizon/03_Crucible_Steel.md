@@ -28,6 +28,34 @@ Pure iron at room temperature exists as ferrite, a body-centered cubic (BCC) cry
 
 Between 0.02% and 2.1% carbon by weight, the alloy is classified as steel. Below 0.02%, it remains wrought iron. Above 2.1%, the excess carbon forms graphite flakes or massive carbide networks, producing cast iron --- hard but brittle, unsuitable for edged tools. The critical transformation occurs at the eutectoid point: 0.76% carbon at 727 degrees C. At this composition, slow cooling from high temperature produces pearlite, a microscopic structure of alternating layers (lamellae) of soft ferrite and hard cementite (iron carbide, Fe3C). Pearlite is the workhorse structure of medium-carbon steel --- tough, reasonably hard, and forgeable.
 
+```text
+       SIMPLIFIED IRON–CARBON DIAGRAM — the map of steelmaking
+
+   T°C
+   1538┤●melt(pure Fe)                          LIQUID
+       │  ╲___                               ___╱
+   1450┤      ╲──── liquidus ────────────────╱ ◄ Wootz melts here (1.5% C)
+       │          ╲    γ AUSTENITE          ╱
+       │           ╲  (carbon dissolves)   ╱
+    912┤            ╲                      ╱
+       │   α+γ       ╲___                 ╱  γ + cementite
+    727┤━━━━━━━━━━━━━━━━━●━━━━━━━━━━━━━━━━━━━━━━━━  ◄ EUTECTOID LINE
+       │  FERRITE(α)    0.76%    PEARLITE forms below
+       │  soft, BCC      │       on slow cooling
+       │  + pearlite     │
+   room┤                 │
+       └───┬──────┬──────┼──────┬──────┬──────┬──────► carbon %
+          0.02   0.4   0.76    1.0   1.5    2.1
+          │wrought│ mild │  ▲    │ WOOTZ │  ▲   │cast iron
+          │ iron  │ steel│ eutec-│ 1–2%  │ hyper│(brittle)
+                          toid    hyper-eutectoid
+
+   WROUGHT IRON (<0.08%): too soft for an edge.   CAST IRON (>2.1%): brittle.
+   STEEL is the 0.02–2.1% window. WOOTZ sits deep in the HYPEREUTECTOID
+   zone — its excess carbon precipitates as the hard cementite bands that
+   become the visible Damascus pattern.
+```
+
 Steel with carbon content above 0.76% is termed hypereutectoid. As hypereutectoid steel cools slowly, cementite precipitates first along the grain boundaries, forming a network of extremely hard carbide before the remaining austenite transforms to pearlite. Wootz steel, at 1.0-2.0% carbon, is deeply hypereutectoid. The cementite bands that form during its extraordinarily slow cooling are what create the visible "Damascus" watered pattern on the finished surface. These bands are not decorative accidents --- they are aligned sheets of iron carbide, one of the hardest substances producible without modern industry, embedded in a softer pearlite matrix. The result is a composite material: hard enough to shave with, tough enough not to shatter.
 
 ### The Crucible Method Physics
@@ -37,6 +65,29 @@ The sealed crucible is, in essence, a miniature blast furnace turned inside out.
 The high temperature, sustained at 1400-1500 degrees C, is necessary because the melting point of the charge must be exceeded for complete homogenization. Pure iron melts at 1538 degrees C, but the dissolution of carbon depresses the liquidus (the temperature above which the entire charge is liquid). At 1.5% carbon, the liquidus drops to approximately 1450 degrees C. The charge must be fully liquid so that carbon distributes evenly throughout the melt --- any solid iron remaining will produce a heterogeneous ingot with soft spots.
 
 The slow cooling phase is where the magic occurs. As the liquid cools past the liquidus, solidification begins at the crucible walls and progresses inward. Cementite dendrites (tree-like crystal structures) nucleate and grow along the solidification front, aligning into bands perpendicular to the thermal gradient. The cooling rate controls dendrite spacing: slower cooling produces coarser dendrite spacing, yielding a softer steel with a bold pattern; faster cooling produces finer spacing, yielding a harder steel with a subtle pattern. The 2-3 day cooling period inside the sealed furnace produces the classic coarse Wootz pattern optimal for bladed tools.
+
+```text
+       HOW THE DAMASCUS PATTERN IS BORN — solidification over 2–3 days
+
+   ① FULLY LIQUID        ② FREEZING INWARD       ③ ALIGNED BANDS
+      (1450°C, carbon       (walls cool first;       (cementite sheets
+       evenly dissolved)     dendrites grow in)       perpendicular to
+                                                       thermal gradient)
+   ┌───────────────┐     ┌───────────────┐       ┌───────────────┐
+   │~~~~~~~~~~~~~~~~│     │╲╲▒▒▒▒▒▒▒▒▒╱╱  │       │═══════════════│ ◄cementite
+   │~~ MELT ~~~~~~~│     │ ╲╲▒▒liquid▒╱   │       │───matrix──────│  (hard,light)
+   │~~ Fe + 1.5%C ~│     │  ╲▒▒core▒▒╱    │       │═══════════════│
+   │~~~~~~~~~~~~~~~~│     │ dendrites push │       │───────────────│ ◄pearlite
+   │~~~~~~~~~~~~~~~~│     │ from walls →←  │       │═══════════════│  (soft,dark)
+   └───────────────┘     └───────────────┘       └───────────────┘
+   heat flows OUT ──►     cooling front           SLOW cool = COARSE bold
+   through the walls      moves inward            bands; fast = fine/subtle
+
+   FORGING LATER compresses & waves these straight bands into the flowing
+   "watered" Damascus grain. At the edge, hard cementite stands proud of
+   the soft matrix = a micro-serrated, self-sharpening cutting edge.
+   ✗ Open the furnace early → thermal shock cracks the ingot along the bands.
+```
 
 ### Historical Precedent
 
@@ -84,6 +135,36 @@ These five principles govern every aspect of crucible steel production. Violatin
 5. **Heat Treatment Is a Separate Art.** The crucible produces a raw ingot. Its final properties --- hardness, toughness, flexibility --- are determined by heat treatment (quenching and tempering) performed after forging. An improperly heat-treated blade of superb Wootz steel will perform worse than a properly heat-treated blade of mediocre bloomery steel. Master forging and heat treatment before attempting crucible production.
 
 ## Practical Implementation
+
+The full journey from iron chunks to an etched blade spans roughly two weeks of drying plus a week of firing, cooling, and finishing. Each stage gates the next — a failure early is cheap, a failure late wastes 100+ kg of charcoal:
+
+```text
+       CRUCIBLE STEEL — the full production pipeline
+
+   ① CHARGE          ② SEAL            ③ FIRE             ④ SLOW COOL
+   iron + carbon     clay lid +        1450°C sustained   ✗DO NOT OPEN✗
+   + flux into pot   daub, water-      4–6 h, max blast,  seal furnace,
+   ┌────────┐        test the seal     jiggle test        2–3 DAYS undisturbed
+   │ Fe·C·▒ │ ─────► ┌────────┐ ─────► ┌────────┐ ───────►┌────────┐
+   └────────┘        │▓sealed▓│        │ ((●)) │         │ cooling│
+   98.5% Fe          └────────┘        │ molten │         │ banding│
+   1.5% C            CO can't escape   100–150 kg charcoal forms now
+                     O₂ can't enter                            │
+        ┌─────────────────────────────────────────────────────┘
+        ▼
+   ⑤ BREAK OUT       ⑥ FORGE           ⑦ HEAT-TREAT       ⑧ ETCH
+   crack wall,       BLOOD RED ONLY    quench (oil) →     vinegar/ferric
+   inspect ingot     650–750°C,        temper to oxide    chloride reveals
+   ┌────────┐        15–25 cycles      colour             the watered pattern
+   │ ◖ingot◗│ ─────► ┌────────┐ ─────► ┌────────┐ ───────►┌────────┐
+   └────────┘        │═blade═►│        │hard+tough        │≈≈grain≈≈│
+   ring=good         ✗never orange/    martensite,        unique to each
+   thud=void          yellow! kills     not brittle        ingot ✓
+                      the pattern
+
+   GATE LOGIC: ③ before ④ (heat first, THEN the patient cool); ⑥ stays
+   BELOW 727°C or the bands dissolve; ⑦ temper IMMEDIATELY after quench.
+```
 
 ### Crucible Construction
 
@@ -224,6 +305,26 @@ Quenching media, in order of cooling severity:
 | Blue | 300 degrees C | Saws, screwdrivers |
 
 Heat the piece gently over a bed of coals or in hot sand, watching the polished surface. When the desired color appears, quench immediately in water to arrest the tempering.
+
+```text
+       HEAT TREATMENT — two steps that set hardness vs. toughness
+
+   STEP 1: HARDEN (quench)            STEP 2: TEMPER (relax brittleness)
+   T°C                                read the OXIDE COLOUR on bright steel:
+   760 ┤●─ heat to >727°C (cherry)
+       │ │  hold → all austenite      220°C ░pale straw ░ razors, scalpels
+       │ │                            240°C ▒dark straw ▒ knives, plane irons
+       │ ▼ PLUNGE into warm OIL       260°C ▓bronze/brown▓ scissors, chisels
+       │ ║  (40–60°C) — NOT water     280°C █purple      █ springs, saw blades
+       │ ║  for >0.8% C (cracks!)     300°C █blue        █ saws, screwdrivers
+    60 ┤ ●━━━━━━━━━━━━━━━━ martensite  ──────────────────────────────────
+       │   glass-hard but BRITTLE     when target colour appears →
+   room┤   (shatters if dropped)      QUENCH AGAIN to freeze it there
+       └──────────────►time
+                                      hotter temper = softer + TOUGHER
+   ✗ never leave an as-quenched piece overnight: trapped stress can crack
+     it hours later. Temper IMMEDIATELY after the quench.
+```
 
 ### Acid Etching
 

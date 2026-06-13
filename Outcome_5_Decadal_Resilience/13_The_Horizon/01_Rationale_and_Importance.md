@@ -34,6 +34,29 @@ The following table summarizes this progression and its implications:
 | Steel Age | High-carbon steel | Surgical instruments, springs, precision tools | Requires sustained 1400+ degree Celsius capability |
 | Glass Age | Silica-based glass | Microscopy, chemistry, optics, sealed vessels | Requires sustained 1300+ degree Celsius capability |
 
+```text
+       THE MATERIALS LADDER — each rung unlocks a class of capability
+
+   GLASS AGE   ┃ silica glass    ┃ MICROSCOPY · CHEMISTRY · OPTICS    ┃ 1300°C+
+               ┃                 ┃ → see the invisible (pathogens)    ┃
+   ────────────╂─────────────────╂────────────────────────────────────┨
+   STEEL AGE   ┃ high-C steel    ┃ SURGERY · SPRINGS · PRECISION TOOLS┃ 1400°C+
+               ┃                 ┃ → tools that make other tools      ┃
+   ────────────╂─────────────────╂────────────────────────────────────┨
+   IRON AGE    ┃ wrought iron    ┃ cheap tools · farm expansion       ┃ bloomery
+               ┃                 ┃ (too soft for an edge or a spring) ┃
+   ────────────╂─────────────────╂────────────────────────────────────┨
+   BRONZE AGE  ┃ copper–tin      ┃ cast vessels · edged weapons       ┃ needs
+               ┃                 ┃ (soft edges; tin trade dependency) ┃ tin trade
+   ────────────╂─────────────────╂────────────────────────────────────┨
+   STONE AGE   ┃ flint · obsidian┃ cut · scrape · pierce              ┃ knapping
+               ┃                 ┃ (brittle; cannot be reshaped)      ┃
+   ════════════┻═════════════════┻════════════════════════════════════┛
+          ▲ each higher rung needs the heat-mastery of the one below.
+          A settlement climbs this ladder; it cannot leap up it.
+          The TOP TWO RUNGS (steel + glass) = the threshold of SCIENCE.
+```
+
 Bronze enabled edged weapons and durable vessels but was too soft for fine cutting instruments and too expensive (requiring tin trade networks) for widespread agricultural tools. Iron democratized metal -- any settlement near bog ore or laterite could produce it -- but wrought iron lacks the hardness for surgical instruments, the spring temper for precision mechanisms, and the edge retention for fine woodworking.
 
 Steel, particularly high-carbon crucible steel, crosses a critical threshold. A scalpel that holds its edge through an entire surgical procedure. A spring that returns to true after ten thousand cycles. A file that can shape other metals. A saw blade thin enough for precision joinery. These are not incremental improvements; they are qualitative leaps in what a community can do. Crucible steel enables the settlement to manufacture the tools that manufacture other tools, creating a self-reinforcing cycle of increasing capability.
@@ -63,6 +86,33 @@ Glass represents an equally profound, though less immediately obvious, revolutio
 
 Consider the cascade effect of a single material: glass lenses enable microscopes, which reveal bacteria, which validate germ theory, which transforms sanitation from ritual into science, which reduces infant mortality, which stabilizes population, which frees labor for further innovation. Each link in this chain depends on the previous one, and the entire chain begins with the ability to melt sand into a transparent solid.
 
+```text
+       THE GLASS CASCADE — how one transparent solid bootstraps science
+
+   melt SAND          grind a            build a
+   into glass  ────►  LENS      ────►    MICROSCOPE  ────►  SEE BACTERIA
+   (1300°C)           (10–20 h           (two lenses,       (the invisible
+                       polishing)         30–200×)           made visible)
+                                                                  │
+        ┌─────────────────────────────────────────────────────────┘
+        ▼
+   GERM THEORY  ────►  sanitation       ────►  INFANT MORTALITY ↓
+   confirmed by        becomes SCIENCE,        (clean water,
+   direct sight        not ritual              attended birth)
+                                                      │
+        ┌──────────────────────────────────────────────┘
+        ▼
+   POPULATION       ────►  LABOUR FREED   ────►  MORE INNOVATION ──┐
+   stabilises              from constant         (back to glass,   │
+                           child loss            steel, chemistry) │
+        ▲                                                          │
+        └──────────────── the loop compounds ─────────────────────┘
+
+   Every arrow DEPENDS on the one before it. Break the first link
+   (no clear glass) and the whole chain never starts. This is why
+   "melting sand" is a civilizational threshold, not a craft hobby.
+```
+
 ### Cultural Technology
 
 The phrase "cultural technology" is chosen deliberately. Culture is not spontaneous. It is not an automatic byproduct of people living together. It is a technology -- a set of practices, tools, and techniques that must be designed, maintained, and transmitted with the same rigor as any physical infrastructure. A settlement that builds furnaces but neglects storytelling, that produces steel but abandons music, that masters chemistry but ignores philosophy, is constructing a civilization on a foundation with a critical structural member missing.
@@ -78,6 +128,29 @@ The Aadhiyandham framework proposes a specific cultural orientation: Biomimetic 
 A single isolated settlement, no matter how well-managed, remains vulnerable to catastrophic loss. A fire that destroys the archive, a disease that kills the only glassmaker, a flood that washes away the forge -- any of these can erase decades of accumulated capability. The solution is redundancy through network distribution, the same principle that makes distributed computing systems more resilient than centralized ones.
 
 The concept draws directly from network theory. A single node (one settlement holding all knowledge) has zero fault tolerance. Two nodes sharing knowledge can survive the loss of one. A network of five or more settlements with overlapping knowledge domains can survive multiple simultaneous losses while retaining the collective's full capability set. The critical threshold is the point at which no single settlement's destruction can eliminate any critical technique from the network as a whole.
+
+```text
+       KNOWLEDGE REDUNDANCY — why one settlement is a single point of failure
+
+   ONE NODE (zero fault tolerance)      NETWORK OF FIVE (survives losses)
+                                                  ┌───┐
+        ┌─────────┐                          ┌────┤ B ├────┐
+        │   ALL   │                        ┌─┴─┐  └─┬─┘  ┌─┴─┐
+        │KNOWLEDGE│                        │ A ├────┼────┤ C │
+        └─────────┘                        └─┬─┘  ┌─┴─┐  └─┬─┘
+             │                               └────┤ E ├────┘
+             ▼                                  ┌─┴─┐ │
+        ✗ FIRE / PLAGUE / FLOOD               └─┤ D ├─┘
+        = TOTAL, PERMANENT LOSS                 └───┘
+        the only glassmaker dies →        every technique lives in 2+ nodes;
+        glass is gone forever             lose A AND C, glass still survives
+
+   ┌──────────────────────────────────────────────────────────────┐
+   │ Knowledge is a NON-RIVAL good: teaching B to make glass does  │
+   │ NOT cost A its own glassmaking. Sharing MULTIPLIES the stock.  │
+   │ Every exchange makes the whole network both safer and smarter. │
+   └──────────────────────────────────────────────────────────────┘
+```
 
 When knowledge is treated as currency in inter-settlement trade -- filter designs exchanged for furnace specifications, medical protocols shared for agricultural innovations -- every participating settlement becomes a backup for every other. The knowledge is replicated across multiple locations, each adapting it to local conditions and potentially improving upon it. This is not merely a hedge against disaster; it is an engine of innovation. Ideas that cross-pollinate between settlements with different environments, different challenges, and different perspectives generate solutions that no single settlement could produce in isolation.
 
@@ -142,6 +215,30 @@ Each stage requires specific prerequisite skills. The following table maps stage
 | Crucible Steel | Bloomery operation, refractory clay identification, crucible forming, temperature assessment by color | 09_The_Mechanics/08_Ceramic_Synthesis |
 | Glassmaking | Silica sand sourcing, potash leaching, furnace construction, annealing principles | 09_The_Mechanics/07_Foundational_Chemistry |
 | Integration | All of the above, plus precision measurement, optical theory, instrument calibration | 11_The_Next_Generation/08_Scientific_Method |
+
+```text
+       PHASE V PATHWAY — stages overlap; none may be skipped
+
+   month:  0    3    6    9    12        18        24
+           │    │    │    │    │         │         │
+   STAGE 1 ████ (prerequisite — bloomery iron already running before Phase V)
+   bloomery│
+           │
+   STAGE 2 ░░░░████████████ crucible steel (months 1–6)
+   steel        ▲ needs bloomery mastery + refractory crucibles + 1400°C
+           │
+   STAGE 3 ░░░░░░░░████████████████████ glassmaking (months 3–12, overlaps S2)
+   glass            ▲ needs furnace at 1300°C + potash leaching + annealing
+           │
+   STAGE 4         ░░░░░░░░░░░░░░░░████████████████ integration (12–24)
+   integrate                        ▲ steel frames + glass lenses = MICROSCOPE,
+                                      surgical kit, chemical apparatus
+           └─────────────────────────────────────────────────────────►
+
+   GATE RULE between every stage: ≥2 people competent + ≥1 apprentice in
+   training before advancing — so the Apprenticeship Chain never breaks
+   even as the frontier moves. Skip a stage → failure, waste, injury.
+```
 
 A settlement should not advance to the next stage until at least two individuals are competent at the current stage and one apprentice is in active training. This ensures the Apprenticeship Chain remains unbroken even as the frontier of capability advances.
 

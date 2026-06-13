@@ -36,6 +36,28 @@ Glass begins with silicon dioxide, SiO2. In crystalline quartz, each silicon ato
 
 The glassmaker's trick is to introduce network modifiers, alkali metal oxides that break Si-O-Si bridges. When potash (K2CO3) or soda ash (Na2CO3) decomposes at temperature, the resulting K2O or Na2O donates oxygen ions that sever bridging bonds, converting them to non-bridging oxygens. Each broken bridge weakens the network, lowering the viscosity at any given temperature and bringing the practical melting range down to 1000-1300 degrees C. This is the flux effect.
 
+```text
+       WHY FLUX MELTS SAND — breaking the silicate network
+
+   PURE QUARTZ (rigid lattice)        + FLUX (alkali breaks bridges)
+   melts at 1713°C — impossible        melts at 1000–1300°C — wood-fired
+
+      O   O   O   O                       O   O    O   O
+      |   |   |   |                       |   |    |   |
+   ─Si─O─Si─O─Si─O─Si─                  ─Si─O─Si  K⁺  Si─O─Si─
+      |   |   |   |                       |   |·       |   |
+      O   O   O   O                       O   O   K⁺  O   O
+      |   |   |   |                       |   ·    ·   |
+   ─Si─O─Si─O─Si─O─Si─                  ─Si─O  K⁺   ─Si─O─Si─
+      every O BRIDGES two Si              · = NON-BRIDGING oxygen;
+      = continuous 3-D net               each K⁺ has SEVERED a bridge
+      (strong, sky-high melt)            → net falls apart at lower heat
+
+   BUT: too much flux = water-SOLUBLE glass (forest glass dissolves in rain).
+   ADD LIME (CaO): Ca²⁺ re-cross-links the broken chains WITHOUT restoring
+   quartz rigidity → durable, workable, clear soda-/potash-LIME-silica glass.
+```
+
 But flux alone creates a problem: a glass rich in alkali oxide is water-soluble. Medieval "forest glass" made with potash alone would slowly dissolve in rain. The solution is lime, CaO, derived from calcined limestone. Calcium ions act as network stabilizers, cross-linking the disrupted silicate chains without restoring the crystalline rigidity of pure quartz. The resulting soda-lime-silica glass -- the most common glass in all of human history -- occupies a ternary composition window:
 
 | Component       | Oxide   | Weight % Range |
@@ -61,6 +83,29 @@ The viscosity-temperature relationship governs every stage of glassworking:
 | Strain point    | 10^13.5           | ~500             | Stress relaxes in hours         |
 
 The thermal expansion coefficient of soda-lime glass is approximately 9 x 10^-6 per degree C. This means a 10 cm piece contracts roughly 0.05 mm when cooled from annealing point to room temperature. If cooling is uneven, different regions contract at different rates, locking permanent stress into the glass. This residual stress is invisible but deadly -- a flick of a fingernail can shatter a poorly annealed piece weeks after it was made. Slow, uniform annealing is the only defense.
+
+```text
+       THE WORKING LADDER — one material, five jobs, set by temperature
+
+   1400°C ┤ MELT / FINE      ░░░ runny as honey ░░░   batch dissolves,
+          │                  (10¹–10² Pa·s)            bubbles rise & escape
+   1100°C ┤ ── ── ── ── ── ── ── ── ── ── ── ── ── ──
+          │ WORKING RANGE    ▓▓ soft, taffy-like ▓▓   GATHER · BLOW · SHAPE
+    900°C ┤                  (10²–10⁴ Pa·s)            (orange→cherry glow)
+          │ ── ── ── ── ── ── ── ── ── ── ── ── ── ──
+    720°C ┤ SOFTENING        sags under own weight     slumps in a mould
+          │ ╔══════════════════════════════════════╗
+    570°C ┤ ║ Tg GLASS TRANSITION — atoms freeze    ║
+    550°C ┤ ║ ANNEALING POINT: stress relaxes in    ║  ◄ HOLD HERE to
+          │ ║ minutes (10¹²·⁴ Pa·s)                 ║    relieve stress
+    500°C ┤ ║ STRAIN POINT: stress relaxes in hours ║  ◄ cool 1–2°C/min
+          │ ╚══════════════════════════════════════╝    through this band
+   room   ┤ SOLID — rigid, but any locked-in stress is now PERMANENT
+          └──────────────────────────────────────────────────────────
+
+   Cool FAST through 900→700°C (skip devitrification), then SLOW through
+   the 550→500°C box. Reverse the two and you either cloud it or shatter it.
+```
 
 ### Historical Precedent
 
@@ -222,6 +267,26 @@ Hold at 550 degrees C for 30-60 minutes per centimeter of glass thickness. Then 
 
 Total annealing time ranges from 12 hours for thin-walled vessels to 48 hours for thick optical blanks. The original rule of thumb -- slow cooling over 24 hours -- is appropriate for most general work. When in doubt, anneal longer rather than shorter. The cost of extra fuel is trivial compared to the cost of a shattered piece.
 
+```text
+       THE ANNEALING CURVE — the controlled descent that saves the piece
+
+   T °C
+   900 ┤●  piece enters hot
+       │ ╲   ◄ COOL BRISKLY here (skip 900→700°C fast)
+   700 ┤  ╲    to avoid devitrification (cloudy crystals)
+       │   ╲
+   550 ┤    ●━━━━━━━●  ◄ SOAK at 550°C: 30–60 min PER cm of thickness
+       │  annealing  ╲    (internal stress relaxes while held)
+   500 ┤  point       ╲ ◄ CRAWL 1–2°C/min through 550→500°C
+       │   strain point ╲   (the make-or-break stress band)
+   room┤                 ●────────── then cool freely, no drafts
+       └──┬────┬────┬────┬────┬────┬────►  time
+          0    soak     12 h      24 h    (thin 12 h … thick blanks 48 h)
+
+   No annealing oven? Bury the hot piece in a deep bed of wood ash and
+   let it cool WITH the ash over 24 h — the ash is the poor man's lehr.
+```
+
 ### Optical Applications
 
 The supreme achievement of post-collapse glassmaking is the production of lenses. A single well-ground magnifying lens transforms diagnostic medicine. A two-lens microscope reveals the microbial world.
@@ -229,6 +294,29 @@ The supreme achievement of post-collapse glassmaking is the production of lenses
 **Grinding lenses.** Start with a thick disc or blob of the clearest glass available. Grind one face against a concave stone form using progressively finer abrasives: coarse quartz sand, fine sand, crushed pumice, and finally tin oxide (cassiterite) or jeweler's rouge (iron oxide) for final polish. The grinding motion must be consistent and even, rotating the glass frequently to maintain spherical curvature. Test the focal length by holding the lens over a surface in sunlight and measuring the distance at which it focuses to a point.
 
 **Simple magnifying lens.** A plano-convex lens (one flat face, one curved) with a focal length of 5-10 cm provides 3-5x magnification -- enough to inspect wounds, read fine text, or examine soil composition. To make a plano-convex lens: start with a disc of clear glass approximately 3-5 cm in diameter and 1 cm thick. Grind one side flat against a flat stone with fine abrasive. Grind the other side against a concave stone form (carved to the desired radius of curvature) with progressively finer abrasive. Polish both surfaces to optical clarity with tin oxide slurry on a cloth-covered pad. The quality of the finished lens depends entirely on the patience invested in polishing -- expect 10-20 hours of hand grinding for a serviceable lens.
+
+```text
+       THE TWO-LENS MICROSCOPE — how glass reveals the microbial world
+
+                    objective              eyepiece
+   specimen          lens                    lens             eye
+   (lit from       (short focal,          (longer focal,
+    below)          ~1 cm)                 ~5 cm)
+      ·  ╲           ╱│╲                     ╱│╲              ╱
+      ·   ╲         ╱ │ ╲___________________╱ │ ╲           (o
+      ·────╲───────╱  │  ╲                 ╱  │  ╲_________╱  │
+      ·    ╱╲     │)  │  (│ real, magnified│)  │  (│  enlarged
+      ·   ╱  ╲    │   │   │ image forms    │   │   │  virtual image
+      ·  ╱    ╲   ╲   │   ╱  inside tube   ╲   │   ╱  ~30–50×
+        ╱      ╲   ╲__│__╱                  ╲__│__╱
+    ┌──┴──┐   tilting                      adjustable tube length
+    │MIRROR│  reflects sunlight up         sets the magnification
+    └──────┘  through the specimen
+
+   STAGE 1: objective makes a magnified REAL image inside the tube.
+   STAGE 2: eyepiece magnifies THAT image again → 30–50× total.
+   Leeuwenhoek hit 200×+ with ONE tiny bead lens — skill > apparatus.
+```
 
 **Basic microscope.** Mount two convex lenses in a tube: a short-focal-length objective lens near the specimen and a longer-focal-length eyepiece lens near the eye. The tube can be made from rolled copper sheet, carved wood, or even a section of bamboo -- the critical requirement is rigidity and the ability to adjust the distance between lenses. A two-lens system with a 1 cm objective and a 5 cm eyepiece can achieve 30-50x magnification, sufficient to observe large protozoa, fungal spores, and plant cell structure. Illuminate specimens from below with reflected sunlight using a small flat mirror mounted on a tilting bracket. Leeuwenhoek achieved over 200x with a single, expertly ground bead lens -- proof that materials matter less than skill. His technique involved melting the tip of a thin glass thread in a flame to form a tiny, nearly perfect sphere, then mounting it between two brass plates with a specimen pin -- a method any settlement glassmaker can attempt once basic skills are mastered.
 
