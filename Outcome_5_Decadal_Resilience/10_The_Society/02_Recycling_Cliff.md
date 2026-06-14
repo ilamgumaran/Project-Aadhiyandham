@@ -64,8 +64,8 @@ Galvanized steel |  ████████████████████
 Aluminum         |  █████████████████████████████████████████████████░░   
 Copper           |  ████████████████████████████████████████████████████████████
 Glass / Stone    |  ████████████████████████████████████████████████████████████
-                 |     URGENT    CRITICAL    FORGE     BLOOMERY  MATERIAL
-                 |     SALVAGE   WINDOW     ONLINE    ONLINE    SOVEREIGNTY
+                 |  URGENT  FORGE  BLOOMERY  MATERIAL
+                 |  SALVAGE ONLINE ONLINE    SOVEREIGNTY
   ██ = Usable lifespan    ░░ = Cliff zone (rapid failure)
 ```
 

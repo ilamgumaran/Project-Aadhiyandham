@@ -267,16 +267,16 @@ The census is conducted each year at a fixed date — midwinter is traditional, 
    |          ■  |     65+  (3)    |  ■■         |   Elderly
    |         ■■  |     55-64 (4)   |  ■■         |   dependents
    |        ■■■  |     45-54 (5)   |  ■■         |      ↑
-   |       ■■■■  |     35-44 (6)   |  ■■■■       |   -------
-   |      ■■■■■  |     25-34 (7)   |  ■■■■       |   Working
-   |     ■■■■■■  |     15-24 (7)   |  ■■■■■      |   age
-   |        ■■■  |      5-14 (5)   |  ■■■        |   -------
-   |         ■■  |      0-4  (3)   |  ■■         |   Child
+   |       ■■■■  |     35-44 (8)   |  ■■■■       |   -------
+   |      ■■■■■  |     25-34 (9)   |  ■■■■       |   Working
+   |     ■■■■■■  |    15-24 (11)   |  ■■■■■      |   age
+   |        ■■■  |      5-14 (6)   |  ■■■        |   -------
+   |         ■■  |      0-4  (4)   |  ■■         |   Child
    +─────────────+─────────────────+─────────────+   dependents
-         Male: 24       Total: 50     Female: 26
+         Male: 26       Total: 50     Female: 24
 
-   Workers (15-64): 33    Dependents (0-14 + 65+): 17
-   Dependency Ratio: 17/33 = 0.52  [below 0.7 threshold]
+   Workers (15-64): 37    Dependents (0-14 + 65+): 13
+   Dependency Ratio: 13/37 = 0.35  [below 0.7 threshold]
 ```
 
 **Calculate the dependency ratio.** Dependents (children under 15 plus adults over 65) divided by working-age adults (15-64). A ratio above 0.7 indicates significant strain on productive capacity.

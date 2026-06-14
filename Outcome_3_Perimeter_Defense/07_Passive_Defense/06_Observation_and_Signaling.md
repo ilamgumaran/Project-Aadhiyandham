@@ -195,7 +195,6 @@ The patterns are designed for maximum distinctiveness under degraded conditions.
     CONFIRMED        [ RED ][ RED ]         Two red, side by side
     IMMEDIATE        [ RED ][ RED ][ RED ]  Three red in triangle:
     THREAT              [ RED ]                two above, one below
-    RALLY            [WHITE] X [WHITE]      Two white crossed in X
 ```
 
 **Horn Construction**

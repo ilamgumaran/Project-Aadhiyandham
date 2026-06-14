@@ -181,9 +181,10 @@ FULL BENCH vs PARTIAL BENCH
                         | solid | (compacted  |
                         |ground | 15 cm lifts)|
                          ========\=============
-                                  \  fill slope (1.5:1 max)
+                                  \  fill slope (compacted)
 
-    Rule: Full bench on slopes > 50%. Partial bench on < 50%.
+    Rule: Prefer full bench on steeper slopes; partial bench
+    is acceptable where the fill side can be well compacted.
 ```
 
 ### Phase 3: Armoring and Drainage Structures

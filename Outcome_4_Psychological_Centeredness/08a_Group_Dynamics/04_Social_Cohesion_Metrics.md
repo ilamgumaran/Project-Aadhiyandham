@@ -295,7 +295,7 @@ When the SHI drops to Crisis level (5-9), the community activates the following 
     15 |         *--*                  --- = threshold lines
     10 |..........................     (Warning threshold)
      5 |__________________________    (Crisis threshold)
-       J  F  M  A  M  J  J  A  S
+       J  F  M  A  M  J  J  A  S  O  N  D
 ```
 
 ### Implementation Timeline

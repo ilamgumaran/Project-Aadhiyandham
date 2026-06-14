@@ -212,7 +212,7 @@ Winter          14-16 hours       9-10 hours            Segmented (4+4)
  Summer      21:00    22:00        05:30      05:00    7.5 hrs    Consolidated
  (Jun)       (late)   (DLMO+2hr)   (with sun)          single block
 
- Equinox     18:30    20:30        06:00      06:30    9.5 hrs    Consolidated
+ Equinox     18:30    20:30        05:30      06:30    9 hrs      Consolidated
  (Mar/Sep)            (DLMO+2hr)   (with sun)          single block
 
  Winter      16:30    18:30        07:00      08:00    9-10 hrs   Segmented

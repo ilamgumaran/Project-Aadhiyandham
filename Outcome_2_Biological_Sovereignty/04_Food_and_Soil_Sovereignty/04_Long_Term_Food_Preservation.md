@@ -225,7 +225,7 @@ Lacto-Fermentation Vessel (Cross-Section)
 
     pH over time:
     Day 0:  pH 6.0 ||||||||||||||||| (neutral — unsafe)
-    Day 7:  pH 4.2 ||||||||          (SAFE — below 4.6)
+    Day 7:  pH 4.0 ||||||||          (SAFE — below 4.6)
     Day 14: pH 3.5 ||||||           (stable, preserved)
 ```
 

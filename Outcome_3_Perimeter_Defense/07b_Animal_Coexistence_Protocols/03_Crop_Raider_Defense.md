@@ -156,12 +156,12 @@ Physical barriers are the only defenses that never habituate. Build them first, 
        /
       / 30cm overhang prevents climbing species
      /
-   ┌┘─────────────────── top rail (2.4m height)
+   ┌┘─────────────────── top rail (2.2m height)
    │  ╔═══════════════╗
    │  ║ Wattle panel  ║  woven willow/hazel
    │  ║ or wire mesh  ║  (no gaps > 10cm)
    │  ║               ║
-   │  ║  2.4m total   ║  minimum height for deer
+   │  ║  2.2m total   ║  minimum height for deer
    │  ║  height       ║  exclusion (white-tail: 2.2m)
    │  ║               ║
    │  ╚═══════════════╝

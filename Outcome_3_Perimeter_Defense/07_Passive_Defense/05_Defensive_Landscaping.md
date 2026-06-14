@@ -224,7 +224,7 @@ The ditch also serves as a drainage channel, directing water away from the settl
   ======|=============|================|======
         HEDGE    Open path       HEDGE
                  (only viable approach)
-  [X] = Watch/observation position overlooking gate
+              [X] <- watch position overlooking gate
 ```
 
 ### Allelopathic Buffer Zones
@@ -254,7 +254,7 @@ Black walnut trees also produce edible nuts (a valuable calorie and fat source) 
      |    (no brush,    1.5m   +1m       blocks       |
      |     clear LOS    deep   high      aerial view  |
      @-----> o  o  o --|####|=HEDGE=|-- T   T   T  [HOUSE]
-  30-50m from hedge   hedge line        10-20m inside
+  30-50m from hedge   hedge line        interior trees
 ```
 
 ### Annual Maintenance Calendar

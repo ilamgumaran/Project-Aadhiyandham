@@ -285,8 +285,8 @@ This procedure ensures that the data reflects reality rather than expectation.
    ┌──────────────┐   ┌──────────────┐   ┌──────────────┐
    │   TREATER    │   │   MEASURER   │   │  KEY-HOLDER  │
    │ applies urine│   │ measures corn│   │ holds sealed │
-   │ fertilizer or│   │ height on    │   │ envelope     │
-   │ plain water  │   │ day 60       │   │ with A→urine,│
+   │ fertilizer or│   │ height at    │   │ envelope     │
+   │ plain water  │   │ period end   │   │ with A→urine,│
    │ by plot code │   │ WITHOUT      │   │ B→water, ... │
    │ only.        │   │ knowing      │   │ Opens only   │
    │              │   │ which is     │   │ after all    │
@@ -298,12 +298,12 @@ This procedure ensures that the data reflects reality rather than expectation.
    ─────────────────────────────────────────────────────────────
    PROTOCOL TIMELINE:
 
-   Day 0    ►  Treater applies treatments by code,
+   Start    ►  Treater applies treatments by code,
                writes "A=urine, B=water, C=urine, D=water"
                into envelope, seals it, hands to Key-Holder.
-   Day 1–60 ►  Measurer records growth weekly — no peeking.
-   Day 60   ►  All measurements written down and locked.
-   Day 60+  ►  Envelope opened in front of full group;
+   During   ►  Measurer records growth weekly — no peeking.
+   End      ►  All measurements written down and locked.
+   After    ►  Envelope opened in front of full group;
                codes revealed; group means computed ONLY THEN.
 
    ─────────────────────────────────────────────────────────────

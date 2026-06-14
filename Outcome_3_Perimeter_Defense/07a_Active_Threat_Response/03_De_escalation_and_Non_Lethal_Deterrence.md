@@ -79,7 +79,7 @@ The Speaker's own body language is equally critical. The Speaker must PROJECT no
 
      <--- 3-5 m gap --->
 
-              O   <-- Speaker: angled 45° stance
+              O   <-- Speaker: angled/bladed stance
              /|        (reduces profile, non-confrontational)
             / |
            /   \
@@ -88,7 +88,7 @@ The Speaker's own body language is equally critical. The Speaker must PROJECT no
 
   KEY POSTURE ELEMENTS:
     * Feet shoulder-width, weight balanced (not leaning forward)
-    * Torso angled 45° to contact (NOT squared/facing directly)
+    * Torso angled/bladed to contact (NOT squared/facing directly)
     * Both palms visible, open, at waist height
     * No items in hands (cone set down after announcement)
     * Slow, predictable movements — no sudden gestures

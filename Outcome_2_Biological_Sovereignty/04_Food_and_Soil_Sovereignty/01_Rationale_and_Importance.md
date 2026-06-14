@@ -18,7 +18,7 @@ The distinction between survival and sovereignty rests on three pillars. First, 
         /  TION    \   12-month food security
        /------------\
       /   HARVEST    \  HARVEST & YIELD
-     /  60-70M kcal/yr\ Caloric floor met annually
+     /  65-70M kcal/yr\ Caloric floor met annually
     /------------------\
    /  PLANT DIVERSITY   \ GENETIC SOVEREIGNTY
   / 5+ staples, 10+ spp  \ Open-pollinated seed control

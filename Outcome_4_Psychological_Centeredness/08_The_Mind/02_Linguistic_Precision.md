@@ -47,10 +47,10 @@ E-Prime forces language DOWN the ladder toward sensory experience, where stateme
 
   "Things look       "The water          "The filter flow   "Replace the
    bad."              system has          rate dropped to    charcoal layer
-                      problems."          1.8 L/hr from      in filter #3
-                                          the normal 6       and flush with
-                                          L/hr this          10 L clean
-                                          morning."          water before
+                      problems."          1.8 L/hr this      in filter #3
+                                          morning."          and flush with
+                                                             10 L clean
+                                                             water before
                                                              next use."
 
   ◄── Generates       ◄── Generates      ── Enables ──►    ── Enables ──►

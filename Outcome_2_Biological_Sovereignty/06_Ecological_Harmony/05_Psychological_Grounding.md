@@ -15,7 +15,7 @@ The most dangerous threat to a new settlement after collapse has nothing to do w
   │DENIAL│→ │ANGER │→ │BARGAINING│→ │DEPRESSION│→ │ACCEPTANCE│→ │PURPOSE │
   │மறுப்பு │  │கோபம்  │  │பேரம்      │  │மனச்சோர்வு  │  │ஏற்றுக்கொள்│  │நோக்கம்  │
   └──────┘  └──────┘  └──────────┘  └──────────┘  └──────────┘  └────────┘
-  Week 1-2   Week 2-4   Week 4-8      Week 6-16     Week 12-24    Week 20+
+  (early)                                (longest phase)            (later)
 
   ▲ Intensity peaks early              ▲ Longest phase;         ▲ Integration:
     ("This cannot have                   requires communal        grief transforms

@@ -181,7 +181,7 @@ BUG-OUT CHAIN — Top-Down View (Trail Formation)
 
   Direction of travel ====>
 
-  SCOUT                                         50-100m ahead
+  SCOUT                                         up to 50m ahead
   (optional; advance recon)                     . . . . . .
        .  .  .  .  .  .  .  .  .  .  .  .  .  .
   [NAVIGATOR]                                   leads column

@@ -46,10 +46,8 @@ Every module in Section 02 (The Site) assumes you can *find* the refugium. But w
 
   Least durable                     Most info per cm2
        ^                                  ^
-       |  Digital media (3-10 yr)  ████████████████|
        |  Standard paper (50-100 yr)  ████████████ |
-       |  Acid-free paper (500 yr)  ██████████     |
-       |  Vellum/parchment (1000 yr)  ████████     |
+       |  Vellum/parchment (200-500 yr)  ████████  |
        |  Fired clay tablet (3000 yr)  ██████      |
        |  Carved stone (5000+ yr)  ██              |
        v                                  v
@@ -80,7 +78,7 @@ This module provides three independent systems: **physical marking** (for anyone
   └──────┬───────┘  └──────┬───────┘  └──────┬───────┘
          │                 │                  │
          ▼                 ▼                  ▼
-     ~15 bits          ~5 bits           ~10 bits
+     ~15 bits          ~5 bits           redundancy
      (bearing to       (latitude)        (sequence of
       3 landmarks)                        landmarks)
          │                 │                  │

@@ -118,7 +118,7 @@ Five non-negotiable rules govern salt-spray management in a coastal settlement:
   WIND + SALT SPRAY ===>
   ~~~~~~~~                 BELT 1            BELT 2           BELT 3
   ~ ocean ~        Halophytes (frontline) Windbreak trees   Crop zone
-  ~~~~~~~~          Tamarisk, Spartina   Pine, Live Oak   (protected)
+  ~~~~~~~~          Sea oats, Spartina   Pine, Live Oak   (protected)
                      Atriplex, Coconut    Casuarina
   :::::::::::      ,@@, ,@@, ,@@,      ,@@@@@, ,@@@@@,    . . . . .
   ::salt   ::      |##| |##| |##|      |#####| |#####|    . crops .

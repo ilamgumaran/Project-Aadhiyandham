@@ -138,7 +138,7 @@ The common housefly (*Musca domestica*) is the primary mechanical vector for fec
 ```text
 [ LATRINE PROGRESSION — கழிப்பறை முன்னேற்றம் ]
 
-  DAYS 1-7            WEEKS 2-4            MONTH 2+
+  DAYS 1-7            DAYS 3-7             DAYS 7-14
   Trench Latrine      Deep Pit Latrine     VIP Latrine
   ──────────────      ────────────────     ───────────────
                                                ┌─┐ Fly
@@ -176,7 +176,7 @@ Before digging, verify the following with reference to the site layout:
          ║  நீர் ஆதாரம்       ║     (spring, stream, well)
          ╚════════╤═════════╝
                   │
-                  │  15-20 m
+                  │  (downhill)
                   ▼
          ╔══════════════════╗
          ║  (2) SETTLEMENT  ║  ← Mid-slope

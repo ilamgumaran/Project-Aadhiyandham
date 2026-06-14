@@ -67,7 +67,7 @@ Each method has distinct advantages, and a settlement should practice all three 
       v                v                v
    BRAIN TAN        VEG TAN          ALUM TAN
    lipids+smoke     bark tannins     aluminum salts
-   24hr + working   1-12 months      2-7 days
+   24hr + working   1-12 months      days
       |                |                |
       v                v                v
    BUCKSKIN         FIRM LEATHER     TAWED LEATHER

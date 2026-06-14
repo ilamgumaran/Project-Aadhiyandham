@@ -37,7 +37,7 @@ Between 0.02% and 2.1% carbon by weight, the alloy is classified as steel. Below
    1450┤      ╲──── liquidus ────────────────╱ ◄ Wootz melts here (1.5% C)
        │          ╲    γ AUSTENITE          ╱
        │           ╲  (carbon dissolves)   ╱
-    912┤            ╲                      ╱
+       ┤            ╲                      ╱
        │   α+γ       ╲___                 ╱  γ + cementite
     727┤━━━━━━━━━━━━━━━━━●━━━━━━━━━━━━━━━━━━━━━━━━  ◄ EUTECTOID LINE
        │  FERRITE(α)    0.76%    PEARLITE forms below

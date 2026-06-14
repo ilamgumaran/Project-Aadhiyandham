@@ -29,7 +29,7 @@ Root cohesion adds 5-20 kPa of shear strength to soil. This is why deforested sl
 ```text
   ANGLE OF REPOSE BY SOIL TYPE — Cross-Section View
 
-  Rock (60-80°)        Clay (40-45°)     Gravel (35-40°)    Sand (30-35°)
+  Rock (up to 60°)     Clay (40-45°)     Gravel (35-40°)    Sand (30-35°)
         |              /                 /                  /
         |             /                 /                  /
         |            /                 /                  /
@@ -72,11 +72,11 @@ Never build in the 100-year floodplain. Over multi-generational timescales, floo
   Flood
   Height
   (m)     |
+  10      |         SETTLEMENT SITE (above 500-yr line)
+          |         - - - - - - - - - - - - - - - - - - - - - - - -
    8      |                                           * 500-yr flood
           |
    6      |                              * 100-yr flood
-          |         - - - - - - - - - - - - - - - - - - - - - - - -
-   5      |         SETTLEMENT SITE (above 500-yr line)
           |
    4      |                   * 50-yr flood
           |
@@ -111,8 +111,8 @@ Wind accelerates over ridgelines due to the Venturi effect — compression of ai
   ~~~~~~~~~~~   /                  \   ~~~~~~~~~~~
   ~ 10 m/s ~  /   ACCELERATION     \  ~ 10 m/s ~
   ~~~~~~~~~~~/ - - - ZONE - - - - -  \~~~~~~~~~~~
-            |    15-20 m/s winds      |
-            |    (150-200% of         |
+            |    12-15 m/s winds      |
+            |    (120-150% of         |
             |     free-stream)        |
             |                         |
             |  X AVOID settlement X   |

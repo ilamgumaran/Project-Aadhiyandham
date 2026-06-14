@@ -179,7 +179,7 @@ Roof structure: the king post truss (single central vertical) is simplest, suita
 ```text
 TRUSS TYPES — MEMBER FORCES (C = Compression, T = Tension)
 
-KING POST (up to 6m)       QUEEN POST (6-10m)
+KING POST (up to 6m)       QUEEN POST (wider spans)
 
        /\                        /\
     C /  \ C                  C /  \ C
@@ -189,12 +189,6 @@ KING POST (up to 6m)       QUEEN POST (6-10m)
    <-- T --> T               <-T->   <-T->
    KP in tension (T)        QPs in compression (C)
    Tie beam in tension       Wider span capability
-
-HOWE TRUSS (8-15m)          Verticals: T
-     /|\  /|\  /\            Diagonals: C
-  C / T| \C| \/ T\ C        For barns and
-   /===|===*===|===\         community halls
-   <------ T ------->
 ```
 
 Roofing materials: thatch (rye straw or water reed) provides excellent insulation at a steep pitch (45 degrees minimum), lasting 25 to 30 years for water reed and 15 to 20 years for straw. Wood shingles (cedar or oak, split not sawn) last 20 to 40 years. Fired clay tiles have an indefinite lifespan but require stronger framing to support their weight (50 to 70 kilograms per square meter versus 25 to 35 for thatch).

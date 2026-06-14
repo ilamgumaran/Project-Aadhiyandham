@@ -145,9 +145,9 @@ The ecological outcome was striking: satoyama landscapes supported higher biodiv
                 Low            Species           High
                              Diversity
 
-    Key: Below ~15 species → fragile, collapse-prone
-         15-40 species → rapid stability gains (functional redundancy)
-         40+ species  → diminishing returns but maximum resilience
+    Key: Low diversity  → fragile, collapse-prone
+         Rising diversity → rapid stability gains (functional redundancy)
+         High diversity  → diminishing returns but maximum resilience
 ```
 
 **Balinese Subak (1000 CE — present)**

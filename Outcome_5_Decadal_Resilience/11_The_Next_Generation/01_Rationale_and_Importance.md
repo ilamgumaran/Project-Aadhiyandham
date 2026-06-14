@@ -36,7 +36,7 @@ Within a century of neglect, virtually all specialized knowledge disappears, lea
     ┌───────────────┐        ┌──────────────┐         ┌───────────────┐
     │ Accumulated   │───────>│  Oral        │────────>│ Received      │
     │ Knowledge     │        │  Apprentice  │         │ Knowledge     │
-    │ (100%)        │        │  Practice    │         │ (~50-80%)     │
+    │ (100%)        │        │  Practice    │         │ (50%+)        │
     └───────────────┘        │  Written     │         └───────┬───────┘
                              └──────────────┘                 │
           WHAT GETS LOST            ^      FEEDBACK LOOP      │
@@ -44,7 +44,7 @@ Within a century of neglect, virtually all specialized knowledge disappears, lea
           │ - Tacit skills  │         (teaching refines understanding)
           │ - Context/nuance│
           │ - Edge cases    │       WITHOUT FEEDBACK:  ~50% per gen
-          │ - Single-holder │       WITH FEEDBACK:     ~80-95% kept
+          │ - Single-holder │       WITH FEEDBACK:     more is kept
           └─────────────────┘
 ```
 
@@ -115,7 +115,7 @@ These three pillars structure the hierarchy of knowledge needs that follows. Wha
                    /    4.    \      Ages 12+
                   /   ETHICS   \     Ethical Reasoning
                  /──────────────\
-                /      3.       \   Ages 10+
+                /      3.       \   Ages 8+
                /    SCIENCE      \  Scientific Reasoning
               /──────────────────-\
              /        2.          \  Ages 5+

@@ -132,9 +132,9 @@ Schafer further distinguished "lo-fi" from "hi-fi" soundscapes. A lo-fi soundsca
 ```text
   Noise Discipline Zones: Concentric Acoustic Rings
 
-                    ZONE 4: WILDERNESS (ambient 15-25 dB)
+                    ZONE 4: WILDERNESS (ambient 20-30 dB)
            . . . . . . . . . . . . . . . . . . . . . .
-          .    ZONE 3: PERIMETER — SILENCE (<30 dB)     .
+          .    ZONE 3: PERIMETER — SILENCE (<40 dB)     .
          .   - - - - - - - - - - - - - - - - - - - -    .
         .   |  ZONE 2: LIVING — QUIET WORK (<50 dB) |    .
         .   |   ________________________________     |    .

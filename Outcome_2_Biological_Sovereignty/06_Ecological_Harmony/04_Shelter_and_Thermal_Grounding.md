@@ -97,7 +97,7 @@ Solar gain through south-facing openings (in the Northern Hemisphere) is the sim
     |     :            \/         INTERIOR               |
     |     : DARK STONE/EARTH THERMAL MASS FLOOR          |
     |     :  absorbs solar energy --> re-radiates at night|
-    |     2.5m penetration depth at winter solstice      |
+    |     deep winter penetration; shaded in summer       |
     |____________________________________________________|
 ```
 
@@ -258,8 +258,8 @@ The south-facing front wall should be fully open to solar gain, with a generous 
     |    R = 4.0               |  R = 4.0
     |    Ground temp: 12C      |         Exterior: -20C
     |    (stable year-round)   |
-    |      INTERIOR: 16-20C    |====== SOUTH WALL
-    |    thermal lag: 3 months | ||  glazing + door
+    |      INTERIOR: 15-20C    |====== SOUTH WALL
+    |    seasonal damping      | ||  glazing + door
     |__________________________| ====== (open to sun)
     /////// SUBSOIL 12C ///////////  <-- earth coupling
     ////// (drainage gravel below) ////

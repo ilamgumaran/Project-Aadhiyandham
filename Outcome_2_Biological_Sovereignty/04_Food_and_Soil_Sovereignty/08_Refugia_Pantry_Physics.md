@@ -137,7 +137,7 @@ EARTH-COOLED THERMODYNAMICS: Temperature Gradient by Depth
   0.5m ─┼─ ▒▒▒▒▒▒▒▒▒▒▒▒▒▒  seasonal variation: ±8°C
   1.0m ─┼─ ▓▓▓▓▓▓▓▓▓▓▓▓▓▓  seasonal variation: ±4°C (earth cover)
   1.5m ─┼─ ████████████████  seasonal variation: ±2°C
-  2.0m ─┼─ ████████████████  CELLAR ZONE: 10-14°C year-round
+  2.0m ─┼─ ████████████████  CELLAR ZONE: 10-15°C year-round
   2.5m ─┼─ ████████████████  seasonal variation: <±1°C
         │
         └──── Thermal mass: 1,800 kJ/m³/°C (packed earth)
@@ -188,7 +188,7 @@ Q10 DEGRADATION CURVE: Storage Temperature vs. Spoilage Rate
   EXAMPLE (potatoes):
     5°C  = 6-8 months storage life  (baseline)
    15°C  = 2-3 months              (2x spoilage rate)
-   25°C  = 3-4 weeks              (4x spoilage rate)
+   25°C  = 1-1.5 months           (4x spoilage rate)
 ```
 
 ---

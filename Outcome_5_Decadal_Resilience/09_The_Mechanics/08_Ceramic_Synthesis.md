@@ -124,7 +124,7 @@ This history carries a practical lesson. A single individual with access to clay
  \  base for   /     | for hearth|        \        /
   \___________/      |___________|         \______/
   Vermin-proof       Thermal shock        Cools water
-  Max capacity       resistant            5-10 C
+  Max capacity       resistant            evaporatively
 ```
 
 5. **Fire Together.** Firing is the most fuel-intensive step. A single pit firing consumes roughly 15 kg of hardwood regardless of whether it contains one pot or ten. Always accumulate enough bone-dry ware to fill a firing — batch processing saves fuel, labor, and time.

@@ -275,7 +275,7 @@ The lockdown does not end when the threat appears to have departed. It ends when
 ```text
    [Lockdown Zone Map — Settlement Overview]
 
-                   CLEARED FIELD OF FIRE (50m)
+                   CLEARED FIELD OF FIRE
         - - - - - - - - - - - - - - - - - - - - -
        :   Entry A                    Entry B     :
        :   [BARRICADE]                [BARRICADE]  :
@@ -289,7 +289,7 @@ The lockdown does not end when the threat appears to have departed. It ends when
        :   [BARRICADE]                [BARRICADE]  :
        :   Entry C                    Entry D     :
         - - - - - - - - - - - - - - - - - - - - -
-                   CLEARED FIELD OF FIRE (50m)
+                   CLEARED FIELD OF FIRE
    Rally Points: pre-assigned mustering spots by sector
    Corridors: direct routes to Safe Core (no deviation)
    Cleared Fields: no concealment for approaching threats

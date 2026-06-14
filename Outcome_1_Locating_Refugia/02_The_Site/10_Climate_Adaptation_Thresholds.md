@@ -47,7 +47,7 @@ Without these thresholds, a community may slowly starve over 20 years without re
  100%|          .--****--.
      |        ./    |     \.
   75%|       /   ADAPTATION \         * = current climate
-     |      /    ZONE  |     \        o = projected +2C
+     |      /    ZONE  |     \        o = projected +1C
   50%|     /       |   |      \
      |    /        |   |   o   \
   25%|   /         |   | o  o   \
@@ -72,12 +72,8 @@ Without these thresholds, a community may slowly starve over 20 years without re
            +0.3C       +0.7C        +1.0C      +1.0C
                   (ocean thermal inertia)
 
-    Sea    ~~~~~~~~~~~~~~RISING~~~~~~~~~~~~RISING~~~~~~~~~>
-    Level  +5cm        +15cm        +30cm      +60cm
-                  (ice sheet + thermal expansion)
-
     ~~~~ = active change   .... = plateau
-    Lag: 20-50yr for temperature, CENTURIES for sea level
+    Lag: 20-50yr for temperature
 ```
 
 **Expected outcome.** A site-specific climate envelope with quantified thresholds for human survival, crop viability, and water security. A monitoring protocol that provides 5-10 years of advance warning before any threshold is breached.

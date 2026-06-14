@@ -251,7 +251,7 @@ FISH WEIR (top-down view)       --> water flow -->
               [BASKET TRAP]  <-- woven enclosure, one-way entry
   ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ bank
 
-  Barrier: stacked stones + woven branches, 60-80cm high
+  Barrier: stacked stones + woven branches
 ```
 
 **Set Lines**: A long line strung across a waterway with multiple baited hooks (a "trotline") catches fish passively overnight. Set 10-20 hooks baited with earthworms, insects, or small pieces of meat.

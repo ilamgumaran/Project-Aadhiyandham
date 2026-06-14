@@ -128,15 +128,15 @@ Mary Ainsworth's Strange Situation paradigm, developed in 1978, identified the m
 Longitudinal research has tracked these patterns into adulthood, demonstrating their influence on romantic relationships, parenting behavior, stress regulation, and physical health outcomes. Securely attached children become adults capable of stable partnerships and responsive parenting. Avoidantly attached children become adults who suppress emotional needs. Resistantly attached children become hypervigilant in relationships. Disorganized children — the most concerning pattern — become adults who oscillate between approach and withdrawal, often replicating chaotic dynamics with their own children. In a small community where every adult relationship affects cohesion, attachment patterns formed in childhood are community infrastructure, not private developmental outcomes.
 
 ```text
-BRONFENBRENNER ECOLOGICAL SYSTEMS MODEL
+NESTED ENVIRONMENTAL LAYERS AROUND THE CHILD
 =============================================================
-      +------------ MACROSYSTEM -------------+
+      +------------ CULTURE -----------------+
       | cultural values, post-collapse norms  |
-      |   +--------- EXOSYSTEM ---------+    |
+      |   +--------- COMMUNITY --------+    |
       |   | community labor, food, gov.  |    |
-      |   |   +----- MESOSYSTEM -----+   |    |
-      |   |   | links between micros |   |    |
-      |   |   |   +--- MICRO ---+    |   |    |
+      |   |   +----- LINKS ----------+   |    |
+      |   |   | links between layers |   |    |
+      |   |   |   +-- FAMILY ---+    |   |    |
       |   |   |   |   [CHILD]   |    |   |    |
       |   |   |   | family,peers|    |   |    |
       |   |   |   | caregivers  |    |   |    |

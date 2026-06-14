@@ -186,14 +186,14 @@ These principles should be understood by every community member, not just those 
     Authority            Formation            Governance
     ---------.-----------.-----------.-----------.-------->
     ● 1-3 leaders by     ● Elected/rotated    ● Written charter
-      necessity            council of 5-9     ● Formal amendment
+      necessity            rotating council   ● Formal amendment
     ● Survival focus     ● Regular meetings     process
     ● No formal rules    ● Oral agreements    ● Scheduled audits
     ● Ad-hoc decisions   ● Role definitions   ● Leader removal
                                                 protocol
          |                    |                    |
     TRIGGER:             TRIGGER:             TRIGGER:
-    Crisis subsides;     Pop. > 25, stable    Pop. > 75, 2+ yrs
+    Crisis subsides;     Pop. > 25, stable    Stable pop., 2+ yrs
     basic shelter and    food, recurring      stable governance,
     water secured        disputes             long-horizon needs
 ```

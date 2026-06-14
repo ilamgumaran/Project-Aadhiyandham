@@ -33,7 +33,7 @@ The decomposition process proceeds through four distinct phases:
   (degrees C)
        70 |         .......
           |        .       .        THERMOPHILIC PHASE
-       65 |       .  PATHOGEN  .    (days 3-21+)
+       65 |       .  PATHOGEN  .    (days 3-30+)
           |      .  KILL ZONE   .
   - -55 --|-----.--.--.--.--.--.--.--.--  PATHOGEN KILL THRESHOLD (55 C)
           |    .                  .

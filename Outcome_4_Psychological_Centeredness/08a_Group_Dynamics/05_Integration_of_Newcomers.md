@@ -284,8 +284,8 @@ If the community decides not to accept a newcomer at any phase, the rejection mu
        +----+----+----+----+----+----+----+----
        -2mo  -1mo  Arrive  +1mo  +2mo  +3mo +4mo
 
-    (Expected dip of 2-4 SHI points during integration, recovering
-     within 2-3 months. A dip >5 points or no recovery by month 4
+    (Expected dip of 2-3 SHI points during integration, recovering
+     within 2-3 months. A dip >3 points or no recovery by month 4
      signals a structural problem requiring community circle.)
 ```
 

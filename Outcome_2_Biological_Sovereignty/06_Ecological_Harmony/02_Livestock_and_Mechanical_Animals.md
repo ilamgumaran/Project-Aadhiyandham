@@ -202,9 +202,9 @@ Species selection for temperate silvopasture: **oak** (acorns for pig feed, 2,00
          │       │ 1.2ha │ 1.2ha │        → P8 → P1
          │       │DAY15-16 DAY5-6│
          │       ├───────┼───────┤   Rest per paddock:
-         ●───────│  P7   │  P4   │     14 days (summer)
+         ●───────│  P7   │  P4   │     30 days (summer)
          │       │ 1.2ha │ 1.2ha │     28 days (spring)
-         │       │DAY13-14 DAY7-8│     56 days (winter)
+         │       │DAY13-14 DAY7-8│     60 days (winter)
          │       ├───────┼───────┤
          ●───────│  P6   │  P5   │   ══ Living fence
          │       │ 1.2ha │ 1.2ha │   -- Movable hurdles

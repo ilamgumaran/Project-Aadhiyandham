@@ -180,13 +180,13 @@ SETTLEMENT PLAY AREA: MATERIAL & FEATURE MAP
     .---------+--+---------.    |
     |  HEIGHT: rope swing, |
     |  hanging vines, tree  |
-    |  platforms (2-3m)     |
+    |  platforms            |
     +------+----------------+--------.
     | WATER |  LOOSE PARTS           |
     | creek |  - stick pile          |
     | splash|  - stone collection    |
     | pool  |  - seed pods, shells   |
-    | (10cm)|  - fabric scraps       |
+    |shallow|  - fabric scraps       |
     +-------+----------+-------------+
     | RETREAT SPACES   | OPEN GROUND |
     | - willow dome    | - flat for  |

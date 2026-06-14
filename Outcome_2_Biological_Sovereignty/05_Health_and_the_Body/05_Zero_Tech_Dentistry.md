@@ -70,7 +70,7 @@ When prevention fails and a cavity is not managed, the progression is predictabl
 ```text
     TOOTH CROSS-SECTION — Progression of Decay to Abscess
 
-         enamel (1.5-2mm)         Stage 1: Surface caries
+         enamel                   Stage 1: Surface caries
         /                         Stage 2: Dentin invaded
        [ ^^^^^^^^^^^^^^^^ ]       Stage 3: Pulp infected
        [  :::::::::::::::  ]      Stage 4: Pulp necrosis

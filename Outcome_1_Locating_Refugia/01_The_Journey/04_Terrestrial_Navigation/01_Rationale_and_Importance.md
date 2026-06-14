@@ -106,7 +106,7 @@ A paper map does not require batteries, satellites, or ground stations. A magnet
               +============+===========================+
                            |  falls back to
               +============v===========================+
-  +-0.5-2 km  |   TERRAIN ASSOCIATION (always available)|  Needs: eyes, memory
+  +-100-500 m |   TERRAIN ASSOCIATION (always available)|  Needs: eyes, memory
               |   Ridge lines, drainages, slope aspect  |  Fails if: featureless
               +========================================+
 ```

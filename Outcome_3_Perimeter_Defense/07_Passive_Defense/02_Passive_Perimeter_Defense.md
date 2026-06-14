@@ -302,7 +302,7 @@ The observation point does not need full surround visibility if terrain and barr
     CONCEALED OBSERVATION POST (OP) — Plan View
                   Primary sightline (approach corridor)
                 <======================================>
-                         120-150 m range
+                  clear line of sight over approach route
     [Hedge] |||                              ||| [Hedge]
             |||     Tripwire zone            |||
             |||       . . . . . .            |||

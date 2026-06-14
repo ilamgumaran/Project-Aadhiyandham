@@ -164,7 +164,7 @@ Construction requirements for each post:
 ### The Rotation Schedule
 
 ```text
- ROTATION MODEL (12 adults, 2 watch posts)
+ ROTATION MODEL (12 adults, 1 watch post)
  +------------------------------------------+
  |  Cycle: 48 hours                         |
  |                                          |

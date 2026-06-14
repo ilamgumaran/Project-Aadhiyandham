@@ -156,7 +156,7 @@ The final two weeks of each 90-day term constitute the **handover period**. This
 The handover document is filed in the Decision Log and becomes part of the community's institutional memory.
 
 ```text
-    MANDATORY ROTATION — 90-DAY STAGGERED TERMS
+    MANDATORY ROTATION — 90-DAY TERMS
     =============================================
 
     Day:  1        30        60        90       120       150       180
@@ -170,9 +170,9 @@ The handover document is filed in the Decision Log and becomes part of the commu
 
     ▓▓▓▓ = 14-day HANDOVER PERIOD (overlap of outgoing + incoming)
     
-    KEY: Staggered starts ensure at least 2 of 3 Stewards are
-         mid-term at any moment — institutional knowledge never
-         drops below 66% continuity.
+    KEY: The 14-day handover period preserves institutional
+         knowledge across each rotation; the handover document
+         is filed in the Decision Log as community memory.
 ```
 
 ### Step 3: Institute the Three-Voice Rule

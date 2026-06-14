@@ -200,7 +200,7 @@ Water, at varying temperatures, is a powerful therapeutic tool that requires no 
 ```text
     HYDROTHERAPY CONTRAST CYCLE (3-4 rounds, always end COLD)
     ──────────────────────────────────────────────────────────
-    HOT (38-42°C)         COLD (10-15°C)        HOT           COLD
+    HOT (hot water)       COLD (cold water)     HOT           COLD
     ┌───────────┐         ┌─────┐         ┌───────────┐    ┌─────┐
     │ 3 minutes │         │1 min│         │ 3 minutes │    │1 min│
     │VASODILATE │──────▶  │CONST│──────▶  │VASODILATE │──▶ │CONST│

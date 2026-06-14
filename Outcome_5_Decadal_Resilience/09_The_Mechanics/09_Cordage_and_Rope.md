@@ -279,15 +279,15 @@ The concept of the rope walk: three people each twist a single strand simultaneo
 The following ASCII diagram shows the structural principle of three-strand Z-laid rope, viewed from the end:
 
 ```
-        Strand A (Z-twist)
+        Strand A (S-twist)
            \
             \
    Strand C--+--Strand B
-  (Z-twist)  |  (Z-twist)
+  (S-twist)  |  (S-twist)
               |
-       [S-laid together]
+       [Z-laid together]
 
-  Fiber (Z) -> Yarn (S) -> Strand (Z) -> Rope (S)
+  Fiber -> Yarn (Z) -> Strand (S) -> Rope (Z)
   Each level reverses the twist direction of the level below.
 ```
 

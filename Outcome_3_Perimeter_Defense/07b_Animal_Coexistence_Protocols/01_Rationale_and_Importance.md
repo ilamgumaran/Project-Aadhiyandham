@@ -141,7 +141,7 @@ Every wildlife species causes measurable losses and provides measurable services
   Year 5: Deer/elk doubled          Year 5: Ecosystem equilibrium holds
           Crop loss 10-15%                   Pollinators service orchards
 
-  Year 10: Prey at 3-4x baseline   Year 10: Full ecosystem services
+  Year 10: Prey at 2-3x baseline   Year 10: Full ecosystem services
            Crop loss 15-25%                  Net loss 3-5% (all causes)
            NET COST: CATASTROPHIC            NET COST: MINIMAL
 ```

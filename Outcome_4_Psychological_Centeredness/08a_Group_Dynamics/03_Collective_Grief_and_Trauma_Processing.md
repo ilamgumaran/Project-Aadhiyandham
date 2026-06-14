@@ -188,21 +188,21 @@ The entire protocol takes approximately 45 minutes to 2 hours, depending on comm
 8. **The Closing:** The Convener extinguishes the candle and says: "We carry this together." The group responds: "Together." The circle disperses.
 
 ```text
-  MOURNING CIRCLE: SEATING, SPEAKING STONE FLOW, FACILITATOR
+  MOURNING CIRCLE: SEATING, WITNESS ROUND FLOW, CONVENER
 
                     X --- X
                  X    bell    X
-               /   speaking     \        C = Convener (IN the
-             X   stone ---->     X           circle, not outside)
+               /                \        C = Convener (IN the
+             X        ---->       X           circle, not outside)
             /                     \      O = candle + cloth
            X                      X     X = seated members
            |        O             |   ---> = clockwise flow
            X                      X
-            \                    /    Speaking stone passes
-             X                  X     clockwise. Each holder
+            \                    /    Witness Round moves
+             X                  X     clockwise. Each person
                \              /       may speak or pass in
-                X   X   C   X        silence. Stone returns
-                                      to center after round.
+                X   X   C   X        silence. No comment on
+                                      what another says.
 ```
 
 ### The Seasonal Remembrance (Cumulative Grief)

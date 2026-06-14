@@ -65,7 +65,7 @@ Water requirements scale with temperature, physical activity, and the breadth of
           +===================================================+
                  BASE: Non-negotiable from Hour 1
 
-          50-person settlement total: 125 L/day (base) --> 2,500 L/day (full)
+          50-person settlement total: 375 L/day (base) --> 2,500 L/day (full)
 ```
 
 - **Minimum survival (drinking only):** 2-3 L/person/day. Below 2 L/day in temperate conditions, renal function deteriorates within 3-5 days. In hot conditions (>35 C ambient), minimum rises to 4-5 L/day due to sweat losses of 1-2 L/hour during heavy labor.

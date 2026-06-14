@@ -72,16 +72,18 @@ This role is rotated specifically to prevent the accumulation of procedural powe
                     Guides process, no vote
                            [F]
                           /   \
-              [T]--------/     \--------[D]
-          TIMEKEEPER              DEVIL'S ADVOCATE
-        Enforces 2-hr max      Voices unspoken concerns
-              |    o  o  o  o  o  o    |
-              |   o  COMMUNITY MEMBERS o
-              [S]---------+-----------+
-                       SCRIBE
+                         /     \
+                        /       \
+              o  o  o  o  o  o  o  o  o
+              o      COMMUNITY MEMBERS     o
+                        \       /
+                         \     /
+                          \   /
+                           [S]
+                         SCRIBE
                Records in Chronicle of Reason
 
-  ALL FOUR ROLES ROTATE --> No permanent procedural power
+  ROLES ROTATE --> No permanent procedural power
 ```
 
 Blocking is the most powerful and most dangerous tool in consensus. A single block stops a decision. This power exists to protect minorities from being steamrolled, but it can also be weaponized by a single individual to impose their will on the group.

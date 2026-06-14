@@ -138,8 +138,8 @@ These pigments are ground to fine powder and mixed with a binder (egg, oil, or l
     :     : (3-4)     :     :     :     : (12-13)   :
     :     :     : tannin   :   wood     :     :     :
     :     :     : bath     :   ash      :     :     :
-    :     :     : (4-5)    :  water     :     :     :
-    :     :     :     :     : (9-10)    :     :     :
+    :     :     :          :  water     :     :     :
+    :     :     :     :     :           :     :     :
     |-----|-----|-----|-----|-----|-----|-----|-----|
     CORROSIVE         SAFE RANGE          CAUSTIC
 ```

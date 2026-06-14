@@ -36,11 +36,11 @@ For settlement engineering, the First and Second Laws carry the greatest weight.
    FIRST LAW — CONSERVATION          SECOND LAW — DIRECTION
    "you cannot win"                  "you cannot break even"
 
-      ┌───────────┐                     HOT ████ 600 °C forge
+      ┌───────────┐                     HOT ████ forge (hot body)
       │  ENERGY   │                          │
       │    IN     │ 100 units               │  heat flows DOWNHILL
       └─────┬─────┘                          ▼  spontaneously, free
-            │                           COLD ░░░░ 20 °C room
+            │                           COLD ░░░░ room (cold body)
       ┌─────▼─────┐
       │  MACHINE  │                          ▲  heat flows UPHILL
       └─────┬─────┘                          │  ONLY by paying

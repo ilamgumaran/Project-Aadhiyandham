@@ -228,7 +228,7 @@ Most predator encounters are caused by the settlement, not the predator. Before 
 
         LIGHT───────────────LIGHT
           │    Cleared Zone    │
-          │  (no brush, 15m)   │
+          │  (no brush, 50m)   │
    LIGHT──┼────────────────────┼──LIGHT
           │ ┌────────────────┐ │
           │ │  ROOFED ENCL.  │ │

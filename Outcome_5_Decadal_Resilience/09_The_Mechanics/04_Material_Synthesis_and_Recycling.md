@@ -227,13 +227,14 @@ CARBURIZATION & FOLD-WELDING — WROUGHT IRON TO TOOL STEEL
   STEP 1: PACK CARBURIZATION        STEP 2: FOLD-WELDING
   (4-12 hrs at 900-1000°C)          (repeated heating + hammering)
 
-  +------------------------+        Fold 1: [===========] 1 layer
-  |  charcoal   charcoal   |        Fold 2: [=====|=====] 2 layers
-  |  powder ############## |        Fold 3: [==|==|==|==] 4 layers
-  |  ##### IRON BAR ###### |        Fold 4: [||||||||||| ] 8 layers
-  |  ##### (0.02% C) ##### |        Fold 5: 16 layers
-  |  powder   powder       |        Fold 6: 32 layers --> uniform
-  +---SEALED WITH CLAY-----+
+  +------------------------+        Start:  [===========] 1 layer
+  |  charcoal   charcoal   |        Fold 1: [=====|=====] 2 layers
+  |  powder ############## |        Fold 2: [==|==|==|==] 4 layers
+  |  ##### IRON BAR ###### |        Fold 3: [||||||||||| ] 8 layers
+  |  ##### (0.02% C) ##### |        Fold 4: 16 layers
+  |  powder   powder       |        Fold 5: 32 layers
+  +---SEALED WITH CLAY-----+        Fold 6: 64 layers --> uniform
+
                                     Each fold: heat to 1200°C+,
   Carbon diffuses inward -->        flux with borax, fold, hammer
   surface becomes 0.3-0.8% C       Result: tool steel for edges

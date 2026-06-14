@@ -46,13 +46,13 @@ Temp:     ambient   rising   40-55 C peak   cooling      ambient
           |         |        ^^^^^^^^^^^^   |            |
 Nutrients:|         |        N,K,S flush    P release    Ca slow-release
 released  minimal   fluids   ============   =========    from bone mineral
-          |         |        (80% of N,K)  (phosphorus)  over decades
+          |         |        (N,K bulk)    (phosphorus)  over decades
           |         |        |              |            |
 Pathogen  LOW       HIGH     DECLINING      MINIMAL      SAFE
 risk:                        (thermophilic               (safe to plant
                               kill phase)                 food trees)
 ------------------------------------------------------------
-Soil:     none      none     humus forming  humus stable  ite enrichment
+Soil:     none      none     humus forming  humus stable  site enrichment
 ```
 
 ### The Nutrient Budget of a Human Body
@@ -115,8 +115,8 @@ Prions (CJD)      | ### ### ### ###  ###  ### ###  ### INDEFINITE
  ### = viable/detectable    . = below infectious threshold
 
 Depth effect: at 1.5m (epidemic burial), survival extends
-~30% longer due to lower O2 and cooler temperature.
-Quicklime reduces survival of all non-prion pathogens by 60-80%.
+longer due to lower O2 and cooler temperature.
+Quicklime reduces survival of all non-prion pathogens.
 ```
 
 ---
@@ -254,7 +254,7 @@ MEMORIAL GROVE LAYOUT (plan view, 30m x 30m plot)
   T = memorial tree (canopy expands to fill 3m spacing)
   [==] = grave (2m x 0.8m), oriented head uphill
   Nutrient cycle: body -> soil -> roots -> trunk -> leaf litter -> soil
-  Path (1.5m wide) runs between rows for mourner access
+  Path runs between rows for mourner access
 ```
 
 **The emotional architecture of the memorial forest.** The forest serves a psychological function as profound as its ecological one. Grief needs a place. The memorial forest gives mourners a living, growing, fruiting entity to visit, tend, and speak to.

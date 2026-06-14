@@ -160,7 +160,7 @@ When navigating to a point on a linear feature (e.g., a bridge on a river), do N
    ~~~~~~~~~~[BRIDGE]~~~~~~~~~~~~~~ River
                |    \
                |     \  Offset bearing
-    Direct     |      \  (aim LEFT of bridge)
+    Direct     |      \  (aim RIGHT of bridge)
     bearing    |       \
     (risky)    |        \
                |         \
@@ -170,8 +170,8 @@ When navigating to a point on a linear feature (e.g., a bridge on a river), do N
    Direct: you hit the river... but which way
            is the bridge? 50/50 guess.
 
-   Offset: you KNOW the bridge is to your RIGHT.
-           Turn right along the river. Found it.
+   Offset: you KNOW the bridge is to your LEFT.
+           Turn left along the river. Found it.
 ```
 
 ---

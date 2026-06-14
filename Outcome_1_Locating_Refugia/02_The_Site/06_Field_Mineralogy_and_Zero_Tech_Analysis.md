@@ -239,7 +239,7 @@ This test determines the sand, silt, and clay percentages of a soil sample by ex
          |...........|       smooth, flour-like
          |...........|
          |___________|
-         |ooooooooooo| ~20%  FINE SAND (settles in 30 min)
+         |ooooooooooo| ~20%  FINE SAND (settles in ~1 minute)
          |ooooooooooo|       visible grains
          |___________|
          |OOoOOoOOoOO| ~50%  COARSE SAND + GRAVEL

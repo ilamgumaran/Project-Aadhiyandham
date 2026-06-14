@@ -38,7 +38,7 @@ Heart Rate: < 100 bpm    100-120 bpm  120-140 bpm    > 140 bpm
 BP:         Normal       Normal       Decreased      Absent
 Mental:     Slight anxty Anxious      Confused       Unconscious
 Skin:       Normal       Pale         Cold/clammy    Grey/mottled
-Urine:      > 30 mL/hr  20-30 mL/hr  5-15 mL/hr    Negligible
+Urine:      Normal       Normal       Near zero      Negligible
 
 Urgency:    Observe ──>  Control ──>  EMERGENCY ──>  FATAL
 ```
@@ -131,7 +131,7 @@ MARCH PROTOCOL — TREATMENT PRIORITY FLOWCHART
        Tourniquets, wound packing
             │
             v
-  [ A - AIRWAY ]                    Kills in: 3-5 min
+  [ A - AIRWAY ]                    Kills in: minutes
        Position, clear obstructions
             │
             v
@@ -193,8 +193,9 @@ WINDLASS TOURNIQUET — PLACEMENT (Side View of Limb)
         ║   │ (>5cm    │              ║ ~~~~ (bleeding
         ║   │  wide)   │              ║ ~~~~  source)
   ══════╬══════════════════════════════╬══════════
-            │◄──5-8cm──►│
-            2-3 inches ABOVE wound
+        ║◄──────────────────────────►║
+        Place HIGH AND TIGHT, ABOVE wound,
+        as close to the torso as practical
 
   Windlass rod placed ON TOP, twisted until
   bleeding STOPS. Mark forehead: "TQ 14:30"

@@ -172,7 +172,7 @@ Organize the settlement pharmacy for rapid access during emergencies. Every jar 
 
     UPPER SHELF (tinctures & oils -- long shelf life)
     +-----------+-----------+-----------+-----------+
-    |  OREGANO  |  ECHINACEA|  BERBERINE|  THYME    |
+    |  OREGANO  |  WILLOW   |  BERBERINE|  THYME    |
     |   OIL     |  TINCTURE |  TINCTURE |  TINCTURE |
     | (dark     | (1:5 in   | (1:5 in   | (1:5 in   |
     |  glass)   |  50% EtOH)|  50% EtOH)|  50% EtOH)|
@@ -199,7 +199,7 @@ Organize the settlement pharmacy for rapid access during emergencies. Every jar 
 
     GARDEN BED (the living pharmacy -- always available)
     ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
-    | GARLIC | THYME | OREGANO | PLANTAIN | ECHINACEA |
+    | GARLIC | THYME | OREGANO | PLANTAIN | OR.GRAPE |
     ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
     Note: Fresh garlic and plantain MUST be available
     at all times. These cannot be effectively stored.

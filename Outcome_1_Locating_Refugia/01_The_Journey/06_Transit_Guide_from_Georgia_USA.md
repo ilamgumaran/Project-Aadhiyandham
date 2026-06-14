@@ -191,7 +191,7 @@ TRAVOIS - TOP VIEW
            | Platform  |
            | (crossbars)|
            |  1.0-1.5m |
-          /     wide    /
+          /     long    /
          /             /
     [===]             /  Pole (3-4m)
     [===]------------/

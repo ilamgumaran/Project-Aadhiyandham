@@ -327,8 +327,8 @@ Together, these three sub-modules form the core of the archive: the laws governi
           ┌──────────────┐ ┌──────────────┐ ┌──────────────┐
           │  SECONDARY   │ │   DISTANT    │ │  HARDENED    │
           │  outbuilding │ │  allied site │ │  fired-clay  │
-          │  ≥ 30 m from │ │  ≥ 1 km away │ │  vault OR    │
-          │  main archive│ │  (root cellar│ │  sealed cave │
+          │  separate    │ │  off-site    │ │  vault OR    │
+          │  building    │ │  (root cellar│ │  sealed cave │
           │              │ │   or hamlet) │ │  upslope     │
           │              │ │              │ │              │
           │  T1: copy    │ │  T1: copy    │ │  T1: copy    │

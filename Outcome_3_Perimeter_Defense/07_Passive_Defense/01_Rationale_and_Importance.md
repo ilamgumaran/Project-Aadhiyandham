@@ -65,8 +65,8 @@ The initial labor investment is front-loaded and finite; the defensive return is
                   Passive Defense Investment (% of optimal)
 
   KEY: Each unit of passive investment yields EXPONENTIAL reduction
-       in active defense labor. A mature hedge system (80%+)
-       reduces standing guard duty from 40+ hrs/week to <5 hrs/week.
+       in active defense labor. A mature hedge system sharply
+       reduces standing guard duty as the curve flattens.
 ```
 
 ### Defense in Depth: The Concentric Ring Model
@@ -110,7 +110,7 @@ The combined goal of all four rings is 15 to 30 minutes of warning before any th
               '---- Acoustic Zones & Animal Sentinels ---'
 
    ATTACKER MUST BREACH ALL LAYERS  |  DEFENDER NEEDS ONE TO HOLD
-   Time gained per ring: 5-10 min   |  Total warning: 15-30 min
+   Each ring adds delay & warning   |  Total warning: 15-30 min
 ```
 
 ### Historical Models of Passive Defense
@@ -188,8 +188,8 @@ Most encounters in a functional settlement will never pass the second step. The 
          THREAT PROBABILITY vs IMPACT MATRIX
 
   IMPACT   |
-  (high)   |  Wildlife      Armed group     Organized
-     5     |  damage [A]    (2-5 ppl) [C]   raid [D]
+  (high)   |  Wildlife      Armed           Organized
+     5     |  damage [A]    intruder [C]    raid [D]
      4     |
      3     |  Curious         Hostile
      2     |  traveler [B]    individual [C]

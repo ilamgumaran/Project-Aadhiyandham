@@ -49,7 +49,7 @@ Base temperatures vary by species:
   1500 |                                         __--
   1000 |                                    __--  Chicory (~1000)
    500 |                           __---  Black Locust (~500)
-   300 |                    __---  Lilac / Oak (~300)
+   300 |                    __---  Oak (~300)
    100 |             __---  Forsythia (~100)
      0 |__------
        +----+----+----+----+----+----+----+----+----+----+----+----+
@@ -92,12 +92,12 @@ Hopkins' Law is approximate and works best across moderate distances in eastern 
 
   NORTH                            Elevation
   49°N  ---- Site C: 600m ----      |  Site C (49°N, 600m)
-        Lilac bloom: ~May 22        |  +16 days (lat) +8 days (elev)
+        Lilac bloom: ~Jun 7         |  +32 days (lat) +16 days (elev)
                                     |       /
   47°N                              |      /  +4 days per 1° lat N
                                     |     /   +4 days per 120m up
   45°N  ---- Site B: 360m ----      |  Site B (45°N, 360m)
-        Lilac bloom: ~May 6         |  +8 days (lat) +4 days (elev)
+        Lilac bloom: ~May 14        |  +16 days (lat) +8 days (elev)
                                     |     /
   43°N                              |    /
                                     |   /
@@ -106,7 +106,7 @@ Hopkins' Law is approximate and works best across moderate distances in eastern 
   SOUTH                             +---------------------------
                                    120m    360m    600m
 
-  Reading: From Site A to Site C, spring arrives 24 days later
+  Reading: From Site A to Site C, spring arrives 48 days later
   due to the combined effect of 8° latitude and 480m elevation.
 ```
 

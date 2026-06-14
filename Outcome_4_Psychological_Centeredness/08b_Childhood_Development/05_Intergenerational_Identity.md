@@ -78,7 +78,7 @@ Hobsbawm and Ranger (1983), in *The Invention of Tradition*, documented that man
     KNOWLEDGE TRANSMISSION CHAIN
     Teaching modes shift at each generational link
 
-    ELDER (70+)              ADULT (30-60)           YOUTH (13-18)          CHILD (3-12)
+    ELDER                   ADULT                   YOUTH                  CHILD
     +-----------+            +-----------+           +-----------+          +-----------+
     | Keeper of |            | Bridge    |           | Questioner|          | Absorber  |
     | deep      |            | between   |           | and fresh |          | through   |

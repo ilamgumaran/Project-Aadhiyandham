@@ -34,7 +34,7 @@ CONTINUITY EQUATION — RIVER CROSS-SECTIONS (looking downstream)
   |________________|               | ==>==>==>|
    depth ~1 m                      | ==>==>==>|
                                    |__________|
-                                    depth ~3 m
+                                    depth ~1 m
 
   Q = 30 x 2 = 60 m^3/s    =     Q = 10 x 6 = 60 m^3/s
 

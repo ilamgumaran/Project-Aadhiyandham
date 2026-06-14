@@ -98,7 +98,7 @@ When wheeled transport is impractical (dense forest, steep terrain, stream cross
            ▓▓              ▓▓     ◄── hooves (sure-footed)
 
   RULES:  ● Load ≤ 20-25% body weight for multi-day travel
-          ● Balance left/right within 2 kg
+          ● Balance left/right panniers evenly
           ● Keep center of gravity LOW (heavy items at bottom)
           ● Remove saddle/panniers at every extended rest stop
 ```

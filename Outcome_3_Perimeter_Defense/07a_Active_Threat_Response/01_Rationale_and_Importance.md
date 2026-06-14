@@ -26,7 +26,7 @@ passive systems cannot think.
               │ Channeled path       │   │ deploys to        │
               │ forces detour        │   │ Contact Point     │
               └──────────────────────┘   └───────────────────┘
-              |<--- 5-15 min delay --->|<--- Decision --->|
+              |<--- time buffer/warning -->|<--- Decision --->|
               Passive = automatic time   Human judgment with
               buffer, no fatigue         adequate warning
 ```

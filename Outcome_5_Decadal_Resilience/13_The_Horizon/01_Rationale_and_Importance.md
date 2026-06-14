@@ -91,8 +91,8 @@ Consider the cascade effect of a single material: glass lenses enable microscope
 
    melt SAND          grind a            build a
    into glass  ────►  LENS      ────►    MICROSCOPE  ────►  SEE BACTERIA
-   (1300°C)           (10–20 h           (two lenses,       (the invisible
-                       polishing)         30–200×)           made visible)
+   (1300°C)           (polish by         (magnifying        (the invisible
+                       hand)              optics)            made visible)
                                                                   │
         ┌─────────────────────────────────────────────────────────┘
         ▼

@@ -48,12 +48,12 @@ This differential is the mechanism behind **orographic precipitation**: when win
                    /~~RAIN~~\
   2500 m      ___/  MALR     \___              Dry descent
              /  5-6 C/km cool  \              (warms at DALR
-  2000 m   /   (latent heat     \              10 C/km)
+  2000 m   /   (latent heat     \              9.8 C/km)
           /     slows cooling)   \
   1500 m /________________________\____        RAIN SHADOW
         / ^ Cloud base (dew point) \   \___    (dry, warm)
        /  | reached here            \      \___
-  500 m  DALR 10 C/km cooling        \         \___
+  500 m  DALR 9.8 C/km cooling       \         \___
       /   | (unsaturated air)          \            \___
   0 m ====|============================|=================>
       WINDWARD         PEAK           LEEWARD

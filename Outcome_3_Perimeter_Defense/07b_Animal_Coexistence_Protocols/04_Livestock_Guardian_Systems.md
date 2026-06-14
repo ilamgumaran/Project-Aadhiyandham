@@ -185,8 +185,9 @@ Guardian animals must bond to the livestock they protect, not to humans. This is
               ACQUIRE HERE            EVALUATE HERE
               (do not delay)          (pass/fail decision)
 
-    RISK: Each week past 12 wks without livestock = 15% drop in
-          bonding success probability. By 20 wks = near zero.
+    RISK: Every week of delay without livestock reduces bonding
+          success probability. Once the window closes, bonding is
+          far less reliable.
 ```
 
 **Human Interaction Guidelines During Bonding:**
@@ -242,8 +243,8 @@ If these behaviors persist past month 8, the individual is not guardian material
     [LGD #2] ---> FLOCK GUARD (stays WITH flock during incident)
                         prevents secondary attack from opposite side
 
-    COVERAGE: Llama = early warning (300m detection radius)
-              Donkey = close defense (aggressive within 50m)
+    COVERAGE: Llama = early warning (vocal alarm)
+              Donkey = close defense (anti-canid aggression)
               LGD   = full spectrum (detect, deter, pursue, confront)
 ```
 

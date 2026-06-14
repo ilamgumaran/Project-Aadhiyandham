@@ -259,7 +259,7 @@ There is no higher-return investment a small community can make in its own futur
     Proximity gradient:
     =============================
     INNER RING   = attachment figures (daily contact)
-    MIDDLE RING  = familiar adults (weekly meaningful interaction)
+    MIDDLE RING  = familiar adults (less frequent interaction)
     OUTER RING   = community members (known faces, low-frequency contact)
 ```
 

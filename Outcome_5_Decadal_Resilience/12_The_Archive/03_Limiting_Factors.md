@@ -87,7 +87,7 @@ Consider a settlement's agricultural system over successive seasons:
        (% of potential yield, season by season)
 
    100% ┤                                    · · · · · ceiling
-        │                                ┌────┐ 80%
+        │                                ┌────┐ (rises further)
     80% ┤                           ┌────┘ skill/labour now limits
         │                      ┌────┘ 65%
     60% ┤                 ┌────┘ phosphorus now limits

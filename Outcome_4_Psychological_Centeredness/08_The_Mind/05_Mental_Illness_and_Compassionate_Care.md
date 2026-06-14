@@ -300,7 +300,7 @@ Requirements:
 The room should feel like a quiet bedroom, not a cell. Ideally located near the center of the settlement rather than at the periphery — proximity to community life reduces the isolation effect even during containment.
 
 ```text
-    CALM ROOM LAYOUT (plan view, approx. 3m x 4m)
+    CALM ROOM LAYOUT (plan view)
 
     ┌─────────────────────────────────────────┐
     │ ╔═══════════╗       OBSERVATION WINDOW  │

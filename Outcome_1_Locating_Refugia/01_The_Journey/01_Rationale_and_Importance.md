@@ -137,7 +137,7 @@ These five principles govern every decision during transit. Violating any one of
               |                               ^ deficit: ~1,700
     Steep mtn |=======|=======|=======|=======|=======|   ~5,400 kcal
               |                               ^ deficit: ~2,900
-    Sand/snow |=======|=======|=======|=======|====|      ~4,500 kcal
+    Sand/snow |=======|=======|=======|=======|=======|=  ~5,000-6,200 kcal
               |-------|-------|-------|-------|-------|
               0     1000    2000    3000    4000    5000
 

@@ -265,7 +265,7 @@ The grand total of 30.65 kg exceeds a single adult's 15 kg limit by more than do
                      0%   10%   20%   30%   40%
 
   NOTE: Full kit requires 3+ carriers (45 kg budget).
-  Solo traveler: drop partial A, all D, partial G = ~15 kg.
+  Solo traveler: drop partial A, all D, all G = ~15 kg.
 ```
 
 **Family of Four (2 adults at 75 kg, 1 adolescent at 50 kg, 1 child — non-carrier):**

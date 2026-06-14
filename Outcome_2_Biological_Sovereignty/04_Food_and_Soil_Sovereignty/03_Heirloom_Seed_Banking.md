@@ -244,7 +244,7 @@ The seed vault need not be elaborate, but it must satisfy four requirements:
     PRACTICAL TARGETS FOR POST-COLLAPSE:
     ┌─────────────────────────────────────────────────────┐
     │  Root cellar (8-12°C) + sealed glass + desiccant    │
-    │  = approximately 15°C, <20% RH inside jar          │
+    │  = approximately 10°C, <20% RH inside jar          │
     │  = "OPTIMAL" zone — 5-15 year storage life         │
     └─────────────────────────────────────────────────────┘
 ```

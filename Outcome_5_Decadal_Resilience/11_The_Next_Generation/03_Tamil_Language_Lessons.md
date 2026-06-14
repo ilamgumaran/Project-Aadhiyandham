@@ -58,8 +58,9 @@ The Tolkappiyam, attributed to Tolkappiyar and dated to approximately 200 BCE, i
    | strokes   | ---> | forms     | ---> | flowing   | ---> | loops &   |
    | on stone  |      | emerge    |      | on palm   |      | curves    |
    +-----------+      +-----------+      +-----------+      +-----------+
-     Sangam poets      Tolkappiyam       Devotional poetry   Thirukkural
-     compose here      codifies grammar  blooms              in print
+     Sangam poets +    Regional script   Devotional poetry   Thirukkural
+     Tolkappiyam       matures           blooms              in print
+     (~200 BCE)
 ```
 
 The Thirukkural by Thiruvalluvar, composed between approximately 200 BCE and 500 CE, consists of exactly 1,330 couplets organized into 133 chapters of 10 couplets each, covering three books: aram (virtue, chapters 1-38), porul (wealth and statecraft, chapters 39-108), and inbam (love, chapters 109-133). The Thirukkural is remarkable for its complete secularity --- it belongs to no single religious tradition and provides a universal ethical framework. For the settlement, this text serves as an ethical curriculum independent of any theological commitment, a shared moral vocabulary that every member of the community can reference regardless of personal belief.

@@ -176,23 +176,23 @@ In a post-collapse setting, mercury or digital thermometers may not be available
            ╱           straw cap           ╲
           ╱┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈╲
          ╱   ┌───────────────────────────┐    ╲
-        │    │  ③ SEED BIO-ASSAY         │     │
-        │    │  [10 cress seeds in mesh] │     │
-        │    │   placed at core          │     │
-  ──────│────│───check after 7 days──────│─────│──
-        │    │   dead seeds = T > 55°C   │     │
+        │    │  ③ STEAM TEST            │     │
+        │    │  [turn core on a cool     │     │
+        │    │   morning < 15°C]         │     │
+  ──────│────│───observe exposed core────│─────│──
+        │    │   heavy steam = T > 60°C  │     │
         │    └───────────────────────────┘     │
         │         ② WAX INDICATORS             │
   ①─────┼──────►  [soy wax 49-55°C]  ◄────────┤
   Metal │         [beeswax 62-64°C]            │
   rod   │          in wire cage at             │
-  60cm  │          30cm depth                  │
+  60cm  │          pile center                 │
         │                                      │
         ╰──────────────────────────────────────╯
        ▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔
    ① Insert rod 2 min → press to inner wrist → if painful in 3-5s: ≥55°C
-   ② Retrieve cage after 24h → melted soy wax confirms ≥50°C reached
-   ③ Seeds dead after 7 days → confirms sustained lethal temperature
+   ② Retrieve cage after 24h → melted soy wax confirms ≥49°C reached
+   ③ Heavy steam >10s on a cold morning → core above 60°C
 ```
 
 **Method 1: The Metal Rod Test**

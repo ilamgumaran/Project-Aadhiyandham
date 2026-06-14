@@ -77,7 +77,7 @@ Without these baselines, a community may build an entire settlement on soil that
       |    ####    ####    ####      ####       ####
     0 +----####----####----####------####-------####---
          Sand     Loam    Clay     Humus     Biochar
-         (~5)    (~15)   (~30)    (~100)    (50-150)
+         (~5)    (~15)   (~30)    (high)    (40-80)
 
        LOW CEC ------> nutrients wash away with rain
        HIGH CEC -----> nutrients held for plant roots
@@ -215,9 +215,9 @@ Perform the earthworm census at the same time as the dig test (soil depth assess
 
   HEALTH RATING:
    <5 worms  = POOR .       (rebuild with compost/mulch)
-   5-10      = MODERATE ..  (functional, improve over time)
-   10-20     = GOOD ...     (healthy nutrient cycling)
-   >20       = EXCELLENT .. (prime soil biology)
+   5-10      = ADEQUATE ..  (functional, improve over time)
+   >10       = EXCELLENT .. (healthy nutrient cycling)
+   0 (moist) = SUSPECT      (possible contamination)
 ```
 
 ### Water Quality Assessment

@@ -319,7 +319,7 @@ The most common underlying cause is unmet basic needs — food scarcity, water p
 ```text
     PSYCHOLOGICAL FIRST AID TIMELINE
     ==================================
-    ACUTE (0-48 hrs)       SHORT-TERM (2-4 wks)    LONG-TERM (months)
+    ACUTE PHASE            SHORT-TERM PHASE        LONG-TERM PHASE
     ----------------       --------------------    ------------------
     | Safety first   |     | Grief circles     |  | Narrative       |
     | Physical needs |     | Daily check-ins   |  |   integration   |
@@ -334,7 +334,7 @@ The most common underlying cause is unmet basic needs — food scarcity, water p
     nervous system          prevent avoidance       loss into identity
     
     Refer to Module 05 if: dissociation persists, self-harm risk,
-    inability to function after 4 weeks, or psychotic symptoms emerge.
+    persistent inability to function, or psychotic symptoms emerge.
 ```
 
 5. **Nostalgia Trap**: Community members fixate on "how things were before" — the comforts, technologies, social structures, and opportunities of the pre-settlement world. This chronic comparison between an idealized past and a difficult present produces dissatisfaction that the Centered Null cannot overcome, because the Centered Null requires engagement with the present, and nostalgia is by definition a refusal of the present.

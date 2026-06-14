@@ -297,7 +297,7 @@ SETTLEMENT ACOUSTIC ZONING (Plan View, Not to Scale)
 
     +-------------------+
     |                   |
-    |   FORGE /         |       150m minimum
+    |   FORGE /         |       100m minimum
     |   WORKSHOP        |       from sleeping
     |   (noise zone)    |       quarters
     |                   |
