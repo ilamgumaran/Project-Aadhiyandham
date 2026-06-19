@@ -59,7 +59,7 @@ Caloric yield per hectare for key crops (approximate values for temperate zones 
 | Dry Beans | 3,000,000 - 5,000,000 |
 | Squash (winter) | 3,000,000 - 6,000,000 |
 
-A diversified polyculture using the Mesoamerican "Three Sisters" model (corn + beans + squash) yields approximately 10-15 million kcal/ha when well-managed. Therefore, a 50-person settlement requires approximately **4-6 hectares of intensive agriculture** plus additional land for orchards, pasture, fallow rotation, and fuel wood production. The **0.5 ha/person "Sovereignty Threshold"** established in Section 03 accounts for fallow rotation, fuel wood, and a safety margin against crop failure years.
+A diversified polyculture using the Mesoamerican "Three Sisters" model (corn + beans + squash) yields approximately 7-12 million kcal/ha in most temperate zones (the higher end requires volcanic or alluvial soil with reliable rainfall; plan conservatively at 7-8 million). A 50-person settlement consuming ~65 million kcal/year therefore requires approximately **6-10 hectares of intensive cropping land.** But cropping land is only one component of the total land budget. The **0.5 ha/person "Sovereignty Threshold"** (25 ha total for 50 people) accounts for the full mosaic: intensive crops (6-10 ha), orchards and perennial food forest (2-3 ha), pasture and silvopasture (3-5 ha), managed coppice woodland for fuel and timber (3-5 ha), fallow rotation (rotating subset of cropping land), and an ecological buffer of unmanaged forest (remaining area). See Section 06 (Ecological Harmony) for the detailed land allocation breakdown.
 
 ### Liebig's Law of the Minimum Applied to Agriculture
 

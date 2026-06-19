@@ -219,19 +219,21 @@ Carrying all necessary survival gear in a backpack (limited to ~20% of body weig
 
 ### Essential Carry (The Sovereignty Kit)
 
-Cargo must prioritize items that cannot be manufactured in the field. **For a family of 4 (2 Adults, 2 Teens):**
+Cargo must prioritize items that cannot be manufactured in the field. Use scavenged industrial materials while they exist — they are a bridge to sustainability, not a permanent dependency. For each item below, the **sustainable replacement** is noted; transition to it when settlement manufacturing capacity allows.
+
+**For a family of 4 (2 Adults, 2 Teens):**
 
 | Category | Items | Weight (kg) | Priority |
 |----------|-------|-------------|----------|
 | Core Tools | 1x high-carbon steel axe, 1x folding cross-cut saw, 4x fixed-blade knives (one per person, belt-worn), 2x tempered shovels | 8-10 | Critical |
-| Water & Fire | 4x 1.2L stainless steel canteens (single-wall, fire-safe for boiling), 1x gravity water filter + 4x pocket filters, 4x ferrocerium rods | 4-5 | Critical |
+| Water & Fire | 4x 1.2L stainless steel canteens (replacement: fired clay canteens or animal-hide water bags), 1x gravity water filter + 4x pocket filters (replacement: cloth pre-filter + boiling), 2x ferrocerium rods + 2x flint-and-steel kits + bow drill components. Ferro rods are finite (~1,000-2,000 strikes realistic); flint/steel and bow drill are the sustainable methods. | 4-5 | Critical |
 | Seed Bank | 4.5 kg vacuum-sealed heirloom seeds (beans, squash, corn, potatoes), split across 2 packs | 4.5 | Critical |
-| Transit Calories | Pemmican, hardtack, nut butters — 2,500 kcal/person/day x transit days | 36 (10-day) | Critical |
-| Shelter | 2x 3m x 3m silnylon tarps, 60m paracord, 4x closed-cell foam pads (R-value 3.0+) | 6-8 | Critical |
+| Transit Calories | Pemmican, hardtack, nut butters — 3,000 kcal/adult/day, 2,500 kcal/teen/day (see Logistical Reach calc). 36 kg at ~4,500 kcal/kg = ~162,000 kcal, sustaining a family of 4 for ~13 days. | 36 (13-day) | Critical |
+| Shelter | 2x 3m x 3m silnylon tarps (sustainable replacement: oiled canvas or waxed linen), 60m paracord (replacement: plant-fiber cordage per Module 09), 4x closed-cell foam pads (replacement: thick wool blanket + leaf/pine needle ground layer) | 6-8 | Critical |
 | Medical | Trauma kit, antibiotics, suture kit, 2x tourniquet, wound irrigation syringe, blister kit (moleskin, benzoin tincture, athletic tape) | 2-3 | Critical |
 | Navigation | 2x baseplate compasses, regional topo maps in waterproof cases | 0.5-1 | Critical |
 | Optics & Light | 1x monocular or lightweight binoculars, 2x hand-crank/solar LED headlamps | 1-2 | High |
-| Repair | Heavy-duty sail needles, kevlar thread, duct tape, spare cordage | 0.5-1 | High |
+| Repair | Heavy-duty sail needles (sustainable: bone needles), kevlar thread (replacement: sinew or plant-fiber thread), duct tape (finite — use sparingly), spare cordage | 0.5-1 | High |
 | Hygiene | Metal trowel, heavy-duty tweezers, concentrated biodegradable soap | 0.5 | High |
 | **Total** | | **63-72 kg** | |
 

@@ -70,8 +70,8 @@ Beginning on Day 3, execute these tests systematically. Each test produces a PAS
 
 1. Identify ALL water sources within 1 km: springs, streams, ponds, seeps.
 2. Measure the primary stream flow using the float method (Module 10, Climate Thresholds): velocity × cross-section = liters/second.
-3. Calculate: Can this flow sustain the group at 50 L/person/day?
-4. **Confirm gravity feed:** Is the water source ABOVE the candidate building area? If you must pump water uphill, the site is marginal.
+3. Calculate: Can this flow sustain the group at 50 L/person/day? (Note: transit requires only 3-4 L/person/day for drinking. Settlement requires 50 L because it includes cooking 5 L, hygiene 10 L, laundry 5 L, small garden irrigation 20 L, and livestock 10 L. The 15 L/person/day MARGINAL threshold covers drinking + cooking + minimal hygiene only.)
+4. **Confirm gravity feed:** Is the water source ABOVE the candidate building area? Gravity feed is strongly preferred — it eliminates daily pumping labor. If the only water source is below the building site, the site is MARGINAL, not automatically failed: hand-pump wells and hydraulic rams (Module 04) can compensate, but at ongoing labor cost.
 
 | Result | Verdict |
 |:---|:---|

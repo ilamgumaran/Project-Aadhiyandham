@@ -216,7 +216,7 @@ A structured protocol for assessing the settlement's ecosystem health, conducted
 
 ### The Land Use Mosaic Plan
 
-Recommended land allocation for a 20-hectare settlement supporting 40-60 people:
+Recommended land allocation for a settlement supporting 40-60 people (total land: 15-23 ha depending on soil quality, climate, and livestock numbers — use the lower end for fertile river valleys, the upper end for marginal uplands):
 
 | Zone | Area (ha) | Purpose | Management Regime |
 |---|---|---|---|
