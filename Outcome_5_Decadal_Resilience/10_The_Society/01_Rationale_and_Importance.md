@@ -302,6 +302,15 @@ Adding governance processes, committees, rules, and administrative layers in res
 Believing that the settlement is fundamentally different from the civilizations that collapsed. "The Norse failed because they were stubborn, but we are flexible." This is the most dangerous failure mode because it disables the primary defense mechanism — the willingness to examine oneself critically.
 **Prevention:** During each Failure Mode Audit, explicitly ask: "In what way are we currently behaving like a civilization that collapsed?" Treat the inability to answer this question as a red flag, not a reassurance.
 
+**7. Governance Degradation (The Slow Fade).**
+The community stops performing quarterly audits, reading circles, and structured consensus processes — not through a conscious decision, but through the accumulation of skipped sessions during busy seasons, crises, and apparent stability. After 2-3 years of neglect, governance exists only on paper. Decisions revert to informal authority (whoever speaks loudest), and conditions for Elite Capture (Failure Mode 1) re-establish silently.
+**Detection:** Governance is degrading if ANY of these are true: (a) last Failure Mode Audit was more than 6 months ago; (b) last Reading Circle was more than 3 months ago; (c) fewer than 50% of adults attended the last council; (d) any single person has made 3+ unilateral decisions without council review in the past month.
+**Graceful Degradation Protocol:** If full governance cannot be maintained (crisis year, population too small, labor stretched), fall back to this minimum viable governance:
+*   **Monthly:** One 30-minute all-hands meeting. Each adult states one concern and one appreciation. Any concern raised by 3+ people becomes a decision item resolved by show of hands.
+*   **Annually:** One half-day session reviewing the 5 social failure modes. Are we exhibiting any? What is the single most urgent corrective action?
+*   **Always:** No single person holds any role for more than 2 consecutive years. This one rule, maintained even when everything else is abandoned, prevents the oligarchic capture that has destroyed more communities than any external threat.
+This minimum viable governance requires approximately 8 hours per year of community time. If the community cannot sustain even this, governance has already collapsed.
+
 ## Vocabulary of the Foundation
 
 The following terms form the working vocabulary for social resilience planning. Each term has a precise meaning within this curriculum. When these terms appear in council discussions, Failure Mode Audits, or Historical Reading Circles, all participants should share a common understanding of what they mean.

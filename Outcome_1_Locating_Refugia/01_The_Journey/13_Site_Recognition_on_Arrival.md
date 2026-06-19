@@ -183,6 +183,18 @@ If the verdict is FAIL:
 4. **Record the failed site.** Document WHY it failed — this data prevents future groups from wasting time assessing the same location. Inscribe on stone or durable hide and leave at the approach point.
 5. **Morale management.** The group will be devastated. Acknowledge the disappointment explicitly. Remind the group that the assessment protocol WORKED — it prevented them from building on a site that would have killed them. Then walk.
 
+### 5.1. The Last-Resort Settlement Protocol
+
+If a site fails AND the group cannot continue (rations exhausted, serious injury, or no next candidate site identified), the Continue Protocol breaks down. Do NOT force a march that will kill people. Instead:
+
+**Option A — Nomadic Foraging (temporary).** If water is available but soil or geology failed, camp semi-permanently near the water source. Forage, fish, and trap (Module 11) while scouting the surrounding area in day-range radius (5-10 km). A better site may exist in the next valley. This is not settling — it is a temporary operating base. Limit: 2-4 weeks before the group must commit to a direction.
+
+**Option B — Marginal Settlement (compromise).** If a site fails on 1 non-critical test (soil, solar, or defensibility) but passes water and geology, settle on the marginal site with an explicit remediation plan and a 2-year review. Poor soil can be amended with compost and biochar (it takes 2-3 years, not months). Partial shade can be cleared. Weak defensibility can be compensated with active threat protocols (Module 07a). The Good Enough Doctrine applies here: an imperfect home is infinitely better than death on the trail.
+
+**Option C — Group Split (last resort).** If the group has members too injured or exhausted to continue but others can still travel, the group may split: a scouting party of 3-4 fit adults continues to the next candidate site while the rest camps with the remaining supplies. The scouting party returns within an agreed timeframe (7-14 days) with a verdict. If they do not return, the camp group must decide: wait longer, attempt to follow, or commit to the current location as Option B.
+
+**Pre-journey preparation to avoid this scenario:** Always identify a minimum of 3 candidate sites before departure, spaced no more than 1 logistical reach (200-260 km) apart. A single-site plan has a single point of failure.
+
 ---
 
 ## 6. Matching a Pre-Selected Candidate Site
