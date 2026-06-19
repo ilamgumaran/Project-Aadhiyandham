@@ -249,6 +249,12 @@ Charging is the process of pre-loading biochar with nutrients and microbial inoc
 1. **Crush** the quenched biochar to 2-10 mm fragments. Spread on a hard surface and crush with a wooden mallet, flat stone, or by stomping. Sieve to remove dust (below 1 mm) and oversized pieces (above 10 mm).
 2. **Prepare the charging vessel.** Any watertight container works: a barrel, a pit lined with clay or tarp, or a large trough. The vessel must hold the biochar submerged in liquid.
 3. **Combine biochar and compost.** Mix one volume of crushed biochar with one volume of mature compost. Humanure compost that has completed its 12-month thermophilic cycle (see [05. Humanure Integration](../03_Water_and_Sanitation/05_Humanure_Integration.md)) is ideal, as it is rich in both nutrients and diverse microbial communities. Standard garden compost is also suitable.
+
+   **Year 1 Bootstrap (no mature compost available yet):** In the first months of settlement, mature compost does not exist. Use these alternatives to charge biochar while the composting system ramps up:
+   *   **Diluted urine alone** (step 4 below) provides nitrogen, phosphorus, and potassium without compost. The biochar will lack microbial inoculation but will still absorb and hold nutrients.
+   *   **Forest floor litter.** Collect the top 5 cm of decomposed leaf mold from the nearest undisturbed forest floor. This material is already colonized with soil fungi and bacteria. Mix 1:1 with biochar as a microbial inoculant.
+   *   **Kitchen scraps windrow.** Begin a simple kitchen-scrap pile on Day 1 of settlement. After 8-12 weeks (faster in warm weather), the bottom layer will have partially decomposed into rough compost — usable for charging even though it is not fully matured.
+   *   **Sequence:** Weeks 1-8: charge with urine + forest litter. Weeks 8-16: charge with urine + rough kitchen compost. Month 6+: charge with urine + maturing garden/humanure compost. Month 12+: full protocol with mature compost.
 4. **Add diluted urine** as a nitrogen and phosphorus source. Dilute urine 1:3 with water, then add enough to wet the biochar-compost mixture to the consistency of a wrung-out sponge. Urine supplies ammonium nitrogen, phosphorus, potassium, and trace minerals. Approximately 5-10 litres of diluted urine per 50 kg of biochar.
 5. **Mix thoroughly.** The biochar should be uniformly coated with compost and evenly moist throughout. No dry pockets.
 6. **Cover and incubate.** Cover with a tarp or lid to retain moisture and warmth. Let sit for a minimum of 2 weeks in warm weather (above 20 C ambient) or 4 weeks in cool weather (below 15 C). Turn the pile once per week to ensure even colonisation.
@@ -271,7 +277,7 @@ This protocol creates a permanent raised bed with Terra Preta-level fertility. O
 
 - **Total target**: 5 hectares of Terra Preta beds at 15 tonnes biochar per hectare = 75 tonnes of biochar. This is a multi-year capital project, not a single-season effort.
 - **Year 1**: Focus on 0.5 hectares of demonstration and high-priority kitchen garden beds. Requirement: approximately 7.5 tonnes.
-- **Production rate using cone pits**: 80 kg per batch, 2 batches per day, 2 production days per week = 320 kg/week = approximately 8 tonnes in a 6-month production season (excluding winter or wet season when pyrolysis is impractical).
+- **Production rate using cone pits**: 80 kg per batch under ideal conditions (dry wood, no rain, experienced operators). Realistic weekly output: 1-2 batches per production day, 2 production days per week = 160-320 kg/week in dry weather. **Plan conservatively at 50% of theoretical** to account for wet wood, rain delays, operator learning curve, and competing labor demands. Realistic Year 1 output: 4-5 tonnes over a 6-month production season, not 8 tonnes. The 75-tonne target is a 5-8 year project, not a 3-year project.
 - **Labour**: 2 dedicated operators, 2 days per week. Additional labour for biomass collection and transport (2-4 people for half a day per production day).
 - **Years 2-5**: Scale production to 15-20 tonnes per year using a combination of cone pits, trench kilns, and TLUD gasifier accumulation. By Year 5, the full 5 hectares is amended and the settlement has permanent food sovereignty infrastructure.
 

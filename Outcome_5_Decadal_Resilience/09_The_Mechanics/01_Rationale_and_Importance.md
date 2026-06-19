@@ -268,6 +268,43 @@ Mechanical power (Module 02) drives the workshop tools used in material synthesi
   iron-working is lost within one generation.
 ```
 
+### The Charcoal Budget: What a Settlement Can Actually Do
+
+Every high-heat process in Outcome 5 runs on charcoal. Charcoal demand is the binding constraint on manufacturing ambition — a settlement that ignores this budget will deforest its watershed within a decade.
+
+**Annual charcoal demand by process (approximate):**
+
+| Process | Charcoal per operation | Operations/year | Annual charcoal (kg) |
+|:---|:---|:---|:---|
+| Cooking and water boiling (50 people) | — | Daily | 3,000-5,000 (rocket stoves reduce this by 70-90%) |
+| Biochar for soil amendment | — | Seasonal | 4,000-8,000 (Year 1-5 ramp) |
+| Forge (scavenged steel repair) | 5-10 kg/session | 50-100 sessions | 250-1,000 |
+| Bloomery iron smelt | 100-150 kg/smelt | 4-8 smelts | 400-1,200 |
+| Ceramic kiln firing | 50-100 kg/firing | 10-20 firings | 500-2,000 |
+| Lime calcination | 200 kg/batch | 2-4 batches | 400-800 |
+| Glass furnace (Phase V) | 200-300 kg/campaign | 2-4 campaigns | 400-1,200 |
+| **TOTAL** | | | **9,000-19,200 kg/year** |
+
+**Annual charcoal supply from coppice woodland:**
+
+A well-managed hardwood coppice on a 15-20 year rotation yields approximately 4-8 tonnes of harvestable wood per hectare per year. Charcoal conversion efficiency (traditional kiln): 15-25% by weight. Therefore:
+
+*   1 hectare of coppice → 4-8 tonnes wood → **600-2,000 kg charcoal/year**
+*   To produce 10,000 kg charcoal/year requires **5-17 hectares of dedicated coppice**
+
+**The trade-off is now explicit:**
+
+| Settlement Choice | Coppice Required | Impact |
+|:---|:---|:---|
+| Cooking + biochar only (no manufacturing) | 4-8 ha | Sustainable on 15-23 ha total land |
+| Cooking + biochar + forge + pottery | 6-12 ha | Tight fit — requires efficient rocket stoves for cooking |
+| Cooking + biochar + forge + pottery + bloomery + lime | 8-15 ha | Requires 25+ ha total land OR trade charcoal with neighbor settlements |
+| Full Phase V (all above + glass) | 10-17 ha | Only feasible for settlements with 30+ ha of woodland OR inter-settlement fuel trade |
+
+**Key insight:** A small settlement (25-50 people on 15-23 ha) cannot simultaneously run full biochar production AND bloomery iron AND ceramic kilns AND glass furnaces. **Prioritize.** Cooking and biochar are non-negotiable (food depends on them). Manufacturing processes must be scheduled seasonally — smelt iron in autumn after biochar season ends, fire ceramics in early spring before biochar resumes. Glass production is a luxury that requires either larger land area or inter-settlement charcoal trade.
+
+**The scavenging bridge:** In Years 0-10, scavenged industrial steel and glass reduce charcoal demand for manufacturing. Use this window to build coppice woodland area. By Year 10-15, the coppice should be mature enough to support the transition to primary smelting.
+
 ### Community Workshop Design Principles
 
 The workshop should be located within fifty meters of the water power source to minimize line-shaft length and transmission losses. Workstations are organized along the line-shaft for belt-driven power takeoff, with each station receiving rotary power via a loose-and-tight pulley clutch mechanism that allows individual stations to be engaged or disengaged independently without stopping the main shaft.

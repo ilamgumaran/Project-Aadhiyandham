@@ -175,7 +175,7 @@ A bio-sand filter achieves pathogen removal through four simultaneous mechanisms
 
 | Component | Specification | Purpose |
 |-----------|--------------|---------|
-| Container | 200L drum, concrete box, or ceramic vessel. Min. internal: ~30 cm x 30 cm x 90 cm tall | Filter housing |
+| Container | **Scavenged (bridge):** 200L plastic drum or metal drum. **Sustainable (permanent):** Dry-stacked stone box mortared with lime or clay; rammed earth form with interior clay slip; hollowed log section (hardwood, >40cm diameter); or a large fired ceramic vessel if kiln capacity exists. Min. internal: ~30 cm x 30 cm x 90 cm tall. Must be watertight — test by filling with water and checking for seepage over 24 hours before loading sand. | Filter housing |
 | Fine sand | 0.15-0.35 mm effective grain size, washed until rinse water runs clear | Primary filter medium and Schmutzdecke substrate |
 | Coarse sand | 0.5-1.0 mm grain size | Separation layer between fine sand and gravel |
 | Fine gravel | 2-6 mm diameter | Underdrain support, prevents sand migration |
