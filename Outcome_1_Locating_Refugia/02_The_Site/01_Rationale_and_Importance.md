@@ -96,6 +96,23 @@ The **thermal belt** is the elevation band (typically 100-400 m above the valley
               Fog, frost, 5-10 deg C colder
 ```
 
+### The Thermal Belt vs. Defensibility Trade-Off
+
+Thermal belt positions (mid-slope, sun-exposed, open) are optimal for agriculture. Defensible positions (concealed, limited access, elevated ridgelines or enclosed valleys) are optimal for security. These criteria often conflict directly:
+
+*   A thermal belt site with full southern exposure is **visible for kilometers** — any observer on an opposing ridge can see the settlement, its smoke, and its crop fields.
+*   A concealed valley floor or north-facing ravine is **invisible to outsiders** but sits in a frost pocket with 2-4 fewer weeks of growing season.
+
+**No universal answer exists. Use the threat environment to decide:**
+
+| Threat Level | Priority | Site Strategy |
+|:---|:---|:---|
+| **Low** (isolated region, sparse population, no evidence of hostile groups) | Thermal belt first, minimal defense | Open mid-slope position. Maximize agriculture. Accept visibility. Add passive perimeter (Module 07) as insurance. |
+| **Moderate** (some population nearby, resource competition possible) | Balance both | Thermal belt bench that is partially screened by forest canopy or terrain fold. Clear only what is needed for crops. Maintain tree cover along sightlines. |
+| **High** (nearby hostile groups, resource scarcity, contested territory) | Defensibility first, accept agricultural cost | Hidden valley, ridgeline with controlled access, or heavily forested bench. Accept 2-4 week shorter growing season. Compensate with cold-hardy crop varieties and passive solar food drying. |
+
+A settlement can also adopt a **seasonal dual-site model**: summer habitation in the open thermal belt for food production, winter retreat to a concealed defensible position for security during the hungry season when raiding risk peaks. This doubles the construction effort but eliminates the trade-off.
+
 ### Solar Geometry and Aspect
 
 In the Northern Hemisphere, south-facing slopes receive 20-40% more solar radiation annually than north-facing slopes at the same latitude. The magnitude of this difference increases with latitude and slope angle.
