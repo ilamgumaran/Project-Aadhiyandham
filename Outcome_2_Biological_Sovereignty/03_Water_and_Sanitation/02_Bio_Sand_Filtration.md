@@ -176,7 +176,7 @@ A bio-sand filter achieves pathogen removal through four simultaneous mechanisms
 | Component | Specification | Purpose |
 |-----------|--------------|---------|
 | Container | **Scavenged (bridge):** 200L plastic drum or metal drum. **Sustainable (permanent):** Dry-stacked stone box mortared with lime or clay; rammed earth form with interior clay slip; hollowed log section (hardwood, >40cm diameter); or a large fired ceramic vessel if kiln capacity exists. Min. internal: ~30 cm x 30 cm x 90 cm tall. Must be watertight — test by filling with water and checking for seepage over 24 hours before loading sand. | Filter housing |
-| Fine sand | 0.15-0.35 mm effective grain size, washed until rinse water runs clear | Primary filter medium and Schmutzdecke substrate |
+| Fine sand | 0.15-0.35 mm effective grain size, washed until rinse water runs clear. **If fine sand is not locally available** (rocky/clay regions without river deposits): crush soft sandstone or weathered granite with a mallet and sieve through progressively finer cloth to isolate the correct grain size. This is labor-intensive (4-8 hours per filter load) but produces viable media. Alternatively, use a 3-stage system: cloth pre-filter → biochar column → boiling, which achieves adequate safety without sand. | Primary filter medium and Schmutzdecke substrate |
 | Coarse sand | 0.5-1.0 mm grain size | Separation layer between fine sand and gravel |
 | Fine gravel | 2-6 mm diameter | Underdrain support, prevents sand migration |
 | Coarse gravel | 6-12 mm diameter | Underdrain base, surrounds drain pipe |

@@ -223,7 +223,7 @@ Recommended land allocation for a settlement supporting 40-60 people (total land
 | Intensive garden | 1-2 | Annual vegetables, herbs, medicinals | Heavy compost input, crop rotation, intensive hand cultivation |
 | Orchard / food forest | 2-3 | Perennial fruit, nut, timber trees in polyculture layers | Establishment pruning years 1-5, then minimal intervention; mulch and compost |
 | Pasture / silvopasture | 3-5 | Livestock grazing integrated with scattered trees | Rotational grazing on 7-14 day paddock cycles; never graze below 8 cm grass height |
-| Managed woodland | 3-5 | Fuel, timber, wild food, medicine | Coppice rotation (15-25 years); selective harvest only; maintain canopy closure above 60% |
+| Managed woodland (coppice + timber) | 5-10 | Fuel (charcoal for cooking, biochar, forge, kiln), timber for construction and repair, wild food, medicine | Coppice rotation (15-25 years); selective harvest only; maintain canopy closure above 60%. **Note:** 3-5 ha sustains cooking and biochar only. If the settlement operates a forge, kiln, or bloomery, increase to 8-15 ha — see the Charcoal Budget in Section 09 (The Mechanics) for the integrated fuel accounting. |
 | Unmanaged forest / riparian buffer | 5-7 | Watershed protection, wildlife habitat, biodiversity reserve | No harvesting. Minimum 30 m buffer on all permanent waterways. Human access for observation only |
 | Wetland / pond | 0.5-1 | Water storage, aquatic food production, water filtration, wildlife habitat | Maintain water levels; manage invasive species; harvest aquatic plants sustainably |
 
