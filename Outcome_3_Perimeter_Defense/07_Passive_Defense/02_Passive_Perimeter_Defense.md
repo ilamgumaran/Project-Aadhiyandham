@@ -121,7 +121,7 @@ Materials: all cleared brush, dead branches, thorny trimmings, and pruning waste
 
 Structural framework:
 
-- Cut stakes from rot-resistant species if available (oak, black locust, cedar). Minimum diameter: 8-10 cm. Length: 1.8 m.
+- Cut stakes from rot-resistant species if available (oak, black locust, cedar, chestnut, juniper). Minimum diameter: 8-10 cm. Length: 1.8 m. **If rot-resistant species are unavailable:** char the buried portion of any hardwood stake in a fire until the outer 1-2 cm is carbonized black. Charring seals the wood against moisture and fungal attack, extending ground-contact life from 2-3 years to 5-8 years. Replace charred stakes on a 5-year rotation. Alternatively, use stone posts (flat slabs driven vertically) where suitable rock is available — stone never rots.
 - Drive stakes 40 cm into the ground using a mallet or the back of an axe. Final above-ground height: 1.4 m.
 - Arrange stakes in two parallel rows, spaced 1.0-1.5 m apart (this is the hedge width). Within each row, space stakes 50-80 cm apart.
 - For additional strength, lash horizontal rails (long straight poles) between the stakes at 50 cm and 100 cm height using cordage or wire.

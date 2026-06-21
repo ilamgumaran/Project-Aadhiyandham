@@ -448,6 +448,12 @@ escalate to Phase 4 (Deter). Prepare for possible lockdown.
    post, and the rotation system itself ensures that capability is distributed across the
    community.
 
+6. **Post-Violence Psychological Damage.** A violent confrontation — even one that the community "wins" — inflicts psychological harm on everyone involved. The contact team members who used force, the watchers who witnessed it, the children who heard it, and the community members who made the force-authorization decision all carry trauma. If this is not processed, it produces hypervigilance, nightmares, interpersonal aggression, alcohol/substance seeking (if available), and erosion of the anti-militarization principle as traumatized individuals advocate for preemptive violence. **Post-Incident Protocol (mandatory after any use of physical force):**
+   *   **24 hours:** Stand down all contact team members from active duty. Replace with fresh rotation. The involved individuals rest, eat, and sleep — they make no decisions.
+   *   **48 hours:** Structured debrief led by a neutral community member (not someone who was involved). Three questions only: What happened? What did you feel? What would you do differently? No blame, no judgment, no tactical critique — those come later. This is emotional processing, not performance review.
+   *   **1 week:** Tactical review in council. Was force justified? Were protocols followed? What systemic changes would prevent a recurrence? This is the accountability mechanism.
+   *   **Ongoing:** Monitor involved individuals for 3 months. Signs of unresolved trauma: sleep disruption, social withdrawal, increased irritability, reluctance to discuss the event, or conversely, repetitive retelling. Route to Section 08 (The Mind) grief and trauma protocols. Do not reassign to contact team until the individual reports stable sleep and requests re-inclusion.
+
 ---
 
 ## Vocabulary of the Foundation
