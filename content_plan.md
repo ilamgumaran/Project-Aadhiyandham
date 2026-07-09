@@ -169,6 +169,7 @@ This document organizes all files in the repository by the **6 Expected Outcomes
 | `08_Natural_Burial.md` | The Ecology of Death: Zero-Impact Mortuary Practices and Nutrient Return | **Atomic Topic** | **Alignment:** Outcome 2: Absolute Biological Sovereignty |
 | `09_Spectral_Management_and_Circadian_Health.md` | Spectral Management: Engineering the Light Environment for Circadian Health | **Atomic Topic** | **Alignment:** Outcome 2: Absolute Biological Sovereignty |
 | `10_Deficiency_Diseases_and_Heat_Illness.md` | Deficiency Diseases and Heat Illness: The Slow Famines and the Fast Heat | **Atomic Topic** | difficulty:     moderate |
+| `11_Epidemic_and_Quarantine_Protocol.md` | Epidemic and Quarantine Protocol: When the Threat Is Contagious | **Action Oriented** | difficulty:     moderate |
 | `01_Rationale_and_Importance.md` | Rationale and Importance: Ecological Harmony — The Settlement as Ecosystem Participant | **Module Theory & Structure** | **Alignment:** Outcome 2: Absolute Biological Sovereignty |
 | `02_Livestock_and_Mechanical_Animals.md` | Livestock and Mechanical Animals: Draft Power, Nutrient Cycling, and Silvopasture | **Atomic Topic** | **Alignment:** Outcome 2: Absolute Biological Sovereignty |
 | `03_Ecological_Harmony_and_Wildlife.md` | Ecological Harmony and Wildlife: The Co-Inhabitants of the Refugia | **Atomic Topic** | **Alignment:** Outcome 2: Absolute Biological Sovereignty |

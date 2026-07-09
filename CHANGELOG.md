@@ -7,6 +7,7 @@ The format is based on [Keep a Changelog](https://keepachangelog.com/), and this
 ## [Unreleased]
 
 ### Added
+- **Epidemic & Quarantine Protocol (05/11)** — closes the S3 pandemic gap: the inverted doctrine under contagion (quarantine every arrival, break-the-chain by route, barrier nursing, the sealing ladder watch→restrict→seal, safe reopening); a small hospital-less settlement is both more protected and more vulnerable
 - **Phase Zero — Before Departure (new subsection `01/00`):** closes the audit's three preparation gaps (group, skills, decision) that every later module silently assumed
   - Rationale (Phase Zero; the S0 reframe — this is a richer life, not a bunker)
   - **Group Formation** — assembling and testing the founding party; the four foundations (values/trust/skills/size), the multi-year timeline, the honest base rate that most settlements die of internal conflict

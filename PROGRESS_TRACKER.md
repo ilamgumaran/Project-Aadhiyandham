@@ -92,6 +92,7 @@
 - [I] `08_Natural_Burial.md`
 - [I] `09_Spectral_Management_and_Circadian_Health.md`
 - [I] `10_Deficiency_Diseases_and_Heat_Illness.md`
+- [I] `11_Epidemic_and_Quarantine_Protocol.md`
 
 ### 06 Ecological Harmony
 - [I] `01_Rationale_and_Importance.md`
