@@ -314,36 +314,21 @@ Prevention: always wear leather gloves and eye protection when handling lye solu
 ## Vocabulary of the Foundation
 
 - **Bast fiber** -- plant fiber extracted from the phloem (inner bark) of stems; sources include flax, hemp, nettle, and ramie
-
-- **Retting** -- controlled microbial decomposition that separates bast fibers from the woody stem core by dissolving the pectin binding them
-
-- **Hackling** -- combing fibers through progressively finer nail-beds to align them parallel and separate quality grades
-
-- **Carding** -- pulling wool fibers between toothed paddles to align them into a soft rolag ready for spinning
-
-- **Warp** -- the longitudinal threads held under tension on the loom frame; these must be the strongest yarn in the fabric
-
-- **Weft** -- the lateral threads woven through the warp, carried back and forth by the shuttle
-
-- **Shed** -- the V-shaped opening between raised and lowered warp threads through which the shuttle passes
-
-- **Tannin** -- polyphenolic compounds extracted from tree bark that cross-link collagen in animal hides to produce leather
-
-- **Collagen** -- the structural protein composing the bulk of animal hide; tanning stabilizes collagen against microbial decomposition
-
-- **Fleshing** -- removing fat, membrane, blood vessels, and adhering flesh from the underside of a raw hide before tanning
-
 - **Buckskin** -- soft, golden-brown, smoke-finished brain-tanned leather suitable for clothing and light-duty applications
-
-- **Saponification** -- chemical reaction between fat and alkali producing soap; related to the lipid chemistry employed in brain tanning
-
+- **Carding** -- pulling wool fibers between toothed paddles to align them into a soft rolag ready for spinning
+- **Collagen** -- the structural protein composing the bulk of animal hide; tanning stabilizes collagen against microbial decomposition
 - **Drop spindle** -- the simplest spinning tool: a weighted shaft that converts loose fiber into yarn through the application of twist
-
-- **Treadle wheel** -- a foot-powered spinning wheel with a flyer mechanism enabling continuous spinning; 3-5 times faster than a drop spindle
-
 - **Felting** -- the matting of wool fibers through the combined action of heat, moisture, and agitation; creates fabric without spinning or weaving
-
+- **Fleshing** -- removing fat, membrane, blood vessels, and adhering flesh from the underside of a raw hide before tanning
+- **Hackling** -- combing fibers through progressively finer nail-beds to align them parallel and separate quality grades
+- **Retting** -- controlled microbial decomposition that separates bast fibers from the woody stem core by dissolving the pectin binding them
+- **Saponification** -- chemical reaction between fat and alkali producing soap; related to the lipid chemistry employed in brain tanning
+- **Shed** -- the V-shaped opening between raised and lowered warp threads through which the shuttle passes
+- **Tannin** -- polyphenolic compounds extracted from tree bark that cross-link collagen in animal hides to produce leather
 - **Tow** -- short, broken fibers separated out during hackling; used for coarse cordage, caulking, or stuffing
+- **Treadle wheel** -- a foot-powered spinning wheel with a flyer mechanism enabling continuous spinning; 3-5 times faster than a drop spindle
+- **Warp** -- the longitudinal threads held under tension on the loom frame; these must be the strongest yarn in the fabric
+- **Weft** -- the lateral threads woven through the warp, carried back and forth by the shuttle
 
 ---
 

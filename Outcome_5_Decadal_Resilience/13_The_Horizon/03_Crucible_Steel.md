@@ -353,21 +353,21 @@ A well-etched piece displays flowing lines reminiscent of wood grain or water. T
 
 ## Vocabulary of the Foundation
 
-- **Wootz:** The historical name for South Indian/Sri Lankan crucible steel, derived from the Tamil "urukku" (to melt). Characterized by high carbon content and visible surface patterning.
-- **Cementite (Fe3C):** Iron carbide, containing 6.67% carbon by weight. Extremely hard (approximately 68 HRC). Forms the light-colored bands in the Damascus pattern.
-- **Pearlite:** A lamellar (layered) microstructure of alternating ferrite and cementite, formed by slow cooling of eutectoid steel. The matrix phase in Wootz.
-- **Martensite:** A hard, metastable crystal structure formed by rapid quenching from above the eutectoid temperature. The basis of hardened steel.
+- **Annealing:** Heating steel to above the eutectoid temperature and cooling very slowly (in ash or vermiculite) to produce the softest possible structure. Used to make hardened steel workable again.
 - **Austenite:** The high-temperature face-centered cubic (FCC) phase of iron in which carbon is fully dissolved. Exists above 727 degrees C in steel.
+- **Cementite (Fe3C):** Iron carbide, containing 6.67% carbon by weight. Extremely hard (approximately 68 HRC). Forms the light-colored bands in the Damascus pattern.
+- **Co-fusion:** Crucible steelmaking in which wrought iron and a carbon source are melted together in a sealed vessel, as distinct from carburization (solid-state carbon diffusion).
+- **Crucible:** A refractory ceramic vessel capable of containing molten metal. In this context, a high-alumina clay pot sealed with a fire-clay lid.
+- **Dendrite:** A tree-like crystal structure that forms during solidification of a melt. Cementite dendrites in slowly cooled Wootz create the aligned bands of the Damascus pattern.
 - **Eutectoid:** The composition (0.76% C) and temperature (727 degrees C) at which austenite transforms directly to pearlite on slow cooling.
 - **Hypereutectoid:** Steel with carbon content above the eutectoid point (greater than 0.76% C). Precipitates excess cementite before the pearlite transformation. All Wootz steel is hypereutectoid.
 - **Liquidus:** The temperature above which the alloy is completely liquid. Varies with carbon content; approximately 1450 degrees C at 1.5% C.
+- **Martensite:** A hard, metastable crystal structure formed by rapid quenching from above the eutectoid temperature. The basis of hardened steel.
+- **Pattern-welding vs. true Damascus:** Pattern-welding forge-welds alternating layers of high- and low-carbon steel to produce a visible pattern. True Damascus (Wootz) achieves its pattern through solidification microstructure in a single homogeneous alloy, not through lamination.
+- **Pearlite:** A lamellar (layered) microstructure of alternating ferrite and cementite, formed by slow cooling of eutectoid steel. The matrix phase in Wootz.
 - **Quenching:** Rapid cooling of heated steel by immersion in water, oil, or brine to produce martensite.
 - **Tempering:** Reheating quenched martensite to a moderate temperature (150-350 degrees C) to reduce brittleness while retaining most hardness.
-- **Annealing:** Heating steel to above the eutectoid temperature and cooling very slowly (in ash or vermiculite) to produce the softest possible structure. Used to make hardened steel workable again.
-- **Crucible:** A refractory ceramic vessel capable of containing molten metal. In this context, a high-alumina clay pot sealed with a fire-clay lid.
-- **Dendrite:** A tree-like crystal structure that forms during solidification of a melt. Cementite dendrites in slowly cooled Wootz create the aligned bands of the Damascus pattern.
-- **Pattern-welding vs. true Damascus:** Pattern-welding forge-welds alternating layers of high- and low-carbon steel to produce a visible pattern. True Damascus (Wootz) achieves its pattern through solidification microstructure in a single homogeneous alloy, not through lamination.
-- **Co-fusion:** Crucible steelmaking in which wrought iron and a carbon source are melted together in a sealed vessel, as distinct from carburization (solid-state carbon diffusion).
+- **Wootz:** The historical name for South Indian/Sri Lankan crucible steel, derived from the Tamil "urukku" (to melt). Characterized by high carbon content and visible surface patterning.
 
 ## Cross-References
 

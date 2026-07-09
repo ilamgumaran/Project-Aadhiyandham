@@ -354,17 +354,17 @@ A single-page pass/fail summary for every candidate site:
 
 ## Vocabulary of the Foundation
 
-- **Mass Wasting:** The downslope movement of rock, soil, and debris under the influence of gravity. Includes landslides, mudflows, rockfalls, and soil creep.
-- **Karst:** A landscape formed by the dissolution of soluble rocks (limestone, dolomite, gypsum), characterized by sinkholes, caves, and disappearing streams.
-- **Doline:** A closed depression in karst terrain formed by surface dissolution or the collapse of an underground cavity. Commonly called a sinkhole.
-- **Slickensides:** Polished, grooved rock surfaces formed by frictional movement along a geological fault plane. Evidence of past seismic activity.
-- **Lahar:** A destructive mudflow composed of volcanic debris and water that travels down valleys radiating from a volcano, often triggered by snowmelt or heavy rain on ash deposits.
-- **Meander Migration:** The lateral movement of a river channel over time as the outer bank erodes and the inner bank accumulates sediment.
-- **River Terrace:** A flat, elevated surface adjacent to a river, representing a former floodplain that the river has since cut below.
-- **Factor of Safety (FoS):** The ratio of resisting forces to driving forces acting on a slope or structure. FoS = 1.0 is the threshold of failure; FoS = 1.5 is the minimum acceptable margin for permanent construction.
-- **Return Period:** The average recurrence interval of a geological or hydrological event of a given magnitude. A "100-year flood" has a 1% probability of occurring in any single year.
 - **Angle of Repose:** The steepest angle at which a pile of unconsolidated material (sand, gravel, soil) remains stable without sliding. Varies by material: dry sand ~34 degrees, wet clay ~15 degrees, angular gravel ~40 degrees.
+- **Doline:** A closed depression in karst terrain formed by surface dissolution or the collapse of an underground cavity. Commonly called a sinkhole.
+- **Factor of Safety (FoS):** The ratio of resisting forces to driving forces acting on a slope or structure. FoS = 1.0 is the threshold of failure; FoS = 1.5 is the minimum acceptable margin for permanent construction.
+- **Karst:** A landscape formed by the dissolution of soluble rocks (limestone, dolomite, gypsum), characterized by sinkholes, caves, and disappearing streams.
+- **Lahar:** A destructive mudflow composed of volcanic debris and water that travels down valleys radiating from a volcano, often triggered by snowmelt or heavy rain on ash deposits.
+- **Mass Wasting:** The downslope movement of rock, soil, and debris under the influence of gravity. Includes landslides, mudflows, rockfalls, and soil creep.
+- **Meander Migration:** The lateral movement of a river channel over time as the outer bank erodes and the inner bank accumulates sediment.
+- **Return Period:** The average recurrence interval of a geological or hydrological event of a given magnitude. A "100-year flood" has a 1% probability of occurring in any single year.
+- **River Terrace:** A flat, elevated surface adjacent to a river, representing a former floodplain that the river has since cut below.
 - **Rotational Slide:** A landslide in which the failure surface is curved (concave-up), causing the sliding mass to rotate backward as it moves downslope. Produces crescent-shaped headscarps and hummocky toe deposits.
+- **Slickensides:** Polished, grooved rock surfaces formed by frictional movement along a geological fault plane. Evidence of past seismic activity.
 - **Translational Slide:** A landslide in which the failure surface is approximately planar, often along a bedding plane, clay layer, or soil-rock interface. The mass moves downslope without significant rotation.
 
 ---

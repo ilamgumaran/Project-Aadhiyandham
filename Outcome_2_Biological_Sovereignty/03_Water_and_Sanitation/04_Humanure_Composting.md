@@ -283,19 +283,19 @@ When Bin A is full — typically after 6-12 months for a 50-person settlement �
 
 ## Vocabulary of the Foundation
 
-- **Thermophilic** — relating to organisms or processes that occur at elevated temperatures (40-70 degrees C); the temperature range in which pathogen destruction occurs in compost
-- **Mesophilic** — relating to organisms or processes that occur at moderate temperatures (20-40 degrees C); the initial and final phases of composting
-- **C:N Ratio** — the mass ratio of carbon to nitrogen in organic material; the primary determinant of composting behavior
 - **Aerobic Decomposition** — biological breakdown of organic matter in the presence of oxygen, producing CO2, water, and heat
 - **Anaerobic** — occurring without oxygen; in composting, an undesirable condition that produces methane, hydrogen sulfide, and fails to destroy pathogens reliably
-- **Curing** — the extended maturation phase after active composting, during which remaining organic matter stabilizes and any surviving pathogens are eliminated by biological competition and environmental exposure
-- **Humanure** — composted human fecal matter that has been processed through thermophilic composting and extended curing to produce a safe soil amendment
-- **Urine Diversion** — separation of urine from feces at the toilet, allowing immediate use of urine as fertilizer and improving fecal composting conditions
-- **Leachate** — liquid that drains from a compost pile, potentially carrying dissolved nutrients and pathogens; must be contained and not allowed to reach groundwater
-- **Cation Exchange Capacity** — the ability of soil or compost to hold positively charged nutrient ions (Ca2+, Mg2+, K+, NH4+) and release them to plant roots
 - **Ascaris** — a genus of parasitic roundworm whose eggs are the most thermally resistant human pathogen and the benchmark organism for composting safety validation
-- **First-Order Kinetics** — a mathematical model of pathogen death in which the rate of die-off is proportional to the current population, producing exponential decay
 - **Bio-assay** — a test using living organisms (typically seeds) to assess whether compost is mature and free of phytotoxic compounds
+- **C:N Ratio** — the mass ratio of carbon to nitrogen in organic material; the primary determinant of composting behavior
+- **Cation Exchange Capacity** — the ability of soil or compost to hold positively charged nutrient ions (Ca2+, Mg2+, K+, NH4+) and release them to plant roots
+- **Curing** — the extended maturation phase after active composting, during which remaining organic matter stabilizes and any surviving pathogens are eliminated by biological competition and environmental exposure
+- **First-Order Kinetics** — a mathematical model of pathogen death in which the rate of die-off is proportional to the current population, producing exponential decay
+- **Humanure** — composted human fecal matter that has been processed through thermophilic composting and extended curing to produce a safe soil amendment
+- **Leachate** — liquid that drains from a compost pile, potentially carrying dissolved nutrients and pathogens; must be contained and not allowed to reach groundwater
+- **Mesophilic** — relating to organisms or processes that occur at moderate temperatures (20-40 degrees C); the initial and final phases of composting
+- **Thermophilic** — relating to organisms or processes that occur at elevated temperatures (40-70 degrees C); the temperature range in which pathogen destruction occurs in compost
+- **Urine Diversion** — separation of urine from feces at the toilet, allowing immediate use of urine as fertilizer and improving fecal composting conditions
 
 ---
 

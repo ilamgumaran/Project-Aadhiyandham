@@ -312,35 +312,21 @@ Document each quarterly review in a permanent record. After two years (eight rev
 
 ## Vocabulary of the Foundation
 
-**Limiting factor:** The single input in a system that is most scarce relative to the system's requirements, thereby controlling overall system performance.
-
-**Liebig's Law:** The principle that growth or output is determined not by total resources, but by the scarcest essential resource. Named for Justus von Liebig (1840).
-
-**Tolerance range:** The span between the minimum and maximum levels of an input that a system can utilize productively. Outside this range, the input becomes limiting (if too low) or toxic (if too high).
-
-**Shelford's Law:** The Law of Tolerance (1913): organisms and systems have both minimum and maximum thresholds for each required input. Both deficiency and excess can be limiting.
-
-**Bottleneck:** The step in a sequential process that has the lowest throughput, thereby governing the throughput of the entire process. From Blackman's Law.
-
-**Constraint:** In Goldratt's Theory of Constraints, the single element in a system that limits overall output. Synonymous with limiting factor in a systems context.
-
-**Pulse test:** A diagnostic method in which the suspected limiting factor is added in concentrated quantity to a small test area while a control area is maintained unchanged, allowing confirmation or rejection of the hypothesis.
-
-**Systems inventory:** A complete enumeration of all inputs required by a process, with an assessment of each input's current status (abundant, sufficient, scarce, or unknown).
-
-**Nutrient:** A chemical element or compound essential for biological growth. In agriculture, the primary macronutrients are nitrogen, phosphorus, and potassium (N-P-K).
-
-**pH:** A measure of acidity or alkalinity on a scale from 0 (strongly acidic) to 14 (strongly alkaline), with 7 as neutral. Soil pH governs nutrient availability to plants.
-
-**Deficiency:** A condition in which a required input is present in quantity below the minimum threshold needed for normal system function.
-
-**Excess:** A condition in which an input is present in quantity above the maximum threshold the system can use productively, causing toxicity, waste, or suppression of other functions.
-
-**Diagnostic:** A systematic method for identifying the cause of a system malfunction by testing hypotheses against evidence. Liebig's protocol is a diagnostic framework.
-
 **Blackman's Law:** The Law of Limiting Factors (1905): the rate of a process governed by multiple factors is determined by the pace of the slowest (most limiting) factor.
-
+**Bottleneck:** The step in a sequential process that has the lowest throughput, thereby governing the throughput of the entire process. From Blackman's Law.
+**Constraint:** In Goldratt's Theory of Constraints, the single element in a system that limits overall output. Synonymous with limiting factor in a systems context.
+**Deficiency:** A condition in which a required input is present in quantity below the minimum threshold needed for normal system function.
+**Diagnostic:** A systematic method for identifying the cause of a system malfunction by testing hypotheses against evidence. Liebig's protocol is a diagnostic framework.
+**Excess:** A condition in which an input is present in quantity above the maximum threshold the system can use productively, causing toxicity, waste, or suppression of other functions.
+**Liebig's Law:** The principle that growth or output is determined not by total resources, but by the scarcest essential resource. Named for Justus von Liebig (1840).
+**Limiting factor:** The single input in a system that is most scarce relative to the system's requirements, thereby controlling overall system performance.
+**Nutrient:** A chemical element or compound essential for biological growth. In agriculture, the primary macronutrients are nitrogen, phosphorus, and potassium (N-P-K).
+**pH:** A measure of acidity or alkalinity on a scale from 0 (strongly acidic) to 14 (strongly alkaline), with 7 as neutral. Soil pH governs nutrient availability to plants.
+**Pulse test:** A diagnostic method in which the suspected limiting factor is added in concentrated quantity to a small test area while a control area is maintained unchanged, allowing confirmation or rejection of the hypothesis.
+**Shelford's Law:** The Law of Tolerance (1913): organisms and systems have both minimum and maximum thresholds for each required input. Both deficiency and excess can be limiting.
 **Shifting bottleneck:** The phenomenon whereby resolving the current limiting factor causes a different factor to become limiting. This is the expected and normal behavior of improving systems.
+**Systems inventory:** A complete enumeration of all inputs required by a process, with an assessment of each input's current status (abundant, sufficient, scarce, or unknown).
+**Tolerance range:** The span between the minimum and maximum levels of an input that a system can utilize productively. Outside this range, the input becomes limiting (if too low) or toxic (if too high).
 
 ## Cross-References
 

@@ -236,16 +236,16 @@ Orion's Belt (three bright stars in a row) rises approximately due East and sets
 
 ## Vocabulary of the Foundation
 
-*   **Solar Noon / Culmination:** The moment when the sun reaches its highest point in the sky, crossing the observer's local meridian. Shadows are shortest at this instant.
-*   **Diurnal Arc:** The apparent path of the sun across the sky from sunrise to sunset.
-*   **Solar Declination:** The angle between the sun's rays and the equatorial plane, varying from +23.44° (summer solstice) to -23.44° (winter solstice). Determines how far north or south of due East the sun rises.
-*   **Equation of Time:** A correction factor (±16 minutes) accounting for Earth's elliptical orbit and axial tilt, causing solar noon to differ from clock noon.
 *   **Azimuth:** The horizontal angle of the sun (or any celestial body) measured clockwise from True North. Sunrise azimuth varies from ~59° (NE) at summer solstice to ~121° (SE) at winter solstice at 40°N latitude.
-*   **Zenith:** The point directly overhead. When the sun is at the zenith, shadows vanish (occurs only in the tropics).
-*   **Celestial Pole:** The point in the sky around which all stars appear to rotate. The North Celestial Pole is marked by Polaris. The South Celestial Pole has no bright marker star.
 *   **Cardinal Direction:** The four principal compass directions: North (0°/360°), East (90°), South (180°), West (270°).
+*   **Celestial Pole:** The point in the sky around which all stars appear to rotate. The North Celestial Pole is marked by Polaris. The South Celestial Pole has no bright marker star.
+*   **Diurnal Arc:** The apparent path of the sun across the sky from sunrise to sunset.
+*   **Equation of Time:** A correction factor (±16 minutes) accounting for Earth's elliptical orbit and axial tilt, causing solar noon to differ from clock noon.
 *   **Intercardinal Direction:** The four intermediate directions: NE (45°), SE (135°), SW (225°), NW (315°).
 *   **Shadow-Stick Method:** A technique for determining the East-West line by marking the movement of a stick's shadow over 15-30 minutes.
+*   **Solar Declination:** The angle between the sun's rays and the equatorial plane, varying from +23.44° (summer solstice) to -23.44° (winter solstice). Determines how far north or south of due East the sun rises.
+*   **Solar Noon / Culmination:** The moment when the sun reaches its highest point in the sky, crossing the observer's local meridian. Shadows are shortest at this instant.
+*   **Zenith:** The point directly overhead. When the sun is at the zenith, shadows vanish (occurs only in the tropics).
 
 ---
 

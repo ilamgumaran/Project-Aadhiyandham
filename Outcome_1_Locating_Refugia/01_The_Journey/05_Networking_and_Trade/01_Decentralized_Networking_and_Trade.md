@@ -206,16 +206,16 @@ Once the route is established and communication verified:
 
 ## Vocabulary of the Foundation
 
-*   **Minimum Viable Population (MVP):** The smallest population size at which a species or population can sustain itself genetically over multiple generations without external gene flow. Approximately 500 for long-term viability.
-*   **Waystation:** A concealed, pre-provisioned rest and resupply point along a trade route, positioned at one day's travel interval and at a reliable water source.
-*   **Heliograph:** A signaling device that uses reflected sunlight to transmit coded messages over long distances (30-80 km). Requires clear sky and line-of-sight.
-*   **Semaphore:** A visual signaling system using mechanical arms, flags, or body positions to encode messages at distances visible through a telescope (10-20 km).
 *   **Cache:** A hidden store of supplies buried or concealed along a route for emergency use by authorized travelers.
 *   **Courier:** A person designated to travel between settlements carrying trade goods, messages, or intelligence.
-*   **Line-of-Sight (LoS):** An unobstructed straight line between two points. Required for optical signaling and visual navigation.
 *   **Gene Flow:** The transfer of genetic material between populations through migration, intermarriage, or population exchange. Essential for preventing genetic bottlenecking.
-*   **Inbreeding Depression:** The reduced biological fitness of a population caused by excessive mating between closely related individuals. Manifests as reduced fertility, increased disease susceptibility, and developmental abnormalities.
 *   **Genetic Drift:** Random changes in allele frequency within a small population, leading to loss of genetic diversity over generations.
+*   **Heliograph:** A signaling device that uses reflected sunlight to transmit coded messages over long distances (30-80 km). Requires clear sky and line-of-sight.
+*   **Inbreeding Depression:** The reduced biological fitness of a population caused by excessive mating between closely related individuals. Manifests as reduced fertility, increased disease susceptibility, and developmental abnormalities.
+*   **Line-of-Sight (LoS):** An unobstructed straight line between two points. Required for optical signaling and visual navigation.
+*   **Minimum Viable Population (MVP):** The smallest population size at which a species or population can sustain itself genetically over multiple generations without external gene flow. Approximately 500 for long-term viability.
+*   **Semaphore:** A visual signaling system using mechanical arms, flags, or body positions to encode messages at distances visible through a telescope (10-20 km).
+*   **Waystation:** A concealed, pre-provisioned rest and resupply point along a trade route, positioned at one day's travel interval and at a reliable water source.
 
 ---
 

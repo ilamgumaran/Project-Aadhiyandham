@@ -377,21 +377,21 @@ A "labor-saving" device requires three operators to run, two to maintain, and on
 
 ## Vocabulary of the Foundation
 
-- **Energy**: the capacity to do work. Measured in joules (J). Cannot be created or destroyed, only converted between forms.
-- **Thermodynamics**: the branch of physics concerned with heat, work, temperature, and energy. Governs what physical processes are possible and what are not.
-- **Entropy**: a measure of disorder or randomness in a system. Always increases in isolated systems. The reason energy conversions are never 100% efficient.
-- **Efficiency**: the ratio of useful energy output to total energy input, expressed as a percentage. Always less than 100% for real systems.
 - **Conservation**: the principle that energy is neither created nor destroyed. The total energy of an isolated system is constant.
 - **Conversion chain**: the sequence of energy transformations between source and useful work. Each link in the chain imposes an efficiency loss.
+- **Efficiency**: the ratio of useful energy output to total energy input, expressed as a percentage. Always less than 100% for real systems.
+- **Energy budget**: the total energy available to the settlement from all sustainable sources, compared against total energy demand. If demand exceeds budget, the settlement is drawing down capital.
+- **Energy**: the capacity to do work. Measured in joules (J). Cannot be created or destroyed, only converted between forms.
+- **Entropy**: a measure of disorder or randomness in a system. Always increases in isolated systems. The reason energy conversions are never 100% efficient.
 - **First Law**: the law of conservation of energy. ΔU = Q - W. You cannot get more out than you put in.
-- **Second Law**: entropy always increases in isolated systems. Every conversion produces waste heat. Perpetual motion is impossible.
 - **Joule (J)**: the SI unit of energy. One joule is the energy required to lift 102 grams (a small apple) by one meter against gravity, or the energy dissipated by one watt for one second.
-- **Watt (W)**: the SI unit of power (rate of energy use). One watt equals one joule per second. A human sustains approximately 75 W of mechanical output.
 - **Kinetic energy**: energy of motion. Equals 1/2 mv^2. Moving water, spinning flywheels, blowing wind.
 - **Potential energy**: stored energy due to position or configuration. Elevated water, compressed springs, chemical bonds in fuel.
-- **Thermal energy**: energy of molecular motion, perceived as heat. The lowest-quality energy form — easy to produce from other forms, difficult to convert back.
+- **Second Law**: entropy always increases in isolated systems. Every conversion produces waste heat. Perpetual motion is impossible.
 - **Solar income**: the energy delivered to the settlement by the sun in real time: photosynthesis (food and wood growth), water cycle (hydropower), wind, and direct heating. The sustainable energy budget of any pre-industrial settlement.
-- **Energy budget**: the total energy available to the settlement from all sustainable sources, compared against total energy demand. If demand exceeds budget, the settlement is drawing down capital.
+- **Thermal energy**: energy of molecular motion, perceived as heat. The lowest-quality energy form — easy to produce from other forms, difficult to convert back.
+- **Thermodynamics**: the branch of physics concerned with heat, work, temperature, and energy. Governs what physical processes are possible and what are not.
+- **Watt (W)**: the SI unit of power (rate of energy use). One watt equals one joule per second. A human sustains approximately 75 W of mechanical output.
 
 ## Cross-References
 

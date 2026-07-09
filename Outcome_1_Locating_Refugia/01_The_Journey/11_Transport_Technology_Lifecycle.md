@@ -283,25 +283,16 @@ Every adult in the travelling group must be able to make fire with at least two 
 
 ## Vocabulary of the Foundation
 
-- **Degradation Sequence** — The ordered series of failures by which transport technologies die after collapse: motor vehicles first (fuel-bound), then bicycles (rubber-bound), with animals and the travois as the surviving permanent modes. Understanding the sequence lets a traveller hand off between modes before each one dies.
-
-- **Acquisition Window** — Phase 0, the pre-collapse period (roughly months -6 to 0) in which transport assets — fuel, bicycles, maps, animal relationships — can still be obtained at functioning markets. It does not reopen.
-
 - **Abandonment Threshold** — The pre-defined failure condition that triggers retiring a transport mode (fuel exhausted, EV at 20%, tyres unpatchable, bearings seized). Set in advance and honoured to prevent wasting time on a dead machine.
-
-- **Fuel Stabilizer** — A chemical additive that slows the oxidation and evaporation of gasoline, extending its usability from 3 months to 12-18 months. Not required for diesel.
-
-- **The EV Trap** — The condition in which an electric vehicle, having no field-expedient charging path, becomes a 4,000-pound immovable object once grid power fails. Charging a 60-100 kWh pack would need 20-30 residential solar panels and 3-5 days of full sun.
-
-- **Ferrocerium Rod** — A metallic rod (mischmetal alloy) that produces extremely hot sparks (3,000 degrees C) when scraped with a hard edge. The primary fire-starting tool in the Aadhiyandham kit; lasts 10,000+ strikes.
-
-- **Char Cloth** — Cotton or linen fabric carbonised by pyrolysis (heated without oxygen). It catches a single spark and holds a glowing ember, which then ignites a tinder bundle.
-
+- **Acquisition Window** — Phase 0, the pre-collapse period (roughly months -6 to 0) in which transport assets — fuel, bicycles, maps, animal relationships — can still be obtained at functioning markets. It does not reopen.
 - **Bicycle-to-Cart Conversion** — Repurposing a broken bicycle's wheels, axle, and chain into a human-pulled cart that rolls on bearings — more efficient than a travois on flat terrain.
-
-- **Travois** — An A-frame cargo sled dragged by a human or animal, consisting of two long poles with cross-bars. Functions on any terrain including mud, rock, and dense forest where wheeled vehicles cannot pass. The permanent transport baseline.
-
+- **Char Cloth** — Cotton or linen fabric carbonised by pyrolysis (heated without oxygen). It catches a single spark and holds a glowing ember, which then ignites a tinder bundle.
+- **Degradation Sequence** — The ordered series of failures by which transport technologies die after collapse: motor vehicles first (fuel-bound), then bicycles (rubber-bound), with animals and the travois as the surviving permanent modes. Understanding the sequence lets a traveller hand off between modes before each one dies.
+- **Ferrocerium Rod** — A metallic rod (mischmetal alloy) that produces extremely hot sparks (3,000 degrees C) when scraped with a hard edge. The primary fire-starting tool in the Aadhiyandham kit; lasts 10,000+ strikes.
 - **Fire Bundle** — A tightly packed mass of dry punk wood or fungus wrapped in bark that smoulders for 6-12 hours, used to transport a live ember between campsites when no ignition method is available.
+- **Fuel Stabilizer** — A chemical additive that slows the oxidation and evaporation of gasoline, extending its usability from 3 months to 12-18 months. Not required for diesel.
+- **The EV Trap** — The condition in which an electric vehicle, having no field-expedient charging path, becomes a 4,000-pound immovable object once grid power fails. Charging a 60-100 kWh pack would need 20-30 residential solar panels and 3-5 days of full sun.
+- **Travois** — An A-frame cargo sled dragged by a human or animal, consisting of two long poles with cross-bars. Functions on any terrain including mud, rock, and dense forest where wheeled vehicles cannot pass. The permanent transport baseline.
 
 ---
 

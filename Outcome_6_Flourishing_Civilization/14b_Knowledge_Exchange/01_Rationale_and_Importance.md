@@ -405,37 +405,21 @@ prioritized as destinations.
 
 ## Vocabulary of the Foundation
 
-- **Knowledge commons**: The shared body of knowledge accessible to all settlements in
-  the network, governed by collective agreement rather than individual ownership.
-- **Non-rival good**: A resource whose use by one party does not diminish its
-  availability to others. Knowledge is the archetypal non-rival good.
-- **Rihla**: The Islamic tradition of scholarly travel for the purpose of knowledge
-  acquisition and verification, literally "journey."
-- **Journeyman**: A craftsperson who has completed initial training and travels between
-  workshops to learn from multiple masters and disseminate techniques.
-- **Compagnonnage**: The French system of journeyman travel and mutual aid, organized by
-  trade guilds, requiring years of itinerant work before achieving master status.
-- **Knowledge carrier**: Any person who physically transports knowledge between
-  settlements, whether as a trained traveling scholar or as an incidental courier.
-- **Attribution ledger**: The formal record maintained at each settlement documenting the
-  origin, date, and creator of every piece of shared knowledge.
-- **Standardized format**: The common documentation template (Module 03) ensuring that
-  technical knowledge can be read and applied across language and cultural barriers.
-- **Knowledge audit**: The annual assessment comparing a settlement's knowledge holdings
-  against the network index to identify gaps, risks, and unshared discoveries.
-- **Peer verification**: The process by which knowledge claims are tested and confirmed
-  by independent practitioners at other settlements.
-- **Knowledge half-life**: The estimated time after which half of a body of knowledge
-  will have been lost, corrupted, or rendered obsolete without active maintenance.
 - **Anticommons**: A situation in which excessive restriction of access to a shared
-  resource (such as knowledge) prevents its productive use by anyone.
-- **Open-source**: A model of knowledge production and sharing in which the underlying
-  methods and content are freely available for use, modification, and redistribution.
+- **Attribution ledger**: The formal record maintained at each settlement documenting the
 - **Circuit**: A planned route connecting multiple settlements, traveled by scholars on
-  a regular schedule to ensure systematic knowledge exchange across the network.
+- **Compagnonnage**: The French system of journeyman travel and mutual aid, organized by
 - **Fidelity**: The degree to which transmitted knowledge accurately represents the
-  original, ranging from high fidelity (traveling scholar demonstration) to low fidelity
-  (compressed signal message).
+- **Journeyman**: A craftsperson who has completed initial training and travels between
+- **Knowledge audit**: The annual assessment comparing a settlement's knowledge holdings
+- **Knowledge carrier**: Any person who physically transports knowledge between
+- **Knowledge commons**: The shared body of knowledge accessible to all settlements in
+- **Knowledge half-life**: The estimated time after which half of a body of knowledge
+- **Non-rival good**: A resource whose use by one party does not diminish its
+- **Open-source**: A model of knowledge production and sharing in which the underlying
+- **Peer verification**: The process by which knowledge claims are tested and confirmed
+- **Rihla**: The Islamic tradition of scholarly travel for the purpose of knowledge
+- **Standardized format**: The common documentation template (Module 03) ensuring that
 
 ## Cross-References
 

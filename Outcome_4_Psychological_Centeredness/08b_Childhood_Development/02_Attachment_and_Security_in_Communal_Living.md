@@ -319,19 +319,19 @@ There is no higher-return investment a small community can make in its own futur
 
 ## Vocabulary of the Foundation
 
-- **Secure base** — The attachment figure from whom a child ventures out to explore and returns to when threatened (Bowlby, 1988)
-- **Internal working model** — The child's mental template of relationships — "Are people reliable? Am I worthy of care?" — formed in the first 2 years and resistant to change thereafter
-- **Strange Situation** — Ainsworth's (1978) experimental paradigm assessing attachment quality through separation and reunion episodes
-- **Disorganized attachment** — Pattern where the caregiver is simultaneously the source of comfort and the source of fear, producing contradictory approach-avoidance behavior
 - **Allomothering** — Caregiving by individuals other than the biological mother — a cross-cultural norm in human societies and the evolutionary basis for communal child-rearing (Hrdy, 2009)
-- **Monotropy vs. hierarchy** — Bowlby initially proposed one primary bond (monotropy); modern research supports a hierarchy of multiple attachment figures with one typically preferred
+- **Attachment hierarchy** — The ordered list of preferred attachment figures, with the primary figure at top; activated under stress, the child seeks figures in hierarchical order, turning to the next only if the preferred figure is unavailable
 - **Cooperative breeding** — Reproductive strategy where non-parents contribute to offspring care; the ancestral human norm, documented across all human societies and distinguishing humans from all other great apes
+- **Disorganized attachment** — Pattern where the caregiver is simultaneously the source of comfort and the source of fear, producing contradictory approach-avoidance behavior
+- **Earned security** — Adults who experienced insecure attachment in childhood but developed secure attachment through later relationships or coherent reflection on their history (Main & Goldwyn 1984); critical because post-collapse adults may have disrupted attachment histories and need to know that security can be earned through deliberate relational work, not just fortunate childhood circumstances
+- **Internal working model** — The child's mental template of relationships — "Are people reliable? Am I worthy of care?" — formed in the first 2 years and resistant to change thereafter
 - **Metapelet** — Hebrew term for the communal caregiver in kibbutz children's houses; the role whose nighttime version produced insecure attachment in the kibbutz natural experiment
+- **Monotropy vs. hierarchy** — Bowlby initially proposed one primary bond (monotropy); modern research supports a hierarchy of multiple attachment figures with one typically preferred
+- **Proximity-seeking** — The behavioral strategy of moving toward the attachment figure when the attachment system is activated; the most fundamental attachment behavior, observable from birth in the form of crying, grasping, and rooting, and later in crawling and walking toward the caregiver
+- **Secure base** — The attachment figure from whom a child ventures out to explore and returns to when threatened (Bowlby, 1988)
 - **Sensitivity** — Ainsworth's key variable: the caregiver's ability to perceive the child's signals accurately and respond promptly and appropriately; the single strongest predictor of secure attachment
 - **Separation protest** — The child's distress response when the attachment figure departs; peaks at 8-14 months and is a healthy sign of secure attachment, not a problem to eliminate
-- **Earned security** — Adults who experienced insecure attachment in childhood but developed secure attachment through later relationships or coherent reflection on their history (Main & Goldwyn 1984); critical because post-collapse adults may have disrupted attachment histories and need to know that security can be earned through deliberate relational work, not just fortunate childhood circumstances
-- **Attachment hierarchy** — The ordered list of preferred attachment figures, with the primary figure at top; activated under stress, the child seeks figures in hierarchical order, turning to the next only if the preferred figure is unavailable
-- **Proximity-seeking** — The behavioral strategy of moving toward the attachment figure when the attachment system is activated; the most fundamental attachment behavior, observable from birth in the form of crying, grasping, and rooting, and later in crawling and walking toward the caregiver
+- **Strange Situation** — Ainsworth's (1978) experimental paradigm assessing attachment quality through separation and reunion episodes
 
 ---
 

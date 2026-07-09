@@ -340,33 +340,20 @@ The cooking heat produced as a byproduct of 8-10 daily batches (approximately 30
 
 ## Vocabulary of the Foundation
 
-**Pyrolysis** — Thermal decomposition of organic material in the absence or near-absence of oxygen, producing solid char, combustible gases, and condensable liquids.
-
-**TLUD (Top-Lit Up-Draft)** — A gasifier design in which fuel is ignited at the top and primary air enters from the bottom, creating a downward-migrating pyrolysis front with clean secondary combustion above the fuel bed.
-
-**Syngas (Synthesis Gas)** — The combustible gas mixture produced by pyrolysis, primarily carbon monoxide (CO) and hydrogen (H2), with lesser amounts of methane (CH4).
-
-**Producer Gas** — Synonym for syngas in the context of small-scale gasification. The term emphasizes that the gas is "produced" from solid fuel.
-
-**Primary Air** — Air supplied to the base of the TLUD reactor, driving the gasification reaction that converts char to syngas.
-
-**Secondary Air** — Air supplied near the top of the reactor, mixing with rising syngas to achieve clean combustion above the fuel bed.
-
-**Flame Cap** — The visible combustion zone above the fuel bed where syngas burns upon meeting secondary air. A well-functioning flame cap is the hallmark of correct TLUD operation.
-
-**Gasification** — The thermochemical conversion of a solid fuel into a combustible gas through partial oxidation, distinct from full combustion.
-
-**Pyroligneous Acid (Wood Vinegar)** — The aqueous condensate of pyrolysis exhaust, containing acetic acid, methanol, phenols, and water. Used diluted as a pesticide, fungicide, and plant growth stimulant.
-
-**Feedstock** — The biomass fuel loaded into the gasifier. In TLUD context, refers specifically to uniform, dry, sized pieces of wood, shells, cobs, or other lignocellulosic material.
-
-**Quenching** — The rapid cooling of hot biochar by immersion in water or exclusion of oxygen, halting further oxidation and preserving the char product.
-
-**Channeling** — A failure mode in which the pyrolysis front advances unevenly through the fuel bed due to non-uniform packing, creating preferential airflow paths.
-
-**Flashback** — Explosive ignition of accumulated syngas caused by sudden introduction of excess oxygen to the reactor, typically when the pot is lifted or fuel is added during operation.
-
 **Bincho-tan** — Traditional Japanese white charcoal produced by high-temperature pyrolysis of oak in sealed kilns, achieving carbon content above 95%. Represents the historical apex of artisanal charcoal production.
+**Channeling** — A failure mode in which the pyrolysis front advances unevenly through the fuel bed due to non-uniform packing, creating preferential airflow paths.
+**Feedstock** — The biomass fuel loaded into the gasifier. In TLUD context, refers specifically to uniform, dry, sized pieces of wood, shells, cobs, or other lignocellulosic material.
+**Flame Cap** — The visible combustion zone above the fuel bed where syngas burns upon meeting secondary air. A well-functioning flame cap is the hallmark of correct TLUD operation.
+**Flashback** — Explosive ignition of accumulated syngas caused by sudden introduction of excess oxygen to the reactor, typically when the pot is lifted or fuel is added during operation.
+**Gasification** — The thermochemical conversion of a solid fuel into a combustible gas through partial oxidation, distinct from full combustion.
+**Primary Air** — Air supplied to the base of the TLUD reactor, driving the gasification reaction that converts char to syngas.
+**Producer Gas** — Synonym for syngas in the context of small-scale gasification. The term emphasizes that the gas is "produced" from solid fuel.
+**Pyroligneous Acid (Wood Vinegar)** — The aqueous condensate of pyrolysis exhaust, containing acetic acid, methanol, phenols, and water. Used diluted as a pesticide, fungicide, and plant growth stimulant.
+**Pyrolysis** — Thermal decomposition of organic material in the absence or near-absence of oxygen, producing solid char, combustible gases, and condensable liquids.
+**Quenching** — The rapid cooling of hot biochar by immersion in water or exclusion of oxygen, halting further oxidation and preserving the char product.
+**Secondary Air** — Air supplied near the top of the reactor, mixing with rising syngas to achieve clean combustion above the fuel bed.
+**Syngas (Synthesis Gas)** — The combustible gas mixture produced by pyrolysis, primarily carbon monoxide (CO) and hydrogen (H2), with lesser amounts of methane (CH4).
+**TLUD (Top-Lit Up-Draft)** — A gasifier design in which fuel is ignited at the top and primary air enters from the bottom, creating a downward-migrating pyrolysis front with clean secondary combustion above the fuel bed.
 
 ---
 

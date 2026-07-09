@@ -314,35 +314,21 @@ A useful benchmark: most children require approximately 100 hours of structured 
 
 ## Vocabulary of the Foundation
 
-**Knowledge Half-Life.** The estimated time for a community to lose 50% of specialized knowledge in a given domain when no deliberate transmission is occurring. Approximately one generation (20-25 years) for most technical skills.
-
 **Apprenticeship.** A structured educational relationship in which a competent practitioner (master) mentors a learner through guided participation in real work, progressing from observation to assisted practice to independent performance over a period of years.
-
-**Zone of Proximal Development (ZPD).** Concept from Lev Vygotsky (1896-1934): the range of tasks a learner cannot yet do independently but can accomplish with guidance from a more skilled person. Effective teaching targets this zone.
-
-**Three Literacies.** The three non-negotiable competencies required of every settlement member: language literacy (reading and writing), numeracy (arithmetic and measurement), and scientific reasoning (observation, hypothesis, testing, revision).
-
-**Knowledge Audit.** An annual community-wide inventory of how critical knowledge and skills are distributed across the population, identifying domains at risk of knowledge loss.
-
-**Mastery.** The level of competence at which a practitioner can perform a skill independently, adapt it to novel situations, and teach it effectively to others.
-
-**Journeyman.** An intermediate level of competence between apprentice and master, characterized by the ability to perform a skill independently but not yet to adapt it to novel situations or teach it effectively. In the medieval guild system, journeymen traveled to learn from multiple masters.
-
 **Centered Null.** The epistemological disposition of intellectual humility — beginning from a position of "I do not yet know" rather than "I already know." In education, this means teaching observation and questioning before teaching answers.
-
-**Critical Thinking.** The disciplined practice of evaluating claims, arguments, and evidence on their merits, identifying logical fallacies and cognitive biases, and forming conclusions based on reason rather than authority, tradition, or emotion.
-
-**Problem-Posing Education.** Paulo Freire's term for an educational approach based on dialogue, questioning, and collaborative investigation of real problems, as opposed to the "banking model" of depositing facts into passive students.
-
-**Rote Memorization.** The practice of learning by repetition without understanding. Useful for some foundational content (multiplication tables, alphabets) but counterproductive as a primary educational mode.
-
-**Oral Tradition.** The transmission of knowledge, history, and cultural values through spoken word — storytelling, song, recitation, and discussion — rather than through writing. The primary mode of education for most of human history.
-
-**Knowledge Archive.** The settlement's cumulative written record of observations, experiments, adaptations, and discoveries, maintained as a permanent reference for future generations. Distinct from the Chronicle, which records events.
-
 **Chronicle.** The settlement's ongoing written record of daily events, decisions, outcomes, and lessons learned. Serves both as institutional memory and as a reading text for literacy education.
-
+**Critical Thinking.** The disciplined practice of evaluating claims, arguments, and evidence on their merits, identifying logical fallacies and cognitive biases, and forming conclusions based on reason rather than authority, tradition, or emotion.
 **Deschooling.** Ivan Illich's term for the process of separating education from institutional schooling — recognizing that learning happens through life, not through schools, and that formal educational institutions often impede rather than facilitate genuine learning.
+**Journeyman.** An intermediate level of competence between apprentice and master, characterized by the ability to perform a skill independently but not yet to adapt it to novel situations or teach it effectively. In the medieval guild system, journeymen traveled to learn from multiple masters.
+**Knowledge Archive.** The settlement's cumulative written record of observations, experiments, adaptations, and discoveries, maintained as a permanent reference for future generations. Distinct from the Chronicle, which records events.
+**Knowledge Audit.** An annual community-wide inventory of how critical knowledge and skills are distributed across the population, identifying domains at risk of knowledge loss.
+**Knowledge Half-Life.** The estimated time for a community to lose 50% of specialized knowledge in a given domain when no deliberate transmission is occurring. Approximately one generation (20-25 years) for most technical skills.
+**Mastery.** The level of competence at which a practitioner can perform a skill independently, adapt it to novel situations, and teach it effectively to others.
+**Oral Tradition.** The transmission of knowledge, history, and cultural values through spoken word — storytelling, song, recitation, and discussion — rather than through writing. The primary mode of education for most of human history.
+**Problem-Posing Education.** Paulo Freire's term for an educational approach based on dialogue, questioning, and collaborative investigation of real problems, as opposed to the "banking model" of depositing facts into passive students.
+**Rote Memorization.** The practice of learning by repetition without understanding. Useful for some foundational content (multiplication tables, alphabets) but counterproductive as a primary educational mode.
+**Three Literacies.** The three non-negotiable competencies required of every settlement member: language literacy (reading and writing), numeracy (arithmetic and measurement), and scientific reasoning (observation, hypothesis, testing, revision).
+**Zone of Proximal Development (ZPD).** Concept from Lev Vygotsky (1896-1934): the range of tasks a learner cannot yet do independently but can accomplish with guidance from a more skilled person. Effective teaching targets this zone.
 
 ## Cross-References
 

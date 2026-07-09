@@ -342,19 +342,19 @@ Moisture on the blowpipe tip contacts molten glass and flash-converts to steam, 
 
 ## Vocabulary of the Foundation
 
+- **Annealing** -- Controlled slow cooling of finished glass through the stress-relaxation temperature range to prevent residual stress.
 - **Batch** -- The mixture of raw materials (sand, flux, lime) charged into the furnace for melting.
+- **Blowpipe** -- A hollow iron tube through which the glassmaker blows air to inflate a gather of molten glass.
+- **Crown glass** -- A method of producing flat window panes by spinning a blown glass bubble into a disc.
 - **Cullet** -- Recycled broken glass added to the batch to lower melting temperature and improve homogeneity.
+- **Devitrification** -- Unwanted crystallization of glass, usually caused by too-slow cooling through the nucleation-prone temperature range.
 - **Fining** -- The process of holding molten glass at peak temperature to allow trapped gas bubbles to rise and escape.
+- **Flux** -- A substance (potash, soda ash) that lowers the melting point of silica by disrupting the crystal network.
 - **Gather** -- A blob of molten glass collected on the end of a blowpipe by dipping and rotating.
 - **Glory hole** -- A small opening in the furnace used to reheat a piece of glass during working.
 - **Marver** -- A flat iron, stone, or ceramic surface on which a glass gather is rolled to shape it.
 - **Pontil** -- A solid iron rod attached to the base of a glass piece to hold it for finishing after removal from the blowpipe.
-- **Annealing** -- Controlled slow cooling of finished glass through the stress-relaxation temperature range to prevent residual stress.
-- **Devitrification** -- Unwanted crystallization of glass, usually caused by too-slow cooling through the nucleation-prone temperature range.
-- **Flux** -- A substance (potash, soda ash) that lowers the melting point of silica by disrupting the crystal network.
 - **Refractory** -- A material capable of withstanding very high temperatures without melting or deforming; used for crucibles and furnace linings.
-- **Blowpipe** -- A hollow iron tube through which the glassmaker blows air to inflate a gather of molten glass.
-- **Crown glass** -- A method of producing flat window panes by spinning a blown glass bubble into a disc.
 - **Strain point** -- The temperature (approximately 500 degrees C for soda-lime glass) below which internal stress can no longer relax in practical timeframes.
 - **Working range** -- The temperature interval (900-1100 degrees C) at which glass viscosity permits blowing, shaping, and forming.
 

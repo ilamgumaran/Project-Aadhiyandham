@@ -453,32 +453,17 @@ escalate to Phase 4 (Deter). Prepare for possible lockdown.
 ## Vocabulary of the Foundation
 
 - **Active threat response** — the human decision layer that operates on top of passive
-  defense systems, encompassing nightwatch, contact protocols, and emergency lockdown
-- **Threat spectrum** — the range of possible human contacts from benign (lost traveler)
-  to hostile (organized raiding party), used to calibrate proportional response
-- **Proportional response** — the principle that defensive action must match the assessed
-  threat level, neither escalating nor underreacting
-- **De-escalation** — the systematic reduction of tension in a contact situation through
-  communication, body language, and structured protocol
-- **Contact team** — the group of individuals (typically three: Speaker, Overwatch,
-  Runner) who deploy to the Contact Point when human contact is detected
-- **Overwatch** — the concealed observer(s) who provide security for the Speaker during
-  a contact, positioned to intervene if the situation escalates
-- **Contact Point** — the designated location where the settlement meets unknown
-  individuals, positioned to provide advantage to the defenders while remaining
-  accessible to visitors
 - **Alert escalation ladder** — the graduated sequence of responses from passive
-  observation through contact team deployment to full community lockdown
-- **Rotation imperative** — the structural requirement that all able-bodied adults
-  participate in defense roles, preventing the emergence of a warrior class
-- **Threat assessment** — the structured evaluation of a contact's threat level using the
-  scoring matrix (group size, weapons, behavior, condition, intelligence match)
-- **Warrior class** — a specialized group that monopolizes defense roles and accumulates
-  disproportionate political power; the primary structural threat that the rotation
-  imperative is designed to prevent
+- **Contact Point** — the designated location where the settlement meets unknown
+- **Contact team** — the group of individuals (typically three: Speaker, Overwatch,
+- **De-escalation** — the systematic reduction of tension in a contact situation through
 - **Intelligence gathering** — the systematic collection of information from all
-  contacts (friendly, neutral, or hostile) about the surrounding region, neighboring
-  settlements, and resource availability
+- **Overwatch** — the concealed observer(s) who provide security for the Speaker during
+- **Proportional response** — the principle that defensive action must match the assessed
+- **Rotation imperative** — the structural requirement that all able-bodied adults
+- **Threat assessment** — the structured evaluation of a contact's threat level using the
+- **Threat spectrum** — the range of possible human contacts from benign (lost traveler)
+- **Warrior class** — a specialized group that monopolizes defense roles and accumulates
 
 ---
 

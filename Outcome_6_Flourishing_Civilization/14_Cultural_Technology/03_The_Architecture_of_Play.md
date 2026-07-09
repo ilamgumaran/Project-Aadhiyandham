@@ -424,27 +424,21 @@ require supermajority vote for repurposing; mark boundaries with permanent posts
 
 ## Vocabulary of the Foundation
 
-- **Magic Circle:** The temporary, voluntary boundary separating play from
-  ordinary life, within which game rules are sovereign (Huizinga).
 - **Agon:** Play based on competition and contests of skill (Caillois).
 - **Alea:** Play based on chance (Caillois).
-- **Mimicry:** Play based on simulation and becoming someone else (Caillois).
-- **Ilinx:** Play based on vertigo and perceptual disruption (Caillois).
 - **Carnival:** A bounded period of sanctioned social inversion (Bakhtin).
 - **Default Mode Network (DMN):** Brain network active during rest and
-  unstructured play, generating creativity, empathy, and future planning.
-- **Flow State:** Complete absorption in appropriately challenging activity
-  (Csikszentmihalyi).
-- **Mandate of Rest:** Legally enforced weekly day of non-labor.
 - **Festival of Fools:** Annual midwinter carnival of social reversal and
-  satire.
-- **Rough-and-Tumble Play:** Physical play involving wrestling, chasing, and
-  mock combat, essential for neurological development.
+- **Flow State:** Complete absorption in appropriately challenging activity
 - **Free Play:** Unstructured, non-goal-oriented, self-directed play activity.
-- **Social Inversion:** Temporary reversal of social hierarchies during festival.
-- **Play Deprivation:** Condition resulting from insufficient play, linked to
-  depression, rigidity, and violence (Brown).
+- **Ilinx:** Play based on vertigo and perceptual disruption (Caillois).
 - **Ludic:** Of or relating to play; from Latin *ludus*.
+- **Magic Circle:** The temporary, voluntary boundary separating play from
+- **Mandate of Rest:** Legally enforced weekly day of non-labor.
+- **Mimicry:** Play based on simulation and becoming someone else (Caillois).
+- **Play Deprivation:** Condition resulting from insufficient play, linked to
+- **Rough-and-Tumble Play:** Physical play involving wrestling, chasing, and
+- **Social Inversion:** Temporary reversal of social hierarchies during festival.
 
 ## Cross-References
 

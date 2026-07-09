@@ -222,28 +222,17 @@ These are the five most frequent causes of vessel loss, injury, and death in non
 ## Vocabulary of the Foundation
 
 - **Blue Refugia**: Settlements selected for their access to navigable water, whose defensive posture, trade capacity, and logistics are organized around waterway access as a strategic asset.
-
 - **Displacement Hull**: A hull that moves through the water by pushing it aside (displacing it), as opposed to planing on top of it. All non-motorized cargo vessels are displacement hulls. Speed is limited by hull length (maximum hull speed in knots is approximately 1.34 times the square root of waterline length in feet).
-
-- **Lee Shore**: A shore onto which the wind is blowing. A vessel near a lee shore is in danger because the wind pushes it toward land. The opposite — a weather shore — is safe because the wind blows the vessel away from land.
-
-- **Thalweg**: The line of deepest water in a river channel. The thalweg generally follows the outside of bends (where current is fastest and erosion deepest) and crosses to the opposite bank between bends. Following the thalweg maximizes depth and minimizes grounding risk.
-
-- **Portage**: A land crossing between two navigable water bodies, or around an impassable obstruction on a single waterway. The portage is the weakest link in any water route; its length, terrain, and security determine the viability of the overall route.
-
 - **Draft**: The vertical distance between the waterline and the lowest point of the vessel's hull (the keel or bottom). A vessel drawing 30 cm of draft requires at least 30 cm of water depth to float; in practice, a safety margin of 10-15 cm is added to avoid grounding on unseen obstacles.
-
-- **Freeboard**: The vertical distance between the waterline and the top of the vessel's side (the gunwale). Freeboard is the vessel's reserve buoyancy — the margin between safe operation and swamping. Minimum operational freeboard for open water is 15 cm; for sheltered water, 10 cm.
-
-- **Tidal Window**: The period during a tidal cycle when current direction and speed are favorable for a planned passage. Tidal windows are typically 2-4 hours long, centered on mid-flood or mid-ebb. Missing a tidal window means waiting 6 hours for the next one or fighting the current.
-
 - **Eddy**: A region of water behind an obstruction (rock, bridge pier, point of land) where current flows upstream or is slack relative to the main current. Eddies are rest stops and staging areas in river travel. Understanding eddy mechanics is fundamental to river navigation.
-
 - **Ferry Glide**: A river crossing technique in which the vessel is angled upstream at approximately 30-45 degrees to the current while paddling or rowing forward. The current pushes the vessel laterally across the river without carrying it downstream. The ferry glide is the primary method for crossing rivers in current too strong to paddle directly across.
-
-- **Strainer**: An obstacle in a river that allows water to pass through but traps solid objects — typically fallen trees, root masses, log jams, or debris piles. Strainers are among the most lethal river hazards because the full force of the current pins anything trapped against them.
-
+- **Freeboard**: The vertical distance between the waterline and the top of the vessel's side (the gunwale). Freeboard is the vessel's reserve buoyancy — the margin between safe operation and swamping. Minimum operational freeboard for open water is 15 cm; for sheltered water, 10 cm.
 - **Gunwale**: (Pronounced "gunnel.") The upper edge of a vessel's side. The structural member that runs along the top of the hull from bow to stern. Freeboard is measured from the waterline to the gunwale.
+- **Lee Shore**: A shore onto which the wind is blowing. A vessel near a lee shore is in danger because the wind pushes it toward land. The opposite — a weather shore — is safe because the wind blows the vessel away from land.
+- **Portage**: A land crossing between two navigable water bodies, or around an impassable obstruction on a single waterway. The portage is the weakest link in any water route; its length, terrain, and security determine the viability of the overall route.
+- **Strainer**: An obstacle in a river that allows water to pass through but traps solid objects — typically fallen trees, root masses, log jams, or debris piles. Strainers are among the most lethal river hazards because the full force of the current pins anything trapped against them.
+- **Thalweg**: The line of deepest water in a river channel. The thalweg generally follows the outside of bends (where current is fastest and erosion deepest) and crosses to the opposite bank between bends. Following the thalweg maximizes depth and minimizes grounding risk.
+- **Tidal Window**: The period during a tidal cycle when current direction and speed are favorable for a planned passage. Tidal windows are typically 2-4 hours long, centered on mid-flood or mid-ebb. Missing a tidal window means waiting 6 hours for the next one or fighting the current.
 
 ---
 

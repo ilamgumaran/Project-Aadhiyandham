@@ -63,6 +63,17 @@ ASCII diagram or description of what an SVG/diagram should show.
 
 *   **Citation/Principle:** Peer-reviewed or empirically validated backing for the approach.
 
+
+
+## Glossary Reference
+
+*See [Glossary.md](Glossary.md) for full definitions of:*
+
+*   **Apprenticeship**
+*   **Execution**
+*   **Preparation**
+*   **Review**
+
 ## 8. Practical Implementation Guide for Beginners
 
 ### 8.1. Step-by-Step Action Plan

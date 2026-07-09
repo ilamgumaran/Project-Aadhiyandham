@@ -265,25 +265,16 @@ Replace calendar-based planting rules with phenologically triggered decisions:
 
 ## Vocabulary of the Foundation
 
-- **Phenology** — The scientific study of the timing of recurring biological events (flowering, migration, emergence) and their relationship to climatic and environmental drivers.
-
-- **Growing Degree-Day (GDD)** — A unit of accumulated heat calculated as the daily mean temperature minus a species-specific base temperature, summed over the growing season. The fundamental quantitative tool of applied phenology.
-
-- **Vernalization** — The requirement of many temperate plant species for a minimum period of cold exposure (typically below 7 degrees C) before they are physiologically capable of flowering. An evolutionary safeguard against premature reproduction.
-
-- **Photoperiod** — The duration of daylight in a 24-hour cycle. Determined solely by latitude and date, photoperiod is the most predictable environmental variable and serves as the primary seasonal clock for many plant and bird species.
-
-- **Hopkins' Bioclimatic Law** — The empirical principle (A. D. Hopkins, 1918) that phenological events in temperate North America are delayed approximately 4 days per degree of latitude northward, 1.25 days per degree of longitude eastward, and 4 days per 120 meters of elevation gain.
-
-- **Indicator Species** — A species whose phenological behavior reliably tracks an environmental variable of interest and serves as a proxy measurement of that variable for the observer.
-
-- **Phenological Mismatch** — A disruption of the historical temporal synchrony between interacting species (e.g., pollinators and flowering plants), typically caused by differential responses to climate change.
-
 - **Base Temperature** — The minimum temperature below which a given organism ceases development. Used as the lower threshold in GDD calculations. Species-specific: 0 degrees C for wheat, 5 degrees C for most temperate trees, 10 degrees C for corn.
-
-- **Dolbear's Law** — The empirical relationship between cricket chirp rate and ambient temperature, formalized by Amos Dolbear in 1897. Applicable specifically to the Snowy Tree Cricket (*Oecanthus fultoni*).
-
 - **Bioclimatic Zone** — A geographic region defined by its characteristic suite of phenological timings, growing season length, and dominant biological communities. Analogous to a hardiness zone but derived from biological observation rather than minimum temperature alone.
+- **Dolbear's Law** — The empirical relationship between cricket chirp rate and ambient temperature, formalized by Amos Dolbear in 1897. Applicable specifically to the Snowy Tree Cricket (*Oecanthus fultoni*).
+- **Growing Degree-Day (GDD)** — A unit of accumulated heat calculated as the daily mean temperature minus a species-specific base temperature, summed over the growing season. The fundamental quantitative tool of applied phenology.
+- **Hopkins' Bioclimatic Law** — The empirical principle (A. D. Hopkins, 1918) that phenological events in temperate North America are delayed approximately 4 days per degree of latitude northward, 1.25 days per degree of longitude eastward, and 4 days per 120 meters of elevation gain.
+- **Indicator Species** — A species whose phenological behavior reliably tracks an environmental variable of interest and serves as a proxy measurement of that variable for the observer.
+- **Phenological Mismatch** — A disruption of the historical temporal synchrony between interacting species (e.g., pollinators and flowering plants), typically caused by differential responses to climate change.
+- **Phenology** — The scientific study of the timing of recurring biological events (flowering, migration, emergence) and their relationship to climatic and environmental drivers.
+- **Photoperiod** — The duration of daylight in a 24-hour cycle. Determined solely by latitude and date, photoperiod is the most predictable environmental variable and serves as the primary seasonal clock for many plant and bird species.
+- **Vernalization** — The requirement of many temperate plant species for a minimum period of cold exposure (typically below 7 degrees C) before they are physiologically capable of flowering. An evolutionary safeguard against premature reproduction.
 
 ---
 

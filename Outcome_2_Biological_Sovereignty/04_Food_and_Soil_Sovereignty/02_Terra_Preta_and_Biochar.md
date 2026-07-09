@@ -293,31 +293,19 @@ This protocol creates a permanent raised bed with Terra Preta-level fertility. O
 
 ## Vocabulary of the Foundation
 
-- **Pyrolysis**: Thermal decomposition of organic matter in the absence or near-absence of oxygen. Produces solid biochar, combustible gases (syngas), and condensable liquids (bio-oil). Distinguished from combustion, which requires oxygen and produces CO2 and ash.
-
 - **Biochar**: The solid carbon residue of pyrolysis. A porous, stable, aromatic carbon matrix with high surface area (200-400 m2/g) used as a soil amendment. Distinguished from charcoal (which is produced for fuel) by its intended use in soil.
-
-- **Terra Preta**: Portuguese for "dark earth." Specifically refers to the anthropogenic (human-created) dark soils of the Amazon basin, enriched with biochar, pottery fragments, bone, and organic matter by pre-Columbian civilizations. Used generically to refer to any soil intentionally built using biochar-based amendment.
-
-- **Cation Exchange Capacity (CEC)**: A measure of a soil's or material's ability to adsorb and release positively charged nutrient ions (cations). Expressed in centimoles of charge per kilogram, cmol(+)/kg. Higher CEC means the soil can store more nutrients and release them gradually to plant roots, reducing leaching losses.
-
-- **Flame cap**: The layer of active combustion at the top surface of a cone pit or trench kiln. The flame cap consumes oxygen and pyrolysis gases, preventing oxygen from reaching the char bed below. Maintaining a continuous flame cap is the essential technique for producing biochar rather than ash in open-air kilns.
-
-- **Syngas**: Synthesis gas — a mixture of carbon monoxide (CO), hydrogen (H2), and methane (CH4) produced during pyrolysis. Combustible; burns with a blue-purple flame. In TLUD gasifiers, syngas is captured and burned for cooking heat.
-
-- **Charging (inoculation)**: The process of pre-loading raw biochar with nutrients and microbial communities before soil application. Typically achieved by soaking biochar in a compost-urine mixture for 2-4 weeks. Charged biochar is hydrophilic, nutrient-rich, and biologically active.
-
-- **Mycorrhizal fungi**: Symbiotic fungi that colonise plant roots and extend their hyphal networks into the soil matrix, dramatically increasing the volume of soil from which a plant can extract water and nutrients. Biochar micropores provide protected habitat for mycorrhizal spores and hyphae.
-
-- **Humus**: The stable, dark, amorphous organic fraction of soil that has been fully decomposed and humified. Humus has very high CEC (100-300 cmol(+)/kg) and is the benchmark against which biochar's soil benefits are compared. Unlike humus, biochar does not decompose.
-
-- **Feedstock**: The raw biomass input for pyrolysis. Feedstock characteristics (species, density, moisture content, mineral content) determine biochar quality.
-
-- **Torrefaction**: Low-temperature thermal treatment (200-300 C) that drives off moisture and volatile organics without achieving full pyrolysis. The product is "torrefied biomass" — energy-dense but not chemically stable in soil.
-
 - **Carbon sequestration**: The long-term removal of carbon dioxide from the atmosphere and its storage in a stable form. Biochar production converts atmospheric carbon (fixed by plants through photosynthesis) into a form with a half-life of 500-5,000 years, making it one of the most effective and durable carbon sequestration technologies available.
-
+- **Cation Exchange Capacity (CEC)**: A measure of a soil's or material's ability to adsorb and release positively charged nutrient ions (cations). Expressed in centimoles of charge per kilogram, cmol(+)/kg. Higher CEC means the soil can store more nutrients and release them gradually to plant roots, reducing leaching losses.
+- **Charging (inoculation)**: The process of pre-loading raw biochar with nutrients and microbial communities before soil application. Typically achieved by soaking biochar in a compost-urine mixture for 2-4 weeks. Charged biochar is hydrophilic, nutrient-rich, and biologically active.
+- **Feedstock**: The raw biomass input for pyrolysis. Feedstock characteristics (species, density, moisture content, mineral content) determine biochar quality.
+- **Flame cap**: The layer of active combustion at the top surface of a cone pit or trench kiln. The flame cap consumes oxygen and pyrolysis gases, preventing oxygen from reaching the char bed below. Maintaining a continuous flame cap is the essential technique for producing biochar rather than ash in open-air kilns.
+- **Humus**: The stable, dark, amorphous organic fraction of soil that has been fully decomposed and humified. Humus has very high CEC (100-300 cmol(+)/kg) and is the benchmark against which biochar's soil benefits are compared. Unlike humus, biochar does not decompose.
+- **Mycorrhizal fungi**: Symbiotic fungi that colonise plant roots and extend their hyphal networks into the soil matrix, dramatically increasing the volume of soil from which a plant can extract water and nutrients. Biochar micropores provide protected habitat for mycorrhizal spores and hyphae.
 - **Oxisol**: A highly weathered tropical soil characterised by deep red-orange colour (iron and aluminium oxides), extremely low CEC, and very low natural fertility. The dominant soil type in the Amazon basin and the substrate from which Terra Preta was built.
+- **Pyrolysis**: Thermal decomposition of organic matter in the absence or near-absence of oxygen. Produces solid biochar, combustible gases (syngas), and condensable liquids (bio-oil). Distinguished from combustion, which requires oxygen and produces CO2 and ash.
+- **Syngas**: Synthesis gas — a mixture of carbon monoxide (CO), hydrogen (H2), and methane (CH4) produced during pyrolysis. Combustible; burns with a blue-purple flame. In TLUD gasifiers, syngas is captured and burned for cooking heat.
+- **Terra Preta**: Portuguese for "dark earth." Specifically refers to the anthropogenic (human-created) dark soils of the Amazon basin, enriched with biochar, pottery fragments, bone, and organic matter by pre-Columbian civilizations. Used generically to refer to any soil intentionally built using biochar-based amendment.
+- **Torrefaction**: Low-temperature thermal treatment (200-300 C) that drives off moisture and volatile organics without achieving full pyrolysis. The product is "torrefied biomass" — energy-dense but not chemically stable in soil.
 
 ---
 

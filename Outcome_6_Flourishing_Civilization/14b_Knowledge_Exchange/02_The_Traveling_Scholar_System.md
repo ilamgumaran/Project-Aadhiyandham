@@ -415,38 +415,21 @@ When a scholar arrives at a host settlement:
 
 ## Vocabulary of the Foundation
 
-- **Rihla**: Arabic term for scholarly journey; in the medieval Islamic world, traveling
-  to seek knowledge was considered a religious and intellectual obligation. Scholars like
-  Ibn Battuta covered over 100,000 km.
-- **Isnad**: Chain of transmission used in Islamic scholarship to verify the reliability
-  of transmitted knowledge by tracing it back through named carriers to its source.
-- **Journeyman**: In the medieval European guild system, an artisan who had completed
-  apprenticeship and traveled between workshops to learn regional techniques before
-  becoming a master.
-- **Wanderjahre**: German term for the years of travel required of a journeyman artisan,
-  typically lasting two to five years across multiple cities and workshops.
-- **Fare-hai'a**: Polynesian wayfinding school, particularly in Tahiti, where navigators
-  were trained in structured oral formats including chants and genealogies.
-- **Credential token**: A physical object that authenticates the bearer's identity and
-  authorization, analogous to a letter of safe-conduct in medieval diplomacy.
-- **Knowledge payload**: The complete set of documents, oral briefings, and physical
-  samples a scholar carries on a given journey.
 - **Circuit**: A planned route connecting multiple settlements in sequence, designed to
-  be completed within one travel season.
-- **Waypoint**: A pre-established rest stop along a scholar's route, stocked with basic
-  provisions and shelter, spaced roughly 15-25 km apart.
-- **Scholar corps**: The designated group of 3-8 individuals within a settlement trained
-  and authorized to serve as traveling knowledge carriers.
-- **Manifest**: A written list of all documents, samples, and materials carried by a
-  scholar, signed or marked by each host settlement upon delivery.
-- **Signal pennant**: A colored flag raised at 500 meters distance when approaching a
-  settlement, identifying the bearer as an authorized scholar.
-- **Seasonal passphrase**: A verbal challenge-response code changed each season and
-  exchanged during the previous scholar visit, used for identity verification.
+- **Credential token**: A physical object that authenticates the bearer's identity and
 - **Dunbar's Number**: The cognitive limit of approximately 150 stable social
-  relationships; the credential system extends trust beyond this natural boundary.
+- **Fare-hai'a**: Polynesian wayfinding school, particularly in Tahiti, where navigators
+- **Isnad**: Chain of transmission used in Islamic scholarship to verify the reliability
+- **Journeyman**: In the medieval European guild system, an artisan who had completed
+- **Knowledge payload**: The complete set of documents, oral briefings, and physical
+- **Manifest**: A written list of all documents, samples, and materials carried by a
 - **Network effect**: The compounding benefit observed as more settlements join the
-  knowledge exchange system, where each new node increases value for all existing nodes.
+- **Rihla**: Arabic term for scholarly journey; in the medieval Islamic world, traveling
+- **Scholar corps**: The designated group of 3-8 individuals within a settlement trained
+- **Seasonal passphrase**: A verbal challenge-response code changed each season and
+- **Signal pennant**: A colored flag raised at 500 meters distance when approaching a
+- **Wanderjahre**: German term for the years of travel required of a journeyman artisan,
+- **Waypoint**: A pre-established rest stop along a scholar's route, stocked with basic
 
 ## Cross-References
 

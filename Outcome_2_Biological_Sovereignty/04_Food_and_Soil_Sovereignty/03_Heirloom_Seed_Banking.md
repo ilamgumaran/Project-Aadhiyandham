@@ -374,21 +374,21 @@ The following 18 crops represent a balanced seed bank providing caloric density,
 
 ## Vocabulary of the Foundation
 
-- **Open-Pollinated (OP):** A variety that reproduces true-to-type from saved seed, maintained by natural pollination and human selection.
-- **F1 Hybrid:** The first-generation offspring of a cross between two inbred parent lines, exhibiting hybrid vigor but unable to breed true in subsequent generations.
-- **Heirloom:** An open-pollinated variety with a documented history of cultivation, typically predating the hybrid era (pre-1950). Often associated with specific regions, cultures, or families.
-- **Genetic Sovereignty:** The condition in which a community controls its own crop genetics without dependence on external seed sources.
-- **Isolation Distance:** The minimum spatial separation between varieties of the same species required to prevent uncontrolled cross-pollination.
-- **Cross-Pollination:** The transfer of pollen from one plant to a genetically distinct plant of the same species, producing offspring with mixed genetics.
-- **Self-Pollination:** The transfer of pollen within the same flower or between flowers on the same plant, producing offspring genetically similar to the parent.
-- **Winnowing:** The process of separating grain from chaff by tossing into moving air, exploiting the difference in weight.
-- **Threshing:** The mechanical separation of seeds from their enclosing structures (pods, husks, seed heads) by beating, rubbing, or impact.
-- **Desiccant:** A hygroscopic substance used to absorb moisture from the air within a sealed container, reducing humidity and extending seed life.
-- **Germination Rate:** The percentage of seeds in a sample that successfully sprout under favorable conditions, a measure of seed lot viability.
-- **Seed Viability:** The capacity of a seed to germinate and produce a normal seedling, which declines over time as a function of storage conditions.
 - **Biennial:** A plant that completes its life cycle over two growing seasons — vegetative growth in Year 1, flowering and seed production in Year 2.
-- **Vavilov Center:** One of the regions of the world identified by Nikolai Vavilov as a center of origin for cultivated plants, where the greatest genetic diversity of crop species is found.
+- **Cross-Pollination:** The transfer of pollen from one plant to a genetically distinct plant of the same species, producing offspring with mixed genetics.
+- **Desiccant:** A hygroscopic substance used to absorb moisture from the air within a sealed container, reducing humidity and extending seed life.
+- **F1 Hybrid:** The first-generation offspring of a cross between two inbred parent lines, exhibiting hybrid vigor but unable to breed true in subsequent generations.
 - **Genetic Erosion:** The loss of allelic diversity within a crop population due to small population size, drift, or directional selection, resulting in reduced adaptability and vigor.
+- **Genetic Sovereignty:** The condition in which a community controls its own crop genetics without dependence on external seed sources.
+- **Germination Rate:** The percentage of seeds in a sample that successfully sprout under favorable conditions, a measure of seed lot viability.
+- **Heirloom:** An open-pollinated variety with a documented history of cultivation, typically predating the hybrid era (pre-1950). Often associated with specific regions, cultures, or families.
+- **Isolation Distance:** The minimum spatial separation between varieties of the same species required to prevent uncontrolled cross-pollination.
+- **Open-Pollinated (OP):** A variety that reproduces true-to-type from saved seed, maintained by natural pollination and human selection.
+- **Seed Viability:** The capacity of a seed to germinate and produce a normal seedling, which declines over time as a function of storage conditions.
+- **Self-Pollination:** The transfer of pollen within the same flower or between flowers on the same plant, producing offspring genetically similar to the parent.
+- **Threshing:** The mechanical separation of seeds from their enclosing structures (pods, husks, seed heads) by beating, rubbing, or impact.
+- **Vavilov Center:** One of the regions of the world identified by Nikolai Vavilov as a center of origin for cultivated plants, where the greatest genetic diversity of crop species is found.
+- **Winnowing:** The process of separating grain from chaff by tossing into moving air, exploiting the difference in weight.
 
 ---
 

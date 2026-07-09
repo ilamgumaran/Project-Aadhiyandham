@@ -324,19 +324,19 @@ Document all rituals, adaptations, and observations in the Memory Book. This is 
 
 ## Vocabulary of the Foundation
 
-- **Mourning Circle:** A structured community gathering activated within 24 hours of a significant loss, following a fixed sequence of Naming, Silence, Witness, and Closing.
-- **The Naming:** The act of stating a loss precisely and without euphemism, preventing denial and rumor.
-- **Witness Round:** A turn-based sharing protocol where each speaker's contribution is received without comment or response.
-- **The World That Was:** A section of the Seasonal Remembrance dedicated to explicitly mourning the pre-collapse world and specific losses since the last gathering.
-- **The World That Is:** A section of the Seasonal Remembrance dedicated to identifying what has emerged, grown, or strengthened --- implementing post-traumatic growth through structured cognitive reframing.
-- **Memory Stone:** A physical object placed at the memorial site to represent a loss. Externalizing grief into a tangible artifact is a well-documented therapeutic mechanism implementing Continuing Bonds theory.
-- **Convener:** Any community member who initiates a Mourning Circle. This is not a permanent role and does not require authorization.
 - **Collective Effervescence:** Durkheim's (1912) term for the heightened sense of shared identity and emotional synchronization produced by communal ritual. The neurochemical basis involves synchronized cortisol regulation and oxytocin release.
+- **Complicated Grief:** Grief that becomes chronic and functionally impairing, typically characterized by persistent yearning, avoidance, identity disruption, and social withdrawal lasting beyond 12 months. Social isolation is the strongest predictor.
 - **Continuing Bonds:** The theory (Klass, Silverman, and Nickman, 1996) that healthy grief involves maintaining an ongoing symbolic relationship with the deceased rather than achieving closure or "moving on."
+- **Convener:** Any community member who initiates a Mourning Circle. This is not a permanent role and does not require authorization.
+- **Cortisol Regulation:** The process by which social contact and emotional expression during communal ritual guide the stress hormone cortisol from acute spike back toward baseline, preventing the transition to chronic elevation.
+- **Memory Stone:** A physical object placed at the memorial site to represent a loss. Externalizing grief into a tangible artifact is a well-documented therapeutic mechanism implementing Continuing Bonds theory.
+- **Mourning Circle:** A structured community gathering activated within 24 hours of a significant loss, following a fixed sequence of Naming, Silence, Witness, and Closing.
 - **Narrative Exposure:** The therapeutic mechanism by which verbalization of traumatic experience in a safe social context allows the brain to integrate fragmented traumatic memories into coherent autobiographical narrative.
 - **Post-Traumatic Growth:** The phenomenon (Tedeschi and Calhoun, 2004) whereby communities that deliberately process trauma together develop not merely recovery but increased resilience, deeper bonds, and expanded capacity.
-- **Complicated Grief:** Grief that becomes chronic and functionally impairing, typically characterized by persistent yearning, avoidance, identity disruption, and social withdrawal lasting beyond 12 months. Social isolation is the strongest predictor.
-- **Cortisol Regulation:** The process by which social contact and emotional expression during communal ritual guide the stress hormone cortisol from acute spike back toward baseline, preventing the transition to chronic elevation.
+- **The Naming:** The act of stating a loss precisely and without euphemism, preventing denial and rumor.
+- **The World That Is:** A section of the Seasonal Remembrance dedicated to identifying what has emerged, grown, or strengthened --- implementing post-traumatic growth through structured cognitive reframing.
+- **The World That Was:** A section of the Seasonal Remembrance dedicated to explicitly mourning the pre-collapse world and specific losses since the last gathering.
+- **Witness Round:** A turn-based sharing protocol where each speaker's contribution is received without comment or response.
 
 ---
 

@@ -307,16 +307,16 @@ When multiple deaths occur from infectious disease, the standard burial protocol
 
 ## Vocabulary of the Foundation
 
-- **Autolysis** — self-digestion of cells by their own enzymes after death, the first stage of decomposition
-- **Putrefaction** — anaerobic decomposition of tissue by gut bacteria, producing foul-smelling gases and compounds
 - **Aerobic decomposition** — breakdown of organic matter by oxygen-dependent microorganisms, producing carbon dioxide, water, and stable humus
+- **Autolysis** — self-digestion of cells by their own enzymes after death, the first stage of decomposition
 - **Carbon envelope** — the 50-100 kg layer of high-carbon material (wood chips, sawdust, straw) placed around a body in a natural burial to promote aerobic decomposition and absorb odors and leachate
-- **Vadose zone** — the unsaturated soil layer between the ground surface and the water table, serving as the primary biological filter for burial contaminants
-- **Quicklime (calcium oxide)** — CaO, a strongly alkaline powder produced by heating limestone, applied to bodies in epidemic burials to accelerate pathogen destruction
 - **Memorial forest** — the settlement's burial ground, managed as a growing forest where each grave supports a memorial tree that incorporates the deceased's nutrients into living wood and fruit
+- **Nutrient return** — the principle that a human body's chemical elements (carbon, nitrogen, phosphorus, calcium) must be returned to the soil through natural burial rather than wasted through cremation or sealed burial
+- **Putrefaction** — anaerobic decomposition of tissue by gut bacteria, producing foul-smelling gases and compounds
+- **Quicklime (calcium oxide)** — CaO, a strongly alkaline powder produced by heating limestone, applied to bodies in epidemic burials to accelerate pathogen destruction
 - **Shroud** — a wrap of natural biodegradable fiber (cotton, linen, hemp, wool) used to enclose the body for burial
 - **Skeletonization** — the stage of decomposition at which all soft tissue has been consumed, leaving only bone
-- **Nutrient return** — the principle that a human body's chemical elements (carbon, nitrogen, phosphorus, calcium) must be returned to the soil through natural burial rather than wasted through cremation or sealed burial
+- **Vadose zone** — the unsaturated soil layer between the ground surface and the water table, serving as the primary biological filter for burial contaminants
 
 ---
 

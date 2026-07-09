@@ -338,17 +338,17 @@ Soil and water monitoring is the foundation of food security. At least 2 communi
 
 ## Vocabulary of the Foundation
 
-*   **Mycorrhizal Fungi:** Symbiotic fungi that extend plant root systems, trading mineral nutrients (especially phosphorus) scavenged from rock particles in exchange for plant sugars. Heavy mycorrhizal dependence indicates low soil phosphorus.
-*   **Potash:** Potassium carbonate (K2CO3) derived from wood ash. A primary source of potassium for soil fertility and a precursor for soap making (lye).
 *   **Acid Sulfate Soil:** Soil containing iron sulfides that, when exposed to air, produce sulfuric acid. Common in former coastal wetlands. Extremely hostile to plant growth.
 *   **Aquatic Macroinvertebrate:** Visible (non-microscopic) animals without backbones that live in water — including insect larvae, worms, and crustaceans. Their species composition reliably indicates water quality without chemical testing.
-*   **Rock Phosphate:** Sedimentary or igneous rock containing high concentrations of the mineral apatite, the primary geological source of phosphorus. Can be applied directly to acidic soils (slow release) or processed with sulfuric acid to make superphosphate (if chemistry infrastructure exists).
-*   **Cation Exchange Capacity (CEC):** The ability of soil to hold positively charged nutrient ions on the surfaces of clay and organic matter particles. High CEC means the soil retains nutrients; low CEC means nutrients leach away with rainwater. Measured in milliequivalents per 100 grams (meq/100g). Sandy soil: 1-5 meq/100g. Clay soil: 20-50 meq/100g. Biochar-amended soil: 40-80 meq/100g.
-*   **Soil Food Web:** The community of organisms living in the soil — bacteria, fungi, protozoa, nematodes, arthropods, and earthworms — that decompose organic matter and cycle nutrients into plant-available forms. A dead soil food web means dead crops regardless of chemical nutrient content.
-*   **Earthworm Census:** A standardized field test in which earthworms are counted in a 30cm x 30cm x 30cm soil block as an indicator of overall soil biological health.
 *   **Bioavailability:** The fraction of a nutrient present in soil that is actually in a chemical form plants can absorb. Total nutrient content and bioavailable nutrient content are not the same — phosphorus bound to iron oxides, for example, is present but inaccessible to roots.
-*   **Nutrient Cycling:** The movement of nutrients (N, P, K, and others) from soil into plants, from plants into animals or humans, and from waste back into soil. A closed cycle loses nothing. An open cycle (waste dumped, crops exported) depletes the system.
+*   **Cation Exchange Capacity (CEC):** The ability of soil to hold positively charged nutrient ions on the surfaces of clay and organic matter particles. High CEC means the soil retains nutrients; low CEC means nutrients leach away with rainwater. Measured in milliequivalents per 100 grams (meq/100g). Sandy soil: 1-5 meq/100g. Clay soil: 20-50 meq/100g. Biochar-amended soil: 40-80 meq/100g.
+*   **Earthworm Census:** A standardized field test in which earthworms are counted in a 30cm x 30cm x 30cm soil block as an indicator of overall soil biological health.
 *   **Indicator Organism:** A species whose presence, absence, or abundance reliably signals a specific environmental condition. Mayfly nymphs indicate clean water; nettles indicate high nitrogen; earthworms indicate healthy soil biology.
+*   **Mycorrhizal Fungi:** Symbiotic fungi that extend plant root systems, trading mineral nutrients (especially phosphorus) scavenged from rock particles in exchange for plant sugars. Heavy mycorrhizal dependence indicates low soil phosphorus.
+*   **Nutrient Cycling:** The movement of nutrients (N, P, K, and others) from soil into plants, from plants into animals or humans, and from waste back into soil. A closed cycle loses nothing. An open cycle (waste dumped, crops exported) depletes the system.
+*   **Potash:** Potassium carbonate (K2CO3) derived from wood ash. A primary source of potassium for soil fertility and a precursor for soap making (lye).
+*   **Rock Phosphate:** Sedimentary or igneous rock containing high concentrations of the mineral apatite, the primary geological source of phosphorus. Can be applied directly to acidic soils (slow release) or processed with sulfuric acid to make superphosphate (if chemistry infrastructure exists).
+*   **Soil Food Web:** The community of organisms living in the soil — bacteria, fungi, protozoa, nematodes, arthropods, and earthworms — that decompose organic matter and cycle nutrients into plant-available forms. A dead soil food web means dead crops regardless of chemical nutrient content.
 
 ---
 

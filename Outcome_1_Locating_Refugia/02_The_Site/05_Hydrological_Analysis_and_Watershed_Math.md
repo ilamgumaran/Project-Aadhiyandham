@@ -391,31 +391,19 @@ Fill this table using measured flows and projected demands. The critical months 
 
 ## Vocabulary of the Foundation
 
-- **Watershed**: The total land area that drains to a single point (stream confluence, spring, reservoir). All precipitation falling within the watershed boundary eventually reaches that point. The watershed is the fundamental unit of hydrological analysis.
-
-- **Baseflow**: The component of stream or spring flow derived from groundwater discharge. Baseflow is sustained between rainfall events and represents the reliable, clean water supply from subsurface storage.
-
-- **Stormflow**: The component of stream flow derived from direct surface runoff during and immediately after rainfall. Stormflow is rapid, turbid, unreliable, and requires treatment.
-
-- **Runoff Coefficient**: The fraction of precipitation that becomes surface runoff rather than infiltrating into soil or evaporating. Expressed as a dimensionless number between 0 and 1. Determined primarily by land cover, soil type, and slope.
-
-- **Rational Method**: An empirical formula (Q = C x I x A) for estimating peak surface runoff from a catchment during a design storm. Used to size spillways, culverts, and flood conveyance structures.
-
-- **Drought Floor**: The minimum reliable water supply, calculated as the dry-season measured flow multiplied by the 0.4 safety factor. All population and infrastructure planning must reference the drought floor, not average flow.
-
-- **Hydrograph**: A graph of water flow (discharge) plotted against time. A 12-month hydrograph reveals seasonal patterns; a multi-year hydrograph reveals drought cycles and long-term trends.
-
-- **Carrying Capacity (hydrological)**: The maximum population a site can sustain based on its drought floor water supply and the chosen consumption tier. Determined by the formula: `(Drought Floor LPM x 1440) / Daily Liters Per Person`.
-
-- **Silt Trap**: A small settling basin installed upstream of a reservoir where inflowing water velocity decreases, allowing suspended sediment to settle out before entering the main storage body.
-
-- **Evapotranspiration**: The combined loss of water from the landscape through direct evaporation (from soil, water surfaces) and transpiration (water uptake and release by plants). The primary mechanism by which water exits the local hydrological cycle.
-
 - **Aquifer**: A body of permeable rock or sediment that stores and transmits groundwater. The size, permeability, and recharge rate of the aquifer feeding a spring determine the spring's reliability and drought resilience.
-
-- **Source Protection Zone**: The designated area upslope and lateral to a water source within which all activities that could introduce contamination are prohibited. Minimum recommended radius: 100 meters.
-
+- **Baseflow**: The component of stream or spring flow derived from groundwater discharge. Baseflow is sustained between rainfall events and represents the reliable, clean water supply from subsurface storage.
+- **Carrying Capacity (hydrological)**: The maximum population a site can sustain based on its drought floor water supply and the chosen consumption tier. Determined by the formula: `(Drought Floor LPM x 1440) / Daily Liters Per Person`.
 - **Cistern**: An enclosed, watertight container for storing collected water (rainwater or piped spring water). Cisterns eliminate evaporation loss and contamination risk but are limited in practical volume compared to open reservoirs.
+- **Drought Floor**: The minimum reliable water supply, calculated as the dry-season measured flow multiplied by the 0.4 safety factor. All population and infrastructure planning must reference the drought floor, not average flow.
+- **Evapotranspiration**: The combined loss of water from the landscape through direct evaporation (from soil, water surfaces) and transpiration (water uptake and release by plants). The primary mechanism by which water exits the local hydrological cycle.
+- **Hydrograph**: A graph of water flow (discharge) plotted against time. A 12-month hydrograph reveals seasonal patterns; a multi-year hydrograph reveals drought cycles and long-term trends.
+- **Rational Method**: An empirical formula (Q = C x I x A) for estimating peak surface runoff from a catchment during a design storm. Used to size spillways, culverts, and flood conveyance structures.
+- **Runoff Coefficient**: The fraction of precipitation that becomes surface runoff rather than infiltrating into soil or evaporating. Expressed as a dimensionless number between 0 and 1. Determined primarily by land cover, soil type, and slope.
+- **Silt Trap**: A small settling basin installed upstream of a reservoir where inflowing water velocity decreases, allowing suspended sediment to settle out before entering the main storage body.
+- **Source Protection Zone**: The designated area upslope and lateral to a water source within which all activities that could introduce contamination are prohibited. Minimum recommended radius: 100 meters.
+- **Stormflow**: The component of stream flow derived from direct surface runoff during and immediately after rainfall. Stormflow is rapid, turbid, unreliable, and requires treatment.
+- **Watershed**: The total land area that drains to a single point (stream confluence, spring, reservoir). All precipitation falling within the watershed boundary eventually reaches that point. The watershed is the fundamental unit of hydrological analysis.
 
 ---
 

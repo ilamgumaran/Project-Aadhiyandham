@@ -319,21 +319,21 @@ The following species provide reliable soil chemistry information when found gro
 
 ## Vocabulary of the Foundation
 
-- **Mohs Hardness Scale:** A relative scale from 1 to 10 for mineral hardness, where each mineral can scratch those below it. Field references: fingernail (2.5), knife (5.5), quartz (7).
-- **Streak:** The color of a mineral's powder when scraped across an unglazed porcelain tile or rough stone. Often differs from the mineral's surface color and is therefore more diagnostic.
-- **Clay (Kaolinite):** A hydrated aluminum silicate mineral, Al2Si2O5(OH)4, that forms from the weathering of feldspar. The primary material for ceramics, brick, and waterproofing.
-- **Limestone (CaCO3):** A sedimentary rock composed primarily of calcium carbonate. The precursor to quicklime, mortar, plaster, and the foundation of pre-industrial chemistry.
-- **Quicklime (CaO):** Calcium oxide, produced by calcining (heating) limestone above 900 degrees Celsius. Reacts vigorously and exothermically with water. The basis for lime mortar, plaster, water purification, and sanitation.
-- **Hematite:** Iron(III) oxide, Fe2O3. The most common iron ore mineral. Identified by its red-brown streak, which is diagnostic even when the surface appears metallic black.
-- **Magnetite:** Iron(II,III) oxide, Fe3O4. A magnetic iron ore. Can be identified in the field by its attraction to a magnet or, in larger deposits, by the deflection of a compass needle.
-- **Bog Iron:** Hydrated iron oxyhydroxide, FeOOH. Precipitated in wetlands by iron-oxidizing bacteria. Appears as orange-brown, porous, crusty masses. Historically the most accessible iron source for early settlements, smelted in simple bloomery furnaces.
-- **Phosphorite:** A sedimentary rock containing greater than 15 percent P2O5. Dark-colored with a greasy luster. The primary geological source of phosphorus for agriculture.
-- **Soil pH:** A measure of hydrogen ion concentration in soil solution on a logarithmic scale from 0 (most acidic) to 14 (most alkaline). Agricultural optimum is 6.0 to 7.0.
-- **Ribbon Test:** A field test for clay content in which moist soil is rolled into a ribbon between the palms. Ribbon length correlates with clay percentage: greater than 5 centimeters indicates greater than 30 percent clay.
-- **Jar Settle Test:** A field test for soil texture in which soil is suspended in water and allowed to settle. Sand settles in 1 minute, silt in 2 to 4 hours, clay in 24 or more hours. Layer thicknesses give percentage composition.
-- **Indicator Species:** A plant whose presence reliably indicates specific soil or environmental conditions, such as pH range, water table depth, or nutrient status.
 - **B-Horizon:** The subsoil layer beneath the organic-rich A-horizon (topsoil). Typically lighter in color, denser, and enriched in clay that has migrated downward from above. Usually found at 30 to 80 centimeters depth.
+- **Bog Iron:** Hydrated iron oxyhydroxide, FeOOH. Precipitated in wetlands by iron-oxidizing bacteria. Appears as orange-brown, porous, crusty masses. Historically the most accessible iron source for early settlements, smelted in simple bloomery furnaces.
+- **Clay (Kaolinite):** A hydrated aluminum silicate mineral, Al2Si2O5(OH)4, that forms from the weathering of feldspar. The primary material for ceramics, brick, and waterproofing.
+- **Hematite:** Iron(III) oxide, Fe2O3. The most common iron ore mineral. Identified by its red-brown streak, which is diagnostic even when the surface appears metallic black.
+- **Indicator Species:** A plant whose presence reliably indicates specific soil or environmental conditions, such as pH range, water table depth, or nutrient status.
+- **Jar Settle Test:** A field test for soil texture in which soil is suspended in water and allowed to settle. Sand settles in 1 minute, silt in 2 to 4 hours, clay in 24 or more hours. Layer thicknesses give percentage composition.
+- **Limestone (CaCO3):** A sedimentary rock composed primarily of calcium carbonate. The precursor to quicklime, mortar, plaster, and the foundation of pre-industrial chemistry.
+- **Magnetite:** Iron(II,III) oxide, Fe3O4. A magnetic iron ore. Can be identified in the field by its attraction to a magnet or, in larger deposits, by the deflection of a compass needle.
+- **Mohs Hardness Scale:** A relative scale from 1 to 10 for mineral hardness, where each mineral can scratch those below it. Field references: fingernail (2.5), knife (5.5), quartz (7).
 - **Parent Rock:** The underlying geological material from which a soil is derived through weathering. Determines the soil's mineral content, pH tendency, and texture.
+- **Phosphorite:** A sedimentary rock containing greater than 15 percent P2O5. Dark-colored with a greasy luster. The primary geological source of phosphorus for agriculture.
+- **Quicklime (CaO):** Calcium oxide, produced by calcining (heating) limestone above 900 degrees Celsius. Reacts vigorously and exothermically with water. The basis for lime mortar, plaster, water purification, and sanitation.
+- **Ribbon Test:** A field test for clay content in which moist soil is rolled into a ribbon between the palms. Ribbon length correlates with clay percentage: greater than 5 centimeters indicates greater than 30 percent clay.
+- **Soil pH:** A measure of hydrogen ion concentration in soil solution on a logarithmic scale from 0 (most acidic) to 14 (most alkaline). Agricultural optimum is 6.0 to 7.0.
+- **Streak:** The color of a mineral's powder when scraped across an unglazed porcelain tile or rough stone. Often differs from the mineral's surface color and is therefore more diagnostic.
 
 ---
 

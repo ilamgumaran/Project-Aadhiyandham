@@ -363,19 +363,19 @@ A community that protects and facilitates play will, within 10 years, observe:
 
 ## Vocabulary of the Foundation
 
-- **Free play**: Self-directed, voluntary activity chosen and controlled by the child. The defining feature is that the child can quit at any time. Structured by the child's own interests, not adult agendas.
-- **Rough-and-tumble play (R&T)**: Physical play involving wrestling, chasing, and play-fighting. Distinguished from actual aggression by reciprocity (roles reverse), positive affect (laughter), and self-handicapping (stronger participants restrain themselves). Develops prefrontal cortex function.
-- **Risky play**: Play involving uncertainty and the possibility of physical injury — climbing heights, high speed, rough-housing, getting lost, using tools. Sandseter (2011) identified six categories. Suppressing risky play produces anxious, risk-averse children.
-- **Loose parts**: Materials with no fixed use — sticks, stones, water, sand, fabric. Simon Nicholson (1971) proposed that environments rich in loose parts generate the most creative and sustained play.
-- **Parallel play**: Toddlers playing alongside but not interactively with peers. A normal developmental stage (Parten, 1932), not social failure.
-- **Scaffolded play**: Play in which a more competent partner (older child or adult) provides just enough support for the less competent player to succeed, then withdraws that support as competence grows.
 - **Flow state**: Csikszentmihalyi's concept — deep absorption in an optimally challenging activity. Children in free play enter flow states frequently. This state is intrinsically rewarding and builds sustained attention.
-- **Play frame**: The shared understanding between play partners that "this is play, not real." The play frame allows rehearsal of dangerous behaviors (fighting, fleeing) without actual consequences. A broken play frame — where one participant shifts to genuine aggression — requires immediate adult attention.
-- **Self-handicapping**: Stronger or older play partners voluntarily reduce their advantage to keep play balanced. A 10-year-old wrestling a 6-year-old uses less force. This is a sophisticated social skill developed through mixed-age play and a marker of social maturity.
+- **Free play**: Self-directed, voluntary activity chosen and controlled by the child. The defining feature is that the child can quit at any time. Structured by the child's own interests, not adult agendas.
 - **Locomotor play**: Play involving movement for its own sake — running, jumping, spinning, swinging. Develops the vestibular system, proprioception, and cardiovascular fitness. Often the first form of play to emerge and the last to disappear.
+- **Loose parts**: Materials with no fixed use — sticks, stones, water, sand, fabric. Simon Nicholson (1971) proposed that environments rich in loose parts generate the most creative and sustained play.
 - **Object play**: Manipulating objects to discover their properties — building, breaking, combining, throwing. Develops fine motor skills and spatial reasoning. The foundation of all tool use and construction competence.
-- **Pretend/symbolic play**: Using objects or actions to represent something else (stick as sword, mud as food). Requires and develops theory of mind, language, and abstract thinking. Uniquely human among primates and a reliable marker of cognitive development.
+- **Parallel play**: Toddlers playing alongside but not interactively with peers. A normal developmental stage (Parten, 1932), not social failure.
 - **Play deprivation**: Insufficient access to free play during development. Associated with impaired prefrontal cortex function, increased anxiety, reduced creativity, and poor stress adaptation (Brown 2009). A community-level risk that must be actively prevented.
+- **Play frame**: The shared understanding between play partners that "this is play, not real." The play frame allows rehearsal of dangerous behaviors (fighting, fleeing) without actual consequences. A broken play frame — where one participant shifts to genuine aggression — requires immediate adult attention.
+- **Pretend/symbolic play**: Using objects or actions to represent something else (stick as sword, mud as food). Requires and develops theory of mind, language, and abstract thinking. Uniquely human among primates and a reliable marker of cognitive development.
+- **Risky play**: Play involving uncertainty and the possibility of physical injury — climbing heights, high speed, rough-housing, getting lost, using tools. Sandseter (2011) identified six categories. Suppressing risky play produces anxious, risk-averse children.
+- **Rough-and-tumble play (R&T)**: Physical play involving wrestling, chasing, and play-fighting. Distinguished from actual aggression by reciprocity (roles reverse), positive affect (laughter), and self-handicapping (stronger participants restrain themselves). Develops prefrontal cortex function.
+- **Scaffolded play**: Play in which a more competent partner (older child or adult) provides just enough support for the less competent player to succeed, then withdraws that support as competence grows.
+- **Self-handicapping**: Stronger or older play partners voluntarily reduce their advantage to keep play balanced. A 10-year-old wrestling a 6-year-old uses less force. This is a sophisticated social skill developed through mixed-age play and a marker of social maturity.
 
 ---
 

@@ -276,20 +276,20 @@ The inter-sleep waking period during winter segmented sleep (1-2 hours between f
 
 ## Vocabulary of the Foundation
 
-- **Circadian rhythm**: Any biological process that oscillates with an approximately 24-hour period, entrained to the light-dark cycle.
-- **Suprachiasmatic nucleus (SCN)**: The bilateral hypothalamic structure (~20,000 neurons) that serves as the master circadian pacemaker in mammals.
-- **Melanopsin**: The photopigment in intrinsically photosensitive retinal ganglion cells (ipRGCs), maximally sensitive to 480 nm (blue) light, responsible for non-image-forming light detection and circadian entrainment.
-- **Melatonin**: The pineal hormone synthesized from serotonin in darkness, signaling nighttime to the body and facilitating sleep onset.
-- **Serotonin**: A monoamine neurotransmitter and precursor to melatonin; regulates mood, appetite, and social behavior. Synthesized from tryptophan under bright light conditions.
-- **Cortisol**: The primary glucocorticoid hormone of the adrenal cortex; follows a diurnal rhythm with a morning peak (CAR) that promotes alertness and metabolic mobilization.
-- **Growth hormone (GH)**: Anterior pituitary hormone secreted primarily during slow-wave sleep; drives tissue repair, muscle synthesis, and immune cell production.
-- **Glymphatic system**: The brain's waste-clearance system, operating primarily during slow-wave sleep via CSF convection through expanded interstitial space.
-- **Slow-wave sleep (N3)**: The deepest sleep stage, characterized by delta-frequency EEG activity; critical for physical recovery, GH secretion, and glymphatic clearance.
-- **REM sleep**: The sleep stage characterized by rapid eye movements, muscle atonia, and vivid dreaming; critical for emotional processing and procedural memory consolidation.
-- **Zeitgeber**: (German: "time-giver") Any external cue that entrains the circadian clock. The light-dark cycle is the dominant zeitgeber in humans.
-- **Dim Light Melatonin Onset (DLMO)**: The time at which melatonin concentration begins to rise under dim light conditions; the most reliable physiological marker of circadian phase.
 - **Centered Null**: The state of emotional and physiological equilibrium maintained when circadian rhythms are properly synchronized --- the baseline from which effective action proceeds.
 - **Chronotype**: An individual's genetically influenced preference for earlier ("lark") or later ("owl") sleep-wake timing. In a settlement, chronotype diversity is an asset: early chronotypes handle dawn duties, late chronotypes handle evening watch.
+- **Circadian rhythm**: Any biological process that oscillates with an approximately 24-hour period, entrained to the light-dark cycle.
+- **Cortisol**: The primary glucocorticoid hormone of the adrenal cortex; follows a diurnal rhythm with a morning peak (CAR) that promotes alertness and metabolic mobilization.
+- **Dim Light Melatonin Onset (DLMO)**: The time at which melatonin concentration begins to rise under dim light conditions; the most reliable physiological marker of circadian phase.
+- **Glymphatic system**: The brain's waste-clearance system, operating primarily during slow-wave sleep via CSF convection through expanded interstitial space.
+- **Growth hormone (GH)**: Anterior pituitary hormone secreted primarily during slow-wave sleep; drives tissue repair, muscle synthesis, and immune cell production.
+- **Melanopsin**: The photopigment in intrinsically photosensitive retinal ganglion cells (ipRGCs), maximally sensitive to 480 nm (blue) light, responsible for non-image-forming light detection and circadian entrainment.
+- **Melatonin**: The pineal hormone synthesized from serotonin in darkness, signaling nighttime to the body and facilitating sleep onset.
+- **REM sleep**: The sleep stage characterized by rapid eye movements, muscle atonia, and vivid dreaming; critical for emotional processing and procedural memory consolidation.
+- **Serotonin**: A monoamine neurotransmitter and precursor to melatonin; regulates mood, appetite, and social behavior. Synthesized from tryptophan under bright light conditions.
+- **Slow-wave sleep (N3)**: The deepest sleep stage, characterized by delta-frequency EEG activity; critical for physical recovery, GH secretion, and glymphatic clearance.
+- **Suprachiasmatic nucleus (SCN)**: The bilateral hypothalamic structure (~20,000 neurons) that serves as the master circadian pacemaker in mammals.
+- **Zeitgeber**: (German: "time-giver") Any external cue that entrains the circadian clock. The light-dark cycle is the dominant zeitgeber in humans.
 
 ---
 

@@ -317,18 +317,18 @@ The watch system should not be activated at full capacity on day one. A phased d
 
 ## Vocabulary of the Foundation
 
-* **Nightwatch:** the organized system of continuous human observation of the settlement perimeter during hours of darkness, providing the cognitive interpretation layer that passive detection systems cannot supply.
-* **Watch Rotation:** a scheduled system ensuring continuous observation coverage without individual exhaustion, designed so that every able-bodied adult shares the burden equitably.
-* **Vigilance Decrement:** the measurable decline in detection performance that occurs during sustained, monotonous observation tasks; the primary physiological constraint on watch shift length.
-* **Circadian Nadir:** the period of lowest physiological alertness in the 24-hour cycle, typically 02:00-04:00, when cortisol levels are at their trough and the risk of watcher failure is highest.
-* **Paired Watching:** the practice of stationing two watchers at every post, providing complementary visual coverage, mutual accountability against sleep, and a safety backup.
-* **Watch Post:** a fixed, elevated observation position providing sightlines over one or more approach vectors, equipped for sustained occupation during a watch shift.
-* **Alert Escalation Ladder:** a graded series of pre-agreed signals with defined community responses, calibrated to prevent both under-reaction (ignoring a real threat) and over-reaction (mobilizing for a deer).
 * **Acoustic Baseline:** the normal soundscape of the environment at a given time and season; deviations from this baseline are the primary detection mechanism during darkness.
+* **Alert Escalation Ladder:** a graded series of pre-agreed signals with defined community responses, calibrated to prevent both under-reaction (ignoring a real threat) and over-reaction (mobilizing for a deer).
+* **Circadian Nadir:** the period of lowest physiological alertness in the 24-hour cycle, typically 02:00-04:00, when cortisol levels are at their trough and the risk of watcher failure is highest.
 * **Face-to-Face Handoff:** the protocol requiring physical co-presence of outgoing and incoming watchers during shift change, ensuring the post is never empty and situational awareness is verbally transferred.
-* **Sound-check:** the horn blast and acknowledgment exchange at each shift change, confirming that acoustic communication between the watch post and settlement center is functional.
+* **Nightwatch:** the organized system of continuous human observation of the settlement perimeter during hours of darkness, providing the cognitive interpretation layer that passive detection systems cannot supply.
 * **Overwatch:** a secondary observation position that provides coverage of the primary watch post itself, used during elevated threat conditions when the watch post might be targeted.
+* **Paired Watching:** the practice of stationing two watchers at every post, providing complementary visual coverage, mutual accountability against sleep, and a safety backup.
 * **Roving Patrol:** a mobile watch element that moves along a defined route between fixed watch posts, providing coverage of medium-threat approaches that do not warrant a dedicated static post.
+* **Sound-check:** the horn blast and acknowledgment exchange at each shift change, confirming that acoustic communication between the watch post and settlement center is functional.
+* **Vigilance Decrement:** the measurable decline in detection performance that occurs during sustained, monotonous observation tasks; the primary physiological constraint on watch shift length.
+* **Watch Post:** a fixed, elevated observation position providing sightlines over one or more approach vectors, equipped for sustained occupation during a watch shift.
+* **Watch Rotation:** a scheduled system ensuring continuous observation coverage without individual exhaustion, designed so that every able-bodied adult shares the burden equitably.
 
 ---
 

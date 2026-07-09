@@ -315,20 +315,20 @@ The hay box is a zero-fuel cooking method that extends the output of a rocket st
 
 ## Vocabulary of the Foundation
 
-- **Thermal mass:** A material that absorbs, stores, and slowly releases heat energy. Dense cob, stone, and firebrick are effective thermal mass materials.
-- **Insulation:** A material that resists heat transfer, slowing the movement of thermal energy. Straw-clay, wood ash, pumice, and air gaps are effective insulation materials.
-- **Convection:** Heat transfer by the movement of heated fluids (gases or liquids).
-- **Radiation:** Heat transfer by infrared electromagnetic waves emitted from hot surfaces.
-- **Conduction:** Heat transfer through direct physical contact between materials.
-- **Specific heat capacity:** The energy (in joules) required to raise the temperature of 1 kg of a material by 1 degree C.
-- **Secondary combustion:** The ignition and burning of volatile gases released during pyrolysis, occurring at temperatures above 540 degrees C in an insulated environment. Responsible for the near-zero smoke output of a functioning rocket stove.
 - **Cob:** A building material made from clay, sand, straw, and water. Dense cob (high sand content) serves as thermal mass; straw-clay (high straw content) serves as insulation.
-- **Rocket stove:** A fuel-efficient biomass cooking device using an insulated J-tube geometry to achieve secondary combustion and directed convective heat transfer.
-- **J-tube:** The characteristic shape of a rocket stove combustion chamber: a horizontal feed tube joined to a vertical insulated riser, forming a J or L shape.
-- **Riser:** The vertical insulated chimney of a rocket stove in which secondary combustion occurs and convective draft is generated.
-- **Retained heat:** The principle of storing thermal energy in a mass (oven walls, hay box insulation) and using it for cooking after the heat source has been removed.
+- **Conduction:** Heat transfer through direct physical contact between materials.
+- **Convection:** Heat transfer by the movement of heated fluids (gases or liquids).
 - **Hay box:** An insulated container used to continue cooking food by retained heat after it has been brought to a boil, requiring zero additional fuel.
+- **Insulation:** A material that resists heat transfer, slowing the movement of thermal energy. Straw-clay, wood ash, pumice, and air gaps are effective insulation materials.
+- **J-tube:** The characteristic shape of a rocket stove combustion chamber: a horizontal feed tube joined to a vertical insulated riser, forming a J or L shape.
+- **Radiation:** Heat transfer by infrared electromagnetic waves emitted from hot surfaces.
+- **Retained heat:** The principle of storing thermal energy in a mass (oven walls, hay box insulation) and using it for cooking after the heat source has been removed.
+- **Riser:** The vertical insulated chimney of a rocket stove in which secondary combustion occurs and convective draft is generated.
+- **Rocket stove:** A fuel-efficient biomass cooking device using an insulated J-tube geometry to achieve secondary combustion and directed convective heat transfer.
+- **Secondary combustion:** The ignition and burning of volatile gases released during pyrolysis, occurring at temperatures above 540 degrees C in an insulated environment. Responsible for the near-zero smoke output of a functioning rocket stove.
+- **Specific heat capacity:** The energy (in joules) required to raise the temperature of 1 kg of a material by 1 degree C.
 - **Thermal efficiency:** The ratio of useful heat energy absorbed by the food to the total chemical energy contained in the fuel consumed.
+- **Thermal mass:** A material that absorbs, stores, and slowly releases heat energy. Dense cob, stone, and firebrick are effective thermal mass materials.
 
 ---
 

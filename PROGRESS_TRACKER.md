@@ -32,7 +32,12 @@
 - [I] `10_Maritime_and_Riverine_Sovereignty/02_Non_Motorized_Coastal_Piloting.md`
 - [I] `10_Maritime_and_Riverine_Sovereignty/03_Riverine_Logic.md`
 - [I] `10_Maritime_and_Riverine_Sovereignty/04_Salt_Spray_Management.md`
-- [I] `10_Transport_Technology_Lifecycle.md`
+- [I] `11_Transport_Technology_Lifecycle.md`
+- [I] `12_Journey_Scenarios_and_Contingencies/01_Rationale_and_Importance.md`
+- [I] `12_Journey_Scenarios_and_Contingencies/02_Party_Composition_Playbooks.md`
+- [I] `12_Journey_Scenarios_and_Contingencies/03_Field_Repair_and_Material_Tiers.md`
+- [I] `12_Journey_Scenarios_and_Contingencies/04_Low_Profile_Travel_and_Encounter_Protocols.md`
+- [I] `12_Journey_Scenarios_and_Contingencies/05_Arrival_Protocol_First_72_Hours.md`
 
 ### 02 The Site
 - [I] `01_Rationale_and_Importance.md`
@@ -122,6 +127,7 @@
 - [I] `03_Restorative_Architecture.md`
 - [I] `04_Conflict_Resolution.md`
 - [I] `05_Mental_Illness_and_Compassionate_Care.md`
+- [I] `06_Raja_Yoga_The_Inner_Laboratory.md`
 
 ### 08a Group Dynamics
 - [I] `01_Rationale_and_Importance.md`
@@ -290,3 +296,48 @@
 | P2-39 | 2026-06-12 | 14.01–14.03, 14a.01–14a.05, 14b.01–14b.04 | **BEGIN + COMPLETE OUTCOME 6 (all 12 modules) via multi-agent workflow: illustrate → adversarial verify/fix (24 agents). 2 fabrications caught & fixed by the verify stage.** 14 Cultural Technology — Rationale (5: Maslow civilizational-needs pyramid, leisure-threshold survival-labour chart, three-pillars ritual/play/art, annual solar-year calendar wheel, cultural-space settlement plan), Cultural Tech & Rituals (5: entrainment cascade, van Gennep 3-phase rite, Wheel of the Year 8 stations, weekly hearth-ritual Gantt, rite-of-passage timeline), Architecture of Play (5: Caillois 4-category matrix will↔surrender, 5-principle load-bearing stack, play-space top-down plan, Festival of Fools inversion arc, seasonal play calendar). 14a Inter-Settlement Diplomacy — Rationale (5: 50/500 Ne rule, tit-for-tat 4 properties, 5 historical confederations, Sahlins reciprocity spectrum, 5-stage diplomatic progression), First Contact (5: 5-principle stack, gift-bundle 4 signals, transiting-vs-settling decision logic, Rule of Three, neutral-zone layout, 4-week timeline), Trade Agreements (5: Sahlins 3 reciprocity modes, 20-unit running-balance ladder, distance→tradeable goods, graduated conflict response, waystation network, 3-month timeline), Mutual Defense Pacts (5: stag-hunt payoff matrix, Dunbar alliance-scaling ladder, graduated response, 3-scenario response matrix, signal relay chain, 3-settlement topology, 6-month timeline), Genetic Diversity Exchange (5: 50/500 two thresholds, inbreeding-coefficient F ladder, seed quarantine flow, livestock breeding pipeline, GDI threshold matrix, 3-settlement network). 14b Knowledge Exchange — Rationale (4: oral decay ~10%/gen curve, 5-principle exchange stack, 3-channel heliograph→courier→scholar cascade, annual exchange calendar), Traveling Scholar (5: triple-redundant transmission, network maturation, scholar-corps 5 criteria, credential stack beyond Dunbar, 7-step arrival protocol), Standardized Documentation (5: adoption arc, 6-element document header, standard section sequence, body-referenced length ladder, 4-stage production workflow), Innovation Attribution & Commons (5: 5 charter principles, 7-field attribution record, 4-stage dispute resolution, charter→honor-roll timeline, decade trajectory). **OUTCOME 6 COMPLETE — 12/12 at [I]. ALL 126 MODULES AT [I]. PHASE 2 COMPLETE.** |
 | P2-40 | 2026-06-12 | 01.10, 05.09, 06.06 | **ORPHAN COMPLETION: 3 untracked modules found on disk (never enhanced, old format, missing standard sections, broken Module-11/12 cross-refs, corrupted 扫扫扫 trailing glyphs) brought to full standard via workflow: full Phase-1 theory restructure + Phase-2 illustrations → adversarial verify (6 agents). Verify caught 1 fabricated citation + 1 internal inconsistency.** Transport Technology Lifecycle (01_The_Journey/10; 218→~4305 words: conformed to 7 standard sections, fixed broken Module 11/12 refs → repointed to Livestock & Mechanical Animals, 5 diagrams incl. degradation timeline/decision matrix/fire-making ladder; internal bow-drill timing inconsistency 30-90s vs 30-60s reconciled), Spectral Management & Circadian Health (05_Health/09; 62→~3849 words: full theory build-out — ipRGC/melanopsin, glymphatic wash, blue/red spectrum, light anchoring; 4 diagrams; **fabricated 'Wilson & Schmidt' sleep citation caught & corrected to real Yetish et al. 2015, wrong society 'Toba'→'Tsimane'**; corruption stripped), Regenerative Grazing & Silvopasture Math (06_Ecological/06; 73→~3745 words: AU/AUM carrying-capacity math, 8-paddock 30-day rotation, silvopasture E-W wide-row geometry, Savory 1983; 5 diagrams; corruption stripped). All cross-refs validated globally. **TRUE TOTAL: 129/129 topic modules at [I].** |
 | QA-1 | 2026-06-12 | Outcomes 1–5 (all 114 illustrated modules) | **DIAGRAM FACT-CHECK SWEEP: adversarial grounding audit of every ASCII diagram in Outcomes 1–5 — modules whose illustrations were added in earlier single-pass sessions WITHOUT independent verification.** One agent per module cross-checked every number/name/distance/threshold in each diagram against that module's own prose; fixed grounded defects conservatively in place (passing modules left byte-identical). Ran across several workflow attempts (the wide 114-agent run was throttled/stalled by rate limits; recovered via resume + smaller batches + a final max-concurrency batch of 44). RESULT: **84 of 114 modules had ≥1 grounding defect fixed** (~200 surgical line-changes total; 0 fence-imbalanced; 0 rogue edits). Final 44-module batch documented 18 defects across 14 modules in detail. Defect types: fabricated specifics softened to qualitative where prose gave no value (e.g. '600°C forge'→'forge (hot body)', invented '≥30 m'/'10-20m inside' distances, '10–20 h polishing'/'30–200×' magnifications), diagram↔prose contradictions corrected (settlement plotted at 5 m but labelled above the 8 m 500-yr flood line → moved to 10 m; Recycling-Cliff milestones realigned to the Transition Plan years; mislabelled compost 'seed bio-assay' → prose's steam-test temperature method), internally inconsistent figures re-derived (population pyramid counts rebuilt from their own glyphs to sum to 50), ungrounded named frameworks softened (unsupported 'Bronfenbrenner' system labels → grounded generic terms), and a fabricated '66% continuity / staggered terms' claim removed. HTML regenerated; all links validated. No module STATUS change (all remain [I]); this is a correctness pass over existing illustrations. |
+
+## Glossary Reference
+
+*See [Glossary.md](Glossary.md) for full definitions of:*
+
+*   **Acoustic Sovereignty**
+*   **Allicin**
+*   **Annealing**
+*   **Apprenticeship**
+*   **Attractant Removal**
+*   **Bio-Sand Filtration**
+*   **Biochar**
+*   **Bloomery**
+*   **Buffer Zone**
+*   **Centered Null**
+*   **Climate Envelope**
+*   **Contact Point**
+*   **Crop Raider**
+*   **Defense Charter**
+*   **Domain Separation**
+*   **Entropy**
+*   **Exogamy**
+*   **Famine Clause**
+*   **Fladry**
+*   **Gift Economy Buffer**
+*   **Glymphatic System**
+*   **Habituation**
+*   **Lockdown Sequence**
+*   **Mourning Circle**
+*   **Pathogen**
+*   **Preparation**
+*   **Pyrolysis**
+*   **Recycling Cliff**
+*   **Refugia**
+*   **Review**
+*   **Rites of Passage**
+*   **Safe Core**
+*   **Schmutzdecke**
+*   **Serotonin**
+*   **Silvopasture**
+*   **Terra Preta**
+*   **Thermal Belt**
+*   **Three-Voice Rule**
+*   **Trophic Cascade**
+

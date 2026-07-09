@@ -540,20 +540,20 @@ conflicts that slip through; these practices prevent most conflicts from forming
 
 ## Vocabulary of the Foundation
 
-- **Restorative justice** — a paradigm of justice focused on repairing harm rather than punishing offenders (Zehr, 2002)
-- **Retributive justice** — the conventional paradigm focused on identifying wrongdoers and assigning proportional punishment
-- **Amygdala hijack** — the brain's threat-detection system overriding rational processing before the prefrontal cortex can evaluate the situation (Goleman, 1995)
-- **Cooling-off period** — the mandatory 24-48 hour separation following a conflict trigger, grounded in HPA axis clearance timing
-- **Tripartite Mediation Circle** — the three-facilitator mediation structure that provides neutral, balanced conflict processing
 - **Active Mirroring** — the requirement that each party restate the other's grievance to their satisfaction before responding
+- **Amygdala hijack** — the brain's threat-detection system overriding rational processing before the prefrontal cortex can evaluate the situation (Goleman, 1995)
+- **Apprenticeship Mandate** — the requirement that every critical skill-holder train at least one apprentice to prevent skill monopolies
+- **Cooling-off period** — the mandatory 24-48 hour separation following a conflict trigger, grounded in HPA axis clearance timing
 - **E-Prime enforcement** — the prohibition of "to be" verb forms during mediation, preventing identity-based attacks
 - **Four Horsemen** — Gottman's four communication patterns (criticism, contempt, defensiveness, stonewalling) that predict relationship failure
-- **Tit-for-Tat** — Axelrod's optimal cooperation strategy in iterated interactions: cooperate first, then mirror the other's behavior
-- **Apprenticeship Mandate** — the requirement that every critical skill-holder train at least one apprentice to prevent skill monopolies
-- **Power Audit** — the quarterly community review of skill distribution and apprenticeship progress
 - **Harm identification** — Step 6 of the mediation process, converting amorphous grievance into a concrete, bounded list of specific harms
+- **Power Audit** — the quarterly community review of skill distribution and apprenticeship progress
 - **Repair design** — Step 7 of the mediation process, producing specific, time-bounded, observable, and mutually agreed repair actions
+- **Restorative justice** — a paradigm of justice focused on repairing harm rather than punishing offenders (Zehr, 2002)
+- **Retributive justice** — the conventional paradigm focused on identifying wrongdoers and assigning proportional punishment
 - **Role rotation** — the practice of cycling coordination roles through community members to prevent power accumulation
+- **Tit-for-Tat** — Axelrod's optimal cooperation strategy in iterated interactions: cooperate first, then mirror the other's behavior
+- **Tripartite Mediation Circle** — the three-facilitator mediation structure that provides neutral, balanced conflict processing
 
 ---
 

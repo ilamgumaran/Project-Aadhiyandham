@@ -304,35 +304,21 @@ STRAINER HAZARD — PLAN VIEW (looking down)
 
 ## Vocabulary of the Foundation
 
-**Thalweg** — The line connecting the deepest points of successive cross-sections of a river channel. The thalweg represents the path of maximum velocity and depth. It migrates to the outside of bends and toward the center in straight sections.
-
-**Eddy** — A region of calm or upstream-flowing water on the downstream side of an obstacle (rock, bridge pier, point of land). Eddies form because the obstacle blocks the downstream current, creating a low-pressure zone that draws water back upstream to fill the void.
-
-**Eddy Line** — The sharp, visible boundary between the downstream main current and the upstream eddy current. Eddy lines can be remarkably abrupt — a few centimeters separating water moving in opposite directions. Crossing an eddy line requires speed and angle to prevent the differential current from capsizing the vessel.
-
-**Ferry Glide** — A technique for crossing a river laterally without downstream drift. The vessel is angled 30-45 degrees upstream and paddled forward; the current provides the lateral force while forward paddling maintains the angle.
-
-**Hydraulic / Hole** — A recirculating feature formed when water pours over a ledge or drop. The surface water downstream of the drop flows back upstream, creating a closed loop. Small hydraulics are playful; large hydraulics are vessel traps.
-
-**Standing Wave** — A stationary wave formed where fast water meets slower water or a shallow bottom. The wave remains in place while water flows through it continuously. Standing wave trains typically mark the main channel through rapids.
-
-**Strainer** — Any obstacle that allows water to pass through but traps solid objects (vessels, people). Fallen trees, root masses, log jams, and wire fences are all strainers. The deadliest common river hazard.
-
-**Portage** — Carrying the vessel and cargo overland around an unnavigable section of river. From the French "porter" (to carry). Portage routes were critical links in pre-industrial river highway networks.
-
 **Boil** — An upwelling of water from depth, appearing as a circular, mushroom-shaped disturbance on the surface. Boils indicate deep turbulence interacting with bottom features and can destabilize vessels.
-
-**Pillow** — A smooth, convex hump of water forming on the upstream face of a large submerged rock. The water piles up before splitting around the obstacle. Pillows indicate rocks large enough to pin a vessel.
-
 **Broach** — When a vessel turns sideways (beam-on) to the current, usually resulting in the vessel wrapping around a rock or obstacle. One of the most dangerous situations in whitewater navigation.
-
-**Rooster Tail** — A vertical jet of water spraying upward from a rock that is barely submerged in fast current. The rock is too shallow to form a pillow but too deep to be visible. Indicates extreme danger in fast water.
-
-**Point Bar** — The shallow, sediment-deposited area on the inside of a river bend. Formed by helicoidal flow carrying sediment from the outside bank to the inside bank. Point bars are shallow, slow-current areas — good for wading, poor for navigation.
-
 **Cut Bank** — The steep, eroding bank on the outside of a river bend. The thalweg runs along the cut bank, and helicoidal flow actively undercuts the bank from below. Cut banks are unstable and may collapse; the water alongside them is deep, fast, and dangerous.
-
+**Eddy Line** — The sharp, visible boundary between the downstream main current and the upstream eddy current. Eddy lines can be remarkably abrupt — a few centimeters separating water moving in opposite directions. Crossing an eddy line requires speed and angle to prevent the differential current from capsizing the vessel.
+**Eddy** — A region of calm or upstream-flowing water on the downstream side of an obstacle (rock, bridge pier, point of land). Eddies form because the obstacle blocks the downstream current, creating a low-pressure zone that draws water back upstream to fill the void.
+**Ferry Glide** — A technique for crossing a river laterally without downstream drift. The vessel is angled 30-45 degrees upstream and paddled forward; the current provides the lateral force while forward paddling maintains the angle.
 **Helicoidal Flow** — The three-dimensional corkscrew current pattern in river bends. Surface water flows toward the outside bank, dives along the cut bank, flows along the bottom toward the inside bank, and rises. This continuous helical rotation drives erosion on the outside and deposition on the inside of every bend.
+**Hydraulic / Hole** — A recirculating feature formed when water pours over a ledge or drop. The surface water downstream of the drop flows back upstream, creating a closed loop. Small hydraulics are playful; large hydraulics are vessel traps.
+**Pillow** — A smooth, convex hump of water forming on the upstream face of a large submerged rock. The water piles up before splitting around the obstacle. Pillows indicate rocks large enough to pin a vessel.
+**Point Bar** — The shallow, sediment-deposited area on the inside of a river bend. Formed by helicoidal flow carrying sediment from the outside bank to the inside bank. Point bars are shallow, slow-current areas — good for wading, poor for navigation.
+**Portage** — Carrying the vessel and cargo overland around an unnavigable section of river. From the French "porter" (to carry). Portage routes were critical links in pre-industrial river highway networks.
+**Rooster Tail** — A vertical jet of water spraying upward from a rock that is barely submerged in fast current. The rock is too shallow to form a pillow but too deep to be visible. Indicates extreme danger in fast water.
+**Standing Wave** — A stationary wave formed where fast water meets slower water or a shallow bottom. The wave remains in place while water flows through it continuously. Standing wave trains typically mark the main channel through rapids.
+**Strainer** — Any obstacle that allows water to pass through but traps solid objects (vessels, people). Fallen trees, root masses, log jams, and wire fences are all strainers. The deadliest common river hazard.
+**Thalweg** — The line connecting the deepest points of successive cross-sections of a river channel. The thalweg represents the path of maximum velocity and depth. It migrates to the outside of bends and toward the center in straight sections.
 
 ---
 

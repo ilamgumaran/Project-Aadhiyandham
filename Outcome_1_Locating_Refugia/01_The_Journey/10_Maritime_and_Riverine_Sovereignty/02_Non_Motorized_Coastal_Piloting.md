@@ -328,29 +328,18 @@ When darkness eliminates most visual landmarks, piloting shifts to three methods
 
 ## Vocabulary of the Foundation
 
-- **Transit (Range):** The alignment of two fixed objects as observed from a vessel, defining a line of position. No instruments required. The most accurate position line available to the visual navigator.
-
-- **Cocked Hat:** The small triangle formed by three lines of position that fail to intersect at a single point due to observation error. The navigator's true position is within or very near this triangle. Size indicates fix quality.
-
-- **Vertical Sextant Angle (VSA):** The measured angle between the peak of a landmark of known height and the waterline, used to calculate distance to the landmark via trigonometry.
-
-- **Dead Reckoning (DR):** The estimation of current position by advancing a known previous position using course steered, speed through the water, and elapsed time. Does not account for current unless explicitly corrected.
-
-- **Danger Bearing:** A pre-calculated bearing to a visible landmark that defines the boundary of a hazard zone. If the observed bearing crosses the danger bearing, the vessel has entered unsafe water.
-
-- **Running Fix:** A position fix obtained from two bearings to the same landmark taken at different times, with the first bearing advanced along the course and distance made good between observations.
-
-- **Kamal:** A traditional Arab navigation instrument consisting of a calibrated card on a knotted string, used to measure the altitude of Polaris (or other stars) for latitude determination.
-
-- **Pelorus:** A sighting device consisting of a compass rose and pivoting sight bar, mounted on the vessel's centerline, used to measure relative bearings to landmarks.
-
-- **Lead Line:** A weighted, marked line used for measuring water depth (sounding) and sampling bottom sediment. The oldest navigation instrument still in use.
-
-- **Fathom:** A unit of depth equal to 6 feet (1.83 metres). Originally defined as the span of a man's outstretched arms — the natural unit for hauling line hand-over-hand.
-
-- **Set and Drift:** Set is the direction toward which a current flows. Drift is the speed of the current. Together they define the current vector that must be applied to dead reckoning calculations.
-
 - **Bearing:** The horizontal angle between a reference direction (true north, magnetic north, or the vessel's heading) and the direction to an observed object, measured clockwise from 000 to 360 degrees.
+- **Cocked Hat:** The small triangle formed by three lines of position that fail to intersect at a single point due to observation error. The navigator's true position is within or very near this triangle. Size indicates fix quality.
+- **Danger Bearing:** A pre-calculated bearing to a visible landmark that defines the boundary of a hazard zone. If the observed bearing crosses the danger bearing, the vessel has entered unsafe water.
+- **Dead Reckoning (DR):** The estimation of current position by advancing a known previous position using course steered, speed through the water, and elapsed time. Does not account for current unless explicitly corrected.
+- **Fathom:** A unit of depth equal to 6 feet (1.83 metres). Originally defined as the span of a man's outstretched arms — the natural unit for hauling line hand-over-hand.
+- **Kamal:** A traditional Arab navigation instrument consisting of a calibrated card on a knotted string, used to measure the altitude of Polaris (or other stars) for latitude determination.
+- **Lead Line:** A weighted, marked line used for measuring water depth (sounding) and sampling bottom sediment. The oldest navigation instrument still in use.
+- **Pelorus:** A sighting device consisting of a compass rose and pivoting sight bar, mounted on the vessel's centerline, used to measure relative bearings to landmarks.
+- **Running Fix:** A position fix obtained from two bearings to the same landmark taken at different times, with the first bearing advanced along the course and distance made good between observations.
+- **Set and Drift:** Set is the direction toward which a current flows. Drift is the speed of the current. Together they define the current vector that must be applied to dead reckoning calculations.
+- **Transit (Range):** The alignment of two fixed objects as observed from a vessel, defining a line of position. No instruments required. The most accurate position line available to the visual navigator.
+- **Vertical Sextant Angle (VSA):** The measured angle between the peak of a landmark of known height and the waterline, used to calculate distance to the landmark via trigonometry.
 
 ---
 

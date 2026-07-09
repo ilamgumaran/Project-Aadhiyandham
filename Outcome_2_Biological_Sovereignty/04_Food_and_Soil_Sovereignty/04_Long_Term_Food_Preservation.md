@@ -343,19 +343,19 @@ Salt curing preserves meat by osmotically extracting water and establishing a sa
 
 ## Vocabulary of the Foundation
 
-- **Water activity (aw)** — A measure (0 to 1) of the availability of water in a substance for microbial growth. The master variable of food preservation.
+- **Brine** — A solution of salt dissolved in water, used for wet curing of meat and for fermentation of whole vegetables (e.g., cucumbers).
+- **Climacteric fruit** — Fruits that continue to ripen after harvest and produce significant quantities of ethylene gas during ripening. Includes apples, tomatoes, bananas, pears, and peaches.
+- ***Clostridium botulinum*** — Spore-forming, obligate anaerobic bacterium that produces botulinum toxin, the most acutely lethal toxin known. The primary pathogenic threat in food preservation.
+- **Cold smoking** — Smoke preservation at 15-25 degrees Celsius for 1-5 days. Preserves without cooking. Produces the most durable smoked products.
+- **Ethylene (C2H4)** — A gaseous plant hormone that triggers ripening, senescence, and sprouting. Must be managed in root cellars to prevent cross-contamination between stored crops.
+- **Hot smoking** — Smoke preservation at 55-80 degrees Celsius for 4-12 hours. Simultaneously cooks and preserves.
 - **Lacto-fermentation** — Anaerobic conversion of sugars to lactic acid by *Lactobacillus* bacteria, acidifying food below pH 4.6 and creating a self-preserving environment.
 - ***Lactobacillus*** — Genus of gram-positive, anaerobic bacteria that produce lactic acid as a metabolic byproduct. The biological agent of fermentation-based preservation.
-- ***Clostridium botulinum*** — Spore-forming, obligate anaerobic bacterium that produces botulinum toxin, the most acutely lethal toxin known. The primary pathogenic threat in food preservation.
-- **pH** — The negative logarithm of hydrogen ion concentration. Scale of 0-14 where lower numbers indicate higher acidity. pH 4.6 is the critical safety threshold for food preservation.
-- **Ethylene (C2H4)** — A gaseous plant hormone that triggers ripening, senescence, and sprouting. Must be managed in root cellars to prevent cross-contamination between stored crops.
-- **Pemmican** — A calorie-dense preserved food of Indigenous North American origin, composed of dried meat powder and rendered fat. The most durable and energy-dense preserved food achievable without industrial methods.
-- **Tallow** — Rendered (purified by heating) animal fat, typically from beef or mutton. Used in pemmican production and as a sealant for preserved foods.
-- **Cold smoking** — Smoke preservation at 15-25 degrees Celsius for 1-5 days. Preserves without cooking. Produces the most durable smoked products.
-- **Hot smoking** — Smoke preservation at 55-80 degrees Celsius for 4-12 hours. Simultaneously cooks and preserves.
-- **Brine** — A solution of salt dissolved in water, used for wet curing of meat and for fermentation of whole vegetables (e.g., cucumbers).
 - **Osmosis** — The movement of water across a semipermeable membrane from a region of low solute concentration to high solute concentration. The physical mechanism by which salt and sugar extract water from food and microbial cells.
-- **Climacteric fruit** — Fruits that continue to ripen after harvest and produce significant quantities of ethylene gas during ripening. Includes apples, tomatoes, bananas, pears, and peaches.
+- **Pemmican** — A calorie-dense preserved food of Indigenous North American origin, composed of dried meat powder and rendered fat. The most durable and energy-dense preserved food achievable without industrial methods.
+- **pH** — The negative logarithm of hydrogen ion concentration. Scale of 0-14 where lower numbers indicate higher acidity. pH 4.6 is the critical safety threshold for food preservation.
+- **Tallow** — Rendered (purified by heating) animal fat, typically from beef or mutton. Used in pemmican production and as a sealant for preserved foods.
+- **Water activity (aw)** — A measure (0 to 1) of the availability of water in a substance for microbial growth. The master variable of food preservation.
 
 ---
 

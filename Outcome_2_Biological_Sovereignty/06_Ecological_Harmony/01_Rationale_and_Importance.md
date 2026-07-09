@@ -292,18 +292,18 @@ The practices described in this rationale are implemented through the following 
 
 ## Vocabulary of the Foundation
 
-- **Carrying capacity (K)**: The maximum population an ecosystem can sustain indefinitely through all seasonal and climatic variation.
-- **Trophic cascade**: A chain of ecological effects triggered by changes at one level of the food web that propagate through multiple other levels.
-- **Keystone species**: A species whose ecological influence is disproportionately large relative to its abundance; its removal triggers cascading ecosystem change.
-- **Ecosystem engineer**: An organism that physically modifies its habitat in ways that create or maintain conditions for other species (e.g., beavers building dams, earthworms aerating soil).
-- **Satoyama**: The Japanese landscape management system maintaining a mosaic of rice paddy, coppiced woodland, grassland, and pond habitats around rural villages.
-- **Subak**: The Balinese cooperative water management institution coordinating rice terrace irrigation through a hierarchy of water temples.
 - **Biodiversity**: The variety of species, genetic variation within species, and ecosystem types within a given area; the foundation of ecological resilience.
+- **Carrying capacity (K)**: The maximum population an ecosystem can sustain indefinitely through all seasonal and climatic variation.
+- **Ecosystem engineer**: An organism that physically modifies its habitat in ways that create or maintain conditions for other species (e.g., beavers building dams, earthworms aerating soil).
+- **Indicator species**: Species whose presence, absence, or population trend reliably signals the health or degradation of a specific ecosystem attribute.
+- **Keystone species**: A species whose ecological influence is disproportionately large relative to its abundance; its removal triggers cascading ecosystem change.
 - **Mosaic landscape**: A landscape composed of multiple distinct habitat types in close proximity, maximizing edge effects and niche diversity.
 - **Overshoot**: The condition in which a population exceeds the carrying capacity of its environment, drawing down stored resources and precipitating collapse.
-- **Riparian buffer**: A strip of unmanaged vegetation (typically 30+ meters wide) maintained along waterways to prevent erosion, filter runoff, and provide wildlife habitat.
-- **Indicator species**: Species whose presence, absence, or population trend reliably signals the health or degradation of a specific ecosystem attribute.
 - **Regenerative feedback**: A closed-loop process in which the outputs of human activity become inputs to natural cycles, maintaining or increasing ecosystem productivity over time.
+- **Riparian buffer**: A strip of unmanaged vegetation (typically 30+ meters wide) maintained along waterways to prevent erosion, filter runoff, and provide wildlife habitat.
+- **Satoyama**: The Japanese landscape management system maintaining a mosaic of rice paddy, coppiced woodland, grassland, and pond habitats around rural villages.
+- **Subak**: The Balinese cooperative water management institution coordinating rice terrace irrigation through a hierarchy of water temples.
+- **Trophic cascade**: A chain of ecological effects triggered by changes at one level of the food web that propagate through multiple other levels.
 
 ---
 

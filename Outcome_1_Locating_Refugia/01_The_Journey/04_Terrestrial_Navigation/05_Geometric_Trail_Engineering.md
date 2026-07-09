@@ -217,17 +217,17 @@ FULL BENCH vs PARTIAL BENCH
 
 ## Vocabulary of the Foundation
 
-*   **Bench Cut:** A trail construction technique where the uphill slope is excavated and the material is used to build up the downhill side, creating a level tread across a hillside.
-*   **Outslope:** A slight lateral tilt (2-3%) of the trail surface toward the downhill side, designed to shed water off the trail rather than allowing it to flow along the trail.
-*   **Switchback:** A zigzag trail pattern used to traverse steep terrain while maintaining a manageable grade.
-*   **Half-Rule:** The principle that a trail's grade must not exceed half the grade of the hillside it traverses, to prevent the trail from becoming a water channel.
-*   **Water Bar:** A diagonal barrier (stone or log) across a trail that intercepts downhill water flow and diverts it off the trail surface.
-*   **Rolling Grade Reversal:** A gradual dip and rise in the trail profile that drains water without a physical barrier — more cart-friendly than water bars.
-*   **Military Crest:** The line on a hillside slightly below the actual ridge crest, where a traveler is hidden from observers on the far side while remaining close to the ridge.
-*   **Clinometer:** A simple instrument for measuring slope angle, typically a weighted pointer on a protractor scale.
-*   **Shear Strength:** The resistance of soil to deformation under applied force, determined by soil type, compaction, and moisture content.
 *   **Armoring:** The placement of stone or other hard material on a trail surface at vulnerable points (stream crossings, wet areas) to prevent erosion and maintain traction.
+*   **Bench Cut:** A trail construction technique where the uphill slope is excavated and the material is used to build up the downhill side, creating a level tread across a hillside.
+*   **Clinometer:** A simple instrument for measuring slope angle, typically a weighted pointer on a protractor scale.
 *   **Fall-Line Trail:** A trail that runs directly up or down a slope rather than across it — the most erosion-prone alignment possible.
+*   **Half-Rule:** The principle that a trail's grade must not exceed half the grade of the hillside it traverses, to prevent the trail from becoming a water channel.
+*   **Military Crest:** The line on a hillside slightly below the actual ridge crest, where a traveler is hidden from observers on the far side while remaining close to the ridge.
+*   **Outslope:** A slight lateral tilt (2-3%) of the trail surface toward the downhill side, designed to shed water off the trail rather than allowing it to flow along the trail.
+*   **Rolling Grade Reversal:** A gradual dip and rise in the trail profile that drains water without a physical barrier — more cart-friendly than water bars.
+*   **Shear Strength:** The resistance of soil to deformation under applied force, determined by soil type, compaction, and moisture content.
+*   **Switchback:** A zigzag trail pattern used to traverse steep terrain while maintaining a manageable grade.
+*   **Water Bar:** A diagonal barrier (stone or log) across a trail that intercepts downhill water flow and diverts it off the trail surface.
 
 ---
 

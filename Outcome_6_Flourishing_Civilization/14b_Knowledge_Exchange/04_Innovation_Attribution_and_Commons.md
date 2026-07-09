@@ -440,21 +440,21 @@ constraint on innovation but an accelerant.
 
 ## Vocabulary of the Foundation
 
-- **Knowledge Commons** — the shared pool of innovations, techniques, and discoveries freely available to all network settlements, analogous to a common pasture or shared water source but for information.
-- **Attribution Record** — a standardized block of metadata attached to every innovation, permanently recording who created it, where, and when.
-- **Enclosure** — the act of taking knowledge that was freely available and restricting access to it, demanding payment, secrecy, or exclusive rights; named by analogy to the historical enclosure of common lands in England.
-- **Derivation Chain** — the linked sequence of attribution records showing how an innovation evolved through successive modifications by different settlements, analogous to a citation chain in academic literature.
-- **Verification Status** — a marker indicating whether an innovation has been independently tested and confirmed by a settlement other than the originator, with three levels: reported, verified, or disputed.
-- **Honor Roll** — the formal public recognition of top contributors to the commons at inter-settlement meetings, serving as the primary social incentive for knowledge sharing.
-- **Commons Steward** — the individual at each settlement responsible for maintaining the attribution ledger, advocating for commons principles, and representing the settlement on commons matters.
-- **Reputation Ledger** — the tally of contributions and receipts maintained for each network member, making imbalances between sharing and receiving visible to the community.
-- **Naming Convention** — the practice of attaching an originator's name to major innovations, ensuring attribution becomes self-perpetuating through everyday speech.
-- **Anti-Hoarding Norm** — the social expectation, encoded in the charter, that withholding critical knowledge during another settlement's crisis will be publicly discussed.
-- **Emergency Sharing Obligation** — the charter provision requiring immediate dispatch of relevant knowledge during declared emergencies, overriding normal scheduling.
-- **Non-Enclosure Principle** — the prohibition against claiming exclusive ownership of commons knowledge or demanding payment for its use.
-- **Reciprocity Expectation** — the social norm that settlements should contribute to the commons proportionally, enforced through visibility rather than punishment.
 - **Anti-Commons** — the condition described by Heller (1998) in which too many exclusion rights prevent a resource from being used effectively; the Knowledge Commons is designed to prevent this outcome.
+- **Anti-Hoarding Norm** — the social expectation, encoded in the charter, that withholding critical knowledge during another settlement's crisis will be publicly discussed.
+- **Attribution Record** — a standardized block of metadata attached to every innovation, permanently recording who created it, where, and when.
+- **Commons Steward** — the individual at each settlement responsible for maintaining the attribution ledger, advocating for commons principles, and representing the settlement on commons matters.
+- **Derivation Chain** — the linked sequence of attribution records showing how an innovation evolved through successive modifications by different settlements, analogous to a citation chain in academic literature.
+- **Emergency Sharing Obligation** — the charter provision requiring immediate dispatch of relevant knowledge during declared emergencies, overriding normal scheduling.
+- **Enclosure** — the act of taking knowledge that was freely available and restricting access to it, demanding payment, secrecy, or exclusive rights; named by analogy to the historical enclosure of common lands in England.
+- **Honor Roll** — the formal public recognition of top contributors to the commons at inter-settlement meetings, serving as the primary social incentive for knowledge sharing.
+- **Knowledge Commons** — the shared pool of innovations, techniques, and discoveries freely available to all network settlements, analogous to a common pasture or shared water source but for information.
+- **Naming Convention** — the practice of attaching an originator's name to major innovations, ensuring attribution becomes self-perpetuating through everyday speech.
+- **Non-Enclosure Principle** — the prohibition against claiming exclusive ownership of commons knowledge or demanding payment for its use.
 - **Parallel Development** — the recognized phenomenon in which multiple communities independently arrive at similar solutions, acknowledged in dispute resolution as a legitimate and common occurrence.
+- **Reciprocity Expectation** — the social norm that settlements should contribute to the commons proportionally, enforced through visibility rather than punishment.
+- **Reputation Ledger** — the tally of contributions and receipts maintained for each network member, making imbalances between sharing and receiving visible to the community.
+- **Verification Status** — a marker indicating whether an innovation has been independently tested and confirmed by a settlement other than the originator, with three levels: reported, verified, or disputed.
 
 ## Cross-References
 

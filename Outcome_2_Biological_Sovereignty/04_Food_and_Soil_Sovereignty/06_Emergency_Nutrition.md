@@ -322,17 +322,17 @@ The most common and most preventable failure: the group eats freely from stored 
 
 - **Caloric Bridge**: The strategy of combining foraging, trapping, fishing, fast-crop planting, and ration management to feed a settlement during the gap between arrival and first agricultural harvest.
 - **Caloric Density**: The number of calories per unit weight of a food source, measured in kcal/kg. Fat (9 kcal/g) has the highest caloric density of any macronutrient.
-- **Macronutrient**: One of the three primary nutritional categories required in large quantities: carbohydrates, protein, and fat.
-- **Scurvy**: Vitamin C deficiency disease, historically the most common and most dangerous nutritional deficiency in survival scenarios. Preventable with daily fresh plant material.
-- **Tannin**: Bitter, astringent polyphenolic compounds found in acorns, unripe fruit, and tree bark. Must be removed by leaching before consumption.
-- **Leaching**: The process of dissolving and removing water-soluble compounds (especially tannins) from food by soaking in running or repeatedly changed water.
-- **Weir**: A V-shaped barrier built across a waterway to funnel fish into a trap. A passive, continuous fishing system.
-- **Snare**: A loop trap set on a game trail to catch small animals by the neck or body. A passive trapping system.
-- **Foraging**: The gathering of wild plant and animal foods from the natural environment.
-- **Universal Edibility Test**: A structured 7-step protocol (US Army FM 21-76) for cautiously testing unknown plants for toxicity. A last-resort procedure requiring 24+ hours per plant part.
 - **Cambium**: The thin layer of living tissue between the outer bark and the wood of a tree. Edible in many species (pine, birch, elm) when scraped and cooked.
-- **Pemmican**: A calorie-dense survival food made from powdered dried meat mixed with rendered animal fat, approximately 5,000-6,000 kcal/kg.
+- **Foraging**: The gathering of wild plant and animal foods from the natural environment.
 - **Ketosis**: A metabolic state in which the body burns fat for energy instead of carbohydrates. Occurs during carbohydrate deprivation and is survivable but reduces physical performance.
+- **Leaching**: The process of dissolving and removing water-soluble compounds (especially tannins) from food by soaking in running or repeatedly changed water.
+- **Macronutrient**: One of the three primary nutritional categories required in large quantities: carbohydrates, protein, and fat.
+- **Pemmican**: A calorie-dense survival food made from powdered dried meat mixed with rendered animal fat, approximately 5,000-6,000 kcal/kg.
+- **Scurvy**: Vitamin C deficiency disease, historically the most common and most dangerous nutritional deficiency in survival scenarios. Preventable with daily fresh plant material.
+- **Snare**: A loop trap set on a game trail to catch small animals by the neck or body. A passive trapping system.
+- **Tannin**: Bitter, astringent polyphenolic compounds found in acorns, unripe fruit, and tree bark. Must be removed by leaching before consumption.
+- **Universal Edibility Test**: A structured 7-step protocol (US Army FM 21-76) for cautiously testing unknown plants for toxicity. A last-resort procedure requiring 24+ hours per plant part.
+- **Weir**: A V-shaped barrier built across a waterway to funnel fish into a trap. A passive, continuous fishing system.
 
 ---
 

@@ -161,18 +161,18 @@ Before departure, every group member capable of walking independently should com
 
 ## Vocabulary of the Foundation
 
-*   **Bearing:** The clockwise angle (0-360 degrees) from North to a target direction. A bearing of 090 is due East; 270 is due West.
-*   **Magnetic Declination:** The angle between True North (the geographic North Pole) and Magnetic North (where the compass needle points). Varies by location and changes slowly over time.
-*   **True North:** The direction toward the geographic North Pole — the axis around which the Earth rotates.
-*   **Grid North:** The direction of the vertical grid lines on a map. Usually within 1-2 degrees of True North.
-*   **Resection:** Determining your position by taking bearings to two or more known landmarks and plotting the back-bearings on a map.
-*   **Dead Reckoning:** Estimating current position from a known starting point using bearing and distance traveled. Accuracy degrades over distance.
 *   **Aiming Off:** Deliberately navigating slightly to one side of a target (e.g., a bridge on a river) so that upon reaching the linear feature, you know which direction to turn. A technique to avoid the uncertainty of "did I overshoot left or right?"
-*   **Handrail:** A long linear terrain feature (river, ridge, road, power line) that you follow to maintain direction without constant compass reference.
-*   **Catching Feature:** A large, unmissable terrain feature (cliff, lake, major road) that tells you you've gone too far. Identified before the march begins as a safety stop.
 *   **Baseplate Compass:** A compass mounted on a transparent rectangular plate, with a rotating bezel and direction-of-travel arrow, designed to be used directly on a map.
+*   **Bearing:** The clockwise angle (0-360 degrees) from North to a target direction. A bearing of 090 is due East; 270 is due West.
 *   **Bezel:** The rotating graduated ring on a compass, marked 0-360 degrees.
+*   **Catching Feature:** A large, unmissable terrain feature (cliff, lake, major road) that tells you you've gone too far. Identified before the march begins as a safety stop.
+*   **Dead Reckoning:** Estimating current position from a known starting point using bearing and distance traveled. Accuracy degrades over distance.
+*   **Grid North:** The direction of the vertical grid lines on a map. Usually within 1-2 degrees of True North.
+*   **Handrail:** A long linear terrain feature (river, ridge, road, power line) that you follow to maintain direction without constant compass reference.
+*   **Magnetic Declination:** The angle between True North (the geographic North Pole) and Magnetic North (where the compass needle points). Varies by location and changes slowly over time.
 *   **Orienting Arrow:** The fixed arrow or lines inside the compass bezel that are aligned with the map's north-south grid lines during course setting.
+*   **Resection:** Determining your position by taking bearings to two or more known landmarks and plotting the back-bearings on a map.
+*   **True North:** The direction toward the geographic North Pole — the axis around which the Earth rotates.
 
 ---
 

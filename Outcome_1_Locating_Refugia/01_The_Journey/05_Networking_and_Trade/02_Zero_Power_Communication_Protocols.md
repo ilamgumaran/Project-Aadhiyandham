@@ -213,16 +213,16 @@ For sensitive written messages carried by couriers:
 
 ## Vocabulary of the Foundation
 
+*   **E-Prime:** A subset of English that eliminates all forms of the verb "to be," promoting precise observational language over absolute statements.
 *   **Heliograph:** A device that uses a mirror to reflect sunlight in controlled flashes for long-distance visual communication. Range: 50-80+ km.
-*   **Semaphore:** A visual signaling system using flags, mechanical arms, or body positions to encode messages. Range: 1-15 km (with telescope).
 *   **Line-of-Sight (LoS):** An unobstructed straight line between two points, required for all optical signaling methods.
+*   **Morse Code:** A character-encoding scheme using short (dit) and long (dah) signals. The international standard for telegraph communication.
 *   **One-Time Pad (OTP):** A cryptographic system using a random key that is used exactly once. Mathematically proven unbreakable when properly implemented.
+*   **Relay Chain:** A series of intermediate signal stations that pass messages from one to the next, extending communication range beyond single-link limits.
+*   **Semaphore:** A visual signaling system using flags, mechanical arms, or body positions to encode messages. Range: 1-15 km (with telescope).
+*   **Signal Schedule:** A pre-agreed timetable specifying when communication attempts will be made, synchronizing sender and receiver without real-time coordination.
 *   **Split-Token:** A physical authentication method where a unique object is broken in half, with each half held by a different party. Matching halves prove identity.
 *   **Sun Dog:** The bright reflected spot of sunlight from a heliograph mirror, used for aiming the beam at the receiving station.
-*   **Morse Code:** A character-encoding scheme using short (dit) and long (dah) signals. The international standard for telegraph communication.
-*   **E-Prime:** A subset of English that eliminates all forms of the verb "to be," promoting precise observational language over absolute statements.
-*   **Signal Schedule:** A pre-agreed timetable specifying when communication attempts will be made, synchronizing sender and receiver without real-time coordination.
-*   **Relay Chain:** A series of intermediate signal stations that pass messages from one to the next, extending communication range beyond single-link limits.
 
 ---
 

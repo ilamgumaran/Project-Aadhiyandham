@@ -349,35 +349,21 @@ Communities under survival pressure may discourage mourning as unproductive, pro
 
 ## Vocabulary of the Foundation
 
-- **Solstice** -- Either of the two days per year when the sun reaches its most northerly or southerly point on the horizon, producing the longest and shortest days.
-
-- **Equinox** -- Either of the two days per year when the sun rises due east and sets due west, producing approximately equal periods of daylight and darkness.
-
-- **Analemma** -- The figure-eight pattern traced by the sun's position at the same time each day over a full year, resulting from axial tilt and orbital eccentricity.
-
-- **Henge** -- A physical structure of standing stones or posts aligned with celestial events, serving as a permanent solar observatory and ceremonial anchor.
-
-- **Rite of Passage** -- A structured transition ritual moving an individual from one social role to another, characterized by separation, liminality, and incorporation.
-
-- **Liminality** -- The ambiguous, threshold state between social roles during a rite of passage, in which normal rules are suspended and transformation occurs.
-
-- **Communitas** -- The intense, egalitarian fellowship experienced by individuals sharing a liminal experience, transcending normal social hierarchy.
-
-- **Entrainment** -- The synchronization of physiological rhythms (heartbeat, breathing, movement) among individuals engaged in shared rhythmic activity.
-
-- **Hearth Ritual** -- The weekly communal fire gathering dedicated to storytelling, music, and oral transmission of shared knowledge and history.
-
 - **Acoustic Sovereignty** -- The practice of active community music production using locally built instruments and collective voice, as opposed to passive consumption of recorded sound.
-
-- **Solar Horizon** -- The arc along the eastern horizon traced by the sunrise point over a full year, used as the basis for calendar construction.
-
-- **Cross-Quarter Day** -- The four days falling approximately midway between solstices and equinoxes, providing additional structure to the annual calendar.
-
-- **Intercalation** -- The periodic insertion of extra days or months into a calendar system to correct drift between lunar and solar cycles.
-
-- **Oral Tradition** -- The transmission of knowledge, history, and values through spoken narrative rather than written text, maintained through structured repetition and ritual context.
-
+- **Analemma** -- The figure-eight pattern traced by the sun's position at the same time each day over a full year, resulting from axial tilt and orbital eccentricity.
 - **Ceremonial Space** -- A designated physical area within the settlement reserved for rituals, gatherings, and the solar observatory, maintained as common ground.
+- **Communitas** -- The intense, egalitarian fellowship experienced by individuals sharing a liminal experience, transcending normal social hierarchy.
+- **Cross-Quarter Day** -- The four days falling approximately midway between solstices and equinoxes, providing additional structure to the annual calendar.
+- **Entrainment** -- The synchronization of physiological rhythms (heartbeat, breathing, movement) among individuals engaged in shared rhythmic activity.
+- **Equinox** -- Either of the two days per year when the sun rises due east and sets due west, producing approximately equal periods of daylight and darkness.
+- **Hearth Ritual** -- The weekly communal fire gathering dedicated to storytelling, music, and oral transmission of shared knowledge and history.
+- **Henge** -- A physical structure of standing stones or posts aligned with celestial events, serving as a permanent solar observatory and ceremonial anchor.
+- **Intercalation** -- The periodic insertion of extra days or months into a calendar system to correct drift between lunar and solar cycles.
+- **Liminality** -- The ambiguous, threshold state between social roles during a rite of passage, in which normal rules are suspended and transformation occurs.
+- **Oral Tradition** -- The transmission of knowledge, history, and values through spoken narrative rather than written text, maintained through structured repetition and ritual context.
+- **Rite of Passage** -- A structured transition ritual moving an individual from one social role to another, characterized by separation, liminality, and incorporation.
+- **Solar Horizon** -- The arc along the eastern horizon traced by the sunrise point over a full year, used as the basis for calendar construction.
+- **Solstice** -- Either of the two days per year when the sun reaches its most northerly or southerly point on the horizon, producing the longest and shortest days.
 
 ---
 

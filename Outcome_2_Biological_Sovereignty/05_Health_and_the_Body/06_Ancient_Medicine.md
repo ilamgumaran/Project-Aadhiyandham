@@ -364,20 +364,20 @@ The Ayurvedic concept of seasonal dietary adaptation (Ritucharya) aligns with th
 
 ## Vocabulary of the Foundation
 
-**Pharmacognosy** --- the branch of pharmacology that studies drugs of natural (primarily plant) origin.
-**Alkaloid** --- a class of nitrogen-containing plant compounds, often pharmacologically potent with narrow therapeutic windows (e.g., berberine, morphine, caffeine).
-**Terpenoid** --- a large class of compounds built from isoprene units; includes volatile essential oils (thymol, menthol, eugenol, camphor).
-**Phenolic** --- a compound containing hydroxyl groups on an aromatic ring; includes salicin, curcumin, tannins, and rosmarinic acid.
-**Glycoside** --- a compound in which a sugar molecule is bound to a pharmacologically active aglycone group (e.g., digoxin, amygdalin).
-**Salicin** --- a phenolic glycoside found in willow bark, metabolized to salicylic acid; the natural precursor of aspirin.
-**Curcumin** --- the primary anti-inflammatory phenolic compound in turmeric; requires piperine for adequate oral bioavailability.
 **Adaptogen** --- a plant compound that modulates the stress response, normalizing physiological function under both hypo- and hyper-stimulation conditions (e.g., tulsi, ashwagandha).
-**Galactagogue** --- a substance that promotes lactation; relevant to postpartum care (e.g., fenugreek, fennel).
-**Immunomodulator** --- a compound that regulates (up or down) immune system activity, as opposed to simple immunostimulation.
-**Expectorant** --- a compound that promotes the clearance of mucus from the respiratory tract, either by increasing mucus hydration or stimulating ciliary action.
-**Tincture** --- an alcohol-based extraction of plant material; produces a concentrated, shelf-stable medicinal preparation.
+**Alkaloid** --- a class of nitrogen-containing plant compounds, often pharmacologically potent with narrow therapeutic windows (e.g., berberine, morphine, caffeine).
 **Autophagy** --- the cellular process of self-digestion and recycling of damaged components, upregulated during fasting and caloric restriction.
+**Curcumin** --- the primary anti-inflammatory phenolic compound in turmeric; requires piperine for adequate oral bioavailability.
+**Expectorant** --- a compound that promotes the clearance of mucus from the respiratory tract, either by increasing mucus hydration or stimulating ciliary action.
+**Galactagogue** --- a substance that promotes lactation; relevant to postpartum care (e.g., fenugreek, fennel).
+**Glycoside** --- a compound in which a sugar molecule is bound to a pharmacologically active aglycone group (e.g., digoxin, amygdalin).
+**Immunomodulator** --- a compound that regulates (up or down) immune system activity, as opposed to simple immunostimulation.
+**Pharmacognosy** --- the branch of pharmacology that studies drugs of natural (primarily plant) origin.
+**Phenolic** --- a compound containing hydroxyl groups on an aromatic ring; includes salicin, curcumin, tannins, and rosmarinic acid.
+**Salicin** --- a phenolic glycoside found in willow bark, metabolized to salicylic acid; the natural precursor of aspirin.
+**Terpenoid** --- a large class of compounds built from isoprene units; includes volatile essential oils (thymol, menthol, eugenol, camphor).
 **Therapeutic window** --- the range of doses between the minimum effective dose and the minimum toxic dose; the safe and effective dosing range for any pharmacological agent.
+**Tincture** --- an alcohol-based extraction of plant material; produces a concentrated, shelf-stable medicinal preparation.
 
 ---
 

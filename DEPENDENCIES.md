@@ -36,6 +36,7 @@ The minimum viable sequence for a newly arrived community:
 | Section | Depends On | Provides To |
 |---|---|---|
 | 01 The Journey | None (entry point) | 02 The Site |
+| 01/12 Journey Scenarios & Contingencies | 01 Journey (transit, packing, family protocols) | 02 The Site (arrival handoff), 07 Passive Defense (interim perimeter), 07a Active Threat (encounter de-escalation) |
 | 02 The Site | 01 The Journey | 03, 04, 07 (site selection informs all construction) |
 | 02/08 Location Recording | 02 The Site (sentinels, terrain) | 01 Journey (route encoding), 14a Diplomacy (inter-settlement sharing) |
 | 02/09 Geological Stability | 02 The Site (topography), 06 Field Mineralogy | 07 Initial Layout (safe building zones), 09 Mechanics (mineral sourcing) |
@@ -62,6 +63,7 @@ The minimum viable sequence for a newly arrived community:
 | Section | Depends On | Provides To |
 |---|---|---|
 | 08 The Mind | 03 Water, 04 Food, 05 Health, 07 Defense (basic needs met) | 10 Society (healthy individuals form healthy governance) |
+| 08/06 Raja Yoga (Inner Laboratory) | 08 The Mind (Centered Null baseline), 11/08 Scientific Method (epistemics) | 14 Cultural Tech (the solitary channel beside ritual/play) |
 | 08a Group Dynamics | 08 The Mind, 10 The Society | Community resilience |
 | 08b Childhood Development | 08 The Mind | 11 The Next Generation (psychological readiness for learning) |
 
@@ -112,3 +114,16 @@ Material synthesis before scavenged resources degrade. Governance formalization.
 
 ### Phase 4: Generational Transfer (Sections 11, 13, 14)
 Education, advanced technologies, cultural identity, inter-settlement networking.
+
+## Glossary Reference
+
+*See [Glossary.md](Glossary.md) for full definitions of:*
+
+*   **Biochar**
+*   **Bloomery**
+*   **Centered Null**
+*   **Pyrolysis**
+*   **Recycling Cliff**
+*   **Refugia**
+*   **Silvopasture**
+

@@ -323,20 +323,20 @@ For communication between allied settlements separated by distances of 10 to 80 
 
 ## Vocabulary of the Foundation
 
-- **Observation post** — a fixed position (elevated or ground-level) from which a sentry conducts visual surveillance of the settlement's perimeter and approaches
-- **Line-of-sight (LoS)** — an unobstructed straight line between the observer and the observed point; the fundamental requirement for visual detection
-- **Visual detection range** — the maximum distance at which a human figure can be detected by a given observer under specific conditions of elevation, optics, lighting, and background contrast
+- **Blind spot** — an area not visible from any observation post due to terrain, vegetation, or structural obstruction
+- **Contact team** — a small group (2-4 adults) designated to meet and assess unidentified visitors at a controlled approach point outside the settlement perimeter
 - **Dark adaptation** — the physiological process by which the retinal rod cells increase sensitivity in low light, requiring 20-30 minutes and destroyed by exposure to bright light
+- **Fire beacon** — a pre-positioned combustible stack at a high point, ignited for emergency signaling visible at 10-30 km
+- **Heliograph** — a method of visual signaling using reflected sunlight from a polished mirror, effective at ranges of 5-50 km in clear conditions
+- **Horn alert** — an acoustic signal produced by a low-frequency horn instrument, used to transmit the settlement alert code over distances of 1-3 km
+- **Line-of-sight (LoS)** — an unobstructed straight line between the observer and the observed point; the fundamental requirement for visual detection
+- **Logbook** — the physical record maintained at the observation post, documenting all observations with time, bearing, description, and conditions
+- **Observation field** — the total area visible from a given observation post, mapped as a sector diagram with blind spots identified
+- **Observation post** — a fixed position (elevated or ground-level) from which a sentry conducts visual surveillance of the settlement's perimeter and approaches
+- **Roving sentry** — a ground-level patrol that moves along a defined route, covering blind spots and the immediate settlement perimeter during night watch
 - **Sentry rotation** — the scheduled replacement of observation post personnel at fixed intervals to prevent fatigue-induced vigilance degradation
 - **Signal code** — a pre-agreed system of distinct acoustic or visual signals, each mapped to a specific operational state and response action
-- **Horn alert** — an acoustic signal produced by a low-frequency horn instrument, used to transmit the settlement alert code over distances of 1-3 km
-- **Heliograph** — a method of visual signaling using reflected sunlight from a polished mirror, effective at ranges of 5-50 km in clear conditions
-- **Fire beacon** — a pre-positioned combustible stack at a high point, ignited for emergency signaling visible at 10-30 km
-- **Blind spot** — an area not visible from any observation post due to terrain, vegetation, or structural obstruction
-- **Observation field** — the total area visible from a given observation post, mapped as a sector diagram with blind spots identified
-- **Logbook** — the physical record maintained at the observation post, documenting all observations with time, bearing, description, and conditions
-- **Roving sentry** — a ground-level patrol that moves along a defined route, covering blind spots and the immediate settlement perimeter during night watch
-- **Contact team** — a small group (2-4 adults) designated to meet and assess unidentified visitors at a controlled approach point outside the settlement perimeter
+- **Visual detection range** — the maximum distance at which a human figure can be detected by a given observer under specific conditions of elevation, optics, lighting, and background contrast
 
 ---
 

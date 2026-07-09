@@ -362,21 +362,21 @@ The GDI is deliberately simple. It can be calculated by anyone who can count cul
 
 ## Vocabulary of the Foundation
 
-- **Minimum Viable Population (MVP):** The smallest population size at which a species can survive long-term without genetic drift causing harmful loss of diversity. Approximately 500 for humans, 50 breeding females for most livestock species.
-- **Inbreeding Coefficient (F):** A numerical measure of the probability that two gene copies in an individual are identical by descent. F = 0 means no inbreeding; F = 0.25 is equivalent to sibling mating. Values above 0.0625 indicate problematic inbreeding.
-- **Kinship Threshold:** The point at which all potential partners within a settlement share a common ancestor within 3 generations, triggering the need for inter-settlement genetic exchange.
-- **Genetic Diversity Index (GDI):** A composite metric tracking cultivar diversity (crops), average inbreeding coefficient (livestock), and average relatedness (humans) across the settlement network.
-- **Exogamy:** The practice of marrying or partnering outside one's immediate community. Practiced by the vast majority of human societies as an intuitive response to inbreeding avoidance.
-- **Germination Test:** A quarantine procedure in which a sample of incoming seeds is planted in test pots to verify viability before the batch is accepted into the seed bank. The standard threshold is 60% germination from a 10-seed sample.
-- **Pedigree Ledger:** A record of every breeding animal's parentage, health history, and settlement of origin, used to calculate inbreeding coefficients and plan breeding exchanges.
-- **Wright-Fisher Model:** The foundational mathematical model of genetic drift demonstrating that small populations lose allelic diversity at a rate inversely proportional to effective population size.
-- **Founder Effect:** The reduction of genetic diversity that occurs when a new population is established from a small subset of a larger population. Directly relevant to every post-collapse settlement.
-- **Vavilov Centers:** Regions of the world identified by Nikolai Vavilov where crop genetic diversity is highest, corresponding to areas of longest and most diverse cultivation.
-- **Inbreeding Depression:** The reduction in biological fitness — fertility, immune function, vigor — caused by breeding between closely related individuals. Measurable within 3-5 generations in small livestock herds.
-- **Quarantine Protocol:** The mandatory isolation and testing period for all incoming biological material — seeds, livestock, or humans exhibiting symptoms — before integration with the settlement's populations.
 - **Effective Population Size:** The number of breeding individuals that contribute genes to the next generation. Often much smaller than total census population due to unequal sex ratios, variance in reproductive success, and overlapping generations.
+- **Exogamy:** The practice of marrying or partnering outside one's immediate community. Practiced by the vast majority of human societies as an intuitive response to inbreeding avoidance.
+- **Founder Effect:** The reduction of genetic diversity that occurs when a new population is established from a small subset of a larger population. Directly relevant to every post-collapse settlement.
+- **Genetic Diversity Index (GDI):** A composite metric tracking cultivar diversity (crops), average inbreeding coefficient (livestock), and average relatedness (humans) across the settlement network.
+- **Germination Test:** A quarantine procedure in which a sample of incoming seeds is planted in test pots to verify viability before the batch is accepted into the seed bank. The standard threshold is 60% germination from a 10-seed sample.
 - **Heterozygosity:** The presence of different alleles at a given gene locus. Higher heterozygosity correlates with greater adaptability and disease resistance. Maintained by outbreeding, lost by inbreeding.
+- **Inbreeding Coefficient (F):** A numerical measure of the probability that two gene copies in an individual are identical by descent. F = 0 means no inbreeding; F = 0.25 is equivalent to sibling mating. Values above 0.0625 indicate problematic inbreeding.
+- **Inbreeding Depression:** The reduction in biological fitness — fertility, immune function, vigor — caused by breeding between closely related individuals. Measurable within 3-5 generations in small livestock herds.
+- **Kinship Threshold:** The point at which all potential partners within a settlement share a common ancestor within 3 generations, triggering the need for inter-settlement genetic exchange.
+- **Minimum Viable Population (MVP):** The smallest population size at which a species can survive long-term without genetic drift causing harmful loss of diversity. Approximately 500 for humans, 50 breeding females for most livestock species.
+- **Pedigree Ledger:** A record of every breeding animal's parentage, health history, and settlement of origin, used to calculate inbreeding coefficients and plan breeding exchanges.
+- **Quarantine Protocol:** The mandatory isolation and testing period for all incoming biological material — seeds, livestock, or humans exhibiting symptoms — before integration with the settlement's populations.
 - **Seed Library:** A shared repository of seed varieties maintained at a central neutral zone by all allied settlements, serving as both backup and diversity reservoir for the network.
+- **Vavilov Centers:** Regions of the world identified by Nikolai Vavilov where crop genetic diversity is highest, corresponding to areas of longest and most diverse cultivation.
+- **Wright-Fisher Model:** The foundational mathematical model of genetic drift demonstrating that small populations lose allelic diversity at a rate inversely proportional to effective population size.
 
 ---
 

@@ -324,36 +324,21 @@ The following table lists the most frequently observed problems when settlements
 
 ## Vocabulary of the Foundation
 
-- **Pictographic supplement** -- A visual symbol drawn alongside written text to convey meaning independent of language; not a full writing system but a targeted set of technical icons.
-
-- **Domain marker** -- A standardized icon on a document header indicating which field of knowledge the document addresses.
-
-- **Hand-span** -- The base unit of length in the network's standard measurement system, approximately 20 cm, defined as the distance from thumb tip to little finger tip with the hand spread.
-
-- **Finger-width** -- The subdivision of the hand-span, approximately 2 cm, used for finer measurements in diagrams and material specifications.
-
-- **Head-pot** -- The standard large volume unit, approximately 10 liters, defined as the capacity of a clay vessel sized to be carried on a human head.
-
-- **Cupped-hand** -- The base unit of volume, approximately 100 mL, defined as the amount of liquid held in a loosely cupped hand.
-
-- **Hatching convention** -- A system of fill patterns in technical diagrams where each pattern indicates a specific material: diagonal lines for wood, dots for sand, crosshatch for stone, solid black for metal, wavy lines for water.
-
-- **Source attribution** -- A mandatory section of every inter-settlement document recording which community originated the knowledge and when it was first documented.
-
 - **Calibration rod** -- A physical length standard distributed to each settlement to anchor body-referenced measurements to a fixed reference.
-
-- **Rubric** -- In medieval manuscript tradition, a heading written in red ink to mark a new section; in this system, any visual marker that delineates section boundaries.
-
-- **Pilcrow** -- A paragraph mark used in medieval manuscripts to indicate structural divisions, analogous to the section markers in the standard document format.
-
 - **Colophon** -- A scribal note at the end of a document recording its origin, date, and author; the ancestor of the source attribution section.
-
-- **ISOTYPE** -- International System of Typographic Picture Education, the pictographic communication system developed by Otto Neurath that informs the design of the pictographic supplement.
-
-- **Metrological standard** -- An agreed-upon reference for measurement units maintained across multiple communities; in Mesopotamia, standardized weights and measures enforced through scribal training.
-
+- **Cupped-hand** -- The base unit of volume, approximately 100 mL, defined as the amount of liquid held in a loosely cupped hand.
 - **Documentation committee** -- The two-to-five person group in each settlement responsible for converting local technical knowledge into the standardized inter-settlement format.
-
+- **Domain marker** -- A standardized icon on a document header indicating which field of knowledge the document addresses.
+- **Finger-width** -- The subdivision of the hand-span, approximately 2 cm, used for finer measurements in diagrams and material specifications.
+- **Hand-span** -- The base unit of length in the network's standard measurement system, approximately 20 cm, defined as the distance from thumb tip to little finger tip with the hand spread.
+- **Hatching convention** -- A system of fill patterns in technical diagrams where each pattern indicates a specific material: diagonal lines for wood, dots for sand, crosshatch for stone, solid black for metal, wavy lines for water.
+- **Head-pot** -- The standard large volume unit, approximately 10 liters, defined as the capacity of a clay vessel sized to be carried on a human head.
+- **ISOTYPE** -- International System of Typographic Picture Education, the pictographic communication system developed by Otto Neurath that informs the design of the pictographic supplement.
+- **Metrological standard** -- An agreed-upon reference for measurement units maintained across multiple communities; in Mesopotamia, standardized weights and measures enforced through scribal training.
+- **Pictographic supplement** -- A visual symbol drawn alongside written text to convey meaning independent of language; not a full writing system but a targeted set of technical icons.
+- **Pilcrow** -- A paragraph mark used in medieval manuscripts to indicate structural divisions, analogous to the section markers in the standard document format.
+- **Rubric** -- In medieval manuscript tradition, a heading written in red ink to mark a new section; in this system, any visual marker that delineates section boundaries.
+- **Source attribution** -- A mandatory section of every inter-settlement document recording which community originated the knowledge and when it was first documented.
 
 ## Cross-References
 

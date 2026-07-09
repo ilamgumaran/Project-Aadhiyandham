@@ -203,21 +203,21 @@ Spectral and circadian discipline at settlement scale requires a steward. The **
 
 ## Vocabulary of the Foundation
 
-- **Spectral management**: The discipline of controlling *which wavelengths* of light reach the eye, at what intensity and hour, to command the circadian system.
-- **Blue light (450–490 nm)**: The short-wavelength "wake signal"; suppresses melatonin and triggers cortisol and serotonin. Natural source: high-noon sun and clear sky.
-- **Red light (>600 nm)**: The long-wavelength "sleep signal"; does not suppress melatonin and permits the brain's repair state. Natural source: sunset, campfire, candlelight.
-- **Melanopsin**: The photopigment in the ipRGCs, maximally sensitive to blue light at approximately 480 nm; the molecular reason the clock reads the colour of the sky and ignores the colour of fire.
-- **Intrinsically photosensitive retinal ganglion cell (ipRGC)**: A non-image-forming retinal cell whose sole function is to measure ambient light for the master clock; densest in the retinal region viewing the upper (sky) field.
-- **Glymphatic wash**: The brain's metabolite-clearance system, running during deep sleep, that flushes beta-amyloid and other toxins; inhibited by nighttime blue light and elevated evening cortisol.
-- **Beta-amyloid**: A metabolic waste protein cleared by the glymphatic wash; its accumulation is associated with cognitive decline.
-- **Cortisol Awakening Response (CAR)**: The sharp rise in cortisol shortly after waking that mobilises the body for the day; triggered naturally by the morning blue-light "Blue Spike."
-- **Blue Spike**: The surge of blue-rich light at dawn; when allowed to reach a sleeper's eyelids through an east-facing opening, it initiates the Cortisol Awakening Response.
-- **Sun Anchor**: The daily practice of 30+ minutes of open-air morning light exposure that anchors the master clock.
 - **Architectural light anchoring**: Designing structures (east openings, thermal-mass deep shadow, light isolation) so the correct spectrum reaches the eye automatically.
-- **The Night Shift**: The protocol for after-dark activity — lamps below eye level, filtered to red — that permits work without breaking the melatonin signal.
-- **Silence Protocol**: The settlement rule that all mechanical labour and high-stress negotiation cease two hours before Collective Bedtime, lowering evening cortisol to protect the glymphatic wash.
-- **Zero Lux / Total Darkness**: The effective absence of light in sleeping quarters, achieved within one hour of sunset, required for full glymphatic clearance.
+- **Beta-amyloid**: A metabolic waste protein cleared by the glymphatic wash; its accumulation is associated with cognitive decline.
+- **Blue light (450–490 nm)**: The short-wavelength "wake signal"; suppresses melatonin and triggers cortisol and serotonin. Natural source: high-noon sun and clear sky.
+- **Blue Spike**: The surge of blue-rich light at dawn; when allowed to reach a sleeper's eyelids through an east-facing opening, it initiates the Cortisol Awakening Response.
 - **Chrono-Warden**: The settlement role responsible for enforcing the daily spectral protocol and aligning the labour schedule with seasonal daylight.
+- **Cortisol Awakening Response (CAR)**: The sharp rise in cortisol shortly after waking that mobilises the body for the day; triggered naturally by the morning blue-light "Blue Spike."
+- **Glymphatic wash**: The brain's metabolite-clearance system, running during deep sleep, that flushes beta-amyloid and other toxins; inhibited by nighttime blue light and elevated evening cortisol.
+- **Intrinsically photosensitive retinal ganglion cell (ipRGC)**: A non-image-forming retinal cell whose sole function is to measure ambient light for the master clock; densest in the retinal region viewing the upper (sky) field.
+- **Melanopsin**: The photopigment in the ipRGCs, maximally sensitive to blue light at approximately 480 nm; the molecular reason the clock reads the colour of the sky and ignores the colour of fire.
+- **Red light (>600 nm)**: The long-wavelength "sleep signal"; does not suppress melatonin and permits the brain's repair state. Natural source: sunset, campfire, candlelight.
+- **Silence Protocol**: The settlement rule that all mechanical labour and high-stress negotiation cease two hours before Collective Bedtime, lowering evening cortisol to protect the glymphatic wash.
+- **Spectral management**: The discipline of controlling *which wavelengths* of light reach the eye, at what intensity and hour, to command the circadian system.
+- **Sun Anchor**: The daily practice of 30+ minutes of open-air morning light exposure that anchors the master clock.
+- **The Night Shift**: The protocol for after-dark activity — lamps below eye level, filtered to red — that permits work without breaking the melatonin signal.
+- **Zero Lux / Total Darkness**: The effective absence of light in sleeping quarters, achieved within one hour of sunset, required for full glymphatic clearance.
 
 ---
 

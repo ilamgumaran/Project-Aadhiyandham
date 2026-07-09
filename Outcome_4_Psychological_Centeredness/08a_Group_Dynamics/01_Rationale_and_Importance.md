@@ -366,35 +366,20 @@ Even with well-designed protocols, communities fail in predictable ways. Underst
 
 ## Vocabulary of the Foundation
 
-The following terms form the conceptual vocabulary of Section 08a. Understanding these terms and their origins is prerequisite to the sub-modules:
-
-- **Group dynamics**: The study of how individuals behave in groups and how groups behave as collective entities with emergent properties distinct from their members.
-
-- **Group polarization**: The tendency for group discussion to shift the group's position toward a more extreme version of members' pre-discussion average (Stoner, 1961; Moscovici & Zavalloni, 1969).
-
 - **Conformity pressure (Asch)**: Social pressure that causes individuals to override their own judgment to match a unanimous group, even when the group is obviously wrong (Asch, 1951).
-
 - **Diffusion of responsibility**: The decrease in individual likelihood of action as group size increases, because each individual assumes others will act (Darley & Latane, 1968).
-
-- **Social loafing**: The decrease in individual effort as group size increases, when individual contributions are not identifiable (Ringelmann, 1913).
-
-- **Iron Law of Oligarchy (Michels)**: The principle that all organizations tend toward rule by a small elite, regardless of founding principles, through the mechanism of expertise creating information asymmetry creating power (Michels, 1911).
-
-- **Ostrom's Design Principles**: Eight structural features that distinguish successfully self-governing commons from failed ones (Ostrom, 1990).
-
-- **Dunbar's Number**: The cognitive limit of approximately 150 stable social relationships, determined by neocortex size (Dunbar, 1992).
-
-- **Domain separation**: The structural division of governance into distinct domains, each managed by a different Steward, preventing any single individual from controlling multiple areas.
-
-- **Steward**: A community member who holds temporary, rotating responsibility for a specific governance domain.
-
-- **Three-Voice Rule**: The requirement that every significant decision involve at least three distinct perspectives — proposer, responder, and dissenter — before adoption.
-
 - **Dissent Voice**: A rotating role in which a community member is formally assigned to argue against proposals, legitimizing disagreement and preventing conformity cascades.
-
-- **Social Health Index**: A five-indicator metric (Module 04) measuring community cohesion, measured monthly, with threshold-based intervention protocols.
-
+- **Domain separation**: The structural division of governance into distinct domains, each managed by a different Steward, preventing any single individual from controlling multiple areas.
+- **Dunbar's Number**: The cognitive limit of approximately 150 stable social relationships, determined by neocortex size (Dunbar, 1992).
 - **Fission**: The deliberate, planned splitting of a community that has grown beyond Dunbar's Number into two or more daughter communities, each below the threshold.
+- **Group dynamics**: The study of how individuals behave in groups and how groups behave as collective entities with emergent properties distinct from their members.
+- **Group polarization**: The tendency for group discussion to shift the group's position toward a more extreme version of members' pre-discussion average (Stoner, 1961; Moscovici & Zavalloni, 1969).
+- **Iron Law of Oligarchy (Michels)**: The principle that all organizations tend toward rule by a small elite, regardless of founding principles, through the mechanism of expertise creating information asymmetry creating power (Michels, 1911).
+- **Ostrom's Design Principles**: Eight structural features that distinguish successfully self-governing commons from failed ones (Ostrom, 1990).
+- **Social Health Index**: A five-indicator metric (Module 04) measuring community cohesion, measured monthly, with threshold-based intervention protocols.
+- **Social loafing**: The decrease in individual effort as group size increases, when individual contributions are not identifiable (Ringelmann, 1913).
+- **Steward**: A community member who holds temporary, rotating responsibility for a specific governance domain.
+- **Three-Voice Rule**: The requirement that every significant decision involve at least three distinct perspectives — proposer, responder, and dissenter — before adoption.
 
 ---
 

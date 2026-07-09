@@ -334,17 +334,17 @@ This is the complete wound care protocol integrating botanical antimicrobials. M
 ## Vocabulary of the Foundation
 
 - **Allicin:** Diallyl thiosulfinate, the primary antimicrobial compound in garlic, produced by enzymatic conversion of alliin when garlic cells are crushed. Unstable; degrades within hours.
-- **Thymol:** A monoterpene phenol found in thyme and oregano essential oils. Disrupts bacterial cell membranes and denatures proteins. The active ingredient in Listerine.
 - **Berberine:** An isoquinoline alkaloid from Oregon grape, goldenseal, and related plants. Intercalates into bacterial DNA and inhibits cell division.
-- **Salicin:** A glycoside from willow bark, metabolized to salicylic acid in the liver. The botanical precursor of aspirin. Analgesic, anti-inflammatory, antipyretic.
-- **Tincture:** A plant extract prepared in alcohol (40-60% ethanol). Preserves both water-soluble and fat-soluble compounds. Shelf life: 3-5 years.
+- **Cellulitis:** A spreading bacterial infection of the skin and subcutaneous tissue. Characterized by expanding redness, warmth, swelling, and pain. Indicates that a localized infection is becoming invasive. Requires aggressive treatment escalation.
+- **Debridement:** The removal of dead, damaged, or contaminated tissue from a wound to promote healing and reduce bacterial load. Essential for managing infected wounds.
 - **Decoction:** A water extract prepared by simmering plant material (roots, bark) for 10-30 minutes. Stronger than an infusion but perishable within 48 hours.
 - **Infusion:** A water extract prepared by steeping plant material (leaves, flowers) in boiling water for 10-15 minutes. Equivalent to medicinal tea. Perishable within 48 hours.
-- **Poultice:** A paste of crushed plant material applied directly to the skin or a wound. The most direct method of delivering botanical antimicrobials.
 - **MIC (Minimum Inhibitory Concentration):** The lowest concentration of an antimicrobial substance that prevents visible growth of a bacterium in laboratory conditions. The standard measure of antimicrobial potency.
-- **Cellulitis:** A spreading bacterial infection of the skin and subcutaneous tissue. Characterized by expanding redness, warmth, swelling, and pain. Indicates that a localized infection is becoming invasive. Requires aggressive treatment escalation.
+- **Poultice:** A paste of crushed plant material applied directly to the skin or a wound. The most direct method of delivering botanical antimicrobials.
+- **Salicin:** A glycoside from willow bark, metabolized to salicylic acid in the liver. The botanical precursor of aspirin. Analgesic, anti-inflammatory, antipyretic.
 - **Sepsis:** A life-threatening systemic inflammatory response to infection. Bacteria have entered the bloodstream. Characterized by fever, rapid heart rate, rapid breathing, confusion. Mortality without modern medical intervention: 40-80%.
-- **Debridement:** The removal of dead, damaged, or contaminated tissue from a wound to promote healing and reduce bacterial load. Essential for managing infected wounds.
+- **Thymol:** A monoterpene phenol found in thyme and oregano essential oils. Disrupts bacterial cell membranes and denatures proteins. The active ingredient in Listerine.
+- **Tincture:** A plant extract prepared in alcohol (40-60% ethanol). Preserves both water-soluble and fat-soluble compounds. Shelf life: 3-5 years.
 
 ---
 

@@ -358,35 +358,21 @@ After the initial four-week development period, run quarterly refresher simulati
 
 ## Vocabulary of the Foundation
 
-- **Neutral Zone:** A pre-identified open area with no tactical advantage to either party, used exclusively for inter-settlement meetings. Never fortified, never used for ambush, and always accessible by both parties without passing through restricted terrain.
-
-- **Gift Bundle:** A standardized package of seeds, food, crafted goods, and medicine offered without expectation of immediate return, establishing good faith and demonstrating the offering settlement's productive capacity.
-
-- **Silent Trade:** An exchange method requiring no shared language, where goods are placed and parties withdraw, documented across dozens of historical cultures from Herodotus onward. The foundational fallback protocol when verbal communication is impossible.
-
 - **Contact Team:** A designated, rehearsed group of 3 to 5 settlement members trained in de-escalation, first aid, and trade assessment, responsible for representing the settlement in all first contact encounters.
-
 - **Cooling Period:** A mandatory 48-hour pause after first contact before any binding decisions are made by the settlement council, designed to prevent both euphoric over-commitment and fear-driven rejection.
-
-- **Pictographic Board:** A portable communication tool using universal symbols for basic concepts (shelter, food, peace, trade), scratched into bark or clay, designed for use when no shared language exists.
-
-- **Rule of Three:** The principle of sending exactly three delegates to a first contact meeting, based on ethnographic evidence that odd-numbered small groups are perceived as less threatening than paired formations.
-
-- **Tit-for-Tat:** Axelrod's optimal iterated strategy: cooperate first, then mirror the other party's previous move. The theoretical basis for the gift-first protocol and the reciprocity expectation at the second meeting.
-
-- **Kula Ring:** Malinowski's documented system of ritualized gift exchange among Trobriand Islanders, sustaining trade networks across hundreds of miles of open ocean and serving as the anthropological model for the gift bundle protocol.
-
-- **Shadow of the Future:** The degree to which both parties expect repeated interaction over time, which shifts rational incentives toward cooperation and away from short-term betrayal.
-
-- **Pidgin Language:** A simplified contact language that emerges naturally when groups without a shared tongue interact repeatedly over weeks and months, eventually stabilizing into a functional communication system.
-
-- **Stress Inoculation:** Graduated exposure training that prepares Contact Team members for the psychological intensity of actual first contact encounters, reducing the probability of panic or protocol breach.
-
-- **Supermajority:** A governance threshold (typically two-thirds or three-quarters) required for high-stakes decisions such as initiating contact with unknown groups, ensuring broad community support before exposure to risk.
-
-- **Inbreeding Depression:** The reduction in biological fitness caused by mating between closely related individuals, a primary genetic driver of the need for inter-settlement contact and one of the strongest arguments against permanent isolation.
-
+- **Gift Bundle:** A standardized package of seeds, food, crafted goods, and medicine offered without expectation of immediate return, establishing good faith and demonstrating the offering settlement's productive capacity.
 - **Herodotean Method:** The silent trade protocol described by the ancient historian Herodotus, in which goods are placed at a neutral location and parties withdraw without direct interaction, allowing exchange to occur across total communication barriers.
+- **Inbreeding Depression:** The reduction in biological fitness caused by mating between closely related individuals, a primary genetic driver of the need for inter-settlement contact and one of the strongest arguments against permanent isolation.
+- **Kula Ring:** Malinowski's documented system of ritualized gift exchange among Trobriand Islanders, sustaining trade networks across hundreds of miles of open ocean and serving as the anthropological model for the gift bundle protocol.
+- **Neutral Zone:** A pre-identified open area with no tactical advantage to either party, used exclusively for inter-settlement meetings. Never fortified, never used for ambush, and always accessible by both parties without passing through restricted terrain.
+- **Pictographic Board:** A portable communication tool using universal symbols for basic concepts (shelter, food, peace, trade), scratched into bark or clay, designed for use when no shared language exists.
+- **Pidgin Language:** A simplified contact language that emerges naturally when groups without a shared tongue interact repeatedly over weeks and months, eventually stabilizing into a functional communication system.
+- **Rule of Three:** The principle of sending exactly three delegates to a first contact meeting, based on ethnographic evidence that odd-numbered small groups are perceived as less threatening than paired formations.
+- **Shadow of the Future:** The degree to which both parties expect repeated interaction over time, which shifts rational incentives toward cooperation and away from short-term betrayal.
+- **Silent Trade:** An exchange method requiring no shared language, where goods are placed and parties withdraw, documented across dozens of historical cultures from Herodotus onward. The foundational fallback protocol when verbal communication is impossible.
+- **Stress Inoculation:** Graduated exposure training that prepares Contact Team members for the psychological intensity of actual first contact encounters, reducing the probability of panic or protocol breach.
+- **Supermajority:** A governance threshold (typically two-thirds or three-quarters) required for high-stakes decisions such as initiating contact with unknown groups, ensuring broad community support before exposure to risk.
+- **Tit-for-Tat:** Axelrod's optimal iterated strategy: cooperate first, then mirror the other party's previous move. The theoretical basis for the gift-first protocol and the reciprocity expectation at the second meeting.
 
 ## Cross-References
 

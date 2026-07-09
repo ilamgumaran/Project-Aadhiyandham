@@ -367,22 +367,22 @@ The following signs in a newborn require immediate attention:
 
 ## Vocabulary of the Foundation
 
-* **Oxytocin** — the hormone that drives uterine contractions during labor and the milk ejection reflex during breastfeeding; released in response to cervical stretching, nipple stimulation, and emotional safety
-* **Ferguson reflex** — the positive feedback loop in which pressure of the fetal head on the cervix triggers oxytocin release, which drives stronger contractions, which increase pressure on the cervix
-* **Cervical dilation** — the progressive opening of the cervix from 0 to 10 centimeters during the first stage of labor
-* **Effacement** — the thinning and shortening of the cervix that occurs alongside dilation
-* **Cardinal movements** — the sequence of rotations (engagement, descent, flexion, internal rotation, extension, external rotation, expulsion) the fetal head performs to navigate through the bony pelvis
-* **Uterine atony** — failure of the uterine muscle to contract after delivery, causing the open blood vessels at the placental site to bleed; the most common cause of postpartum hemorrhage
-* **Postpartum hemorrhage (PPH)** — blood loss exceeding 500 mL after vaginal delivery; a life-threatening emergency
 * **Bandl's ring** — a visible or palpable constriction ring across the abdomen during obstructed labor, marking the boundary between the thinning lower uterine segment and the contracting upper segment; a warning sign of impending uterine rupture
+* **Cardinal movements** — the sequence of rotations (engagement, descent, flexion, internal rotation, extension, external rotation, expulsion) the fetal head performs to navigate through the bony pelvis
+* **Cervical dilation** — the progressive opening of the cervix from 0 to 10 centimeters during the first stage of labor
 * **Colostrum** — the thick, yellow first milk produced in the first 2 to 3 days after birth; rich in secretory IgA antibodies, lactoferrin, and immune cells
-* **Secretory IgA** — an antibody class present in breast milk that coats the infant's mucosal surfaces and provides passive immune protection against local pathogens
-* **Microbiome transfer** — the process by which the infant acquires its initial microbial colonization from the mother through vaginal birth, skin-to-skin contact, and breastfeeding
-* **Kangaroo care** — prolonged skin-to-skin contact between mother (or caregiver) and infant, which regulates temperature, heart rate, breathing, and promotes breastfeeding
-* **Galactagogue** — a substance that promotes or increases breast milk production; examples include fenugreek, fennel, and oats
-* **Nuchal cord** — an umbilical cord wrapped around the baby's neck; occurs in approximately 20% to 30% of deliveries and is usually manageable by slipping the cord over the head
+* **Effacement** — the thinning and shortening of the cervix that occurs alongside dilation
+* **Ferguson reflex** — the positive feedback loop in which pressure of the fetal head on the cervix triggers oxytocin release, which drives stronger contractions, which increase pressure on the cervix
 * **Fundal height** — the distance from the pubic bone to the top of the uterine fundus, measured in centimeters; correlates approximately with gestational age in weeks from 20 to 36 weeks
+* **Galactagogue** — a substance that promotes or increases breast milk production; examples include fenugreek, fennel, and oats
+* **Kangaroo care** — prolonged skin-to-skin contact between mother (or caregiver) and infant, which regulates temperature, heart rate, breathing, and promotes breastfeeding
+* **Microbiome transfer** — the process by which the infant acquires its initial microbial colonization from the mother through vaginal birth, skin-to-skin contact, and breastfeeding
+* **Nuchal cord** — an umbilical cord wrapped around the baby's neck; occurs in approximately 20% to 30% of deliveries and is usually manageable by slipping the cord over the head
+* **Oxytocin** — the hormone that drives uterine contractions during labor and the milk ejection reflex during breastfeeding; released in response to cervical stretching, nipple stimulation, and emotional safety
 * **Pinard horn** — a cone-shaped listening device placed against the mother's abdomen to auscultate fetal heart tones; can be improvised from carved wood or molded clay
+* **Postpartum hemorrhage (PPH)** — blood loss exceeding 500 mL after vaginal delivery; a life-threatening emergency
+* **Secretory IgA** — an antibody class present in breast milk that coats the infant's mucosal surfaces and provides passive immune protection against local pathogens
+* **Uterine atony** — failure of the uterine muscle to contract after delivery, causing the open blood vessels at the placental site to bleed; the most common cause of postpartum hemorrhage
 
 ---
 

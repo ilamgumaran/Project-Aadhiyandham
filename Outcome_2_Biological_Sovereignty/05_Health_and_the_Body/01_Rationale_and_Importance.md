@@ -248,20 +248,20 @@ Structured health maintenance prevents the drift toward reactive-only medicine:
 
 ## Vocabulary of the Foundation
 
-- **Prevention hierarchy**: The four-tier framework ranking health interventions by effectiveness: environmental, behavioral, botanical, procedural.
+- **Allicin**: The organosulfur compound produced when garlic is crushed; broad-spectrum antibiotic.
+- **Analgesic**: A substance that reduces pain without causing loss of consciousness.
+- **Antiseptic**: A substance that inhibits microbial growth on living tissue (distinguished from disinfectant, which is used on surfaces).
+- **Berberine**: An isoquinoline alkaloid found in Oregon grape, goldenseal, and barberry; antibiotic and anti-diarrheal.
 - **Botanical pharmacy**: A cultivated collection of pharmacologically active plants used as the settlement's primary pharmaceutical resource.
+- **Cellulitis**: Spreading bacterial infection of the skin and subcutaneous tissue; the warning stage before sepsis.
 - **Circadian rhythm**: The body's internal 24-hour clock governing hormonal cycles, immune function, and cognitive performance.
 - **Glymphatic system**: The brain's waste-clearance system, operational only during sleep, responsible for removing metabolic byproducts.
-- **Allicin**: The organosulfur compound produced when garlic is crushed; broad-spectrum antibiotic.
-- **Salicin**: The analgesic and anti-inflammatory compound in willow bark; biochemical precursor to aspirin.
-- **Berberine**: An isoquinoline alkaloid found in Oregon grape, goldenseal, and barberry; antibiotic and anti-diarrheal.
-- **Triage**: The systematic prioritization of patients by survivability in a mass-casualty event.
-- **Sepsis**: Systemic infection in which pathogens enter the bloodstream, triggering organ dysfunction; lethal without IV antibiotic therapy.
-- **Cellulitis**: Spreading bacterial infection of the skin and subcutaneous tissue; the warning stage before sepsis.
 - **Periapical abscess**: Infection at the root tip of a tooth, extending into the jawbone; the lethal endpoint of untreated dental decay.
+- **Prevention hierarchy**: The four-tier framework ranking health interventions by effectiveness: environmental, behavioral, botanical, procedural.
+- **Salicin**: The analgesic and anti-inflammatory compound in willow bark; biochemical precursor to aspirin.
+- **Sepsis**: Systemic infection in which pathogens enter the bloodstream, triggering organ dysfunction; lethal without IV antibiotic therapy.
 - **Traction splint**: A device that applies longitudinal pull to a fractured femur, reducing pain, hemorrhage, and fat embolism risk.
-- **Antiseptic**: A substance that inhibits microbial growth on living tissue (distinguished from disinfectant, which is used on surfaces).
-- **Analgesic**: A substance that reduces pain without causing loss of consciousness.
+- **Triage**: The systematic prioritization of patients by survivability in a mass-casualty event.
 
 ---
 

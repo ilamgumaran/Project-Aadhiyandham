@@ -199,15 +199,15 @@ When wheeled transport is impractical (dense forest, steep terrain, stream cross
 
 ## Vocabulary of the Foundation
 
-*   **Rail-Trail:** An abandoned railway corridor converted to a multi-use path. Retains the original railway grade (typically 1-3%) and often retains bridge infrastructure.
-*   **Logistical Reach:** The maximum distance a group can travel on carried supplies before caloric reserves are exhausted. Typically 200-260 km for a family of four with 36 kg of rations.
-*   **Handrail:** A long linear terrain feature (river, ridge, road, rail-trail) followed to maintain direction and reduce navigation effort.
-*   **Waystation:** A concealed supply cache and rest point along a trade or transit route, positioned at one day's travel interval (~15-25 km).
 *   **Ford:** A shallow point in a river or stream where the water can be crossed on foot. Identified by wide, shallow sections with gravel or rock bottom.
-*   **Travois:** A wheeled or slide-based frame for hauling cargo, pulled by a human or animal using a harness.
-*   **USBR (US Bicycle Route):** A federally designated cycling route, typically following a combination of low-traffic roads, bike paths, and rail-trails.
+*   **Handrail:** A long linear terrain feature (river, ridge, road, rail-trail) followed to maintain direction and reduce navigation effort.
+*   **Logistical Reach:** The maximum distance a group can travel on carried supplies before caloric reserves are exhausted. Typically 200-260 km for a family of four with 36 kg of rations.
+*   **Rail-Trail:** An abandoned railway corridor converted to a multi-use path. Retains the original railway grade (typically 1-3%) and often retains bridge infrastructure.
 *   **The 50% Rule:** Maximum daily distance for a mixed-ability group equals 50% of the slowest member's comfortable capacity.
 *   **Threat Corridor:** A zone of elevated risk along a transit route, such as proximity to population centers, military installations, or controlled chokepoints.
+*   **Travois:** A wheeled or slide-based frame for hauling cargo, pulled by a human or animal using a harness.
+*   **USBR (US Bicycle Route):** A federally designated cycling route, typically following a combination of low-traffic roads, bike paths, and rail-trails.
+*   **Waystation:** A concealed supply cache and rest point along a trade or transit route, positioned at one day's travel interval (~15-25 km).
 
 ---
 

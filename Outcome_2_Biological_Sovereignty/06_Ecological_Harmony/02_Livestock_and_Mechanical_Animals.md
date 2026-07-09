@@ -325,20 +325,20 @@ Reduce stocking density by 30-50% in arid conditions or poor soil. It is always 
 
 ## Vocabulary of the Foundation
 
-- **Draft power**: Mechanical work produced by an animal pulling a load (plow, cart, sled, mill)
-- **Horsepower (hp)**: Unit of power equal to 746 watts; one horse at peak output produces approximately 1 hp, but sustained output is 0.7-0.75 hp
-- **Yoke**: Wooden frame placed across the necks of a pair of oxen to harness their pulling power; must be carved to fit individual animals
-- **Silvopasture**: Integrated land management system combining trees, pasture, and livestock on the same land
-- **Rotational grazing**: System of moving livestock between paddocks on a planned schedule, allowing each paddock adequate rest for grass recovery
-- **Paddock**: A subdivided section of pasture used in rotational grazing; minimum 6 paddocks required for effective rotation
-- **Carrying capacity**: The maximum number of livestock that a given area of pasture can support without degradation; expressed as animal units per hectare
-- **Stocking density**: The actual number of animals on a given area at a specific point in time; must not exceed carrying capacity over the annual average
-- **Forage**: Grass, hay, legumes, and other herbaceous plants consumed by grazing livestock
 - **Browse**: Woody plant material (leaves, twigs, bark) consumed by goats and deer; distinct from forage (herbaceous material)
-- **Living fence**: A hedgerow of densely planted thorny or woody species that serves as a stock-proof barrier; replaces manufactured fencing
-- **Livestock guardian dog (LGD)**: A breed of dog raised from puppyhood with a flock to bond with and protect livestock from predators
-- **Coppice**: The practice of cutting a tree to ground level to stimulate regrowth of multiple stems; provides renewable fodder, fuelwood, and fence material
+- **Carrying capacity**: The maximum number of livestock that a given area of pasture can support without degradation; expressed as animal units per hectare
 - **Colostrum**: The first milk produced by a mammal after giving birth; contains concentrated antibodies essential for newborn immune development
+- **Coppice**: The practice of cutting a tree to ground level to stimulate regrowth of multiple stems; provides renewable fodder, fuelwood, and fence material
+- **Draft power**: Mechanical work produced by an animal pulling a load (plow, cart, sled, mill)
+- **Forage**: Grass, hay, legumes, and other herbaceous plants consumed by grazing livestock
+- **Horsepower (hp)**: Unit of power equal to 746 watts; one horse at peak output produces approximately 1 hp, but sustained output is 0.7-0.75 hp
+- **Livestock guardian dog (LGD)**: A breed of dog raised from puppyhood with a flock to bond with and protect livestock from predators
+- **Living fence**: A hedgerow of densely planted thorny or woody species that serves as a stock-proof barrier; replaces manufactured fencing
+- **Paddock**: A subdivided section of pasture used in rotational grazing; minimum 6 paddocks required for effective rotation
+- **Rotational grazing**: System of moving livestock between paddocks on a planned schedule, allowing each paddock adequate rest for grass recovery
+- **Silvopasture**: Integrated land management system combining trees, pasture, and livestock on the same land
+- **Stocking density**: The actual number of animals on a given area at a specific point in time; must not exceed carrying capacity over the annual average
+- **Yoke**: Wooden frame placed across the necks of a pair of oxen to harness their pulling power; must be carved to fit individual animals
 
 ---
 

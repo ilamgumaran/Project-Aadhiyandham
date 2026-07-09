@@ -387,21 +387,21 @@ The following supplies should be maintained, inspected monthly, and immediately 
 
 ## Vocabulary of the Foundation
 
-- **Hemorrhagic shock:** Progressive organ failure caused by insufficient blood volume to maintain perfusion. Classified in four stages by percentage of blood volume lost.
-- **Tourniquet:** A circumferential compressive device applied to an extremity to occlude arterial blood flow and stop hemorrhage.
-- **Windlass:** A rigid stick inserted through a tourniquet band and twisted to generate mechanical tightening force.
-- **Traction:** The application of steady pulling force along the long axis of a limb to counteract muscle spasm and align fracture fragments.
-- **Splint:** A rigid device applied externally to a limb to immobilize a fracture and prevent movement of bone ends.
-- **MARCH protocol:** The Tactical Combat Casualty Care prioritization sequence: Massive hemorrhage, Airway, Respiration, Circulation, Hypothermia.
-- **Debridement:** The surgical removal of dead, devitalized, or contaminated tissue from a wound to promote healing and prevent infection.
-- **Irrigation:** The use of pressurized fluid to mechanically flush debris and bacteria from a wound cavity.
-- **Golden Period:** The 6-to-8-hour window after injury during which wound closure carries acceptable infection risk.
-- **Rule of Nines:** A rapid estimation method for burn surface area, dividing the body into regions each representing approximately 9% (or multiples thereof) of total body surface area.
-- **Coagulopathy:** A pathological failure of the blood clotting cascade, commonly caused by hypothermia, acidosis, or massive blood loss. Results in inability to form clots and uncontrollable hemorrhage.
-- **Lethal triad:** The self-reinforcing cycle of hypothermia, acidosis, and coagulopathy in trauma patients. Each element worsens the other two.
-- **Cellulitis:** A spreading bacterial infection of the skin and subcutaneous tissue, characterized by expanding redness, warmth, swelling, and pain.
-- **Sepsis:** A life-threatening systemic inflammatory response to infection, characterized by fever (or hypothermia), rapid pulse, rapid breathing, confusion, and progressive organ failure.
 - **Capillary refill:** A test of peripheral perfusion: press a fingernail or toenail bed, release, and time the return of pink color. Normal refill occurs in less than 2 seconds. Delayed refill indicates impaired circulation.
+- **Cellulitis:** A spreading bacterial infection of the skin and subcutaneous tissue, characterized by expanding redness, warmth, swelling, and pain.
+- **Coagulopathy:** A pathological failure of the blood clotting cascade, commonly caused by hypothermia, acidosis, or massive blood loss. Results in inability to form clots and uncontrollable hemorrhage.
+- **Debridement:** The surgical removal of dead, devitalized, or contaminated tissue from a wound to promote healing and prevent infection.
+- **Golden Period:** The 6-to-8-hour window after injury during which wound closure carries acceptable infection risk.
+- **Hemorrhagic shock:** Progressive organ failure caused by insufficient blood volume to maintain perfusion. Classified in four stages by percentage of blood volume lost.
+- **Irrigation:** The use of pressurized fluid to mechanically flush debris and bacteria from a wound cavity.
+- **Lethal triad:** The self-reinforcing cycle of hypothermia, acidosis, and coagulopathy in trauma patients. Each element worsens the other two.
+- **MARCH protocol:** The Tactical Combat Casualty Care prioritization sequence: Massive hemorrhage, Airway, Respiration, Circulation, Hypothermia.
+- **Rule of Nines:** A rapid estimation method for burn surface area, dividing the body into regions each representing approximately 9% (or multiples thereof) of total body surface area.
+- **Sepsis:** A life-threatening systemic inflammatory response to infection, characterized by fever (or hypothermia), rapid pulse, rapid breathing, confusion, and progressive organ failure.
+- **Splint:** A rigid device applied externally to a limb to immobilize a fracture and prevent movement of bone ends.
+- **Tourniquet:** A circumferential compressive device applied to an extremity to occlude arterial blood flow and stop hemorrhage.
+- **Traction:** The application of steady pulling force along the long axis of a limb to counteract muscle spasm and align fracture fragments.
+- **Windlass:** A rigid stick inserted through a tourniquet band and twisted to generate mechanical tightening force.
 
 ---
 

@@ -334,20 +334,20 @@ The deeper structural benefit of rotation across a decade is RESILIENCE. A commu
 
 ## Vocabulary of the Foundation
 
-- **Steward:** A temporary facilitator of a community domain. Not a leader. A Steward coordinates and communicates but does not command.
-- **Domain Separation:** The principle that no individual simultaneously controls more than one critical area of community life.
-- **Three-Voice Rule:** A structural requirement that resource-allocation decisions require agreement from the Steward, a randomly selected member, and a Dissent Voice.
-- **Dissent Voice:** A rotating role whose explicit duty is to argue against a proposal for a set time, ensuring critical scrutiny regardless of social pressure.
-- **Recall Protocol:** A community-initiated process to review and potentially remove a Steward who is consolidating inappropriate influence.
 - **Anti-Accumulation Norm:** The principle that technical expertise and political authority must not reside in the same person for the same domain.
-- **Iron Law of Oligarchy:** Robert Michels' (1911) observation that all organizations tend toward oligarchic control unless structural counter-mechanisms are embedded from the outset.
-- **Ostrom's Design Principles:** Eight structural features identified by Elinor Ostrom (1990) as present in communities that successfully self-govern shared resources across centuries.
 - **Deference Habituation:** The psychological process by which repeated deference to an authority figure becomes automatic and unquestioned, reducing the community's capacity for independent judgment.
-- **Milgram Effect:** The demonstrated human tendency to comply with perceived authority figures even when personal judgment suggests the authority is wrong.
 - **Deterministic Rotation:** A pre-agreed, non-elective sequence for rotating Steward roles that removes the influence of popularity, charisma, and ambition from the selection process.
+- **Dissent Voice:** A rotating role whose explicit duty is to argue against a proposal for a set time, ensuring critical scrutiny regardless of social pressure.
+- **Domain Separation:** The principle that no individual simultaneously controls more than one critical area of community life.
 - **Handover Document:** A written record prepared by an outgoing Steward for their successor, covering domain status, pending decisions, known problems, and institutional knowledge.
+- **Iron Law of Oligarchy:** Robert Michels' (1911) observation that all organizations tend toward oligarchic control unless structural counter-mechanisms are embedded from the outset.
+- **Milgram Effect:** The demonstrated human tendency to comply with perceived authority figures even when personal judgment suggests the authority is wrong.
+- **Ostrom's Design Principles:** Eight structural features identified by Elinor Ostrom (1990) as present in communities that successfully self-govern shared resources across centuries.
 - **Power Audit:** A quarterly structured review (conducted via Section 08 Module 04 protocols) to assess whether any individual is accumulating cross-domain influence or informal authority.
 - **Protocol Suspension:** The temporary bypass of governance procedures during genuine emergencies, subject to mandatory 48-hour ratification by the full Three-Voice process.
+- **Recall Protocol:** A community-initiated process to review and potentially remove a Steward who is consolidating inappropriate influence.
+- **Steward:** A temporary facilitator of a community domain. Not a leader. A Steward coordinates and communicates but does not command.
+- **Three-Voice Rule:** A structural requirement that resource-allocation decisions require agreement from the Steward, a randomly selected member, and a Dissent Voice.
 
 ---
 

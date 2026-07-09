@@ -423,18 +423,18 @@ Prevention: the community explicitly frames mental illness care as COMMUNAL resp
 
 - **Anchor** — designated caretaker trained to provide calm, non-reactive presence during psychiatric episodes
 - **Biological grounding** — interventions targeting the body (sleep, food, rhythmic activity, cold exposure) to indirectly stabilize the mind
-- **Calm Room** — designated safe space for containment during physically dangerous episodes; designed as a quiet room, not a cell
-- **Containment protocol** — structured safety procedure for persons who pose immediate physical danger to themselves or others
-- **Caretaker rotation** — strict 4-hour shift system preventing burnout among those providing psychiatric care
 - **Botanical sedative** — plant-based preparations (valerian, passionflower, skullcap, chamomile, lemon balm) that reduce neural excitability through GABA modulation
-- **GABA modulation** — the mechanism by which botanical sedatives reduce neural excitability by enhancing gamma-aminobutyric acid activity at inhibitory synapses
+- **Calm Room** — designated safe space for containment during physically dangerous episodes; designed as a quiet room, not a cell
+- **Caretaker rotation** — strict 4-hour shift system preventing burnout among those providing psychiatric care
+- **Containment protocol** — structured safety procedure for persons who pose immediate physical danger to themselves or others
 - **Dopamine hypothesis** — the neurological model explaining schizophrenia symptoms as arising from dopaminergic dysregulation in mesolimbic and mesocortical pathways
-- **Monoamine hypothesis** — the neurological model explaining depression as arising from reduced serotonergic and noradrenergic transmission
-- **Stigma override** — the failure mode in which community fear overrides biological understanding, producing punitive responses to mental illness
-- **Rhythmic bilateral activity** — repetitive physical tasks engaging both body sides, producing hemispheric coherence and reduced emotional arousal
 - **Early warning signs** — individualized prodromal indicators (sleep disruption, withdrawal, speech changes) that precede psychiatric episodes
+- **GABA modulation** — the mechanism by which botanical sedatives reduce neural excitability by enhancing gamma-aminobutyric acid activity at inhibitory synapses
 - **Geel model** — the 700-year Belgian tradition of integrating persons with severe mental illness into family homes as community members
+- **Monoamine hypothesis** — the neurological model explaining depression as arising from reduced serotonergic and noradrenergic transmission
+- **Rhythmic bilateral activity** — repetitive physical tasks engaging both body sides, producing hemispheric coherence and reduced emotional arousal
 - **Soteria model** — Loren Mosher's demonstrated approach to managing acute schizophrenia through interpersonal support and calm environment rather than pharmaceuticals
+- **Stigma override** — the failure mode in which community fear overrides biological understanding, producing punitive responses to mental illness
 
 ---
 

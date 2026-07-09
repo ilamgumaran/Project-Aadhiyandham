@@ -323,20 +323,20 @@ Sensory deterrents exploit the animal's caution around unfamiliar stimuli. They 
 
 ## Vocabulary of the Foundation
 
-* **Crop Raider:** Any wildlife species that feeds on cultivated crops, distinct from predators that threaten livestock or humans.
-* **Optimal Foraging Theory:** The ecological principle that animals select food sources maximizing caloric return per unit of foraging effort (MacArthur & Pianka, 1966).
-* **Layered Defense:** The concurrent deployment of physical barriers, sensory deterrents, and strategic planting so that failure of one layer does not result in total crop loss.
-* **Sacrificial Buffer:** A deliberately planted strip of preferred forage outside the garden fence that diverts wildlife from the primary food garden.
+* **Aromatic Border:** A continuous belt of strongly scented plants (garlic, lavender, mint, marigold) inside the garden fence that masks food crop scent and repels insects.
+* **Chili-Fat Paste:** A capsaicin-based chemical deterrent made from ground hot peppers mixed with rendered animal fat, applied to fence surfaces to deter mammals that sniff or lick barriers.
 * **Companion Planting:** The interplanting of food crops with aromatic or structurally deterrent species that mask crop scent or physically impede raider approach.
+* **Crop Raider:** Any wildlife species that feeds on cultivated crops, distinct from predators that threaten livestock or humans.
+* **Double Fence:** Two parallel fences of moderate height (1.2 m) spaced 1.2-1.5 m apart, exploiting the inability of deer to jump into narrow spaces with uncertain landings.
+* **Ha-Ha Fence:** A sunken ditch or fence invisible from the garden side, used in English landscape design to exclude deer without obstructing views. Exploits the same principle as the double fence.
+* **Habituation:** The process by which wildlife stops responding to a deterrent after repeated exposure without negative consequence. All non-physical deterrents habituate.
+* **L-Bend Barrier:** A buried mesh or stone barrier with an outward horizontal extension at the bottom that redirects burrowing animals outward rather than under the fence.
+* **Layered Defense:** The concurrent deployment of physical barriers, sensory deterrents, and strategic planting so that failure of one layer does not result in total crop loss.
+* **Optimal Foraging Theory:** The ecological principle that animals select food sources maximizing caloric return per unit of foraging effort (MacArthur & Pianka, 1966).
+* **Sacrificial Buffer:** A deliberately planted strip of preferred forage outside the garden fence that diverts wildlife from the primary food garden.
+* **Shishi-Odoshi:** A Japanese bamboo water hammer that produces irregular acoustic deterrent signals. The variable timing reduces habituation rate compared to regular-interval noise.
 * **Trap Cropping:** Planting a small stand of the most-raided crop outside the fence to attract and concentrate raiders away from the main garden.
 * **Wattle Fencing:** Interwoven panels of flexible wood (willow, hazel, bamboo) that form a durable barrier. Living stakes root in place and self-repair over years.
-* **Double Fence:** Two parallel fences of moderate height (1.2 m) spaced 1.2-1.5 m apart, exploiting the inability of deer to jump into narrow spaces with uncertain landings.
-* **L-Bend Barrier:** A buried mesh or stone barrier with an outward horizontal extension at the bottom that redirects burrowing animals outward rather than under the fence.
-* **Chili-Fat Paste:** A capsaicin-based chemical deterrent made from ground hot peppers mixed with rendered animal fat, applied to fence surfaces to deter mammals that sniff or lick barriers.
-* **Habituation:** The process by which wildlife stops responding to a deterrent after repeated exposure without negative consequence. All non-physical deterrents habituate.
-* **Shishi-Odoshi:** A Japanese bamboo water hammer that produces irregular acoustic deterrent signals. The variable timing reduces habituation rate compared to regular-interval noise.
-* **Ha-Ha Fence:** A sunken ditch or fence invisible from the garden side, used in English landscape design to exclude deer without obstructing views. Exploits the same principle as the double fence.
-* **Aromatic Border:** A continuous belt of strongly scented plants (garlic, lavender, mint, marigold) inside the garden fence that masks food crop scent and repels insects.
 
 ---
 

@@ -313,18 +313,18 @@ The left column shows the cascade that a single identity-based statement can tri
 
 ## Vocabulary of the Foundation
 
+- **Abstraction Ladder**: Hayakawa's model of language levels, from direct sensory experience (bottom) to high-level abstractions (top). E-Prime forces language down the ladder toward observable experience.
+- **DMN Defensive Activation**: The neurological process by which identity-threatening language activates the Default Mode Network's self-referential processing, triggering cortisol release and suppressing the Task-Positive Network.
+- **Dusk Reflection Circle**: A daily small-group practice (4-6 people, 10 minutes at dusk) where members share observations in strict E-Prime, with supportive feedback on formulation.
 - **E-Prime**: English-Prime — the English language with all forms of "to be" removed (is, am, are, was, were, be, been, being). Proposed by D. David Bourland Jr. in 1965.
+- **Four Horsemen (Gottman)**: Criticism, Contempt, Defensiveness, and Stonewalling — the four communication patterns that predict relationship failure. E-Prime disrupts the first two by eliminating identity-based language.
 - **General Semantics**: The field founded by Alfred Korzybski studying how the structure of language affects thought, perception, and behavior.
-- **Map-Territory Relation**: Korzybski's principle that language (the map) describes reality (the territory) but does not constitute it. Confusion between map and territory produces systematic errors in thought and communication.
+- **Identity Frame**: A linguistic construction that treats a temporary behavior or subjective perception as a permanent, objective characteristic of a person or thing.
 - **Is of Identity**: The use of "to be" to equate a person with a category ("He IS a thief"), collapsing a complex entity into a fixed label.
 - **Is of Predication**: The use of "to be" to assign a property to an object as if the property belongs to the object rather than to the observer ("The rose IS red").
-- **Abstraction Ladder**: Hayakawa's model of language levels, from direct sensory experience (bottom) to high-level abstractions (top). E-Prime forces language down the ladder toward observable experience.
-- **Observational Language**: Language that describes what was seen, heard, measured, or otherwise directly experienced, as distinct from language that assigns fixed properties or categories.
-- **Identity Frame**: A linguistic construction that treats a temporary behavior or subjective perception as a permanent, objective characteristic of a person or thing.
-- **DMN Defensive Activation**: The neurological process by which identity-threatening language activates the Default Mode Network's self-referential processing, triggering cortisol release and suppressing the Task-Positive Network.
 - **Linguistic Relativity (Sapir-Whorf)**: The hypothesis that the structure of a language influences habitual thought patterns. E-Prime applies the "weak" version: changing language habits changes thought habits.
-- **Four Horsemen (Gottman)**: Criticism, Contempt, Defensiveness, and Stonewalling — the four communication patterns that predict relationship failure. E-Prime disrupts the first two by eliminating identity-based language.
-- **Dusk Reflection Circle**: A daily small-group practice (4-6 people, 10 minutes at dusk) where members share observations in strict E-Prime, with supportive feedback on formulation.
+- **Map-Territory Relation**: Korzybski's principle that language (the map) describes reality (the territory) but does not constitute it. Confusion between map and territory produces systematic errors in thought and communication.
+- **Observational Language**: Language that describes what was seen, heard, measured, or otherwise directly experienced, as distinct from language that assigns fixed properties or categories.
 
 ---
 

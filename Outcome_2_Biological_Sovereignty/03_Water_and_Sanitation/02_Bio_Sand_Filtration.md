@@ -316,19 +316,19 @@ Construction time: 1-2 days per filter, assuming sand is pre-washed and material
 
 ## Vocabulary of the Foundation
 
-- **Schmutzdecke** (Tamil: *உயிர்ப்படலம்*): The biologically active layer at the sand surface composed of bacteria, protozoa, algae, and extracellular polymeric substances. The primary pathogen removal mechanism in a bio-sand filter.
-- **Darcy's Law**: The equation governing fluid flow through porous media: Q = K x A x (dh/L). Predicts filter flow rate from sand properties, filter dimensions, and water head.
-- **Hydraulic conductivity (K)**: A measure of how easily water flows through a porous medium (units: m/day). Fine sand: 1-5 m/day. Gravel: 100-1000 m/day.
-- **Turbidity**: The cloudiness of water caused by suspended particles. Measured in Nephelometric Turbidity Units (NTU). Clear water: <1 NTU. Visibly cloudy: >50 NTU.
-- **NTU (Nephelometric Turbidity Unit)**: The standard unit of turbidity measurement. WHO guideline for drinking water: <1 NTU ideal, <4 NTU acceptable.
-- **Log reduction**: A logarithmic measure of pathogen removal. 1 log = 90% removal, 2 log = 99%, 3 log = 99.9%. Bio-sand filters achieve 1-2 log for bacteria.
-- **Ripening**: The 10-14 day period during which the Schmutzdecke establishes itself in a new or recently disturbed filter. Filter output is NOT safe during ripening.
-- **Effective grain size (D10)**: The sieve opening that passes 10% of the sand sample by weight. For bio-sand filters: D10 = 0.15-0.35 mm.
 - **Adsorption**: The adhesion of molecules or microorganisms to a surface (sand grains, biochar) via electrostatic or van der Waals forces. Distinct from absorption (bulk uptake).
-- **SODIS (Solar Water Disinfection)**: A method of disinfecting water by exposing it to sunlight in clear PET bottles for 6+ hours. UV-A radiation and thermal inactivation kill pathogens. Recommended as a second barrier after bio-sand filtration.
-- **CFU (Colony-Forming Unit)**: A measure of viable bacteria in a water sample. WHO standard for drinking water: 0 CFU/100 mL for E. coli.
-- **Potable water**: Water that is safe for human consumption — free of pathogens, toxic chemicals, and excessive turbidity. WHO Guidelines for Drinking-water Quality (4th ed.) define the standard.
 - **Biochar**: Charcoal produced by pyrolysis of biomass in low-oxygen conditions. When crushed and incorporated into a bio-sand filter, it enhances adsorption of dissolved organic compounds and improves taste.
+- **CFU (Colony-Forming Unit)**: A measure of viable bacteria in a water sample. WHO standard for drinking water: 0 CFU/100 mL for E. coli.
+- **Darcy's Law**: The equation governing fluid flow through porous media: Q = K x A x (dh/L). Predicts filter flow rate from sand properties, filter dimensions, and water head.
+- **Effective grain size (D10)**: The sieve opening that passes 10% of the sand sample by weight. For bio-sand filters: D10 = 0.15-0.35 mm.
+- **Hydraulic conductivity (K)**: A measure of how easily water flows through a porous medium (units: m/day). Fine sand: 1-5 m/day. Gravel: 100-1000 m/day.
+- **Log reduction**: A logarithmic measure of pathogen removal. 1 log = 90% removal, 2 log = 99%, 3 log = 99.9%. Bio-sand filters achieve 1-2 log for bacteria.
+- **NTU (Nephelometric Turbidity Unit)**: The standard unit of turbidity measurement. WHO guideline for drinking water: <1 NTU ideal, <4 NTU acceptable.
+- **Potable water**: Water that is safe for human consumption — free of pathogens, toxic chemicals, and excessive turbidity. WHO Guidelines for Drinking-water Quality (4th ed.) define the standard.
+- **Ripening**: The 10-14 day period during which the Schmutzdecke establishes itself in a new or recently disturbed filter. Filter output is NOT safe during ripening.
+- **Schmutzdecke** (Tamil: *உயிர்ப்படலம்*): The biologically active layer at the sand surface composed of bacteria, protozoa, algae, and extracellular polymeric substances. The primary pathogen removal mechanism in a bio-sand filter.
+- **SODIS (Solar Water Disinfection)**: A method of disinfecting water by exposing it to sunlight in clear PET bottles for 6+ hours. UV-A radiation and thermal inactivation kill pathogens. Recommended as a second barrier after bio-sand filtration.
+- **Turbidity**: The cloudiness of water caused by suspended particles. Measured in Nephelometric Turbidity Units (NTU). Clear water: <1 NTU. Visibly cloudy: >50 NTU.
 
 ---
 

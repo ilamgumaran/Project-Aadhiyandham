@@ -195,18 +195,18 @@ The five subsequent modules in this sub-section provide detailed construction an
 
 ## Vocabulary of the Foundation
 
-- **Fecal-Oral Transmission:** The pathway by which pathogens shed in one person's feces enter another person's mouth, causing infection. The dominant disease transmission mechanism in settlements without sanitation.
-- **WASH Triad:** Water, Sanitation, and Hygiene — the three simultaneous interventions required to break fecal-oral transmission. Addressing fewer than all three leaves transmission pathways open.
+- **Blackwater:** Wastewater containing human feces and urine. Requires thermophilic treatment before any agricultural use. The composting toilet system converts blackwater into a solid compost matrix for safe treatment.
+- **CFU (Colony-Forming Unit):** A unit of measurement for viable bacteria in a sample. Used to quantify contamination levels and treatment effectiveness. One CFU represents one bacterium capable of reproducing.
 - **Environmental Enteropathy:** Chronic, sub-clinical inflammation of the small intestine caused by repeated ingestion of fecal pathogens. Reduces nutrient absorption by 20-40% without producing overt diarrheal symptoms. A silent killer of child development.
+- **Fecal-Oral Transmission:** The pathway by which pathogens shed in one person's feces enter another person's mouth, causing infection. The dominant disease transmission mechanism in settlements without sanitation.
+- **Greywater:** Wastewater from washing, bathing, cooking, and laundry. Contains soap, food particles, and moderate levels of fecal indicator organisms, but not feces directly. Can be recycled for irrigation after simple filtration.
+- **Pathogen:** Any microorganism capable of causing disease in a host. In the water and sanitation context, the primary classes are bacteria (*Vibrio cholerae*, *Salmonella*, *Shigella*), viruses (hepatitis A, rotavirus), protozoa (*Giardia*, *Cryptosporidium*), and helminths (roundworm, hookworm, whipworm).
+- **Phosphorus Cycle:** The biogeochemical cycle of phosphorus through soil, plants, animals, and humans. In a closed-loop settlement, the cycle is: soil to crop to human to compost to soil. Any break in this cycle represents permanent fertility loss.
+- **Potable Water:** Water safe for human consumption. Must contain fewer than 1 CFU of *E. coli* per 100 mL (WHO standard). In practice, water that has passed through two independent treatment barriers.
 - **Schmutzdecke:** German for "dirty skin." The biological layer that forms at the top of a slow sand filter, consisting of bacteria, algae, protozoa, and organic matter. This living biofilm is the primary mechanism of pathogen removal in bio-sand filtration — not the sand itself.
 - **Thermophilic Composting:** Composting at sustained temperatures above 55 C, achieved through microbial metabolic heat in properly managed carbon-nitrogen mixtures. Destroys all human pathogens including helminth eggs, the most heat-resistant class.
-- **Phosphorus Cycle:** The biogeochemical cycle of phosphorus through soil, plants, animals, and humans. In a closed-loop settlement, the cycle is: soil to crop to human to compost to soil. Any break in this cycle represents permanent fertility loss.
-- **Greywater:** Wastewater from washing, bathing, cooking, and laundry. Contains soap, food particles, and moderate levels of fecal indicator organisms, but not feces directly. Can be recycled for irrigation after simple filtration.
-- **Blackwater:** Wastewater containing human feces and urine. Requires thermophilic treatment before any agricultural use. The composting toilet system converts blackwater into a solid compost matrix for safe treatment.
-- **Potable Water:** Water safe for human consumption. Must contain fewer than 1 CFU of *E. coli* per 100 mL (WHO standard). In practice, water that has passed through two independent treatment barriers.
 - **Turbidity:** The cloudiness of water caused by suspended particles. Measured in Nephelometric Turbidity Units (NTU). Potable water should be below 1 NTU. High turbidity reduces the effectiveness of UV disinfection and indicates possible contamination.
-- **CFU (Colony-Forming Unit):** A unit of measurement for viable bacteria in a sample. Used to quantify contamination levels and treatment effectiveness. One CFU represents one bacterium capable of reproducing.
-- **Pathogen:** Any microorganism capable of causing disease in a host. In the water and sanitation context, the primary classes are bacteria (*Vibrio cholerae*, *Salmonella*, *Shigella*), viruses (hepatitis A, rotavirus), protozoa (*Giardia*, *Cryptosporidium*), and helminths (roundworm, hookworm, whipworm).
+- **WASH Triad:** Water, Sanitation, and Hygiene — the three simultaneous interventions required to break fecal-oral transmission. Addressing fewer than all three leaves transmission pathways open.
 
 ---
 

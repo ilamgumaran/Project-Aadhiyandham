@@ -313,18 +313,18 @@ The lockdown does not end when the threat appears to have departed. It ends when
 
 ## Vocabulary of the Foundation
 
-* **Lockdown** — The activation of the full emergency retreat protocol, triggered by the lockdown signal, moving all personnel and critical supplies to the Safe Core.
-* **Safe Core** — The single most defensible structure in the settlement, designated as the community shelter during emergencies. Characterized by thick walls, a single barricaded entrance, ventilation, and pre-positioned supplies.
-* **Lockdown signal** — A unique, unambiguous auditory signal (continuous horn blast repeated three times) that triggers immediate lockdown. No other signal in the settlement sounds like this.
-* **Lockdown sequence** — The timed, rehearsed series of actions from signal activation (T+0:00) to sealed Safe Core (T+3:00), executed by personnel in their assigned roles.
-* **Shepherd** — A lockdown role responsible for physically guiding non-combatants (children, elderly, injured) to the Safe Core. Each Shepherd is paired with specific individuals by name.
-* **Barricader** — A lockdown role responsible for deploying pre-positioned barriers at assigned entry points, then falling back to the Safe Core.
-* **Supply Runner** — A lockdown role responsible for retrieving critical items (seed bank, medical kit, archive) and delivering them to the Safe Core.
-* **Fire Watch** — A lockdown role responsible for fire suppression at the Safe Core exterior using sand buckets and wet hides.
-* **Rear Guard** — The last personnel to enter the Safe Core. Responsible for headcount, roster confirmation, and sealing the entry. Authorized to make the final seal decision.
-* **Headcount** — The roster call conducted by the Rear Guard immediately after the Safe Core is sealed. Every name called, every response recorded.
 * **All-clear protocol** — The procedure for ending a lockdown, requiring two independent observers to confirm the threat has departed before the Safe Core is opened.
+* **Barricader** — A lockdown role responsible for deploying pre-positioned barriers at assigned entry points, then falling back to the Safe Core.
+* **Fire Watch** — A lockdown role responsible for fire suppression at the Safe Core exterior using sand buckets and wet hides.
+* **Headcount** — The roster call conducted by the Rear Guard immediately after the Safe Core is sealed. Every name called, every response recorded.
+* **Lockdown sequence** — The timed, rehearsed series of actions from signal activation (T+0:00) to sealed Safe Core (T+3:00), executed by personnel in their assigned roles.
+* **Lockdown signal** — A unique, unambiguous auditory signal (continuous horn blast repeated three times) that triggers immediate lockdown. No other signal in the settlement sounds like this.
+* **Lockdown** — The activation of the full emergency retreat protocol, triggered by the lockdown signal, moving all personnel and critical supplies to the Safe Core.
 * **Normalcy bias** — The psychological tendency to freeze and wait for social confirmation during an emergency rather than acting immediately. Countered by drill-based procedural memory.
+* **Rear Guard** — The last personnel to enter the Safe Core. Responsible for headcount, roster confirmation, and sealing the entry. Authorized to make the final seal decision.
+* **Safe Core** — The single most defensible structure in the settlement, designated as the community shelter during emergencies. Characterized by thick walls, a single barricaded entrance, ventilation, and pre-positioned supplies.
+* **Shepherd** — A lockdown role responsible for physically guiding non-combatants (children, elderly, injured) to the Safe Core. Each Shepherd is paired with specific individuals by name.
+* **Supply Runner** — A lockdown role responsible for retrieving critical items (seed bank, medical kit, archive) and delivering them to the Safe Core.
 
 ---
 

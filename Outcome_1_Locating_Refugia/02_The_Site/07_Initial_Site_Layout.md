@@ -340,29 +340,18 @@ These are the five most frequent and most consequential errors in settlement lay
 
 ## Vocabulary of the Foundation
 
-- **Permaculture Zone:** A spatial classification system that organizes settlement elements into concentric bands (Zone 0 through Zone 5) based on the frequency of human interaction required. Elements needing constant attention are placed in inner zones; elements needing minimal attention are placed in outer zones.
-
-- **Sector Analysis:** The mapping of external energy flows (sun, wind, water, fire, wildlife) across a site as directional pie-slices radiating from the settlement center. Each sector is managed by blocking, channeling, or harvesting the energy it carries.
-
-- **Keyline:** A cultivation or earthwork line oriented slightly off-contour, running from a valley toward a ridge, designed to redistribute water laterally across a slope. Keyline orientation moves water from wet areas to dry areas, evening out soil moisture.
-
-- **Keypoint:** The specific point on a primary valley where the ridge profile transitions from convex (water-shedding) to concave (water-collecting). The keypoint is the optimal location for water storage infrastructure because it is the highest point from which gravity will distribute water across the maximum land area.
-
-- **Caloric Geometry:** The quantitative analysis of settlement layout in terms of human energy expenditure. Every meter of walking costs a calculable number of calories; layout optimization seeks to minimize total daily caloric expenditure on movement.
-
-- **Gravity-Water Axis:** The non-negotiable principle that water collection must be upslope of habitation and sanitation must be downslope, ensuring that the flow of water through the settlement follows gravity and never carries contamination toward the water source.
-
-- **Coppice:** A woodland management technique in which trees are cut near the base and allowed to regrow from the stump. Coppiced trees produce poles, fuel wood, and construction material on 5-20 year rotation cycles without requiring replanting. Common coppice species include hazel, willow, chestnut, and oak.
-
-- **Swale:** A shallow, level-bottomed trench dug on or near contour to intercept surface water runoff, slow it, and allow it to infiltrate the soil. Swales recharge groundwater, reduce erosion, and create moist planting zones on their downslope berms.
-
-- **Greywater:** Wastewater from kitchen sinks, washing, and bathing that does not contain fecal matter. Greywater can be safely used for garden irrigation after basic filtration (grease trap and sand filter). It contains nutrients (phosphorus, nitrogen from soap and food residues) beneficial to plants.
-
 - **Blackwater:** Wastewater containing fecal matter and urine from latrines. Blackwater must be treated through composting, anaerobic digestion, or constructed wetlands before any contact with food production areas. Untreated blackwater is the primary vector for waterborne disease.
-
-- **Principia (Roman Camp Center):** The central headquarters building of a Roman military camp (castrum), analogous to Zone 0 in the permaculture model. The principia housed the command staff, the standards, and the treasury — the most critical and most frequently accessed elements of the camp.
-
+- **Caloric Geometry:** The quantitative analysis of settlement layout in terms of human energy expenditure. Every meter of walking costs a calculable number of calories; layout optimization seeks to minimize total daily caloric expenditure on movement.
+- **Coppice:** A woodland management technique in which trees are cut near the base and allowed to regrow from the stump. Coppiced trees produce poles, fuel wood, and construction material on 5-20 year rotation cycles without requiring replanting. Common coppice species include hazel, willow, chestnut, and oak.
 - **Energy Audit:** A quantitative assessment of total daily caloric expenditure on movement within a settlement, calculated by summing the walking distances and trip frequencies for all members to all facilities. Used to compare alternative layouts and identify placement inefficiencies.
+- **Gravity-Water Axis:** The non-negotiable principle that water collection must be upslope of habitation and sanitation must be downslope, ensuring that the flow of water through the settlement follows gravity and never carries contamination toward the water source.
+- **Greywater:** Wastewater from kitchen sinks, washing, and bathing that does not contain fecal matter. Greywater can be safely used for garden irrigation after basic filtration (grease trap and sand filter). It contains nutrients (phosphorus, nitrogen from soap and food residues) beneficial to plants.
+- **Keyline:** A cultivation or earthwork line oriented slightly off-contour, running from a valley toward a ridge, designed to redistribute water laterally across a slope. Keyline orientation moves water from wet areas to dry areas, evening out soil moisture.
+- **Keypoint:** The specific point on a primary valley where the ridge profile transitions from convex (water-shedding) to concave (water-collecting). The keypoint is the optimal location for water storage infrastructure because it is the highest point from which gravity will distribute water across the maximum land area.
+- **Permaculture Zone:** A spatial classification system that organizes settlement elements into concentric bands (Zone 0 through Zone 5) based on the frequency of human interaction required. Elements needing constant attention are placed in inner zones; elements needing minimal attention are placed in outer zones.
+- **Principia (Roman Camp Center):** The central headquarters building of a Roman military camp (castrum), analogous to Zone 0 in the permaculture model. The principia housed the command staff, the standards, and the treasury — the most critical and most frequently accessed elements of the camp.
+- **Sector Analysis:** The mapping of external energy flows (sun, wind, water, fire, wildlife) across a site as directional pie-slices radiating from the settlement center. Each sector is managed by blocking, channeling, or harvesting the energy it carries.
+- **Swale:** A shallow, level-bottomed trench dug on or near contour to intercept surface water runoff, slow it, and allow it to infiltrate the soil. Swales recharge groundwater, reduce erosion, and create moist planting zones on their downslope berms.
 
 ---
 

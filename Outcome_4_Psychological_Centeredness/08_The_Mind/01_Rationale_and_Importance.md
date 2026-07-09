@@ -346,19 +346,19 @@ The most common underlying cause is unmet basic needs — food scarcity, water p
 ## Vocabulary of the Foundation
 
 - **Centered Null** — the balanced DMN-TPN state of calm, curiosity, and present-focus that constitutes the psychological baseline of the settlement
-- **Default Mode Network (DMN)** — brain network active during rest, self-reflection, and future planning; hyperactivity produces rumination and anxiety
-- **Task-Positive Network (TPN)** — brain network active during focused tasks and present-moment engagement; inversely correlated with DMN
-- **Wanting system (mesolimbic dopamine)** — neurological system producing seeking behavior, anticipation, and craving; does not produce satisfaction
-- **Liking system (opioid/endocannabinoid)** — neurological system producing enjoyment of present experience, mastery, and social connection; produces satisfaction
-- **Temporal sovereignty** — the reclaimed subjective experience of time through removal of external deadlines, alignment with natural cycles, and present-moment practice
-- **E-Prime** — English without any form of "to be"; forces observational rather than absolutist language
-- **Social permaculture** — the design of self-regulating, resilient social systems using permaculture principles
-- **Dunbar's Number** — the cognitive limit (~150) on stable social relationships maintainable through personal knowledge
-- **Restorative architecture** — environmental design that supports neurological calm through light, space, acoustics, and natural materials
-- **Observational language** — speech that describes events and perspectives rather than assigning identity categories
-- **Hedonic treadmill** — the tendency for satisfaction to return to baseline after goal achievement, driving perpetual escalation of goals
-- **Psychological infrastructure** — the systems (linguistic, architectural, temporal, social) that maintain the Centered Null
 - **Daily rhythm** — the structured alternation of focused work, social connection, practice, and rest that sustains psychological centeredness
+- **Default Mode Network (DMN)** — brain network active during rest, self-reflection, and future planning; hyperactivity produces rumination and anxiety
+- **Dunbar's Number** — the cognitive limit (~150) on stable social relationships maintainable through personal knowledge
+- **E-Prime** — English without any form of "to be"; forces observational rather than absolutist language
+- **Hedonic treadmill** — the tendency for satisfaction to return to baseline after goal achievement, driving perpetual escalation of goals
+- **Liking system (opioid/endocannabinoid)** — neurological system producing enjoyment of present experience, mastery, and social connection; produces satisfaction
+- **Observational language** — speech that describes events and perspectives rather than assigning identity categories
+- **Psychological infrastructure** — the systems (linguistic, architectural, temporal, social) that maintain the Centered Null
+- **Restorative architecture** — environmental design that supports neurological calm through light, space, acoustics, and natural materials
+- **Social permaculture** — the design of self-regulating, resilient social systems using permaculture principles
+- **Task-Positive Network (TPN)** — brain network active during focused tasks and present-moment engagement; inversely correlated with DMN
+- **Temporal sovereignty** — the reclaimed subjective experience of time through removal of external deadlines, alignment with natural cycles, and present-moment practice
+- **Wanting system (mesolimbic dopamine)** — neurological system producing seeking behavior, anticipation, and craving; does not produce satisfaction
 
 ---
 

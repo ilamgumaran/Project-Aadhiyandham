@@ -295,28 +295,17 @@ The following calculations allow a settlement to plan its humanure compost progr
 
 ## Vocabulary of the Foundation
 
-**Terra Preta** — Anthropogenic dark earth soils of the Amazon basin, created by pre-Columbian civilizations through deliberate addition of charcoal and organic waste. The model for permanent soil fertility building.
-
-**Biochar** — Charcoal produced by pyrolysis (thermal decomposition in low-oxygen conditions) and used as a soil amendment rather than fuel. Distinguished from ordinary charcoal by its intended use and production method.
-
-**Cation Exchange Capacity (CEC)** — A measure of a soil's ability to hold and release positively charged nutrient ions. Higher CEC means better nutrient retention and slower leaching loss.
-
-**Phosphorus Cycle** — The biogeochemical cycle describing the movement of phosphorus through the lithosphere, hydrosphere, and biosphere. Uniquely among major nutrient cycles, it has no significant atmospheric component.
-
-**Inoculation (Charging)** — The process of pre-loading biochar with nutrients and microorganisms by soaking in compost or compost tea before soil application. Converts inert biochar into biologically active soil amendment.
-
-**Compost Tea** — A liquid extract produced by steeping mature compost in water. Contains dissolved nutrients and suspended microorganisms for liquid soil application.
-
 **Bio-Assay** — A test using living organisms (in this context, germinating seeds) to detect the presence of toxic or inhibitory substances in compost or soil.
-
-**Phytotoxicity** — The property of a substance being toxic to plants. Immature compost is phytotoxic due to elevated ammonia and organic acid concentrations.
-
-**Leaching** — The downward movement of dissolved nutrients through the soil profile by percolating water, carrying them below the root zone where they are unavailable to plants and may contaminate groundwater.
-
+**Biochar** — Charcoal produced by pyrolysis (thermal decomposition in low-oxygen conditions) and used as a soil amendment rather than fuel. Distinguished from ordinary charcoal by its intended use and production method.
+**Cation Exchange Capacity (CEC)** — A measure of a soil's ability to hold and release positively charged nutrient ions. Higher CEC means better nutrient retention and slower leaching loss.
+**Compost Tea** — A liquid extract produced by steeping mature compost in water. Contains dissolved nutrients and suspended microorganisms for liquid soil application.
 **Green Manure** — A crop (typically a legume) grown specifically to be incorporated into the soil as a fertility-building measure rather than harvested for food.
-
+**Inoculation (Charging)** — The process of pre-loading biochar with nutrients and microorganisms by soaking in compost or compost tea before soil application. Converts inert biochar into biologically active soil amendment.
+**Leaching** — The downward movement of dissolved nutrients through the soil profile by percolating water, carrying them below the root zone where they are unavailable to plants and may contaminate groundwater.
+**Phosphorus Cycle** — The biogeochemical cycle describing the movement of phosphorus through the lithosphere, hydrosphere, and biosphere. Uniquely among major nutrient cycles, it has no significant atmospheric component.
+**Phytotoxicity** — The property of a substance being toxic to plants. Immature compost is phytotoxic due to elevated ammonia and organic acid concentrations.
+**Terra Preta** — Anthropogenic dark earth soils of the Amazon basin, created by pre-Columbian civilizations through deliberate addition of charcoal and organic waste. The model for permanent soil fertility building.
 **Top-Dressing** — The application of compost or other amendment to the soil surface without incorporation by digging or plowing.
-
 **Trench Composting** — The burial of organic amendment in a subsurface trench, creating a concentrated nutrient layer that plant roots grow into from above.
 
 ---

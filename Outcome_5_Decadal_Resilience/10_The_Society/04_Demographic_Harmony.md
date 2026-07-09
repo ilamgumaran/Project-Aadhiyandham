@@ -331,22 +331,21 @@ The census is conducted each year at a fixed date — midwinter is traditional, 
 
 ## Vocabulary of the Foundation
 
-- **Carrying Capacity (K)**: the maximum population a given land area can support indefinitely without degrading the resource base
-- **Liebig's Law of the Minimum**: the principle that growth is limited by the scarcest essential resource, not the total of all resources
-- **Demographic Transition**: the shift from high birth/high death rates (pre-industrial equilibrium) to low birth/low death rates (modern equilibrium), with a dangerous intervening period of high growth
-- **Malthusian Check**: the restoration of population-resource balance through increased mortality (famine, disease, conflict) when population exceeds carrying capacity
-- **Exponential Growth**: growth at a constant percentage rate, producing a doubling pattern (2, 4, 8, 16) rather than linear increase (2, 3, 4, 5)
-- **Doubling Time**: the time required for a population to double at a given growth rate, calculated as ln(2)/r or approximately 0.693/r
-- **Dependency Ratio**: the ratio of non-working-age dependents (children + elderly) to working-age adults; a measure of productive burden
-- **Lactational Amenorrhea**: the suppression of ovulation caused by frequent, exclusive breastfeeding; the biological basis of the LAM method
-- **Symptothermal Method**: a fertility awareness method combining basal body temperature, cervical mucus observation, and calendar calculation to identify fertile and infertile phases
-- **Emmenagogue**: a substance that stimulates uterine contractions and induces menstruation; used historically as a post-conception fertility management tool
-- **Minimum Viable Population**: the smallest population size that can sustain itself genetically and demographically over the long term
 - **50/500 Rule**: the population genetics guideline that 50 individuals are needed to avoid short-term inbreeding depression and 500 for long-term genetic diversity
-- **Demographic Census**: an annual count of every community member by age and sex, providing the data foundation for population projection and planning
 - **Buffer Principle**: the practice of maintaining population at 75% or less of calculated carrying capacity to absorb shocks (drought, crop failure, refugee intake)
+- **Carrying Capacity (K)**: the maximum population a given land area can support indefinitely without degrading the resource base
+- **Demographic Census**: an annual count of every community member by age and sex, providing the data foundation for population projection and planning
+- **Demographic Transition**: the shift from high birth/high death rates (pre-industrial equilibrium) to low birth/low death rates (modern equilibrium), with a dangerous intervening period of high growth
+- **Dependency Ratio**: the ratio of non-working-age dependents (children + elderly) to working-age adults; a measure of productive burden
+- **Doubling Time**: the time required for a population to double at a given growth rate, calculated as ln(2)/r or approximately 0.693/r
+- **Emmenagogue**: a substance that stimulates uterine contractions and induces menstruation; used historically as a post-conception fertility management tool
+- **Exponential Growth**: growth at a constant percentage rate, producing a doubling pattern (2, 4, 8, 16) rather than linear increase (2, 3, 4, 5)
 - **Fertility Awareness**: the knowledge and practice of identifying fertile and infertile phases of the menstrual cycle for the purpose of achieving or avoiding pregnancy
-
+- **Lactational Amenorrhea**: the suppression of ovulation caused by frequent, exclusive breastfeeding; the biological basis of the LAM method
+- **Liebig's Law of the Minimum**: the principle that growth is limited by the scarcest essential resource, not the total of all resources
+- **Malthusian Check**: the restoration of population-resource balance through increased mortality (famine, disease, conflict) when population exceeds carrying capacity
+- **Minimum Viable Population**: the smallest population size that can sustain itself genetically and demographically over the long term
+- **Symptothermal Method**: a fertility awareness method combining basal body temperature, cervical mucus observation, and calendar calculation to identify fertile and infertile phases
 
 ## Cross-References
 

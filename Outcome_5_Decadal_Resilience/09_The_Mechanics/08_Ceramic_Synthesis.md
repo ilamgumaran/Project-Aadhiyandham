@@ -328,21 +328,21 @@ Cause: Thermal expansion mismatch between the glaze and the clay body. If the gl
 
 ## Vocabulary of the Foundation
 
-- **Kaolinite**: The most common clay mineral, Al2Si2O5(OH)4, composed of alternating layers of silica tetrahedra and alumina octahedra that give clay its plate-like particle structure.
-- **Plasticity**: The property of wet clay that allows it to be deformed without cracking and to retain its new shape. Caused by water films between plate-like clay particles.
-- **Wedging**: A systematic kneading technique (spiral or ram's-head method) used to homogenize the clay body and expel trapped air bubbles before forming.
-- **Slip**: Clay mixed with water to a pourable liquid consistency, used as a joining agent (scoring and slipping), a surface coating, or the basis for glaze formulation.
-- **Engobe**: A slip with added colorants or flux, applied to the surface of an unfired or bisque-fired vessel for decorative or functional effect.
-- **Temper**: Non-plastic material (sand, grog, shell, fiber) added to clay to reduce shrinkage, improve workability, and increase thermal shock resistance in the fired ware.
-- **Grog**: Crushed, previously fired ceramic (also called crusite), ground to sand-grain size and used as temper. The ideal temper material because its thermal expansion matches the clay body.
+- **Bisque**: A preliminary low-temperature firing (600-700 degrees Celsius) that hardens unfired ware enough to handle and makes it porous enough to absorb glaze before the final glaze firing.
 - **Bone Dry**: The state of an unfired vessel from which all free and pore water has evaporated. A bone-dry pot feels room temperature, not cool, against the skin.
+- **Dunting**: Cracking caused by thermal stress during cooling, specifically the contraction at the reverse quartz inversion (573 degrees Celsius) when the vessel cools too rapidly.
+- **Engobe**: A slip with added colorants or flux, applied to the surface of an unfired or bisque-fired vessel for decorative or functional effect.
+- **Glaze**: A glass coating applied to a ceramic surface and fused by firing, composed of flux, alumina, and silica in balanced proportion. Renders the vessel waterproof and can be food-safe.
+- **Grog**: Crushed, previously fired ceramic (also called crusite), ground to sand-grain size and used as temper. The ideal temper material because its thermal expansion matches the clay body.
+- **Kaolinite**: The most common clay mineral, Al2Si2O5(OH)4, composed of alternating layers of silica tetrahedra and alumina octahedra that give clay its plate-like particle structure.
+- **Kiln**: An enclosed structure designed to contain and control the heat of firing, achieving higher, more uniform, and more repeatable temperatures than open or pit firing.
+- **Plasticity**: The property of wet clay that allows it to be deformed without cracking and to retain its new shape. Caused by water films between plate-like clay particles.
 - **Quartz Inversion**: The sudden crystallographic phase change of silica (SiO2) from alpha-quartz to beta-quartz at 573 degrees Celsius, accompanied by an approximately 2% volume change that can crack vessels if heating or cooling is too rapid.
 - **Sintering**: The process by which clay particles fuse at their points of contact under sustained heat (above 600 degrees Celsius), creating a rigid, permanent ceramic matrix without fully melting.
+- **Slip**: Clay mixed with water to a pourable liquid consistency, used as a joining agent (scoring and slipping), a surface coating, or the basis for glaze formulation.
+- **Temper**: Non-plastic material (sand, grog, shell, fiber) added to clay to reduce shrinkage, improve workability, and increase thermal shock resistance in the fired ware.
 - **Vitrification**: The progressive formation of a glass phase within the clay body at high temperatures (above 1200 degrees Celsius), filling pores and producing a dense, nearly waterproof ceramic.
-- **Bisque**: A preliminary low-temperature firing (600-700 degrees Celsius) that hardens unfired ware enough to handle and makes it porous enough to absorb glaze before the final glaze firing.
-- **Kiln**: An enclosed structure designed to contain and control the heat of firing, achieving higher, more uniform, and more repeatable temperatures than open or pit firing.
-- **Glaze**: A glass coating applied to a ceramic surface and fused by firing, composed of flux, alumina, and silica in balanced proportion. Renders the vessel waterproof and can be food-safe.
-- **Dunting**: Cracking caused by thermal stress during cooling, specifically the contraction at the reverse quartz inversion (573 degrees Celsius) when the vessel cools too rapidly.
+- **Wedging**: A systematic kneading technique (spiral or ram's-head method) used to homogenize the clay body and expel trapped air bubbles before forming.
 
 ## Cross-References
 

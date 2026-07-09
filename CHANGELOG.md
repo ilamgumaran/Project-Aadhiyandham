@@ -7,6 +7,17 @@ The format is based on [Keep a Changelog](https://keepachangelog.com/), and this
 ## [Unreleased]
 
 ### Added
+- **Journey Scenarios & Contingencies (01/12):** new 5-module section pressure-testing the journey itself
+  - Rationale (plan-continuation bias, the scenario method), Party Composition Playbooks (solo / able adults / children / elders, decision protocols)
+  - Field Repair and Material Tiers (kit / scavenge / landscape doctrine), Low-Profile Travel and Encounter Protocols (avoidance-first security, checkpoint ladder)
+  - Arrival Protocol: The First 72 Hours (verification before commitment, priority ladder, interim perimeter)
+- **Raja Yoga: The Inner Laboratory (08/06):** Vivekananda's eight-limbed program presented as first-person experiment, never doctrine — the freed-attention and boredom answer
+- **WHAT_IF_INDEX.md:** root-level searchable "what if X goes wrong?" index spanning all phases (preparation → journey → arrival → first year → decade → the mind)
+- **pressure_test_report.md:** unbiased red-team audit of the whole plan — scenario spectrum, phase-by-phase findings, overclaim audit, single points of failure, open ledger
+
+### Changed
+- Renamed `10_Transport_Technology_Lifecycle.md` to `11_Transport_Technology_Lifecycle.md` (resolved numbering collision with 10_Maritime_and_Riverine_Sovereignty/)
+- Nav bar and index now link the What-If Index and Pressure Test report
 - **Outcome 3 expansion:** 6 new modules across Active Threat Response (07a) and Animal Coexistence Protocols (07b)
   - Nightwatch and Rotation Protocols, De-escalation and Non-Lethal Deterrence, Emergency Lockdown Procedures
   - Large Predator Management, Crop Raider Defense, Livestock Guardian Systems
@@ -35,3 +46,13 @@ The format is based on [Keep a Changelog](https://keepachangelog.com/), and this
 - **Supporting documents:** README, Vision and Outcomes, DEPENDENCIES.md, MODULE_TEMPLATE.md, Glossary, Master Report, Settler's Summary
 - **Audio:** Aadhiyandham podcast (MP3)
 - GNU GPLv3 License
+
+## Glossary Reference
+
+*See [Glossary.md](Glossary.md) for full definitions of:*
+
+*   **Crop Raider**
+*   **Pathogen**
+*   **Pyrolysis**
+*   **Refugia**
+

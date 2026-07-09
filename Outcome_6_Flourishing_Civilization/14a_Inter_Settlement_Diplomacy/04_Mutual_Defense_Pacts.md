@@ -354,21 +354,21 @@ Three standardized scenarios cover the range of threats that allied settlements 
 
 ## Vocabulary of the Foundation
 
-- **Defense Charter:** A written, bilateral agreement specifying the triggers, obligations, limits, and withdrawal terms of mutual defense between autonomous settlements.
+- **After-Action Review:** A structured post-exercise or post-incident analysis identifying what worked, what failed, and what must change before the next activation.
+- **Assurance Game (Stag Hunt):** A game-theoretic model in which cooperation yields the highest payoff but requires mutual confidence that all parties will cooperate; the core strategic structure of any mutual defense pact.
 - **Buffer Zone:** The uninhabited territory between allied settlements, jointly patrolled to provide early warning of external threats.
+- **Collective Security:** The principle that an attack on one alliance member is treated as an attack on all, multiplying the defensive capacity available to any single settlement.
+- **Confederation:** A loose governance structure that may emerge organically from sustained defense and trade cooperation among 3-5 settlements, handling only inter-settlement matters by consensus.
+- **Defense Charter:** A written, bilateral agreement specifying the triggers, obligations, limits, and withdrawal terms of mutual defense between autonomous settlements.
+- **Extraction Route:** A pre-planned path for evacuating non-combatants from a besieged settlement to an allied settlement, scouted and marked in advance.
+- **Graduated Response:** The mandatory sequence of verbal warning, non-lethal deterrence, physical interdiction, and lethal force (last resort) applied to all defensive engagements.
+- **Heliograph:** A signaling device using reflected sunlight from a polished metal surface, effective at 15-20 km range in clear conditions.
+- **Observer Rotation:** The practice of sending one settlement member to live in an allied settlement for a fixed period, building personal trust and verifying alliance readiness.
+- **Pact Review:** The annual formal assessment of alliance health, conducted at the solstice meeting, covering signal readiness, patrol compliance, incident handling, and membership changes.
 - **Relief Force:** A group of 5+ able-bodied adults dispatched by an allied settlement in response to a triple-beacon alarm, operating under the defending settlement's command.
 - **Signal Relay Station:** A hilltop or elevated position equipped with heliograph and fire-beacon materials, staffed or checked daily, forming a chain of communication between settlements.
 - **Token Verification:** A physical object (carved wood or bone, unique to each settlement) carried by a runner to confirm the authenticity of a triple-beacon alarm signal.
-- **Graduated Response:** The mandatory sequence of verbal warning, non-lethal deterrence, physical interdiction, and lethal force (last resort) applied to all defensive engagements.
-- **Assurance Game (Stag Hunt):** A game-theoretic model in which cooperation yields the highest payoff but requires mutual confidence that all parties will cooperate; the core strategic structure of any mutual defense pact.
 - **Trophic Deterrence:** The principle that visible, tested defense cooperation raises the cost of aggression beyond the expected benefit, deterring rational attackers without combat.
-- **Collective Security:** The principle that an attack on one alliance member is treated as an attack on all, multiplying the defensive capacity available to any single settlement.
-- **Heliograph:** A signaling device using reflected sunlight from a polished metal surface, effective at 15-20 km range in clear conditions.
-- **Observer Rotation:** The practice of sending one settlement member to live in an allied settlement for a fixed period, building personal trust and verifying alliance readiness.
-- **After-Action Review:** A structured post-exercise or post-incident analysis identifying what worked, what failed, and what must change before the next activation.
-- **Extraction Route:** A pre-planned path for evacuating non-combatants from a besieged settlement to an allied settlement, scouted and marked in advance.
-- **Confederation:** A loose governance structure that may emerge organically from sustained defense and trade cooperation among 3-5 settlements, handling only inter-settlement matters by consensus.
-- **Pact Review:** The annual formal assessment of alliance health, conducted at the solstice meeting, covering signal readiness, patrol compliance, incident handling, and membership changes.
 
 ---
 

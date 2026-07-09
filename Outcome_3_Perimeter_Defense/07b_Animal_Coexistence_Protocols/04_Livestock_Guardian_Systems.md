@@ -346,20 +346,20 @@ The guardian animal provides the immediate response layer: detection within seco
 
 ## Vocabulary of the Foundation
 
-* **Livestock Guardian Dog (LGD):** A dog breed specifically selected and raised to bond with and protect livestock. Distinct from herding dogs, which move livestock on human command. The guardian stays with the flock; the herding dog drives the flock.
-* **Guardian Bonding:** The process by which a guardian animal forms its primary social attachment to the livestock it will protect, achieved by placing the animal with livestock during the critical socialization window.
-* **Critical Socialization Window:** The developmental period during which a young animal is neurologically primed to form primary social bonds. For canids: 3-16 weeks. For equids: 1-4 weeks post-introduction.
 * **Attentiveness:** The guardian trait of constant awareness of the flock's location, movement, and behavioral state.
-* **Trustworthiness:** The guardian trait of non-aggression toward protected livestock — no chasing, rough play, or predatory behavior directed at the flock.
-* **Protectiveness:** The guardian trait of positioning between the flock and perceived threats, escalating from alert posture to vocalization to physical confrontation.
-* **Working Line:** A breeding lineage selected for functional performance (livestock guarding) rather than appearance, show conformation, or pet temperament.
-* **Imprinting:** The neurological process by which a young animal forms its primary social identity during a critical developmental window (Lorenz, 1935).
-* **Free-Range Imperative:** The principle that guardian animals must be free-roaming within the livestock enclosure at all times — never chained, tied, or confined away from the flock.
-* **Guardian-Predator Interaction:** The behavioral dynamic between a guardian animal and an approaching predator, governed by the predator's risk-reward assessment and the guardian's escalation sequence.
-* **Sentinel Behavior:** The guardian's posture of elevated alertness — head raised, ears forward, body oriented toward the perimeter — adopted in response to potential threats.
 * **Biological Security Layer:** A living, autonomous defense system that operates without human direction, electrical power, or mechanical input.
+* **Critical Socialization Window:** The developmental period during which a young animal is neurologically primed to form primary social bonds. For canids: 3-16 weeks. For equids: 1-4 weeks post-introduction.
 * **Donkey Guardian:** A single donkey deployed with a livestock flock as a guardian, exploiting the species' instinctive aggression toward canids.
+* **Free-Range Imperative:** The principle that guardian animals must be free-roaming within the livestock enclosure at all times — never chained, tied, or confined away from the flock.
+* **Guardian Bonding:** The process by which a guardian animal forms its primary social attachment to the livestock it will protect, achieved by placing the animal with livestock during the critical socialization window.
+* **Guardian-Predator Interaction:** The behavioral dynamic between a guardian animal and an approaching predator, governed by the predator's risk-reward assessment and the guardian's escalation sequence.
+* **Imprinting:** The neurological process by which a young animal forms its primary social identity during a critical developmental window (Lorenz, 1935).
+* **Livestock Guardian Dog (LGD):** A dog breed specifically selected and raised to bond with and protect livestock. Distinct from herding dogs, which move livestock on human command. The guardian stays with the flock; the herding dog drives the flock.
+* **Protectiveness:** The guardian trait of positioning between the flock and perceived threats, escalating from alert posture to vocalization to physical confrontation.
+* **Sentinel Behavior:** The guardian's posture of elevated alertness — head raised, ears forward, body oriented toward the perimeter — adopted in response to potential threats.
 * **Successor Training:** The process of introducing a new guardian puppy while the existing guardian is still active, allowing social learning and ensuring continuous flock protection across guardian generations.
+* **Trustworthiness:** The guardian trait of non-aggression toward protected livestock — no chasing, rough play, or predatory behavior directed at the flock.
+* **Working Line:** A breeding lineage selected for functional performance (livestock guarding) rather than appearance, show conformation, or pet temperament.
 
 ---
 

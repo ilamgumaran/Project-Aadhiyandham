@@ -192,20 +192,20 @@ When navigating to a point on a linear feature (e.g., a bridge on a river), do N
 
 ## Vocabulary of the Foundation
 
-*   **Baseplate Compass:** A compass mounted on a transparent rectangular plate with a rotating bezel, designed for map navigation.
-*   **Bezel:** The rotating graduated ring on a compass, marked 0-360 degrees.
-*   **Bearing:** The clockwise angle from North to a target direction, in degrees.
-*   **Back-Bearing:** The reverse of a bearing — exactly 180° opposite. If the bearing to a landmark is 045°, the back-bearing (from the landmark to you) is 225°.
-*   **Magnetic Declination:** The angular difference between True North and Magnetic North at a given location.
-*   **Grid Bearing:** A bearing measured relative to Grid North (the map's north-south lines).
-*   **Magnetic Bearing:** A bearing measured relative to Magnetic North (what the compass actually reads).
-*   **Resection:** Fixing your position by taking bearings to known landmarks and plotting back-bearings on the map.
 *   **Aiming Off:** Deliberately navigating slightly to one side of a target on a linear feature, so you know which way to turn upon reaching the feature.
+*   **Back-Bearing:** The reverse of a bearing — exactly 180° opposite. If the bearing to a landmark is 045°, the back-bearing (from the landmark to you) is 225°.
+*   **Baseplate Compass:** A compass mounted on a transparent rectangular plate with a rotating bezel, designed for map navigation.
+*   **Bearing:** The clockwise angle from North to a target direction, in degrees.
+*   **Bezel:** The rotating graduated ring on a compass, marked 0-360 degrees.
+*   **Catching Feature:** A large, unmissable feature that signals you have gone too far past your destination.
+*   **Grid Bearing:** A bearing measured relative to Grid North (the map's north-south lines).
+*   **Handrail:** A long linear feature (river, ridge, road) followed to maintain direction without constant compass reference.
+*   **Index Contour:** Every fifth contour line, drawn thicker and labeled with elevation.
+*   **Magnetic Bearing:** A bearing measured relative to Magnetic North (what the compass actually reads).
+*   **Magnetic Declination:** The angular difference between True North and Magnetic North at a given location.
 *   **Pace Count:** The number of double-paces (e.g., left-right-left = one count) per 100 meters. Used to estimate distance walked.
 *   **Ranger Beads:** A cord with sliding beads, used to track pace counts mechanically. Typically 9 beads for hundreds of meters and 4 beads for kilometers.
-*   **Handrail:** A long linear feature (river, ridge, road) followed to maintain direction without constant compass reference.
-*   **Catching Feature:** A large, unmissable feature that signals you have gone too far past your destination.
-*   **Index Contour:** Every fifth contour line, drawn thicker and labeled with elevation.
+*   **Resection:** Fixing your position by taking bearings to known landmarks and plotting back-bearings on the map.
 
 ---
 

@@ -233,20 +233,20 @@ Every move must be logged. For each paddock, record the date the herd entered, t
 
 ## Vocabulary of the Foundation
 
-- **Biological Nutrient Processor**: A framing of livestock as the engine that converts inedible biomass into mobile, deposited fertility and ecosystem impact, rather than as mere consumers of feed.
+- **30-day recovery rule**: The protocol of leaving each paddock empty for at least 30 days after grazing so plant root mass fully rebuilds before the next graze.
 - **Animal Unit (AU)**: The standard reference for forage demand, defined as one mature 450 kg (1,000 lb) cow = 1.0 AU; all other species are expressed relative to it (mule/horse 1.2, pig 0.2, sheep/goat 0.2 each).
 - **Animal Unit Month (AUM)**: The amount of forage one AU requires for one month, approximately 360 kg of dry matter; used to measure both herd demand and land yield (AUM per hectare).
+- **Biological Nutrient Processor**: A framing of livestock as the engine that converts inedible biomass into mobile, deposited fertility and ecosystem impact, rather than as mere consumers of feed.
 - **Carrying capacity**: The number of animals the whole land can support over a full year without degradation; an annual-average property of the land.
-- **Stocking density**: The number of animals in one specific paddock at a given moment; deliberately run high for short pulses while staying within annual carrying capacity.
-- **Rotational grazing**: Moving the herd between paddocks on a planned schedule so each paddock receives a short, intense graze followed by a long rest.
 - **Grazing pulse**: The rhythm of intense, concentrated impact followed by long recovery that mimics wild herds driven by predators; the core of Holistic Planned Grazing.
-- **30-day recovery rule**: The protocol of leaving each paddock empty for at least 30 days after grazing so plant root mass fully rebuilds before the next graze.
 - **High Impact**: Concentrating animals at high density for a short time so they graze evenly and trample manure and urine into the soil, breaking crusts and pressing in seed.
-- **Take half, leave half**: The move-trigger rule — relocate the herd once 50% of available forage is eaten, preserving leaf area for regrowth.
-- **Silvopasture**: The intentional integration of trees and grazing on the same land.
-- **Wide-row layout**: Fodder-tree rows spaced 10-15 m apart and oriented East-West so alley forage retains full sunlight.
 - **Pugging**: Destructive hoof holes punched into saturated soil, ruining structure and forage.
+- **Rotational grazing**: Moving the herd between paddocks on a planned schedule so each paddock receives a short, intense graze followed by a long rest.
+- **Silvopasture**: The intentional integration of trees and grazing on the same land.
+- **Stocking density**: The number of animals in one specific paddock at a given moment; deliberately run high for short pulses while staying within annual carrying capacity.
+- **Take half, leave half**: The move-trigger rule — relocate the herd once 50% of available forage is eaten, preserving leaf area for regrowth.
 - **The Shepherd's Ledger**: The logbook of every paddock move and rest-day count; the primary metric for raising settlement carrying capacity over decades.
+- **Wide-row layout**: Fodder-tree rows spaced 10-15 m apart and oriented East-West so alley forage retains full sunlight.
 
 ---
 

@@ -298,19 +298,13 @@ The 50% Rule from Module 01.03 applies: when calculating family transit speed, a
 
 ## Vocabulary of the Foundation
 
-- **Sovereignty Kit** — The complete ensemble of tools, seeds, medical supplies, and reference materials required to establish a self-sustaining settlement. Named for its purpose: enabling a group to operate without external supply chains.
-
-- **Irreplaceability Hierarchy** — The ranking of carried items by the difficulty of manufacturing them from raw materials. High-carbon steel and optical glass rank highest (require industrial infrastructure). Wooden handles and cordage rank lowest (producible from forest materials within hours).
-
-- **Tool Leverage** — The ratio of a tool's utility over its operational lifetime to its carried weight. A ferrocerium rod (50 g, 12,000 strikes) has extreme tool leverage. A second set of clothing (1.5 kg, marginal comfort benefit) has low tool leverage.
-
-- **Seed Viability** — The percentage of seeds in a given lot that will germinate under favorable conditions. Viability declines with time, temperature, and humidity exposure. Measured by test-germinating a sample of 10-20 seeds on a damp cloth.
-
-- **Weight Budget** — The total mass allowance for a carrier, calculated as 20% of body weight. Allocated across categories by priority. Non-negotiable once established.
-
 - **Caloric Debt** — The cumulative energy deficit incurred when metabolic expenditure (from loaded walking, thermoregulation, and stress) exceeds caloric intake. Caloric debt compounds daily and manifests as muscle wasting, impaired cognition, and reduced immune function.
-
+- **Irreplaceability Hierarchy** — The ranking of carried items by the difficulty of manufacturing them from raw materials. High-carbon steel and optical glass rank highest (require industrial infrastructure). Wooden handles and cordage rank lowest (producible from forest materials within hours).
 - **Load Frame** — Any rigid or semi-rigid structure (pack frame, travois, A-frame) that transfers pack weight from shoulders to hips. External frames reduce shoulder strain by routing 60-70% of load weight to the pelvic girdle via a hip belt.
+- **Seed Viability** — The percentage of seeds in a given lot that will germinate under favorable conditions. Viability declines with time, temperature, and humidity exposure. Measured by test-germinating a sample of 10-20 seeds on a damp cloth.
+- **Sovereignty Kit** — The complete ensemble of tools, seeds, medical supplies, and reference materials required to establish a self-sustaining settlement. Named for its purpose: enabling a group to operate without external supply chains.
+- **Tool Leverage** — The ratio of a tool's utility over its operational lifetime to its carried weight. A ferrocerium rod (50 g, 12,000 strikes) has extreme tool leverage. A second set of clothing (1.5 kg, marginal comfort benefit) has low tool leverage.
+- **Weight Budget** — The total mass allowance for a carrier, calculated as 20% of body weight. Allocated across categories by priority. Non-negotiable once established.
 
 ---
 

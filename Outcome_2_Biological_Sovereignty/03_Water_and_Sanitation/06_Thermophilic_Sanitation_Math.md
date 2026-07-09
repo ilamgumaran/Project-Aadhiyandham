@@ -326,33 +326,20 @@ The log serves as the batch record. It must be retained for the full curing peri
 
 ## Vocabulary of the Foundation
 
-**First-order kinetics.** A mathematical model in which the rate of a process (here, pathogen death) is proportional to the current quantity. Produces exponential decay curves.
-
-**D-value (Decimal Reduction Time).** The time required at a specific temperature to reduce a pathogen population by 90 percent (one order of magnitude). The fundamental unit of thermal resistance.
-
-**Log reduction.** A measure of pathogen kill expressed as orders of magnitude. A 6-log reduction means 99.9999 percent of organisms are destroyed.
-
-**Ascaris lumbricoides.** Human roundworm. Produces the most thermally resistant eggs of any human enteric pathogen. The benchmark organism for composting safety.
-
-**Thermophilic.** Pertaining to high-temperature biological processes, typically 45-80 degrees Celsius. In composting, the thermophilic phase is the period of active pathogen destruction.
-
-**Mesophilic.** Pertaining to moderate-temperature biological processes, typically 20-45 degrees Celsius. The initial and final phases of composting are mesophilic.
-
-**Arrhenius equation.** The mathematical relationship between temperature and the rate constant of a chemical or biological reaction. Explains why small temperature increases produce large increases in pathogen death rates.
-
 **Activation energy (Ea).** The minimum energy required to initiate a reaction (here, thermal denaturation of pathogen proteins). Higher Ea means the organism is more resistant to moderate heat but still vulnerable to higher temperatures.
-
-**Indicator organism.** An organism selected as the benchmark for process validation because it is the most resistant to the treatment being applied. If the indicator is destroyed, all other target organisms are also destroyed.
-
-**Bio-assay.** A test that uses a living organism (here, plant seeds) to detect the presence or absence of a biologically active substance (here, phytotoxins or pathogens in compost).
-
-**Phytotoxicity.** Toxicity to plants. Immature compost contains organic acids and ammonia that inhibit seed germination and root growth.
-
-**C:N ratio (Carbon-to-Nitrogen ratio).** The mass ratio of carbon to nitrogen in a composting feedstock. Optimal range for thermophilic composting is 25:1 to 35:1.
-
 **Aerobic decomposition.** Biological breakdown of organic matter in the presence of oxygen. Produces carbon dioxide, water, and heat. The mechanism that drives thermophilic composting.
-
+**Arrhenius equation.** The mathematical relationship between temperature and the rate constant of a chemical or biological reaction. Explains why small temperature increases produce large increases in pathogen death rates.
+**Ascaris lumbricoides.** Human roundworm. Produces the most thermally resistant eggs of any human enteric pathogen. The benchmark organism for composting safety.
+**Bio-assay.** A test that uses a living organism (here, plant seeds) to detect the presence or absence of a biologically active substance (here, phytotoxins or pathogens in compost).
+**C:N ratio (Carbon-to-Nitrogen ratio).** The mass ratio of carbon to nitrogen in a composting feedstock. Optimal range for thermophilic composting is 25:1 to 35:1.
+**D-value (Decimal Reduction Time).** The time required at a specific temperature to reduce a pathogen population by 90 percent (one order of magnitude). The fundamental unit of thermal resistance.
+**First-order kinetics.** A mathematical model in which the rate of a process (here, pathogen death) is proportional to the current quantity. Produces exponential decay curves.
+**Indicator organism.** An organism selected as the benchmark for process validation because it is the most resistant to the treatment being applied. If the indicator is destroyed, all other target organisms are also destroyed.
+**Log reduction.** A measure of pathogen kill expressed as orders of magnitude. A 6-log reduction means 99.9999 percent of organisms are destroyed.
+**Mesophilic.** Pertaining to moderate-temperature biological processes, typically 20-45 degrees Celsius. The initial and final phases of composting are mesophilic.
 **Newton's law of cooling.** The rate of heat loss from a body is proportional to the temperature difference between the body and its surroundings. Governs heat loss from compost piles.
+**Phytotoxicity.** Toxicity to plants. Immature compost contains organic acids and ammonia that inhibit seed germination and root growth.
+**Thermophilic.** Pertaining to high-temperature biological processes, typically 45-80 degrees Celsius. In composting, the thermophilic phase is the period of active pathogen destruction.
 
 ---
 

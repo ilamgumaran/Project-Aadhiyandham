@@ -406,23 +406,21 @@ Recognizing them in advance is the settlement's best defense.
 
 ## Vocabulary of the Foundation
 
-The following terms form the essential vocabulary of scientific thinking in the settlement. Every community member from age ten onward should be able to define and use these terms correctly.
-
-- **Scientific Method:** A systematic process of inquiry based on observation, hypothesis formation, controlled testing, and revision of beliefs based on evidence.
-- **Hypothesis:** A proposed explanation for an observed phenomenon, stated in a form that makes specific, testable predictions.
-- **Falsifiability:** The property of a claim that allows it to be, in principle, proven wrong by observation or experiment. The defining characteristic of scientific claims.
-- **Control Group:** The baseline comparison in an experiment — the group that does not receive the intervention being tested, against which results are measured.
-- **Variable:** The single factor that is deliberately changed in an experiment (independent variable) or the outcome that is measured (dependent variable).
-- **Double-Blind:** An experimental protocol in which neither the subjects nor the person collecting measurements knows which group received the treatment.
 - **Confirmation Bias:** The tendency to favor evidence supporting pre-existing beliefs while ignoring evidence that contradicts them.
-- **Replication:** The repetition of an experiment under similar conditions to verify that results are consistent and not the product of chance or error.
-- **Empirical:** Based on observation or experiment rather than theory, tradition, or authority.
+- **Control Group:** The baseline comparison in an experiment — the group that does not receive the intervention being tested, against which results are measured.
 - **Dogma:** A belief or set of beliefs held as unquestionable truth, maintained by authority rather than evidence, and resistant to revision regardless of contradicting data.
-- **Revision Council:** The settlement's annual mechanism for evaluating evidence-based challenges to existing protocols.
+- **Double-Blind:** An experimental protocol in which neither the subjects nor the person collecting measurements knows which group received the treatment.
+- **Empirical:** Based on observation or experiment rather than theory, tradition, or authority.
 - **Evidence:** Information obtained through systematic observation or controlled experiment that supports or refutes a specific claim.
-- **Observation:** The careful, systematic recording of what is perceived through the senses, prior to interpretation or explanation.
 - **Experiment:** A deliberate, controlled test designed to evaluate a specific hypothesis by comparing outcomes between variable and control conditions.
+- **Falsifiability:** The property of a claim that allows it to be, in principle, proven wrong by observation or experiment. The defining characteristic of scientific claims.
+- **Hypothesis:** A proposed explanation for an observed phenomenon, stated in a form that makes specific, testable predictions.
 - **Master Ledger:** The settlement's central physical record of all current protocols, with annotations preserving the history of changes.
+- **Observation:** The careful, systematic recording of what is perceived through the senses, prior to interpretation or explanation.
+- **Replication:** The repetition of an experiment under similar conditions to verify that results are consistent and not the product of chance or error.
+- **Revision Council:** The settlement's annual mechanism for evaluating evidence-based challenges to existing protocols.
+- **Scientific Method:** A systematic process of inquiry based on observation, hypothesis formation, controlled testing, and revision of beliefs based on evidence.
+- **Variable:** The single factor that is deliberately changed in an experiment (independent variable) or the outcome that is measured (dependent variable).
 
 ## Cross-References
 

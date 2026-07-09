@@ -360,20 +360,20 @@ The choice of building materials is not merely structural — it is neurological
 
 ## Vocabulary of the Foundation
 
-- **Restorative architecture** — building design that actively supports neurological health through sensory environment optimization
+- **Alcove** — a partially enclosed space within a larger room, providing refuge while maintaining visual access to the larger space
+- **Biophilic design** — architectural practice incorporating elements of natural environments (plants, water, natural materials, natural light) based on the human innate affiliation with living systems
+- **Circadian entrainment** — the synchronization of the body's internal clock with the external light-dark cycle, primarily through morning sunlight exposure
+- **Fractal fluency** — Richard Taylor's discovery that the human visual system processes fractal patterns with 20-30% less cognitive effort than non-fractal (uniform, industrial) patterns
+- **Light on Two Sides** — Alexander's Pattern #159: every habitable room requires natural light from at least two directions to eliminate glare and create three-dimensional illumination
 - **Neuroarchitecture** — the scientific discipline studying how architectural environments affect brain function, founded formally with ANFA in 2003
 - **Pattern Language** — Christopher Alexander's system of 253 interconnected architectural patterns, each solving a recurring design problem that affects human wellbeing
-- **Biophilic design** — architectural practice incorporating elements of natural environments (plants, water, natural materials, natural light) based on the human innate affiliation with living systems
-- **Fractal fluency** — Richard Taylor's discovery that the human visual system processes fractal patterns with 20-30% less cognitive effort than non-fractal (uniform, industrial) patterns
 - **Prospect-refuge theory** — Jay Appleton's model of evolved human spatial preference: the need to see (prospect) while being protected (refuge)
-- **Alcove** — a partially enclosed space within a larger room, providing refuge while maintaining visual access to the larger space
-- **Light on Two Sides** — Alexander's Pattern #159: every habitable room requires natural light from at least two directions to eliminate glare and create three-dimensional illumination
-- **Zen View** — Alexander's Pattern #134: a window that reveals its view only from a specific position, producing intermittent novelty reward
-- **Zeitgeber** — a time-giving environmental cue that synchronizes the circadian clock; sunlight is the primary zeitgeber
+- **Restorative architecture** — building design that actively supports neurological health through sensory environment optimization
+- **Sensory audit** — the seasonal assessment protocol for evaluating and maintaining the sensory quality of living spaces
 - **Sound Transmission Class (STC)** — a rating of how effectively a wall or barrier blocks sound transmission; higher numbers indicate better sound blocking
 - **Thermal mass** — dense building material (rammed earth, stone, cob) that stores heat energy and releases it slowly, creating thermal gradients and passive temperature regulation
-- **Sensory audit** — the seasonal assessment protocol for evaluating and maintaining the sensory quality of living spaces
-- **Circadian entrainment** — the synchronization of the body's internal clock with the external light-dark cycle, primarily through morning sunlight exposure
+- **Zeitgeber** — a time-giving environmental cue that synchronizes the circadian clock; sunlight is the primary zeitgeber
+- **Zen View** — Alexander's Pattern #134: a window that reveals its view only from a specific position, producing intermittent novelty reward
 
 ---
 

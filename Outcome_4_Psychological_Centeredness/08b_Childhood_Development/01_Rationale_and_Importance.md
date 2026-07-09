@@ -359,37 +359,21 @@ PROTECTIVE FACTORS BUFFER MODEL
 
 ## Vocabulary of the Foundation
 
-These terms appear throughout the four implementation modules. Community members involved in childhood development should be fluent in all of them — not as academic vocabulary, but as operational concepts that guide daily caregiving decisions.
-
-- **Critical period** — A developmental window that closes permanently. Required input not received within the window cannot be compensated later. Binocular vision is the canonical example: if both eyes do not receive coordinated input during the first years, stereoscopic depth perception is permanently lost.
-
-- **Sensitive period** — An optimal developmental window during which the brain is maximally receptive to specific input. Input outside the window is still effective but requires greater effort and produces less robust results. Language acquisition is the primary example.
-
-- **Synaptic pruning** — The elimination of unused neural connections based on experience. The brain overproduces synapses, then sculpts the excess based on which connections are repeatedly activated. This is the mechanism by which experience shapes brain architecture.
-
-- **Myelination** — The progressive insulation of neural pathways with myelin sheaths, increasing signal transmission speed and reliability. Follows a fixed sequence: sensory, motor, language, prefrontal. The prefrontal cortex is not fully myelinated until approximately age twenty-five.
-
-- **Toxic stress** — Prolonged activation of the stress response system without buffering by a responsive caregiver. Distinguished from tolerable stress (severe but buffered) and positive stress (mild, growth-promoting). Toxic stress physically damages the hippocampus and prefrontal cortex.
-
-- **Allomothering** — Caregiving by adults other than the biological mother. Documented across more than two hundred human cultures and identified by Hrdy (2009) as the ancestral human norm. Distinguished from inconsistent group care by the requirement for stable, predictable caregiver relationships.
-
-- **Internal working model** — The child's mental template of how relationships function, formed through early attachment experiences. Shapes expectations of self-worth and others' reliability across all subsequent relationships.
-
-- **Secure base** — The attachment figure from whom the child explores outward and to whom the child returns when stressed. Secure-base behavior is the observable indicator of healthy attachment.
-
-- **Zone of proximal development** — Vygotsky's concept describing the gap between what a child can accomplish independently and what they can accomplish with assistance from a more skilled partner. The zone where learning occurs most efficiently.
-
-- **WEIRD** — Western, Educated, Industrialized, Rich, Democratic. The acronym coined by Henrich et al. (2010) for the narrow population base from which ninety-six percent of psychological research subjects are drawn.
-
-- **Ghost curriculum** — The unintentional transmission of adult grief, trauma, and nostalgia to children through behavioral patterns, narrative framing, and emotional tone. Named for its invisible but pervasive influence on children's identity formation.
-
-- **Scaffolding** — Temporary support provided by a more skilled partner that enables a child to accomplish what they cannot yet do alone. Distinguished from instruction by its responsiveness: scaffolding adjusts to the child's current level and is withdrawn as competence increases.
-
-- **Serve and return** — The back-and-forth interaction between child and caregiver (child vocalizes, adult responds; child points, adult names) that builds neural connections. The fundamental mechanism of responsive caregiving.
-
 - **1000-day window** — The period from conception to approximately age two and a half, encompassing maximum neural plasticity and the highest developmental return on investment. Community resource allocation during this window has disproportionate impact on lifelong outcomes.
-
+- **Allomothering** — Caregiving by adults other than the biological mother. Documented across more than two hundred human cultures and identified by Hrdy (2009) as the ancestral human norm. Distinguished from inconsistent group care by the requirement for stable, predictable caregiver relationships.
 - **Cooperative breeding** — The reproductive strategy in which non-parents contribute to offspring care. Hrdy's thesis that humans are cooperative breeders, not solitary mothers with helpers, reframes communal caregiving as biological norm rather than cultural adaptation.
+- **Critical period** — A developmental window that closes permanently. Required input not received within the window cannot be compensated later. Binocular vision is the canonical example: if both eyes do not receive coordinated input during the first years, stereoscopic depth perception is permanently lost.
+- **Ghost curriculum** — The unintentional transmission of adult grief, trauma, and nostalgia to children through behavioral patterns, narrative framing, and emotional tone. Named for its invisible but pervasive influence on children's identity formation.
+- **Internal working model** — The child's mental template of how relationships function, formed through early attachment experiences. Shapes expectations of self-worth and others' reliability across all subsequent relationships.
+- **Myelination** — The progressive insulation of neural pathways with myelin sheaths, increasing signal transmission speed and reliability. Follows a fixed sequence: sensory, motor, language, prefrontal. The prefrontal cortex is not fully myelinated until approximately age twenty-five.
+- **Scaffolding** — Temporary support provided by a more skilled partner that enables a child to accomplish what they cannot yet do alone. Distinguished from instruction by its responsiveness: scaffolding adjusts to the child's current level and is withdrawn as competence increases.
+- **Secure base** — The attachment figure from whom the child explores outward and to whom the child returns when stressed. Secure-base behavior is the observable indicator of healthy attachment.
+- **Sensitive period** — An optimal developmental window during which the brain is maximally receptive to specific input. Input outside the window is still effective but requires greater effort and produces less robust results. Language acquisition is the primary example.
+- **Serve and return** — The back-and-forth interaction between child and caregiver (child vocalizes, adult responds; child points, adult names) that builds neural connections. The fundamental mechanism of responsive caregiving.
+- **Synaptic pruning** — The elimination of unused neural connections based on experience. The brain overproduces synapses, then sculpts the excess based on which connections are repeatedly activated. This is the mechanism by which experience shapes brain architecture.
+- **Toxic stress** — Prolonged activation of the stress response system without buffering by a responsive caregiver. Distinguished from tolerable stress (severe but buffered) and positive stress (mild, growth-promoting). Toxic stress physically damages the hippocampus and prefrontal cortex.
+- **WEIRD** — Western, Educated, Industrialized, Rich, Democratic. The acronym coined by Henrich et al. (2010) for the narrow population base from which ninety-six percent of psychological research subjects are drawn.
+- **Zone of proximal development** — Vygotsky's concept describing the gap between what a child can accomplish independently and what they can accomplish with assistance from a more skilled partner. The zone where learning occurs most efficiently.
 
 ---
 

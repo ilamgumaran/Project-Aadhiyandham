@@ -325,21 +325,21 @@ WATER WHEEL AND LINE-SHAFT SYSTEM -- SIDE VIEW
 
 ## Vocabulary of the Foundation
 
-- **Overshot wheel** -- A water wheel where water is delivered to the top of the wheel, filling buckets that descend under gravity. Achieves the highest efficiency of any wheel type, typically 60 to 90 percent.
+- **Bearing** -- The contact surface between a rotating shaft and its stationary support structure. The primary wear component in any mechanical system, requiring regular lubrication and periodic replacement.
+- **Belt dressing** -- A substance such as neatsfoot oil, beeswax, or tallow applied to leather drive belts to maintain their grip on pulleys and prevent drying and cracking.
 - **Breastshot wheel** -- A water wheel where water enters at approximately axle height, combining gravitational and kinetic energy capture. Moderate efficiency of 35 to 65 percent.
-- **Undershot wheel** -- A water wheel where water flows beneath the wheel, using kinetic energy only. Lowest efficiency at 20 to 40 percent but requires the simplest construction and lowest head.
-- **Head** -- The vertical distance water falls from the intake point to the wheel discharge. Determines the gravitational potential energy available per unit mass of water.
+- **Fast-and-loose pulleys** -- A paired pulley arrangement allowing individual machines to be connected to or disconnected from the line-shaft without stopping the shaft. The primary safety and operational control mechanism.
 - **Flow rate (Q)** -- The volume of water passing a point per unit time, measured in cubic meters per second. Together with head and efficiency, determines available power.
 - **Flywheel** -- A heavy wheel that stores rotational kinetic energy, smoothing power delivery through fluctuations in water flow. Essential for consistent machine operation.
-- **Line-shaft** -- A horizontal rotating shaft distributing mechanical power from a single source (the water wheel) to multiple machines along its length via belt-driven pulleys.
-- **Fast-and-loose pulleys** -- A paired pulley arrangement allowing individual machines to be connected to or disconnected from the line-shaft without stopping the shaft. The primary safety and operational control mechanism.
+- **Head** -- The vertical distance water falls from the intake point to the wheel discharge. Determines the gravitational potential energy available per unit mass of water.
 - **Headrace/flume** -- The channel delivering water from the source or millpond to the top of the water wheel.
-- **Tailrace** -- The channel carrying spent water away from the base of the wheel after it has performed work.
-- **Sluice gate** -- An adjustable gate in the flume controlling the volume of water delivered to the wheel. Used for power regulation and shutdown.
-- **Bearing** -- The contact surface between a rotating shaft and its stationary support structure. The primary wear component in any mechanical system, requiring regular lubrication and periodic replacement.
-- **Trash rack** -- A grid of bars or stakes at the flume intake that prevents leaves, branches, ice, and debris from reaching and damaging the wheel.
+- **Line-shaft** -- A horizontal rotating shaft distributing mechanical power from a single source (the water wheel) to multiple machines along its length via belt-driven pulleys.
 - **Millpond** -- A reservoir constructed upstream of the wheel, storing water for use during low-flow periods and settling sediment before it reaches the flume.
-- **Belt dressing** -- A substance such as neatsfoot oil, beeswax, or tallow applied to leather drive belts to maintain their grip on pulleys and prevent drying and cracking.
+- **Overshot wheel** -- A water wheel where water is delivered to the top of the wheel, filling buckets that descend under gravity. Achieves the highest efficiency of any wheel type, typically 60 to 90 percent.
+- **Sluice gate** -- An adjustable gate in the flume controlling the volume of water delivered to the wheel. Used for power regulation and shutdown.
+- **Tailrace** -- The channel carrying spent water away from the base of the wheel after it has performed work.
+- **Trash rack** -- A grid of bars or stakes at the flume intake that prevents leaves, branches, ice, and debris from reaching and damaging the wheel.
+- **Undershot wheel** -- A water wheel where water flows beneath the wheel, using kinetic energy only. Lowest efficiency at 20 to 40 percent but requires the simplest construction and lowest head.
 
 ---
 

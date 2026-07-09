@@ -356,20 +356,20 @@ When a large predator is spotted within or approaching the settlement perimeter:
 
 ## Vocabulary of the Foundation
 
-* **Large predator management:** The discipline of reducing predator-human conflict through non-lethal, ecologically sound methods that maintain apex predator populations in the landscape.
-* **Attractant removal:** The practice of eliminating food smells, waste, and other signals that draw predators toward human habitation. The single most effective predator management intervention.
+* **Ambush predator:** A predator (large cats) that hunts by concealment and surprise attack, targeting unaware prey. Deterred primarily by eliminating concealment and signaling awareness.
 * **Attractant cascade:** The gradient of attractant strength and range, from Level 1 (exposed meat, 3+ km range) through Level 3 (livestock presence, <500 m range), which determines the probability and frequency of predator encounters.
+* **Attractant removal:** The practice of eliminating food smells, waste, and other signals that draw predators toward human habitation. The single most effective predator management intervention.
 * **Aversive conditioning:** The process of pairing an unpleasant stimulus (pain, fear) with a specific location or behavior, creating a persistent learned avoidance in an individual animal.
 * **Capsaicin deterrence:** The use of hot pepper extract (capsaicin) as a non-lethal chemical deterrent. Triggers intense pain in mammalian nasal mucosa and eyes. 92% effective against aggressive bears (Smith et al., 2008).
 * **Fladry:** A traditional European wolf deterrent consisting of red fabric strips hung on a rope line. Exploits wolf neophobia (fear of novel objects). Effective for 60 to 90 days before habituation.
-* **Turbo-fladry:** An electrified version of fladry that combines the visual novelty of flag strips with an electric shock upon contact. Does not habituate because the aversive stimulus (shock) is real.
-* **Neophobia:** An innate fear of novel objects, environments, or stimuli. Strongly expressed in wolves and canids. The behavioral basis for fladry effectiveness.
-* **Hyperphagia:** The period of obsessive, high-calorie feeding that bears undergo in autumn to build fat reserves for hibernation. During hyperphagia, bears consume 20,000+ kcal/day and take increased risks to access food.
-* **Trophic cascade:** The ecological chain reaction triggered by removing an apex predator. Herbivore populations explode, vegetation is overbrowsed, and cascading effects propagate through every level of the ecosystem.
 * **Guardian animal:** A large domestic animal (dog >35 kg, donkey, llama) that lives with livestock and aggressively deters predators. The primary non-lethal deterrent against wolves.
+* **Hyperphagia:** The period of obsessive, high-calorie feeding that bears undergo in autumn to build fat reserves for hibernation. During hyperphagia, bears consume 20,000+ kcal/day and take increased risks to access food.
+* **Large predator management:** The discipline of reducing predator-human conflict through non-lethal, ecologically sound methods that maintain apex predator populations in the landscape.
+* **Neophobia:** An innate fear of novel objects, environments, or stimuli. Strongly expressed in wolves and canids. The behavioral basis for fladry effectiveness.
 * **Predator Response Protocol:** The structured, scenario-based procedure for responding to predator encounters within the settlement, built on the principle of always providing an escape route.
 * **Surplus killing:** The behavior in which a predator kills more prey than it can consume in a single event, typically triggered when confined livestock panic and repeatedly trigger the predator's chase instinct.
-* **Ambush predator:** A predator (large cats) that hunts by concealment and surprise attack, targeting unaware prey. Deterred primarily by eliminating concealment and signaling awareness.
+* **Trophic cascade:** The ecological chain reaction triggered by removing an apex predator. Herbivore populations explode, vegetation is overbrowsed, and cascading effects propagate through every level of the ecosystem.
+* **Turbo-fladry:** An electrified version of fladry that combines the visual novelty of flag strips with an electric shock upon contact. Does not habituate because the aversive stimulus (shock) is real.
 
 ---
 

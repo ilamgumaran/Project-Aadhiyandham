@@ -351,22 +351,14 @@ Near the equator, Polaris sits very low on the northern horizon and may be obscu
 ## Vocabulary of the Foundation
 
 - **Azimuth:** A direction expressed as a clockwise angle from True North, measured in degrees (0 to 360). Due East is azimuth 090, due South is 180, due West is 270.
-
 - **Bearing:** Functionally synonymous with azimuth in most field navigation contexts. Some traditions express bearing relative to North or South (e.g., "N 45 E" or "S 30 W"), but degree-azimuth is more common in modern practice.
-
-- **Declination (magnetic):** The angle between True North and Magnetic North at a given location. Expressed as East or West. A declination of "12 degrees West" means the compass needle points 12 degrees west of True North.
-
-- **Declination (solar):** The angle between the sun's position and the celestial equator, varying from +23.44 degrees to -23.44 degrees over the year. Determines where on the horizon the sun rises and sets.
-
-- **Solar noon:** The moment when the sun crosses the local meridian and reaches its highest point in the sky. The shadow of a vertical object is shortest at this moment.
-
-- **Zenith:** The point on the celestial sphere directly above the observer. When the sun is at your zenith, it is directly overhead and your shadow disappears.
-
-- **Celestial pole:** The point on the celestial sphere directly above a geographic pole. The North Celestial Pole is marked (approximately) by Polaris. The South Celestial Pole has no bright marker star.
-
 - **Cardinal direction:** One of the four principal compass points: North, South, East, West.
-
+- **Celestial pole:** The point on the celestial sphere directly above a geographic pole. The North Celestial Pole is marked (approximately) by Polaris. The South Celestial Pole has no bright marker star.
+- **Declination (magnetic):** The angle between True North and Magnetic North at a given location. Expressed as East or West. A declination of "12 degrees West" means the compass needle points 12 degrees west of True North.
+- **Declination (solar):** The angle between the sun's position and the celestial equator, varying from +23.44 degrees to -23.44 degrees over the year. Determines where on the horizon the sun rises and sets.
 - **Intercardinal direction:** The four directions midway between the cardinal directions: Northeast, Southeast, Southwest, Northwest.
+- **Solar noon:** The moment when the sun crosses the local meridian and reaches its highest point in the sky. The shadow of a vertical object is shortest at this moment.
+- **Zenith:** The point on the celestial sphere directly above the observer. When the sun is at your zenith, it is directly overhead and your shadow disappears.
 
 ---
 
@@ -393,6 +385,18 @@ The following references provide significantly deeper treatment of celestial nav
 4. **Bob Burns & Mike Burns, *Wilderness Navigation: Finding Your Way Using Map, Compass, Altimeter & GPS*** — Practical guide with excellent coverage of magnetic declination, compass use, and integrating celestial observations with instrument-based navigation.
 
 ---
+
+
+
+## Glossary Reference
+
+*See [../../Glossary.md](../../Glossary.md) for full definitions of:*
+
+*   **Equinoxes**
+*   **Execution**
+*   **Preparation**
+*   **Refugia**
+*   **Solstices**
 
 ## Practical Implementation Guide for Beginners
 

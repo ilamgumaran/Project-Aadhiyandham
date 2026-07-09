@@ -340,20 +340,20 @@ A shelter is not a one-time construction project. It is a living system that req
 
 ## Vocabulary of the Foundation
 
-- **Thermal conductivity (k)**: Rate at which a material conducts heat, in W/m-K. Lower values indicate better insulation.
-- **R-value**: Thermal resistance of a wall or roof assembly. R = thickness / k. Higher values mean better insulation.
-- **Thermal mass**: Capacity of a dense material to absorb, store, and slowly release heat. Stone, earth, and water have high thermal mass.
-- **Passive solar**: Design that captures solar energy for heating without mechanical systems, using orientation, windows, and thermal mass.
+- **Cob**: Building material of clay subsoil, straw, sand, and water, mixed and built up in courses to form walls.
 - **Diurnal temperature cycle**: Daily oscillation between daytime high and nighttime low, typically 10-25C in temperate climates.
-- **Thermal belt**: Mid-slope zone between cold valley floor and windy ridge, offering the most moderate microclimate for building.
+- **Earth-sheltered**: Building partially or fully embedded in earth, exploiting stable subsurface temperatures.
 - **Katabatic wind**: Cold dense air flowing downhill at night under gravity after radiational cooling, pooling in low areas.
+- **Mortise-and-tenon**: Timber joint where a projecting tenon fits a matching mortise cavity, secured with a wooden peg.
+- **Passive solar**: Design that captures solar energy for heating without mechanical systems, using orientation, windows, and thermal mass.
+- **R-value**: Thermal resistance of a wall or roof assembly. R = thickness / k. Higher values mean better insulation.
+- **Rocket mass heater**: High-efficiency combustion system burning small wood at extreme temperature, storing heat in a thermal mass bench.
+- **Thatch**: Roof covering of dried plant stems (reed, straw, cattail) in overlapping bundles to shed rain.
+- **Thermal belt**: Mid-slope zone between cold valley floor and windy ridge, offering the most moderate microclimate for building.
+- **Thermal conductivity (k)**: Rate at which a material conducts heat, in W/m-K. Lower values indicate better insulation.
+- **Thermal mass**: Capacity of a dense material to absorb, store, and slowly release heat. Stone, earth, and water have high thermal mass.
 - **Venturi effect**: Acceleration of airflow through a constriction with corresponding pressure drop. Used in passive cooling.
 - **Wattle-and-daub**: Wall construction using woven rods (wattle) plastered with clay-straw mixture (daub).
-- **Mortise-and-tenon**: Timber joint where a projecting tenon fits a matching mortise cavity, secured with a wooden peg.
-- **Cob**: Building material of clay subsoil, straw, sand, and water, mixed and built up in courses to form walls.
-- **Thatch**: Roof covering of dried plant stems (reed, straw, cattail) in overlapping bundles to shed rain.
-- **Rocket mass heater**: High-efficiency combustion system burning small wood at extreme temperature, storing heat in a thermal mass bench.
-- **Earth-sheltered**: Building partially or fully embedded in earth, exploiting stable subsurface temperatures.
 
 ---
 

@@ -314,20 +314,20 @@ A hedge that receives this annual cycle of attention will remain in peak defensi
 
 ## Vocabulary of the Foundation
 
-- **Defensive landscaping** — the use of living plants as engineered barriers for perimeter security
-- **Living wall / living hedge** — a barrier composed of growing, rooted plants that gains strength over time
-- **Hedgelaying / pleaching** — the technique of partially cutting and bending hedge stems to create a dense interlocking lattice
-- **Pleacher** — an individual stem selected for laying during the hedgelaying process
+- **Allelopathy** — biochemical suppression of neighboring plant growth through root exudates or leaf litter compounds
+- **Benjes hedge** — a dead-hedge constructed by piling brush between stake rows, used as an interim barrier while living hedges establish
 - **Billhook** — the traditional cutting tool for hedgelaying; a heavy, hooked blade designed for cutting partially through stems
 - **Binder / heathering** — flexible stems woven along the top of a laid hedge to bind stakes and pleachers together
-- **Thorn / spine / prickle** — botanically distinct defensive structures (modified stems, modified leaves, epidermal outgrowths respectively)
-- **Thigmomorphogenesis** — the development of shorter, denser, tougher plant growth in response to mechanical stress
-- **Allelopathy** — biochemical suppression of neighboring plant growth through root exudates or leaf litter compounds
-- **Juglone** — the specific allelopathic compound (5-hydroxy-1,4-naphthoquinone) produced by black walnut
-- **Ditch-and-hedge** — an integrated obstacle combining excavated ditch, raised berm, and living hedge for maximum barrier height
 - **Coppicing** — cutting a tree or shrub to ground level to stimulate regrowth of multiple stems from the stool
+- **Defensive landscaping** — the use of living plants as engineered barriers for perimeter security
+- **Ditch-and-hedge** — an integrated obstacle combining excavated ditch, raised berm, and living hedge for maximum barrier height
+- **Hedgelaying / pleaching** — the technique of partially cutting and bending hedge stems to create a dense interlocking lattice
+- **Juglone** — the specific allelopathic compound (5-hydroxy-1,4-naphthoquinone) produced by black walnut
+- **Living wall / living hedge** — a barrier composed of growing, rooted plants that gains strength over time
 - **Osage orange** (*Maclura pomifera*) — the benchmark defensive hedge species; extremely dense wood, aggressive thorns, 120 MPa tensile strength
-- **Benjes hedge** — a dead-hedge constructed by piling brush between stake rows, used as an interim barrier while living hedges establish
+- **Pleacher** — an individual stem selected for laying during the hedgelaying process
+- **Thigmomorphogenesis** — the development of shorter, denser, tougher plant growth in response to mechanical stress
+- **Thorn / spine / prickle** — botanically distinct defensive structures (modified stems, modified leaves, epidermal outgrowths respectively)
 
 ---
 

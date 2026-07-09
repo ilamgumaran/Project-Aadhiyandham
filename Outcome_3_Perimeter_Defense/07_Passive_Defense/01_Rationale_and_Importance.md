@@ -303,29 +303,18 @@ Living hedges left unmanaged develop gaps as branches die or are damaged by weat
 
 ## Vocabulary of the Foundation
 
-- **Defense in Depth:** Military doctrine of multiple sequential defensive layers, each providing independent protection and cumulative delay.
-
-- **Concentric Rings:** The four-zone spatial model (detection, deterrence, barrier, refuge) adapted from castle architecture for settlement defense.
-
-- **Passive Defense:** Defensive measures that operate without continuous human attention — barriers, terrain features, acoustic properties, vegetation.
-
 - **Active Defense:** Defensive measures requiring direct human action — armed response, physical confrontation, coordinated group defense.
-
-- **CPTED (Crime Prevention Through Environmental Design):** Modern criminological framework linking built environment design to security outcomes.
-
-- **Natural Surveillance:** CPTED principle: design spaces so that normal activity provides visual coverage of vulnerable areas.
-
-- **Topographic Channeling:** Use of terrain features (ravines, slopes, water, vegetation) to direct movement along predictable and observable routes.
-
-- **Deterrence Zone:** The intermediate perimeter area engineered to discourage approach through openness, visibility, and difficult terrain.
-
 - **Barrier Zone:** The physical perimeter of hedges, ditches, and controlled access points that constitutes the primary obstacle to unauthorized entry.
-
+- **Concentric Rings:** The four-zone spatial model (detection, deterrence, barrier, refuge) adapted from castle architecture for settlement defense.
+- **CPTED (Crime Prevention Through Environmental Design):** Modern criminological framework linking built environment design to security outcomes.
+- **Defense in Depth:** Military doctrine of multiple sequential defensive layers, each providing independent protection and cumulative delay.
+- **Deterrence Zone:** The intermediate perimeter area engineered to discourage approach through openness, visibility, and difficult terrain.
 - **Inner Refuge:** The settlement core containing hardened structures and safe rooms for use when all outer defensive rings have been breached.
-
-- **Warrior-Class Trap:** The historical pattern in which a community's designated defenders accumulate political power and become its rulers.
-
+- **Natural Surveillance:** CPTED principle: design spaces so that normal activity provides visual coverage of vulnerable areas.
+- **Passive Defense:** Defensive measures that operate without continuous human attention — barriers, terrain features, acoustic properties, vegetation.
 - **Proportional Response:** The principle that defensive reactions must match the assessed threat level, following a defined escalation ladder from observation through active defense.
+- **Topographic Channeling:** Use of terrain features (ravines, slopes, water, vegetation) to direct movement along predictable and observable routes.
+- **Warrior-Class Trap:** The historical pattern in which a community's designated defenders accumulate political power and become its rulers.
 
 ---
 

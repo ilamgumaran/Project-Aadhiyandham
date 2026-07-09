@@ -330,20 +330,20 @@ Managed honeybee colonies supplement wild pollinator populations and provide hon
 
 ## Vocabulary of the Foundation
 
-- **Mycorrhizal network** — A symbiotic association between plant roots and fungal hyphae that extends the plant's nutrient and water absorption capacity, connecting multiple plants into a shared resource network.
-- **Trophic cascade** — An ecological phenomenon where changes at one level of the food chain (typically the addition or removal of a top predator) trigger cascading effects through every lower level, altering herbivore populations, vegetation structure, and ultimately physical landscape features.
-- **Ecosystem services** — The benefits that natural systems provide to human communities, categorized as provisioning (food, materials), regulating (pest control, pollination), supporting (nutrient cycling, soil formation), and cultural (psychological wellbeing).
-- **Pollinator** — Any animal that transfers pollen between flowers, enabling sexual reproduction in plants; includes bees, butterflies, moths, flies, beetles, birds, and bats.
-- **Detritivore** — An organism that feeds on dead organic matter (leaf litter, dead wood, carcasses), breaking it down into smaller particles that bacteria and fungi can decompose into plant-available nutrients.
+- **Biological fencing** — The use of dense aromatic plantings, thorny hedgerows, and other living barriers to deter wildlife movement into cultivated areas without physical harm.
 - **Biological pest control** — The use of natural predators, parasitoids, and pathogens to suppress pest populations, as opposed to chemical or mechanical pest control methods.
-- **Indicator species** — A species whose population health, abundance, or behavior provides reliable information about the overall condition of the ecosystem it inhabits.
-- **Zero-attractant policy** — A settlement management principle holding that wildlife conflicts with scavengers and large omnivores are caused by accessible food sources, and that the solution is eliminating the attractant rather than the animal.
 - **Buffer zone** — An area of transitional land use between intensive human activity and undisturbed wilderness, designed to reduce wildlife-human conflict by providing graduated habitat.
 - **Carrying capacity** — The maximum population of a species that a given area can sustain indefinitely, determined by available food, water, shelter, and space.
+- **Detritivore** — An organism that feeds on dead organic matter (leaf litter, dead wood, carcasses), breaking it down into smaller particles that bacteria and fungi can decompose into plant-available nutrients.
+- **Ecosystem services** — The benefits that natural systems provide to human communities, categorized as provisioning (food, materials), regulating (pest control, pollination), supporting (nutrient cycling, soil formation), and cultural (psychological wellbeing).
 - **Habituation** — The process by which a wild animal loses its natural wariness of humans through repeated exposure, especially when that exposure is associated with food rewards; habituated animals are dangerous because their behavior becomes unpredictable.
+- **Indicator species** — A species whose population health, abundance, or behavior provides reliable information about the overall condition of the ecosystem it inhabits.
 - **Keystone species** — A species whose ecological impact is disproportionately large relative to its abundance; removal of a keystone species causes cascading ecosystem changes.
-- **Biological fencing** — The use of dense aromatic plantings, thorny hedgerows, and other living barriers to deter wildlife movement into cultivated areas without physical harm.
+- **Mycorrhizal network** — A symbiotic association between plant roots and fungal hyphae that extends the plant's nutrient and water absorption capacity, connecting multiple plants into a shared resource network.
+- **Pollinator** — Any animal that transfers pollen between flowers, enabling sexual reproduction in plants; includes bees, butterflies, moths, flies, beetles, birds, and bats.
 - **Silvopasture** — An agroforestry practice integrating trees, forage plants, and livestock grazing on the same land, providing habitat complexity that benefits both domestic and wild animals.
+- **Trophic cascade** — An ecological phenomenon where changes at one level of the food chain (typically the addition or removal of a top predator) trigger cascading effects through every lower level, altering herbivore populations, vegetation structure, and ultimately physical landscape features.
+- **Zero-attractant policy** — A settlement management principle holding that wildlife conflicts with scavengers and large omnivores are caused by accessible food sources, and that the solution is eliminating the attractant rather than the animal.
 
 ---
 

@@ -324,15 +324,15 @@ All solar design in the existing modules assumes Northern Hemisphere. For Southe
 
 ## Vocabulary of the Foundation
 
-*   **Wet-Bulb Temperature:** The lowest temperature to which air can be cooled by evaporating water into it. At 35 degrees C wet-bulb, human thermoregulation fails regardless of fitness, shade, or hydration.
 *   **Climate Envelope:** The set of temperature, precipitation, and seasonal parameters within which a community can sustain itself. Exceeding the envelope requires adaptation, relocation, or death.
-*   **Phenological Mismatch:** A growing temporal gap between interdependent biological events (e.g., flowers blooming before pollinators emerge) caused by differential responses to climate change.
-*   **Drought Floor:** The minimum stream flow observed during the driest period of record, used as the baseline for water infrastructure sizing.
 *   **Climate Inertia:** The tendency of the climate system to continue changing after the forcing (e.g., greenhouse gas emissions) has stopped, due to the thermal mass of oceans and ice sheets. Warming already absorbed but not yet expressed guarantees future change.
-*   **Return Period (Climatic):** The average time interval between occurrences of a given extreme event (e.g., a "100-year flood" has a 1% chance of occurring in any given year). As climate shifts, return periods shorten for heat events and lengthen for cold events.
-*   **Growing Degree-Day:** A unit of heat accumulation calculated as the daily mean temperature minus a base temperature (typically 10 degrees C). Crops require a species-specific number of growing degree-days to mature. Tracking GDD reveals whether the growing season provides enough thermal energy for crop completion.
 *   **Committed Warming:** The additional temperature increase that is inevitable due to greenhouse gases already in the atmosphere and heat already absorbed by the oceans, even if all emissions ceased immediately. Current estimates: 0.5-1.0 degrees C.
+*   **Drought Floor:** The minimum stream flow observed during the driest period of record, used as the baseline for water infrastructure sizing.
+*   **Growing Degree-Day:** A unit of heat accumulation calculated as the daily mean temperature minus a base temperature (typically 10 degrees C). Crops require a species-specific number of growing degree-days to mature. Tracking GDD reveals whether the growing season provides enough thermal energy for crop completion.
+*   **Phenological Mismatch:** A growing temporal gap between interdependent biological events (e.g., flowers blooming before pollinators emerge) caused by differential responses to climate change.
 *   **Relocation Trigger:** A pre-defined set of conditions (typically 3 or more scorecard failures) that obligates a community to begin actively scouting and preparing alternative sites. The trigger must be agreed upon while the community is stable, not during crisis.
+*   **Return Period (Climatic):** The average time interval between occurrences of a given extreme event (e.g., a "100-year flood" has a 1% chance of occurring in any given year). As climate shifts, return periods shorten for heat events and lengthen for cold events.
+*   **Wet-Bulb Temperature:** The lowest temperature to which air can be cooled by evaporating water into it. At 35 degrees C wet-bulb, human thermoregulation fails regardless of fitness, shade, or hydration.
 
 ---
 

@@ -385,41 +385,24 @@ Over generations, the spoken language of the community diverges from the written
 
 ## Vocabulary of the Foundation
 
-- **Archive:** The physical collection of documents, tablets, inscriptions, and oral traditions that constitute the settlement's preserved knowledge, together with the room that houses them and the institutional practices that maintain them.
-
-- **Master Ledger:** The settlement's primary knowledge document — this manual, hand-copied onto durable media and organized by Outcome as separate bound volumes.
-
-- **Archivist:** The community member currently responsible for archive maintenance, catalog management, copying coordination, and successor training. A rotating role, not a permanent appointment.
-
-- **Vellum:** Writing material prepared from calf skin by soaking, stretching, scraping, and drying. More durable than paper; suitable for long-term archival use.
-
-- **Parchment:** Writing material prepared from sheep or goat skin using the same process as vellum. Functionally similar to vellum but typically slightly coarser.
-
-- **Redundancy:** The practice of maintaining multiple copies of critical knowledge in physically separate locations to prevent single-point-of-failure loss.
-
-- **Media hierarchy:** The ranked order of archival media by durability, from stone (most durable) through fired clay, vellum, paper, to oral tradition.
-
-- **Knowledge half-life:** The estimated time after which a given piece of stored knowledge has a 50% probability of being lost or rendered unreadable, considering media degradation, institutional neglect, and language drift.
-
-- **Tier 1 knowledge:** Survival-critical information that must never be lost: water purification, food production, medical protocols, fire-making, shelter construction, sanitation.
-
-- **Tier 2 knowledge:** Civilization-sustaining information: metallurgy, governance, measurement standards, education, biological classification, textiles.
-
-- **Tier 3 knowledge:** Civilization-advancing information: science, mathematics, philosophy, cultural arts, history.
-
-- **Catalog:** The master list of every item in the archive, including its location, condition, tier classification, and date of last copying or inspection.
-
-- **Oral tradition:** Knowledge transmitted through spoken language, song, story, and ritual rather than through physical media. The oldest known form of knowledge preservation.
-
 - **Acid-free:** Paper or other media produced without acidic sizing agents (particularly alum). Acid-free materials resist yellowing and embrittlement far longer than their acidic counterparts.
-
+- **Archive:** The physical collection of documents, tablets, inscriptions, and oral traditions that constitute the settlement's preserved knowledge, together with the room that houses them and the institutional practices that maintain them.
+- **Archivist:** The community member currently responsible for archive maintenance, catalog management, copying coordination, and successor training. A rotating role, not a permanent appointment.
+- **Catalog:** The master list of every item in the archive, including its location, condition, tier classification, and date of last copying or inspection.
 - **Copying session:** The annual event in which apprentices and students hand-copy sections of the Master Ledger, simultaneously creating backup copies and learning the material.
-
 - **Information density:** The amount of knowledge that can be stored per unit area or volume of a given medium. Paper has high information density; stone has low information density.
-
 - **Institutional knowledge:** The accumulated understanding of how systems work, where things are stored, and why decisions were made — knowledge that exists primarily in the minds of experienced community members and must be actively transferred to successors.
-
+- **Knowledge half-life:** The estimated time after which a given piece of stored knowledge has a 50% probability of being lost or rendered unreadable, considering media degradation, institutional neglect, and language drift.
+- **Master Ledger:** The settlement's primary knowledge document — this manual, hand-copied onto durable media and organized by Outcome as separate bound volumes.
+- **Media hierarchy:** The ranked order of archival media by durability, from stone (most durable) through fired clay, vellum, paper, to oral tradition.
+- **Oral tradition:** Knowledge transmitted through spoken language, song, story, and ritual rather than through physical media. The oldest known form of knowledge preservation.
+- **Parchment:** Writing material prepared from sheep or goat skin using the same process as vellum. Functionally similar to vellum but typically slightly coarser.
+- **Redundancy:** The practice of maintaining multiple copies of critical knowledge in physically separate locations to prevent single-point-of-failure loss.
 - **Settlement Journal:** A chronological supplement to the Master Ledger, recording local observations, adaptations, experimental results, and modifications made to standard procedures based on local conditions.
+- **Tier 1 knowledge:** Survival-critical information that must never be lost: water purification, food production, medical protocols, fire-making, shelter construction, sanitation.
+- **Tier 2 knowledge:** Civilization-sustaining information: metallurgy, governance, measurement standards, education, biological classification, textiles.
+- **Tier 3 knowledge:** Civilization-advancing information: science, mathematics, philosophy, cultural arts, history.
+- **Vellum:** Writing material prepared from calf skin by soaking, stretching, scraping, and drying. More durable than paper; suitable for long-term archival use.
 
 ## Cross-References
 

@@ -233,16 +233,16 @@ BUG-OUT CHAIN — Top-Down View (Trail Formation)
 
 ## Vocabulary of the Foundation
 
-*   **The 50% Rule:** Maximum daily travel distance for a mixed-ability group equals 50% of the slowest member's comfortable daily capacity. Based on aerobic zone physiology.
-*   **HPA Axis:** The hypothalamic-pituitary-adrenal axis — the body's central stress response system. Produces cortisol under stress.
-*   **Narrative Frame:** A cognitive reframing technique that presents a stressful situation within a positive, engaging story structure. Reduces cortisol levels in both children and adults.
-*   **Guardian:** The designated adult responsible for the physical and psychological wellbeing of children and vulnerable group members during transit.
-*   **Discovery Bag:** A child's personal pack containing hydration, calories, hygiene supplies, and curiosity tools, sized to ≤10% of the child's body weight.
 *   **Bug-Out Chain:** A transit formation of 3 families (8-15 people) organized with assigned roles (Navigator, Guardian, Rear Guard) for secure, efficient movement.
-*   **Lactate Threshold:** The exercise intensity above which lactate accumulation exceeds clearance, leading to rapid fatigue and multi-day recovery requirements.
-*   **Parentification:** The inappropriate assignment of adult responsibilities to a child, producing chronic stress and developmental disruption.
-*   **Cortisol:** The primary human stress hormone. Beneficial in acute (short-term) stress; harmful in chronic (sustained) stress.
 *   **Centered Null:** The Aadhiyandham concept of a baseline psychological state achieved through routine, observation, and environmental harmony.
+*   **Cortisol:** The primary human stress hormone. Beneficial in acute (short-term) stress; harmful in chronic (sustained) stress.
+*   **Discovery Bag:** A child's personal pack containing hydration, calories, hygiene supplies, and curiosity tools, sized to ≤10% of the child's body weight.
+*   **Guardian:** The designated adult responsible for the physical and psychological wellbeing of children and vulnerable group members during transit.
+*   **HPA Axis:** The hypothalamic-pituitary-adrenal axis — the body's central stress response system. Produces cortisol under stress.
+*   **Lactate Threshold:** The exercise intensity above which lactate accumulation exceeds clearance, leading to rapid fatigue and multi-day recovery requirements.
+*   **Narrative Frame:** A cognitive reframing technique that presents a stressful situation within a positive, engaging story structure. Reduces cortisol levels in both children and adults.
+*   **Parentification:** The inappropriate assignment of adult responsibilities to a child, producing chronic stress and developmental disruption.
+*   **The 50% Rule:** Maximum daily travel distance for a mixed-ability group equals 50% of the slowest member's comfortable daily capacity. Based on aerobic zone physiology.
 
 ---
 

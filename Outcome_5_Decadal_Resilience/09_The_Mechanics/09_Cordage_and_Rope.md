@@ -334,21 +334,21 @@ Proper care dramatically extends the service life of natural cordage.
 ## Vocabulary of the Foundation
 
 - **Bast fiber:** The strong, flexible inner-bark fiber of dicotyledonous plants, the primary material for high-quality cordage.
-- **Retting:** Controlled decomposition of plant tissue to release bast fibers from the woody core, accomplished by water immersion or dew exposure.
-- **Hackling:** Drawing fibers through progressively finer combs to separate, align, and clean them before spinning or twisting.
-- **Reverse wrap:** The fundamental cordage technique in which individual strands are twisted in one direction and wrapped together in the opposite direction, creating a self-locking structure.
-- **S-twist:** A left-hand twist in which the helix spirals upward to the left (matching the center stroke of the letter S).
-- **Z-twist:** A right-hand twist in which the helix spirals upward to the right (matching the center stroke of the letter Z).
-- **Lay:** The direction and tightness with which strands are twisted together to form rope; also, the act of combining strands into finished rope.
-- **Strand:** An intermediate assembly of twisted yarns that forms one of the main structural elements of a rope.
-- **Yarn:** A thin assembly of twisted fibers, the smallest structural unit above individual fibers in rope construction.
-- **Hawser-laid:** Three-strand rope construction, the most common and versatile form of traditional rope.
-- **Splice:** A method of joining rope by interweaving the component strands, stronger and more permanent than any knot.
-- **Eye splice:** A splice forming a permanent loop at the end of a rope, retaining 90-95% of breaking strength.
 - **Bight:** A curve or loop in a rope, particularly the U-shaped section between the two ends. Standing in the bight of a loaded rope is extremely dangerous.
-- **Working load:** The maximum force that should be routinely applied to a rope, calculated by dividing breaking strength by the appropriate safety factor.
-- **Rope walk:** A long, narrow lane (50-350 meters) used for twisting and laying multi-strand rope, historically a standard feature of every naval yard and port.
 - **Breaking strength:** The force at which a rope catastrophically fails under tension, always significantly higher than the working load.
+- **Eye splice:** A splice forming a permanent loop at the end of a rope, retaining 90-95% of breaking strength.
+- **Hackling:** Drawing fibers through progressively finer combs to separate, align, and clean them before spinning or twisting.
+- **Hawser-laid:** Three-strand rope construction, the most common and versatile form of traditional rope.
+- **Lay:** The direction and tightness with which strands are twisted together to form rope; also, the act of combining strands into finished rope.
+- **Retting:** Controlled decomposition of plant tissue to release bast fibers from the woody core, accomplished by water immersion or dew exposure.
+- **Reverse wrap:** The fundamental cordage technique in which individual strands are twisted in one direction and wrapped together in the opposite direction, creating a self-locking structure.
+- **Rope walk:** A long, narrow lane (50-350 meters) used for twisting and laying multi-strand rope, historically a standard feature of every naval yard and port.
+- **S-twist:** A left-hand twist in which the helix spirals upward to the left (matching the center stroke of the letter S).
+- **Splice:** A method of joining rope by interweaving the component strands, stronger and more permanent than any knot.
+- **Strand:** An intermediate assembly of twisted yarns that forms one of the main structural elements of a rope.
+- **Working load:** The maximum force that should be routinely applied to a rope, calculated by dividing breaking strength by the appropriate safety factor.
+- **Yarn:** A thin assembly of twisted fibers, the smallest structural unit above individual fibers in rope construction.
+- **Z-twist:** A right-hand twist in which the helix spirals upward to the right (matching the center stroke of the letter Z).
 
 ## Cross-References
 

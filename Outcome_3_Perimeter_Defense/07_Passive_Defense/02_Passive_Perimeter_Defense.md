@@ -367,20 +367,20 @@ Boundary markers: cairns, tree blazes, or wooden posts at the perimeter communic
 
 ## Vocabulary of the Foundation
 
-- **Passive defense** — security measures built into the environment that operate without human attention or energy expenditure
-- **Delay time** — the measured time a barrier forces an intruder to spend crossing it; the primary metric of barrier effectiveness
+- **Abatis** — a military barrier of felled trees with sharpened branches pointed toward the threat
+- **Animal sentinel** — livestock species (guinea fowl, geese, dogs) stationed at the perimeter to provide biological detection and alarm
+- **Approach route** — any path, trail, terrain feature, or line of movement by which an intruder could reach the settlement
 - **Barrier zone** — the physical area containing hedges, ditches, abatis, and other obstacles designed to impede approach
-- **Detection zone** — the area covered by acoustic tripwires, dry brush belts, animal sentinels, and observation points
-- **Deterrence** — psychological features of the perimeter that discourage approach by making the settlement appear to be a high-risk, low-reward target
 - **Channeling** — the use of barriers to direct all approaching movement toward one or two monitored entry points
 - **Dead hedge (Benjes hedge)** — a barrier constructed from stacked brush and branches between driven stakes; provides immediate barrier function and transitions to a living hedge over time
-- **Living hedge** — a barrier of dense, thorny plant species that grows stronger each year and becomes self-sustaining
+- **Delay time** — the measured time a barrier forces an intruder to spend crossing it; the primary metric of barrier effectiveness
+- **Detection zone** — the area covered by acoustic tripwires, dry brush belts, animal sentinels, and observation points
+- **Deterrence** — psychological features of the perimeter that discourage approach by making the settlement appear to be a high-risk, low-reward target
 - **Hedgelaying** — the traditional technique of partially cutting hedge stems and bending them at an angle to create an impenetrable living fence
-- **Abatis** — a military barrier of felled trees with sharpened branches pointed toward the threat
-- **Tripwire** — a concealed line strung at ankle height across an approach route, connected to an acoustic alarm element
-- **Animal sentinel** — livestock species (guinea fowl, geese, dogs) stationed at the perimeter to provide biological detection and alarm
+- **Living hedge** — a barrier of dense, thorny plant species that grows stronger each year and becomes self-sustaining
 - **Observation point** — an elevated position providing visual coverage of the approach zone and barrier perimeter
-- **Approach route** — any path, trail, terrain feature, or line of movement by which an intruder could reach the settlement
+- **Passive defense** — security measures built into the environment that operate without human attention or energy expenditure
+- **Tripwire** — a concealed line strung at ankle height across an approach route, connected to an acoustic alarm element
 
 ---
 

@@ -412,40 +412,21 @@ per settlement in ledger maintenance and VET negotiation.
 
 ## Vocabulary of the Foundation
 
-- **Value Equivalence Table (VET):** A negotiated table of exchange ratios
-  between common goods, using a reference commodity (typically grain) as the
-  unit of account. Renegotiated biannually at solstice meetings.
-- **Gift Economy Buffer:** A tolerance zone (under 20 units of imbalance)
-  within which no repayment is expected, absorbing the natural unevenness of
-  barter and preventing corrosive strict accounting between allies.
-- **Famine Clause:** A pre-agreed mutual aid commitment where each settlement
-  provides emergency food to the other at zero cost when stores fall below 60
-  days of supply, up to 10% of surplus.
-- **Manifest:** A physical tag accompanying every trade shipment listing
-  contents, VET values, sender, and intended recipient.
-- **Trade Suspension:** A unilateral 90-day pause in exchange, serving as a
-  circuit breaker for disputes, after which relations reset to First Contact.
-- **Solstice Renegotiation:** The biannual meeting at which the VET is
-  recalibrated to reflect changed conditions -- harvest yields, new surpluses,
-  new deficits.
-- **Running Balance:** The cumulative net difference between what two
-  settlements have exchanged, tracked in the duplicate ledger system.
-- **Imbalance Threshold:** The 20-unit ceiling above which the debtor
-  settlement must propose a repayment plan at the next solstice.
-- **Reference Commodity:** The single trade good (typically grain) against
-  which all other goods are valued in the VET.
-- **Duplicate Ledger:** Matched physical records of all trades, one held by
-  each settlement, compared at every solstice to detect discrepancies.
-- **Neutral Zone:** The pre-established meeting site between settlements for
-  negotiations, dispute resolution, and formal meals.
-- **Three-Question Framework:** The dispute evaluation method testing VET
-  compliance, ledger accuracy, and good faith.
-- **Waystation Drop:** Staging goods at midpoint waystations for pickup by
-  the receiving settlement's couriers, reducing travel time.
 - **Annual Trade Fair:** A multi-settlement gathering at a central neutral
-  zone once three or more settlements join the network.
+- **Duplicate Ledger:** Matched physical records of all trades, one held by
+- **Famine Clause:** A pre-agreed mutual aid commitment where each settlement
+- **Gift Economy Buffer:** A tolerance zone (under 20 units of imbalance)
+- **Imbalance Threshold:** The 20-unit ceiling above which the debtor
+- **Manifest:** A physical tag accompanying every trade shipment listing
+- **Neutral Zone:** The pre-established meeting site between settlements for
+- **Reference Commodity:** The single trade good (typically grain) against
+- **Running Balance:** The cumulative net difference between what two
 - **Self-Sufficiency Floor:** The 70% food production minimum every settlement
-  maintains regardless of trade advantages.
+- **Solstice Renegotiation:** The biannual meeting at which the VET is
+- **Three-Question Framework:** The dispute evaluation method testing VET
+- **Trade Suspension:** A unilateral 90-day pause in exchange, serving as a
+- **Value Equivalence Table (VET):** A negotiated table of exchange ratios
+- **Waystation Drop:** Staging goods at midpoint waystations for pickup by
 
 ## Cross-References
 

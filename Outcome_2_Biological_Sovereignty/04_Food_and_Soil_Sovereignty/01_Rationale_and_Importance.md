@@ -245,19 +245,19 @@ The following table presents recommended crops for a temperate-zone settlement, 
 
 ## Vocabulary of the Foundation
 
-- **Caloric Floor**: The minimum annual caloric production required to sustain the settlement's population without external food inputs.
-- **Genetic Sovereignty**: Complete control over the settlement's seed supply through open-pollinated varieties and annual seed saving.
-- **Open-Pollinated (OP)**: Plant varieties that produce offspring substantially identical to the parent when pollinated naturally. The only seed type viable for indefinite agricultural self-sufficiency.
-- **F1 Hybrid**: First-generation cross between two inbred parent lines. Exhibits hybrid vigor but does not breed true from saved seed.
-- **Liebig's Law of the Minimum**: The principle that biological growth is limited by the scarcest essential resource, not by the total abundance of all resources.
-- **Soil Food Web**: The interconnected community of bacteria, fungi, protozoa, nematodes, arthropods, and earthworms that cycle nutrients in healthy soil.
-- **Mycorrhizal**: Pertaining to the symbiotic association between plant roots and fungi, in which the fungus extends nutrient and water absorption capacity in exchange for photosynthetic carbon.
-- **Terra Preta**: "Dark earth" -- anthropogenic soil of extraordinary fertility created by incorporating biochar, organic matter, and biological waste. Originally documented in Amazonian archaeological sites dating to 2,500+ years ago.
-- **Cover Crop**: A crop planted primarily to protect and improve soil rather than for harvest. Common cover crops include clover (nitrogen fixation), rye (weed suppression), and buckwheat (phosphorus mobilization).
-- **Fallow**: A cultivated field left unplanted for one or more seasons to allow soil biology to recover and nutrient reserves to rebuild.
-- **Polyculture**: The simultaneous cultivation of multiple crop species in the same space, mimicking natural ecosystem diversity to reduce pest pressure and improve nutrient cycling.
-- **Vavilov Center**: One of eight global regions identified by Nikolai Vavilov as centers of origin for major crop plant species, representing areas of maximum genetic diversity for those crops.
 - **C:N Ratio (Carbon-to-Nitrogen Ratio)**: The ratio of carbon to nitrogen in organic material. Determines decomposition rate and compost quality. Optimal compost C:N ratio: 25:1 to 30:1.
+- **Caloric Floor**: The minimum annual caloric production required to sustain the settlement's population without external food inputs.
+- **Cover Crop**: A crop planted primarily to protect and improve soil rather than for harvest. Common cover crops include clover (nitrogen fixation), rye (weed suppression), and buckwheat (phosphorus mobilization).
+- **F1 Hybrid**: First-generation cross between two inbred parent lines. Exhibits hybrid vigor but does not breed true from saved seed.
+- **Fallow**: A cultivated field left unplanted for one or more seasons to allow soil biology to recover and nutrient reserves to rebuild.
+- **Genetic Sovereignty**: Complete control over the settlement's seed supply through open-pollinated varieties and annual seed saving.
+- **Liebig's Law of the Minimum**: The principle that biological growth is limited by the scarcest essential resource, not by the total abundance of all resources.
+- **Mycorrhizal**: Pertaining to the symbiotic association between plant roots and fungi, in which the fungus extends nutrient and water absorption capacity in exchange for photosynthetic carbon.
+- **Open-Pollinated (OP)**: Plant varieties that produce offspring substantially identical to the parent when pollinated naturally. The only seed type viable for indefinite agricultural self-sufficiency.
+- **Polyculture**: The simultaneous cultivation of multiple crop species in the same space, mimicking natural ecosystem diversity to reduce pest pressure and improve nutrient cycling.
+- **Soil Food Web**: The interconnected community of bacteria, fungi, protozoa, nematodes, arthropods, and earthworms that cycle nutrients in healthy soil.
+- **Terra Preta**: "Dark earth" -- anthropogenic soil of extraordinary fertility created by incorporating biochar, organic matter, and biological waste. Originally documented in Amazonian archaeological sites dating to 2,500+ years ago.
+- **Vavilov Center**: One of eight global regions identified by Nikolai Vavilov as centers of origin for major crop plant species, representing areas of maximum genetic diversity for those crops.
 
 ---
 

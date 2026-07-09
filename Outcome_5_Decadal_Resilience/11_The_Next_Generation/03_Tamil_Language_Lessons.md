@@ -375,21 +375,21 @@ Without contact with the broader Tamil-speaking world, the settlement's Tamil dr
 
 ## Vocabulary of the Foundation
 
-- **Uyir ezhuttukkal**: The 12 vowel letters of Tamil, literally "life letters," representing the pure vowel sounds that give voice to consonants.
-- **Mei ezhuttukkal**: The 18 consonant letters of Tamil, literally "body letters," representing sounds that require a vowel to be fully voiced.
-- **Uyirmei**: The 216 combined consonant-vowel letters, formed by systematically pairing each of the 18 consonants with each of the 12 vowels.
-- **Vallinam**: The six "hard" consonants (voiceless stops): க், ச், ட், த், ப், ற். Literally "strong class."
-- **Mellinam**: The six "soft" consonants (nasals): ங், ஞ், ண், ந், ம், ன். Literally "soft class."
-- **Idaiyinam**: The six "medium" consonants (approximants): ய், ர், ல், வ், ழ், ள். Literally "middle class."
-- **Sangam literature**: The corpus of over 2,000 Tamil poems composed between approximately 300 BCE and 300 CE, covering love (akam) and public life (puram). The oldest surviving body of secular literature in a Dravidian language.
-- **Tolkappiyam**: One of the oldest extant works of Tamil grammar, attributed to Tolkappiyar (approximately 200 BCE), covering phonology, morphology, and poetics in three books.
-- **Thirukkural**: A collection of 1,330 couplets by Thiruvalluvar (approximately 200 BCE to 500 CE), organized into 133 chapters covering virtue (aram), wealth (porul), and love (inbam). A secular ethical masterwork.
-- **Venpa meter**: A specific poetic meter in Tamil prosody, characterized by strict rules governing syllable length and line structure, designed for memorability and oral transmission.
 - **Agglutinative**: A linguistic typology in which complex words are formed by chaining suffixes onto root words, each suffix contributing one unit of meaning. Tamil is strongly agglutinative.
 - **Aram**: Virtue, righteousness, moral duty. The first and foundational book of the Thirukkural. Not passive goodness but active ethical practice.
-- **Porul**: Wealth, material substance, meaning. The second book of the Thirukkural, covering statecraft, economics, and practical wisdom.
-- **Inbam**: Joy, love, pleasure. The third book of the Thirukkural, covering romantic love and the experience of emotional fulfillment.
 - **Aytham**: The special character ஃ (visarga), the 247th letter of the Tamil alphabet, representing a voiceless glottal fricative. Rare in modern Tamil but part of the complete alphabet.
+- **Idaiyinam**: The six "medium" consonants (approximants): ய், ர், ல், வ், ழ், ள். Literally "middle class."
+- **Inbam**: Joy, love, pleasure. The third book of the Thirukkural, covering romantic love and the experience of emotional fulfillment.
+- **Mei ezhuttukkal**: The 18 consonant letters of Tamil, literally "body letters," representing sounds that require a vowel to be fully voiced.
+- **Mellinam**: The six "soft" consonants (nasals): ங், ஞ், ண், ந், ம், ன். Literally "soft class."
+- **Porul**: Wealth, material substance, meaning. The second book of the Thirukkural, covering statecraft, economics, and practical wisdom.
+- **Sangam literature**: The corpus of over 2,000 Tamil poems composed between approximately 300 BCE and 300 CE, covering love (akam) and public life (puram). The oldest surviving body of secular literature in a Dravidian language.
+- **Thirukkural**: A collection of 1,330 couplets by Thiruvalluvar (approximately 200 BCE to 500 CE), organized into 133 chapters covering virtue (aram), wealth (porul), and love (inbam). A secular ethical masterwork.
+- **Tolkappiyam**: One of the oldest extant works of Tamil grammar, attributed to Tolkappiyar (approximately 200 BCE), covering phonology, morphology, and poetics in three books.
+- **Uyir ezhuttukkal**: The 12 vowel letters of Tamil, literally "life letters," representing the pure vowel sounds that give voice to consonants.
+- **Uyirmei**: The 216 combined consonant-vowel letters, formed by systematically pairing each of the 18 consonants with each of the 12 vowels.
+- **Vallinam**: The six "hard" consonants (voiceless stops): க், ச், ட், த், ப், ற். Literally "strong class."
+- **Venpa meter**: A specific poetic meter in Tamil prosody, characterized by strict rules governing syllable length and line structure, designed for memorability and oral transmission.
 
 ## Cross-References
 

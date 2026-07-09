@@ -407,20 +407,20 @@ Ensure every adult and capable adolescent in your group knows how to read the ma
 
 ## Vocabulary of the Foundation
 
-- **Topography:** The arrangement of the natural and artificial physical features of an area.
+- **Azimuth:** A synonym for bearing in most land navigation contexts. Some systems distinguish between azimuth (measured from true north) and magnetic bearing (measured from magnetic north).
+- **Back-bearing:** The reverse of a bearing. If the bearing from you to a landmark is 045 degrees, the back-bearing (from the landmark to you) is 225 degrees (045 + 180).
+- **Bearing:** The horizontal angle measured clockwise from north to a line of sight toward a landmark, expressed in degrees (0-360).
+- **Cocked Hat:** The triangle formed when three lines of position (from a three-bearing resection) do not intersect at a single point. Your position lies within or near this triangle.
 - **Contour Line:** A line on a map joining points of equal height above or below sea level.
-- **Sentinel / Landmark:** A recognizable natural or artificial feature used for navigation; a feature that stands out from its near environment.
+- **Dead Reckoning:** Estimating your current position by starting from a known position and tracking direction and distance traveled. Errors accumulate over time and distance.
+- **Ground Truth:** The actual conditions observed on the terrain, as opposed to what the map depicts. Maps can be outdated, inaccurate, or generalized. Ground truth always takes precedence.
 - **Line of Sight:** An imaginary straight line connecting the observer's eye to a specific landmark.
 - **Refugia:** An area in which a population of organisms can survive through a period of unfavorable conditions.
 - **Resection:** The technique of determining your own position by taking bearings from your location to two or more known landmarks and plotting the back-bearings on a map.
-- **Triangulation:** Strictly, the technique of determining the position of an unknown point by measuring angles from a known baseline. Loosely used as a synonym for resection.
-- **Bearing:** The horizontal angle measured clockwise from north to a line of sight toward a landmark, expressed in degrees (0-360).
-- **Azimuth:** A synonym for bearing in most land navigation contexts. Some systems distinguish between azimuth (measured from true north) and magnetic bearing (measured from magnetic north).
-- **Back-bearing:** The reverse of a bearing. If the bearing from you to a landmark is 045 degrees, the back-bearing (from the landmark to you) is 225 degrees (045 + 180).
-- **Dead Reckoning:** Estimating your current position by starting from a known position and tracking direction and distance traveled. Errors accumulate over time and distance.
+- **Sentinel / Landmark:** A recognizable natural or artificial feature used for navigation; a feature that stands out from its near environment.
 - **Terrain Association:** The skill of determining your approximate position by comparing the visible shape of the terrain to the map, without taking precise bearings.
-- **Cocked Hat:** The triangle formed when three lines of position (from a three-bearing resection) do not intersect at a single point. Your position lies within or near this triangle.
-- **Ground Truth:** The actual conditions observed on the terrain, as opposed to what the map depicts. Maps can be outdated, inaccurate, or generalized. Ground truth always takes precedence.
+- **Topography:** The arrangement of the natural and artificial physical features of an area.
+- **Triangulation:** Strictly, the technique of determining the position of an unknown point by measuring angles from a known baseline. Loosely used as a synonym for resection.
 
 ---
 

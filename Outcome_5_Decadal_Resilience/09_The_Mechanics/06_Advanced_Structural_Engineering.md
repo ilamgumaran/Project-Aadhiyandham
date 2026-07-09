@@ -316,21 +316,21 @@ TIMBER FRAME BAY SYSTEM — END VIEW
 
 ## Vocabulary of the Foundation
 
-- **Mortise** — The rectangular hole cut into a timber to receive a tenon. Must be clean, square-cornered, and precisely sized to the corresponding tenon.
-- **Tenon** — The projecting rectangular tongue on the end of a timber that fits into a mortise. The bearing surfaces of the tenon transfer structural load to the mortise.
+- **Bay** — The basic spatial unit of a timber frame: the volume between two parallel frames. Bay spacing determines floor area and structural rhythm.
+- **Carbonation** — The process by which lime mortar absorbs carbon dioxide from the atmosphere, converting calcium hydroxide back to calcium carbonate (limestone). The final step of the lime cycle.
+- **Clamp kiln** — A temporary kiln constructed from the very bricks being fired, sealed with mud, and self-demolishing after cooling. No pre-existing kiln infrastructure is required.
+- **Cob** — A mixture of clay subsoil, sand, straw, and water, hand-built in courses as load-bearing walls. No formwork required. Excellent thermal mass.
 - **Draw-boring** — The technique of drilling offset peg holes through mortise and tenon so that driving the peg pulls the joint tight under permanent tension.
+- **King post truss** — A triangular roof structure with a single central vertical member (the king post) connecting the ridge beam to the tie beam. The simplest truss form, suitable for spans up to 6 meters.
+- **Mortise** — The rectangular hole cut into a timber to receive a tenon. Must be clean, square-cornered, and precisely sized to the corresponding tenon.
+- **Pozzolan** — A siliceous material (volcanic ash, crushed fired brick, calcined clay) that reacts with lime to produce hydraulic cement capable of setting underwater and achieving higher strength.
+- **Quicklime** — Calcium oxide (CaO). Produced by calcining limestone at 900 degrees Celsius or above. Violently reactive with water. The first product of the lime cycle.
+- **Rising damp** — Moisture drawn upward from the ground into walls by capillary action. Prevented by moisture barriers, raised foundations, and perimeter drainage.
+- **Scarf joint** — A method of splicing two timbers end-to-end by cutting complementary tapered faces, overlapping them, and securing with pegs. Used to extend timber beyond available lengths.
+- **Slaked lime** — Calcium hydroxide (Ca(OH)2). Quicklime that has been reacted with water in a controlled exothermic process. The basis for mortar, plaster, and whitewash.
+- **Tenon** — The projecting rectangular tongue on the end of a timber that fits into a mortise. The bearing surfaces of the tenon transfer structural load to the mortise.
 - **Trunnel** — Tree-nail. A dry hardwood peg (oak, locust, hickory) used to lock timber joints. Must be harder and drier than the surrounding timber.
 - **Vitrification** — The partial melting and fusion of clay particles during high-temperature firing, creating a waterproof ceramic matrix. Occurs above approximately 900 degrees Celsius.
-- **Clamp kiln** — A temporary kiln constructed from the very bricks being fired, sealed with mud, and self-demolishing after cooling. No pre-existing kiln infrastructure is required.
-- **Quicklime** — Calcium oxide (CaO). Produced by calcining limestone at 900 degrees Celsius or above. Violently reactive with water. The first product of the lime cycle.
-- **Slaked lime** — Calcium hydroxide (Ca(OH)2). Quicklime that has been reacted with water in a controlled exothermic process. The basis for mortar, plaster, and whitewash.
-- **Carbonation** — The process by which lime mortar absorbs carbon dioxide from the atmosphere, converting calcium hydroxide back to calcium carbonate (limestone). The final step of the lime cycle.
-- **Pozzolan** — A siliceous material (volcanic ash, crushed fired brick, calcined clay) that reacts with lime to produce hydraulic cement capable of setting underwater and achieving higher strength.
-- **Scarf joint** — A method of splicing two timbers end-to-end by cutting complementary tapered faces, overlapping them, and securing with pegs. Used to extend timber beyond available lengths.
-- **Bay** — The basic spatial unit of a timber frame: the volume between two parallel frames. Bay spacing determines floor area and structural rhythm.
-- **King post truss** — A triangular roof structure with a single central vertical member (the king post) connecting the ridge beam to the tie beam. The simplest truss form, suitable for spans up to 6 meters.
-- **Cob** — A mixture of clay subsoil, sand, straw, and water, hand-built in courses as load-bearing walls. No formwork required. Excellent thermal mass.
-- **Rising damp** — Moisture drawn upward from the ground into walls by capillary action. Prevented by moisture barriers, raised foundations, and perimeter drainage.
 
 ---
 

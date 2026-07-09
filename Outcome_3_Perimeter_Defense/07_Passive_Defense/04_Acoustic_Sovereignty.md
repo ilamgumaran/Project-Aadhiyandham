@@ -313,20 +313,20 @@ If any sector does not hear the Morning Call, this indicates an acoustic dead zo
 
 ## Vocabulary of the Foundation
 
-- **Acoustic Sovereignty** — the practice of managing the settlement soundscape for detection capability and psychological health
-- **Soundscape** — the total acoustic environment of a place, including natural, human, and mechanical sounds
 - **Acoustic Footprint** — the distance at which the settlement's sounds are detectable by an outside listener
-- **Signal-to-Noise Ratio** — the difference in level between a meaningful sound (signal) and the ambient background (noise); higher ratios enable detection at greater range
 - **Acoustic Shadowing** — using terrain features (hills, ridges, berms) to block the direct propagation path of sound
-- **Sound Pocket** — a natural or constructed depression or enclosure that contains sound within a limited area
-- **Silent Zone** — the area of the settlement designated for sleep, meditation, and cognitive recovery, with a target ambient level below 35 dB
-- **Work Zone** — the area designated for noisy activities, acoustically isolated from the perimeter and Silent Zone
-- **Leaf Belt** — a maintained strip of dry leaf litter on approach paths, functioning as a passive acoustic tripwire
-- **Biological Sentinel** — a wild or domestic animal species whose alarm calls provide approach detection
+- **Acoustic Sovereignty** — the practice of managing the settlement soundscape for detection capability and psychological health
 - **Alarm Call** — a vocalization produced by birds or other animals in response to a perceived threat, carrying information about threat type and direction
-- **Silent Hours** — the dusk-to-dawn period during which mechanical work ceases and outdoor conversation is limited to whisper level
-- **Hi-fi / Lo-fi Soundscape** — Schafer's distinction between acoustic environments where individual sounds are distinct (hi-fi) versus masked by overlapping noise (lo-fi)
+- **Biological Sentinel** — a wild or domestic animal species whose alarm calls provide approach detection
 - **Centered Null** — the cognitive and physiological baseline state of calm alertness, requiring acoustic conditions below 35 dB to maintain
+- **Hi-fi / Lo-fi Soundscape** — Schafer's distinction between acoustic environments where individual sounds are distinct (hi-fi) versus masked by overlapping noise (lo-fi)
+- **Leaf Belt** — a maintained strip of dry leaf litter on approach paths, functioning as a passive acoustic tripwire
+- **Signal-to-Noise Ratio** — the difference in level between a meaningful sound (signal) and the ambient background (noise); higher ratios enable detection at greater range
+- **Silent Hours** — the dusk-to-dawn period during which mechanical work ceases and outdoor conversation is limited to whisper level
+- **Silent Zone** — the area of the settlement designated for sleep, meditation, and cognitive recovery, with a target ambient level below 35 dB
+- **Sound Pocket** — a natural or constructed depression or enclosure that contains sound within a limited area
+- **Soundscape** — the total acoustic environment of a place, including natural, human, and mechanical sounds
+- **Work Zone** — the area designated for noisy activities, acoustically isolated from the perimeter and Silent Zone
 
 ---
 

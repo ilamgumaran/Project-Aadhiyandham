@@ -307,15 +307,15 @@ After 30 days of consistent logging, review your forecast accuracy. Expect 60-70
 ## Vocabulary of the Foundation
 
 - **Adiabatic Lapse Rate:** The rate at which air temperature changes with altitude in the absence of heat exchange with surroundings. Dry: 9.8 C/km. Moist (saturated): 5-6 C/km.
-- **Dew Point:** The temperature at which air becomes saturated (100% relative humidity) and water vapor begins to condense. A direct measure of atmospheric moisture content.
-- **Buys Ballot's Law:** With your back to the wind in the Northern Hemisphere, the center of low pressure lies to your left. Reversed in the Southern Hemisphere.
-- **Orographic Precipitation:** Rain or snow caused by air being forced to rise over a topographic barrier (mountain, ridge), cooling adiabatically to its dew point.
-- **Beaufort Scale:** A 0-12 scale for estimating wind speed from observed environmental effects, developed in 1805 by Admiral Sir Francis Beaufort.
-- **Psychrometer:** An instrument using paired wet-bulb and dry-bulb thermometers to measure relative humidity via differential evaporative cooling.
-- **Phenological Indicator:** A biological event (migration, flowering, behavior change) used as a proxy for atmospheric or seasonal conditions.
 - **Barometric Tendency:** The direction and rate of barometric pressure change over time; more predictively useful than the absolute pressure value.
-- **Rain Shadow:** A dry region on the leeward side of a mountain range, caused by orographic precipitation removing moisture on the windward side.
+- **Beaufort Scale:** A 0-12 scale for estimating wind speed from observed environmental effects, developed in 1805 by Admiral Sir Francis Beaufort.
+- **Buys Ballot's Law:** With your back to the wind in the Northern Hemisphere, the center of low pressure lies to your left. Reversed in the Southern Hemisphere.
+- **Dew Point:** The temperature at which air becomes saturated (100% relative humidity) and water vapor begins to condense. A direct measure of atmospheric moisture content.
 - **Frontal Passage:** The moment a weather front (cold, warm, or occluded) passes over an observation point, typically marked by abrupt changes in wind direction, temperature, humidity, and pressure trend.
+- **Orographic Precipitation:** Rain or snow caused by air being forced to rise over a topographic barrier (mountain, ridge), cooling adiabatically to its dew point.
+- **Phenological Indicator:** A biological event (migration, flowering, behavior change) used as a proxy for atmospheric or seasonal conditions.
+- **Psychrometer:** An instrument using paired wet-bulb and dry-bulb thermometers to measure relative humidity via differential evaporative cooling.
+- **Rain Shadow:** A dry region on the leeward side of a mountain range, caused by orographic precipitation removing moisture on the windward side.
 
 ---
 

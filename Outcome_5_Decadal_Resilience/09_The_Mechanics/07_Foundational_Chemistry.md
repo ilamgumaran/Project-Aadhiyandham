@@ -309,35 +309,21 @@ The mordant-dye bond strengthens as fiber dries and ages. Colors often shift sli
 
 ## Vocabulary of the Foundation
 
-- **Lye** — An alkaline solution of potassium hydroxide (KOH) or sodium hydroxide (NaOH) produced by leaching water through hardwood ash. The essential reagent for soap-making, fiber retting, and hide dehairing.
-
-- **Saponification** — The chemical reaction between a fat (triglyceride) and an alkali (KOH or NaOH) that produces soap (fatty acid salt) and glycerin as a byproduct.
-
-- **Trace** — The point during saponification when the mixture thickens enough that drizzled batter leaves a visible trail on the surface before sinking. Indicates irreversible combination of fat and lye.
-
-- **Tallow** — Rendered animal fat, purified by boiling and cooling to separate pure lipid from meat tissue and water. The primary fat source for soap production.
-
-- **Mother of vinegar** — The gelatinous mat of acetobacter bacteria that forms on the surface of fermenting vinegar. A living culture that can be transferred to inoculate and accelerate new batches.
-
-- **Mordant** — A chemical substance (alum, iron, tannin) applied to fiber before dyeing that creates a molecular bond between the fiber and the dye, making color permanent and wash-resistant.
-
-- **Potash** — Potassium carbonate (K2CO3), the water-soluble alkaline salt extracted from hardwood ash. The precursor to lye and a valuable trade commodity in pre-industrial economies.
-
-- **Quicklime** — Calcium oxide (CaO), produced by calcining limestone at approximately 900 degrees Celsius. Reacts violently and exothermically with water. Handle with extreme caution.
-
-- **Slaked lime** — Calcium hydroxide (Ca(OH)2), the product of quicklime reacted with water. Used for mortar, whitewash, water purification, nixtamalization, and hide processing.
-
-- **Nixtamalization** — The process of treating corn with slaked lime solution to release bound niacin (vitamin B3), preventing the deficiency disease pellagra. Practiced by Mesoamerican cultures for over 3,500 years and essential for any settlement relying on corn as a staple grain.
-
 - **Acetobacter** — The genus of aerobic bacteria that converts ethanol to acetic acid in the presence of oxygen. The biological agent responsible for vinegar production.
-
 - **Hydrophilic** — Water-attracting. Describes the polar head of a soap molecule that allows water to carry away disrupted pathogen material.
-
-- **Lipophilic** — Fat-attracting. Describes the nonpolar tail of a soap molecule that penetrates and disrupts the lipid membranes of bacteria and viruses.
-
-- **pH** — The measure of hydrogen ion concentration in a solution. Scale runs from 0 (strong acid) through 7 (neutral water) to 14 (strong base). The single most important measurement concept in settlement chemistry.
-
 - **Iron gall ink** — Permanent black-purple ink produced by combining tannin extract with iron sulfate. The standard writing ink of Western civilization from the 5th to 19th century, noted for its permanence and resistance to fading.
+- **Lipophilic** — Fat-attracting. Describes the nonpolar tail of a soap molecule that penetrates and disrupts the lipid membranes of bacteria and viruses.
+- **Lye** — An alkaline solution of potassium hydroxide (KOH) or sodium hydroxide (NaOH) produced by leaching water through hardwood ash. The essential reagent for soap-making, fiber retting, and hide dehairing.
+- **Mordant** — A chemical substance (alum, iron, tannin) applied to fiber before dyeing that creates a molecular bond between the fiber and the dye, making color permanent and wash-resistant.
+- **Mother of vinegar** — The gelatinous mat of acetobacter bacteria that forms on the surface of fermenting vinegar. A living culture that can be transferred to inoculate and accelerate new batches.
+- **Nixtamalization** — The process of treating corn with slaked lime solution to release bound niacin (vitamin B3), preventing the deficiency disease pellagra. Practiced by Mesoamerican cultures for over 3,500 years and essential for any settlement relying on corn as a staple grain.
+- **pH** — The measure of hydrogen ion concentration in a solution. Scale runs from 0 (strong acid) through 7 (neutral water) to 14 (strong base). The single most important measurement concept in settlement chemistry.
+- **Potash** — Potassium carbonate (K2CO3), the water-soluble alkaline salt extracted from hardwood ash. The precursor to lye and a valuable trade commodity in pre-industrial economies.
+- **Quicklime** — Calcium oxide (CaO), produced by calcining limestone at approximately 900 degrees Celsius. Reacts violently and exothermically with water. Handle with extreme caution.
+- **Saponification** — The chemical reaction between a fat (triglyceride) and an alkali (KOH or NaOH) that produces soap (fatty acid salt) and glycerin as a byproduct.
+- **Slaked lime** — Calcium hydroxide (Ca(OH)2), the product of quicklime reacted with water. Used for mortar, whitewash, water purification, nixtamalization, and hide processing.
+- **Tallow** — Rendered animal fat, purified by boiling and cooling to separate pure lipid from meat tissue and water. The primary fat source for soap production.
+- **Trace** — The point during saponification when the mixture thickens enough that drizzled batter leaves a visible trail on the surface before sinking. Indicates irreversible combination of fat and lye.
 
 ---
 

@@ -228,19 +228,19 @@ A community member feeds deer that appear at the settlement edge, finding them c
 ## Vocabulary of the Foundation
 
 - **Animal coexistence** — the practice of sharing landscape and resources with wildlife through structured management rather than extermination or passive acceptance
-- **Trophic cascade** — the indirect ecological effects that propagate through a food web when a species at one trophic level is removed or significantly altered in abundance
 - **Apex predator** — a predator at the top of its food web, with no natural predators of its own; regulates the populations and behavior of species at lower trophic levels
 - **Attractant removal** — the systematic elimination or securing of human-generated food sources, waste streams, and resource concentrations that draw wildlife into the settlement zone
-- **Habituation** — the learning process by which an animal that repeatedly encounters a stimulus without negative consequence ceases to respond to that stimulus
-- **Sensitization** — the learning process by which an animal that encounters an aversive stimulus becomes increasingly responsive to that stimulus and similar stimuli over time
-- **Neophobia** — an innate fear of novel objects or stimuli, exhibited strongly by wolves, corvids, and some other species; exploited by fladry and rotating visual deterrents
-- **Fladry** — lines of colored flags or strips hung at predator height along fence lines or barriers; exploits wolf neophobia to prevent crossing for 60-90 days
 - **Capsaicin deterrence** — the use of concentrated capsaicin (the active compound in hot peppers) as an aversive spray or barrier to create a sensitizing deterrent for bears and other mammals
-- **Guardian animal** — a domesticated animal (dog, donkey, llama) bonded to livestock and trained or instinctively motivated to deter predators from the herd or flock
-- **Wildlife audit** — a systematic 30-day survey of wildlife activity, conflict patterns, and attractant accessibility used to establish baseline data for management decisions
-- **Human-wildlife conflict** — any interaction between humans and wildlife that results in negative impacts on either party, including property damage, crop loss, livestock predation, or injury
 - **Ecological accounting** — the practice of tracking both wildlife-caused losses and wildlife-provided ecosystem services to enable rational management decisions
+- **Fladry** — lines of colored flags or strips hung at predator height along fence lines or barriers; exploits wolf neophobia to prevent crossing for 60-90 days
+- **Guardian animal** — a domesticated animal (dog, donkey, llama) bonded to livestock and trained or instinctively motivated to deter predators from the herd or flock
+- **Habituation** — the learning process by which an animal that repeatedly encounters a stimulus without negative consequence ceases to respond to that stimulus
+- **Human-wildlife conflict** — any interaction between humans and wildlife that results in negative impacts on either party, including property damage, crop loss, livestock predation, or injury
+- **Neophobia** — an innate fear of novel objects or stimuli, exhibited strongly by wolves, corvids, and some other species; exploited by fladry and rotating visual deterrents
 - **Non-lethal imperative** — the principle that no apex predator is killed except in immediate defense of human life, treating all other wildlife-caused losses as infrastructure failures
+- **Sensitization** — the learning process by which an animal that encounters an aversive stimulus becomes increasingly responsive to that stimulus and similar stimuli over time
+- **Trophic cascade** — the indirect ecological effects that propagate through a food web when a species at one trophic level is removed or significantly altered in abundance
+- **Wildlife audit** — a systematic 30-day survey of wildlife activity, conflict patterns, and attractant accessibility used to establish baseline data for management decisions
 
 ---
 

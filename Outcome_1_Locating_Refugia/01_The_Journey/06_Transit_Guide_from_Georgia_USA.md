@@ -226,16 +226,16 @@ TRAVOIS - TOP VIEW
 
 ## Vocabulary of the Foundation
 
-*   **Staging Hub:** The location from which a transit group organizes, equips, and departs. In this context, metropolitan Atlanta, Georgia.
-*   **Port:** The last point on the accessible road or trail network before the transition to untrailed terrain.
-*   **Foothill:** The refugia site or its immediate approach zone, typically at 200-600 m elevation above the surrounding lowlands.
-*   **Transition Zone:** The terrain between the port and the foothill — the most vulnerable segment of the transit.
-*   **Travois:** An A-frame cargo sled pulled by human or animal, used where wheeled vehicles cannot pass.
+*   **Bridge Audit:** Pre-transit verification of the condition and passability of every bridge on the planned route.
+*   **Cache-Forward:** A logistics strategy where supplies are pre-positioned along the route by advance teams, extending the main group's effective range.
 *   **Contour-Following:** A route-planning technique that maintains constant elevation by following the contour lines on a topographic map, avoiding unnecessary climbs and descents.
 *   **Density Gradient:** The spatial transition from high to low population density, which must be crossed as rapidly as possible during transit.
-*   **Cache-Forward:** A logistics strategy where supplies are pre-positioned along the route by advance teams, extending the main group's effective range.
+*   **Foothill:** The refugia site or its immediate approach zone, typically at 200-600 m elevation above the surrounding lowlands.
 *   **Forced March:** A period of sustained high-pace travel accepting elevated fatigue, used to cross high-risk zones quickly.
-*   **Bridge Audit:** Pre-transit verification of the condition and passability of every bridge on the planned route.
+*   **Port:** The last point on the accessible road or trail network before the transition to untrailed terrain.
+*   **Staging Hub:** The location from which a transit group organizes, equips, and departs. In this context, metropolitan Atlanta, Georgia.
+*   **Transition Zone:** The terrain between the port and the foothill — the most vulnerable segment of the transit.
+*   **Travois:** An A-frame cargo sled pulled by human or animal, used where wheeled vehicles cannot pass.
 
 ---
 

@@ -218,24 +218,15 @@ Five recurring failures that compromise salt-spray management in coastal settlem
 
 ## Vocabulary of the Foundation
 
-- **Halophyte**: A plant species adapted to grow in saline soils or salt-spray environments, typically tolerating soil salinity above 8 dS/m. Halophytes employ salt exclusion, secretion, or dilution mechanisms at the cellular level.
-
 - **Aerosol Deposition**: The process by which airborne salt particles settle onto surfaces (leaves, soil, metal, structures). Deposition rate is a function of aerosol concentration, wind speed, and surface roughness. Vegetation dramatically increases deposition rate locally (capturing particles) while reducing downwind deposition.
-
-- **Osmotic Stress**: The physiological stress experienced by plant roots when dissolved salts in soil water raise the osmotic potential, increasing the energy required for water uptake. Manifests as wilting, stunted growth, and leaf burn even when soil moisture is adequate.
-
-- **Galvanic Corrosion**: Accelerated electrochemical corrosion occurring when two dissimilar metals are in electrical contact in the presence of an electrolyte (such as salt water). The more reactive metal (anode) corrodes preferentially, sometimes at many times its normal corrosion rate.
-
-- **Salt Belt**: A designed zone of salt-tolerant vegetation planted between the ocean and agricultural land, functioning as a physical and biological filter for airborne salt aerosol. Effective salt belts reduce downwind aerosol concentration by 50-90%.
-
-- **Soil Salinity (dS/m)**: The electrical conductivity of a saturated soil paste extract, measured in deciSiemens per meter. The standard metric for quantifying salt content in agricultural soils. Values below 2 dS/m are safe for all crops; values above 4 dS/m restrict cultivation to tolerant species.
-
-- **Leaching Fraction**: The fraction of applied irrigation water that drains below the root zone, carrying dissolved salts with it. A leaching fraction of 15-20% is typically required to prevent salt accumulation in irrigated coastal soils.
-
-- **Gypsum Amendment**: The application of calcium sulfate (CaSO4) to salt-affected soil. Calcium displaces sodium from clay particle exchange sites through cation exchange, improving soil structure and facilitating sodium removal through subsequent leaching.
-
 - **Electrochemical Corrosion**: The degradation of metals through oxidation-reduction reactions facilitated by an electrolyte. In coastal environments, dissolved NaCl in surface moisture films acts as the electrolyte, increasing corrosion rates by an order of magnitude compared to dry inland conditions.
-
+- **Galvanic Corrosion**: Accelerated electrochemical corrosion occurring when two dissimilar metals are in electrical contact in the presence of an electrolyte (such as salt water). The more reactive metal (anode) corrodes preferentially, sometimes at many times its normal corrosion rate.
+- **Gypsum Amendment**: The application of calcium sulfate (CaSO4) to salt-affected soil. Calcium displaces sodium from clay particle exchange sites through cation exchange, improving soil structure and facilitating sodium removal through subsequent leaching.
+- **Halophyte**: A plant species adapted to grow in saline soils or salt-spray environments, typically tolerating soil salinity above 8 dS/m. Halophytes employ salt exclusion, secretion, or dilution mechanisms at the cellular level.
+- **Leaching Fraction**: The fraction of applied irrigation water that drains below the root zone, carrying dissolved salts with it. A leaching fraction of 15-20% is typically required to prevent salt accumulation in irrigated coastal soils.
+- **Osmotic Stress**: The physiological stress experienced by plant roots when dissolved salts in soil water raise the osmotic potential, increasing the energy required for water uptake. Manifests as wilting, stunted growth, and leaf burn even when soil moisture is adequate.
+- **Salt Belt**: A designed zone of salt-tolerant vegetation planted between the ocean and agricultural land, functioning as a physical and biological filter for airborne salt aerosol. Effective salt belts reduce downwind aerosol concentration by 50-90%.
+- **Soil Salinity (dS/m)**: The electrical conductivity of a saturated soil paste extract, measured in deciSiemens per meter. The standard metric for quantifying salt content in agricultural soils. Values below 2 dS/m are safe for all crops; values above 4 dS/m restrict cultivation to tolerant species.
 - **Tallow**: Rendered animal fat (typically from cattle or sheep), purified by heating to remove proteins and water. Used as a protective coating for metal surfaces, forming a hydrophobic barrier that excludes moisture and dissolved salt from the metal surface.
 
 ---

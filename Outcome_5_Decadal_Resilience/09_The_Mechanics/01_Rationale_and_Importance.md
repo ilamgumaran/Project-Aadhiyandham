@@ -312,35 +312,21 @@ Document all sources on a physical map with distance, estimated quantity, and ac
 
 ## Vocabulary of the Foundation
 
-- **Recycling Cliff** — the point at which scavenged industrial goods degrade faster than they can be replaced, forcing the transition to local manufacturing. Estimated at ten to twenty years post-settlement for most material categories.
-
-- **Bloomery** — a simple furnace that reduces iron ore to metallic iron using charcoal fuel and forced air from bellows. The foundational iron-smelting technology, operated continuously for over three thousand years across all inhabited continents.
-
-- **Line-shaft** — a rotating horizontal shaft that distributes mechanical power from a single source (water wheel, windmill) to multiple workstations via belts and pulleys.
-
-- **Overshot wheel** — a water wheel where water is delivered to the top of the wheel and descends by gravity through buckets; the highest-efficiency type (sixty to ninety percent) among water wheel designs.
-
-- **Wrought iron** — low-carbon iron (0.02 to 0.08 percent C) produced by bloomery smelting. Soft, highly forgeable, weldable by hammer, and relatively corrosion-resistant compared to steel.
-
-- **Carburization** — the process of adding carbon to wrought iron by prolonged heating in direct contact with charcoal, converting it to medium- or high-carbon steel with greater hardness and edge retention.
-
-- **Pozzolanic cement** — lime-based cement incorporating volcanic ash or crushed fired-brick dust. The Roman formula, which has demonstrated durability exceeding Portland cement by orders of magnitude.
-
-- **Coppice** — a woodland management system where trees are cut near ground level and allowed to regrow from the stump, producing a sustainable and renewable harvest of poles, fuel wood, and craft timber on seven- to twenty-five-year rotation cycles.
-
-- **Betz limit** — the theoretical maximum efficiency (59.3 percent) at which a wind turbine or windmill can extract kinetic energy from a moving air mass.
-
-- **Bast fiber** — plant fiber harvested from the phloem layer (inner bark) of plant stems. Principal sources include flax, hemp, nettle, jute, and ramie. Used for cordage, textiles, and paper.
-
-- **Calcination** — the thermal decomposition of calcium carbonate (limestone or shell) at approximately 900°C to produce quicklime (calcium oxide). The foundational reaction for all lime, mortar, and plaster production.
-
-- **Vertical integration** — the practice of controlling all stages of production from raw material extraction through intermediate processing to finished product, eliminating dependence on external supply chains.
-
-- **Fabrica** — the Roman military workshop complex; a proven organizational model for settlement-scale manufacturing covering metalwork, woodwork, leather-working, and pottery under integrated management.
-
 - **Apprenticeship** — person-to-person knowledge transfer through months to years of supervised practice; the pre-industrial mechanism for manufacturing knowledge continuity across generations.
-
+- **Bast fiber** — plant fiber harvested from the phloem layer (inner bark) of plant stems. Principal sources include flax, hemp, nettle, jute, and ramie. Used for cordage, textiles, and paper.
+- **Betz limit** — the theoretical maximum efficiency (59.3 percent) at which a wind turbine or windmill can extract kinetic energy from a moving air mass.
+- **Bloomery** — a simple furnace that reduces iron ore to metallic iron using charcoal fuel and forced air from bellows. The foundational iron-smelting technology, operated continuously for over three thousand years across all inhabited continents.
+- **Calcination** — the thermal decomposition of calcium carbonate (limestone or shell) at approximately 900°C to produce quicklime (calcium oxide). The foundational reaction for all lime, mortar, and plaster production.
+- **Carburization** — the process of adding carbon to wrought iron by prolonged heating in direct contact with charcoal, converting it to medium- or high-carbon steel with greater hardness and edge retention.
+- **Coppice** — a woodland management system where trees are cut near ground level and allowed to regrow from the stump, producing a sustainable and renewable harvest of poles, fuel wood, and craft timber on seven- to twenty-five-year rotation cycles.
+- **Fabrica** — the Roman military workshop complex; a proven organizational model for settlement-scale manufacturing covering metalwork, woodwork, leather-working, and pottery under integrated management.
+- **Line-shaft** — a rotating horizontal shaft that distributes mechanical power from a single source (water wheel, windmill) to multiple workstations via belts and pulleys.
+- **Overshot wheel** — a water wheel where water is delivered to the top of the wheel and descends by gravity through buckets; the highest-efficiency type (sixty to ninety percent) among water wheel designs.
+- **Pozzolanic cement** — lime-based cement incorporating volcanic ash or crushed fired-brick dust. The Roman formula, which has demonstrated durability exceeding Portland cement by orders of magnitude.
+- **Recycling Cliff** — the point at which scavenged industrial goods degrade faster than they can be replaced, forcing the transition to local manufacturing. Estimated at ten to twenty years post-settlement for most material categories.
+- **Vertical integration** — the practice of controlling all stages of production from raw material extraction through intermediate processing to finished product, eliminating dependence on external supply chains.
 - **Workshop Journal** — a physical document recording all manufacturing procedures, process parameters, modifications, failures, and lessons learned; the community's manufacturing memory and insurance against knowledge loss.
+- **Wrought iron** — low-carbon iron (0.02 to 0.08 percent C) produced by bloomery smelting. Soft, highly forgeable, weldable by hammer, and relatively corrosion-resistant compared to steel.
 
 ---
 

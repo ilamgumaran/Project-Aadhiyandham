@@ -389,18 +389,18 @@ Greywater (from washing, cooking, and bathing) contains fewer pathogens than bla
 
 ## Vocabulary of the Foundation
 
-- **Fecal-Oral Transmission** (மலக்கழிவு-வாய் வழி பரவுதல்): The transmission pathway by which pathogens in feces reach a new host through ingestion, via contaminated water, food, hands, or flies.
-- **F-Diagram**: The schematic model showing all routes from feces to new host — Fluids, Fields, Flies, Fingers, Fomites — and the barriers that interrupt each route.
-- **VIP Latrine** (காற்றோட்ட குழி கழிப்பறை): Ventilated Improved Pit latrine. Uses a vent pipe with fly screen and a dark interior to passively trap flies and remove odor.
-- **Soakaway** (ஊறுகுழி): A gravel-filled pit that receives greywater and allows it to percolate into surrounding soil, preventing surface pooling.
-- **Greywater** (சாம்பல் நீர்): Wastewater from washing, cooking, and bathing. Lower pathogen load than blackwater but not safe for uncontrolled discharge.
 - **Blackwater** (கருப்பு நீர்): Wastewater containing human feces and urine. The highest-risk wastewater stream.
-- **Tippy-Tap** (கை கழுவும் குடம்): A simple hands-free handwashing device using a suspended water container operated by a foot lever.
+- **F-Diagram**: The schematic model showing all routes from feces to new host — Fluids, Fields, Flies, Fingers, Fomites — and the barriers that interrupt each route.
+- **Fecal-Oral Transmission** (மலக்கழிவு-வாய் வழி பரவுதல்): The transmission pathway by which pathogens in feces reach a new host through ingestion, via contaminated water, food, hands, or flies.
+- **Greywater** (சாம்பல் நீர்): Wastewater from washing, cooking, and bathing. Lower pathogen load than blackwater but not safe for uncontrolled discharge.
 - **Open Defecation** (திறந்தவெளி மலம் கழித்தல்): The practice of defecating in fields, bushes, or open areas rather than in designated facilities. The primary driver of fecal-oral disease transmission.
-- **Vector** (நோய் கடத்தி): An organism (typically an insect) that transmits pathogens from one host to another. In sanitation, primarily houseflies and mosquitoes.
 - **Pit Lining** (குழி உட்சுவர்): Structural reinforcement of the upper portion of a latrine pit using stone, wattle, or other materials to prevent collapse in unstable soil.
 - **Slab** (தரைத்தட்டு): The platform covering a latrine pit, containing the squat hole. Prevents cave-in and provides the structural base for fly control.
+- **Soakaway** (ஊறுகுழி): A gravel-filled pit that receives greywater and allows it to percolate into surrounding soil, preventing surface pooling.
 - **Stack Effect** (புகைபோக்கி விளைவு): The natural convection phenomenon where heated air in a dark vent pipe rises, drawing fresh air through the system. Drives odor removal and fly trapping in VIP latrines.
+- **Tippy-Tap** (கை கழுவும் குடம்): A simple hands-free handwashing device using a suspended water container operated by a foot lever.
+- **Vector** (நோய் கடத்தி): An organism (typically an insect) that transmits pathogens from one host to another. In sanitation, primarily houseflies and mosquitoes.
+- **VIP Latrine** (காற்றோட்ட குழி கழிப்பறை): Ventilated Improved Pit latrine. Uses a vent pipe with fly screen and a dark interior to passively trap flies and remove odor.
 
 ---
 

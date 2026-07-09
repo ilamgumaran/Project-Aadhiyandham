@@ -291,35 +291,21 @@ BLOOMERY FURNACE — CROSS SECTION
 
 ## Vocabulary of the Foundation
 
-- **Reduction** — the chemical process inside the furnace where carbon monoxide from the charcoal strips oxygen from the iron ore, leaving behind metallic iron. The reverse of rusting (oxidation).
-
-- **Refractory** — materials, particularly specific clays mixed with sand or quartz, that can withstand extremely high temperatures without melting, deforming, or cracking. Essential for furnace construction.
-
-- **Shingling** — the process of hammering a hot iron bloom immediately after extraction to squeeze out trapped liquid slag and consolidate the spongy iron mass into a solid, workable bar.
-
-- **Slag** — the glassy waste material that separates from the iron during smelting. Composed primarily of iron silicate, it contains impurities from the ore, flux, and furnace wall material. Liquid above approximately 1100 degrees C.
-
-- **Tuyere** — (pronounced *tweer*) the pipe or channel that carries the air blast from the bellows into the furnace interior. Positioned 10-15 cm above the base and angled downward. The most thermally stressed component of the furnace.
-
 - **Bloom** — the spongy mass of iron and slag produced by a bloomery smelt. Not yet usable metal — must be shingled (hammered) to consolidate into wrought iron.
-
 - **Bog iron** — iron hydroxide (FeOOH) deposited in wetlands and stream beds by iron-oxidizing bacteria. The most accessible ore source for temperate settlements. Regenerates in 15-30 years after harvesting.
-
 - **Carburization** — the process of adding carbon to wrought iron by heating it in sealed contact with charcoal powder at 900-1000 degrees C, converting the surface layer to steel.
-
-- **Forge welding** — joining two pieces of iron or steel by heating both to yellow-white heat (1200 degrees C and above) and hammering them together. Requires flux (borax or fine sand) applied to the joint surfaces to prevent oxidation.
-
-- **Quenching** — rapid cooling of hot steel in water or oil to harden it by locking the crystal structure in a strained configuration. Must be followed by tempering to restore toughness.
-
-- **Tempering** — reheating quenched steel to 200-300 degrees C to reduce brittleness while retaining most of the hardness gained from quenching. The oxide color on the surface indicates temperature reached.
-
-- **Spark test** — method of identifying steel type and approximate carbon content by observing the color, length, and forking pattern of sparks produced when the steel is ground against an abrasive surface.
-
-- **Flux** — a substance (borax, fine sand, or wood ash) applied to metal surfaces before forge welding to dissolve oxide scale and ensure a clean metallurgical bond between the pieces.
-
 - **Charge** — a measured quantity of fuel and ore added to the furnace as a single batch during a smelt. Multiple charges are added sequentially as the burden descends.
-
 - **Draft** — the flow of air through the furnace, either natural (created by the chimney effect of a tall shaft) or forced (driven by bellows or a blower). Controls combustion rate and furnace temperature.
+- **Flux** — a substance (borax, fine sand, or wood ash) applied to metal surfaces before forge welding to dissolve oxide scale and ensure a clean metallurgical bond between the pieces.
+- **Forge welding** — joining two pieces of iron or steel by heating both to yellow-white heat (1200 degrees C and above) and hammering them together. Requires flux (borax or fine sand) applied to the joint surfaces to prevent oxidation.
+- **Quenching** — rapid cooling of hot steel in water or oil to harden it by locking the crystal structure in a strained configuration. Must be followed by tempering to restore toughness.
+- **Reduction** — the chemical process inside the furnace where carbon monoxide from the charcoal strips oxygen from the iron ore, leaving behind metallic iron. The reverse of rusting (oxidation).
+- **Refractory** — materials, particularly specific clays mixed with sand or quartz, that can withstand extremely high temperatures without melting, deforming, or cracking. Essential for furnace construction.
+- **Shingling** — the process of hammering a hot iron bloom immediately after extraction to squeeze out trapped liquid slag and consolidate the spongy iron mass into a solid, workable bar.
+- **Slag** — the glassy waste material that separates from the iron during smelting. Composed primarily of iron silicate, it contains impurities from the ore, flux, and furnace wall material. Liquid above approximately 1100 degrees C.
+- **Spark test** — method of identifying steel type and approximate carbon content by observing the color, length, and forking pattern of sparks produced when the steel is ground against an abrasive surface.
+- **Tempering** — reheating quenched steel to 200-300 degrees C to reduce brittleness while retaining most of the hardness gained from quenching. The oxide color on the surface indicates temperature reached.
+- **Tuyere** — (pronounced *tweer*) the pipe or channel that carries the air blast from the bellows into the furnace interior. Positioned 10-15 cm above the base and angled downward. The most thermally stressed component of the furnace.
 
 ---
 

@@ -341,21 +341,21 @@ Before committing to a building location, conduct a solar site survey to identif
 
 ## Vocabulary of the Foundation
 
+- **Analemma:** The figure-eight pattern traced by the sun's position if observed at the same clock time each day over a full year, resulting from Earth's orbital eccentricity and axial tilt.
+- **Circadian Rhythm:** The approximately 24-hour biological cycle governing sleep, wakefulness, hormone release, and body temperature, entrained primarily by morning light exposure.
+- **Diurnal Swing:** The difference between the highest and lowest temperature in a single 24-hour period. Thermal mass reduces diurnal swing inside a building.
+- **Equinox:** The two dates per year (approximately March 20 and September 22) when day and night are of equal length and the solar declination is zero.
+- **Lux:** A unit of illuminance measuring light intensity as perceived by the human eye. 2,500 lux is the minimum for circadian entrainment; 10,000+ lux is typical of outdoor daylight.
+- **Overhang:** A horizontal projection above a window that blocks high-angle summer sun while admitting low-angle winter sun. Depth is calculated from latitude and window height.
+- **Passive Solar Design:** Building design that uses solar energy for heating and cooling without active mechanical systems, relying on orientation, glazing placement, thermal mass, and overhangs.
 - **Solar Altitude:** The angle between the sun and the horizon, measured in degrees. Ranges from 0 degrees (sunrise/sunset) to a maximum determined by latitude and season.
 - **Solar Azimuth:** The compass bearing of the sun, measured in degrees from True North. At solar noon in the Northern Hemisphere, the azimuth is exactly 180 degrees (due south).
 - **Solar Declination:** The angle between the sun and the celestial equator, ranging from +23.44 degrees (summer solstice) to -23.44 degrees (winter solstice). Determines seasonal variation in solar altitude.
-- **Thermal Mass:** Dense material (stone, water, earth, concrete) placed in a building to absorb, store, and release heat energy, stabilizing interior temperatures.
-- **Specific Heat Capacity:** The energy (in joules) required to raise 1 kg of a material by 1 degree Celsius. Water: 4,186 J/kg/C. Stone: 800-1,000 J/kg/C.
-- **Passive Solar Design:** Building design that uses solar energy for heating and cooling without active mechanical systems, relying on orientation, glazing placement, thermal mass, and overhangs.
-- **Overhang:** A horizontal projection above a window that blocks high-angle summer sun while admitting low-angle winter sun. Depth is calculated from latitude and window height.
 - **Solar Obstruction Line:** The minimum altitude angle that must remain clear of obstructions (trees, terrain, structures) on the equator-facing side of a building to ensure winter solar access between 9 AM and 3 PM.
-- **Circadian Rhythm:** The approximately 24-hour biological cycle governing sleep, wakefulness, hormone release, and body temperature, entrained primarily by morning light exposure.
-- **Lux:** A unit of illuminance measuring light intensity as perceived by the human eye. 2,500 lux is the minimum for circadian entrainment; 10,000+ lux is typical of outdoor daylight.
-- **Diurnal Swing:** The difference between the highest and lowest temperature in a single 24-hour period. Thermal mass reduces diurnal swing inside a building.
-- **Equinox:** The two dates per year (approximately March 20 and September 22) when day and night are of equal length and the solar declination is zero.
 - **Solstice:** The two dates per year when the sun reaches its highest point (summer solstice, approximately June 21) or lowest point (winter solstice, approximately December 21) at solar noon.
-- **Analemma:** The figure-eight pattern traced by the sun's position if observed at the same clock time each day over a full year, resulting from Earth's orbital eccentricity and axial tilt.
+- **Specific Heat Capacity:** The energy (in joules) required to raise 1 kg of a material by 1 degree Celsius. Water: 4,186 J/kg/C. Stone: 800-1,000 J/kg/C.
 - **Stack Effect:** The natural convection process where warm air rises and exits through high openings, drawing cool air in through low openings. The basis of passive ventilation in solar-heated buildings.
+- **Thermal Mass:** Dense material (stone, water, earth, concrete) placed in a building to absorb, store, and release heat energy, stabilizing interior temperatures.
 
 ---
 

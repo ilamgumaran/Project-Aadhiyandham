@@ -379,19 +379,19 @@ When a hydraulic ram is not viable (insufficient flow, insufficient fall, or no 
 
 ## Vocabulary of the Foundation
 
-- **Hydraulic Ram (Hydram):** A pump that uses the kinetic energy of flowing water, arrested suddenly by a closing valve, to lift a portion of that water to an elevation higher than the source. Requires no external power.
-- **Water Hammer:** The pressure surge generated when a fluid in motion is forced to stop suddenly. In plumbing it is a destructive nuisance; in the ram pump it is the operating principle.
-- **Joukowsky Equation:** ΔP = ρcΔV. Relates the pressure spike from water hammer to the fluid density, wave propagation speed, and velocity change. The foundational equation of ram pump physics.
-- **Drive Pipe:** The rigid pipe carrying water from the source to the pump body. Functions as the kinetic energy accumulator. Must be straight, rigid, and 5–10 times the supply head in length.
-- **Waste Valve:** The normally-open valve at the pump body that allows water to flow freely, building velocity in the drive pipe. When flow velocity reaches a critical speed, hydrodynamic drag on the valve disc forces it shut, triggering water hammer. Also called the impulse valve or clack valve.
-- **Check Valve:** A one-way valve that permits flow in one direction only. In the ram pump, the delivery check valve opens during the water hammer pressure spike to admit pressurised water into the air chamber and delivery pipe, then closes to prevent backflow.
 - **Air Chamber (Pressure Vessel):** A sealed vessel containing trapped air, mounted after the delivery check valve. Compresses during water hammer pulses (storing energy) and expands between pulses (releasing stored energy as steady flow). Essential for smooth delivery and protection of the delivery pipe from pressure cycling.
-- **Supply Head:** The vertical distance (elevation difference) between the water source intake and the pump location. Determines the kinetic energy available in the drive pipe. Minimum practical value: 1 m.
-- **Delivery Head:** The vertical distance from the pump to the storage tank. The useful work output of the pump. Practical maximum: 20 times the supply head.
-- **D'Aubuisson Efficiency:** η = (q × H) / (Q × h). The standard efficiency metric for hydraulic ram pumps, relating the ratio of useful output power (delivery flow × delivery head) to input power (total flow × supply head). Well-built rams achieve 60–80%.
-- **Siphon:** A continuous tube that moves liquid from a higher reservoir over an intermediate high point and down to a lower outlet, powered only by the weight of the liquid in the descending leg. Cannot lift water above the source elevation.
-- **Noria:** A water-powered wheel with attached buckets or compartments that lifts water from a river to an aqueduct. The river current provides the motive force. An ancient technology still in use.
 - **Chain Pump:** A mechanical water-lifting device consisting of an endless chain carrying discs through a vertical pipe. Manual or animal-powered. Effective for moderate lift (up to 10 m) and continuous flow.
+- **Check Valve:** A one-way valve that permits flow in one direction only. In the ram pump, the delivery check valve opens during the water hammer pressure spike to admit pressurised water into the air chamber and delivery pipe, then closes to prevent backflow.
+- **D'Aubuisson Efficiency:** η = (q × H) / (Q × h). The standard efficiency metric for hydraulic ram pumps, relating the ratio of useful output power (delivery flow × delivery head) to input power (total flow × supply head). Well-built rams achieve 60–80%.
+- **Delivery Head:** The vertical distance from the pump to the storage tank. The useful work output of the pump. Practical maximum: 20 times the supply head.
+- **Drive Pipe:** The rigid pipe carrying water from the source to the pump body. Functions as the kinetic energy accumulator. Must be straight, rigid, and 5–10 times the supply head in length.
+- **Hydraulic Ram (Hydram):** A pump that uses the kinetic energy of flowing water, arrested suddenly by a closing valve, to lift a portion of that water to an elevation higher than the source. Requires no external power.
+- **Joukowsky Equation:** ΔP = ρcΔV. Relates the pressure spike from water hammer to the fluid density, wave propagation speed, and velocity change. The foundational equation of ram pump physics.
+- **Noria:** A water-powered wheel with attached buckets or compartments that lifts water from a river to an aqueduct. The river current provides the motive force. An ancient technology still in use.
+- **Siphon:** A continuous tube that moves liquid from a higher reservoir over an intermediate high point and down to a lower outlet, powered only by the weight of the liquid in the descending leg. Cannot lift water above the source elevation.
+- **Supply Head:** The vertical distance (elevation difference) between the water source intake and the pump location. Determines the kinetic energy available in the drive pipe. Minimum practical value: 1 m.
+- **Waste Valve:** The normally-open valve at the pump body that allows water to flow freely, building velocity in the drive pipe. When flow velocity reaches a critical speed, hydrodynamic drag on the valve disc forces it shut, triggering water hammer. Also called the impulse valve or clack valve.
+- **Water Hammer:** The pressure surge generated when a fluid in motion is forced to stop suddenly. In plumbing it is a destructive nuisance; in the ram pump it is the operating principle.
 
 ---
 

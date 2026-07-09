@@ -361,20 +361,20 @@ All debrief data is logged in the settlement's permanent contact record. This re
 
 ## Vocabulary of the Foundation
 
-* **De-escalation**: A deliberate, structured process of reducing tension and hostility in a confrontation through communication, distance management, and graduated response, with the goal of resolving the encounter without physical violence.
+* **Acoustic Deterrence**: The use of organized sound (horns, drums, coordinated voice) to signal alertness, organization, and numerical strength to approaching contacts.
 * **Contact Point**: A designated, fortified location at the settlement's perimeter (minimum 100 m from center) where all interactions with outsiders occur, designed to provide the contact team with cover, high ground, and control of the interaction space.
 * **Contact Team**: The 4-person group (Speaker, Observer, two Backup) trained and assigned to manage all interactions with unknown individuals at the Contact Point.
-* **Speaker**: The single designated communicator on the contact team, selected for calm temperament and verbal clarity, who conducts all verbal interaction with the contact. Only the Speaker speaks.
+* **De-escalation**: A deliberate, structured process of reducing tension and hostility in a confrontation through communication, distance management, and graduated response, with the goal of resolving the encounter without physical violence.
+* **Five-Phase Protocol**: The structured de-escalation sequence: Announce (80+ m), Assess (50-80 m), Decide, Deter, Withdraw — each phase providing more information and preserving options.
+* **Force Multiplication**: The use of deception (smoke, sound, light, movement) to make a small settlement appear larger and more capable than it actually is, deterring engagement without combat.
+* **Non-Lethal Deterrence**: Methods of discouraging hostile approach without inflicting physical harm, including acoustic signals, visual deception, light arrays, and voice amplification.
 * **Observer**: The contact team member positioned near the Speaker whose role is to assess the contact's body language, scan for hidden companions, and maintain silent hand-signal communication with the overwatch and Backup positions.
 * **Overwatch**: A concealed observer positioned 30-50 m behind and above the Contact Point who provides situational awareness, detects flanking approaches, and can sound the escalation signal (horn) if needed.
-* **Five-Phase Protocol**: The structured de-escalation sequence: Announce (80+ m), Assess (50-80 m), Decide, Deter, Withdraw — each phase providing more information and preserving options.
+* **Post-Contact Debrief**: The mandatory structured review conducted after every contact event, recording who was encountered, what they wanted, what intelligence was gathered, and how the protocol performed.
+* **Speaker**: The single designated communicator on the contact team, selected for calm temperament and verbal clarity, who conducts all verbal interaction with the contact. Only the Speaker speaks.
 * **Threat Assessment**: The combined analysis of verbal responses, body language, equipment, group composition, and behavioral indicators used in Phase 2-3 to determine the contact's intent and the appropriate response.
-* **Non-Lethal Deterrence**: Methods of discouraging hostile approach without inflicting physical harm, including acoustic signals, visual deception, light arrays, and voice amplification.
-* **Force Multiplication**: The use of deception (smoke, sound, light, movement) to make a small settlement appear larger and more capable than it actually is, deterring engagement without combat.
-* **Acoustic Deterrence**: The use of organized sound (horns, drums, coordinated voice) to signal alertness, organization, and numerical strength to approaching contacts.
 * **Visual Deterrence**: The use of smoke columns, torch arrays, mirror flashes, and other visible signals to imply a large, distributed, alert population.
 * **Withdrawal Route**: A pre-planned, concealed path from the Contact Point to the settlement interior, known to all contact team members, designed to be difficult for unfamiliar pursuers to follow.
-* **Post-Contact Debrief**: The mandatory structured review conducted after every contact event, recording who was encountered, what they wanted, what intelligence was gathered, and how the protocol performed.
 
 ---
 

@@ -310,33 +310,20 @@ TRAVOIS vs CART — SIDE VIEW COMPARISON
 
 ## Vocabulary of the Foundation
 
-- **Rolling resistance (Crr)** — the ratio of drag force to normal force for a wheel rolling on a surface. Lower values mean easier rolling. Packed earth: 0.02-0.05. Soft sand: 0.1-0.3. Paved surface: 0.01-0.02.
-
-- **Composite lug** — a joint formed by wrapping resin-soaked natural fiber around the junction of two structural members (typically bamboo to steel). The fiber-resin matrix transfers load through shear, creating a bond stronger than either material alone.
-
-- **Fire-hardening** — controlled surface charring of bamboo or wood to drive out moisture and cross-link surface cellulose fibers, increasing compressive strength by 20-30%. Distinct from full carbonization, which destroys structural integrity.
-
 - **Collar harness** — a draft animal harness distributing pulling force across the shoulders and chest rather than the throat. Allows the animal to exert full muscular pulling force without respiratory restriction.
-
-- **Shrink-fit tire** — an iron ring heated to expand, fitted over a wooden wheel rim, then quenched with water to contract. The cooling iron grips the wood permanently, compressing the wheel structure and protecting the rim from wear.
-
-- **Travois** — an A-frame drag sled consisting of two poles converging at the puller's harness and diverging to drag on the ground behind. The zero-technology transport solution for terrain where wheels cannot operate.
-
-- **Tongue-and-yoke** — a draft connection system for paired animals, typically oxen. A central pole (tongue) extends forward from the cart between the animals, connected to a crossbar (yoke) resting across their necks.
-
-- **Shaft harness** — a single-animal draft connection using two rigid poles flanking the animal's body, connected to the collar harness. Used for horses, mules, and donkeys.
-
-- **Spoke** — a radial structural member connecting a wheel hub to the rim. Spoked wheels are lighter than solid disc wheels but require greater woodworking skill to construct and maintain.
-
-- **Felloe** — one of the curved outer segments of a wooden wheel rim, into which the outer ends of the spokes are fitted. Multiple felloes form the complete rim circle.
-
-- **Linchpin** — the pin passing through a hole at the end of an axle to retain the wheel. A small, easily lost component whose absence causes wheel detachment. Carry spares.
-
-- **Wheelwright** — a craftsperson specializing in wheel construction, particularly spoked wheels with shrink-fit iron tires. One of the most critical skilled trades in a pre-industrial community — a settlement without a wheelwright cannot maintain wheeled transport.
-
+- **Composite lug** — a joint formed by wrapping resin-soaked natural fiber around the junction of two structural members (typically bamboo to steel). The fiber-resin matrix transfers load through shear, creating a bond stronger than either material alone.
 - **Daihachi-guruma** — the heavy two-wheeled handcart of Edo-period Japan (1603-1868). A historical example of effective human-powered cargo transport carrying 300-500 kg with two operators, functioning within a comprehensive urban logistics network.
-
+- **Felloe** — one of the curved outer segments of a wooden wheel rim, into which the outer ends of the spokes are fitted. Multiple felloes form the complete rim circle.
+- **Fire-hardening** — controlled surface charring of bamboo or wood to drive out moisture and cross-link surface cellulose fibers, increasing compressive strength by 20-30%. Distinct from full carbonization, which destroys structural integrity.
+- **Linchpin** — the pin passing through a hole at the end of an axle to retain the wheel. A small, easily lost component whose absence causes wheel detachment. Carry spares.
 - **Nave** — the central hub of a wheel through which the axle passes. Also called the hub. The nave must be bored precisely to match axle diameter with 2-3 mm clearance for the lubricant film.
+- **Rolling resistance (Crr)** — the ratio of drag force to normal force for a wheel rolling on a surface. Lower values mean easier rolling. Packed earth: 0.02-0.05. Soft sand: 0.1-0.3. Paved surface: 0.01-0.02.
+- **Shaft harness** — a single-animal draft connection using two rigid poles flanking the animal's body, connected to the collar harness. Used for horses, mules, and donkeys.
+- **Shrink-fit tire** — an iron ring heated to expand, fitted over a wooden wheel rim, then quenched with water to contract. The cooling iron grips the wood permanently, compressing the wheel structure and protecting the rim from wear.
+- **Spoke** — a radial structural member connecting a wheel hub to the rim. Spoked wheels are lighter than solid disc wheels but require greater woodworking skill to construct and maintain.
+- **Tongue-and-yoke** — a draft connection system for paired animals, typically oxen. A central pole (tongue) extends forward from the cart between the animals, connected to a crossbar (yoke) resting across their necks.
+- **Travois** — an A-frame drag sled consisting of two poles converging at the puller's harness and diverging to drag on the ground behind. The zero-technology transport solution for terrain where wheels cannot operate.
+- **Wheelwright** — a craftsperson specializing in wheel construction, particularly spoked wheels with shrink-fit iron tires. One of the most critical skilled trades in a pre-industrial community — a settlement without a wheelwright cannot maintain wheeled transport.
 
 ---
 

@@ -336,20 +336,20 @@ Defensible space prevents most fire threats, but preparation for the fire that e
 
 ## Vocabulary of the Foundation
 
-- **Defensible space**: the managed area around a structure in which vegetation and other combustible materials have been modified to reduce fire threat
-- **Crown fire**: fire burning in the canopy of trees, either passively (supported by surface fire below) or actively (self-sustaining, spreading tree to tree)
-- **Surface fire**: fire burning in litter, grass, and low vegetation on the ground surface, with flame lengths typically 0.3 to 2 meters
-- **Ground fire**: fire burning in the organic layer (duff, peat, roots) below the ground surface, characterized by smoldering combustion without visible flame
-- **Ladder fuels**: vegetation that provides vertical continuity between surface fuels and canopy fuels, enabling surface fire to transition to crown fire
-- **Crown spacing**: the horizontal distance between the edges of adjacent tree canopies, measured edge to edge
-- **Fuel break**: a strip of land where vegetation has been removed or reduced to slow or stop fire spread, typically maintained to bare mineral soil or very low vegetation
-- **Prescribed burn (cool burn)**: a deliberately set, low-intensity fire used to reduce surface fuel accumulation under controlled conditions
 - **Backing fire**: a fire that burns into the wind, advancing slowly with short flame lengths — the safe ignition technique for prescribed burns
-- **Head fire**: a fire that burns with the wind, advancing rapidly with long flame lengths — dangerous and difficult to control
+- **Crown fire**: fire burning in the canopy of trees, either passively (supported by surface fire below) or actively (self-sustaining, spreading tree to tree)
+- **Crown spacing**: the horizontal distance between the edges of adjacent tree canopies, measured edge to edge
+- **Defensible space**: the managed area around a structure in which vegetation and other combustible materials have been modified to reduce fire threat
 - **Ember attack (firebrands)**: the process by which small pieces of burning material are lofted by convective winds and carried ahead of the fire front to ignite structures and fuel at a distance
-- **Fire triangle**: the three elements required for combustion — fuel, heat, and oxygen
 - **Fire behavior triangle**: the three factors that determine how fire behaves — fuel characteristics, weather conditions, and topography
+- **Fire triangle**: the three elements required for combustion — fuel, heat, and oxygen
+- **Fuel break**: a strip of land where vegetation has been removed or reduced to slow or stop fire spread, typically maintained to bare mineral soil or very low vegetation
+- **Ground fire**: fire burning in the organic layer (duff, peat, roots) below the ground surface, characterized by smoldering combustion without visible flame
 - **Haines Index**: a measure of lower-atmosphere stability and dryness that predicts the potential for large fire growth, scaled from 2 (low) to 6 (high)
+- **Head fire**: a fire that burns with the wind, advancing rapidly with long flame lengths — dangerous and difficult to control
+- **Ladder fuels**: vegetation that provides vertical continuity between surface fuels and canopy fuels, enabling surface fire to transition to crown fire
+- **Prescribed burn (cool burn)**: a deliberately set, low-intensity fire used to reduce surface fuel accumulation under controlled conditions
+- **Surface fire**: fire burning in litter, grass, and low vegetation on the ground surface, with flame lengths typically 0.3 to 2 meters
 
 ---
 

@@ -354,38 +354,22 @@ Prevention: Schedule all diplomatic obligations on the annual calendar with the 
 
 ## Vocabulary of the Foundation
 
-**Shadow of the future**: The degree to which parties expect their relationship to continue, directly influencing willingness to cooperate rather than defect.
-
-**Tit-for-Tat**: A cooperative strategy in which a party begins with cooperation and then mirrors the other party's previous action. Characterized by four properties: nice, retaliatory, forgiving, and clear.
-
-**Nash equilibrium**: A stable state in which no party can improve its outcome by unilaterally changing strategy, given the strategies of all other parties.
-
-**Balanced reciprocity**: Direct exchange of approximately equivalent value between parties of similar social distance, the dominant mode in inter-settlement trade.
-
-**Generalized reciprocity**: Sharing without immediate expectation of return, typically within kin groups or deep alliances where trust has been established over many years.
-
-**Negative reciprocity**: Each party attempting to maximize gain at the other's expense, characteristic of adversarial or stranger relationships.
-
-**Effective breeding population (Ne)**: The number of individuals in a population who contribute genes to the next generation, often much smaller than total census population due to variance in reproductive success.
-
-**Inbreeding depression**: Reduced biological fitness caused by mating between closely related individuals, expressing as lower fertility, higher infant mortality, and increased susceptibility to disease.
-
-**Genetic drift**: Random changes in allele frequency that disproportionately affect small populations, leading to loss of diversity independent of natural selection pressures.
-
-**Kula ring**: Malinowski's model of ceremonial inter-community exchange that sustains political alliances through circulating symbolic valuables in a ring pattern among island communities.
-
-**Confederation**: An association of sovereign communities that coordinate on specific shared concerns while retaining full internal autonomy over governance, culture, and domestic affairs.
-
-**Famine Clause**: A mutual aid provision triggered when one settlement faces food crisis, obligating allies to provide emergency support proportional to their surplus.
-
-**Diplomatic immunity**: Protection granted to couriers and envoys, ensuring their safety regardless of political tensions between settlements.
-
 **Amphictyony**: A league of communities organized around the protection of a shared sacred site or resource, as in ancient Greek temple leagues centered on Delphi or Delos.
-
+**Balanced reciprocity**: Direct exchange of approximately equivalent value between parties of similar social distance, the dominant mode in inter-settlement trade.
+**Confederation**: An association of sovereign communities that coordinate on specific shared concerns while retaining full internal autonomy over governance, culture, and domestic affairs.
+**Diplomatic immunity**: Protection granted to couriers and envoys, ensuring their safety regardless of political tensions between settlements.
+**Effective breeding population (Ne)**: The number of individuals in a population who contribute genes to the next generation, often much smaller than total census population due to variance in reproductive success.
+**Famine Clause**: A mutual aid provision triggered when one settlement faces food crisis, obligating allies to provide emergency support proportional to their surplus.
+**Generalized reciprocity**: Sharing without immediate expectation of return, typically within kin groups or deep alliances where trust has been established over many years.
+**Genetic drift**: Random changes in allele frequency that disproportionately affect small populations, leading to loss of diversity independent of natural selection pressures.
+**Inbreeding depression**: Reduced biological fitness caused by mating between closely related individuals, expressing as lower fertility, higher infant mortality, and increased susceptibility to disease.
+**Kula ring**: Malinowski's model of ceremonial inter-community exchange that sustains political alliances through circulating symbolic valuables in a ring pattern among island communities.
+**Nash equilibrium**: A stable state in which no party can improve its outcome by unilaterally changing strategy, given the strategies of all other parties.
+**Negative reciprocity**: Each party attempting to maximize gain at the other's expense, characteristic of adversarial or stranger relationships.
 **Neutral zone**: A designated area controlled by no single settlement where diplomatic meetings and trade exchanges occur under agreed rules of conduct.
-
+**Shadow of the future**: The degree to which parties expect their relationship to continue, directly influencing willingness to cooperate rather than defect.
 **Sunset clause**: A provision requiring periodic renewal of an agreement, preventing institutional drift and ensuring continued active consent from all parties.
-
+**Tit-for-Tat**: A cooperative strategy in which a party begins with cooperation and then mirrors the other party's previous action. Characterized by four properties: nice, retaliatory, forgiving, and clear.
 
 ## Cross-References
 

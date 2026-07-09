@@ -331,19 +331,19 @@ If the community decides not to accept a newcomer at any phase, the rejection mu
 
 ## Vocabulary of the Foundation
 
-- **Guest Period:** The first 7 days after arrival, during which basic needs are met without obligation or interrogation. The newcomer is sheltered and fed; the community observes without pressure.
-- **Mentor:** A community member assigned as the newcomer's primary social contact, guide, and advocate throughout integration. Provides what attachment theory calls a "secure base" for social exploration.
-- **Skill Assessment:** A collaborative conversation identifying what the newcomer can contribute, conducted during the first week of Probation. Not an evaluation or test -- a mutual discovery process.
-- **Probation:** A 53-day period (Days 8-60) during which the newcomer contributes to community work and learns norms, but does not yet hold voting or stewardship privileges.
-- **Full Membership:** Status granted by community consensus at the end of Probation, conferring equal participation in all roles and decision-making.
-- **Integration Decision:** The formal consensus assembly at Day 60 to grant or defer Full Membership.
-- **Optimal Distinctiveness:** The need to feel simultaneously included in a group and recognized as distinct (Brewer, 1991). The protocol must satisfy both dimensions.
 - **Contact Hypothesis:** Intergroup prejudice is reduced under conditions of equal status, common goals, cooperation, and institutional support (Allport, 1954). Mere contact without these conditions can increase prejudice.
+- **Full Membership:** Status granted by community consensus at the end of Probation, conferring equal participation in all roles and decision-making.
+- **Functional / Social / Belonging Integration:** The three pillars of the Ager-Strang (2008) framework. Phase 1 addresses functional integration, Phase 2 addresses social connection, Phase 3 addresses markers of belonging.
+- **Guest Period:** The first 7 days after arrival, during which basic needs are met without obligation or interrogation. The newcomer is sheltered and fed; the community observes without pressure.
+- **Integration Decision:** The formal consensus assembly at Day 60 to grant or defer Full Membership.
+- **Mentor:** A community member assigned as the newcomer's primary social contact, guide, and advocate throughout integration. Provides what attachment theory calls a "secure base" for social exploration.
+- **Optimal Distinctiveness:** The need to feel simultaneously included in a group and recognized as distinct (Brewer, 1991). The protocol must satisfy both dimensions.
+- **Permanent Probation:** A failure mode in which the community indefinitely extends Probation to avoid a membership decision. Maximum allowed: 120 days total.
+- **Probation:** A 53-day period (Days 8-60) during which the newcomer contributes to community work and learns norms, but does not yet hold voting or stewardship privileges.
 - **Realistic Group Conflict:** Competition for scarce resources drives intergroup hostility (Sherif, 1966). Early contribution transforms the dynamic from competition to cooperation.
 - **Secure Base:** A reliable social relationship from which an individual can safely explore an unfamiliar environment (Bowlby, 1969). The Mentor provides this for the newcomer.
+- **Skill Assessment:** A collaborative conversation identifying what the newcomer can contribute, conducted during the first week of Probation. Not an evaluation or test -- a mutual discovery process.
 - **Xenia:** Ancient Greek guest-friendship -- structured mutual obligation between host and guest. Hospitality is not charity; it is reciprocal duty.
-- **Permanent Probation:** A failure mode in which the community indefinitely extends Probation to avoid a membership decision. Maximum allowed: 120 days total.
-- **Functional / Social / Belonging Integration:** The three pillars of the Ager-Strang (2008) framework. Phase 1 addresses functional integration, Phase 2 addresses social connection, Phase 3 addresses markers of belonging.
 
 ---
 
@@ -373,3 +373,12 @@ Over ten years, a community that has successfully integrated newcomers develops 
 - Brewer, M. B. (1991). The social self: On being the same and different at the same time. *Personality and Social Psychology Bulletin*, 17(5), 475-482.
 - Pettigrew, T. F., & Tropp, L. R. (2006). A meta-analytic test of intergroup contact theory. *Journal of Personality and Social Psychology*, 90(5), 751-783.
 - Ager, A., & Strang, A. (2008). Understanding integration: A conceptual framework. *Journal of Refugee Studies*, 21(2), 166-191.
+
+## Glossary Reference
+
+*See [../../Glossary.md](../../Glossary.md) for full definitions of:*
+
+*   **Mourning Circle**
+*   **Preparation**
+*   **Steward**
+

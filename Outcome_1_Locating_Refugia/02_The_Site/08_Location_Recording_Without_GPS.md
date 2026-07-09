@@ -350,16 +350,16 @@ RECORDED BY: [name/community]    VERIFIED: [date of last annual check]
 
 ## Vocabulary of the Foundation
 
-*   **Sentinel:** A geologically permanent landmark used as a reference point for triangulation. Must survive centuries without human maintenance.
+*   **Canonical Record:** The authoritative stone-inscribed version of a location record or route song, against which all oral and paper copies are checked.
 *   **Celestial Bearing:** A directional measurement taken relative to the equinox sunrise position, independent of magnetic declination.
-*   **Route Song:** A rhythmically structured oral narrative encoding a travel route, designed to resist corruption through multi-generational retelling.
 *   **Declination:** The angular difference between magnetic north (where a compass points) and true north (the Earth's rotational axis). Changes over time.
-*   **Fist-width:** An angular measurement equal to approximately 10 degrees when the fist is held at arm's length against the sky.
-*   **Information Entropy:** The minimum number of bits required to specify a location to a given accuracy. Earth's surface requires approximately 25 bits for 1 km resolution.
 *   **Durability Hierarchy:** The ranked ordering of recording media by survival time: stone > fired clay > metal > vellum > paper.
 *   **Equinox Calibration:** The practice of taking all angular measurements at the equinox using the sunrise point, removing magnetic declination as a variable.
+*   **Fist-width:** An angular measurement equal to approximately 10 degrees when the fist is held at arm's length against the sky.
+*   **Information Entropy:** The minimum number of bits required to specify a location to a given accuracy. Earth's surface requires approximately 25 bits for 1 km resolution.
+*   **Route Song:** A rhythmically structured oral narrative encoding a travel route, designed to resist corruption through multi-generational retelling.
+*   **Sentinel:** A geologically permanent landmark used as a reference point for triangulation. Must survive centuries without human maintenance.
 *   **Songline:** An Aboriginal Australian term for a narrative path across the landscape, encoding geographic, ecological, and spiritual information in song. The oldest verified navigation technology.
-*   **Canonical Record:** The authoritative stone-inscribed version of a location record or route song, against which all oral and paper copies are checked.
 
 ---
 

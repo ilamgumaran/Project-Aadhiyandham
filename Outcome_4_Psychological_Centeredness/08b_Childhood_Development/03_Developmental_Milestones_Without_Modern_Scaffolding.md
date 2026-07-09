@@ -338,19 +338,19 @@ In a small community, every child is visible. Caregivers will inevitably compare
 
 ## Vocabulary of the Foundation
 
-- **Sensitive period**: A developmental window during which the brain is maximally responsive to specific types of input (language, attachment, sensory processing). Missing the window does not make development impossible but makes it significantly harder.
-- **Zone of proximal development (ZPD)**: Vygotsky's concept — the gap between what a child can do alone and what they can do with guidance. Effective teaching targets this zone, neither boring the child with what they already know nor overwhelming them with what is too far ahead.
-- **Scaffolding**: Temporary support provided by a more competent person that allows the child to accomplish a task they cannot yet do independently. As competence grows, scaffolding is removed. In this context, "modern scaffolding" refers to institutional supports (schools, therapists, medical systems) that will not be available.
-- **WEIRD**: Western, Educated, Industrialized, Rich, Democratic — the population from which most developmental norms are derived. These norms may not generalize to other cultural or material conditions (Henrich et al., 2010).
-- **Gross motor**: Large-body movements (crawling, walking, running, climbing).
-- **Fine motor**: Small precise movements (grasping, pinching, manipulating small objects).
-- **Expressive language**: What the child produces (words, sentences).
-- **Receptive language**: What the child understands (following instructions, responding to questions) — typically ahead of expressive language by several months.
-- **Object permanence**: Understanding that objects continue to exist when out of sight; Piaget's hallmark sensorimotor achievement, typically emerging at 8-12 months. Its absence beyond 16 months warrants investigation.
-- **Theory of mind**: Understanding that other people have thoughts, beliefs, and intentions different from one's own; typically emerges between ages 3 and 5. Essential for social cooperation and conflict resolution.
-- **Developmental sequence**: The biologically fixed order of milestone achievement; universal across cultures even when timing varies. Sequence violations are more concerning than timing delays.
-- **Concern threshold**: The age beyond which failure to achieve a milestone warrants active investigation and intervention. Set deliberately wide in this module to avoid false alarms.
 - **Asynchronous development**: Normal pattern where a child is advanced in some domains and delayed in others; does not indicate disorder unless the gap is extreme or accompanied by regression.
+- **Concern threshold**: The age beyond which failure to achieve a milestone warrants active investigation and intervention. Set deliberately wide in this module to avoid false alarms.
+- **Developmental sequence**: The biologically fixed order of milestone achievement; universal across cultures even when timing varies. Sequence violations are more concerning than timing delays.
+- **Expressive language**: What the child produces (words, sentences).
+- **Fine motor**: Small precise movements (grasping, pinching, manipulating small objects).
+- **Gross motor**: Large-body movements (crawling, walking, running, climbing).
+- **Object permanence**: Understanding that objects continue to exist when out of sight; Piaget's hallmark sensorimotor achievement, typically emerging at 8-12 months. Its absence beyond 16 months warrants investigation.
+- **Receptive language**: What the child understands (following instructions, responding to questions) — typically ahead of expressive language by several months.
+- **Scaffolding**: Temporary support provided by a more competent person that allows the child to accomplish a task they cannot yet do independently. As competence grows, scaffolding is removed. In this context, "modern scaffolding" refers to institutional supports (schools, therapists, medical systems) that will not be available.
+- **Sensitive period**: A developmental window during which the brain is maximally responsive to specific types of input (language, attachment, sensory processing). Missing the window does not make development impossible but makes it significantly harder.
+- **Theory of mind**: Understanding that other people have thoughts, beliefs, and intentions different from one's own; typically emerges between ages 3 and 5. Essential for social cooperation and conflict resolution.
+- **WEIRD**: Western, Educated, Industrialized, Rich, Democratic — the population from which most developmental norms are derived. These norms may not generalize to other cultural or material conditions (Henrich et al., 2010).
+- **Zone of proximal development (ZPD)**: Vygotsky's concept — the gap between what a child can do alone and what they can do with guidance. Effective teaching targets this zone, neither boring the child with what they already know nor overwhelming them with what is too far ahead.
 
 ---
 

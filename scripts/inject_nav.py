@@ -64,6 +64,7 @@ NAV_HTML = """
                     <a href="{root_path}Outcome_6_Flourishing_Civilization/14b_Knowledge_Exchange/01_Rationale_and_Importance.html">14b. Knowledge Exchange</a>
                 </div>
             </li>
+            <li><a href="{root_path}WHAT_IF_INDEX.html">What&nbsp;If?</a></li>
             <li><a href="{root_path}Glossary.html">Glossary</a></li>
         </ul>
     </nav>

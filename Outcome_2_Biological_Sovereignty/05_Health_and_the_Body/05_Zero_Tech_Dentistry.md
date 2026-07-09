@@ -313,16 +313,16 @@ This is a temporizing procedure. It relieves the acute pressure and reduces the 
 ## Vocabulary of the Foundation
 
 - **Caries**: Tooth decay; the pathological destruction of tooth structure by bacterial acid production.
+- **Elevation (dental)**: The use of a wedge-shaped instrument (elevator) to sever the periodontal ligament and luxate (loosen) a tooth within its socket prior to extraction.
 - **Enamel**: The outermost layer of the tooth crown; the hardest substance in the human body, composed of hydroxyapatite crystals.
+- **Eugenol**: 4-allyl-2-methoxyphenol; the primary active compound in clove oil. A topical analgesic and antimicrobial agent used in dentistry for centuries.
 - **Hydroxyapatite**: Ca10(PO4)6(OH)2 — the calcium phosphate mineral that forms the structural basis of enamel and bone.
+- **Ludwig's Angina**: Bilateral infection of the submandibular space (floor of the mouth), causing massive swelling, tongue elevation, and airway obstruction. A surgical emergency.
+- **Miswak**: A chewing stick prepared from the twig of *Salvadora persica* or other suitable tree species, used for mechanical and chemical oral hygiene.
+- **Periapical Abscess**: A collection of pus at the apex (tip) of a tooth root, resulting from bacterial infection of necrotic (dead) dental pulp.
+- **Periodontal Disease**: Bacterial infection and destruction of the tooth-supporting structures — gingiva, periodontal ligament, and alveolar bone.
 - **Plaque / Biofilm**: A structured community of bacteria embedded in an extracellular matrix that adheres to tooth surfaces. The organized form of oral bacterial colonization.
 - **Stephan Curve**: The graph of plaque pH over time after sugar exposure; demonstrates the 20-40 minute acid attack that follows each sugar intake.
-- **Periapical Abscess**: A collection of pus at the apex (tip) of a tooth root, resulting from bacterial infection of necrotic (dead) dental pulp.
-- **Ludwig's Angina**: Bilateral infection of the submandibular space (floor of the mouth), causing massive swelling, tongue elevation, and airway obstruction. A surgical emergency.
-- **Periodontal Disease**: Bacterial infection and destruction of the tooth-supporting structures — gingiva, periodontal ligament, and alveolar bone.
-- **Eugenol**: 4-allyl-2-methoxyphenol; the primary active compound in clove oil. A topical analgesic and antimicrobial agent used in dentistry for centuries.
-- **Elevation (dental)**: The use of a wedge-shaped instrument (elevator) to sever the periodontal ligament and luxate (loosen) a tooth within its socket prior to extraction.
-- **Miswak**: A chewing stick prepared from the twig of *Salvadora persica* or other suitable tree species, used for mechanical and chemical oral hygiene.
 - **Zinc Oxide Eugenol (ZOE)**: A dental cement formed by mixing zinc oxide powder with eugenol (clove oil); used for temporary fillings and sedative dressings.
 
 ---
