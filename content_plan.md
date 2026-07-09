@@ -25,6 +25,10 @@ This document organizes all files in the repository by the **6 Expected Outcomes
 
 | File | Title | Classification | Summary |
 |---|---|---|---|
+| `01_Rationale_and_Importance.md` | Rationale and Importance: Before You Leave (Phase Zero) | **Module Theory & Structure** | difficulty:     beginner |
+| `02_Group_Formation.md` | Group Formation: Assembling the Founding Party | **Atomic Topic** | difficulty:     moderate |
+| `03_Pre_Departure_Skill_Curriculum.md` | Pre-Departure Skill Curriculum: The Critical Few, In Order | **Atomic Topic** | difficulty:     beginner (to start) — the practice is the point |
+| `04_Departure_Trigger_Indicators.md` | Departure-Trigger Indicators: Deciding When to Go, Before You Must | **Atomic Topic** | difficulty:     moderate |
 | `01_Rationale_and_Importance.md` | Rationale and Importance: Logistics and Transit | **Module Theory & Structure** | **Alignment:** Outcome 1: Locating and Connecting Optimal Refugia |
 | `02_Orienting_and_Positioning.md` | Orienting: Where Am I? | **Atomic Topic** | **Alignment:** Outcome 1: Locating and Connecting Optimal Refugia |
 | `03_Direction_and_Orientation_Basics.md` | Direction: Which Way? | **Atomic Topic** | **Alignment:** Outcome 1: Locating and Connecting Optimal Refugia |

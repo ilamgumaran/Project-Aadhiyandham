@@ -35,7 +35,8 @@ The minimum viable sequence for a newly arrived community:
 ### Outcome 1: Locating Refugia
 | Section | Depends On | Provides To |
 |---|---|---|
-| 01 The Journey | None (entry point) | 02 The Site |
+| 01/00 Before Departure (Phase Zero) | None (the true entry point) | 01 The Journey (a ready group), 04 Food (departure↔arrival-timing), 08a Group Dynamics |
+| 01 The Journey | 01/00 Before Departure (group, skills, decision) | 02 The Site |
 | 01/12 Journey Scenarios & Contingencies | 01 Journey (transit, packing, family protocols) | 02 The Site (arrival handoff), 07 Passive Defense (interim perimeter), 07a Active Threat (encounter de-escalation) |
 | 02 The Site | 01 The Journey | 03, 04, 07 (site selection informs all construction) |
 | 02/08 Location Recording | 02 The Site (sentinels, terrain) | 01 Journey (route encoding), 14a Diplomacy (inter-settlement sharing) |

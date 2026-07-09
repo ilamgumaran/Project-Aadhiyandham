@@ -7,6 +7,12 @@ The format is based on [Keep a Changelog](https://keepachangelog.com/), and this
 ## [Unreleased]
 
 ### Added
+- **Phase Zero — Before Departure (new subsection `01/00`):** closes the audit's three preparation gaps (group, skills, decision) that every later module silently assumed
+  - Rationale (Phase Zero; the S0 reframe — this is a richer life, not a bunker)
+  - **Group Formation** — assembling and testing the founding party; the four foundations (values/trust/skills/size), the multi-year timeline, the honest base rate that most settlements die of internal conflict
+  - **Pre-Departure Skill Curriculum** — the critical few in triage order; reading is not skill; the transfer test; two-deep coverage
+  - **Departure-Trigger Indicators** — the trigger ladder (watch → prepare → go), the one-way-door test, the cost asymmetry that overrules normalcy bias
+- **First-Year Food Security & Arrival Timing (04/10)** — the caloric-chain ledger, arrival-window table by climate, the 0.3–0.6 first-year yield discount, the overwinter-in-place default (closes the seasonal-timing trap)
 - **Settling-phase pressure test:** hardened the settling systems (water, food, health, shelter, defense) against silent, cook-proof, sense-defeating failures
   - **CONSEQUENCES_OF_DEVIATION.md** — the Ledger of Consequences: the three precision tiers (Law / Craft / Preference) and a master table of every critical instruction with its mechanism, human consequence, and onset (does it warn you?)
   - **settling_pressure_test_report.md** — deep-dive red-team of the settling phase; documents the consequence gap, the precision-tier gap, and the silent-poison gaps, with CLOSED/OPEN status

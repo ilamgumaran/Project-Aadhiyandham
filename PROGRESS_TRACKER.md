@@ -13,6 +13,10 @@
 ## Outcome 1 -- Locating Refugia
 
 ### 01 The Journey
+- [I] `00_Before_Departure/01_Rationale_and_Importance.md`
+- [I] `00_Before_Departure/02_Group_Formation.md`
+- [I] `00_Before_Departure/03_Pre_Departure_Skill_Curriculum.md`
+- [I] `00_Before_Departure/04_Departure_Trigger_Indicators.md`
 - [I] `01_Rationale_and_Importance.md`
 - [I] `02_Orienting_and_Positioning.md`
 - [I] `03_Direction_and_Orientation_Basics.md`
