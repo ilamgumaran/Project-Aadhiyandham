@@ -65,6 +65,7 @@ NAV_HTML = """
                 </div>
             </li>
             <li><a href="{root_path}WHAT_IF_INDEX.html">What&nbsp;If?</a></li>
+            <li><a href="{root_path}CONSEQUENCES_OF_DEVIATION.html">Consequences</a></li>
             <li><a href="{root_path}Glossary.html">Glossary</a></li>
         </ul>
     </nav>

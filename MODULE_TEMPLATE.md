@@ -83,6 +83,13 @@ ASCII diagram or description of what an SVG/diagram should show.
 
 ### 8.2. Troubleshooting & Failure Modes
 *   **Common Failure:** Description and root-cause fix using the "5 Whys" technique.
+*   **REQUIRED — trace the consequence to human impact.** Do not stop at the technical failure ("the filter clogs," "the soap won't trace"). State what it *does to people*, in a cascade: technical failure → what happens next in the settlement → the human outcome and its timeline (illness, death, disability, loss of shelter/food). A reader who cannot feel the consequence will negotiate the instruction away. See [CONSEQUENCES_OF_DEVIATION.md](CONSEQUENCES_OF_DEVIATION.md) for the standard.
 
-### 8.3. Community & Decadal Flourishing
-*   **Apprenticeship:** No critical skill should be held by only one person. Every master must have an apprentice.
+### 8.3. b. Consequence of Deviation & Precision Tier
+For each critical instruction in this module, tag its precision tier and state what deviation costs:
+*   **[Tier L — Law]** Exact threshold; deviation kills or causes catastrophic, often *silent*, failure. *Measure it; never eyeball or round.* State the value, the mechanism of harm, and the onset (and whether it warns you).
+*   **[Tier C — Craft]** A range that depends on local conditions; give the *test* that verifies you are inside it (the test is the truth, not the number). *Calibrate; do not blindly copy a single figure.*
+*   **[Tier P — Preference]** Adaptable to taste/context; say so, so effort is not wasted enforcing it.
+
+### 8.4. Community & Decadal Flourishing
+*   **Apprenticeship:** No critical skill should be held by only one person. Every master must have an apprentice. **Teach the consequence, not just the rule** — a person who knows *why* a threshold matters obeys it; one who only memorized the number rounds it off.

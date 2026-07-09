@@ -103,7 +103,9 @@ All subsections follow a sequential global numbering scheme (01-14) across the s
 
 ## 5. Resources and Quick Links
 *   **[WHAT_IF_INDEX.md](WHAT_IF_INDEX.md):** The searchable "what if X goes wrong?" scenario index — start here in any contingency.
+*   **[CONSEQUENCES_OF_DEVIATION.md](CONSEQUENCES_OF_DEVIATION.md):** The Ledger of Consequences — which instructions are exact-or-you-die (Law) vs. calibrate-by-test (Craft), and what deviation actually costs. Read before building.
 *   **[pressure_test_report.md](pressure_test_report.md):** The unbiased red-team audit of this entire plan: assumptions, failure points, overclaims, and the open ledger.
+*   **[settling_pressure_test_report.md](settling_pressure_test_report.md):** The deep-dive red-team of the settling phase (water, food, health, shelter, defense) with the silent-poison gaps closed.
 *   **[content_plan.md](content_plan.md):** The master tracker classifying all atomic and action-oriented files.
 *   **[DEPENDENCIES.md](DEPENDENCIES.md):** Cross-module dependency map and implementation phasing.
 *   **[MODULE_TEMPLATE.md](MODULE_TEMPLATE.md):** Standard template with frontmatter schema for new modules.

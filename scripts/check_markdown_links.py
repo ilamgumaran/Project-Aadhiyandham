@@ -31,6 +31,9 @@ ROOT_FILES = [
     "settlers_summary.md",
     "WHAT_IF_INDEX.md",
     "pressure_test_report.md",
+    "CONSEQUENCES_OF_DEVIATION.md",
+    "settling_pressure_test_report.md",
+    "MODULE_TEMPLATE.md",
 ]
 
 # Regex to match markdown links: [text](path)

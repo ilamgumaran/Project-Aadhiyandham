@@ -7,6 +7,16 @@ The format is based on [Keep a Changelog](https://keepachangelog.com/), and this
 ## [Unreleased]
 
 ### Added
+- **Settling-phase pressure test:** hardened the settling systems (water, food, health, shelter, defense) against silent, cook-proof, sense-defeating failures
+  - **CONSEQUENCES_OF_DEVIATION.md** — the Ledger of Consequences: the three precision tiers (Law / Craft / Preference) and a master table of every critical instruction with its mechanism, human consequence, and onset (does it warn you?)
+  - **settling_pressure_test_report.md** — deep-dive red-team of the settling phase; documents the consequence gap, the precision-tier gap, and the silent-poison gaps, with CLOSED/OPEN status
+  - New module **03/07 Water Contaminant Testing & Remediation** — nitrate (blue-baby), arsenic & heavy metals; the "boiling betrays you" chemical blind spot
+  - New module **04/09 Food Toxins & Storage Safety** — ergot, aflatoxin/storage mold, botulism-by-taste, nitrate greens; the "can I fix this batch?" discard-discipline table
+  - New module **05/10 Deficiency Diseases & Heat Illness** — scurvy/pellagra/beriberi/rickets/B12/iodine timelines and staple traps; heat-stroke transition line
+
+### Changed
+- **MODULE_TEMPLATE.md §8.2** now *requires* every failure mode to trace the consequence to human impact and tag the instruction's precision tier (Law/Craft/Preference) — propagating the consequence discipline to all future modules
+- Nav bar and index now link the Consequences Ledger
 - **Journey Scenarios & Contingencies (01/12):** new 5-module section pressure-testing the journey itself
   - Rationale (plan-continuation bias, the scenario method), Party Composition Playbooks (solo / able adults / children / elders, decision protocols)
   - Field Repair and Material Tiers (kit / scavenge / landscape doctrine), Low-Profile Travel and Encounter Protocols (avoidance-first security, checkpoint ladder)

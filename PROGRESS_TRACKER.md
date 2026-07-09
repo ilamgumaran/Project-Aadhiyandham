@@ -63,6 +63,7 @@
 - [I] `04_Humanure_Composting.md`
 - [I] `05_Humanure_Integration.md`
 - [I] `06_Thermophilic_Sanitation_Math.md`
+- [I] `07_Water_Contaminant_Testing_and_Remediation.md`
 
 ### 04 Food and Soil Sovereignty
 - [I] `01_Rationale_and_Importance.md`
@@ -73,6 +74,7 @@
 - [I] `06_Emergency_Nutrition.md`
 - [I] `07_Pyrolysis_Engineering_and_TLUD_Gasifiers.md`
 - [I] `08_Refugia_Pantry_Physics.md`
+- [I] `09_Food_Toxins_and_Storage_Safety.md`
 
 ### 05 Health and the Body
 - [I] `01_Rationale_and_Importance.md`
@@ -84,6 +86,7 @@
 - [I] `07_Midwifery_and_Childbirth.md`
 - [I] `08_Natural_Burial.md`
 - [I] `09_Spectral_Management_and_Circadian_Health.md`
+- [I] `10_Deficiency_Diseases_and_Heat_Illness.md`
 
 ### 06 Ecological Harmony
 - [I] `01_Rationale_and_Importance.md`
