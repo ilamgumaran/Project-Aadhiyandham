@@ -75,6 +75,7 @@
 - [I] `07_Pyrolysis_Engineering_and_TLUD_Gasifiers.md`
 - [I] `08_Refugia_Pantry_Physics.md`
 - [I] `09_Food_Toxins_and_Storage_Safety.md`
+- [I] `10_First_Year_Food_Security_and_Arrival_Timing.md`
 
 ### 05 Health and the Body
 - [I] `01_Rationale_and_Importance.md`

@@ -44,7 +44,7 @@ Each settling system was tested against: *What does it assume? What breaks the a
 | 4.1 | Preservation and pantry physics are threshold-rich and correct (pH 4.6, aw bands, Q10 rule, caloric-reserve arithmetic, seed viability). | — | **Adequate — strong.** |
 | 4.2 | **Grain and food toxins that survive cooking.** Ergot (gangrene/convulsions/abortion), aflatoxin and storage molds (liver failure/cancer), and botulism-by-tasting were absent or scattered. They share the deadliest property in food safety: **they defeat both the senses and the cooking pot**, so the reasonable "waste not / cook it off" instinct kills. | Critical | **[CLOSED → [Food Toxins & Storage Safety](Outcome_2_Biological_Sovereignty/04_Food_and_Soil_Sovereignty/09_Food_Toxins_and_Storage_Safety.md)]** — the "can I fix this batch?" decision table; discard-batch discipline as law. |
 | 4.3 | **Nitrate in greens and held food** (infant methemoglobinemia; nitrite from warm-held cooked vegetables). | High | **[CLOSED → new food-toxin module §6]** |
-| 4.4 | First-crop failure (30–60% of plan, historically the norm) and the seasonal-arrival trap (autumn arrival without a larder = death) were flagged in the master audit; still deserve one explicit place. | High | **[OPEN — carried from master §5.2–5.3]** food-margin arithmetic + arrival-window table. Indexed in What-If. |
+| 4.4 | First-crop failure (30–60% of plan, historically the norm) and the seasonal-arrival trap (autumn arrival without a larder = death) were flagged in the master audit; deserved one explicit place. | High | **[CLOSED → [First-Year Food Security & Arrival Timing](Outcome_2_Biological_Sovereignty/04_Food_and_Soil_Sovereignty/10_First_Year_Food_Security_and_Arrival_Timing.md)]** — the caloric-chain ledger, the 0.3–0.6 first-year yield discount, the arrival-window table by climate, and the overwinter-in-place default. |
 | 4.5 | Crop disease/pest response (blight, rust, quarantine of infected seed) not covered. | Medium | **[OPEN]** Logged. |
 
 ## 5. Health & the Body
@@ -94,7 +94,7 @@ Each settling system was tested against: *What does it assume? What breaks the a
 1.  **Water discipline, weeks 1–4** — pathogens (boil/filter) *and* the newly-covered chemicals (test/relocate). The highest-probability lethal failure of the whole project.
 2.  **The silent poisons** — botulism, aflatoxin, ergot, nitrate, CO, Ascaris: all defeat the senses, several defeat boiling. Prevention-only; the senses will not save you.
 3.  **The monotonous winter diet** — scurvy and the staple traps; solved in autumn by planning diversity, not in February by wishing for it.
-4.  **The first-winter food margin** — carry margin, arrive in spring (carried open from the master audit).
+4.  **The first-winter food margin** — arrive at the growing-season start, discount the first harvest to 0.3–0.6, bank the reserve before the gap season. **[CLOSED → [First-Year Food Security & Arrival Timing](Outcome_2_Biological_Sovereignty/04_Food_and_Soil_Sovereignty/10_First_Year_Food_Security_and_Arrival_Timing.md)]**
 5.  **The lone skill-keeper of a *reason*** — these are knowledge failures: the settlement that forgets *why* it nixtamalizes maize or cures compost 12 months gets the disease back. The [dogma antidote](Outcome_5_Decadal_Resilience/11_The_Next_Generation/08_The_Scientific_Method.md) is the defense.
 6.  **Internal conflict / militarization** — the social single-point-of-failure, now labeled Law-tier.
 

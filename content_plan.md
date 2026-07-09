@@ -154,6 +154,7 @@ This document organizes all files in the repository by the **6 Expected Outcomes
 | `07_Pyrolysis_Engineering_and_TLUD_Gasifiers.md` | Pyrolysis Engineering: TLUD Gasifiers for Biochar Production and Clean Combustion | **Atomic Topic** | **Alignment:** Outcome 2: Absolute Biological Sovereignty |
 | `08_Refugia_Pantry_Physics.md` | Refugia Pantry Physics: Caloric Density, Storage Volumetrics, and Earth-Cooled Engineering | **Atomic Topic** | **Alignment:** Outcome 2: Absolute Biological Sovereignty |
 | `09_Food_Toxins_and_Storage_Safety.md` | Food Toxins and Storage Safety: When Food That Looks Fine Kills | **Atomic Topic** | difficulty:     moderate |
+| `10_First_Year_Food_Security_and_Arrival_Timing.md` | First-Year Food Security: Arrival Timing and the Hungry Gap | **Atomic Topic** | difficulty:     moderate |
 | `01_Rationale_and_Importance.md` | Rationale and Importance: Health Sovereignty Without Industrial Medicine | **Module Theory & Structure** | **Alignment:** Outcome 2: Absolute Biological Sovereignty |
 | `02_Endocrine_Regulation.md` | Endocrine Regulation: Circadian Biology and the Architecture of Sleep | **Atomic Topic** | **Alignment:** Outcome 2: Absolute Biological Sovereignty |
 | `03_Temperate_Antibiotic_Kit.md` | The Temperate Antibiotic Kit: Botanical Pharmacology for Infection Management | **Atomic Topic** | **Alignment:** Outcome 2: Absolute Biological Sovereignty |

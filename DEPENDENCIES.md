@@ -51,6 +51,7 @@ The minimum viable sequence for a newly arrived community:
 | 03/07 Water Contaminant Testing | 02 Field Mineralogy & Water Baselines (geology), 03 Immediate Sanitation (setbacks) | 04 Food (safe irrigation/infant food), 05 Health (methemoglobinemia prevention) |
 | 04 Food & Soil | 02 The Site (soil analysis), 03 Water | 05 Health (nutrition), 06 Ecological (crop-ecosystem integration) |
 | 04/09 Food Toxins & Storage Safety | 04 Long-Term Preservation, 08 Pantry Physics | 05 Health (poisoning prevention), 05/10 Deficiency Diseases |
+| 04/10 First-Year Food Security & Arrival Timing | 06 Emergency Nutrition, 08 Pantry Physics, 02/10 Climate Thresholds | 01/12 Arrival Protocol (arrival-window & Phase-0 planting), 01 Journey (departure timing) |
 | 05 Health & Body | 03 Water, 04 Food, 09 Chemistry (antiseptics) | 08 The Mind (physical health enables mental health) |
 | 05/10 Deficiency Diseases & Heat Illness | 04 Food (dietary diversity), 09 Chemistry (ash-lye for nixtamalization) | 11 Next Gen (child development depends on nutrition) |
 | 06 Ecological Harmony | 02 The Site, 04 Food & Soil | 07 Passive Defense (landscape design), 04 Food (silvopasture feedback) |
