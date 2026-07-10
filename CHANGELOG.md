@@ -7,6 +7,19 @@ The format is based on [Keep a Changelog](https://keepachangelog.com/), and this
 ## [Unreleased]
 
 ### Added
+- **Enhancement batch (targeted additions to existing modules):** zoonotic disease + animal-manure hot-composting standard (Livestock 06/02); winter water-freeze protection for filter, lines, and stores (Water rationale 03/01); exogamy / single-settlement genetic non-viability (Demographic Harmony 10/04); the annual skill-redundancy census (The Society 10/01); inter-settlement archive copying cadence (The Archive 12/01); Access & Tenure doctrine — legal path, jurisdiction, existing occupancy, "terrain shortlist not destination list" (Candidate Atlas overview + evaluation template)
+
+### Changed
+- **E-Prime honesty caveat** (Linguistic Precision 08/02): labeled Craft-tier, not Law — plausible and low-risk but not established science; not to be imposed as orthodoxy
+- **Fire Safety and the Hearth (06/07)** — closes the house-fire gap (distinct from wildfire and CO): hearth containment, two-exit egress drilled in the dark, water/sand + the fat-fire exception, seed/reserve stored away from flame
+- **Crop Disease & Pest Response (04/11)** — closes the field-failure gap: diversity as the master defense (the anti-monoculture rule), field-walking and roguing, the seed-line-outranks-harvest sacrifice decision
+- **Epidemic & Quarantine Protocol (05/11)** — closes the S3 pandemic gap: the inverted doctrine under contagion (quarantine every arrival, break-the-chain by route, barrier nursing, the sealing ladder watch→restrict→seal, safe reopening); a small hospital-less settlement is both more protected and more vulnerable
+- **Phase Zero — Before Departure (new subsection `01/00`):** closes the audit's three preparation gaps (group, skills, decision) that every later module silently assumed
+  - Rationale (Phase Zero; the S0 reframe — this is a richer life, not a bunker)
+  - **Group Formation** — assembling and testing the founding party; the four foundations (values/trust/skills/size), the multi-year timeline, the honest base rate that most settlements die of internal conflict
+  - **Pre-Departure Skill Curriculum** — the critical few in triage order; reading is not skill; the transfer test; two-deep coverage
+  - **Departure-Trigger Indicators** — the trigger ladder (watch → prepare → go), the one-way-door test, the cost asymmetry that overrules normalcy bias
+- **First-Year Food Security & Arrival Timing (04/10)** — the caloric-chain ledger, arrival-window table by climate, the 0.3–0.6 first-year yield discount, the overwinter-in-place default (closes the seasonal-timing trap)
 - **Settling-phase pressure test:** hardened the settling systems (water, food, health, shelter, defense) against silent, cook-proof, sense-defeating failures
   - **CONSEQUENCES_OF_DEVIATION.md** — the Ledger of Consequences: the three precision tiers (Law / Craft / Preference) and a master table of every critical instruction with its mechanism, human consequence, and onset (does it warn you?)
   - **settling_pressure_test_report.md** — deep-dive red-team of the settling phase; documents the consequence gap, the precision-tier gap, and the silent-poison gaps, with CLOSED/OPEN status

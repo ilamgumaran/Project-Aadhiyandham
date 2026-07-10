@@ -274,6 +274,12 @@ Social resilience is not isolated to Section 10. Each social failure mode depend
 | Demographic Collapse | 04 Demographic Harmony | Outcome 4, 08a/05 Integration of Newcomers |
 | Recycling Cliff (social dimension) | 02 Recycling Cliff | Outcome 5, 09 The Mechanics |
 
+## The Annual Skill-Redundancy Census
+
+The apprenticeship principle ("no critical skill held by only one person") is stated everywhere in this manual and quietly violated everywhere in practice: settlements drift into single-keeper dependencies *silently*, because the drift produces no symptom until the keeper drowns, falls ill, or leaves — and then a life-critical capability vanishes with them. Good intentions do not prevent this; only an audit does.
+
+The remedy is a standing mechanism: **an annual skill-redundancy census**, run alongside the [demographic census](04_Demographic_Harmony.md) and recorded in the same permanent archive. Once a year, the community maps every *life-critical* function — water treatment, trauma and midwifery, food growing and preservation, fire/metal, building, mediation, navigation, seed-keeping — against the people who can actually perform it (not who has read about it: the [transfer-test](../../Outcome_1_Locating_Refugia/01_The_Journey/00_Before_Departure/03_Pre_Departure_Skill_Curriculum.md) standard applies). Any function held by only one person is flagged **red** and becomes an explicit apprenticeship priority for the coming year until it is at least two-deep. The census turns a vague cultural value into a tracked, closeable list — the same move the [Group Formation skill audit](../../Outcome_1_Locating_Refugia/01_The_Journey/00_Before_Departure/02_Group_Formation.md) makes at founding, now repeated for the life of the settlement. Skills also decay and people age; a capability that was two-deep a decade ago may be single-pointed again, which is exactly why the census is annual and not once-and-done.
+
 ## Common Failure Modes
 
 The following six failure modes are specific to the study and application of social resilience principles. They are distinct from the five social failure modes described above — these are failures in how the settlement engages with the material in this module itself.

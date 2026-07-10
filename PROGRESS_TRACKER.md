@@ -13,6 +13,10 @@
 ## Outcome 1 -- Locating Refugia
 
 ### 01 The Journey
+- [I] `00_Before_Departure/01_Rationale_and_Importance.md`
+- [I] `00_Before_Departure/02_Group_Formation.md`
+- [I] `00_Before_Departure/03_Pre_Departure_Skill_Curriculum.md`
+- [I] `00_Before_Departure/04_Departure_Trigger_Indicators.md`
 - [I] `01_Rationale_and_Importance.md`
 - [I] `02_Orienting_and_Positioning.md`
 - [I] `03_Direction_and_Orientation_Basics.md`
@@ -75,6 +79,8 @@
 - [I] `07_Pyrolysis_Engineering_and_TLUD_Gasifiers.md`
 - [I] `08_Refugia_Pantry_Physics.md`
 - [I] `09_Food_Toxins_and_Storage_Safety.md`
+- [I] `10_First_Year_Food_Security_and_Arrival_Timing.md`
+- [I] `11_Crop_Disease_and_Pest_Response.md`
 
 ### 05 Health and the Body
 - [I] `01_Rationale_and_Importance.md`
@@ -87,6 +93,7 @@
 - [I] `08_Natural_Burial.md`
 - [I] `09_Spectral_Management_and_Circadian_Health.md`
 - [I] `10_Deficiency_Diseases_and_Heat_Illness.md`
+- [I] `11_Epidemic_and_Quarantine_Protocol.md`
 
 ### 06 Ecological Harmony
 - [I] `01_Rationale_and_Importance.md`
@@ -95,6 +102,7 @@
 - [I] `04_Shelter_and_Thermal_Grounding.md`
 - [I] `05_Psychological_Grounding.md`
 - [I] `06_Regenerative_Grazing_and_Silvopasture_Math.md`
+- [I] `07_Fire_Safety_and_the_Hearth.md`
 
 ---
 

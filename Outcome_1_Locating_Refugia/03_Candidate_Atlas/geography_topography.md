@@ -69,6 +69,17 @@ Beyond flat space and water, the physical shape of the land dictates survivabili
     * Surface rock/stone (for foundations and retaining walls).
     * Healthy, mature timber stands.
 
+## 5. Access, Tenure, and the People Already There
+
+Every criterion above is *physical* — elevation, water, soil, geology. But a site's terrain being ideal says nothing about whether a settlement can lawfully reach it, occupy it, and remain — and this Atlas, honestly, evaluates the land and is largely silent on the law. That silence is a real gap the reader must fill per site:
+
+*   **Ownership and legal path.** Almost every Atlas location sits within a functioning country with borders, land law, and owners. Under the most likely future — society keeps working — settling means *lawful acquisition*: purchase, lease, tenure, or residency, with real costs and legal requirements this Atlas does not cover. A gorgeous site with no lawful path is a daydream while the world still functions.
+*   **Jurisdiction and protection status.** Several candidate regions are national parks, reserves, or protected areas where settlement is simply prohibited. Check before investing hope.
+*   **Existing occupancy.** Land that looks empty on a terrain map usually is not. In any slow-decay scenario, the people already there remain — with the decisive local advantage — so the realistic paths are lawful coexistence or purchase, or choosing elsewhere; never assumed vacancy, which is how arrivals get into conflict they cannot win.
+*   **Borders and transit.** Reaching a foreign site may cross controlled borders; fold that into the [journey plan](../01_The_Journey/00_Before_Departure/01_Rationale_and_Importance.md).
+
+**Use this Atlas as a terrain shortlist, not a destination list.** The physical evaluation narrows the world to places that *could* sustain a settlement; the access-and-tenure question — answered by you, for your circumstances — decides which of those you can lawfully and peacefully make your own. See [pressure_test_report.md §2.2](../../pressure_test_report.md) for the full finding.
+
 ## Glossary Reference
 
 *See [../../Glossary.md](../../Glossary.md) for full definitions of:*

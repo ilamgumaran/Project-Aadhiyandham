@@ -34,7 +34,7 @@ Each settling system was tested against: *What does it assume? What breaks the a
 |:--|:---|:---|:---|
 | 3.1 | Thresholds are outstanding and among the manual's best: 30 m setback (50 m sand), 55 °C × 15 days, 12-month cure, three-tier verification, Ascaris as the benchmark organism. | — | **Adequate — exemplary.** |
 | 3.2 | **Consequence weighting.** The thresholds are stated as engineering, but the *human* result of missing them (an Ascaris outbreak returning through the salad weeks later, whole-settlement dysentery from a too-close latrine) was under-stated, and these are the most silent-onset failures in the manual. | High | **[CLOSED → ledger §5 with onset column; the "silent" flag]** |
-| 3.3 | Animal-manure pathogens (E. coli O157, Crypto) and manure hot-composting standards get less treatment than humanure. | Medium | **[OPEN — small]** Livestock module covers quarantine; a manure-composting standard mirroring the humanure one belongs in Food/Soil. Logged. |
+| 3.3 | Animal-manure pathogens (E. coli O157, Crypto) and manure hot-composting standards get less treatment than humanure. | Medium | **[CLOSED → [Livestock module, Zoonotic Disease and Manure Safety](Outcome_2_Biological_Sovereignty/06_Ecological_Harmony/02_Livestock_and_Mechanical_Animals.md)]** — hot-compost to 55 °C, age before food-crop use, 30 m water setback. |
 | 3.4 | Urine diversion (huge N/P recovery, and lower pathogen load) is mentioned but not built out. | Low (opportunity) | **[OPEN]** Value is nutrient-recovery, not safety. |
 
 ## 4. Food, Soil & Storage
@@ -44,8 +44,8 @@ Each settling system was tested against: *What does it assume? What breaks the a
 | 4.1 | Preservation and pantry physics are threshold-rich and correct (pH 4.6, aw bands, Q10 rule, caloric-reserve arithmetic, seed viability). | — | **Adequate — strong.** |
 | 4.2 | **Grain and food toxins that survive cooking.** Ergot (gangrene/convulsions/abortion), aflatoxin and storage molds (liver failure/cancer), and botulism-by-tasting were absent or scattered. They share the deadliest property in food safety: **they defeat both the senses and the cooking pot**, so the reasonable "waste not / cook it off" instinct kills. | Critical | **[CLOSED → [Food Toxins & Storage Safety](Outcome_2_Biological_Sovereignty/04_Food_and_Soil_Sovereignty/09_Food_Toxins_and_Storage_Safety.md)]** — the "can I fix this batch?" decision table; discard-batch discipline as law. |
 | 4.3 | **Nitrate in greens and held food** (infant methemoglobinemia; nitrite from warm-held cooked vegetables). | High | **[CLOSED → new food-toxin module §6]** |
-| 4.4 | First-crop failure (30–60% of plan, historically the norm) and the seasonal-arrival trap (autumn arrival without a larder = death) were flagged in the master audit; still deserve one explicit place. | High | **[OPEN — carried from master §5.2–5.3]** food-margin arithmetic + arrival-window table. Indexed in What-If. |
-| 4.5 | Crop disease/pest response (blight, rust, quarantine of infected seed) not covered. | Medium | **[OPEN]** Logged. |
+| 4.4 | First-crop failure (30–60% of plan, historically the norm) and the seasonal-arrival trap (autumn arrival without a larder = death) were flagged in the master audit; deserved one explicit place. | High | **[CLOSED → [First-Year Food Security & Arrival Timing](Outcome_2_Biological_Sovereignty/04_Food_and_Soil_Sovereignty/10_First_Year_Food_Security_and_Arrival_Timing.md)]** — the caloric-chain ledger, the 0.3–0.6 first-year yield discount, the arrival-window table by climate, and the overwinter-in-place default. |
+| 4.5 | Crop disease/pest response (blight, rust, quarantine of infected seed) not covered. | Medium | **[CLOSED → [Crop Disease & Pest Response](Outcome_2_Biological_Sovereignty/04_Food_and_Soil_Sovereignty/11_Crop_Disease_and_Pest_Response.md)]** — diversity as master defense, roguing, the seed-line-outranks-harvest sacrifice decision. |
 
 ## 5. Health & the Body
 
@@ -56,7 +56,7 @@ Each settling system was tested against: *What does it assume? What breaks the a
 | 5.3 | **The B12 constraint on the vision's agrarian idealism.** A near-total plant diet depletes B12 over 1–3 years → irreversible neuropathy. The manual's aesthetic leaned plant-ward without stating this hard limit. | High | **[CLOSED → new module §3.5; stated as a planning constraint]** |
 | 5.4 | **Heat illness** was only a one-line "dangerous above 40 °C." The life-defining transition (sweating fails, confusion begins → heat stroke → death in hours) and the work/rest/shade rule were missing. | High | **[CLOSED → new module §4]** |
 | 5.5 | **Medical honesty ceiling.** Zero-tech medicine cannot save appendicitis, obstructed labor, sepsis, major trauma. The modules carry honest caveats; the settlement's real mitigations are prevention culture and *knowing the ceiling*. | High (unavoidable) | **Stated; consistent across modules.** |
-| 5.6 | Zoonotic disease (brucellosis, Q fever, bovine TB) beyond the 14-day quarantine line is thin. | Medium | **[OPEN]** Logged. |
+| 5.6 | Zoonotic disease (brucellosis, Q fever, bovine TB) beyond the 14-day quarantine line is thin. | Medium | **[CLOSED → [Livestock module, Zoonotic Disease and Manure Safety](Outcome_2_Biological_Sovereignty/06_Ecological_Harmony/02_Livestock_and_Mechanical_Animals.md)]** — the endemic zoonoses, milk-heating rule, and barrier-care defenses. |
 | 5.7 | Infant botulism (no honey under 12 months) was cross-referenced but not stated plainly at point of use. | Medium | **[CLOSED → stated in new modules; ledger §6]** |
 
 ## 6. Shelter, Fire & Structure
@@ -64,7 +64,7 @@ Each settling system was tested against: *What does it assume? What breaks the a
 | # | Finding | Severity | Status |
 |:--|:---|:---|:---|
 | 6.1 | Carbon-monoxide risk is explicitly and well covered (1–2 h, odorless, "never seal all ventilation with a fire burning"). Structural failure modes (green-timber splitting, foundation damp, mortar freeze, lime blindness) are consequence-explicit — another benchmark section. | — | **Adequate — strong.** |
-| 6.2 | **House fire (as distinct from wildfire and CO)** — smoke inhalation, burn injury, thatch ignition from the indoor hearth, escape/egress — is under-treated; the modules cover the wildfire *outside* and the CO *inside* but not the structure *burning down* from its own fire. | Medium-High | **[OPEN]** Interim: hearth clearances, spark screens, an egress habit, and water/sand at the hearth belong in the shelter module. Logged and indexed. |
+| 6.2 | **House fire (as distinct from wildfire and CO)** — smoke inhalation, burn injury, thatch ignition from the indoor hearth, escape/egress. | Medium-High | **[CLOSED → [Fire Safety and the Hearth](Outcome_2_Biological_Sovereignty/06_Ecological_Harmony/07_Fire_Safety_and_the_Hearth.md)]** — hearth containment, two-exit egress drilled in the dark, water/sand + the fat-fire exception, seed/reserve stored away from flame. |
 | 6.3 | Winter freeze of water lines and stored water (dehydration risk, burst vessels) is not addressed in any defense/shelter module. | Medium | **[OPEN]** Logged. |
 | 6.4 | Consequence weighting on structural Craft-vs-Law: thatch pitch, crown spacing, mortar-freeze are correctly exact, but readers weren't told these are *Law* while air-dry times are *Craft*. | Medium | **[CLOSED → ledger §9–10 tier tags]** |
 
@@ -94,13 +94,13 @@ Each settling system was tested against: *What does it assume? What breaks the a
 1.  **Water discipline, weeks 1–4** — pathogens (boil/filter) *and* the newly-covered chemicals (test/relocate). The highest-probability lethal failure of the whole project.
 2.  **The silent poisons** — botulism, aflatoxin, ergot, nitrate, CO, Ascaris: all defeat the senses, several defeat boiling. Prevention-only; the senses will not save you.
 3.  **The monotonous winter diet** — scurvy and the staple traps; solved in autumn by planning diversity, not in February by wishing for it.
-4.  **The first-winter food margin** — carry margin, arrive in spring (carried open from the master audit).
+4.  **The first-winter food margin** — arrive at the growing-season start, discount the first harvest to 0.3–0.6, bank the reserve before the gap season. **[CLOSED → [First-Year Food Security & Arrival Timing](Outcome_2_Biological_Sovereignty/04_Food_and_Soil_Sovereignty/10_First_Year_Food_Security_and_Arrival_Timing.md)]**
 5.  **The lone skill-keeper of a *reason*** — these are knowledge failures: the settlement that forgets *why* it nixtamalizes maize or cures compost 12 months gets the disease back. The [dogma antidote](Outcome_5_Decadal_Resilience/11_The_Next_Generation/08_The_Scientific_Method.md) is the defense.
 6.  **Internal conflict / militarization** — the social single-point-of-failure, now labeled Law-tier.
 
 ## 11. Open Ledger (settling phase, priority order)
 
-House-fire safety (egress, hearth clearance, spark screens) · first-year food-margin arithmetic + arrival-window table (from master) · crop disease/pest response · animal-manure composting standard · zoonotic disease depth · winter water-line freeze · urine-diversion nutrient recovery · early-warning "minutes to respond" consequence.
+Urine-diversion nutrient recovery (opportunity, not safety) · early-warning "minutes to respond" quantification. *(House-fire safety, first-year food-margin/arrival-window, crop disease/pest response, animal-manure composting, zoonotic disease, and winter water-freeze — all closed since first publication.)*
 
 *A settling phase is where optimism meets biology. The manual's biology is strong; this revision's job was to make sure the reader *feels* the parts of it that kill silently — and knows which numbers to obey to the letter, and why. The rest is the oldest instruction in the manual: build the prototype, test it on your own ground, and write down what the ground teaches you.*
 

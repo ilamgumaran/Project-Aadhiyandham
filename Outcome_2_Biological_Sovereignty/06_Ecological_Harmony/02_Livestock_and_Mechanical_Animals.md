@@ -309,6 +309,23 @@ Reduce stocking density by 30-50% in arid conditions or poor soil. It is always 
 
 ---
 
+## Zoonotic Disease and Manure Safety
+
+Animals feed and power the settlement, and they also carry two hazards that pass to people: diseases they share with us, and pathogens in their waste. Both are managed, not feared.
+
+**Zoonoses — the diseases animals give people.** Beyond the epidemic-scale outbreaks (foot-and-mouth, avian influenza, anthrax) that trigger the 14-day quarantine of all new animals, several endemic zoonoses matter for daily herd-keeping:
+*   **Brucellosis** (cattle, goats, pigs): passes to people through birthing fluids, raw milk, and handling; causes chronic undulating fever, joint pain, and can persist for months. Defenses: assist births with a barrier and hand-washing, treat any sick or aborting animal as high-risk, and **heat/pasteurize milk** from any animal not known-clean.
+*   **Q fever** (goats, sheep, cattle): spread on the wind from birthing tissues and dust; a flu-like illness that can turn serious. Defense: keep birthing areas away from living quarters, promptly burn or deep-bury birth tissues and dead animals ([Natural Burial](../05_Health_and_the_Body/08_Natural_Burial.md) logic), stay upwind.
+*   **Bovine tuberculosis** and other milk-borne disease: the reason **raw milk from any animal not proven healthy is heated before drinking** — a Law-tier habit, cheap and absolute.
+*   **General rule:** hand-washing with [soap](../../Outcome_5_Decadal_Resilience/09_The_Mechanics/07_Foundational_Chemistry.md) after animal contact, barrier care at every birth and for every sick animal, and prompt safe disposal of dead animals and birth tissues defeat the great majority of routine zoonotic risk. During any human [epidemic](../05_Health_and_the_Body/11_Epidemic_and_Quarantine_Protocol.md), remember disease can also move between people and animals.
+
+**Animal manure — a resource that is also a pathogen.** Fresh manure carries **E. coli O157, Salmonella, and Cryptosporidium** that cause severe human illness, so it is composted before it touches food crops with the same discipline as [humanure](../03_Water_and_Sanitation/04_Humanure_Composting.md):
+*   **Hot-compost it:** a pile of at least 1 m³ reaching **55 °C, turned so all material passes the hot core**, kills the pathogens — the [thermophilic sanitation math](../03_Water_and_Sanitation/06_Thermophilic_Sanitation_Math.md) applies identically to animal waste.
+*   **Age it before food-crop use:** never spread fresh manure on crops eaten raw; compost and age it first. Fresh-manure gardens are a classic source of the [nitrate and pathogen](../04_Food_and_Soil_Sovereignty/09_Food_Toxins_and_Storage_Safety.md) problems both this manual and history record.
+*   **Keep manure and its runoff away from water** — the [30 m setback](../03_Water_and_Sanitation/03_Immediate_Sanitation.md) that governs latrines governs manure heaps and pens too, or the settlement contaminates its own well with animal pathogens and nitrate.
+
+---
+
 ## Common Failure Modes
 
 1. **Overgrazing**: Too many animals on too little land, or insufficient rest periods between grazings. The pasture thins, bare soil appears, weeds colonize, erosion begins, and carrying capacity collapses within 2-3 years. This degradation takes decades to reverse. **Prevention**: Calculate stocking density conservatively (1 cow-equivalent per 0.5-1.0 hectares on temperate pasture). Monitor grass height religiously — if grass is not recovering to 25 cm before the next grazing, you have too many animals. Reduce the herd before visual signs of degradation appear, not after.

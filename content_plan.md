@@ -25,6 +25,10 @@ This document organizes all files in the repository by the **6 Expected Outcomes
 
 | File | Title | Classification | Summary |
 |---|---|---|---|
+| `01_Rationale_and_Importance.md` | Rationale and Importance: Before You Leave (Phase Zero) | **Module Theory & Structure** | difficulty:     beginner |
+| `02_Group_Formation.md` | Group Formation: Assembling the Founding Party | **Atomic Topic** | difficulty:     moderate |
+| `03_Pre_Departure_Skill_Curriculum.md` | Pre-Departure Skill Curriculum: The Critical Few, In Order | **Atomic Topic** | difficulty:     beginner (to start) — the practice is the point |
+| `04_Departure_Trigger_Indicators.md` | Departure-Trigger Indicators: Deciding When to Go, Before You Must | **Atomic Topic** | difficulty:     moderate |
 | `01_Rationale_and_Importance.md` | Rationale and Importance: Logistics and Transit | **Module Theory & Structure** | **Alignment:** Outcome 1: Locating and Connecting Optimal Refugia |
 | `02_Orienting_and_Positioning.md` | Orienting: Where Am I? | **Atomic Topic** | **Alignment:** Outcome 1: Locating and Connecting Optimal Refugia |
 | `03_Direction_and_Orientation_Basics.md` | Direction: Which Way? | **Atomic Topic** | **Alignment:** Outcome 1: Locating and Connecting Optimal Refugia |
@@ -154,6 +158,8 @@ This document organizes all files in the repository by the **6 Expected Outcomes
 | `07_Pyrolysis_Engineering_and_TLUD_Gasifiers.md` | Pyrolysis Engineering: TLUD Gasifiers for Biochar Production and Clean Combustion | **Atomic Topic** | **Alignment:** Outcome 2: Absolute Biological Sovereignty |
 | `08_Refugia_Pantry_Physics.md` | Refugia Pantry Physics: Caloric Density, Storage Volumetrics, and Earth-Cooled Engineering | **Atomic Topic** | **Alignment:** Outcome 2: Absolute Biological Sovereignty |
 | `09_Food_Toxins_and_Storage_Safety.md` | Food Toxins and Storage Safety: When Food That Looks Fine Kills | **Atomic Topic** | difficulty:     moderate |
+| `10_First_Year_Food_Security_and_Arrival_Timing.md` | First-Year Food Security: Arrival Timing and the Hungry Gap | **Atomic Topic** | difficulty:     moderate |
+| `11_Crop_Disease_and_Pest_Response.md` | Crop Disease and Pest Response: Defending the Harvest in the Field | **Atomic Topic** | difficulty:     moderate |
 | `01_Rationale_and_Importance.md` | Rationale and Importance: Health Sovereignty Without Industrial Medicine | **Module Theory & Structure** | **Alignment:** Outcome 2: Absolute Biological Sovereignty |
 | `02_Endocrine_Regulation.md` | Endocrine Regulation: Circadian Biology and the Architecture of Sleep | **Atomic Topic** | **Alignment:** Outcome 2: Absolute Biological Sovereignty |
 | `03_Temperate_Antibiotic_Kit.md` | The Temperate Antibiotic Kit: Botanical Pharmacology for Infection Management | **Atomic Topic** | **Alignment:** Outcome 2: Absolute Biological Sovereignty |
@@ -164,12 +170,14 @@ This document organizes all files in the repository by the **6 Expected Outcomes
 | `08_Natural_Burial.md` | The Ecology of Death: Zero-Impact Mortuary Practices and Nutrient Return | **Atomic Topic** | **Alignment:** Outcome 2: Absolute Biological Sovereignty |
 | `09_Spectral_Management_and_Circadian_Health.md` | Spectral Management: Engineering the Light Environment for Circadian Health | **Atomic Topic** | **Alignment:** Outcome 2: Absolute Biological Sovereignty |
 | `10_Deficiency_Diseases_and_Heat_Illness.md` | Deficiency Diseases and Heat Illness: The Slow Famines and the Fast Heat | **Atomic Topic** | difficulty:     moderate |
+| `11_Epidemic_and_Quarantine_Protocol.md` | Epidemic and Quarantine Protocol: When the Threat Is Contagious | **Action Oriented** | difficulty:     moderate |
 | `01_Rationale_and_Importance.md` | Rationale and Importance: Ecological Harmony — The Settlement as Ecosystem Participant | **Module Theory & Structure** | **Alignment:** Outcome 2: Absolute Biological Sovereignty |
 | `02_Livestock_and_Mechanical_Animals.md` | Livestock and Mechanical Animals: Draft Power, Nutrient Cycling, and Silvopasture | **Atomic Topic** | **Alignment:** Outcome 2: Absolute Biological Sovereignty |
 | `03_Ecological_Harmony_and_Wildlife.md` | Ecological Harmony and Wildlife: The Co-Inhabitants of the Refugia | **Atomic Topic** | **Alignment:** Outcome 2: Absolute Biological Sovereignty |
 | `04_Shelter_and_Thermal_Grounding.md` | Shelter and Thermal Grounding: Building with the Earth's Thermal Rhythms | **Atomic Topic** | **Alignment:** Outcome 2: Absolute Biological Sovereignty |
 | `05_Psychological_Grounding.md` | Psychological Grounding: The Return to Null — உளவியல் அடிப்படை: சூனியத்திற்குத் திரும்புதல் | **Atomic Topic** | **Alignment:** Outcome 2: Absolute Biological Sovereignty |
 | `06_Regenerative_Grazing_and_Silvopasture_Math.md` | Regenerative Grazing and Silvopasture Math | **Atomic Topic** | **Alignment:** Outcome 2: Absolute Biological Sovereignty |
+| `07_Fire_Safety_and_the_Hearth.md` | Fire Safety and the Hearth: The Fire You Invited Indoors | **Atomic Topic** | difficulty:     beginner |
 
 ## Outcome 3: Perimeter Sovereignty and Passive Defense
 

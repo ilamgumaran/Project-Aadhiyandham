@@ -176,6 +176,18 @@ The five subsequent modules in this sub-section provide detailed construction an
 - **[04. Humanure Composting](04_Humanure_Composting.md):** Design and operation of thermophilic composting toilets. Collection, carbon-to-nitrogen ratio management, and batch processing for pathogen destruction.
 - **[05. Humanure Integration](05_Humanure_Integration.md):** Protocols for safely applying treated humanure compost to agricultural soil. Application rates, crop restrictions, and monitoring for complete pathogen elimination.
 - **[06. Thermophilic Sanitation Math](06_Thermophilic_Sanitation_Math.md):** The engineering mathematics of pathogen die-off curves, time-temperature relationships, and zero-tech verification methods for confirming compost safety.
+- **[07. Water Contaminant Testing and Remediation](07_Water_Contaminant_Testing_and_Remediation.md):** The chemical poisons — nitrate, arsenic, heavy metals — that pathogen treatment does not remove and boiling can concentrate.
+
+---
+
+## Winter: Protecting Water from Freezing
+
+In any climate with a hard winter, freezing is a distinct threat to the whole water system, and it attacks on three fronts at once:
+*   **The bio-sand filter must never freeze.** Ice cracks the vessel and, worse, kills the living [Schmutzdecke](02_Bio_Sand_Filtration.md) biolayer — a frozen filter is both broken and unsafe until it is rebuilt and re-ripened over 10–14 days. The filter belongs inside a frost-protected space (a shelter, an insulated enclosure, or below the frost line) through winter.
+*   **Supply lines and channels freeze and cut off water.** A pipe, hydram line, or open channel that freezes solid stops the flow and can burst. Defenses: **bury lines below the local frost depth**, insulate exposed runs, and — the oldest trick — **keep water moving**, since moving water resists freezing (a trickle-flow through a line or a slow-dripping tap can keep it open on the coldest nights).
+*   **Stored water bursts its containers.** Water expands ~9% as it freezes and will crack rigid vessels. Store winter water where it will not freeze (below frost line, in the [root cellar](../04_Food_and_Soil_Sovereignty/08_Refugia_Pantry_Physics.md), or in the heated shelter), keep vessels only partly full to leave expansion room, and prefer flexible containers that survive a freeze over rigid ones that shatter.
+
+The failure is seasonal and predictable, so it is planned for in autumn, not discovered on the first hard frost — a settlement that loses its filter, its supply line, and its stored water to a single cold snap faces a dehydration emergency in the season it can least afford one.
 
 ---
 

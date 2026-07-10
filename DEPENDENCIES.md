@@ -35,7 +35,8 @@ The minimum viable sequence for a newly arrived community:
 ### Outcome 1: Locating Refugia
 | Section | Depends On | Provides To |
 |---|---|---|
-| 01 The Journey | None (entry point) | 02 The Site |
+| 01/00 Before Departure (Phase Zero) | None (the true entry point) | 01 The Journey (a ready group), 04 Food (departure↔arrival-timing), 08a Group Dynamics |
+| 01 The Journey | 01/00 Before Departure (group, skills, decision) | 02 The Site |
 | 01/12 Journey Scenarios & Contingencies | 01 Journey (transit, packing, family protocols) | 02 The Site (arrival handoff), 07 Passive Defense (interim perimeter), 07a Active Threat (encounter de-escalation) |
 | 02 The Site | 01 The Journey | 03, 04, 07 (site selection informs all construction) |
 | 02/08 Location Recording | 02 The Site (sentinels, terrain) | 01 Journey (route encoding), 14a Diplomacy (inter-settlement sharing) |
@@ -51,8 +52,12 @@ The minimum viable sequence for a newly arrived community:
 | 03/07 Water Contaminant Testing | 02 Field Mineralogy & Water Baselines (geology), 03 Immediate Sanitation (setbacks) | 04 Food (safe irrigation/infant food), 05 Health (methemoglobinemia prevention) |
 | 04 Food & Soil | 02 The Site (soil analysis), 03 Water | 05 Health (nutrition), 06 Ecological (crop-ecosystem integration) |
 | 04/09 Food Toxins & Storage Safety | 04 Long-Term Preservation, 08 Pantry Physics | 05 Health (poisoning prevention), 05/10 Deficiency Diseases |
+| 04/10 First-Year Food Security & Arrival Timing | 06 Emergency Nutrition, 08 Pantry Physics, 02/10 Climate Thresholds | 01/12 Arrival Protocol (arrival-window & Phase-0 planting), 01 Journey (departure timing) |
+| 04/11 Crop Disease & Pest Response | 03 Heirloom Seed (diversity/clean reserve), 02 Terra Preta, 06 Ecological Harmony | 04/10 First-Year Food Security (bridges on crop loss), 04/09 Food Toxins (field→storage toxins) |
+| 06/07 Fire Safety and the Hearth | 06/04 Shelter (CO/ventilation), 04/05 Thermal Mass Cooking | 07 Wildfire Defensible Space (shared ember/spacing logic) |
 | 05 Health & Body | 03 Water, 04 Food, 09 Chemistry (antiseptics) | 08 The Mind (physical health enables mental health) |
 | 05/10 Deficiency Diseases & Heat Illness | 04 Food (dietary diversity), 09 Chemistry (ash-lye for nixtamalization) | 11 Next Gen (child development depends on nutrition) |
+| 05/11 Epidemic & Quarantine Protocol | 03 Sanitation, 08 Natural Burial, 09 Chemistry (soap) | 14a First Contact, 08a Integration of Newcomers (both governed under epidemic) |
 | 06 Ecological Harmony | 02 The Site, 04 Food & Soil | 07 Passive Defense (landscape design), 04 Food (silvopasture feedback) |
 
 ### Outcome 3: Perimeter Defense
