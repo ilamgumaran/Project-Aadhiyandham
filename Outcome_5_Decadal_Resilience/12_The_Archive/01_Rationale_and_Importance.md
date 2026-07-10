@@ -355,6 +355,12 @@ Together, these three sub-modules form the core of the archive: the laws governi
    RULE: NO TWO COPIES IN THE SAME BUILDING — ever.
 ```
 
+## Inter-Settlement Copying: Redundancy Beyond the Walls
+
+The three-site policy above defends the archive against fire, flood, and vermin *within one settlement*. It does not defend against the loss of the *whole settlement* — a raid, a fire that takes the hamlet, an abandonment, a generation that dies in a plague year. Against that, there is only one defense: **copies held by other settlements.** A body of knowledge that exists in only one community is one catastrophe from extinction, however well-triplicated inside that community's walls.
+
+So the archive extends its redundancy across the [network](../../Outcome_6_Flourishing_Civilization/14b_Knowledge_Exchange/01_Rationale_and_Importance.md) on a simple cadence: **every durable contact with an allied settlement is an occasion to exchange archive copies** — you carry a copy of your Tier-1 knowledge to them, and bring theirs home. Over time this weaves the manual into a distributed web in which no single settlement's destruction can erase a technique, because a dozen others hold it. Pair it with the [Traveling Scholar](../../Outcome_6_Flourishing_Civilization/14b_Knowledge_Exchange/02_The_Traveling_Scholar_System.md) system, which moves knowledge between settlements anyway; the scholar who arrives should never leave without a fresh Tier-1 copy in the saddlebag. This is the same logic as [genetic exchange](../../Outcome_5_Decadal_Resilience/10_The_Society/04_Demographic_Harmony.md) applied to knowledge: a lone settlement is not viable in isolation, for its library any more than for its genes.
+
 ## Common Failure Modes
 
 The following failure modes have destroyed archives throughout human history. Each is preventable, but only through deliberate institutional design. An archive that does not actively guard against these failures will eventually succumb to one or more of them.

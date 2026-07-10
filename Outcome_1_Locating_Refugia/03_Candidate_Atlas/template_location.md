@@ -16,6 +16,15 @@ Use this template to score a real-world location against the Aadhiyandham bluepr
 *   [ ] **Gravity Water:** Does it have year-round water sources flowing from a *higher* elevation?
 *   **Notes:** [Describe the topography]
 
+### Phase I-b: Access & Tenure (who may lawfully be here, and who already is)
+Terrain is only half of whether a site is reachable and holdable. Evaluate honestly, because most Atlas sites lie in functioning countries with borders, owners, and residents:
+*   [ ] **Legal path (S0/S1 — society functioning):** Can the settlement lawfully acquire and occupy this land — purchase, lease, tenure, residency? At what cost and under what land law? A site with no lawful path is a fantasy, not a plan, while the world still works.
+*   [ ] **Jurisdiction & protection status:** Whose country and law govern it? Is it a national park, reserve, or protected area where settlement is prohibited?
+*   [ ] **Existing occupancy:** Who already lives on or uses this land? In any slow-decay scenario they will still be there — with the local advantage — so the honest options are lawful coexistence/purchase or looking elsewhere, never assumed vacancy.
+*   [ ] **Border & transit realities:** Does reaching it cross controlled borders? (Cross-reference the [journey](../01_The_Journey/00_Before_Departure/01_Rationale_and_Importance.md) and [low-profile travel](../01_The_Journey/12_Journey_Scenarios_and_Contingencies/04_Low_Profile_Travel_and_Encounter_Protocols.md) modules.)
+*   **Notes:** [Legal route under normal conditions; honest occupancy expectations; who to approach]
+> **Treat every Atlas entry as a terrain *shortlist*, not a destination.** The physical evaluation says a place *could* support a settlement; this section says whether *your* settlement can lawfully and peacefully get there and stay. Both must pass. See [pressure_test_report.md §2.2](../../pressure_test_report.md).
+
 ## 3. Phase II: Stabilization & Sustenance
 *   **Solar Potential:** [Estimate hours of direct sunlight / GHI]
 *   **Soil Type:** [Describe native soil—e.g., limestone-based, sandy, clay heavy]

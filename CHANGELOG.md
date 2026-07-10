@@ -7,6 +7,10 @@ The format is based on [Keep a Changelog](https://keepachangelog.com/), and this
 ## [Unreleased]
 
 ### Added
+- **Enhancement batch (targeted additions to existing modules):** zoonotic disease + animal-manure hot-composting standard (Livestock 06/02); winter water-freeze protection for filter, lines, and stores (Water rationale 03/01); exogamy / single-settlement genetic non-viability (Demographic Harmony 10/04); the annual skill-redundancy census (The Society 10/01); inter-settlement archive copying cadence (The Archive 12/01); Access & Tenure doctrine — legal path, jurisdiction, existing occupancy, "terrain shortlist not destination list" (Candidate Atlas overview + evaluation template)
+
+### Changed
+- **E-Prime honesty caveat** (Linguistic Precision 08/02): labeled Craft-tier, not Law — plausible and low-risk but not established science; not to be imposed as orthodoxy
 - **Fire Safety and the Hearth (06/07)** — closes the house-fire gap (distinct from wildfire and CO): hearth containment, two-exit egress drilled in the dark, water/sand + the fat-fire exception, seed/reserve stored away from flame
 - **Crop Disease & Pest Response (04/11)** — closes the field-failure gap: diversity as the master defense (the anti-monoculture rule), field-walking and roguing, the seed-line-outranks-harvest sacrifice decision
 - **Epidemic & Quarantine Protocol (05/11)** — closes the S3 pandemic gap: the inverted doctrine under contagion (quarantine every arrival, break-the-chain by route, barrier nursing, the sealing ladder watch→restrict→seal, safe reopening); a small hospital-less settlement is both more protected and more vulnerable

@@ -34,7 +34,7 @@ Each settling system was tested against: *What does it assume? What breaks the a
 |:--|:---|:---|:---|
 | 3.1 | Thresholds are outstanding and among the manual's best: 30 m setback (50 m sand), 55 °C × 15 days, 12-month cure, three-tier verification, Ascaris as the benchmark organism. | — | **Adequate — exemplary.** |
 | 3.2 | **Consequence weighting.** The thresholds are stated as engineering, but the *human* result of missing them (an Ascaris outbreak returning through the salad weeks later, whole-settlement dysentery from a too-close latrine) was under-stated, and these are the most silent-onset failures in the manual. | High | **[CLOSED → ledger §5 with onset column; the "silent" flag]** |
-| 3.3 | Animal-manure pathogens (E. coli O157, Crypto) and manure hot-composting standards get less treatment than humanure. | Medium | **[OPEN — small]** Livestock module covers quarantine; a manure-composting standard mirroring the humanure one belongs in Food/Soil. Logged. |
+| 3.3 | Animal-manure pathogens (E. coli O157, Crypto) and manure hot-composting standards get less treatment than humanure. | Medium | **[CLOSED → [Livestock module, Zoonotic Disease and Manure Safety](Outcome_2_Biological_Sovereignty/06_Ecological_Harmony/02_Livestock_and_Mechanical_Animals.md)]** — hot-compost to 55 °C, age before food-crop use, 30 m water setback. |
 | 3.4 | Urine diversion (huge N/P recovery, and lower pathogen load) is mentioned but not built out. | Low (opportunity) | **[OPEN]** Value is nutrient-recovery, not safety. |
 
 ## 4. Food, Soil & Storage
@@ -56,7 +56,7 @@ Each settling system was tested against: *What does it assume? What breaks the a
 | 5.3 | **The B12 constraint on the vision's agrarian idealism.** A near-total plant diet depletes B12 over 1–3 years → irreversible neuropathy. The manual's aesthetic leaned plant-ward without stating this hard limit. | High | **[CLOSED → new module §3.5; stated as a planning constraint]** |
 | 5.4 | **Heat illness** was only a one-line "dangerous above 40 °C." The life-defining transition (sweating fails, confusion begins → heat stroke → death in hours) and the work/rest/shade rule were missing. | High | **[CLOSED → new module §4]** |
 | 5.5 | **Medical honesty ceiling.** Zero-tech medicine cannot save appendicitis, obstructed labor, sepsis, major trauma. The modules carry honest caveats; the settlement's real mitigations are prevention culture and *knowing the ceiling*. | High (unavoidable) | **Stated; consistent across modules.** |
-| 5.6 | Zoonotic disease (brucellosis, Q fever, bovine TB) beyond the 14-day quarantine line is thin. | Medium | **[OPEN]** Logged. |
+| 5.6 | Zoonotic disease (brucellosis, Q fever, bovine TB) beyond the 14-day quarantine line is thin. | Medium | **[CLOSED → [Livestock module, Zoonotic Disease and Manure Safety](Outcome_2_Biological_Sovereignty/06_Ecological_Harmony/02_Livestock_and_Mechanical_Animals.md)]** — the endemic zoonoses, milk-heating rule, and barrier-care defenses. |
 | 5.7 | Infant botulism (no honey under 12 months) was cross-referenced but not stated plainly at point of use. | Medium | **[CLOSED → stated in new modules; ledger §6]** |
 
 ## 6. Shelter, Fire & Structure
@@ -100,7 +100,7 @@ Each settling system was tested against: *What does it assume? What breaks the a
 
 ## 11. Open Ledger (settling phase, priority order)
 
-Animal-manure composting standard · zoonotic disease depth · winter water-line freeze · urine-diversion nutrient recovery · early-warning "minutes to respond" consequence. *(House-fire safety, first-year food-margin/arrival-window, and crop disease/pest response — all closed since first publication.)*
+Urine-diversion nutrient recovery (opportunity, not safety) · early-warning "minutes to respond" quantification. *(House-fire safety, first-year food-margin/arrival-window, crop disease/pest response, animal-manure composting, zoonotic disease, and winter water-freeze — all closed since first publication.)*
 
 *A settling phase is where optimism meets biology. The manual's biology is strong; this revision's job was to make sure the reader *feels* the parts of it that kill silently — and knows which numbers to obey to the letter, and why. The rest is the oldest instruction in the manual: build the prototype, test it on your own ground, and write down what the ground teaches you.*
 

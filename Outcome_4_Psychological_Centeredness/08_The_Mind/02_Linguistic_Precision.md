@@ -287,6 +287,12 @@ The left column shows the cascade that a single identity-based statement can tri
 
 ---
 
+## A Note on the Evidence (Hold This as Craft, Not Law)
+
+Honesty requires a caveat this manual applies to itself everywhere ([The Scientific Method](../../Outcome_5_Decadal_Resilience/11_The_Next_Generation/08_The_Scientific_Method.md)): **the strong psychological claims for E-Prime are not established science.** The reasoning is coherent and the mechanism (that identity-based "to be" statements provoke defensiveness and obscure the observer) is plausible and has passionate advocates — but the experimental evidence that adopting E-Prime measurably reduces conflict or improves thinking is thin, largely theoretical and anecdotal rather than controlled. Treat E-Prime, then, as a **[Craft-tier](../../CONSEQUENCES_OF_DEVIATION.md) practice, not a Law:** a cheap, low-risk discipline with a believable rationale, worth trying and calibrating by your own community's experience — not a proven instrument to be imposed as doctrine. Adopt it for the observable habit it builds (specific observation over sweeping judgment), hold the grander claims loosely, and let the community's own results, not this page, decide how far to take it. Imposing it as required orthodoxy would ironically reproduce the rigid, identity-policing dynamic it exists to dissolve.
+
+---
+
 ## Common Failure Modes
 
 1. **Mechanical Compliance Without Understanding**: The speaker replaces "is" with awkward circumlocutions — "It has the quality of being red," "It can be said to have redness" — that technically avoid "to be" but preserve the same absolutist frame.
