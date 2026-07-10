@@ -54,6 +54,10 @@ The minimum viable sequence for a newly arrived community:
 | 04/09 Food Toxins & Storage Safety | 04 Long-Term Preservation, 08 Pantry Physics | 05 Health (poisoning prevention), 05/10 Deficiency Diseases |
 | 04/10 First-Year Food Security & Arrival Timing | 06 Emergency Nutrition, 08 Pantry Physics, 02/10 Climate Thresholds | 01/12 Arrival Protocol (arrival-window & Phase-0 planting), 01 Journey (departure timing) |
 | 04/11 Crop Disease & Pest Response | 03 Heirloom Seed (diversity/clean reserve), 02 Terra Preta, 06 Ecological Harmony | 04/10 First-Year Food Security (bridges on crop loss), 04/09 Food Toxins (field→storage toxins) |
+| 04/12 Salt Production & Sourcing | 02 Site (coast/brine/rock geology) | 04/04 Long-Term Preservation (cure/ferment ratios), 06/02 Livestock (salt licks), 01/05 Trade (salt as commodity) |
+| 06/08 Fishing & Aquaculture | 06/01 Ecological Harmony, 04/06 Emergency Nutrition | 04/04 Preservation (dried/salted fish), 04/02 Terra Preta (pond-water fertility) |
+| 06/09 Small Livestock (Poultry & Rabbits) | 06/02 Livestock, 04/06 Emergency Nutrition (fat imperative) | 04/02 Terra Preta (manure), 09/05 Textiles (fur/pelts), 07 Defense (fowl alarms) |
+| 06/10 Beekeeping | 06/01 Ecological Harmony, 05/03 Antibiotic Kit (medicinal honey) | 04 crops (pollination yield), 09/07 Chemistry (wax) |
 | 06/07 Fire Safety and the Hearth | 06/04 Shelter (CO/ventilation), 04/05 Thermal Mass Cooking | 07 Wildfire Defensible Space (shared ember/spacing logic) |
 | 05 Health & Body | 03 Water, 04 Food, 09 Chemistry (antiseptics) | 08 The Mind (physical health enables mental health) |
 | 05/10 Deficiency Diseases & Heat Illness | 04 Food (dietary diversity), 09 Chemistry (ash-lye for nixtamalization) | 11 Next Gen (child development depends on nutrition) |

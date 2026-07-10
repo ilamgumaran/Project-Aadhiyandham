@@ -160,6 +160,7 @@ This document organizes all files in the repository by the **6 Expected Outcomes
 | `09_Food_Toxins_and_Storage_Safety.md` | Food Toxins and Storage Safety: When Food That Looks Fine Kills | **Atomic Topic** | difficulty:     moderate |
 | `10_First_Year_Food_Security_and_Arrival_Timing.md` | First-Year Food Security: Arrival Timing and the Hungry Gap | **Atomic Topic** | difficulty:     moderate |
 | `11_Crop_Disease_and_Pest_Response.md` | Crop Disease and Pest Response: Defending the Harvest in the Field | **Atomic Topic** | difficulty:     moderate |
+| `12_Salt_Production_and_Sourcing.md` | Salt Production and Sourcing: The Mineral the Whole Larder Depends On | **Atomic Topic** | difficulty:     moderate |
 | `01_Rationale_and_Importance.md` | Rationale and Importance: Health Sovereignty Without Industrial Medicine | **Module Theory & Structure** | **Alignment:** Outcome 2: Absolute Biological Sovereignty |
 | `02_Endocrine_Regulation.md` | Endocrine Regulation: Circadian Biology and the Architecture of Sleep | **Atomic Topic** | **Alignment:** Outcome 2: Absolute Biological Sovereignty |
 | `03_Temperate_Antibiotic_Kit.md` | The Temperate Antibiotic Kit: Botanical Pharmacology for Infection Management | **Atomic Topic** | **Alignment:** Outcome 2: Absolute Biological Sovereignty |
@@ -178,6 +179,9 @@ This document organizes all files in the repository by the **6 Expected Outcomes
 | `05_Psychological_Grounding.md` | Psychological Grounding: The Return to Null — உளவியல் அடிப்படை: சூனியத்திற்குத் திரும்புதல் | **Atomic Topic** | **Alignment:** Outcome 2: Absolute Biological Sovereignty |
 | `06_Regenerative_Grazing_and_Silvopasture_Math.md` | Regenerative Grazing and Silvopasture Math | **Atomic Topic** | **Alignment:** Outcome 2: Absolute Biological Sovereignty |
 | `07_Fire_Safety_and_the_Hearth.md` | Fire Safety and the Hearth: The Fire You Invited Indoors | **Atomic Topic** | difficulty:     beginner |
+| `08_Fishing_and_Aquaculture.md` | Fishing and Aquaculture: Protein from the Water | **Atomic Topic** | difficulty:     moderate |
+| `09_Small_Livestock_Poultry_and_Rabbits.md` | Small Livestock: Poultry and Rabbits, the Fast Protein Cycle | **Atomic Topic** | difficulty:     beginner to moderate |
+| `10_Beekeeping.md` | Beekeeping: Pollination, Honey, and Wax | **Atomic Topic** | difficulty:     moderate |
 
 ## Outcome 3: Perimeter Sovereignty and Passive Defense
 

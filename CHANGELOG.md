@@ -7,6 +7,11 @@ The format is based on [Keep a Changelog](https://keepachangelog.com/), and this
 ## [Unreleased]
 
 ### Added
+- **Completeness: food-system round-out (4 new modules)** — rounding out the food/nutrition core beyond the survival-critical minimum
+  - **Salt Production & Sourcing (04/12)** — the required Law-tier input for preservation/curing: solar salt-pans, brine boiling, rock-salt refining, the plant-ash-substitute limits, and salt as an inland trade good
+  - **Fishing & Aquaculture (06/08)** — passive traps/weirs, nets, and cultivated polyculture ponds integrated with the garden; cook-the-catch and clean-siting safety
+  - **Small Livestock: Poultry & Rabbits (06/09)** — the fast protein cycle; eggs/meat/pest-control/manure; the night-predator and rabbit-starvation (fat) disciplines
+  - **Beekeeping (06/10)** — pollination as a whole-settlement yield multiplier, honey (food + wound medicine), and wax; take-only-surplus and sting-safety rules
 - **Enhancement batch (targeted additions to existing modules):** zoonotic disease + animal-manure hot-composting standard (Livestock 06/02); winter water-freeze protection for filter, lines, and stores (Water rationale 03/01); exogamy / single-settlement genetic non-viability (Demographic Harmony 10/04); the annual skill-redundancy census (The Society 10/01); inter-settlement archive copying cadence (The Archive 12/01); Access & Tenure doctrine — legal path, jurisdiction, existing occupancy, "terrain shortlist not destination list" (Candidate Atlas overview + evaluation template)
 
 ### Changed
