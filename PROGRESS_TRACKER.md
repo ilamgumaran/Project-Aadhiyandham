@@ -17,6 +17,7 @@
 - [I] `00_Before_Departure/02_Group_Formation.md`
 - [I] `00_Before_Departure/03_Pre_Departure_Skill_Curriculum.md`
 - [I] `00_Before_Departure/04_Departure_Trigger_Indicators.md`
+- [I] `00_Before_Departure/05_Physical_Conditioning.md`
 - [I] `01_Rationale_and_Importance.md`
 - [I] `02_Orienting_and_Positioning.md`
 - [I] `03_Direction_and_Orientation_Basics.md`
@@ -68,6 +69,7 @@
 - [I] `05_Humanure_Integration.md`
 - [I] `06_Thermophilic_Sanitation_Math.md`
 - [I] `07_Water_Contaminant_Testing_and_Remediation.md`
+- [I] `08_Urine_Diversion_and_Nutrient_Recovery.md`
 
 ### 04 Food and Soil Sovereignty
 - [I] `01_Rationale_and_Importance.md`
@@ -95,6 +97,7 @@
 - [I] `09_Spectral_Management_and_Circadian_Health.md`
 - [I] `10_Deficiency_Diseases_and_Heat_Illness.md`
 - [I] `11_Epidemic_and_Quarantine_Protocol.md`
+- [I] `12_Hygiene_Laundry_and_Parasite_Control.md`
 
 ### 06 Ecological Harmony
 - [I] `01_Rationale_and_Importance.md`
@@ -172,6 +175,7 @@
 - [I] `07_Foundational_Chemistry.md`
 - [I] `08_Ceramic_Synthesis.md`
 - [I] `09_Cordage_and_Rope.md`
+- [I] `10_Lighting_Lamps_and_Candles.md`
 
 ### 10 The Society
 - [I] `01_Rationale_and_Importance.md`

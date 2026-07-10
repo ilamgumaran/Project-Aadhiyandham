@@ -7,6 +7,11 @@ The format is based on [Keep a Changelog](https://keepachangelog.com/), and this
 ## [Unreleased]
 
 ### Added
+- **Completeness: daily-life & public-health round-out (4 new modules)**
+  - **Hygiene, Laundry & Parasite Control (05/12)** — the daily chain-breaks (hand-washing, laundry, vector control) that prevent the epidemics the quarantine module reacts to; lice/typhus, fleas/plague, ticks, mosquitoes, worms
+  - **Lighting: Lamps & Candles (09/10)** — rushlights, oil lamps, tallow/beeswax candles; warm dim night light that doubles as circadian protection; flame-safety
+  - **Urine Diversion & Nutrient Recovery (03/08)** — the easy half of the nutrient loop: near-sterile, N-P-K-rich fertilizer; dilution, aging, biochar-charging, and the nitrate/water caution
+  - **Physical Conditioning (01/00.05)** — Phase-Zero progressive conditioning for the loaded journey and settlement labor; the overtraining trap; closes audit finding 3.4
 - **Completeness: food-system round-out (4 new modules)** — rounding out the food/nutrition core beyond the survival-critical minimum
   - **Salt Production & Sourcing (04/12)** — the required Law-tier input for preservation/curing: solar salt-pans, brine boiling, rock-salt refining, the plant-ash-substitute limits, and salt as an inland trade good
   - **Fishing & Aquaculture (06/08)** — passive traps/weirs, nets, and cultivated polyculture ponds integrated with the garden; cook-the-catch and clean-siting safety

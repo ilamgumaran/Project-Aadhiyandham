@@ -29,6 +29,7 @@ This document organizes all files in the repository by the **6 Expected Outcomes
 | `02_Group_Formation.md` | Group Formation: Assembling the Founding Party | **Atomic Topic** | difficulty:     moderate |
 | `03_Pre_Departure_Skill_Curriculum.md` | Pre-Departure Skill Curriculum: The Critical Few, In Order | **Atomic Topic** | difficulty:     beginner (to start) — the practice is the point |
 | `04_Departure_Trigger_Indicators.md` | Departure-Trigger Indicators: Deciding When to Go, Before You Must | **Atomic Topic** | difficulty:     moderate |
+| `05_Physical_Conditioning.md` | Physical Conditioning: Building the Body the Journey Assumes | **Atomic Topic** | difficulty:     beginner |
 | `01_Rationale_and_Importance.md` | Rationale and Importance: Logistics and Transit | **Module Theory & Structure** | **Alignment:** Outcome 1: Locating and Connecting Optimal Refugia |
 | `02_Orienting_and_Positioning.md` | Orienting: Where Am I? | **Atomic Topic** | **Alignment:** Outcome 1: Locating and Connecting Optimal Refugia |
 | `03_Direction_and_Orientation_Basics.md` | Direction: Which Way? | **Atomic Topic** | **Alignment:** Outcome 1: Locating and Connecting Optimal Refugia |
@@ -149,6 +150,7 @@ This document organizes all files in the repository by the **6 Expected Outcomes
 | `05_Humanure_Integration.md` | Humanure Integration: Closing the Phosphorus Loop Through Soil Amendment | **Atomic Topic** | **Alignment:** Outcome 2: Absolute Biological Sovereignty |
 | `06_Thermophilic_Sanitation_Math.md` | Thermophilic Sanitation Math: Pathogen Die-off Kinetics and Zero-Tech Verification | **Atomic Topic** | **Alignment:** Outcome 2: Absolute Biological Sovereignty |
 | `07_Water_Contaminant_Testing_and_Remediation.md` | Water Contaminant Testing and Remediation: The Poisons Boiling Cannot Fix | **Atomic Topic** | difficulty:     moderate |
+| `08_Urine_Diversion_and_Nutrient_Recovery.md` | Urine Diversion and Nutrient Recovery: The Easy Half of the Loop | **Atomic Topic** | difficulty:     beginner |
 | `01_Rationale_and_Importance.md` | Rationale and Importance: Food Sovereignty and the Soil-Seed Covenant | **Module Theory & Structure** | **Alignment:** Outcome 2: Absolute Biological Sovereignty |
 | `02_Terra_Preta_and_Biochar.md` | Terra Preta and Biochar: Building Permanent Soil Fertility | **Atomic Topic** | **Alignment:** Outcome 2: Absolute Biological Sovereignty |
 | `03_Heirloom_Seed_Banking.md` | Heirloom Seed Banking: Genetic Sovereignty and Adaptive Breeding | **Atomic Topic** | **Alignment:** Outcome 2: Absolute Biological Sovereignty |
@@ -172,6 +174,7 @@ This document organizes all files in the repository by the **6 Expected Outcomes
 | `09_Spectral_Management_and_Circadian_Health.md` | Spectral Management: Engineering the Light Environment for Circadian Health | **Atomic Topic** | **Alignment:** Outcome 2: Absolute Biological Sovereignty |
 | `10_Deficiency_Diseases_and_Heat_Illness.md` | Deficiency Diseases and Heat Illness: The Slow Famines and the Fast Heat | **Atomic Topic** | difficulty:     moderate |
 | `11_Epidemic_and_Quarantine_Protocol.md` | Epidemic and Quarantine Protocol: When the Threat Is Contagious | **Action Oriented** | difficulty:     moderate |
+| `12_Hygiene_Laundry_and_Parasite_Control.md` | Hygiene, Laundry, and Parasite Control: The Daily Defense | **Atomic Topic** | difficulty:     beginner |
 | `01_Rationale_and_Importance.md` | Rationale and Importance: Ecological Harmony — The Settlement as Ecosystem Participant | **Module Theory & Structure** | **Alignment:** Outcome 2: Absolute Biological Sovereignty |
 | `02_Livestock_and_Mechanical_Animals.md` | Livestock and Mechanical Animals: Draft Power, Nutrient Cycling, and Silvopasture | **Atomic Topic** | **Alignment:** Outcome 2: Absolute Biological Sovereignty |
 | `03_Ecological_Harmony_and_Wildlife.md` | Ecological Harmony and Wildlife: The Co-Inhabitants of the Refugia | **Atomic Topic** | **Alignment:** Outcome 2: Absolute Biological Sovereignty |
@@ -236,6 +239,7 @@ This document organizes all files in the repository by the **6 Expected Outcomes
 | `07_Foundational_Chemistry.md` | Foundational Chemistry: Lye, Soap, Vinegar, and Essential Compounds | **Atomic Topic** | **Alignment:** Outcome 5: Decadal and Generational Resilience |
 | `08_Ceramic_Synthesis.md` | Ceramic Synthesis and Pottery: Vessels of Civilization | **Atomic Topic** | **Alignment:** Outcome 5: Decadal and Generational Resilience |
 | `09_Cordage_and_Rope.md` | Advanced Cordage and Rope Making: The Ligaments of Infrastructure | **Atomic Topic** | **Alignment:** Outcome 5: Decadal and Generational Resilience |
+| `10_Lighting_Lamps_and_Candles.md` | Lighting: Lamps, Candles, and the Managed Flame | **Atomic Topic** | difficulty:     beginner to moderate |
 | `01_Rationale_and_Importance.md` | The Society: Rationale and Importance — Why Civilizations Collapse and How to Build Differently | **Module Theory & Structure** | **Alignment:** Outcome 5: Decadal and Generational Resilience |
 | `02_Recycling_Cliff.md` | The Recycling Cliff: Strategic Resource Management | **Atomic Topic** | **Alignment:** Outcome 5: Decadal and Generational Resilience |
 | `03_Consensus_Models.md` | Models of Consensus Governance: Decision-Making Without Hierarchy | **Atomic Topic** | **Alignment:** Outcome 5: Decadal and Generational Resilience |

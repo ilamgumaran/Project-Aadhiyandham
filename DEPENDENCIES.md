@@ -36,6 +36,7 @@ The minimum viable sequence for a newly arrived community:
 | Section | Depends On | Provides To |
 |---|---|---|
 | 01/00 Before Departure (Phase Zero) | None (the true entry point) | 01 The Journey (a ready group), 04 Food (departure↔arrival-timing), 08a Group Dynamics |
+| 01/00.05 Physical Conditioning | 01/12 Party Playbooks (rehearsal walk, capacity) | 01 The Journey (bodies that meet the plan), settlement labor |
 | 01 The Journey | 01/00 Before Departure (group, skills, decision) | 02 The Site |
 | 01/12 Journey Scenarios & Contingencies | 01 Journey (transit, packing, family protocols) | 02 The Site (arrival handoff), 07 Passive Defense (interim perimeter), 07a Active Threat (encounter de-escalation) |
 | 02 The Site | 01 The Journey | 03, 04, 07 (site selection informs all construction) |
@@ -50,6 +51,7 @@ The minimum viable sequence for a newly arrived community:
 |---|---|---|
 | 03 Water & Sanitation | 02 The Site (water source identification) | 04 Food (irrigation), 05 Health (clean water for medicine) |
 | 03/07 Water Contaminant Testing | 02 Field Mineralogy & Water Baselines (geology), 03 Immediate Sanitation (setbacks) | 04 Food (safe irrigation/infant food), 05 Health (methemoglobinemia prevention) |
+| 03/08 Urine Diversion & Nutrient Recovery | 03/04 Humanure Composting, 03/05 Humanure Integration | 04/02 Terra Preta (biochar charging), soil fertility |
 | 04 Food & Soil | 02 The Site (soil analysis), 03 Water | 05 Health (nutrition), 06 Ecological (crop-ecosystem integration) |
 | 04/09 Food Toxins & Storage Safety | 04 Long-Term Preservation, 08 Pantry Physics | 05 Health (poisoning prevention), 05/10 Deficiency Diseases |
 | 04/10 First-Year Food Security & Arrival Timing | 06 Emergency Nutrition, 08 Pantry Physics, 02/10 Climate Thresholds | 01/12 Arrival Protocol (arrival-window & Phase-0 planting), 01 Journey (departure timing) |
@@ -62,6 +64,8 @@ The minimum viable sequence for a newly arrived community:
 | 05 Health & Body | 03 Water, 04 Food, 09 Chemistry (antiseptics) | 08 The Mind (physical health enables mental health) |
 | 05/10 Deficiency Diseases & Heat Illness | 04 Food (dietary diversity), 09 Chemistry (ash-lye for nixtamalization) | 11 Next Gen (child development depends on nutrition) |
 | 05/11 Epidemic & Quarantine Protocol | 03 Sanitation, 08 Natural Burial, 09 Chemistry (soap) | 14a First Contact, 08a Integration of Newcomers (both governed under epidemic) |
+| 05/12 Hygiene, Laundry & Parasite Control | 09 Chemistry (soap), 03 Sanitation | 05/11 Epidemic (prevents the outbreaks); vector/rodent control |
+| 09/10 Lighting (Lamps & Candles) | 09/07 Chemistry (tallow/fat), 06/10 Beekeeping (wax) | 05/09 Circadian Health (dim warm night light), extended useful day |
 | 06 Ecological Harmony | 02 The Site, 04 Food & Soil | 07 Passive Defense (landscape design), 04 Food (silvopasture feedback) |
 
 ### Outcome 3: Perimeter Defense
