@@ -240,6 +240,7 @@ This document organizes all files in the repository by the **6 Expected Outcomes
 | `08_Ceramic_Synthesis.md` | Ceramic Synthesis and Pottery: Vessels of Civilization | **Atomic Topic** | **Alignment:** Outcome 5: Decadal and Generational Resilience |
 | `09_Cordage_and_Rope.md` | Advanced Cordage and Rope Making: The Ligaments of Infrastructure | **Atomic Topic** | **Alignment:** Outcome 5: Decadal and Generational Resilience |
 | `10_Lighting_Lamps_and_Candles.md` | Lighting: Lamps, Candles, and the Managed Flame | **Atomic Topic** | difficulty:     beginner to moderate |
+| `11_Pitch_Tar_and_Waterproofing.md` | Pitch, Tar, and Waterproofing: Keeping Water Where It Belongs | **Atomic Topic** | difficulty:     moderate |
 | `01_Rationale_and_Importance.md` | The Society: Rationale and Importance — Why Civilizations Collapse and How to Build Differently | **Module Theory & Structure** | **Alignment:** Outcome 5: Decadal and Generational Resilience |
 | `02_Recycling_Cliff.md` | The Recycling Cliff: Strategic Resource Management | **Atomic Topic** | **Alignment:** Outcome 5: Decadal and Generational Resilience |
 | `03_Consensus_Models.md` | Models of Consensus Governance: Decision-Making Without Hierarchy | **Atomic Topic** | **Alignment:** Outcome 5: Decadal and Generational Resilience |
@@ -267,6 +268,7 @@ This document organizes all files in the repository by the **6 Expected Outcomes
 | `01_Rationale_and_Importance.md` | The Flourishing Civilization: Culture as Survival Infrastructure | **Module Theory & Structure** | **Alignment:** Outcome 6: A Flourishing Civilization |
 | `02_Cultural_Technology_and_Rituals.md` | Cultural Technology: Rituals, Calendars, and the Architecture of Meaning | **Atomic Topic** | **Alignment:** Outcome 6: A Flourishing Civilization |
 | `03_The_Architecture_of_Play.md` | The Architecture of Play: Unstructured Joy as Civilizational Infrastructure | **Atomic Topic** | **Alignment:** Outcome 6: A Flourishing Civilization |
+| `04_Timekeeping_and_the_Reckoning_of_Time.md` | Timekeeping and the Reckoning of Time: Sundials, Water Clocks, and the Calendar | **Atomic Topic** | difficulty:     beginner to moderate |
 | `01_Rationale_and_Importance.md` | Inter-Settlement Diplomacy: From Isolation to Confederation | **Module Theory & Structure** | **Alignment:** Outcome 6: A Flourishing Civilization |
 | `02_First_Contact_Protocols.md` | First Contact Protocols: Structured Trust-Building Between Settlements | **Action Oriented** | **Alignment:** Outcome 6: A Flourishing Civilization |
 | `03_Trade_Agreements_and_Resource_Sharing.md` | Trade Agreements and Resource Sharing: Exchange Without Currency | **Atomic Topic** | **Alignment:** Outcome 6: A Flourishing Civilization |

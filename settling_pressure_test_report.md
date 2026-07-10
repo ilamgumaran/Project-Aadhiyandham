@@ -100,7 +100,7 @@ Each settling system was tested against: *What does it assume? What breaks the a
 
 ## 11. Open Ledger (settling phase, priority order)
 
-Urine-diversion nutrient recovery (opportunity, not safety) · early-warning "minutes to respond" quantification. *(House-fire safety, first-year food-margin/arrival-window, crop disease/pest response, animal-manure composting, zoonotic disease, and winter water-freeze — all closed since first publication.)*
+*(Effectively cleared. Closed since first publication: house-fire safety, first-year food-margin/arrival-window, crop disease/pest response, animal-manure composting, zoonotic disease, winter water-freeze, urine-diversion nutrient recovery, and the early-warning "minutes to respond" quantification — plus a wave of completeness modules: salt, fishing/aquaculture, small livestock, beekeeping, hygiene/parasite control, lighting, physical conditioning, pitch/waterproofing, and timekeeping.)*
 
 *A settling phase is where optimism meets biology. The manual's biology is strong; this revision's job was to make sure the reader *feels* the parts of it that kill silently — and knows which numbers to obey to the letter, and why. The rest is the oldest instruction in the manual: build the prototype, test it on your own ground, and write down what the ground teaches you.*
 

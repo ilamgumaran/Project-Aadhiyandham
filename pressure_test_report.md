@@ -132,7 +132,7 @@ Honesty items — places where the manual's language outruns its evidence. These
 
 **Also closed in this pass:** Atlas Access & Tenure doctrine (2.2, overview + template) · zoonotic disease depth · animal-manure composting standard · winter water-line freeze · E-Prime evidence caveat (8.2) · exogamy in Demographic Harmony (7.1) · annual skill-redundancy census (7.2) · inter-settlement archive copying cadence (7.4).
 
-**Open ledger (remaining, lower-severity):** per-site Access & Tenure data-entry across the 70 Atlas files · urine-diversion nutrient recovery (opportunity, not safety) · early-warning "minutes to respond" quantification · pre-departure fitness conditioning depth.
+**Open ledger (remaining, minor):** per-site Access & Tenure data-entry across the 70 Atlas files (a data-entry task, not a knowledge gap) · musical-instrument making (a flourishing nicety). *Everything else identified by the audits — including urine diversion, early-warning quantification, and pre-departure conditioning — has been written.*
 
 *An open ledger is not a weakness; a plan that lists what it doesn't yet know is the only kind that ever learns. Read this report the way the manual asks you to read everything: then go test it.*
 

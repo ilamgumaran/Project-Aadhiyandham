@@ -176,6 +176,7 @@
 - [I] `08_Ceramic_Synthesis.md`
 - [I] `09_Cordage_and_Rope.md`
 - [I] `10_Lighting_Lamps_and_Candles.md`
+- [I] `11_Pitch_Tar_and_Waterproofing.md`
 
 ### 10 The Society
 - [I] `01_Rationale_and_Importance.md`
@@ -212,6 +213,7 @@
 - [I] `01_Rationale_and_Importance.md`
 - [I] `02_Cultural_Technology_and_Rituals.md`
 - [I] `03_The_Architecture_of_Play.md`
+- [I] `04_Timekeeping_and_the_Reckoning_of_Time.md`
 
 ### 14a Inter-Settlement Diplomacy
 - [I] `01_Rationale_and_Importance.md`

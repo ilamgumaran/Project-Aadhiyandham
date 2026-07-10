@@ -66,6 +66,8 @@ The minimum viable sequence for a newly arrived community:
 | 05/11 Epidemic & Quarantine Protocol | 03 Sanitation, 08 Natural Burial, 09 Chemistry (soap) | 14a First Contact, 08a Integration of Newcomers (both governed under epidemic) |
 | 05/12 Hygiene, Laundry & Parasite Control | 09 Chemistry (soap), 03 Sanitation | 05/11 Epidemic (prevents the outbreaks); vector/rodent control |
 | 09/10 Lighting (Lamps & Candles) | 09/07 Chemistry (tallow/fat), 06/10 Beekeeping (wax) | 05/09 Circadian Health (dim warm night light), extended useful day |
+| 09/11 Pitch, Tar & Waterproofing | 09/07 Chemistry, 09/08 Ceramics | boats (01/10 Maritime), roofing/timber (06/04 Shelter), tarred rope (09/09 Cordage) |
+| 14/04 Timekeeping & Reckoning of Time | 14/01 Cultural Tech, 11/05 Mathematics | 14/02 Rituals (calendar), 01/04 Celestial Navigation (shared sky-reading), watch/planting scheduling |
 | 06 Ecological Harmony | 02 The Site, 04 Food & Soil | 07 Passive Defense (landscape design), 04 Food (silvopasture feedback) |
 
 ### Outcome 3: Perimeter Defense
