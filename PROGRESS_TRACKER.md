@@ -80,6 +80,7 @@
 - [I] `08_Refugia_Pantry_Physics.md`
 - [I] `09_Food_Toxins_and_Storage_Safety.md`
 - [I] `10_First_Year_Food_Security_and_Arrival_Timing.md`
+- [I] `11_Crop_Disease_and_Pest_Response.md`
 
 ### 05 Health and the Body
 - [I] `01_Rationale_and_Importance.md`
@@ -101,6 +102,7 @@
 - [I] `04_Shelter_and_Thermal_Grounding.md`
 - [I] `05_Psychological_Grounding.md`
 - [I] `06_Regenerative_Grazing_and_Silvopasture_Math.md`
+- [I] `07_Fire_Safety_and_the_Hearth.md`
 
 ---
 

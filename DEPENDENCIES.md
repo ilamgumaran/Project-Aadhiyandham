@@ -53,6 +53,8 @@ The minimum viable sequence for a newly arrived community:
 | 04 Food & Soil | 02 The Site (soil analysis), 03 Water | 05 Health (nutrition), 06 Ecological (crop-ecosystem integration) |
 | 04/09 Food Toxins & Storage Safety | 04 Long-Term Preservation, 08 Pantry Physics | 05 Health (poisoning prevention), 05/10 Deficiency Diseases |
 | 04/10 First-Year Food Security & Arrival Timing | 06 Emergency Nutrition, 08 Pantry Physics, 02/10 Climate Thresholds | 01/12 Arrival Protocol (arrival-window & Phase-0 planting), 01 Journey (departure timing) |
+| 04/11 Crop Disease & Pest Response | 03 Heirloom Seed (diversity/clean reserve), 02 Terra Preta, 06 Ecological Harmony | 04/10 First-Year Food Security (bridges on crop loss), 04/09 Food Toxins (field→storage toxins) |
+| 06/07 Fire Safety and the Hearth | 06/04 Shelter (CO/ventilation), 04/05 Thermal Mass Cooking | 07 Wildfire Defensible Space (shared ember/spacing logic) |
 | 05 Health & Body | 03 Water, 04 Food, 09 Chemistry (antiseptics) | 08 The Mind (physical health enables mental health) |
 | 05/10 Deficiency Diseases & Heat Illness | 04 Food (dietary diversity), 09 Chemistry (ash-lye for nixtamalization) | 11 Next Gen (child development depends on nutrition) |
 | 05/11 Epidemic & Quarantine Protocol | 03 Sanitation, 08 Natural Burial, 09 Chemistry (soap) | 14a First Contact, 08a Integration of Newcomers (both governed under epidemic) |

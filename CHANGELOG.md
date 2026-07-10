@@ -7,6 +7,8 @@ The format is based on [Keep a Changelog](https://keepachangelog.com/), and this
 ## [Unreleased]
 
 ### Added
+- **Fire Safety and the Hearth (06/07)** — closes the house-fire gap (distinct from wildfire and CO): hearth containment, two-exit egress drilled in the dark, water/sand + the fat-fire exception, seed/reserve stored away from flame
+- **Crop Disease & Pest Response (04/11)** — closes the field-failure gap: diversity as the master defense (the anti-monoculture rule), field-walking and roguing, the seed-line-outranks-harvest sacrifice decision
 - **Epidemic & Quarantine Protocol (05/11)** — closes the S3 pandemic gap: the inverted doctrine under contagion (quarantine every arrival, break-the-chain by route, barrier nursing, the sealing ladder watch→restrict→seal, safe reopening); a small hospital-less settlement is both more protected and more vulnerable
 - **Phase Zero — Before Departure (new subsection `01/00`):** closes the audit's three preparation gaps (group, skills, decision) that every later module silently assumed
   - Rationale (Phase Zero; the S0 reframe — this is a richer life, not a bunker)

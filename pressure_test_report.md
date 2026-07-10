@@ -130,7 +130,7 @@ Honesty items — places where the manual's language outruns its evidence. These
 
 **Closed since first publication:** journey contingencies (§4) · settling silent-poison gaps and the consequence/precision-tier layer (see [settling_pressure_test_report.md](settling_pressure_test_report.md)) · seasonal arrival-window table + first-year food-margin arithmetic (5.2–5.3) · micronutrient/deficiency module (5.4) · **Phase Zero: group formation (3.2), pre-departure skill curriculum (3.1), departure-trigger indicators (3.3)** · **pandemic/quarantine protocol (S3)**.
 
-**Open ledger (priority order):** house-fire egress & hearth safety · crop disease/pest response · Atlas "Access & Tenure" fields (2.2) · zoonotic disease depth · animal-manure composting standard · winter water-line freeze · E-Prime evidence caveat (8.2) · exogamy section in Demographic Harmony (7.1) · skill-redundancy census (7.2) · archive copying cadence (7.4).
+**Open ledger (priority order):** Atlas "Access & Tenure" fields (2.2) · zoonotic disease depth · animal-manure composting standard · winter water-line freeze · E-Prime evidence caveat (8.2) · exogamy section in Demographic Harmony (7.1) · skill-redundancy census (7.2) · archive copying cadence (7.4).
 
 *An open ledger is not a weakness; a plan that lists what it doesn't yet know is the only kind that ever learns. Read this report the way the manual asks you to read everything: then go test it.*
 

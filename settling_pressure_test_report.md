@@ -45,7 +45,7 @@ Each settling system was tested against: *What does it assume? What breaks the a
 | 4.2 | **Grain and food toxins that survive cooking.** Ergot (gangrene/convulsions/abortion), aflatoxin and storage molds (liver failure/cancer), and botulism-by-tasting were absent or scattered. They share the deadliest property in food safety: **they defeat both the senses and the cooking pot**, so the reasonable "waste not / cook it off" instinct kills. | Critical | **[CLOSED → [Food Toxins & Storage Safety](Outcome_2_Biological_Sovereignty/04_Food_and_Soil_Sovereignty/09_Food_Toxins_and_Storage_Safety.md)]** — the "can I fix this batch?" decision table; discard-batch discipline as law. |
 | 4.3 | **Nitrate in greens and held food** (infant methemoglobinemia; nitrite from warm-held cooked vegetables). | High | **[CLOSED → new food-toxin module §6]** |
 | 4.4 | First-crop failure (30–60% of plan, historically the norm) and the seasonal-arrival trap (autumn arrival without a larder = death) were flagged in the master audit; deserved one explicit place. | High | **[CLOSED → [First-Year Food Security & Arrival Timing](Outcome_2_Biological_Sovereignty/04_Food_and_Soil_Sovereignty/10_First_Year_Food_Security_and_Arrival_Timing.md)]** — the caloric-chain ledger, the 0.3–0.6 first-year yield discount, the arrival-window table by climate, and the overwinter-in-place default. |
-| 4.5 | Crop disease/pest response (blight, rust, quarantine of infected seed) not covered. | Medium | **[OPEN]** Logged. |
+| 4.5 | Crop disease/pest response (blight, rust, quarantine of infected seed) not covered. | Medium | **[CLOSED → [Crop Disease & Pest Response](Outcome_2_Biological_Sovereignty/04_Food_and_Soil_Sovereignty/11_Crop_Disease_and_Pest_Response.md)]** — diversity as master defense, roguing, the seed-line-outranks-harvest sacrifice decision. |
 
 ## 5. Health & the Body
 
@@ -64,7 +64,7 @@ Each settling system was tested against: *What does it assume? What breaks the a
 | # | Finding | Severity | Status |
 |:--|:---|:---|:---|
 | 6.1 | Carbon-monoxide risk is explicitly and well covered (1–2 h, odorless, "never seal all ventilation with a fire burning"). Structural failure modes (green-timber splitting, foundation damp, mortar freeze, lime blindness) are consequence-explicit — another benchmark section. | — | **Adequate — strong.** |
-| 6.2 | **House fire (as distinct from wildfire and CO)** — smoke inhalation, burn injury, thatch ignition from the indoor hearth, escape/egress — is under-treated; the modules cover the wildfire *outside* and the CO *inside* but not the structure *burning down* from its own fire. | Medium-High | **[OPEN]** Interim: hearth clearances, spark screens, an egress habit, and water/sand at the hearth belong in the shelter module. Logged and indexed. |
+| 6.2 | **House fire (as distinct from wildfire and CO)** — smoke inhalation, burn injury, thatch ignition from the indoor hearth, escape/egress. | Medium-High | **[CLOSED → [Fire Safety and the Hearth](Outcome_2_Biological_Sovereignty/06_Ecological_Harmony/07_Fire_Safety_and_the_Hearth.md)]** — hearth containment, two-exit egress drilled in the dark, water/sand + the fat-fire exception, seed/reserve stored away from flame. |
 | 6.3 | Winter freeze of water lines and stored water (dehydration risk, burst vessels) is not addressed in any defense/shelter module. | Medium | **[OPEN]** Logged. |
 | 6.4 | Consequence weighting on structural Craft-vs-Law: thatch pitch, crown spacing, mortar-freeze are correctly exact, but readers weren't told these are *Law* while air-dry times are *Craft*. | Medium | **[CLOSED → ledger §9–10 tier tags]** |
 
@@ -100,7 +100,7 @@ Each settling system was tested against: *What does it assume? What breaks the a
 
 ## 11. Open Ledger (settling phase, priority order)
 
-House-fire safety (egress, hearth clearance, spark screens) · first-year food-margin arithmetic + arrival-window table (from master) · crop disease/pest response · animal-manure composting standard · zoonotic disease depth · winter water-line freeze · urine-diversion nutrient recovery · early-warning "minutes to respond" consequence.
+Animal-manure composting standard · zoonotic disease depth · winter water-line freeze · urine-diversion nutrient recovery · early-warning "minutes to respond" consequence. *(House-fire safety, first-year food-margin/arrival-window, and crop disease/pest response — all closed since first publication.)*
 
 *A settling phase is where optimism meets biology. The manual's biology is strong; this revision's job was to make sure the reader *feels* the parts of it that kill silently — and knows which numbers to obey to the letter, and why. The rest is the oldest instruction in the manual: build the prototype, test it on your own ground, and write down what the ground teaches you.*
 

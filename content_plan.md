@@ -159,6 +159,7 @@ This document organizes all files in the repository by the **6 Expected Outcomes
 | `08_Refugia_Pantry_Physics.md` | Refugia Pantry Physics: Caloric Density, Storage Volumetrics, and Earth-Cooled Engineering | **Atomic Topic** | **Alignment:** Outcome 2: Absolute Biological Sovereignty |
 | `09_Food_Toxins_and_Storage_Safety.md` | Food Toxins and Storage Safety: When Food That Looks Fine Kills | **Atomic Topic** | difficulty:     moderate |
 | `10_First_Year_Food_Security_and_Arrival_Timing.md` | First-Year Food Security: Arrival Timing and the Hungry Gap | **Atomic Topic** | difficulty:     moderate |
+| `11_Crop_Disease_and_Pest_Response.md` | Crop Disease and Pest Response: Defending the Harvest in the Field | **Atomic Topic** | difficulty:     moderate |
 | `01_Rationale_and_Importance.md` | Rationale and Importance: Health Sovereignty Without Industrial Medicine | **Module Theory & Structure** | **Alignment:** Outcome 2: Absolute Biological Sovereignty |
 | `02_Endocrine_Regulation.md` | Endocrine Regulation: Circadian Biology and the Architecture of Sleep | **Atomic Topic** | **Alignment:** Outcome 2: Absolute Biological Sovereignty |
 | `03_Temperate_Antibiotic_Kit.md` | The Temperate Antibiotic Kit: Botanical Pharmacology for Infection Management | **Atomic Topic** | **Alignment:** Outcome 2: Absolute Biological Sovereignty |
@@ -176,6 +177,7 @@ This document organizes all files in the repository by the **6 Expected Outcomes
 | `04_Shelter_and_Thermal_Grounding.md` | Shelter and Thermal Grounding: Building with the Earth's Thermal Rhythms | **Atomic Topic** | **Alignment:** Outcome 2: Absolute Biological Sovereignty |
 | `05_Psychological_Grounding.md` | Psychological Grounding: The Return to Null — உளவியல் அடிப்படை: சூனியத்திற்குத் திரும்புதல் | **Atomic Topic** | **Alignment:** Outcome 2: Absolute Biological Sovereignty |
 | `06_Regenerative_Grazing_and_Silvopasture_Math.md` | Regenerative Grazing and Silvopasture Math | **Atomic Topic** | **Alignment:** Outcome 2: Absolute Biological Sovereignty |
+| `07_Fire_Safety_and_the_Hearth.md` | Fire Safety and the Hearth: The Fire You Invited Indoors | **Atomic Topic** | difficulty:     beginner |
 
 ## Outcome 3: Perimeter Sovereignty and Passive Defense
 
