@@ -44,7 +44,7 @@ Gaps identified in this audit that have since been closed are marked **[CLOSED �
 | 3.1 | **The skill cliff.** The manual's crafts each take months-to-years of practice; a reader who *reads* them owns none. Preparation-before-departure was assumed but nowhere enforced as a program. | High | **[CLOSED → [Pre-Departure Skill Curriculum](Outcome_1_Locating_Refugia/01_The_Journey/00_Before_Departure/03_Pre_Departure_Skill_Curriculum.md)]** — the critical few in triage order, the transfer test, two-deep coverage. |
 | 3.2 | **The group formation problem.** The plan assumed a founding party exists; assembling and testing one (trust, values, commitment, skill audit) is the true first task and was absent. The dominant historical cause of settlement failure. | High | **[CLOSED → [Group Formation](Outcome_1_Locating_Refugia/01_The_Journey/00_Before_Departure/02_Group_Formation.md)]** — the four foundations, the multi-year timeline, the base-rate honesty. |
 | 3.3 | **The departure trigger.** The hardest decision is *when to go*; normalcy bias guarantees "too late." No pre-committed framework existed. | Medium | **[CLOSED → [Departure-Trigger Indicators](Outcome_1_Locating_Refugia/01_The_Journey/00_Before_Departure/04_Departure_Trigger_Indicators.md)]** — the trigger ladder, the one-way-door test, the cost asymmetry. |
-| 3.4 | **Fitness and health baseline.** Journey math (even the corrected 8–15 km/day) assumes ambulatory, cardiovascularly functional travelers. No module addresses the reader who is not — beyond the elder playbook. | Medium | **[CLOSED → mostly]** Party Composition Playbooks (rehearsal walk, medication cliff, honest capacity assessment). |
+| 3.4 | **Fitness and health baseline.** Journey math (even the corrected 8–15 km/day) assumes ambulatory, cardiovascularly functional travelers. No module addressed the reader who is not — beyond the elder playbook. | Medium | **[CLOSED → [Physical Conditioning](Outcome_1_Locating_Refugia/01_The_Journey/00_Before_Departure/05_Physical_Conditioning.md)]** — progressive pre-departure conditioning, the overtraining trap, whole-party at each level; plus the Playbooks' rehearsal walk and capacity assessment. |
 
 ---
 
@@ -132,7 +132,7 @@ Honesty items — places where the manual's language outruns its evidence. These
 
 **Also closed in this pass:** Atlas Access & Tenure doctrine (2.2, overview + template) · zoonotic disease depth · animal-manure composting standard · winter water-line freeze · E-Prime evidence caveat (8.2) · exogamy in Demographic Harmony (7.1) · annual skill-redundancy census (7.2) · inter-settlement archive copying cadence (7.4).
 
-**Open ledger (remaining, lower-severity):** per-site Access & Tenure data-entry across the 70 Atlas files · urine-diversion nutrient recovery (opportunity, not safety) · early-warning "minutes to respond" quantification · pre-departure fitness conditioning depth.
+**Open ledger (remaining, minor):** per-site Access & Tenure data-entry across the 70 Atlas files (a data-entry task, not a knowledge gap) · musical-instrument making (a flourishing nicety). *Everything else identified by the audits — including urine diversion, early-warning quantification, and pre-departure conditioning — has been written.*
 
 *An open ledger is not a weakness; a plan that lists what it doesn't yet know is the only kind that ever learns. Read this report the way the manual asks you to read everything: then go test it.*
 

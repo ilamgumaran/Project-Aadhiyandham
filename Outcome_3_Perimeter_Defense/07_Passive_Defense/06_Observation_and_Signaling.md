@@ -307,6 +307,18 @@ For communication between allied settlements separated by distances of 10 to 80 
 
 ---
 
+### Warning Time: Turning Distance Into Minutes (the "so what" of detection)
+
+Detection range only matters as the *time* it buys, and a settlement should compute that time explicitly rather than assume it. **Warning time = detection distance ÷ approach speed − the delay before the alarm is raised and understood.** The arithmetic is sobering and worth doing before an incident, not during one:
+
+*   A person on foot approaches at roughly **5 km/h (~83 m/min)**; a fast/mounted approach can be several times that.
+*   So a threat detected at **1,000 m** buys about **12 minutes** on foot — *if* detection is instant and the alarm is instant. Detected at **300 m** (a near perimeter), it buys under **4 minutes**. A fast approach at 300 m may buy **one minute or less**.
+*   From that raw time subtract the real delays: the seconds-to-minutes for the sentry to *notice*, *decide it is a threat*, and *raise the alarm*, and for the settlement to *hear, understand, and begin to act*. A slow or ambiguous alarm can eat most of a near-perimeter warning.
+
+**The consequence of a thin margin, stated plainly:** if the effective warning time is shorter than the time the settlement needs to wake, gather dependents to the [rally point](../../Outcome_1_Locating_Refugia/01_The_Journey/12_Journey_Scenarios_and_Contingencies/05_Arrival_Protocol_First_72_Hours.md), and reach a defensible posture or [lockdown](../07a_Active_Threat_Response/04_Emergency_Lockdown_Procedures.md), then the perimeter has *detected* the threat without *defending* against it — people are caught in the open. This is why detection distance (pushing the observation ring outward) and alarm speed (an unambiguous, instantly-understood signal) are not refinements but the whole point: **the settlement must know its own required response time and ensure its warning time reliably exceeds it.** Measure your response time in a drill; if it is longer than your near-perimeter warning, you need earlier detection, a faster alarm, or a pre-positioned response — not a bigger wall.
+
+---
+
 ## Common Failure Modes
 
 1. **Observation Fatigue.** The sentry stares at the same view for hours, attention drifts, and an approaching figure goes unnoticed. This is not a failure of will — it is a neurological certainty. The brain habituates to static visual input and ceases to process it actively. Prevention: enforce the 4-hour maximum shift (2 hours at night) without exception. Train active scanning technique: systematically scan sectors left to right, then re-scan, rather than passive staring. Alternate between naked-eye scanning and monocular scanning every 15 minutes.

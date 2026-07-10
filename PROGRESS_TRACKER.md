@@ -17,6 +17,7 @@
 - [I] `00_Before_Departure/02_Group_Formation.md`
 - [I] `00_Before_Departure/03_Pre_Departure_Skill_Curriculum.md`
 - [I] `00_Before_Departure/04_Departure_Trigger_Indicators.md`
+- [I] `00_Before_Departure/05_Physical_Conditioning.md`
 - [I] `01_Rationale_and_Importance.md`
 - [I] `02_Orienting_and_Positioning.md`
 - [I] `03_Direction_and_Orientation_Basics.md`
@@ -68,6 +69,7 @@
 - [I] `05_Humanure_Integration.md`
 - [I] `06_Thermophilic_Sanitation_Math.md`
 - [I] `07_Water_Contaminant_Testing_and_Remediation.md`
+- [I] `08_Urine_Diversion_and_Nutrient_Recovery.md`
 
 ### 04 Food and Soil Sovereignty
 - [I] `01_Rationale_and_Importance.md`
@@ -81,6 +83,7 @@
 - [I] `09_Food_Toxins_and_Storage_Safety.md`
 - [I] `10_First_Year_Food_Security_and_Arrival_Timing.md`
 - [I] `11_Crop_Disease_and_Pest_Response.md`
+- [I] `12_Salt_Production_and_Sourcing.md`
 
 ### 05 Health and the Body
 - [I] `01_Rationale_and_Importance.md`
@@ -94,6 +97,7 @@
 - [I] `09_Spectral_Management_and_Circadian_Health.md`
 - [I] `10_Deficiency_Diseases_and_Heat_Illness.md`
 - [I] `11_Epidemic_and_Quarantine_Protocol.md`
+- [I] `12_Hygiene_Laundry_and_Parasite_Control.md`
 
 ### 06 Ecological Harmony
 - [I] `01_Rationale_and_Importance.md`
@@ -103,6 +107,9 @@
 - [I] `05_Psychological_Grounding.md`
 - [I] `06_Regenerative_Grazing_and_Silvopasture_Math.md`
 - [I] `07_Fire_Safety_and_the_Hearth.md`
+- [I] `08_Fishing_and_Aquaculture.md`
+- [I] `09_Small_Livestock_Poultry_and_Rabbits.md`
+- [I] `10_Beekeeping.md`
 
 ---
 
@@ -168,6 +175,8 @@
 - [I] `07_Foundational_Chemistry.md`
 - [I] `08_Ceramic_Synthesis.md`
 - [I] `09_Cordage_and_Rope.md`
+- [I] `10_Lighting_Lamps_and_Candles.md`
+- [I] `11_Pitch_Tar_and_Waterproofing.md`
 
 ### 10 The Society
 - [I] `01_Rationale_and_Importance.md`
@@ -204,6 +213,7 @@
 - [I] `01_Rationale_and_Importance.md`
 - [I] `02_Cultural_Technology_and_Rituals.md`
 - [I] `03_The_Architecture_of_Play.md`
+- [I] `04_Timekeeping_and_the_Reckoning_of_Time.md`
 
 ### 14a Inter-Settlement Diplomacy
 - [I] `01_Rationale_and_Importance.md`
